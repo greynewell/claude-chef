@@ -1,0 +1,66 @@
+{
+  "contentHash": "829f2cace7f9317d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup fresh spinach, packed",
+        "searchTerm": "fresh spinach"
+      },
+      {
+        "ingredient": "1 frozen banana",
+        "searchTerm": "bananas frozen"
+      },
+      {
+        "ingredient": "1/2 avocado",
+        "searchTerm": "fresh avocado"
+      },
+      {
+        "ingredient": "1 scoop vanilla protein powder (30g protein)",
+        "searchTerm": "vanilla protein powder"
+      },
+      {
+        "ingredient": "1 tbsp almond butter",
+        "searchTerm": "almond butter"
+      },
+      {
+        "ingredient": "1 cup unsweetened almond milk",
+        "searchTerm": "unsweetened almond milk"
+      },
+      {
+        "ingredient": "1/2 cup ice",
+        "searchTerm": "ice cubes"
+      },
+      {
+        "ingredient": "1 tsp honey (optional)",
+        "searchTerm": "raw honey"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "high-powered blender"
+      },
+      {
+        "name": "Measuring cups",
+        "searchTerm": "liquid measuring cups set"
+      },
+      {
+        "name": "Measuring spoons",
+        "searchTerm": "measuring spoons set"
+      },
+      {
+        "name": "Serving glass",
+        "searchTerm": "smoothie glasses"
+      }
+    ],
+    "cookingTips": [
+      "Freeze bananas in advance by slicing and storing in freezer bags for convenient use and naturally creamy texture without excess ice",
+      "Add liquid first to prevent protein powder and dry ingredients from clumping on the blender blades",
+      "Blend spinach separately before adding other ingredients to ensure leaves break down completely and distribute evenly",
+      "Use truly frozen banana rather than fresh to achieve a thick, creamy consistency without diluting with excess water",
+      "Serve immediately after blending to maintain nutrient integrity and prevent separation of ingredients"
+    ],
+    "coachingPrompt": "I'm making a Terminal Green Smoothie and need step-by-step guidance. The recipe has 8 ingredients including fresh spinach, frozen banana, avocado, vanilla protein powder, almond butter, unsweetened almond milk, ice, and optional honey. Key techniques include: adding almond milk first to prevent blade jamming, blending spinach on low for 10 seconds to break down leaves, then adding banana/avocado/protein/almond butter and blending on high for 45 seconds until completely smooth with no chunks, then adding ice for 15 more seconds. The total time should be under 5 minutes. Please walk me through each step with timing, explain why each step matters for the final result, and provide troubleshooting advice if the texture isn't right or ingredients aren't blending properly."
+  },
+  "timestamp": "2026-02-01T20:18:15.523Z"
+}
