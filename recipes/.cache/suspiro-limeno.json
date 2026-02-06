@@ -1,0 +1,63 @@
+{
+  "contentHash": "17ebd7306cd51955",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (14 ounce) can sweetened condensed milk",
+        "searchTerm": "sweetened condensed milk",
+        "normalizedName": "Sweetened Condensed Milk"
+      },
+      {
+        "ingredient": "1 (12 fluid ounce) can evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      },
+      {
+        "ingredient": "1 tablespoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 beaten egg yolks",
+        "searchTerm": "egg yolks",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "2 beaten egg white",
+        "searchTerm": "egg whites",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "1 cup confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "¼ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Use room temperature eggs for better mixing",
+      "Don't overbake to prevent curdling of condensed milk layer",
+      "Chill thoroughly before serving for best texture"
+    ],
+    "coachingPrompt": "How does temperature affect the texture of this delicate dessert?"
+  },
+  "timestamp": "2026-02-06T19:55:06.203Z"
+}

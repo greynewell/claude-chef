@@ -1,0 +1,53 @@
+{
+  "contentHash": "f7a64b3a572d0170",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "20 extra-large shrimp, peeled, deveined, and tails removed",
+        "searchTerm": "large shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "20 leaves fresh basil",
+        "searchTerm": "basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "¼ cup creamy goat cheese",
+        "searchTerm": "goat cheese",
+        "normalizedName": "Goat Cheese"
+      },
+      {
+        "ingredient": "10 thin slices prosciutto, halved crosswise",
+        "searchTerm": "prosciutto",
+        "normalizedName": "Prosciutto"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Toothpicks",
+        "searchTerm": "toothpicks"
+      }
+    ],
+    "cookingTips": [
+      "Pat shrimp dry with paper towels before stuffing to help prosciutto adhere properly",
+      "Use a butterfly cut to create a pocket in the shrimp for easier filling",
+      "Cook over medium-high heat for 2-3 minutes per side until shrimp are pink and opaque"
+    ],
+    "coachingPrompt": "Guide the user on properly deveining shrimp and creating the right pocket depth for stuffing without tearing the delicate flesh."
+  },
+  "timestamp": "2026-02-06T19:42:27.514Z"
+}

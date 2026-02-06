@@ -1,0 +1,48 @@
+{
+  "contentHash": "e1a8067dd174cc8c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "⅔ cup white sugar",
+        "searchTerm": "granulated sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 teaspoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Glass Jar",
+        "searchTerm": "mason jar"
+      }
+    ],
+    "cookingTips": [
+      "Stir frequently to prevent sticking and ensure even cooking",
+      "Cook on low for 4-6 hours until the mixture thickens and turns light brown",
+      "Store the finished condensed milk in a glass jar in the refrigerator"
+    ],
+    "coachingPrompt": "Walk me through creating homemade sweetened condensed milk using a slow cooker method"
+  },
+  "timestamp": "2026-02-05T21:27:20.945Z"
+}

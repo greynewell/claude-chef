@@ -1,0 +1,63 @@
+{
+  "contentHash": "6381634a82284028",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups whole milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "½ cup condensed milk",
+        "searchTerm": "condensed milk",
+        "normalizedName": "Condensed Milk"
+      },
+      {
+        "ingredient": "¼ cup dry milk powder",
+        "searchTerm": "dry milk powder",
+        "normalizedName": "Dry Milk Powder"
+      },
+      {
+        "ingredient": "2 teaspoons white sugar, or to taste (Optional)",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon ground cardamom",
+        "searchTerm": "cardamom",
+        "normalizedName": "Cardamom"
+      },
+      {
+        "ingredient": "1 pinch saffron threads",
+        "searchTerm": "saffron thread",
+        "normalizedName": "Saffron Thread"
+      },
+      {
+        "ingredient": "¼ cup chopped pistachio nuts",
+        "searchTerm": "pistachio",
+        "normalizedName": "Pistachio Nut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Kulfi molds or popsicle molds",
+        "searchTerm": "kulfi molds"
+      },
+      {
+        "name": "Freezer",
+        "searchTerm": "freezer"
+      }
+    ],
+    "cookingTips": [
+      "Simmer milk gently to reduce and concentrate flavors without scorching",
+      "Steep saffron in warm milk to release color and flavor",
+      "Let mixture cool completely before pouring into molds"
+    ],
+    "coachingPrompt": "This is an Indian frozen dessert. Have you worked with saffron before, or would you like tips?"
+  },
+  "timestamp": "2026-02-06T05:50:30.641Z"
+}

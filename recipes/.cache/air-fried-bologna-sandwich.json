@@ -1,0 +1,63 @@
+{
+  "contentHash": "702116df05977f74",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices white sandwich bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "1 slice Bologna, beef",
+        "searchTerm": "bologna",
+        "normalizedName": "Bologna"
+      },
+      {
+        "ingredient": "1 teaspoon mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "1 slice Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 slice tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 leaf lettuce",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "serrated knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Assemble sandwich with spreads and cold ingredients before air frying",
+      "Air fry at 350°F for 5-7 minutes until bread is golden and cheese melts",
+      "Use high-quality bologna for better flavor in this simple sandwich"
+    ],
+    "coachingPrompt": "Guide me through making a crispy air-fried bologna sandwich."
+  },
+  "timestamp": "2026-02-05T21:36:23.118Z"
+}

@@ -1,0 +1,44 @@
+{
+  "contentHash": "54cd699c08fc1fae",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds fresh green beans, trimmed",
+        "searchTerm": "green beans",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil, or as needed",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "½ teaspoon freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "sheet pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Pat green beans dry before roasting for better browning",
+      "Spread in single layer and resist stirring for first 10 minutes to develop char",
+      "Toss halfway through for even cooking"
+    ],
+    "coachingPrompt": "Help me achieve crispy-edged, tender green beans with minimal ingredients"
+  },
+  "timestamp": "2026-02-06T16:24:54.006Z"
+}

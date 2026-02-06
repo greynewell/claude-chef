@@ -1,0 +1,58 @@
+{
+  "contentHash": "6a06aa277939d426",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅓ cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "1 cup milk, or as needed",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Mix just until dough comes together to avoid tough bread",
+      "Form dough into a round loaf and cut a cross on top before baking",
+      "Do not overmix or the bread will be dense and heavy"
+    ],
+    "coachingPrompt": "How much milk should I add to get the right dough consistency for soda bread?"
+  },
+  "timestamp": "2026-02-05T23:33:33.023Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "7f293fe0676acc6f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons Worcestershire sauce",
+        "searchTerm": "worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "5 whole cloves",
+        "searchTerm": "cloves",
+        "normalizedName": "Clove"
+      },
+      {
+        "ingredient": "2 slices ham steak",
+        "searchTerm": "ham steak",
+        "normalizedName": "Ham Steak"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Score ham surface before baking to help glaze penetrate",
+      "Baste ham with sauce during baking for enhanced flavor"
+    ],
+    "coachingPrompt": "Explain how to achieve caramelized exterior while keeping ham moist through proper basting technique."
+  },
+  "timestamp": "2026-02-06T05:32:24.147Z"
+}

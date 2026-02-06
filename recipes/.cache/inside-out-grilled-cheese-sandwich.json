@@ -1,0 +1,43 @@
+{
+  "contentHash": "ceaa78d2f86e6ae8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter, divided",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "½ cup shredded extra sharp Cheddar cheese, divided",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet or Griddle",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Cheese Grater",
+        "searchTerm": "cheese grater"
+      }
+    ],
+    "cookingTips": [
+      "Cook cheese directly on the hot skillet to create a crispy exterior before adding bread",
+      "Keep heat medium to medium-low to melt cheese without burning the bread",
+      "Use freshly shredded cheese for better melting compared to pre-shredded varieties"
+    ],
+    "coachingPrompt": "The 'inside-out' technique creates a crispy cheese crust. Are you familiar with this method, or would you like step-by-step guidance?"
+  },
+  "timestamp": "2026-02-06T09:44:01.984Z"
+}

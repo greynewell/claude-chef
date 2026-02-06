@@ -1,0 +1,48 @@
+{
+  "contentHash": "cbcb5c48dd69dbea",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 ounces Havarti cheese with dill",
+        "searchTerm": "Havarti cheese",
+        "normalizedName": "Havarti Cheese"
+      },
+      {
+        "ingredient": "1 ½ tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "8 slices whole-grain bread",
+        "searchTerm": "whole-grain bread",
+        "normalizedName": "Whole-Grain Bread"
+      },
+      {
+        "ingredient": "4 teaspoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "4 teaspoons spicy brown mustard",
+        "searchTerm": "brown mustard",
+        "normalizedName": "Brown Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet or griddle",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Spread mayo and mustard on bread before cooking for better flavor distribution",
+      "Use medium-low heat to melt cheese completely before bread burns"
+    ],
+    "coachingPrompt": "Do you prefer your grilled cheese with crispy golden bread or softer exterior?"
+  },
+  "timestamp": "2026-02-06T21:50:10.870Z"
+}

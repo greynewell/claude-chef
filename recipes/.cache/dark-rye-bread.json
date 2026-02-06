@@ -1,0 +1,78 @@
+{
+  "contentHash": "9ec860969352df04",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ⅛ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 tablespoons molasses",
+        "searchTerm": "molasses",
+        "normalizedName": "Molasses"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 ½ cups rye flour",
+        "searchTerm": "rye flour",
+        "normalizedName": "Rye Flour"
+      },
+      {
+        "ingredient": "3 tablespoons packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "¾ teaspoon caraway seed",
+        "searchTerm": "caraway seeds",
+        "normalizedName": "Caraway Seed"
+      },
+      {
+        "ingredient": "2 teaspoons bread machine yeast",
+        "searchTerm": "bread machine yeast",
+        "normalizedName": "Bread Machine Yeast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bread machine",
+        "searchTerm": "bread machine"
+      },
+      {
+        "name": "loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "kitchen scale",
+        "searchTerm": "kitchen scale"
+      }
+    ],
+    "cookingTips": [
+      "Rye flour produces denser, moister bread than all-purpose flour",
+      "Cocoa powder adds depth without sweet flavor",
+      "Caraway seeds are traditional in rye bread but can be omitted if disliked"
+    ],
+    "coachingPrompt": "How does the ratio of rye to all-purpose flour affect the bread's density and flavor?"
+  },
+  "timestamp": "2026-02-06T05:00:55.454Z"
+}

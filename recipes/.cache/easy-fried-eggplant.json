@@ -1,0 +1,48 @@
+{
+  "contentHash": "44bab8fd4a31ba09",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons canola oil",
+        "searchTerm": "canola oil",
+        "normalizedName": "Canola Oil"
+      },
+      {
+        "ingredient": "1 large eggplant, peeled and sliced",
+        "searchTerm": "eggplant",
+        "normalizedName": "Eggplant"
+      },
+      {
+        "ingredient": "3 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 cups dry bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "shallow bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Peel eggplant in strips to reduce bitterness",
+      "Coat completely in egg before breadcrumbs for crispness",
+      "Fry at medium heat to prevent burning outside while raw inside"
+    ],
+    "coachingPrompt": "Guide the user on achieving golden-brown eggplant slices without sogginess by managing oil temperature and coating technique."
+  },
+  "timestamp": "2026-02-06T05:45:16.326Z"
+}

@@ -1,0 +1,68 @@
+{
+  "contentHash": "510c6ad013328088",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 lime, juiced",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "1 (12 fluid ounce) can light colored beer",
+        "searchTerm": "light beer",
+        "normalizedName": "Light Beer"
+      },
+      {
+        "ingredient": "1 teaspoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "Salt and pepper",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "Salt and pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Marinade bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Marinate chicken for at least 2 hours for maximum flavor penetration",
+      "Use a light beer like a pilsner that won't overpower the citrus notes",
+      "Grill to 165°F internal temperature for safety and juiciness"
+    ],
+    "coachingPrompt": "How long should I marinate the chicken and what grill temperature works best?"
+  },
+  "timestamp": "2026-02-05T23:50:19.927Z"
+}

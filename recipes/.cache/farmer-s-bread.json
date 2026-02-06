@@ -1,0 +1,52 @@
+{
+  "contentHash": "7a6398831b6a9db1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (.25 ounce) packages active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "2 cups warm water (110 degrees F/45 degrees C)",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "6 ½ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅓ cup butter, chilled and diced",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Bread Pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "Kitchen Scale",
+        "searchTerm": "kitchen scale"
+      }
+    ],
+    "cookingTips": [
+      "Ensure water temperature is precisely 110°F for optimal yeast activation",
+      "Allow bread to rise in a warm, draft-free location until doubled in size"
+    ],
+    "coachingPrompt": "What are the signs of proper fermentation and how do you know when the dough has risen enough?"
+  },
+  "timestamp": "2026-02-06T06:30:17.213Z"
+}

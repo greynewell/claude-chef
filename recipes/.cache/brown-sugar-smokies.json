@@ -1,0 +1,38 @@
+{
+  "contentHash": "b634123dff7314ad",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 (16 ounce) package little smokie sausages",
+        "searchTerm": "smokie sausages",
+        "normalizedName": "Smokie Sausage"
+      },
+      {
+        "ingredient": "1 cup brown sugar, or to taste",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Wrap each smokie with bacon before coating with brown sugar",
+      "Bake on a lined sheet for easy cleanup"
+    ],
+    "coachingPrompt": "Why are smokies wrapped in bacon before adding the brown sugar coating?"
+  },
+  "timestamp": "2026-02-06T00:49:42.991Z"
+}

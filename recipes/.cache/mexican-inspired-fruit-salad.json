@@ -1,0 +1,58 @@
+{
+  "contentHash": "9ef0048419ee7623",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 fresh pineapple - peeled, cored, and chopped",
+        "searchTerm": "pineapple",
+        "normalizedName": "Pineapple"
+      },
+      {
+        "ingredient": "2 cups sliced strawberries",
+        "searchTerm": "strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "½ large cucumber, peeled and diced",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "1 mango, peeled and diced",
+        "searchTerm": "mango",
+        "normalizedName": "Mango"
+      },
+      {
+        "ingredient": "1 lemon, juiced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "½ teaspoon chile-lime seasoning (such as Tajin®), or more to taste",
+        "searchTerm": "chile-lime seasoning",
+        "normalizedName": "Chile-Lime Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Large bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Chef's knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Prepare fruit just before serving to maintain freshness and color",
+      "Toss with lemon juice immediately to prevent browning",
+      "Sprinkle chile-lime seasoning just before serving for brightness"
+    ],
+    "coachingPrompt": "Show the user how to prepare fresh fruit, combine in a bowl, dress with fresh lemon juice, and finish with chile-lime seasoning for a spicy-sweet salad."
+  },
+  "timestamp": "2026-02-06T12:19:44.978Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "5f79c801108450b9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 bunch fresh asparagus",
+        "searchTerm": "fresh asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "2 tablespoons extra virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "kosher salt to taste",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "½ cup coarsely chopped walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "½ cup crumbled Gorgonzola cheese",
+        "searchTerm": "Gorgonzola cheese",
+        "normalizedName": "Gorgonzola Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Small Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "kitchen tongs"
+      }
+    ],
+    "cookingTips": [
+      "Toast walnuts separately to enhance their flavor before adding to dish",
+      "Trim asparagus to uniform length for even roasting",
+      "Add cheese after roasting to prevent melting and separation"
+    ],
+    "coachingPrompt": "Guide the user on roasting asparagus until tender-crisp and timing the addition of cheese for best texture and flavor."
+  },
+  "timestamp": "2026-02-05T22:32:34.575Z"
+}

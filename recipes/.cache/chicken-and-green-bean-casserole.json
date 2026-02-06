@@ -1,0 +1,62 @@
+{
+  "contentHash": "bd17469169c79fb2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 (14.5 ounce) cans French-style green beans, drained",
+        "searchTerm": "green beans",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "1 (10.5 ounce) can condensed cream of chicken soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream of Chicken Soup"
+      },
+      {
+        "ingredient": "¾ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "casserole dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook chicken until just done to prevent drying out in the oven",
+      "Mix sauce ingredients before combining with other components for even distribution"
+    ],
+    "coachingPrompt": "Guide the user through cooking chicken properly and assembling a smooth, creamy casserole."
+  },
+  "timestamp": "2026-02-06T02:23:22.982Z"
+}

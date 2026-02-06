@@ -1,0 +1,48 @@
+{
+  "contentHash": "4e3bd68bb0cf016c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ chipotle chile in adobo sauce",
+        "searchTerm": "chipotle chile",
+        "normalizedName": "Chipotle Chile"
+      },
+      {
+        "ingredient": "1 teaspoon adobo sauce",
+        "searchTerm": "adobo sauce",
+        "normalizedName": "Adobo Sauce"
+      },
+      {
+        "ingredient": "½ fresh jalapeno pepper, seeded",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 cup raspberry preserves",
+        "searchTerm": "raspberry preserves",
+        "normalizedName": "Raspberry Preserve"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Fine mesh strainer",
+        "searchTerm": "fine mesh strainer"
+      }
+    ],
+    "cookingTips": [
+      "Seed jalapeno peppers to control heat level, or leave seeds for extra spice",
+      "Blend ingredients until smooth for uniform color and heat distribution",
+      "Warm sauce gently before serving to enhance flavors"
+    ],
+    "coachingPrompt": "How can you balance heat and sweetness in a chili-raspberry sauce?"
+  },
+  "timestamp": "2026-02-06T15:56:22.478Z"
+}

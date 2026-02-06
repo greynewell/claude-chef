@@ -1,0 +1,43 @@
+{
+  "contentHash": "4f9646f5987c98b6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 bagel, split and toasted",
+        "searchTerm": "bagel",
+        "normalizedName": "Bagel"
+      },
+      {
+        "ingredient": "4 slices sliced pepperoni",
+        "searchTerm": "pepperoni",
+        "normalizedName": "Pepperoni"
+      }
+    ],
+    "gear": [
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "plate",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Toast bagel until crispy for textural contrast with creamy peanut butter",
+      "Warm pepperoni slightly before assembling for melted flavor",
+      "Serve immediately while bagel is still warm"
+    ],
+    "coachingPrompt": "This unusual sweet-salty-savory combo works because pepperoni adds umami depth to peanut butter's richness."
+  },
+  "timestamp": "2026-02-06T13:28:53.149Z"
+}

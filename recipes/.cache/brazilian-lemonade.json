@@ -1,0 +1,52 @@
+{
+  "contentHash": "7128c1b4b4fc150f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 limes",
+        "searchTerm": "limes",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "½ cup sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 tablespoons sweetened condensed milk",
+        "searchTerm": "condensed milk",
+        "normalizedName": "Sweetened Condensed Milk"
+      },
+      {
+        "ingredient": "3 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "ice",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Pitcher",
+        "searchTerm": "pitcher"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Blend the lime whole with rind for authentic flavor, but avoid over-blending to prevent bitterness",
+      "Strain through a fine mesh to remove pulp for smoother texture"
+    ],
+    "coachingPrompt": "Are you familiar with blending whole limes for this drink? The key is timing - how long do you typically blend?"
+  },
+  "timestamp": "2026-02-06T00:34:57.321Z"
+}

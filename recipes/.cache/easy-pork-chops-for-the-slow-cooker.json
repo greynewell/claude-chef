@@ -1,0 +1,73 @@
+{
+  "contentHash": "14f4917579aa37c3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 large onion, sliced into rings",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "10 center-cut boneless pork chops, trimmed",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can cream of onion soup",
+        "searchTerm": "cream of onion soup",
+        "normalizedName": "Cream of Onion Soup"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "5 fluid ounces water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (1 ounce) package ranch dressing mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Ranch Dressing Mix"
+      },
+      {
+        "ingredient": "1 (1 ounce) package dry onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Layer onions on the bottom of slow cooker to prevent pork from sticking",
+      "Cook on low for 6-8 hours or high for 3-4 hours for tender results",
+      "Don't lift the lid frequently as it increases cooking time"
+    ],
+    "coachingPrompt": "Guide the user through slow cooker best practices and explain how long cooking times ensure tender, flavorful pork."
+  },
+  "timestamp": "2026-02-06T05:56:03.391Z"
+}

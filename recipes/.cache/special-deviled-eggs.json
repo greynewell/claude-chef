@@ -1,0 +1,73 @@
+{
+  "contentHash": "044efb9a4b8e0343",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 tablespoons finely chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 tablespoons sweet pickle relish",
+        "searchTerm": "pickle relish",
+        "normalizedName": "Pickle Relish"
+      },
+      {
+        "ingredient": "1 tablespoon prepared horseradish",
+        "searchTerm": "horseradish",
+        "normalizedName": "Horseradish"
+      },
+      {
+        "ingredient": "1 tablespoon prepared mustard",
+        "searchTerm": "mustard",
+        "normalizedName": "Mustard"
+      },
+      {
+        "ingredient": "paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "cooking pot"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "piping bag",
+        "searchTerm": "pastry piping bag"
+      }
+    ],
+    "cookingTips": [
+      "Boil eggs for exactly 10-12 minutes to achieve creamy yolks",
+      "Chill hard-boiled eggs before peeling for easier removal of shells",
+      "Use a piping bag for elegant presentation of the filling"
+    ],
+    "coachingPrompt": "Guide the user through boiling eggs to the perfect doneness and help them balance the flavors of the mayo-based filling."
+  },
+  "timestamp": "2026-02-06T18:51:18.163Z"
+}

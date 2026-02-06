@@ -1,0 +1,53 @@
+{
+  "contentHash": "bc808c1c502b3ef4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "3 cucumbers, peeled and thinly sliced",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "1 (12 ounce) can evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      },
+      {
+        "ingredient": "2 tablespoons white vinegar",
+        "searchTerm": "white vinegar",
+        "normalizedName": "White Vinegar"
+      },
+      {
+        "ingredient": "ground black pepper, to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Vegetable peeler",
+        "searchTerm": "peeler"
+      },
+      {
+        "name": "Mixing spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Salt cucumbers lightly before cooking to draw out excess moisture",
+      "Slice cucumbers uniformly for even cooking",
+      "Keep heat medium to prevent curdling the evaporated milk"
+    ],
+    "coachingPrompt": "I want to make creamed cucumbers. Should I pre-salt the cucumbers and how long should they cook?"
+  },
+  "timestamp": "2026-02-06T04:19:52.024Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "4458ba6835c5c393",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "½ cup bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "3 zucchinis",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Shallow Dishes",
+        "searchTerm": "shallow dishes"
+      }
+    ],
+    "cookingTips": [
+      "Pat zucchini strips dry before breading to help coating adhere properly",
+      "Set up a breading station with beaten eggs and breadcrumb mixture for efficiency",
+      "Spray baking sheet and fries with cooking spray for crispier exterior"
+    ],
+    "coachingPrompt": "How would you ensure the breadcrumb coating sticks evenly to moist zucchini?"
+  },
+  "timestamp": "2026-02-05T23:16:14.268Z"
+}

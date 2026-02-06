@@ -1,0 +1,53 @@
+{
+  "contentHash": "44b9287c78691473",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "butter spread",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "boneless, skinless chicken breasts",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "Alfredo sauce",
+        "searchTerm": "Alfredo sauce",
+        "normalizedName": "Alfredo Sauce"
+      },
+      {
+        "ingredient": "frozen broccoli florets",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "fettuccine",
+        "searchTerm": "fettuccine",
+        "normalizedName": "Fettuccine"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet for chicken",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Pot for pasta",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Cut chicken breasts into strips so they cook quickly and evenly throughout",
+      "Cook frozen broccoli briefly or use fresh to maintain some texture rather than overcooking",
+      "Toss hot pasta with sauce and chicken off heat; add broccoli last to warm through without wilting"
+    ],
+    "coachingPrompt": "Help the cook understand how to balance creamy sauce with vegetables and protein without making the dish heavy."
+  },
+  "timestamp": "2026-02-06T02:26:30.640Z"
+}

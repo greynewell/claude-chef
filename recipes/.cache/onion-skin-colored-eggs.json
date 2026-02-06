@@ -1,0 +1,38 @@
+{
+  "contentHash": "3bac2457beea4820",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 yellow onions",
+        "searchTerm": "yellow onion",
+        "normalizedName": "Yellow Onion"
+      },
+      {
+        "ingredient": "5 red onions",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "12 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "strainer",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Save onion skins before peeling - they contain natural dyes for coloring",
+      "Simmer eggs gently to prevent cracks during cooking"
+    ],
+    "coachingPrompt": "Are you interested in natural food coloring? I can explain how onion skins create beautiful egg patterns."
+  },
+  "timestamp": "2026-02-06T13:41:08.020Z"
+}

@@ -1,0 +1,62 @@
+{
+  "contentHash": "cc1a0a27d4400f5c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 quarts popped popcorn",
+        "searchTerm": "popped popcorn",
+        "normalizedName": "Popped Popcorn"
+      },
+      {
+        "ingredient": "1 cup peanuts (Optional)",
+        "searchTerm": "peanuts",
+        "normalizedName": "Peanut"
+      },
+      {
+        "ingredient": "¾ cup sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ cup corn syrup",
+        "searchTerm": "corn syrup",
+        "normalizedName": "Corn Syrup"
+      },
+      {
+        "ingredient": "¼ cup cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "candy thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Combine cocoa powder with other liquid ingredients and whisk well to prevent lumps in the syrup",
+      "Pour hot chocolate syrup over popcorn slowly while stirring to ensure even coating"
+    ],
+    "coachingPrompt": "Help me make a homemade chocolate syrup coating for popcorn using sugar, butter, and cocoa."
+  },
+  "timestamp": "2026-02-06T03:10:42.727Z"
+}

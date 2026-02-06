@@ -1,0 +1,48 @@
+{
+  "contentHash": "0fbbbabc836eab89",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 large russet potatoes, scrubbed",
+        "searchTerm": "russet potatoes",
+        "normalizedName": "Russet Potato"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill basket",
+        "searchTerm": "grill basket"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Slice potatoes lengthwise to maximize grilling surface and reduce cooking time",
+      "Brush oil generously to prevent sticking and promote even browning",
+      "Grill over medium heat for 8-10 minutes per side until golden and tender"
+    ],
+    "coachingPrompt": "Explain how to properly prepare potato slices and monitor grill heat for perfect caramelization."
+  },
+  "timestamp": "2026-02-06T15:37:42.273Z"
+}

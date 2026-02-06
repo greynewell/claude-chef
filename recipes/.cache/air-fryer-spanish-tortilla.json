@@ -1,0 +1,68 @@
+{
+  "contentHash": "c9f75e46b1238ca5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 large potato, peeled and cut into 1-inch cubes",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 tablespoon extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "⅛ cup leek, sliced into 1/4-inch pieces",
+        "searchTerm": "leek",
+        "normalizedName": "Leek"
+      },
+      {
+        "ingredient": "5 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup grated Pecorino Romano cheese",
+        "searchTerm": "Pecorino Romano",
+        "normalizedName": "Pecorino Romano Cheese"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "⅛ cup chopped fresh flat-leaf parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Ensure potatoes are cut uniformly for even cooking",
+      "Beat eggs thoroughly for a fluffy tortilla",
+      "Let the tortilla rest briefly after cooking for easier slicing"
+    ],
+    "coachingPrompt": "Guide the user through layering ingredients evenly and monitoring for doneness without opening the air fryer mid-cook."
+  },
+  "timestamp": "2026-02-05T21:47:32.519Z"
+}

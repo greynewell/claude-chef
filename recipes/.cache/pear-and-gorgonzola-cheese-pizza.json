@@ -1,0 +1,58 @@
+{
+  "contentHash": "b33c6ffcb95154ea",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package refrigerated pizza crust dough",
+        "searchTerm": "pizza crust",
+        "normalizedName": "Pizza Crust"
+      },
+      {
+        "ingredient": "4 ounces sliced provolone cheese",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      },
+      {
+        "ingredient": "1 Bosc pear, thinly sliced",
+        "searchTerm": "pear",
+        "normalizedName": "Pear"
+      },
+      {
+        "ingredient": "2 ounces chopped walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "2 ½ ounces Gorgonzola cheese, crumbled",
+        "searchTerm": "gorgonzola cheese",
+        "normalizedName": "Gorgonzola Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh chives",
+        "searchTerm": "fresh chives",
+        "normalizedName": "Fresh Chive"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pizza Pan",
+        "searchTerm": "pizza pan"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Layer provolone first as a base to prevent crust from becoming soggy",
+      "Add pears in final minutes of baking so they warm through but maintain texture",
+      "Scatter Gorgonzola and chives after baking for fresh flavor and visual appeal"
+    ],
+    "coachingPrompt": "Guide the user through creating a sophisticated pizza that balances sweet fruit with pungent cheese"
+  },
+  "timestamp": "2026-02-06T14:27:28.646Z"
+}

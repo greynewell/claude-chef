@@ -1,0 +1,68 @@
+{
+  "contentHash": "c3bd89f65a543423",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "2 (8 ounce) containers plain yogurt, divided",
+        "searchTerm": "plain yogurt",
+        "normalizedName": "Plain Yogurt"
+      },
+      {
+        "ingredient": "1 (1 ounce) package dry Ranch-style dressing mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Ranch Dressing Mix"
+      },
+      {
+        "ingredient": "1 cucumber, peeled, seeded, and chopped",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "¼ cup diced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "6 pita bread rounds",
+        "searchTerm": "pita bread",
+        "normalizedName": "Pita Bread"
+      },
+      {
+        "ingredient": "2 cups torn lettuce leaves",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "1 tomato, seeded and diced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "burger patty mold",
+        "searchTerm": "burger mold"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Mix ground beef gently with dressing mix and onion to avoid overworking the meat",
+      "Form patties slightly larger than pita bread since they'll shrink while cooking",
+      "Grill 3-4 minutes per side for medium doneness"
+    ],
+    "coachingPrompt": "How will you build the tzatziki sauce from yogurt and cucumber, and when should you add it to avoid soggy pita bread?"
+  },
+  "timestamp": "2026-02-06T08:17:29.797Z"
+}

@@ -1,0 +1,42 @@
+{
+  "contentHash": "27e7b59ed6c18e75",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ (17.5 ounce) package frozen puff pastry, thawed",
+        "searchTerm": "puff pastry",
+        "normalizedName": "Puff Pastry"
+      },
+      {
+        "ingredient": "1 (8 ounce) wheel Brie cheese",
+        "searchTerm": "Brie cheese",
+        "normalizedName": "Brie Cheese"
+      },
+      {
+        "ingredient": "¼ cup sliced almonds",
+        "searchTerm": "sliced almonds",
+        "normalizedName": "Sliced Almond"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "paring knife"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cut puff pastry into two circles with Brie in between for easier wrapping",
+      "Sprinkle almonds on top before baking for garnish and texture"
+    ],
+    "coachingPrompt": "What temperature and time should puff pastry bake at for optimal flakiness?"
+  },
+  "timestamp": "2026-02-05T22:59:09.363Z"
+}

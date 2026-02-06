@@ -1,0 +1,48 @@
+{
+  "contentHash": "3ec5d8cf67b34301",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup garlic, thinly sliced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "6 cups half-and-half",
+        "searchTerm": "half-and-half",
+        "normalizedName": "Half-and-Half"
+      },
+      {
+        "ingredient": "1 (2 ounce) can anchovy filets",
+        "searchTerm": "anchovy filets",
+        "normalizedName": "Anchovy Filet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Slice garlic thinly for even cooking and to prevent burning",
+      "Melt butter and cook garlic slowly over medium heat to develop sweetness",
+      "Mash anchovy filets into the butter to distribute flavor evenly throughout the sauce"
+    ],
+    "coachingPrompt": "How do I prevent garlic from burning? Should I mash or finely chop the anchovies?"
+  },
+  "timestamp": "2026-02-06T00:56:55.536Z"
+}

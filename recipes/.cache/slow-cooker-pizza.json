@@ -1,0 +1,58 @@
+{
+  "contentHash": "d5e6d0986c669f95",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (8 ounce) package rigatoni pasta",
+        "searchTerm": "rigatoni pasta",
+        "normalizedName": "Rigatoni Pasta"
+      },
+      {
+        "ingredient": "1 (16 ounce) package shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese shredded",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of tomato soup",
+        "searchTerm": "cream of tomato soup",
+        "normalizedName": "Cream of Tomato Soup"
+      },
+      {
+        "ingredient": "2 (14 ounce) jars pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "1 (8 ounce) package sliced pepperoni sausage",
+        "searchTerm": "pepperoni sausage",
+        "normalizedName": "Pepperoni Sausage"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown the ground beef before adding to avoid a greasy final dish",
+      "Cook pasta separately to al dente, then stir into the slow cooker near the end to prevent mushiness",
+      "Add cheese in the last 15 minutes of cooking so it melts evenly without separating"
+    ],
+    "coachingPrompt": "This pizza-inspired pasta combines convenience with familiar flavors. Why should you brown the beef and cook pasta separately, and how do you prevent the cheese from becoming grainy?"
+  },
+  "timestamp": "2026-02-06T18:14:58.456Z"
+}

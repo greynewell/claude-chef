@@ -1,0 +1,52 @@
+{
+  "contentHash": "459ad52755f0f538",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups grape tomatoes",
+        "searchTerm": "grape tomatoes",
+        "normalizedName": "Grape Tomato"
+      },
+      {
+        "ingredient": "4 cloves garlic, sliced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "serving bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Slice garlic thinly so it cooks evenly with tomatoes",
+      "Don't overcrowd the pan for proper caramelization"
+    ],
+    "coachingPrompt": "Guide the cook on roasting temperature and time to achieve jammy tomatoes with sweet, soft garlic."
+  },
+  "timestamp": "2026-02-06T16:29:36.643Z"
+}

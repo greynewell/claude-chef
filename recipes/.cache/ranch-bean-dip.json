@@ -1,0 +1,48 @@
+{
+  "contentHash": "11aa9ef47887ca48",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) can refried beans",
+        "searchTerm": "refried beans",
+        "normalizedName": "Refried Bean"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 (1 ounce) package ranch dressing mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Ranch Dressing Mix"
+      },
+      {
+        "ingredient": "1 cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "baking dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "mixing spoon"
+      }
+    ],
+    "cookingTips": [
+      "Mix all ingredients until well combined and creamy",
+      "Serve warm with tortilla chips, or bake at 350°F for 20 minutes until heated through",
+      "Make ahead and refrigerate until ready to serve"
+    ],
+    "coachingPrompt": "What toppings or mix-ins would elevate this classic party dip?"
+  },
+  "timestamp": "2026-02-06T15:54:36.134Z"
+}

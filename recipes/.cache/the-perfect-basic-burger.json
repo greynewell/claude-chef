@@ -1,0 +1,53 @@
+{
+  "contentHash": "6a161f0fc8851f6c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "½ cup fine dry bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Mix ingredients gently by hand without overworking the meat to keep burgers tender and prevent compaction",
+      "Form patties slightly larger than your buns as they shrink during cooking; make a small indent in center",
+      "Cook over medium-high heat for 3-4 minutes per side for medium doneness; avoid pressing burgers while cooking"
+    ],
+    "coachingPrompt": "What's the difference between a tender burger and one that's dense and tough?"
+  },
+  "timestamp": "2026-02-06T20:42:42.192Z"
+}

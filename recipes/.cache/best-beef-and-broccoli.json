@@ -1,0 +1,67 @@
+{
+  "contentHash": "12b4f91e2a83bab7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 pound round steak, thinly sliced into 2 inch pieces",
+        "searchTerm": "round steak",
+        "normalizedName": "Round Steak"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 large onion, thinly sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cups fresh broccoli florets, chopped",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of broccoli soup",
+        "searchTerm": "cream of broccoli soup",
+        "normalizedName": "Cream of Broccoli Soup"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet"
+      },
+      {
+        "name": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Slice beef against the grain for maximum tenderness",
+      "Brown beef first, then remove before cooking vegetables to ensure proper doneness",
+      "Add soup mixture at the end and simmer gently to avoid overcooking broccoli"
+    ],
+    "coachingPrompt": "Help the user understand why slicing against the grain makes beef more tender in stir-fries"
+  },
+  "timestamp": "2026-02-05T23:54:28.045Z"
+}

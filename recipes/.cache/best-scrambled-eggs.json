@@ -1,0 +1,53 @@
+{
+  "contentHash": "22e702a9a1f6579b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons sliced Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 thin slices ham (Optional)",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "1 teaspoon heavy whipping cream",
+        "searchTerm": "heavy whipping cream",
+        "normalizedName": "Heavy Whipping Cream"
+      },
+      {
+        "ingredient": "½ teaspoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Nonstick Skillet",
+        "searchTerm": "nonstick skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Whisk eggs with cream before cooking for fluffier, creamier results",
+      "Use low-medium heat and stir frequently to achieve soft, custard-like curds",
+      "Add cheese in the final moments of cooking to prevent overmelting"
+    ],
+    "coachingPrompt": "Guide the user toward tender, creamy eggs by emphasizing patience and low heat. Suggest removing eggs from heat slightly before they appear fully cooked."
+  },
+  "timestamp": "2026-02-06T00:03:47.583Z"
+}

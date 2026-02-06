@@ -1,0 +1,63 @@
+{
+  "contentHash": "a360a55954d361cf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 green bell pepper, chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 (28 ounce) can whole tomatoes",
+        "searchTerm": "whole tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "2 tablespoons Italian seasoning",
+        "searchTerm": "italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      },
+      {
+        "ingredient": "1 cup chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 (6 ounce) can tomato paste",
+        "searchTerm": "tomato paste",
+        "normalizedName": "Tomato Paste"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Can Opener",
+        "searchTerm": "can opener"
+      }
+    ],
+    "cookingTips": [
+      "Simmer sauce for 20-30 minutes to develop flavors",
+      "Break up whole tomatoes with spoon while cooking",
+      "Adjust seasoning at the end; flavors intensify as sauce reduces"
+    ],
+    "coachingPrompt": "Guide the user through building flavor by sautéing vegetables first and simmering to concentrate tastes."
+  },
+  "timestamp": "2026-02-06T15:46:17.035Z"
+}

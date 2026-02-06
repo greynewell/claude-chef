@@ -1,0 +1,48 @@
+{
+  "contentHash": "e3832c563b942da8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup peanut butter",
+        "searchTerm": "natural peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "½ cup low-calorie natural sweetener (such as Swerve®)",
+        "searchTerm": "keto sweetener Swerve",
+        "normalizedName": "Sweetener"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon sugar-free vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Mix ingredients until just combined to avoid overmixing which can make cookies dense",
+      "Press dough flat with a fork for the classic crosshatch pattern and even baking",
+      "Chill dough for 15 minutes before baking for better texture"
+    ],
+    "coachingPrompt": "Guide me through making keto peanut butter cookies step-by-step, including mixing, shaping, and baking temperature and time"
+  },
+  "timestamp": "2026-02-05T21:28:54.988Z"
+}

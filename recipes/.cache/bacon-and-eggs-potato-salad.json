@@ -1,0 +1,73 @@
+{
+  "contentHash": "90eeadb6431303ee",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ½ pounds red potatoes, quartered",
+        "searchTerm": "red potato",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 cup petite green peas",
+        "searchTerm": "green pea",
+        "normalizedName": "Green Pea"
+      },
+      {
+        "ingredient": "5 hard-boiled eggs, chopped",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "4 slices cooked bacon, chopped",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "¼ cup minced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 tablespoons mustard",
+        "searchTerm": "mustard",
+        "normalizedName": "Mustard"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "large mixing bowl"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Boil potatoes in salted water until tender but still firm enough to hold their shape",
+      "Mix dressing ingredients first, then toss warm potatoes with dressing so they absorb flavors better",
+      "Add eggs and bacon last and fold gently to prevent breaking them into small pieces"
+    ],
+    "coachingPrompt": "How does warm potato salad absorb flavors differently than cold, and why should some ingredients be added last?"
+  },
+  "timestamp": "2026-02-05T22:48:30.245Z"
+}

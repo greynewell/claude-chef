@@ -1,0 +1,48 @@
+{
+  "contentHash": "e9c58ec51b858494",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15 ounce) can diced beets, drained",
+        "searchTerm": "canned beets",
+        "normalizedName": "Beet"
+      },
+      {
+        "ingredient": "2 apples - peeled, cored and chopped",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "¾ cup walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "¾ cup creamy salad dressing, e.g. Miracle Whip ™",
+        "searchTerm": "salad dressing",
+        "normalizedName": "Salad Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Salad Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Drain canned beets thoroughly to prevent excess liquid in salad",
+      "Chop apples just before serving to prevent oxidation",
+      "Toast walnuts lightly for enhanced flavor and texture"
+    ],
+    "coachingPrompt": "Help the user understand how to balance sweet and earthy flavors in this salad by adjusting dressing amount."
+  },
+  "timestamp": "2026-02-05T22:09:40.773Z"
+}

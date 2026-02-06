@@ -1,0 +1,58 @@
+{
+  "contentHash": "53733423e5230b62",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound shredded sharp Cheddar cheese",
+        "searchTerm": "sharp cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¾ cup lager beer",
+        "searchTerm": "lager beer",
+        "normalizedName": "Beer"
+      },
+      {
+        "ingredient": "1 tablespoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 teaspoons Worcestershire sauce",
+        "searchTerm": "worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "1 ½ teaspoons mustard powder",
+        "searchTerm": "mustard powder",
+        "normalizedName": "Mustard Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Fondue Pot",
+        "searchTerm": "fondue pot"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Keep fondue warm over low heat to prevent scorching",
+      "Coat cheese with flour to prevent lumps",
+      "Use quality beer as it affects final flavor significantly"
+    ],
+    "coachingPrompt": "What dipping items would pair best with this beer and cheese fondue? Consider texture and flavor balance."
+  },
+  "timestamp": "2026-02-06T01:43:28.837Z"
+}

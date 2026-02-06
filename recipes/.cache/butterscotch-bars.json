@@ -1,0 +1,63 @@
+{
+  "contentHash": "b12527e8ecbe69b0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 package Duncan Hines® Moist Deluxe® French Vanilla Cake Mix",
+        "searchTerm": "cake mix",
+        "normalizedName": "Cake Mix"
+      },
+      {
+        "ingredient": "2 large eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup butter or margarine, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¾ cup firmly packed light brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 (12 ounce) package butterscotch chips",
+        "searchTerm": "butterscotch chip",
+        "normalizedName": "Butterscotch Chip"
+      },
+      {
+        "ingredient": "1 ½ cups chopped pecans",
+        "searchTerm": "pecan",
+        "normalizedName": "Pecan"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 Baking Pan",
+        "searchTerm": "9x13 pan"
+      },
+      {
+        "name": "Large Bowl",
+        "searchTerm": "large bowl"
+      },
+      {
+        "name": "Electric Mixer",
+        "searchTerm": "electric mixer"
+      }
+    ],
+    "cookingTips": [
+      "Mix melted butter with cake mix before adding eggs for even distribution",
+      "Press mixture firmly into pan to create compact base",
+      "Bake at 350°F for 20-25 minutes until golden brown"
+    ],
+    "coachingPrompt": "How can I prevent these butterscotch bars from being too dense or cake-like?"
+  },
+  "timestamp": "2026-02-06T01:04:29.476Z"
+}

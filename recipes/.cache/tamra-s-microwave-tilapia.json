@@ -1,0 +1,53 @@
+{
+  "contentHash": "9a752953f5a1497b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "tilapia fillets",
+        "searchTerm": "tilapia",
+        "normalizedName": "Tilapia"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "garlic clove",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "fresh tarragon",
+        "searchTerm": "tarragon",
+        "normalizedName": "Tarragon"
+      },
+      {
+        "ingredient": "apple cider vinegar",
+        "searchTerm": "apple cider vinegar",
+        "normalizedName": "Apple Cider Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Microwave-Safe Dish",
+        "searchTerm": "microwave dish"
+      },
+      {
+        "name": "Microwave",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Microwave cooking keeps the fish moist and tender",
+      "Don't overcook; tilapia is delicate and cooks quickly",
+      "Fresh tarragon provides an elegant herbal note; don't substitute with dried"
+    ],
+    "coachingPrompt": "This is perfect for a quick weeknight dinner. Would you like suggestions for speedy side dishes?"
+  },
+  "timestamp": "2026-02-06T20:16:19.237Z"
+}

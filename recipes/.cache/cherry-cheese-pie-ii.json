@@ -1,0 +1,58 @@
+{
+  "contentHash": "601ac9267bd85555",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (14 ounce) can sweetened condensed milk",
+        "searchTerm": "sweetened condensed milk",
+        "normalizedName": "Sweetened Condensed Milk"
+      },
+      {
+        "ingredient": "⅓ cup lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 (9 inch) prepared graham cracker crust",
+        "searchTerm": "graham cracker crust",
+        "normalizedName": "Graham Cracker Crust"
+      },
+      {
+        "ingredient": "1 (21 ounce) can cherry pie filling",
+        "searchTerm": "cherry pie filling",
+        "normalizedName": "Cherry Pie Filling"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "pie dish",
+        "searchTerm": "pie dish"
+      }
+    ],
+    "cookingTips": [
+      "Allow cream cheese to soften to room temperature for smooth, lump-free filling",
+      "Combine sweetened condensed milk and lemon juice to create instant cheesecake filling",
+      "Top with cherry pie filling just before serving to prevent sogginess"
+    ],
+    "coachingPrompt": "Explain the quick chemistry of sweetened condensed milk and lemon juice for cheesecake, and when to add toppings."
+  },
+  "timestamp": "2026-02-06T02:14:54.351Z"
+}

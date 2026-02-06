@@ -1,0 +1,63 @@
+{
+  "contentHash": "fc433c483b8fdeec",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups vinegar",
+        "searchTerm": "vinegar",
+        "normalizedName": "Vinegar"
+      },
+      {
+        "ingredient": "1 cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "3 ½ teaspoons poultry seasoning",
+        "searchTerm": "poultry seasoning",
+        "normalizedName": "Poultry Seasoning"
+      },
+      {
+        "ingredient": "¾ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 chicken thighs",
+        "searchTerm": "chicken thighs",
+        "normalizedName": "Chicken Thigh"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Whisk vinegar, oil, and eggs together to create an emulsified marinade",
+      "Marinate chicken thighs for at least 4 hours before grilling",
+      "Use thighs instead of breasts as they stay juicier on the grill"
+    ],
+    "coachingPrompt": "How does the egg help emulsify this vinegar-based marinade for better flavor penetration?"
+  },
+  "timestamp": "2026-02-06T08:13:25.884Z"
+}

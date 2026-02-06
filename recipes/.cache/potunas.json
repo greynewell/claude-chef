@@ -1,0 +1,53 @@
+{
+  "contentHash": "34e4d5820ff64b9d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 baking potatoes",
+        "searchTerm": "baking potatoes",
+        "normalizedName": "Baking Potato"
+      },
+      {
+        "ingredient": "1 (5 ounce) can tuna, drained, or more to taste",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Tuna"
+      },
+      {
+        "ingredient": "¼ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "4 green onions, chopped, or to taste",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "½ cup shredded Cheddar cheese, or to taste",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Bake potatoes at 400°F for 45-50 minutes until tender",
+      "Mix tuna with mayonnaise and green onions to create filling",
+      "Top baked potatoes with tuna mixture and cheese, then broil briefly until melted"
+    ],
+    "coachingPrompt": "These are simple baked potatoes topped with tuna salad and cheese. Guide the cook on proper potato baking and broiling safely for melted toppings."
+  },
+  "timestamp": "2026-02-06T15:15:47.213Z"
+}

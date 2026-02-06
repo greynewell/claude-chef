@@ -1,0 +1,57 @@
+{
+  "contentHash": "4599bbe794d8a186",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups fresh brewed coffee",
+        "searchTerm": "coffee",
+        "normalizedName": "Coffee"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ cup boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 cups crushed ice",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      },
+      {
+        "ingredient": "½ cup cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Coffee maker",
+        "searchTerm": "coffee maker"
+      },
+      {
+        "name": "Tall glass",
+        "searchTerm": "drinking glass"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "stirring spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brew coffee fresh and let it cool completely before adding ice to prevent dilution",
+      "Dissolve sugar in boiling water first to create a simple syrup for easier mixing"
+    ],
+    "coachingPrompt": "Guide the user through making smooth, refreshing iced coffee without watering down the flavor."
+  },
+  "timestamp": "2026-02-06T16:55:39.150Z"
+}

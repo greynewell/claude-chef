@@ -1,0 +1,58 @@
+{
+  "contentHash": "1b6d96111fac79f4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup sauerkraut, drained",
+        "searchTerm": "sauerkraut",
+        "normalizedName": "Sauerkraut"
+      },
+      {
+        "ingredient": "10 ounces sliced deli turkey meat",
+        "searchTerm": "deli turkey",
+        "normalizedName": "Deli Turkey"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 slices marble rye bread",
+        "searchTerm": "rye bread",
+        "normalizedName": "Rye Bread"
+      },
+      {
+        "ingredient": "4 slices Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "4 tablespoons thousand island salad dressing, or to taste",
+        "searchTerm": "thousand island dressing",
+        "normalizedName": "Thousand Island Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "grill spatula"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "kitchen tongs"
+      }
+    ],
+    "cookingTips": [
+      "Drain sauerkraut thoroughly to prevent the sandwich from becoming soggy",
+      "Butter the outside of bread before grilling for a crispy, golden exterior",
+      "Grill over medium heat 2-3 minutes per side until bread is toasted and cheese is melted"
+    ],
+    "coachingPrompt": "This is a classic deli sandwich. Would you like suggestions for customizing the dressing or adjusting spice levels?"
+  },
+  "timestamp": "2026-02-06T08:30:16.360Z"
+}

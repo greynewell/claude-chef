@@ -1,0 +1,48 @@
+{
+  "contentHash": "d838887759288111",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (14.5 ounce) cans chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 tablespoon cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "1 egg, lightly beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons chopped green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "medium saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Dissolve cornstarch in small amount of cold water before adding to avoid lumps",
+      "Bring broth to boil and add cornstarch mixture for thickening",
+      "Drizzle beaten egg in thin stream while stirring to create ribbons"
+    ],
+    "coachingPrompt": "Help me achieve restaurant-quality egg drop soup with proper thickening and egg technique."
+  },
+  "timestamp": "2026-02-06T06:09:11.308Z"
+}

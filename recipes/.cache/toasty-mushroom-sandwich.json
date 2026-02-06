@@ -1,0 +1,53 @@
+{
+  "contentHash": "9b4957595e64993f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 whole wheat sandwich roll",
+        "searchTerm": "whole wheat roll",
+        "normalizedName": "Whole Wheat Roll"
+      },
+      {
+        "ingredient": "2 teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 clove garlic, halved",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 slice Swiss cheese, or more to taste",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "1 portobello mushroom cap",
+        "searchTerm": "portobello mushroom",
+        "normalizedName": "Portobello Mushroom"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Rub garlic on the cut side of the roll for maximum flavor",
+      "Remove mushroom gills to prevent excess moisture in sandwich",
+      "Cook mushroom until tender and golden before assembling"
+    ],
+    "coachingPrompt": "How would you prevent this mushroom sandwich from becoming too wet?"
+  },
+  "timestamp": "2026-02-06T20:52:12.884Z"
+}

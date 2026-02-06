@@ -1,0 +1,42 @@
+{
+  "contentHash": "d0cb0877a3632a3d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 quarts oil for deep frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 (10 ounce) can refrigerated buttermilk biscuit dough",
+        "searchTerm": "buttermilk biscuit dough",
+        "normalizedName": "Buttermilk Biscuit Dough"
+      },
+      {
+        "ingredient": "1 cup confectioners' sugar",
+        "searchTerm": "confectioners sugar",
+        "normalizedName": "Confectioners' Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "deep-fry thermometer",
+        "searchTerm": "deep-fry thermometer"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Maintain oil temperature at 350°F for even, golden frying",
+      "Coat warm doughnuts in confectioners' sugar while still warm for best coating"
+    ],
+    "coachingPrompt": "Guide the user through temperature control and timing to achieve fluffy, golden doughnuts with minimal effort."
+  },
+  "timestamp": "2026-02-06T07:50:24.330Z"
+}

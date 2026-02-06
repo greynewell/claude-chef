@@ -1,0 +1,43 @@
+{
+  "contentHash": "81e3b9cb577399a1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (15 ounce) can pickled beets",
+        "searchTerm": "pickled beets",
+        "normalizedName": "Pickled Beet"
+      },
+      {
+        "ingredient": "¼ cup sliced red onion",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "jar",
+        "searchTerm": "storage jar"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Boil eggs until fully hard-cooked for easier peeling and storage",
+      "Cool eggs in ice bath before peeling for better results",
+      "Use beet liquid as pickling brine for added flavor and color"
+    ],
+    "coachingPrompt": "This is a great make-ahead snack. How long will you let them pickle before eating?"
+  },
+  "timestamp": "2026-02-06T05:55:06.302Z"
+}

@@ -1,0 +1,73 @@
+{
+  "contentHash": "bb1808a02340de16",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "frozen cheese ravioli",
+        "searchTerm": "frozen cheese ravioli",
+        "normalizedName": "Cheese Ravioli"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "chicken breast",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "Italian seasoning",
+        "searchTerm": "Italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      },
+      {
+        "ingredient": "prepared Alfredo sauce",
+        "searchTerm": "Alfredo sauce",
+        "normalizedName": "Alfredo Sauce"
+      },
+      {
+        "ingredient": "shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cook chicken until golden before combining with ravioli for better texture",
+      "Do not overcook frozen ravioli; follow package directions closely",
+      "Top with Parmesan just before serving for crispness"
+    ],
+    "coachingPrompt": "How will you ensure the chicken is cooked through while keeping the ravioli from becoming mushy in this bake?"
+  },
+  "timestamp": "2026-02-06T10:32:48.835Z"
+}

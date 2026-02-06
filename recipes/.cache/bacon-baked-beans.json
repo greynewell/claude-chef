@@ -1,0 +1,63 @@
+{
+  "contentHash": "f1bd646abd969277",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 (16 ounce) cans baked beans",
+        "searchTerm": "baked bean",
+        "normalizedName": "Baked Bean"
+      },
+      {
+        "ingredient": "1 onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "¼ cup yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      },
+      {
+        "ingredient": "¾ cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "1 cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 Granny Smith apple - peeled, cored and diced",
+        "searchTerm": "Granny Smith apple",
+        "normalizedName": "Granny Smith Apple"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Render bacon fat to sauté onions and build flavor base",
+      "Crumble cooled bacon before mixing to distribute evenly throughout beans",
+      "Bake low and slow to allow flavors to meld and sauce to thicken"
+    ],
+    "coachingPrompt": "How does apple add complexity to baked beans, and when should it be added?"
+  },
+  "timestamp": "2026-02-05T22:49:20.389Z"
+}

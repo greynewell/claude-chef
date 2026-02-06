@@ -1,0 +1,47 @@
+{
+  "contentHash": "7a57312b22764c24",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 green bell peppers, cut into large chunks",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "½ cup sliced jalapeno peppers",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 pinch dried oregano",
+        "searchTerm": "oregano",
+        "normalizedName": "Oregano"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "skewers",
+        "searchTerm": "skewers"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "grilling tongs"
+      }
+    ],
+    "cookingTips": [
+      "Cut peppers into similarly sized chunks for even cooking",
+      "Add cheese at the end of grilling and cover with foil to melt"
+    ],
+    "coachingPrompt": "How can you prevent the peppers from rolling around on the grill?"
+  },
+  "timestamp": "2026-02-06T08:22:04.021Z"
+}

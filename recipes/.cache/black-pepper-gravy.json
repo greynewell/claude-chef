@@ -1,0 +1,49 @@
+{
+  "contentHash": "6a64bd99946983f5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups skim milk",
+        "searchTerm": "skim milk",
+        "normalizedName": "Skim Milk"
+      },
+      {
+        "ingredient": "½ cup margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "½ cup all-purpose flour",
+        "searchTerm": "flour all-purpose",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 tablespoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ½ tablespoons ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan large"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Make a smooth roux with margarine and flour before adding milk to prevent lumps",
+      "Warm milk slightly before whisking in to avoid temperature shock",
+      "Whisk constantly while heating to create a silky, lump-free sauce"
+    ],
+    "coachingPrompt": "How can you create a smooth gravy without lumps?"
+  },
+  "timestamp": "2026-02-06T00:14:07.111Z"
+}

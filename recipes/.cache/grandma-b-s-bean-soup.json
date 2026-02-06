@@ -1,0 +1,58 @@
+{
+  "contentHash": "ae5088884565c7c0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound dry navy beans",
+        "searchTerm": "navy beans dry",
+        "normalizedName": "Dry Navy Bean"
+      },
+      {
+        "ingredient": "3 carrots, peeled and shredded",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 medium potatoes, peeled and diced",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "3 stalks celery, sliced",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 medium onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cups cubed cooked ham",
+        "searchTerm": "ham cooked",
+        "normalizedName": "Cooked Ham"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Sort beans and soak overnight, then drain before cooking to remove gas-producing compounds",
+      "Cook beans until just tender before adding vegetables to ensure even cooking throughout",
+      "Simmer gently for 2-3 hours until beans are fully softened and flavors are well integrated"
+    ],
+    "coachingPrompt": "What makes this bean soup hearty yet comforting? Consider the role of ham, cooking time, and vegetable selection."
+  },
+  "timestamp": "2026-02-06T07:46:26.913Z"
+}

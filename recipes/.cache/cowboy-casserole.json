@@ -1,0 +1,58 @@
+{
+  "contentHash": "433cb9cbc5097e1f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 small onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 (15 ounce) cans baked beans with pork",
+        "searchTerm": "baked beans",
+        "normalizedName": "Baked Bean"
+      },
+      {
+        "ingredient": "⅓ cup barbeque sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "1 (7.5 ounce) package refrigerated biscuit dough",
+        "searchTerm": "biscuit dough",
+        "normalizedName": "Biscuit Dough"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then crumble and set aside before browning beef",
+      "Drain excess fat from meat mixture before combining with beans",
+      "Place biscuits on top in final 15 minutes of baking so they brown properly"
+    ],
+    "coachingPrompt": "What temperature should I bake this casserole at? When should I add the biscuit topping?"
+  },
+  "timestamp": "2026-02-06T03:58:26.481Z"
+}

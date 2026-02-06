@@ -1,0 +1,58 @@
+{
+  "contentHash": "d5727cb67b6636ca",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound firm tofu",
+        "searchTerm": "firm tofu",
+        "normalizedName": "Firm Tofu"
+      },
+      {
+        "ingredient": "¼ cup brown miso",
+        "searchTerm": "brown miso",
+        "normalizedName": "Brown Miso"
+      },
+      {
+        "ingredient": "⅓ cup roasted tahini",
+        "searchTerm": "tahini",
+        "normalizedName": "Tahini"
+      },
+      {
+        "ingredient": "2 tablespoons minced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 tablespoons minced carrot",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "3 tablespoons unsalted sunflower seeds",
+        "searchTerm": "sunflower seeds",
+        "normalizedName": "Sunflower Seed"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Press tofu to remove excess moisture before processing",
+      "Pulse ingredients gently to maintain texture",
+      "Taste and adjust miso and tahini for optimal umami balance"
+    ],
+    "coachingPrompt": "What bread or vegetables would best showcase this tofu filling?"
+  },
+  "timestamp": "2026-02-06T17:06:48.967Z"
+}

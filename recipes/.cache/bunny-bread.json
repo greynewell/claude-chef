@@ -1,0 +1,53 @@
+{
+  "contentHash": "eda6693d9196ca71",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (1 pound) loaves frozen bread dough, thawed",
+        "searchTerm": "frozen bread dough",
+        "normalizedName": "Frozen Bread Dough"
+      },
+      {
+        "ingredient": "2 raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      },
+      {
+        "ingredient": "2 sliced almonds",
+        "searchTerm": "sliced almonds",
+        "normalizedName": "Sliced Almond"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "6 lettuce leaves",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Shape dough into bunny form before final rising for better definition",
+      "Use egg wash to help raisins and almonds adhere during baking",
+      "Keep lettuce fresh by adding it just before serving as the bread 'tail'"
+    ],
+    "coachingPrompt": "How do I shape the bread into a bunny form? Should I let it rise after shaping?"
+  },
+  "timestamp": "2026-02-06T00:56:55.535Z"
+}

@@ -1,0 +1,47 @@
+{
+  "contentHash": "9048a7eeb7665e3c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "aluminum foil",
+        "searchTerm": "aluminum foil",
+        "normalizedName": "Aluminum Foil"
+      },
+      {
+        "ingredient": "2 medium ripe bananas, mashed",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "1 cup peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Ensure peanut butter does not contain xylitol, which is toxic to dogs",
+      "Mix until dough is thick but moldable, adjusting flour as needed"
+    ],
+    "coachingPrompt": "What safety considerations are essential when baking treats for pets?"
+  },
+  "timestamp": "2026-02-05T23:19:52.661Z"
+}

@@ -1,0 +1,72 @@
+{
+  "contentHash": "756acd4d1e12526f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup dry white wine",
+        "searchTerm": "dry white wine",
+        "normalizedName": "White Wine"
+      },
+      {
+        "ingredient": "2 tablespoons tarragon vinegar",
+        "searchTerm": "tarragon vinegar",
+        "normalizedName": "Tarragon Vinegar"
+      },
+      {
+        "ingredient": "2 tablespoons shallots, minced",
+        "searchTerm": "shallots",
+        "normalizedName": "Shallot"
+      },
+      {
+        "ingredient": "½ teaspoon ground white pepper",
+        "searchTerm": "white pepper",
+        "normalizedName": "White Pepper"
+      },
+      {
+        "ingredient": "4 sprigs fresh tarragon, chopped",
+        "searchTerm": "fresh tarragon",
+        "normalizedName": "Tarragon"
+      },
+      {
+        "ingredient": "2 sprigs fresh chervil, minced",
+        "searchTerm": "fresh chervil",
+        "normalizedName": "Chervil"
+      },
+      {
+        "ingredient": "2 sprigs fresh parsley, minced",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "4 egg yolks",
+        "searchTerm": "egg yolks",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "1 cup hot melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "double boiler",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Reduce the wine and vinegar mixture to concentrate flavors before adding egg yolks",
+      "Keep the bottom bowl over simmering (not boiling) water to prevent scrambling eggs"
+    ],
+    "coachingPrompt": "Béarnaise is an emulsion requiring precise temperature control. What's the key indicator that your sauce is breaking, and how would you rescue it?"
+  },
+  "timestamp": "2026-02-05T23:52:35.584Z"
+}

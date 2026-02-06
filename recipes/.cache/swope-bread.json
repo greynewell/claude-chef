@@ -1,0 +1,57 @@
+{
+  "contentHash": "e2ba600c54bfbff3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "4 cups whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "4 teaspoons baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "4 cups buttermilk",
+        "searchTerm": "buttermilk",
+        "normalizedName": "Buttermilk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "large mixing bowl"
+      },
+      {
+        "name": "loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Mix dry ingredients thoroughly before adding buttermilk to ensure even distribution of baking soda",
+      "Don't overmix the batter - stir just until combined to keep the bread tender"
+    ],
+    "coachingPrompt": "This quick bread uses baking soda for leavening rather than yeast. How would you ensure the batter is mixed properly without overdeveloping gluten?"
+  },
+  "timestamp": "2026-02-06T20:11:32.906Z"
+}

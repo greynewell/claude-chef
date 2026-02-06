@@ -1,0 +1,43 @@
+{
+  "contentHash": "30b12f91858a489f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package little smokie sausages",
+        "searchTerm": "little smokies",
+        "normalizedName": "Little Smokie Sausage"
+      },
+      {
+        "ingredient": "1 (8 ounce) jar cocktail sauce",
+        "searchTerm": "cocktail sauce",
+        "normalizedName": "Cocktail Sauce"
+      },
+      {
+        "ingredient": "1 (8 ounce) jar grape jelly",
+        "searchTerm": "grape jelly",
+        "normalizedName": "Grape Jelly"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Serving Dish",
+        "searchTerm": "serving platter"
+      }
+    ],
+    "cookingTips": [
+      "Combine sauce and jelly directly in the slow cooker without pre-cooking sausages",
+      "Stir occasionally to ensure even coating and consistent temperature",
+      "Keep on warm setting throughout service to prevent skin from splitting"
+    ],
+    "coachingPrompt": "Help the user understand why this ultra-simple combination of prepared ingredients creates a surprisingly delicious sweet-savory appetizer perfect for entertaining."
+  },
+  "timestamp": "2026-02-06T03:35:59.940Z"
+}

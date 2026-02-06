@@ -1,0 +1,78 @@
+{
+  "contentHash": "d75a5b3243c27b25",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 head cauliflower",
+        "searchTerm": "cauliflower head",
+        "normalizedName": "Cauliflower"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese shredded",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "½ red bell pepper",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ teaspoon ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      },
+      {
+        "ingredient": "1 cup shredded pepperjack cheese",
+        "searchTerm": "pepperjack cheese shredded",
+        "normalizedName": "Pepperjack Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food processor or ricer",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Rice the cauliflower finely and squeeze out excess moisture with cheesecloth",
+      "Mix wet ingredients thoroughly before adding to prevent dry patches in squares",
+      "Cut squares while still warm from the oven for cleaner edges"
+    ],
+    "coachingPrompt": "Help the user create crispy-edged cauliflower cheese squares by properly processing the cauliflower and achieving the right binder-to-vegetable ratio."
+  },
+  "timestamp": "2026-02-06T01:37:33.923Z"
+}

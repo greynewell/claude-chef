@@ -1,0 +1,53 @@
+{
+  "contentHash": "7d77c1acc618648e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (8 ounce) packages cream cheese, slightly softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "4 slices ham, chopped",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "4 green onions, chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "¼ teaspoon seasoned salt, or to taste",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      },
+      {
+        "ingredient": "1 cup chopped pecans, or more to taste",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Let cream cheese soften at room temperature for easier mixing",
+      "Chop ingredients uniformly for consistent texture in the ball",
+      "Refrigerate for at least 2 hours before serving to hold shape"
+    ],
+    "coachingPrompt": "Help the user understand how to balance flavors in this appetizer by adjusting seasoning and the ratio of ham to cream cheese."
+  },
+  "timestamp": "2026-02-06T08:42:32.640Z"
+}

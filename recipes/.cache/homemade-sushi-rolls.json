@@ -1,0 +1,63 @@
+{
+  "contentHash": "1d182f8e61795e8b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅔ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "⅓ cup medium-grain white rice, uncooked",
+        "searchTerm": "sushi rice",
+        "normalizedName": "Sushi Rice"
+      },
+      {
+        "ingredient": "6 tablespoons rice vinegar",
+        "searchTerm": "rice vinegar",
+        "normalizedName": "Rice Vinegar"
+      },
+      {
+        "ingredient": "4 sheets nori (dry seaweed)",
+        "searchTerm": "nori",
+        "normalizedName": "Nori"
+      },
+      {
+        "ingredient": "4 ounces smoked salmon, cut into strips",
+        "searchTerm": "smoked salmon",
+        "normalizedName": "Smoked Salmon"
+      },
+      {
+        "ingredient": "2 ounces cold cream cheese, cut into thin strips",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "4 scallions, sliced into thin strips",
+        "searchTerm": "scallions",
+        "normalizedName": "Scallion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Bamboo sushi mat",
+        "searchTerm": "bamboo mat"
+      },
+      {
+        "name": "Rice cooker",
+        "searchTerm": "rice cooker"
+      },
+      {
+        "name": "Sharp knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Cool rice to room temperature and season with rice vinegar before rolling for authentic texture",
+      "Keep your hands and mat slightly damp when handling nori and rice to prevent sticking",
+      "Use a very sharp knife dipped in water to cut rolls cleanly without crushing the rice"
+    ],
+    "coachingPrompt": "What's the technique for achieving properly seasoned sushi rice and neat, intact rolls?"
+  },
+  "timestamp": "2026-02-06T09:18:13.651Z"
+}

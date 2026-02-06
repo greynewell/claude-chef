@@ -1,0 +1,53 @@
+{
+  "contentHash": "b54bde8b4ff0d03c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 beets, trimmed",
+        "searchTerm": "beets",
+        "normalizedName": "Beet"
+      },
+      {
+        "ingredient": "4 potatoes, peeled and cubed",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup mayonnaise, or to taste",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Cook beets separately from potatoes to prevent color bleeding into other vegetables",
+      "Cube vegetables into uniform 1/2-inch pieces for consistent texture throughout",
+      "Dress salad gently to avoid breaking delicate vegetables; add more mayonnaise if needed for creaminess"
+    ],
+    "coachingPrompt": "Russian salad has beautiful colors. How can you cook beets separately to maintain color integrity and combine all elements gently?"
+  },
+  "timestamp": "2026-02-06T06:21:09.562Z"
+}

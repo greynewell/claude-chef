@@ -1,0 +1,52 @@
+{
+  "contentHash": "cf7f5c3b5cca327f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) bottle lager beer",
+        "searchTerm": "Corona beer",
+        "normalizedName": "Lager Beer"
+      },
+      {
+        "ingredient": "1 fluid ounce tequila",
+        "searchTerm": "tequila",
+        "normalizedName": "Tequila"
+      },
+      {
+        "ingredient": "1 fluid ounce orange juice",
+        "searchTerm": "orange juice",
+        "normalizedName": "Orange Juice"
+      },
+      {
+        "ingredient": "2 teaspoons grenadine syrup",
+        "searchTerm": "grenadine",
+        "normalizedName": "Grenadine Syrup"
+      },
+      {
+        "ingredient": "1 teaspoon lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "beer glass",
+        "searchTerm": "pint glass"
+      },
+      {
+        "name": "jigger",
+        "searchTerm": "jigger"
+      },
+      {
+        "name": "bar spoon",
+        "searchTerm": "bar spoon"
+      }
+    ],
+    "cookingTips": [
+      "Pour grenadine down the side of the glass slowly for a sunrise effect",
+      "Use fresh lime juice rather than bottled for better flavor"
+    ],
+    "coachingPrompt": "Are you familiar with layering drinks? I can explain the technique for getting that beautiful sunrise gradient."
+  },
+  "timestamp": "2026-02-06T03:55:25.469Z"
+}

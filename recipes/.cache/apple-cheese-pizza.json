@@ -1,0 +1,44 @@
+{
+  "contentHash": "5e97cd0c56ecb426",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (12 inch) prepared pizza crust",
+        "searchTerm": "pizza crust",
+        "normalizedName": "Pizza Crust"
+      },
+      {
+        "ingredient": "3 large apples",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "1 ½ cups shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pizza pan or stone",
+        "searchTerm": "pizza pan"
+      },
+      {
+        "name": "Mandoline or sharp knife",
+        "searchTerm": "mandoline"
+      }
+    ],
+    "cookingTips": [
+      "Spread cream cheese as a base to prevent soggy crust",
+      "Slice apples thinly and uniformly for even cooking",
+      "Add cheese after apples cook slightly for best melting"
+    ],
+    "coachingPrompt": "Would you serve this sweet pizza as dessert or as a brunch dish?"
+  },
+  "timestamp": "2026-02-05T22:10:36.299Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "6c71e8de7048c01f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices wheat bread",
+        "searchTerm": "wheat bread",
+        "normalizedName": "Wheat Bread"
+      },
+      {
+        "ingredient": "4 tablespoons barbeque sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "2 teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 avocado",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "¼ cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread to desired crispness before assembling",
+      "Cook eggs to preference - sunny side up or over easy works well",
+      "Add avocado at the very end to prevent browning"
+    ],
+    "coachingPrompt": "Quick, customizable breakfast? What proteins or vegetables would you like to add for your version?"
+  },
+  "timestamp": "2026-02-06T00:38:37.915Z"
+}

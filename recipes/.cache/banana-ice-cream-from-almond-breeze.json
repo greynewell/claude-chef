@@ -1,0 +1,43 @@
+{
+  "contentHash": "da378bd042ab8ed2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup Almond Breeze Almondmilk Vanilla",
+        "searchTerm": "Almond Breeze Vanilla almondmilk",
+        "normalizedName": "Almond Breeze Vanilla Almondmilk"
+      },
+      {
+        "ingredient": "3 bananas, cut into 1-inch chunks & frozen",
+        "searchTerm": "bananas",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "2 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "2 tablespoons chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "high-powered blender or food processor"
+      },
+      {
+        "name": "ice cream scoop",
+        "searchTerm": "ice cream scoop"
+      }
+    ],
+    "cookingTips": [
+      "Freeze bananas at least 4 hours or overnight for best texture",
+      "Add almondmilk slowly; the consistency should be thick like soft-serve"
+    ],
+    "coachingPrompt": "This is a 'nice cream' recipe using frozen fruit. Are you familiar with dairy-free ice cream alternatives?"
+  },
+  "timestamp": "2026-02-05T23:22:50.968Z"
+}

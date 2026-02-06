@@ -1,0 +1,73 @@
+{
+  "contentHash": "542d245cf1a78b06",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (9 ounce) package refrigerated cheese tortellini",
+        "searchTerm": "tortellini cheese",
+        "normalizedName": "Cheese Tortellini"
+      },
+      {
+        "ingredient": "2 tablespoons Butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 small onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "fresh mushrooms, sliced",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+        "searchTerm": "spinach frozen",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "cherry tomatoes, halved",
+        "searchTerm": "cherry tomatoes",
+        "normalizedName": "Cherry Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Large Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Cook tortellini just until tender to prevent them from falling apart",
+      "Heat cream cheese separately before mixing with other ingredients to ensure smoothness",
+      "Add spinach at the end to preserve its color and texture"
+    ],
+    "coachingPrompt": "Help the user manage multiple cooking steps by teaching them to cook pasta and sauce simultaneously, then combine them thoughtfully at the end."
+  },
+  "timestamp": "2026-02-06T04:33:23.047Z"
+}

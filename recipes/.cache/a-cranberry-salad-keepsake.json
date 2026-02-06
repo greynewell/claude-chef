@@ -1,0 +1,58 @@
+{
+  "contentHash": "7a90235599bd10a2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (6 ounce) package cherry-flavored gelatin",
+        "searchTerm": "cherry gelatin",
+        "normalizedName": "Cherry-Flavored Gelatin"
+      },
+      {
+        "ingredient": "1 (16 ounce) can jellied cranberry sauce",
+        "searchTerm": "cranberry sauce",
+        "normalizedName": "Cranberry Sauce"
+      },
+      {
+        "ingredient": "1 apple - peeled, cored, and diced",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "¾ cup chopped walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "1 (20 ounce) can crushed pineapple with juice",
+        "searchTerm": "crushed pineapple",
+        "normalizedName": "Crushed Pineapple"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Gelatin mold or bowl",
+        "searchTerm": "mold"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Dissolve gelatin completely in hot water before adding other ingredients",
+      "Chop apple just before adding to prevent browning",
+      "Refrigerate for at least 4 hours until fully set"
+    ],
+    "coachingPrompt": "Help me dissolve the gelatin, incorporate the cranberry sauce and fruit, then guide proper chilling time."
+  },
+  "timestamp": "2026-02-05T21:30:03.108Z"
+}

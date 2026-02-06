@@ -1,0 +1,63 @@
+{
+  "contentHash": "e340fcc870f74004",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup light corn syrup",
+        "searchTerm": "corn syrup",
+        "normalizedName": "Corn Syrup"
+      },
+      {
+        "ingredient": "1 ½ cups peanuts, or more to taste",
+        "searchTerm": "peanuts",
+        "normalizedName": "Peanut"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "microwave-safe bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "microwave",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Watch microwave carefully as mixture can bubble over; stir between intervals",
+      "Add baking soda immediately at the end to create light, airy texture",
+      "Spread onto prepared baking sheet quickly before mixture hardens"
+    ],
+    "coachingPrompt": "Help the user understand candy temperature stages and why baking soda creates the signature brittle crunch and aeration."
+  },
+  "timestamp": "2026-02-06T05:52:19.795Z"
+}

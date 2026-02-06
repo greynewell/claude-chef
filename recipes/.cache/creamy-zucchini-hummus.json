@@ -1,0 +1,68 @@
+{
+  "contentHash": "749092bfd09b36f5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 small zucchini, peeled and cut into chunks",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "2 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 tablespoon tahini",
+        "searchTerm": "tahini",
+        "normalizedName": "Tahini"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 pinch ground cumin",
+        "searchTerm": "cumin",
+        "normalizedName": "Cumin"
+      },
+      {
+        "ingredient": "1 pinch paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food Processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Blanch zucchini briefly before blending for smoother texture and better color retention",
+      "Add tahini gradually while blending to achieve desired creaminess",
+      "Taste and adjust lemon juice and salt for brightness and depth"
+    ],
+    "coachingPrompt": "Help the user achieve a silky, light green hummus with balanced acidity. Guide them to blanch zucchini and pulse gently to avoid gumminess."
+  },
+  "timestamp": "2026-02-06T04:35:33.081Z"
+}

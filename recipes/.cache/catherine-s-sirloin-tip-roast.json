@@ -1,0 +1,43 @@
+{
+  "contentHash": "5f57762e603904e1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds beef sirloin tip roast",
+        "searchTerm": "sirloin tip roast",
+        "normalizedName": "Beef Sirloin Tip Roast"
+      },
+      {
+        "ingredient": "4 cloves garlic, peeled and halved",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon coarsely ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Make slits in roast to insert garlic halves for flavor distribution",
+      "Let roast rest 10 minutes before slicing for juicier meat",
+      "Roast at 325°F until internal temperature reaches 145°F for medium-rare"
+    ],
+    "coachingPrompt": "How will inserting garlic slits affect the final flavor profile? What's your strategy for achieving even cooking throughout the roast?"
+  },
+  "timestamp": "2026-02-06T01:35:38.614Z"
+}

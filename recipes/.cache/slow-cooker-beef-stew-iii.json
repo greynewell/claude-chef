@@ -1,0 +1,73 @@
+{
+  "contentHash": "abe0c4884b6e7618",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 carrots, chopped",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 potatoes, peeled and cubed",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 cup sliced fresh mushrooms",
+        "searchTerm": "fresh mushrooms",
+        "normalizedName": "Fresh Mushroom"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 stalks celery, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "3 pounds cubed stew meat",
+        "searchTerm": "beef stew meat",
+        "normalizedName": "Beef Stew Meat"
+      },
+      {
+        "ingredient": "1 packet dry onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed golden mushroom soup",
+        "searchTerm": "mushroom soup",
+        "normalizedName": "Golden Mushroom Soup"
+      },
+      {
+        "ingredient": "1 ¾ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef knife"
+      },
+      {
+        "name": "Measuring Cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Layer ingredients in slow cooker for even cooking and flavor distribution",
+      "Cook on low for 8-10 hours until beef is very tender and vegetables are soft",
+      "The soup and soup mix create a rich, savory sauce"
+    ],
+    "coachingPrompt": "What's the best way to layer ingredients for even cooking, and how long should this stew cook?"
+  },
+  "timestamp": "2026-02-06T18:05:15.286Z"
+}

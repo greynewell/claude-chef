@@ -1,0 +1,43 @@
+{
+  "contentHash": "bbe82b540efc52ba",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (13 ounce) can roast beef, drained",
+        "searchTerm": "canned roast beef",
+        "normalizedName": "Roast Beef"
+      },
+      {
+        "ingredient": "1 ounce dry onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (8 ounce) container sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "serving dish",
+        "searchTerm": "serving bowl"
+      }
+    ],
+    "cookingTips": [
+      "Soften cream cheese to room temperature for smooth mixing",
+      "Drain roast beef well to avoid excess liquid in dip"
+    ],
+    "coachingPrompt": "Help me prepare a creamy roast beef dip that's perfect for entertaining. What consistency should I aim for?"
+  },
+  "timestamp": "2026-02-06T16:18:22.655Z"
+}

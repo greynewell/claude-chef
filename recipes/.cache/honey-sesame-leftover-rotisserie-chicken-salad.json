@@ -1,0 +1,87 @@
+{
+  "contentHash": "4303b62569c67565",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup slivered almonds",
+        "searchTerm": "almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "3 cups diced cooked rotisserie chicken",
+        "searchTerm": "rotisserie chicken",
+        "normalizedName": "Rotisserie Chicken"
+      },
+      {
+        "ingredient": "½ cup chopped roasted red peppers",
+        "searchTerm": "roasted red peppers",
+        "normalizedName": "Roasted Red Pepper"
+      },
+      {
+        "ingredient": "½ cup finely chopped celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 teaspoon sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "½ teaspoon freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "½ cup chopped fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "3 tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "2 tablespoons sesame oil",
+        "searchTerm": "sesame oil",
+        "normalizedName": "Sesame Oil"
+      },
+      {
+        "ingredient": "2 tablespoons grated fresh ginger root",
+        "searchTerm": "ginger",
+        "normalizedName": "Ginger"
+      },
+      {
+        "ingredient": "½ cup mandarin oranges",
+        "searchTerm": "mandarin oranges",
+        "normalizedName": "Mandarin Orange"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "small bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Chop diced rotisserie chicken into uniform bite-sized pieces",
+      "Combine mayo, honey, sesame oil, and ginger separately before folding into chicken"
+    ],
+    "coachingPrompt": "Guide the user to balance the ginger and sesame flavors—taste as you go since both are potent and can overpower."
+  },
+  "timestamp": "2026-02-06T09:24:29.256Z"
+}

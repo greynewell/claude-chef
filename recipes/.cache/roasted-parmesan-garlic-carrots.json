@@ -1,0 +1,44 @@
+{
+  "contentHash": "c6d37caccb5f6a2e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound carrots, peeled",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese, or more to taste",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sheet Pan",
+        "searchTerm": "sheet pan"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Cut carrots evenly lengthwise or into batons for consistent cooking",
+      "Toss with oil and garlic salt before roasting",
+      "Add Parmesan in final 5 minutes to keep it from burning"
+    ],
+    "coachingPrompt": "Guide the user through cutting and seasoning techniques to ensure tender carrots with a golden exterior."
+  },
+  "timestamp": "2026-02-06T16:25:50.180Z"
+}

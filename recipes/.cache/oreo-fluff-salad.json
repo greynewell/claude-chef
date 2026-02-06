@@ -1,0 +1,48 @@
+{
+  "contentHash": "f5b59f57af848cff",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 (3.4 ounce) packages instant vanilla pudding mix",
+        "searchTerm": "vanilla pudding mix",
+        "normalizedName": "Vanilla Pudding Mix"
+      },
+      {
+        "ingredient": "2 (8 ounce) containers whipped topping (such as Cool Whip®)",
+        "searchTerm": "whipped topping",
+        "normalizedName": "Whipped Topping"
+      },
+      {
+        "ingredient": "30 chocolate sandwich cookies (such as Oreo®), crushed",
+        "searchTerm": "oreo cookies",
+        "normalizedName": "Oreo Cookie"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Serving spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Fold in whipped topping in two additions for even distribution",
+      "Add cookies just before serving to maintain crunch",
+      "Chill for at least 30 minutes to let flavors meld"
+    ],
+    "coachingPrompt": "Guide the user in assembling a simple crowd-pleasing dessert where texture contrasts between fluffy and crunchy elements are preserved."
+  },
+  "timestamp": "2026-02-06T13:47:11.234Z"
+}

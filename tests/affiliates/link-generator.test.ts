@@ -4,8 +4,8 @@ import { EnrichmentResult } from '../../src/enrichment/types';
 
 const mockEnrichment: EnrichmentResult = {
   ingredients: [
-    { ingredient: '200g spaghetti', searchTerm: 'spaghetti pasta' },
-    { ingredient: '150g guanciale', searchTerm: 'guanciale Italian pork' },
+    { ingredient: '200g spaghetti', searchTerm: 'spaghetti pasta', normalizedName: 'Spaghetti' },
+    { ingredient: '150g guanciale', searchTerm: 'guanciale Italian pork', normalizedName: 'Guanciale' },
   ],
   gear: [
     { name: 'Large pot', searchTerm: 'large stock pot' },

@@ -1,0 +1,52 @@
+{
+  "contentHash": "657ff5043c211c64",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 egg whites",
+        "searchTerm": "egg whites",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "⅛ teaspoon cream of tartar",
+        "searchTerm": "cream of tartar",
+        "normalizedName": "Cream of Tartar"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ vanilla bean",
+        "searchTerm": "vanilla bean",
+        "normalizedName": "Vanilla Bean"
+      },
+      {
+        "ingredient": "1 tablespoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "electric mixer",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "piping bag",
+        "searchTerm": "piping bag"
+      }
+    ],
+    "cookingTips": [
+      "Ensure bowl and beaters are completely free of fat for proper whipping",
+      "Bake at low temperature for crispy, dry meringues that store well"
+    ],
+    "coachingPrompt": "Why is cream of tartar added to egg whites in meringue recipes?"
+  },
+  "timestamp": "2026-02-06T21:32:14.899Z"
+}

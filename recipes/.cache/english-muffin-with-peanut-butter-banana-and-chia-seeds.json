@@ -1,0 +1,53 @@
+{
+  "contentHash": "f46ca7545bdc7e8c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 whole-wheat English muffin, split",
+        "searchTerm": "whole wheat English muffin",
+        "normalizedName": "Whole Wheat English Muffin"
+      },
+      {
+        "ingredient": "2 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "½ banana, thinly sliced",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "2 teaspoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "2 teaspoons chia seeds",
+        "searchTerm": "chia seeds",
+        "normalizedName": "Chia Seed"
+      }
+    ],
+    "gear": [
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "plate",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Toast the English muffin until golden for better texture contrast",
+      "Slice banana thinly just before assembly to prevent browning",
+      "Drizzle honey evenly and sprinkle seeds just before eating for maximum crunch"
+    ],
+    "coachingPrompt": "This is a nutritious breakfast bowl. How should you toast and assemble the components for the best texture and flavor balance?"
+  },
+  "timestamp": "2026-02-06T06:21:09.557Z"
+}

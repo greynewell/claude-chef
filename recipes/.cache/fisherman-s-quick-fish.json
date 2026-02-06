@@ -1,0 +1,43 @@
+{
+  "contentHash": "bc49b1dc81518ffa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 (6 ounce) fillets cod",
+        "searchTerm": "cod fillets",
+        "normalizedName": "Cod Fillet"
+      },
+      {
+        "ingredient": "1 cup creamy Italian-style salad dressing",
+        "searchTerm": "Italian salad dressing",
+        "normalizedName": "Italian Salad Dressing"
+      },
+      {
+        "ingredient": "¼ cup shredded sharp Cheddar cheese",
+        "searchTerm": "sharp Cheddar cheese",
+        "normalizedName": "Sharp Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 cup crushed potato chips",
+        "searchTerm": "potato chips",
+        "normalizedName": "Potato Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Crush chips into varying sizes for interesting texture",
+      "Bake at 400°F for 10-12 minutes until fish flakes easily"
+    ],
+    "coachingPrompt": "What role does the salad dressing play in keeping this quick fish moist?"
+  },
+  "timestamp": "2026-02-06T06:44:59.889Z"
+}

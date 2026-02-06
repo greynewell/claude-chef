@@ -1,0 +1,67 @@
+{
+  "contentHash": "e988e696d201b7c8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package tri-color pasta",
+        "searchTerm": "tri-color pasta",
+        "normalizedName": "Pasta"
+      },
+      {
+        "ingredient": "1 cup creamy salad dressing",
+        "searchTerm": "creamy salad dressing",
+        "normalizedName": "Salad Dressing"
+      },
+      {
+        "ingredient": "½ (1 ounce) package ranch dressing mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Ranch Dressing Mix"
+      },
+      {
+        "ingredient": "1 (12 ounce) can tuna",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Tuna"
+      },
+      {
+        "ingredient": "⅓ cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 medium apple",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "1 large carrot",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "⅓ cup raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Cool pasta completely before mixing with dressing to prevent sogginess",
+      "Chop apple just before serving to prevent browning"
+    ],
+    "coachingPrompt": "How can this salad be made ahead while keeping the apple fresh?"
+  },
+  "timestamp": "2026-02-06T06:44:59.890Z"
+}

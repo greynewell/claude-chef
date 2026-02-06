@@ -1,0 +1,58 @@
+{
+  "contentHash": "75d124567b65192b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound spaghetti",
+        "searchTerm": "spaghetti",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 pound diced processed American cheese",
+        "searchTerm": "processed american cheese",
+        "normalizedName": "Processed American Cheese"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Dice cheese into small pieces for even melting",
+      "Toss hot pasta with cheese sauce immediately",
+      "Use processed cheese for smooth, creamy texture without graininess"
+    ],
+    "coachingPrompt": "How do we achieve creamy cheese coating on spaghetti without separating?"
+  },
+  "timestamp": "2026-02-06T01:46:03.007Z"
+}

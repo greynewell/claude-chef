@@ -1,0 +1,53 @@
+{
+  "contentHash": "3a0cc5a5654a4da0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¾ cup fresh lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "1 tablespoon lime zest",
+        "searchTerm": "lime zest",
+        "normalizedName": "Lime Zest"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "double boiler",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "fine mesh strainer",
+        "searchTerm": "fine mesh strainer"
+      }
+    ],
+    "cookingTips": [
+      "Stir constantly while cooking to prevent eggs from scrambling and ensure smooth texture",
+      "Cook over simmering water, not boiling, to prevent curdling and overheating",
+      "Strain finished curd through fine mesh to remove any cooked egg bits for silky texture"
+    ],
+    "coachingPrompt": "Guide the cook through maintaining proper temperature in a double boiler and recognizing when curd has reached the correct consistency."
+  },
+  "timestamp": "2026-02-06T06:58:44.019Z"
+}

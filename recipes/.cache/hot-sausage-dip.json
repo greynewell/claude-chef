@@ -1,0 +1,58 @@
+{
+  "contentHash": "e973885d83b8926a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground pork sausage",
+        "searchTerm": "ground sausage",
+        "normalizedName": "Ground Sausage"
+      },
+      {
+        "ingredient": "1 ½ cups chopped onions",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (10 ounce) can diced tomatoes with green chile peppers, drained",
+        "searchTerm": "diced tomatoes with green chiles",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (16 ounce) container sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 tablespoon crushed red pepper",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausage completely and drain excess fat before adding to dip",
+      "Keep dip warm in slow cooker on low setting for serving",
+      "Stir frequently to prevent burning on bottom"
+    ],
+    "coachingPrompt": "Guide me through browning sausage properly and creating a smooth, creamy dip texture."
+  },
+  "timestamp": "2026-02-06T09:31:54.534Z"
+}

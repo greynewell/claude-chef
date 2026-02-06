@@ -1,0 +1,58 @@
+{
+  "contentHash": "a666a3557b683842",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "½ cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 jalapeno peppers, seeded and minced",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "4 (6 ounce) skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 cup seasoned bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "¼ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Meat Mallet",
+        "searchTerm": "meat mallet"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Shallow Dish",
+        "searchTerm": "shallow dish"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken breasts to even thickness before stuffing to ensure uniform cooking",
+      "Create a pocket in each chicken breast without cutting all the way through",
+      "Use a meat thermometer to ensure chicken reaches 165°F internal temperature"
+    ],
+    "coachingPrompt": "How would you stuff and seal the chicken breast to keep the filling inside while pan-frying?"
+  },
+  "timestamp": "2026-02-06T10:15:43.191Z"
+}

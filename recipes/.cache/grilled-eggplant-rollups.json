@@ -1,0 +1,58 @@
+{
+  "contentHash": "bce4548ffcb20c73",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 eggplant, peeled and sliced lengthwise into 1/4-inch slices",
+        "searchTerm": "eggplant",
+        "normalizedName": "Eggplant"
+      },
+      {
+        "ingredient": "salt as needed",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil, or as needed",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 pinch Italian seasoning, or to taste",
+        "searchTerm": "Italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      },
+      {
+        "ingredient": "1 (4 ounce) log goat cheese, softened",
+        "searchTerm": "goat cheese",
+        "normalizedName": "Goat Cheese"
+      },
+      {
+        "ingredient": "2 canned whole roasted red peppers, drained and diced",
+        "searchTerm": "roasted red peppers",
+        "normalizedName": "Roasted Red Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "grill tongs"
+      }
+    ],
+    "cookingTips": [
+      "Salt eggplant slices and let sit for 20 minutes to draw out moisture before grilling",
+      "Pat eggplant dry before grilling to achieve better browning",
+      "Fill and roll warm eggplant slices while still pliable for easier rolling"
+    ],
+    "coachingPrompt": "Help the user understand the salting technique for eggplant and how to roll delicate grilled slices without tearing."
+  },
+  "timestamp": "2026-02-06T08:15:36.945Z"
+}

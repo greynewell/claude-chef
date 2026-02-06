@@ -1,0 +1,63 @@
+{
+  "contentHash": "7fc361dfc60ac393",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "¾ cup unpopped popcorn",
+        "searchTerm": "popcorn kernel",
+        "normalizedName": "Popcorn Kernel"
+      },
+      {
+        "ingredient": "¼ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup nutritional yeast",
+        "searchTerm": "nutritional yeast",
+        "normalizedName": "Nutritional Yeast"
+      },
+      {
+        "ingredient": "1 tablespoon chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "1 teaspoon ground cumin",
+        "searchTerm": "cumin",
+        "normalizedName": "Cumin"
+      },
+      {
+        "ingredient": "½ teaspoon salt, or to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot with lid",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Heat oil and a few kernels first, add remaining kernels once one kernel pops",
+      "Keep lid slightly ajar to allow steam to escape while popping continues",
+      "Toss popcorn with seasoning while still warm so it adheres"
+    ],
+    "coachingPrompt": "Help the user master stovetop popcorn popping and create restaurant-style flavored popcorn at home."
+  },
+  "timestamp": "2026-02-06T06:18:17.928Z"
+}

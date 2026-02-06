@@ -1,0 +1,63 @@
+{
+  "contentHash": "b49e3e28b2cfd202",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 large eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "5 green onions, white parts only, minced",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "⅓ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 tablespoons dill pickle relish",
+        "searchTerm": "dill pickle relish",
+        "normalizedName": "Dill Pickle Relish"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      },
+      {
+        "ingredient": "½ tablespoon sweet hot mustard",
+        "searchTerm": "sweet hot mustard",
+        "normalizedName": "Sweet Hot Mustard"
+      },
+      {
+        "ingredient": "½ tablespoon spicy brown mustard",
+        "searchTerm": "spicy brown mustard",
+        "normalizedName": "Spicy Brown Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Use only the white parts of green onions for milder flavor",
+      "Combine both mustards for balanced sweet and spicy notes",
+      "Fresh parsley adds color and brightness to the salad"
+    ],
+    "coachingPrompt": "Do you prefer more heat or sweetness - adjust the mustard ratio accordingly?"
+  },
+  "timestamp": "2026-02-06T06:10:55.752Z"
+}

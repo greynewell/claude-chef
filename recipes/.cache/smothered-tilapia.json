@@ -1,0 +1,54 @@
+{
+  "contentHash": "74422b98c8b8dbdb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound tilapia fillets",
+        "searchTerm": "tilapia fillets",
+        "normalizedName": "Tilapia Fillet"
+      },
+      {
+        "ingredient": "2 large lemons",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "1 pinch steak seasoning",
+        "searchTerm": "steak seasoning",
+        "normalizedName": "Steak Seasoning"
+      },
+      {
+        "ingredient": "4 slices Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "2 large tomatoes, sliced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 pinch dried oregano",
+        "searchTerm": "oregano",
+        "normalizedName": "Oregano"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Layer tomatoes and cheese evenly over fillets for consistent cooking",
+      "Squeeze fresh lemon juice just before serving to brighten flavors",
+      "Don't overcook tilapia - it dries quickly at high heat"
+    ],
+    "coachingPrompt": "How would you ensure the tilapia stays moist while the cheese melts through? What oven temperature would you recommend?"
+  },
+  "timestamp": "2026-02-06T18:28:41.092Z"
+}

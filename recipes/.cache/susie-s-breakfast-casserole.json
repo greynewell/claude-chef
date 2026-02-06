@@ -1,0 +1,68 @@
+{
+  "contentHash": "03c4322d3da7ea93",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "3 slices bread, torn in pieces",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "1 (12 ounce) package cooked breakfast sausage",
+        "searchTerm": "breakfast sausage",
+        "normalizedName": "Breakfast Sausage"
+      },
+      {
+        "ingredient": "½ cup Monterey Jack cheese",
+        "searchTerm": "Monterey Jack cheese",
+        "normalizedName": "Monterey Jack Cheese"
+      },
+      {
+        "ingredient": "½ cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 inch baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Prepare casserole the night before and refrigerate for convenience",
+      "Let casserole sit 10 minutes after baking before serving",
+      "Tear bread into uniform pieces for even cooking"
+    ],
+    "coachingPrompt": "How could you prepare this dish ahead of time?"
+  },
+  "timestamp": "2026-02-06T19:55:06.203Z"
+}

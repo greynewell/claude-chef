@@ -1,0 +1,58 @@
+{
+  "contentHash": "40380bb9c45b311e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 teaspoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "12 Brussels sprouts, trimmed and thinly sliced",
+        "searchTerm": "brussels sprout",
+        "normalizedName": "Brussels Sprout"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Slice Brussels sprouts thinly for quick, even cooking and tender texture",
+      "Cook over medium-high heat until edges are caramelized and leaves are crispy",
+      "Add lemon juice at the end to preserve brightness and prevent browning"
+    ],
+    "coachingPrompt": "Help the user achieve perfectly caramelized Brussels sprouts with crispy outer leaves while maintaining a tender interior."
+  },
+  "timestamp": "2026-02-06T21:10:32.832Z"
+}

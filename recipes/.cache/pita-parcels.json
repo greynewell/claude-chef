@@ -1,0 +1,53 @@
+{
+  "contentHash": "d97ebb93fa2e840a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 oval pita breads",
+        "searchTerm": "pita bread",
+        "normalizedName": "Pita Bread"
+      },
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 tablespoons corn relish",
+        "searchTerm": "corn relish",
+        "normalizedName": "Corn Relish"
+      },
+      {
+        "ingredient": "3 leaves lettuce, chopped",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "10 frozen chicken nuggets, thawed",
+        "searchTerm": "chicken nuggets",
+        "normalizedName": "Chicken Nugget"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Thaw chicken nuggets completely before assembling for better texture",
+      "Spread mayo evenly on pita to prevent soggy spots",
+      "Add lettuce last to maintain crispness until serving"
+    ],
+    "coachingPrompt": "Guide the user in creating quick, kid-friendly pita wraps by properly thawing and layering ingredients for the best texture."
+  },
+  "timestamp": "2026-02-06T14:53:14.572Z"
+}

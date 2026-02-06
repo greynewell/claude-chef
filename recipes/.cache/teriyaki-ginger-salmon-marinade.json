@@ -1,0 +1,48 @@
+{
+  "contentHash": "83b9adeae1350561",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ cup Kikkoman Teriyaki Marinade & Sauce",
+        "searchTerm": "teriyaki marinade",
+        "normalizedName": "Teriyaki Marinade"
+      },
+      {
+        "ingredient": "2 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon grated fresh ginger root",
+        "searchTerm": "ginger",
+        "normalizedName": "Ginger"
+      },
+      {
+        "ingredient": "4 steaks salmon steaks",
+        "searchTerm": "salmon steaks",
+        "normalizedName": "Salmon Steak"
+      }
+    ],
+    "gear": [
+      {
+        "name": "shallow dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "grill or skillet",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Marinate salmon for 30 minutes to 1 hour; longer marinating can make fish mushy",
+      "Save marinade before adding raw fish to use as a finishing glaze",
+      "Cook salmon skin-side down first for crispier skin"
+    ],
+    "coachingPrompt": "Guide me through marinating and cooking these salmon steaks until they're flaky with a nice glaze."
+  },
+  "timestamp": "2026-02-06T20:25:18.852Z"
+}

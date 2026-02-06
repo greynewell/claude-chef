@@ -1,0 +1,52 @@
+{
+  "contentHash": "c02534d965b48ab7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (8 ounce) packages dry corn bread mix",
+        "searchTerm": "cornbread mix",
+        "normalizedName": "Cornbread Mix"
+      },
+      {
+        "ingredient": "1 red onion, chopped",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "1 green bell pepper, chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 tomato, chopped",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "4 cups mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven for cornbread",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Bake cornbread according to package directions, then cube and let cool",
+      "The heavy mayo binding keeps everything moist overnight"
+    ],
+    "coachingPrompt": "Guide the user through baking cornbread, cubing it, and layering with vegetables and mayo for a make-ahead salad."
+  },
+  "timestamp": "2026-02-06T13:54:58.472Z"
+}

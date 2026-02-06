@@ -1,0 +1,63 @@
+{
+  "contentHash": "978216c721fdae61",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup shortening",
+        "searchTerm": "shortening",
+        "normalizedName": "Shortening"
+      },
+      {
+        "ingredient": "1 cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 tablespoon almond extract",
+        "searchTerm": "almond extract",
+        "normalizedName": "Almond Extract"
+      },
+      {
+        "ingredient": "4 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "⅓ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Cream shortening and butter thoroughly until light and fluffy to incorporate air",
+      "Add extracts at the end to prevent over-beating which can develop gluten",
+      "Chill dough before shaping for easier handling and better-defined cookies"
+    ],
+    "coachingPrompt": "How do shortening and butter work together in cookie dough? What role does creaming play in texture?"
+  },
+  "timestamp": "2026-02-06T13:03:47.451Z"
+}

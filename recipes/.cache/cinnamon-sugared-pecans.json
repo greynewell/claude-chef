@@ -1,0 +1,53 @@
+{
+  "contentHash": "04004ac32460940d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg white",
+        "searchTerm": "egg white",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "4 cups pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 teaspoons ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Small Bowl",
+        "searchTerm": "small bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Whip egg white until foamy to create coating that adheres well to nuts",
+      "Toss pecans gently to avoid breaking them while ensuring even coating",
+      "Cool on parchment paper to prevent sticking and ease cleanup"
+    ],
+    "coachingPrompt": "Egg white creates a binding coating that caramelizes during baking. How can you achieve even browning?"
+  },
+  "timestamp": "2026-02-06T03:26:39.993Z"
+}

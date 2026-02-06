@@ -1,0 +1,58 @@
+{
+  "contentHash": "be5c6462f1457053",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 frozen salmon fillets",
+        "searchTerm": "frozen salmon fillets",
+        "normalizedName": "Frozen Salmon Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Instant Pot",
+        "searchTerm": "instant pot"
+      },
+      {
+        "name": "Steamer Rack",
+        "searchTerm": "steamer rack"
+      },
+      {
+        "name": "Fish Spatula",
+        "searchTerm": "fish spatula"
+      }
+    ],
+    "cookingTips": [
+      "Cook frozen salmon on high pressure for 5 minutes without thawing for best results",
+      "Lemon juice helps prevent the salmon from sticking and adds brightness",
+      "Use quick release to stop the cooking process and prevent overcooking"
+    ],
+    "coachingPrompt": "Are you comfortable cooking from frozen? Would you like tips on timing and texture when cooking frozen fish?"
+  },
+  "timestamp": "2026-02-06T09:50:38.706Z"
+}

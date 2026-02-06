@@ -1,0 +1,38 @@
+{
+  "contentHash": "7902707fe6d5f15c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups instant rice",
+        "searchTerm": "instant rice",
+        "normalizedName": "Instant Rice"
+      },
+      {
+        "ingredient": "1 (5 ounce) can chicken chunks, drained",
+        "searchTerm": "canned chicken",
+        "normalizedName": "Canned Chicken"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of chicken soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream of Chicken Soup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "This quick meal is ready in under 15 minutes",
+      "Add frozen vegetables for extra nutrition and color"
+    ],
+    "coachingPrompt": "This is a fast weeknight meal. What fresh ingredients could elevate it without adding much time?"
+  },
+  "timestamp": "2026-02-06T02:24:23.794Z"
+}

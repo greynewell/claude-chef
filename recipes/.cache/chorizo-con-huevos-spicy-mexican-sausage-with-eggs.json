@@ -1,0 +1,42 @@
+{
+  "contentHash": "00ff24c6a96ae880",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 chorizo sausage links",
+        "searchTerm": "chorizo sausage",
+        "normalizedName": "Chorizo Sausage"
+      },
+      {
+        "ingredient": "9 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "5 (6 inch) corn tortillas",
+        "searchTerm": "corn tortillas",
+        "normalizedName": "Corn Tortilla"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "tortilla warmer",
+        "searchTerm": "tortilla warmer"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Cook chorizo first to render fat, which becomes the cooking medium for eggs",
+      "Beat eggs with a splash of water before adding for fluffier texture"
+    ],
+    "coachingPrompt": "Why is chorizo fat superior to butter or oil for cooking these eggs?"
+  },
+  "timestamp": "2026-02-06T03:15:44.395Z"
+}

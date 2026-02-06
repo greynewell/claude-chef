@@ -1,0 +1,48 @@
+{
+  "contentHash": "3c0598dfacbca8ed",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (.25 ounce) package active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "4 cups sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 (12 fluid ounce) can frozen juice concentrate",
+        "searchTerm": "frozen juice concentrate",
+        "normalizedName": "Frozen Juice Concentrate"
+      },
+      {
+        "ingredient": "3 ½ quarts cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large glass carboy or demijohn",
+        "searchTerm": "carboy"
+      },
+      {
+        "name": "airlock or S-shaped tube",
+        "searchTerm": "airlock"
+      },
+      {
+        "name": "hydrometer",
+        "searchTerm": "hydrometer"
+      }
+    ],
+    "cookingTips": [
+      "Sterilize all equipment with sanitizer before starting to prevent contamination",
+      "Maintain fermentation temperature between 65-75°F for consistent results",
+      "Fermentation typically takes 4-6 weeks; rack the wine when sediment accumulates at bottom"
+    ],
+    "coachingPrompt": "I want to make wine at home but I'm worried about contamination. What sanitation steps are most important?"
+  },
+  "timestamp": "2026-02-06T09:19:09.786Z"
+}

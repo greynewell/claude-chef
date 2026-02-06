@@ -1,0 +1,47 @@
+{
+  "contentHash": "2c2d9bc075995de9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 quart whole milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "5 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "heavy pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "candy thermometer",
+        "searchTerm": "candy thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Temper eggs by slowly whisking hot milk into egg mixture to prevent scrambling",
+      "Cook to 160°F for food safety without curdling"
+    ],
+    "coachingPrompt": "Guide the user through tempering eggs properly and maintaining precise temperature to create smooth, silky custard without curdling."
+  },
+  "timestamp": "2026-02-06T18:39:20.489Z"
+}

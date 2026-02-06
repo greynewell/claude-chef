@@ -1,0 +1,63 @@
+{
+  "contentHash": "b11a8b1f34c9a948",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds new red potatoes",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¾ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "2 tablespoons dried dill weed",
+        "searchTerm": "dried dill",
+        "normalizedName": "Dried Dill"
+      },
+      {
+        "ingredient": "4 green onions, chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 pinch salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Leave potato skins on for rustic texture and added nutrition",
+      "Boil potatoes whole to prevent waterlogging",
+      "Toss warm potatoes with dressing to allow better flavor absorption"
+    ],
+    "coachingPrompt": "Guide the user through proper potato cooking and explain why warm potatoes absorb dressing flavors better than cold ones."
+  },
+  "timestamp": "2026-02-06T12:43:13.317Z"
+}

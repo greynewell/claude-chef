@@ -1,0 +1,73 @@
+{
+  "contentHash": "cd56c353917af751",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 ounces Dietz & Watson Originals Oven Roasted Chicken Breast, diced",
+        "searchTerm": "oven roasted chicken breast",
+        "normalizedName": "Oven Roasted Chicken Breast"
+      },
+      {
+        "ingredient": "⅛ cup Greek yogurt",
+        "searchTerm": "Greek yogurt",
+        "normalizedName": "Greek Yogurt"
+      },
+      {
+        "ingredient": "¼ red onion, diced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "1 stalk celery, diced",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 green apple, chopped",
+        "searchTerm": "green apple",
+        "normalizedName": "Green Apple"
+      },
+      {
+        "ingredient": "¼ cup dried cranberries",
+        "searchTerm": "dried cranberries",
+        "normalizedName": "Dried Cranberry"
+      },
+      {
+        "ingredient": "1 cup spring mix greens",
+        "searchTerm": "spring mix",
+        "normalizedName": "Spring Mix"
+      },
+      {
+        "ingredient": "¼ cup pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      },
+      {
+        "ingredient": "½ tablespoon freshly squeezed lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mason jar",
+        "searchTerm": "mason jar"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Layer dressing on bottom of jar to prevent greens from getting soggy",
+      "Layer heartier ingredients next, then delicate greens on top",
+      "Shake jar just before eating to combine all ingredients"
+    ],
+    "coachingPrompt": "Would you like tips for preparing mason jar salads for the week ahead?"
+  },
+  "timestamp": "2026-02-06T13:48:11.180Z"
+}

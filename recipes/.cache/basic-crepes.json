@@ -1,0 +1,58 @@
+{
+  "contentHash": "51528a0231aaae32",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 tablespoons butter, melted",
+        "searchTerm": "melted butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "crepe pan or non-stick skillet",
+        "searchTerm": "crepe pan"
+      },
+      {
+        "name": "ladle",
+        "searchTerm": "ladle"
+      },
+      {
+        "name": "rubber spatula",
+        "searchTerm": "rubber spatula"
+      }
+    ],
+    "cookingTips": [
+      "Let batter rest for 30 minutes at room temperature to relax gluten",
+      "Heat pan over medium-high heat until a drop of water sizzles immediately",
+      "Use ladle to pour batter in center; immediately tilt and rotate pan to spread thin layer evenly"
+    ],
+    "coachingPrompt": "Help the user master crepe technique by achieving proper pan temperature and rotating the pan smoothly to spread thin, even crepes."
+  },
+  "timestamp": "2026-02-05T23:32:42.647Z"
+}

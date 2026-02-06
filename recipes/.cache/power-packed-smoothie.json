@@ -1,0 +1,47 @@
+{
+  "contentHash": "de7ecd5f36e1d7d8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 small banana",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "½ cup spinach",
+        "searchTerm": "spinach fresh",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "1 teaspoon spirulina powder",
+        "searchTerm": "spirulina powder",
+        "normalizedName": "Spirulina Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Measuring cup",
+        "searchTerm": "measuring cup"
+      },
+      {
+        "name": "Glass",
+        "searchTerm": "glass"
+      }
+    ],
+    "cookingTips": [
+      "Freeze banana for thicker, creamier smoothie",
+      "Add spirulina last to blend evenly without clumping"
+    ],
+    "coachingPrompt": "How can I mask the taste of spirulina if it's too strong?"
+  },
+  "timestamp": "2026-02-06T15:16:44.240Z"
+}

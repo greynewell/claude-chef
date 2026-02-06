@@ -1,0 +1,53 @@
+{
+  "contentHash": "d18eff8b6c522a58",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 slices thick-cut rye bread",
+        "searchTerm": "rye bread",
+        "normalizedName": "Rye Bread"
+      },
+      {
+        "ingredient": "2 slices Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "2 slices leftover turkey meat, or to taste",
+        "searchTerm": "turkey meat",
+        "normalizedName": "Turkey Meat"
+      },
+      {
+        "ingredient": "¼ cup baby spinach, or to taste",
+        "searchTerm": "baby spinach",
+        "normalizedName": "Baby Spinach"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "grill spatula"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "serrated knife"
+      }
+    ],
+    "cookingTips": [
+      "Spread mayonnaise on bread before assembling for even distribution and protection from sogginess",
+      "Grill over medium heat until bread is golden brown and cheese is melted, about 2-3 minutes per side",
+      "Use a spatula to gently flip the sandwich and prevent fillings from slipping out"
+    ],
+    "coachingPrompt": "This is a quick, easy sandwich. Would you like suggestions for flavor enhancements or vegetable additions?"
+  },
+  "timestamp": "2026-02-06T08:30:16.359Z"
+}

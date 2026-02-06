@@ -1,0 +1,47 @@
+{
+  "contentHash": "a1c8af58fc67c321",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup Irish cream liqueur",
+        "searchTerm": "Irish cream liqueur",
+        "normalizedName": "Irish Cream Liqueur"
+      },
+      {
+        "ingredient": "½ cup vodka",
+        "searchTerm": "vodka",
+        "normalizedName": "Vodka"
+      },
+      {
+        "ingredient": "1 (4 serving size) package instant chocolate pudding mix",
+        "searchTerm": "instant chocolate pudding mix",
+        "normalizedName": "Instant Chocolate Pudding Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "shot glasses",
+        "searchTerm": "shot glasses"
+      }
+    ],
+    "cookingTips": [
+      "Whisk pudding mixture until thick enough to hold shape in glasses",
+      "Freeze or refrigerate shots for at least 2 hours before serving"
+    ],
+    "coachingPrompt": "How will you achieve the right consistency so pudding shots hold their shape when served?"
+  },
+  "timestamp": "2026-02-06T15:21:30.840Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "cc09f09bf8a639a5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound fresh green beans, trimmed",
+        "searchTerm": "green beans",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon kosher salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill basket",
+        "searchTerm": "grill basket"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Use a grill basket to prevent beans from falling through grates",
+      "Toss beans frequently for even charring and cooking",
+      "Beans are done when lightly charred and tender-crisp, about 8-10 minutes"
+    ],
+    "coachingPrompt": "How will you prevent small vegetables like green beans from slipping through your grill grates?"
+  },
+  "timestamp": "2026-02-06T08:17:29.794Z"
+}

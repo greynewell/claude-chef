@@ -1,0 +1,53 @@
+{
+  "contentHash": "5b611d9ceeade963",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 can chunk light tuna",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Canned Tuna"
+      },
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "1 bagel",
+        "searchTerm": "bagel",
+        "normalizedName": "Bagel"
+      },
+      {
+        "ingredient": "½ cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Drain tuna thoroughly to prevent the bagel from becoming soggy",
+      "Toast bagel halves before adding tuna mixture for better texture",
+      "Broil for 2-3 minutes until cheese melts and edges are lightly browned"
+    ],
+    "coachingPrompt": "Guide the user through assembling a quick, protein-rich lunch and help them balance the simple mayonnaise-tuna filling with sharp Cheddar."
+  },
+  "timestamp": "2026-02-06T18:51:18.164Z"
+}

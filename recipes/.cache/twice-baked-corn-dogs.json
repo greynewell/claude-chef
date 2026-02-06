@@ -1,0 +1,43 @@
+{
+  "contentHash": "4357858809d1db6d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 corn dogs",
+        "searchTerm": "corn dogs",
+        "normalizedName": "Corn Dog"
+      },
+      {
+        "ingredient": "½ cup leftover mashed potatoes",
+        "searchTerm": "mashed potatoes",
+        "normalizedName": "Mashed Potato"
+      },
+      {
+        "ingredient": "¼ cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "small knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Slice corn dogs lengthwise without cutting completely through to create a pocket",
+      "Use room-temperature mashed potatoes for easier stuffing",
+      "Broil briefly after filling to melt cheese and warm through"
+    ],
+    "coachingPrompt": "Show the cook how to transform leftover corn dogs and potatoes into an easy, kid-friendly twice-baked appetizer or lunch."
+  },
+  "timestamp": "2026-02-06T21:24:50.884Z"
+}

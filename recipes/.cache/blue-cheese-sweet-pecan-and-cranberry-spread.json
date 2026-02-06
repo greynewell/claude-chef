@@ -1,0 +1,43 @@
+{
+  "contentHash": "78661f43b841dfdb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 ounces crumbled blue cheese",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      },
+      {
+        "ingredient": "4 ounces cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "½ cup chopped candied pecans",
+        "searchTerm": "candied pecans",
+        "normalizedName": "Candied Pecan"
+      },
+      {
+        "ingredient": "½ cup chopped dried cranberries",
+        "searchTerm": "dried cranberries",
+        "normalizedName": "Dried Cranberry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Use room temperature cream cheese for smooth, even mixing",
+      "Pulse ingredients briefly to preserve texture of nuts and cranberries"
+    ],
+    "coachingPrompt": "How would you balance the salty blue cheese with sweet fruit and nuts?"
+  },
+  "timestamp": "2026-02-06T00:19:44.073Z"
+}

@@ -1,0 +1,47 @@
+{
+  "contentHash": "97f6adf3af401362",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package uncooked spaghetti",
+        "searchTerm": "spaghetti",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "2 (24 ounce) jars RAGÚ® Old World Style® Traditional Sauce",
+        "searchTerm": "marinara sauce",
+        "normalizedName": "Marinara Sauce"
+      },
+      {
+        "ingredient": "2 cups mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cook spaghetti al dente since it will continue cooking in the oven",
+      "Mix cream cheese with the sauce while hot so it blends smoothly"
+    ],
+    "coachingPrompt": "How do I prevent this baked spaghetti from drying out in the oven?"
+  },
+  "timestamp": "2026-02-06T04:20:45.475Z"
+}

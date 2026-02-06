@@ -1,0 +1,78 @@
+{
+  "contentHash": "2867100e1ae91b96",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups whole milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "4 (10 ounce) boxes frozen chopped spinach, thawed and squeezed dry",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "reserve 1/2 cup liquid",
+        "searchTerm": "spinach liquid",
+        "normalizedName": "Spinach Liquid"
+      },
+      {
+        "ingredient": "3 large garlic cloves, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "½ teaspoon ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      },
+      {
+        "ingredient": "Salt and ground black pepper",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "Salt and ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Reserve spinach liquid before squeezing and use it to adjust sauce consistency",
+      "Sauté garlic in butter briefly before adding flour to build flavor",
+      "Stir in Parmesan at the end off heat to preserve its flavor"
+    ],
+    "coachingPrompt": "I'm making classic creamed spinach. Should I sauté the garlic first, and when should I add the Parmesan?"
+  },
+  "timestamp": "2026-02-06T04:19:52.025Z"
+}

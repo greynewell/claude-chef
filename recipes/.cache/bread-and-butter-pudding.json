@@ -1,0 +1,62 @@
+{
+  "contentHash": "98f9c85e3bb6b67e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 slices stale bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "½ cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup dried currants",
+        "searchTerm": "dried currants",
+        "normalizedName": "Dried Currant"
+      },
+      {
+        "ingredient": "1 ¾ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 pinch ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Small bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Stale bread works better than fresh as it absorbs the custard liquid without becoming mushy",
+      "Soak the bread in the custard mixture for 10-15 minutes before baking for better integration"
+    ],
+    "coachingPrompt": "Is this your first time making bread pudding? Would you like tips on achieving the perfect custard consistency?"
+  },
+  "timestamp": "2026-02-06T00:34:57.322Z"
+}

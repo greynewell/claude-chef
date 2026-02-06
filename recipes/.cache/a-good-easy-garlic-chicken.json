@@ -1,0 +1,53 @@
+{
+  "contentHash": "352d859300b16528",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 teaspoons garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 teaspoon seasoning salt",
+        "searchTerm": "seasoning salt",
+        "normalizedName": "Seasoning Salt"
+      },
+      {
+        "ingredient": "1 teaspoon onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Season chicken generously on all sides before cooking",
+      "Don't overcrowd the pan; cook in batches if needed for even browning",
+      "Check internal temperature reaches 165°F for food safety"
+    ],
+    "coachingPrompt": "Help me season the chicken properly and pan-fry it until golden with proper heat management."
+  },
+  "timestamp": "2026-02-05T21:30:03.108Z"
+}

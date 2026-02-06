@@ -1,0 +1,63 @@
+{
+  "contentHash": "6dfad1ed6caeab12",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds uncooked medium shrimp, peeled and deveined",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "3 tablespoons extra-virgin olive oil",
+        "searchTerm": "extra-virgin olive oil",
+        "normalizedName": "Extra-Virgin Olive Oil"
+      },
+      {
+        "ingredient": "3 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "1 ½ tablespoons cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "4 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 tablespoons melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Skewers",
+        "searchTerm": "skewers"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Marinate shrimp for at least 30 minutes to infuse flavor",
+      "Use skewers and thread shrimp through to prevent spinning",
+      "Grill 2-3 minutes per side until shrimp turns opaque"
+    ],
+    "coachingPrompt": "Guide the user through proper marinade technique and how to judge doneness on a grill without overcooking delicate shrimp."
+  },
+  "timestamp": "2026-02-06T19:01:11.511Z"
+}

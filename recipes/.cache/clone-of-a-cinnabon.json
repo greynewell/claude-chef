@@ -1,0 +1,103 @@
+{
+  "contentHash": "1669f34cb4704503",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup warm milk (110 degrees F/45 degrees C)",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 eggs, room temperature",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅓ cup margarine, melted",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "4 ½ cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 ½ teaspoons bread machine yeast",
+        "searchTerm": "bread yeast",
+        "normalizedName": "Bread Machine Yeast"
+      },
+      {
+        "ingredient": "1 cup brown sugar, packed",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "2 ½ tablespoons ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "⅓ cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (3 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "¼ cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 ½ cups confectioners' sugar",
+        "searchTerm": "confectioners sugar",
+        "normalizedName": "Confectioners' Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "⅛ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bread machine",
+        "searchTerm": "bread machine"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "rolling pin",
+        "searchTerm": "rolling pin"
+      }
+    ],
+    "cookingTips": [
+      "Use bread machine for dough if available, or mix and knead by hand for 10 minutes",
+      "Let dough rise in warm location until doubled for best texture",
+      "Roll dough thin and apply filling evenly for consistent cinnamon distribution"
+    ],
+    "coachingPrompt": "Guide the user through making a homemade cinnamon roll clone with proper dough handling and frosting."
+  },
+  "timestamp": "2026-02-06T03:34:47.162Z"
+}

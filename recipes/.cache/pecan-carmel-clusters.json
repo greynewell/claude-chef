@@ -1,0 +1,52 @@
+{
+  "contentHash": "7e84ebe677a7fd0e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "caramel, individually wrapped unwrapped",
+        "searchTerm": "caramels",
+        "normalizedName": "Caramel"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "pecan, chopped",
+        "searchTerm": "chopped pecans",
+        "normalizedName": "Pecan"
+      },
+      {
+        "ingredient": "dark chocolate, broken into small piece",
+        "searchTerm": "dark chocolate",
+        "normalizedName": "Dark Chocolate"
+      }
+    ],
+    "gear": [
+      {
+        "name": "double boiler",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "spoon for dropping",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Use a double boiler to melt chocolate gently without burning",
+      "Chill clusters on parchment paper until chocolate sets completely"
+    ],
+    "coachingPrompt": "How do you balance the sweetness of caramel and chocolate with the richness of pecans?"
+  },
+  "timestamp": "2026-02-06T14:28:16.124Z"
+}

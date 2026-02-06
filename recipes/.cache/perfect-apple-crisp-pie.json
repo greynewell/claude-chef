@@ -1,0 +1,68 @@
+{
+  "contentHash": "37cc0f84dc66cd7c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "apple",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "quick-cooking oats",
+        "searchTerm": "oats quick-cooking",
+        "normalizedName": "Quick-Cooking Oat"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "deep-dish pie shell",
+        "searchTerm": "pie shell",
+        "normalizedName": "Deep-Dish Pie Shell"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9 inch pie dish",
+        "searchTerm": "pie dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "pastry cutter",
+        "searchTerm": "pastry cutter"
+      }
+    ],
+    "cookingTips": [
+      "Peel and slice apples uniformly so they cook evenly",
+      "Toss apples with sugar and cinnamon to macerate slightly before adding to crust",
+      "Cut butter into flour mixture until texture resembles breadcrumbs for crispy topping"
+    ],
+    "coachingPrompt": "What's the secret to a crisp topping that doesn't get soggy from the apple filling?"
+  },
+  "timestamp": "2026-02-06T14:34:09.067Z"
+}

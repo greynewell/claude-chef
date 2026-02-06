@@ -1,0 +1,78 @@
+{
+  "contentHash": "0de0d3819e724bb1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground white pepper",
+        "searchTerm": "white pepper",
+        "normalizedName": "White Pepper"
+      },
+      {
+        "ingredient": "chicken bouillon powder",
+        "searchTerm": "chicken bouillon",
+        "normalizedName": "Chicken Bouillon"
+      },
+      {
+        "ingredient": "chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "half-and-half",
+        "searchTerm": "half-and-half",
+        "normalizedName": "Half-and-Half"
+      },
+      {
+        "ingredient": "medium shrimp",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "crabmeat",
+        "searchTerm": "crabmeat",
+        "normalizedName": "Crabmeat"
+      },
+      {
+        "ingredient": "white wine",
+        "searchTerm": "white wine",
+        "normalizedName": "White Wine"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Create a smooth roux by whisking flour continuously into melted butter",
+      "Add wine first to deglaze and develop flavor before adding cream",
+      "Fold in seafood gently at the end to preserve delicate texture"
+    ],
+    "coachingPrompt": "Help the user master roux-making and guide them on proper timing for adding seafood without overcooking it."
+  },
+  "timestamp": "2026-02-06T17:30:37.368Z"
+}

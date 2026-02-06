@@ -1,0 +1,73 @@
+{
+  "contentHash": "76a85715733e080b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 extra large egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons dry milk powder",
+        "searchTerm": "dry milk powder",
+        "normalizedName": "Dry Milk Powder"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 ½ teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 cup bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 ¼ teaspoons active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bread machine",
+        "searchTerm": "bread machine"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      },
+      {
+        "name": "mixing spoon",
+        "searchTerm": "mixing spoon"
+      }
+    ],
+    "cookingTips": [
+      "Add ingredients in order specified by bread machine manufacturer",
+      "Use bread flour blend with all-purpose for better texture and crust",
+      "Check dough consistency during first knead cycle; adjust water if too dry or wet"
+    ],
+    "coachingPrompt": "Why mix bread flour with all-purpose flour? How do bread machines differ from manual kneading?"
+  },
+  "timestamp": "2026-02-06T16:32:17.109Z"
+}

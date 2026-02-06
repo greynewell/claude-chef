@@ -1,0 +1,62 @@
+{
+  "contentHash": "ee983f89384012e1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ pound fresh mushrooms, coarsely chopped",
+        "searchTerm": "fresh mushrooms",
+        "normalizedName": "Fresh Mushroom"
+      },
+      {
+        "ingredient": "2 tablespoons minced fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      },
+      {
+        "ingredient": "2 tablespoons minced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 tablespoons butter, divided",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (8 ounce) can refrigerated crescent roll dough",
+        "searchTerm": "refrigerated crescent roll dough",
+        "normalizedName": "Refrigerated Crescent Roll Dough"
+      },
+      {
+        "ingredient": "2 ½ tablespoons grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons sesame seeds",
+        "searchTerm": "sesame seeds",
+        "normalizedName": "Sesame Seed"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Sauté mushrooms until moisture evaporates for better texture in turnovers",
+      "Seal edges well to prevent filling from leaking during baking"
+    ],
+    "coachingPrompt": "Guide the user on cooking mushroom filling to release excess moisture and prevent soggy turnovers"
+  },
+  "timestamp": "2026-02-06T06:45:51.099Z"
+}

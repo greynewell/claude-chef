@@ -1,0 +1,68 @@
+{
+  "contentHash": "e883883abc92a046",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) can sliced mushrooms",
+        "searchTerm": "sliced mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "1 small onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 green bell pepper",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "8 slices provolone cheese",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "seasoned salt to taste",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      },
+      {
+        "ingredient": "1 pound thinly sliced roast beef",
+        "searchTerm": "roast beef",
+        "normalizedName": "Roast Beef"
+      },
+      {
+        "ingredient": "4 submarine rolls",
+        "searchTerm": "submarine rolls",
+        "normalizedName": "Submarine Roll"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Griddle",
+        "searchTerm": "griddle"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Slice vegetables thinly for quick cooking and even distribution",
+      "Cook vegetables first, then push to side and heat beef",
+      "Add cheese at the end and cover briefly to melt"
+    ],
+    "coachingPrompt": "Philly cheesesteaks rely on thin slicing and quick cooking. Do you have thin-sliced roast beef available?"
+  },
+  "timestamp": "2026-02-06T08:09:25.637Z"
+}

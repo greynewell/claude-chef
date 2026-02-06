@@ -1,0 +1,72 @@
+{
+  "contentHash": "6b62433cfdd36075",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 pounds potatoes, peeled",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "15 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 (16 ounce) container reduced-fat sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons dried chives",
+        "searchTerm": "dried chives",
+        "normalizedName": "Dried Chive"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Parboil potatoes just until tender, then cube for even cooking in casserole",
+      "Cook bacon until crispy, cool, and crumble to prevent soggy texture",
+      "Combine sour cream and mayo before tossing to avoid overmixing potatoes"
+    ],
+    "coachingPrompt": "This uses reduced-fat sour cream. How might this affect creaminess compared to full-fat versions, and how would you compensate?"
+  },
+  "timestamp": "2026-02-05T23:10:33.740Z"
+}

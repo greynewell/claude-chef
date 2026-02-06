@@ -1,0 +1,48 @@
+{
+  "contentHash": "9f55d7fbd471a524",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 cup shredded coconut",
+        "searchTerm": "shredded coconut",
+        "normalizedName": "Shredded Coconut"
+      },
+      {
+        "ingredient": "1 cup miniature marshmallows",
+        "searchTerm": "marshmallows",
+        "normalizedName": "Marshmallow"
+      },
+      {
+        "ingredient": "1 cup pineapple tidbits",
+        "searchTerm": "pineapple",
+        "normalizedName": "Pineapple"
+      },
+      {
+        "ingredient": "1 cup mandarin oranges",
+        "searchTerm": "mandarin oranges",
+        "normalizedName": "Mandarin Orange"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Drain fruit thoroughly to prevent a watery salad",
+      "Fold ingredients gently to avoid crushing delicate fruit"
+    ],
+    "coachingPrompt": "Why would you drain the canned fruit, and what happens if you skip this step?"
+  },
+  "timestamp": "2026-02-06T06:44:59.890Z"
+}

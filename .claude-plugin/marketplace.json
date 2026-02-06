@@ -1,0 +1,20 @@
+{
+  "name": "claude-chef-marketplace",
+  "owner": {
+    "name": "Grey Newell",
+    "email": "me@greynewell.com"
+  },
+  "plugins": [
+    {
+      "name": "claude-chef",
+      "source": "./",
+      "description": "Recipe creation, enrichment, and contribution tools for Claude Chef",
+      "version": "0.1.0",
+      "author": {
+        "name": "Grey Newell"
+      },
+      "homepage": "https://claudechef.com",
+      "license": "MIT"
+    }
+  ]
+}

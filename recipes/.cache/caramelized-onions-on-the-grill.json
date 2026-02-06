@@ -1,0 +1,50 @@
+{
+  "contentHash": "a5051b5175c4ce25",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 large Vidalia or sweet onion, peeled and cut into large wedges",
+        "searchTerm": "Vidalia onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 tablespoons softened butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon beef bouillon granules",
+        "searchTerm": "beef bouillon",
+        "normalizedName": "Beef Bouillon"
+      },
+      {
+        "ingredient": "1 pinch garlic salt and pepper to taste",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "1 pinch garlic salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill"
+      },
+      {
+        "name": "aluminum foil"
+      },
+      {
+        "name": "grill brush"
+      }
+    ],
+    "cookingTips": [
+      "Wrap onions in foil packets with butter to trap steam and heat evenly",
+      "Grill over medium heat for 20-30 minutes, stirring occasionally",
+      "Pierce foil carefully to release hot steam"
+    ],
+    "coachingPrompt": "How can you achieve caramelization on a grill while keeping the onions tender?"
+  },
+  "timestamp": "2026-02-06T01:24:18.053Z"
+}

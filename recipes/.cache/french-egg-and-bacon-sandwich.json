@@ -1,0 +1,53 @@
+{
+  "contentHash": "fecbbde2f207a80a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "4 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "4 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Plate",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy for texture contrast with the soft egg",
+      "Use the bacon fat to cook the eggs for added flavor",
+      "Assemble sandwich warm while all components are fresh"
+    ],
+    "coachingPrompt": "This simple sandwich combines classic French breakfast elements. How can you coordinate the cooking of bacon and eggs for perfect timing and texture?"
+  },
+  "timestamp": "2026-02-06T06:53:55.468Z"
+}

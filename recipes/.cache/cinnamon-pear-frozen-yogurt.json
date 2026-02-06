@@ -1,0 +1,53 @@
+{
+  "contentHash": "00b4dc56f870d59d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15 ounce) can pear halves",
+        "searchTerm": "canned pears",
+        "normalizedName": "Canned Pear"
+      },
+      {
+        "ingredient": "2 cups vanilla yogurt",
+        "searchTerm": "vanilla yogurt",
+        "normalizedName": "Vanilla Yogurt"
+      },
+      {
+        "ingredient": "⅓ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "¼ teaspoon ground allspice",
+        "searchTerm": "ground allspice",
+        "normalizedName": "Ground Allspice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Drain the canned pears well and use juice sparingly to avoid excessive liquid",
+      "Blend all ingredients until completely smooth before churning",
+      "Serve immediately after churning for soft-serve consistency, or freeze for scoopable texture"
+    ],
+    "coachingPrompt": "How does the moisture content of canned fruit affect the freezing time and final texture?"
+  },
+  "timestamp": "2026-02-06T03:24:38.741Z"
+}

@@ -1,0 +1,77 @@
+{
+  "contentHash": "6f4cb4775086e424",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups frozen hash brown potatoes, thawed",
+        "searchTerm": "frozen hash browns",
+        "normalizedName": "Frozen Hash Brown Potato"
+      },
+      {
+        "ingredient": "3 tablespoons butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup cooked ham, chopped",
+        "searchTerm": "cooked ham",
+        "normalizedName": "Cooked Ham"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "¼ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "¼ cup chopped green bell pepper",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "3 large eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9-inch pie dish",
+        "searchTerm": "pie dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Thaw and squeeze excess moisture from hash browns before using to prevent a soggy crust",
+      "Let quiche cool for 10 minutes after baking before slicing for cleaner cuts"
+    ],
+    "coachingPrompt": "Help the user understand how to properly prepare hash browns for quiche and suggest baking temperature and time guidance."
+  },
+  "timestamp": "2026-02-06T08:41:29.023Z"
+}

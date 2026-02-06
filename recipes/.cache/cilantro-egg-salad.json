@@ -1,0 +1,77 @@
+{
+  "contentHash": "b7f46bb6916c9f3e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "hard-cooked eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "celery rib",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "fresh mushrooms",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Chop ingredients finely for a uniform, cohesive salad texture",
+      "Use freshly chopped cilantro just before mixing for maximum flavor"
+    ],
+    "coachingPrompt": "How should I hard-cook eggs so the yolks stay creamy and don't turn gray?"
+  },
+  "timestamp": "2026-02-06T03:20:38.522Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "e72f4ab577d9d30c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "8 slices rye bread",
+        "searchTerm": "rye bread",
+        "normalizedName": "Rye Bread"
+      },
+      {
+        "ingredient": "8 slices deli sliced corned beef",
+        "searchTerm": "corned beef",
+        "normalizedName": "Corned Beef"
+      },
+      {
+        "ingredient": "8 slices Swiss cheese",
+        "searchTerm": "swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "1 cup sauerkraut, drained",
+        "searchTerm": "sauerkraut",
+        "normalizedName": "Sauerkraut"
+      },
+      {
+        "ingredient": "½ cup Thousand Island dressing",
+        "searchTerm": "thousand island dressing",
+        "normalizedName": "Thousand Island Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet or griddle",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread lightly in butter before adding fillings so it stays crispy",
+      "Drain sauerkraut thoroughly to prevent soggy bread",
+      "Warm corned beef gently so it heats through without drying out"
+    ],
+    "coachingPrompt": "How do we create a perfectly crispy, golden rye bread exterior while keeping the inside moist and flavorful?"
+  },
+  "timestamp": "2026-02-06T16:09:17.998Z"
+}

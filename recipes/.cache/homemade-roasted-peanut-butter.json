@@ -1,0 +1,48 @@
+{
+  "contentHash": "83b39e41faed45be",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups shelled raw peanuts",
+        "searchTerm": "raw peanuts",
+        "normalizedName": "Peanut"
+      },
+      {
+        "ingredient": "1 ½ teaspoons peanut oil",
+        "searchTerm": "peanut oil",
+        "normalizedName": "Peanut Oil"
+      },
+      {
+        "ingredient": "½ teaspoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "⅛ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Airtight container",
+        "searchTerm": "storage jar"
+      }
+    ],
+    "cookingTips": [
+      "Roast peanuts at 350°F for 10-15 minutes to develop deep roasted flavor",
+      "Allow peanuts to cool completely before processing to achieve smooth butter",
+      "Process for 8-10 minutes total, scraping bowl as needed, until peanuts release their oils"
+    ],
+    "coachingPrompt": "How do I achieve smooth, creamy peanut butter without adding excess oil?"
+  },
+  "timestamp": "2026-02-06T09:17:13.646Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "fc8f06106fa42007",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 ounces smoked whitefish, skinned and boned",
+        "searchTerm": "smoked whitefish",
+        "normalizedName": "Smoked Whitefish"
+      },
+      {
+        "ingredient": "¼ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¼ cup unsalted butter, at room temperature",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      },
+      {
+        "ingredient": "½ teaspoon Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food Processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Serving Bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Rubber Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Use room temperature butter and mayonnaise for smooth pate texture",
+      "Process until completely smooth; avoid over-mixing",
+      "Serve chilled with crackers or toast points"
+    ],
+    "coachingPrompt": "What garnishes would complement this pate? How would you adjust seasoning if the fish is very salty?"
+  },
+  "timestamp": "2026-02-06T18:22:25.288Z"
+}

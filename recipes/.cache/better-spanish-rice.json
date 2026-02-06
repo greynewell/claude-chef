@@ -1,0 +1,57 @@
+{
+  "contentHash": "36d14941c3d5256f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "½ onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 ¼ cups uncooked instant rice",
+        "searchTerm": "instant rice",
+        "normalizedName": "Instant Rice"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can diced tomatoes",
+        "searchTerm": "diced tomatoes canned",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "½ cup chopped fresh cilantro",
+        "searchTerm": "fresh cilantro",
+        "normalizedName": "Fresh Cilantro"
+      },
+      {
+        "ingredient": "1 cup chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "lid",
+        "searchTerm": "skillet lid"
+      }
+    ],
+    "cookingTips": [
+      "Toast rice briefly in oil before adding liquid for nuttier flavor",
+      "Add cilantro at the end to preserve fresh herbal notes"
+    ],
+    "coachingPrompt": "Toast the rice in oil for a minute before adding liquid to enhance its flavor. Stir cilantro in after cooking to maintain its fresh taste."
+  },
+  "timestamp": "2026-02-06T00:05:41.797Z"
+}

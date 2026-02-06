@@ -1,0 +1,63 @@
+{
+  "contentHash": "1a8190e5ff7c159e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups broccoli florets",
+        "searchTerm": "broccoli floret",
+        "normalizedName": "Broccoli Floret"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ tablespoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ tablespoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "½ teaspoon kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "¼ cup shredded sharp Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "¼ teaspoon red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill basket",
+        "searchTerm": "grill basket"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Pat broccoli dry before grilling to prevent steaming",
+      "Use a grill basket to prevent small florets from falling through",
+      "Grill until tender-crisp, about 5-7 minutes"
+    ],
+    "coachingPrompt": "A healthy grilled side! Would you like suggestions for other vegetables to grill?"
+  },
+  "timestamp": "2026-02-06T01:51:00.655Z"
+}

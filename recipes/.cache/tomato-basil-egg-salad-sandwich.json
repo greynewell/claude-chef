@@ -1,0 +1,78 @@
+{
+  "contentHash": "78abb3d3192ff4b5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 hard-boiled eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "½ teaspoon Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "¼ teaspoon onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      },
+      {
+        "ingredient": "⅛ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "10 leaves basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "1 tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "4 leaves lettuce",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "4 English muffins",
+        "searchTerm": "English muffin",
+        "normalizedName": "English Muffin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Cool hard-boiled eggs in ice water for easy peeling",
+      "Chop eggs into bite-sized pieces rather than mashing for better texture",
+      "Toast English muffins to prevent sandwich from becoming soggy"
+    ],
+    "coachingPrompt": "Guide the user on proper hard-boiling techniques and how to balance flavors in the egg salad mixture."
+  },
+  "timestamp": "2026-02-06T20:55:14.260Z"
+}

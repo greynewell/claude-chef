@@ -1,0 +1,54 @@
+{
+  "contentHash": "f58d8cbea745c218",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds Roma tomatoes, halved lengthwise",
+        "searchTerm": "Roma tomatoes",
+        "normalizedName": "Roma Tomato"
+      },
+      {
+        "ingredient": "½ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 clove garlic, crushed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      },
+      {
+        "ingredient": "1 teaspoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      }
+    ],
+    "cookingTips": [
+      "Use Roma tomatoes as they have less water and seeds than other varieties",
+      "Place tomatoes cut-side up so they roast and concentrate their flavors",
+      "Roast low and slow to intensify flavors without burning; puree or leave chunky based on preference"
+    ],
+    "coachingPrompt": "How long should tomatoes roast at a lower temperature to develop deep, concentrated flavors?"
+  },
+  "timestamp": "2026-02-06T07:20:51.749Z"
+}

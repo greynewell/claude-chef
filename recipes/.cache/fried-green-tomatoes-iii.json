@@ -1,0 +1,57 @@
+{
+  "contentHash": "82988b72991cd49f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "4 large green tomatoes",
+        "searchTerm": "green tomatoes",
+        "normalizedName": "Green Tomato"
+      },
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "shallow dish",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Pat tomato slices dry before dredging to reduce moisture and improve browning",
+      "Maintain consistent medium-high heat throughout cooking for even golden crust"
+    ],
+    "coachingPrompt": "Why is removing moisture from tomatoes essential, and how will you maintain consistent heat?"
+  },
+  "timestamp": "2026-02-06T07:04:45.287Z"
+}

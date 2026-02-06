@@ -1,0 +1,68 @@
+{
+  "contentHash": "8e9222bd2ab2028d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cucumber",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "3 ½ ounces crab sticks, finely chopped",
+        "searchTerm": "crab stick",
+        "normalizedName": "Crab Stick"
+      },
+      {
+        "ingredient": "4 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "4 sheets nori (dry seaweed)",
+        "searchTerm": "nori seaweed",
+        "normalizedName": "Nori"
+      },
+      {
+        "ingredient": "2 ½ cups cooked sushi rice",
+        "searchTerm": "sushi rice",
+        "normalizedName": "Sushi Rice"
+      },
+      {
+        "ingredient": "2 ½ tablespoons sesame seed",
+        "searchTerm": "sesame seed",
+        "normalizedName": "Sesame Seed"
+      },
+      {
+        "ingredient": "1 avocado, sliced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "4 teaspoons tobiko (flying fish roe)",
+        "searchTerm": "tobiko",
+        "normalizedName": "Tobiko"
+      }
+    ],
+    "gear": [
+      {
+        "name": "sushi mat",
+        "searchTerm": "sushi mat"
+      },
+      {
+        "name": "sharp knife",
+        "searchTerm": "sharp knife"
+      },
+      {
+        "name": "bamboo mat",
+        "searchTerm": "bamboo mat"
+      }
+    ],
+    "cookingTips": [
+      "Cool sushi rice to room temperature and season with rice vinegar before rolling",
+      "Place nori shiny side down on mat; spread thin layer of rice, leaving ½-inch border at top",
+      "Use damp hands and let mat do the work when rolling; cut with wet knife for clean edges"
+    ],
+    "coachingPrompt": "Guide the user through proper rolling technique and texture balance between rice, filling, and nori to create restaurant-quality sushi rolls."
+  },
+  "timestamp": "2026-02-05T23:32:42.646Z"
+}

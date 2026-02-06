@@ -1,0 +1,63 @@
+{
+  "contentHash": "f43a91fb4f422eac",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (14 ounce) can sweetened condensed milk",
+        "searchTerm": "sweetened condensed milk",
+        "normalizedName": "Sweetened Condensed Milk"
+      },
+      {
+        "ingredient": "1 (12 ounce) package semisweet chocolate chips",
+        "searchTerm": "semisweet chocolate chips",
+        "normalizedName": "Semisweet Chocolate Chip"
+      },
+      {
+        "ingredient": "½ cup chopped almonds",
+        "searchTerm": "almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "½ cup chopped candied cherries",
+        "searchTerm": "candied cherries",
+        "normalizedName": "Candied Cherry"
+      },
+      {
+        "ingredient": "1 teaspoon almond extract",
+        "searchTerm": "almond extract",
+        "normalizedName": "Almond Extract"
+      },
+      {
+        "ingredient": "¼ cup pecan halves",
+        "searchTerm": "pecan halves",
+        "normalizedName": "Pecan"
+      },
+      {
+        "ingredient": "¼ cup candied cherries, halved",
+        "searchTerm": "candied cherries",
+        "normalizedName": "Candied Cherry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "candy thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Stir constantly over medium heat to prevent scorching and ensure smooth texture",
+      "Use a candy thermometer to reach soft-ball stage (234-240°F) for proper fudge consistency",
+      "Press nuts into fudge while still warm for better adhesion"
+    ],
+    "coachingPrompt": "Guide the user through maintaining proper heat control and achieving the correct candy consistency without crystallization."
+  },
+  "timestamp": "2026-02-06T02:14:54.349Z"
+}

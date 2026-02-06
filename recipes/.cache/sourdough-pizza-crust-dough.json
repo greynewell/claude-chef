@@ -1,0 +1,52 @@
+{
+  "contentHash": "7b9c70b378bd9d49",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups sourdough starter",
+        "searchTerm": "sourdough starter",
+        "normalizedName": "Sourdough Starter"
+      },
+      {
+        "ingredient": "1 ½ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Pizza Stone",
+        "searchTerm": "pizza stone"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Rolling Pin",
+        "searchTerm": "rolling pin"
+      }
+    ],
+    "cookingTips": [
+      "Allow dough to bulk ferment for 4-8 hours at room temperature for better flavor",
+      "Stretch dough gently to avoid deflating trapped air bubbles",
+      "Bake on a preheated pizza stone for a crispy crust"
+    ],
+    "coachingPrompt": "What fermentation timeline would best develop the sourdough flavor in pizza dough?"
+  },
+  "timestamp": "2026-02-06T18:37:33.171Z"
+}

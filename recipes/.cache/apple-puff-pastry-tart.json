@@ -1,0 +1,53 @@
+{
+  "contentHash": "9e884ea436c2c3b0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (17.5 ounce) package frozen puff pastry, thawed",
+        "searchTerm": "puff pastry",
+        "normalizedName": "Puff Pastry"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "4 Granny Smith apples, peeled and diced",
+        "searchTerm": "granny smith apples",
+        "normalizedName": "Granny Smith Apple"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 teaspoons ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Spread cream cheese on puff pastry to create moisture barrier and rich base",
+      "Toss diced apples with cinnamon sugar before topping pastry",
+      "Bake until pastry puffs and edges are golden brown"
+    ],
+    "coachingPrompt": "Help the user assemble an elegant tart featuring cream cheese and cinnamon apples on flaky pastry."
+  },
+  "timestamp": "2026-02-05T22:15:34.768Z"
+}

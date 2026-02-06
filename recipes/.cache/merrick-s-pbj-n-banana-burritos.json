@@ -1,0 +1,49 @@
+{
+  "contentHash": "755f97bad9d363cd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons smooth natural peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 whole wheat tortilla",
+        "searchTerm": "whole wheat tortilla",
+        "normalizedName": "Whole Wheat Tortilla"
+      },
+      {
+        "ingredient": "1 banana",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "1 tablespoon apricot jelly",
+        "searchTerm": "apricot jelly",
+        "normalizedName": "Apricot Jelly"
+      },
+      {
+        "ingredient": "1 teaspoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Use a ripe but firm banana to prevent excessive browning",
+      "Warm tortilla slightly before filling to improve pliability",
+      "Spread peanut butter thinly for even distribution"
+    ],
+    "coachingPrompt": "Are you looking for quick, healthy snacks? Would you like suggestions on ingredient variations or storage tips?"
+  },
+  "timestamp": "2026-02-06T12:15:27.078Z"
+}

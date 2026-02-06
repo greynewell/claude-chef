@@ -1,0 +1,39 @@
+{
+  "contentHash": "d4db636504f00c85",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "36 buttery crackers",
+        "searchTerm": "buttery crackers",
+        "normalizedName": "Buttery Cracker"
+      },
+      {
+        "ingredient": "12 slices bacon, cut into thirds",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "¾ cup packed light brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Parchment paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Line baking sheet with parchment paper to prevent sticking",
+      "Place cracker, then bacon piece, then brown sugar on each",
+      "Bake at 350°F for 12-15 minutes until bacon is crispy and sugar caramelizes"
+    ],
+    "coachingPrompt": "What's the best way to prevent the crackers from getting soggy?"
+  },
+  "timestamp": "2026-02-06T20:01:32.482Z"
+}

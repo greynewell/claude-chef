@@ -1,0 +1,53 @@
+{
+  "contentHash": "4c41945a1ec54171",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package spaghetti",
+        "searchTerm": "spaghetti",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "3 cloves garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ teaspoon crushed red pepper",
+        "searchTerm": "red pepper",
+        "normalizedName": "Red Pepper"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan",
+        "normalizedName": "Parmesan"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Toast the red pepper in cool oil, then gently warm to build heat gradually without burning garlic",
+      "Reserve hot pasta water to adjust oil sauce consistency",
+      "Toss pasta immediately with hot oil mixture to achieve proper coating"
+    ],
+    "coachingPrompt": "What's the best approach to infuse chili heat into oil without making the dish taste burnt?"
+  },
+  "timestamp": "2026-02-06T14:14:47.160Z"
+}

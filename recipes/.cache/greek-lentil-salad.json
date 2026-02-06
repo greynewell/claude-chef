@@ -1,0 +1,58 @@
+{
+  "contentHash": "3f777f42ec2f82cb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (15 ounce) cans brown lentils",
+        "searchTerm": "brown lentil",
+        "normalizedName": "Brown Lentil"
+      },
+      {
+        "ingredient": "1 cup crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "½ (16 ounce) bottle Greek, or other vinaigrette salad dressing",
+        "searchTerm": "Greek vinaigrette",
+        "normalizedName": "Greek Vinaigrette"
+      },
+      {
+        "ingredient": "1 English cucumber, peeled and diced",
+        "searchTerm": "English cucumber",
+        "normalizedName": "English Cucumber"
+      },
+      {
+        "ingredient": "1 beefsteak tomato, diced",
+        "searchTerm": "beefsteak tomato",
+        "normalizedName": "Beefsteak Tomato"
+      },
+      {
+        "ingredient": "1 large red onion, diced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Drain and rinse canned lentils to remove excess sodium",
+      "Dice vegetables into uniform sizes for even distribution",
+      "Make salad ahead—it improves as flavors meld overnight"
+    ],
+    "coachingPrompt": "Teach the user how to prepare and combine components to create a hearty, make-ahead protein salad."
+  },
+  "timestamp": "2026-02-06T08:01:18.202Z"
+}

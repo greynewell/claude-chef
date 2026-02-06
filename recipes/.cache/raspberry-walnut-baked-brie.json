@@ -1,0 +1,48 @@
+{
+  "contentHash": "6a20517c57d97aee",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 sheet frozen puff pastry, thawed",
+        "searchTerm": "puff pastry",
+        "normalizedName": "Puff Pastry"
+      },
+      {
+        "ingredient": "1 (8 ounce) round Brie cheese",
+        "searchTerm": "brie cheese",
+        "normalizedName": "Brie Cheese"
+      },
+      {
+        "ingredient": "⅓ cup seedless raspberry jam",
+        "searchTerm": "raspberry jam",
+        "normalizedName": "Raspberry Jam"
+      },
+      {
+        "ingredient": "2 tablespoons chopped walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Parchment paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Wrap brie completely in pastry to prevent leaking",
+      "Bake just until pastry is golden and cheese is soft inside",
+      "Let cool slightly before serving to avoid burnt mouth"
+    ],
+    "coachingPrompt": "Are you serving this as an appetizer or dessert?"
+  },
+  "timestamp": "2026-02-06T15:57:15.731Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "5d752ce907d560df",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 pound) bone-in ham, rump portion",
+        "searchTerm": "bone-in ham",
+        "normalizedName": "Bone-In Ham"
+      },
+      {
+        "ingredient": "½ cup whole cloves",
+        "searchTerm": "whole cloves",
+        "normalizedName": "Whole Clove"
+      },
+      {
+        "ingredient": "1 cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "4 cups water, or as needed",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Score the ham skin in a crosshatch pattern before studding with cloves for better flavor absorption",
+      "Use a meat thermometer to ensure internal temperature reaches 140°F",
+      "Baste the ham every 20 minutes with pan drippings for a glossy finish"
+    ],
+    "coachingPrompt": "Guide the user through scoring and studding the ham, managing cooking time based on ham weight, and achieving proper glaze development."
+  },
+  "timestamp": "2026-02-05T23:07:02.910Z"
+}

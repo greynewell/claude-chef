@@ -1,0 +1,63 @@
+{
+  "contentHash": "787ff3f1568e19eb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds clams in shell, scrubbed",
+        "searchTerm": "fresh clams",
+        "normalizedName": "Clam"
+      },
+      {
+        "ingredient": "1 (16 ounce) package spaghetti",
+        "searchTerm": "spaghetti",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "olive oil, divided",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "3 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 tablespoons dry white wine",
+        "searchTerm": "white wine",
+        "normalizedName": "White Wine"
+      },
+      {
+        "ingredient": "10 cherry tomatoes, halved",
+        "searchTerm": "cherry tomatoes",
+        "normalizedName": "Cherry Tomato"
+      },
+      {
+        "ingredient": "10 leaves fresh basil leaves, divided",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Basil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "pasta pot"
+      },
+      {
+        "name": "Large Skillet",
+        "searchTerm": "wide skillet"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Discard any clams that don't open after cooking",
+      "Reserve pasta water to create emulsion with olive oil and clam broth",
+      "Halve tomatoes just before cooking to preserve fresh flavor"
+    ],
+    "coachingPrompt": "How will you know when the clams are properly cooked and safe to eat?"
+  },
+  "timestamp": "2026-02-06T18:48:30.878Z"
+}

@@ -1,0 +1,47 @@
+{
+  "contentHash": "c5915311453856fa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "oil, or as needed",
+        "searchTerm": "frying oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 cup shelled raw peanuts",
+        "searchTerm": "raw peanuts",
+        "normalizedName": "Peanut"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep fryer or large pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "cooking thermometer"
+      },
+      {
+        "name": "Slotted spoon",
+        "searchTerm": "slotted spoon"
+      },
+      {
+        "name": "Paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Start with room-temperature oil and gradually raise temperature to 320°F for slow, even cooking",
+      "Stir occasionally during cooking to ensure even browning of all peanuts",
+      "Drain on paper towels and salt while still warm for best flavor and crispness"
+    ],
+    "coachingPrompt": "Coach the cook on the slow-frying technique that develops flavor and crispness in raw peanuts."
+  },
+  "timestamp": "2026-02-06T05:06:05.289Z"
+}

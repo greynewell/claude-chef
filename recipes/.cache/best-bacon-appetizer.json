@@ -1,0 +1,36 @@
+{
+  "contentHash": "2dd966d5691f612b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ teaspoons cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 teaspoon brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 slice applewood-smoked bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet"
+      },
+      {
+        "name": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Toast bacon until crispy for best texture",
+      "Spread cream cheese while bacon is still warm for easy application"
+    ],
+    "coachingPrompt": "Guide the user to balance the sweetness of brown sugar with the saltiness of bacon"
+  },
+  "timestamp": "2026-02-05T23:54:28.043Z"
+}

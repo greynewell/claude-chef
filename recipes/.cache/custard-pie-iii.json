@@ -1,0 +1,68 @@
+{
+  "contentHash": "19a88359deff8e07",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 prepared 8 inch pie crust",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      },
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "⅔ cup evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      },
+      {
+        "ingredient": "2 tablespoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pie Dish",
+        "searchTerm": "pie dish"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Whisk custard mixture thoroughly to avoid lumps",
+      "Pour custard into pie shell just before baking for less settling",
+      "Pie is done when center jiggles slightly; carryover cooking continues"
+    ],
+    "coachingPrompt": "Coach the user on achieving the perfect custard texture and knowing when the pie is properly set without overcooking."
+  },
+  "timestamp": "2026-02-06T04:54:54.111Z"
+}

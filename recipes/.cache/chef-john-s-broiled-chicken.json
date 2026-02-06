@@ -1,0 +1,43 @@
+{
+  "contentHash": "0f50b4486459e54a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 small onion, sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (3 pound) whole chicken, cut in half, backbone removed",
+        "searchTerm": "whole chicken",
+        "normalizedName": "Whole Chicken"
+      },
+      {
+        "ingredient": "salt as needed",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Broiler Pan",
+        "searchTerm": "broiler pan"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "kitchen tongs"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Pat chicken dry before broiling for better browning and crisper skin",
+      "Position broiler rack 6-8 inches from heat source to cook through without burning",
+      "Let chicken rest 5 minutes after broiling before serving"
+    ],
+    "coachingPrompt": "How do you ensure broiled chicken is evenly cooked with crispy skin?"
+  },
+  "timestamp": "2026-02-06T01:58:11.135Z"
+}

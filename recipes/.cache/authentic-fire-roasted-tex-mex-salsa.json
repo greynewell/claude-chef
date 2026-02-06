@@ -1,0 +1,63 @@
+{
+  "contentHash": "d30e63fc7a935688",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "5 large Roma tomatoes, halved lengthwise",
+        "searchTerm": "Roma tomatoes",
+        "normalizedName": "Roma Tomato"
+      },
+      {
+        "ingredient": "¼ large white onion",
+        "searchTerm": "white onion",
+        "normalizedName": "White Onion"
+      },
+      {
+        "ingredient": "1 jalapeno pepper, stem removed",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "⅓ cup chopped fresh cilantro",
+        "searchTerm": "fresh cilantro",
+        "normalizedName": "Fresh Cilantro"
+      },
+      {
+        "ingredient": "1 lime, juiced",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "1 ½ teaspoons garlic salt, or to taste",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill or grill pan",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Food processor",
+        "searchTerm": "food processor"
+      }
+    ],
+    "cookingTips": [
+      "Char tomatoes and onions until blackened for deep, smoky flavor",
+      "Let roasted vegetables cool before processing for easier handling",
+      "Adjust lime juice and salt to taste after blending"
+    ],
+    "coachingPrompt": "Emphasize the importance of fire-roasting to develop authentic smoky flavor. Guide the user through achieving the right char level and proper seasoning balance."
+  },
+  "timestamp": "2026-02-05T22:36:38.942Z"
+}

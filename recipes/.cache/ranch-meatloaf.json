@@ -1,0 +1,48 @@
+{
+  "contentHash": "14511009ccdbc547",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (1 ounce) packet Hidden Valley® Original Ranch® Salad Dressing & Seasoning Mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Ranch Dressing Mix"
+      },
+      {
+        "ingredient": "⅓ cup dry bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "loaf pan or baking dish",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Mix ingredients gently to avoid compacting the meatloaf",
+      "Bake at 350°F for about 45 minutes until internal temperature reaches 160°F",
+      "Let rest for 5 minutes before slicing for cleaner cuts"
+    ],
+    "coachingPrompt": "What glazes or toppings would enhance this ranch-seasoned meatloaf?"
+  },
+  "timestamp": "2026-02-06T15:54:36.135Z"
+}

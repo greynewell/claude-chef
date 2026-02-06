@@ -1,0 +1,68 @@
+{
+  "contentHash": "a44e1b5162227c6e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ ripe avocado, pitted",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "2 slices pumpernickel bread, toasted",
+        "searchTerm": "pumpernickel bread",
+        "normalizedName": "Pumpernickel Bread"
+      },
+      {
+        "ingredient": "¼ cup canned garbanzo beans, rinsed and drained",
+        "searchTerm": "chickpeas",
+        "normalizedName": "Chickpea"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 slice prosciutto",
+        "searchTerm": "prosciutto",
+        "normalizedName": "Prosciutto"
+      },
+      {
+        "ingredient": "1 ½ slices tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 slice Havarti cheese",
+        "searchTerm": "Havarti cheese",
+        "normalizedName": "Havarti Cheese"
+      },
+      {
+        "ingredient": "¼ cup alfalfa sprouts",
+        "searchTerm": "alfalfa sprouts",
+        "normalizedName": "Alfalfa Sprout"
+      }
+    ],
+    "gear": [
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "spreading knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread while assembling other components to keep it warm",
+      "Mash garbanzo beans slightly and spread on bread as base layer",
+      "Layer ingredients in order: bread, beans, avocado, prosciutto, cheese, tomato, sprouts"
+    ],
+    "coachingPrompt": "Help me assemble a sophisticated open-faced sandwich with creamy avocado and salty prosciutto"
+  },
+  "timestamp": "2026-02-05T22:42:06.393Z"
+}

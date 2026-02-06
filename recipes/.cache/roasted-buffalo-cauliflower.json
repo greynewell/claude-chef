@@ -1,0 +1,53 @@
+{
+  "contentHash": "c2eb5556f717cd36",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅓ cup Buffalo wing sauce (such as Frank's® RedHot)",
+        "searchTerm": "Buffalo wing sauce",
+        "normalizedName": "Buffalo Wing Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 head cauliflower, broken into small florets",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "sheet pan"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Roast cauliflower florets separately from sauce for crispiness",
+      "Mix sauce and butter over low heat to prevent separation",
+      "Toss cauliflower with sauce just before serving to maintain texture"
+    ],
+    "coachingPrompt": "How would you keep cauliflower crispy while applying a wet sauce coating?"
+  },
+  "timestamp": "2026-02-06T16:21:02.809Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "4578a37f694f3a2b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon yellow curry powder",
+        "searchTerm": "curry powder",
+        "normalizedName": "Curry Powder"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pound cauliflower florets, cut into 1/2-inch slices",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sheet pan",
+        "searchTerm": "sheet pan"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Toss cauliflower evenly with oil and spices for consistent flavor",
+      "Roast at high temperature to get crispy edges while keeping centers tender"
+    ],
+    "coachingPrompt": "Help the user understand how to coat vegetables evenly and suggest oven temperature for optimal caramelization without burning."
+  },
+  "timestamp": "2026-02-06T05:59:34.207Z"
+}

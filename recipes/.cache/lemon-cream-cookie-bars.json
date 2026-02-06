@@ -1,0 +1,53 @@
+{
+  "contentHash": "048ba53bb45f00a5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (17.5 ounce) pouch dry sugar cookie mix (such as Betty Crocker®)",
+        "searchTerm": "sugar cookie mix",
+        "normalizedName": "Sugar Cookie Mix"
+      },
+      {
+        "ingredient": "1 stick butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (14 ounce) can fat-free sweetened condensed milk",
+        "searchTerm": "condensed milk",
+        "normalizedName": "Sweetened Condensed Milk"
+      },
+      {
+        "ingredient": "2 lemons, zested and juiced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "fine zester",
+        "searchTerm": "zester"
+      }
+    ],
+    "cookingTips": [
+      "Reserve some zest for garnish after baking for visual appeal",
+      "Press cookie base evenly for uniform baking",
+      "Cool completely before cutting for clean edges"
+    ],
+    "coachingPrompt": "This simple bar recipe uses convenient mixes for speed. Help the user understand how to combine the base layer properly and achieve a creamy lemon topping."
+  },
+  "timestamp": "2026-02-06T11:10:40.867Z"
+}

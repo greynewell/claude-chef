@@ -1,0 +1,63 @@
+{
+  "contentHash": "b06be1cfdc09fc26",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 pounds chicken wings, separated at joints, tips discarded",
+        "searchTerm": "chicken wings",
+        "normalizedName": "Chicken Wing"
+      },
+      {
+        "ingredient": "1 ½ cups Louisiana-style hot sauce",
+        "searchTerm": "hot sauce",
+        "normalizedName": "Hot Sauce"
+      },
+      {
+        "ingredient": "¾ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 pinch garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon cayenne pepper, or to taste",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Wire rack",
+        "searchTerm": "wire rack"
+      }
+    ],
+    "cookingTips": [
+      "Pat wings dry before baking for crispier skin",
+      "Bake wings first, then toss in sauce during final minutes for crispness",
+      "Reserve extra sauce for dipping after wings finish cooking"
+    ],
+    "coachingPrompt": "Guide the user on how honey mellows the heat from hot sauce and cayenne while adding caramelization"
+  },
+  "timestamp": "2026-02-06T20:09:37.690Z"
+}

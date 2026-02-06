@@ -1,0 +1,73 @@
+{
+  "contentHash": "a991111a03080c72",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup warm milk",
+        "searchTerm": "warm milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "¼ cup fine white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 medium egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 teaspoons instant yeast",
+        "searchTerm": "instant yeast",
+        "normalizedName": "Instant Yeast"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground cardamom",
+        "searchTerm": "cardamom",
+        "normalizedName": "Cardamom"
+      },
+      {
+        "ingredient": "3 ½ cups all-purpose flour, sifted",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "vegetable oil for deep frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Deep fryer",
+        "searchTerm": "heavy pot"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "candy thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Warm milk to 110°F for proper yeast activation",
+      "Allow dough to rise for at least 1 hour until doubled",
+      "Maintain oil temperature at 350°F for golden, crispy donuts"
+    ],
+    "coachingPrompt": "Guide the user through yeast fermentation and explain how to achieve the perfect fry temperature and texture."
+  },
+  "timestamp": "2026-02-06T11:50:51.893Z"
+}

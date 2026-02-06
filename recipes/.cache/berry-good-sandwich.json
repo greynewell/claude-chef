@@ -1,0 +1,44 @@
+{
+  "contentHash": "fd28cd7c7b241da0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons Neufchatel cheese",
+        "searchTerm": "Neufchatel cheese",
+        "normalizedName": "Neufchatel Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon strawberry jam",
+        "searchTerm": "strawberry jam",
+        "normalizedName": "Strawberry Jam"
+      },
+      {
+        "ingredient": "2 fresh strawberries, chopped",
+        "searchTerm": "fresh strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "2 slices whole-grain bread",
+        "searchTerm": "whole-grain bread",
+        "normalizedName": "Whole-Grain Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Knife",
+        "searchTerm": "kitchen knife"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Chop strawberries finely so they distribute evenly throughout the sandwich",
+      "Spread cheese and jam on bread first to prevent sogginess from fresh fruit",
+      "Make just before eating to keep bread fresh and crispy"
+    ],
+    "coachingPrompt": "What other fruit and cheese pairings work well in quick breakfast sandwiches like this?"
+  },
+  "timestamp": "2026-02-05T23:53:35.885Z"
+}

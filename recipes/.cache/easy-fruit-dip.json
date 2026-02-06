@@ -1,0 +1,43 @@
+{
+  "contentHash": "408a40c62c98ff05",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "16 ounces marshmallow creme",
+        "searchTerm": "marshmallow creme",
+        "normalizedName": "Marshmallow Creme"
+      },
+      {
+        "ingredient": "1 tablespoon maraschino cherry juice",
+        "searchTerm": "maraschino cherry juice",
+        "normalizedName": "Maraschino Cherry Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "serving bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Soften cream cheese at room temperature for smooth blending",
+      "Mix until fluffy and light for best texture",
+      "Make ahead; dip keeps refrigerated for up to 3 days"
+    ],
+    "coachingPrompt": "Coach the user on achieving the right consistency by properly softening cream cheese before mixing."
+  },
+  "timestamp": "2026-02-06T05:45:16.337Z"
+}

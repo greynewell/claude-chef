@@ -1,0 +1,48 @@
+{
+  "contentHash": "fdd93dfecbd56be3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅓ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 (1 ounce) package dry onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      },
+      {
+        "ingredient": "3 pounds beef chuck roast",
+        "searchTerm": "beef chuck roast",
+        "normalizedName": "Beef Chuck Roast"
+      },
+      {
+        "ingredient": "2 teaspoons freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "pepper grinder",
+        "searchTerm": "pepper grinder"
+      }
+    ],
+    "cookingTips": [
+      "Use freshly ground black pepper for superior flavor over pre-ground",
+      "Cook on low for 8-10 hours until beef shreds easily with a fork",
+      "Reserve cooking liquid as a flavorful sauce or jus for serving"
+    ],
+    "coachingPrompt": "Help the user create a simple yet deeply flavorful roast using umami-rich soy sauce and fresh pepper."
+  },
+  "timestamp": "2026-02-06T18:16:02.965Z"
+}

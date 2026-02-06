@@ -1,0 +1,53 @@
+{
+  "contentHash": "e711722cfcd6d058",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": ".66 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 ⅓ cups flaked coconut",
+        "searchTerm": "flaked coconut",
+        "normalizedName": "Flaked Coconut"
+      },
+      {
+        "ingredient": "2 drops red food coloring",
+        "searchTerm": "food coloring",
+        "normalizedName": "Food Coloring"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Candy thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Cook sugar syrup to soft crack stage (270-290°F) for proper texture",
+      "Work quickly once syrup is ready as it hardens fast",
+      "Stir in coconut just before pouring to distribute evenly"
+    ],
+    "coachingPrompt": "This is a candy that requires temperature control. Are you comfortable using a candy thermometer and working with hot sugar?"
+  },
+  "timestamp": "2026-02-06T03:39:37.001Z"
+}

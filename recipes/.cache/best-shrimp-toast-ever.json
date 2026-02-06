@@ -1,0 +1,68 @@
+{
+  "contentHash": "4d098f53134fbb64",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound cooked shrimp - peeled, deveined and chopped",
+        "searchTerm": "cooked shrimp",
+        "normalizedName": "Cooked Shrimp"
+      },
+      {
+        "ingredient": "1 teaspoon grated fresh ginger root",
+        "searchTerm": "fresh ginger",
+        "normalizedName": "Fresh Ginger Root"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "4 teaspoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "2 teaspoons oyster sauce",
+        "searchTerm": "oyster sauce",
+        "normalizedName": "Oyster Sauce"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "12 slices day old bread, crusts removed",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "1 quart canola oil for frying",
+        "searchTerm": "canola oil",
+        "normalizedName": "Canola Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep Fryer or Pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "instant-read thermometer"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use day-old bread as it absorbs the mixture better and toasts more evenly",
+      "Maintain oil temperature at 350°F for golden, crispy results without greasiness",
+      "Chill the shrimp mixture before spreading on bread for easier handling"
+    ],
+    "coachingPrompt": "Help the user maintain proper oil temperature for deep frying and achieve golden-brown toast. Emphasize food safety for handling shrimp and the importance of draining excess oil."
+  },
+  "timestamp": "2026-02-06T00:03:47.583Z"
+}

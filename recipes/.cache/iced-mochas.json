@@ -1,0 +1,48 @@
+{
+  "contentHash": "d99b3b785732f6e2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups cold coffee",
+        "searchTerm": "cold coffee",
+        "normalizedName": "Coffee"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ cup chocolate syrup",
+        "searchTerm": "chocolate syrup",
+        "normalizedName": "Chocolate Syrup"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Tall Glass",
+        "searchTerm": "drinking glass"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Ice Cube Tray",
+        "searchTerm": "ice cube tray"
+      }
+    ],
+    "cookingTips": [
+      "Brew coffee the night before so it's fully chilled",
+      "Whisk chocolate syrup with a little milk first to avoid lumps",
+      "Stir well before drinking to distribute chocolate evenly"
+    ],
+    "coachingPrompt": "Help the user balance chocolate and coffee flavors while achieving a smooth, well-blended iced mocha without separation."
+  },
+  "timestamp": "2026-02-06T09:38:28.182Z"
+}

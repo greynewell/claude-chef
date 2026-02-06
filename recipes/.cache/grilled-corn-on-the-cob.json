@@ -1,0 +1,48 @@
+{
+  "contentHash": "621206554474e061",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 ears corn",
+        "searchTerm": "corn on the cob",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "6 tablespoons butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill brush",
+        "searchTerm": "grill brush"
+      },
+      {
+        "name": "basting brush",
+        "searchTerm": "basting brush"
+      }
+    ],
+    "cookingTips": [
+      "Soak corn in water before grilling to keep kernels from drying out; leave husks on for protection",
+      "Grill over medium-high heat, turning frequently, until kernels develop light char and become tender",
+      "Brush with softened butter mixed with salt and pepper immediately after grilling for best flavor absorption"
+    ],
+    "coachingPrompt": "Guide the user through selecting fresh corn, managing grill temperature, and achieving perfect tender kernels with charred spots."
+  },
+  "timestamp": "2026-02-06T08:14:29.568Z"
+}

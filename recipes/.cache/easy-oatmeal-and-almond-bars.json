@@ -1,0 +1,58 @@
+{
+  "contentHash": "60b86b2304de55db",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 ripe bananas",
+        "searchTerm": "bananas",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "4 cups old-fashioned rolled oats",
+        "searchTerm": "old-fashioned oats",
+        "normalizedName": "Old-Fashioned Rolled Oat"
+      },
+      {
+        "ingredient": "2 cups raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      },
+      {
+        "ingredient": "2 cups chopped raw almonds",
+        "searchTerm": "raw almonds",
+        "normalizedName": "Raw Almond"
+      },
+      {
+        "ingredient": "2 cups unsweetened shredded coconut",
+        "searchTerm": "shredded coconut",
+        "normalizedName": "Unsweetened Shredded Coconut"
+      },
+      {
+        "ingredient": "2 cups unsalted sunflower seeds",
+        "searchTerm": "sunflower seeds",
+        "normalizedName": "Unsalted Sunflower Seed"
+      },
+      {
+        "ingredient": "1 tablespoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Mash bananas to bind all dry ingredients together",
+      "Press mixture firmly into pan to create bars that hold together well"
+    ],
+    "coachingPrompt": "Show the cook how to combine banana with oats, nuts, and seeds for wholesome no-bake bars."
+  },
+  "timestamp": "2026-02-06T05:53:08.132Z"
+}

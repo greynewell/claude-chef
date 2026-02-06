@@ -1,0 +1,53 @@
+{
+  "contentHash": "7bbd11ca7a2cf0bc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (1.25 ounce) package taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning Mix"
+      },
+      {
+        "ingredient": "1 (16 ounce) can refried beans",
+        "searchTerm": "refried beans",
+        "normalizedName": "Refried Bean"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "2 cups shredded Monterey Jack cheese",
+        "searchTerm": "Monterey Jack cheese",
+        "normalizedName": "Monterey Jack Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "This is a simplified version - brown beef and mix all ingredients before baking",
+      "Bake at 350°F for 25-30 minutes until bubbly and cheese is melted",
+      "Let rest 5 minutes after baking for easier serving"
+    ],
+    "coachingPrompt": "Would you like to layer this casserole or make it in one simple step?"
+  },
+  "timestamp": "2026-02-06T20:12:30.871Z"
+}

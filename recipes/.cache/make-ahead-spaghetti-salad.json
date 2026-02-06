@@ -1,0 +1,62 @@
+{
+  "contentHash": "fcc3959b32864c89",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound spaghetti",
+        "searchTerm": "spaghetti",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "1 (8 ounce) bottle zesty Italian dressing",
+        "searchTerm": "italian dressing",
+        "normalizedName": "Italian Dressing"
+      },
+      {
+        "ingredient": "1 tablespoon Italian seasoning",
+        "searchTerm": "italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      },
+      {
+        "ingredient": "1 bunch green onions, chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 cucumber, chopped",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "2 tomatoes, chopped",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 (2 ounce) can sliced black olives",
+        "searchTerm": "black olives",
+        "normalizedName": "Black Olive"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "large bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Toss pasta with dressing while still warm to maximize flavor absorption",
+      "Chill overnight to allow flavors to meld; add fresh vegetables just before serving to maintain crispness"
+    ],
+    "coachingPrompt": "Explain the difference between adding vegetables immediately versus just before serving for optimal texture and flavor."
+  },
+  "timestamp": "2026-02-06T11:47:22.134Z"
+}

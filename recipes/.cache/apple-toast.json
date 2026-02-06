@@ -1,0 +1,47 @@
+{
+  "contentHash": "6d302b911f180df9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 slices white or whole wheat bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "1 tablespoon cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "1 large apple, cored and thinly sliced",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Slice apples very thinly for quick cooking on toast",
+      "Toast bread lightly to provide structure without becoming too hard"
+    ],
+    "coachingPrompt": "This quick breakfast requires thin apple slices. Toast the bread to light golden to support the toppings."
+  },
+  "timestamp": "2026-02-05T22:17:27.679Z"
+}

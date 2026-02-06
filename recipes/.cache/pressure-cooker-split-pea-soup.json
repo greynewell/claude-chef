@@ -1,0 +1,78 @@
+{
+  "contentHash": "30ecb41bc04aa117",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 pound dried split peas",
+        "searchTerm": "dried split pea",
+        "normalizedName": "Dried Split Pea"
+      },
+      {
+        "ingredient": "1 ham hock",
+        "searchTerm": "ham hock",
+        "normalizedName": "Ham Hock"
+      },
+      {
+        "ingredient": "1 onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 stalks celery, diced",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 teaspoon dried thyme",
+        "searchTerm": "dried thyme",
+        "normalizedName": "Dried Thyme"
+      },
+      {
+        "ingredient": "⅛ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon hot pepper sauce (such as Tabasco®) (Optional)",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pressure Cooker",
+        "searchTerm": "pressure cooker"
+      },
+      {
+        "name": "Immersion Blender",
+        "searchTerm": "immersion blender"
+      },
+      {
+        "name": "Ladle",
+        "searchTerm": "soup ladle"
+      }
+    ],
+    "cookingTips": [
+      "Ham hock provides rich, smoky flavor without requiring bacon",
+      "Don't soak split peas; they break down naturally under pressure",
+      "Blend partially for chunky texture or fully for creamy consistency"
+    ],
+    "coachingPrompt": "Guide the user on extracting flavor from the ham hock and explain how pressure cooking breaks down split peas into a naturally creamy soup without cream."
+  },
+  "timestamp": "2026-02-06T15:18:53.459Z"
+}

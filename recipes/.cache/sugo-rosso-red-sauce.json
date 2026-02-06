@@ -1,0 +1,52 @@
+{
+  "contentHash": "f362a9dd09295691",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 large tomatoes",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 cloves garlic, crushed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "4 large basil leaves, chopped",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Basil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Use ripe, in-season tomatoes for best flavor",
+      "Add basil at the end to preserve its fresh aroma and color"
+    ],
+    "coachingPrompt": "Would roasting the tomatoes first develop deeper, more complex flavor?"
+  },
+  "timestamp": "2026-02-06T19:45:10.028Z"
+}

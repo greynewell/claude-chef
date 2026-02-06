@@ -1,0 +1,53 @@
+{
+  "contentHash": "34f0addf742b4118",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 pound smoked turkey sausage, sliced",
+        "searchTerm": "turkey sausage",
+        "normalizedName": "Smoked Turkey Sausage"
+      },
+      {
+        "ingredient": "1 (8 ounce) package ZATARAIN'S Red Beans and Rice Mix",
+        "searchTerm": "red beans and rice mix",
+        "normalizedName": "Red Beans and Rice Mix"
+      },
+      {
+        "ingredient": "3 ¼ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 teaspoon chopped green onions",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausage slices in oil first for better flavor before adding rice mix",
+      "Follow package directions precisely for best rice texture",
+      "Garnish with green onions just before serving for fresh flavor"
+    ],
+    "coachingPrompt": "Using a pre-made mix simplifies this dish. Are you comfortable reading and following package instructions?"
+  },
+  "timestamp": "2026-02-06T21:30:33.929Z"
+}

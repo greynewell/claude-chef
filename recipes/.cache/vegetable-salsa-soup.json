@@ -1,0 +1,49 @@
+{
+  "contentHash": "8659033a2168f650",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 (14.5 ounce) cans chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar medium salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "2 cups chopped carrot",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 cups celery, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 cup frozen mixed vegetables",
+        "searchTerm": "mixed vegetables",
+        "normalizedName": "Mixed Vegetable"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Cutting board and knife",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Chop carrots smaller than celery since they take longer to soften",
+      "Use fresh salsa if available for better flavor than jarred",
+      "Taste and adjust salsa quantity based on desired heat level"
+    ],
+    "coachingPrompt": "How can I boost the flavors in this simple soup with fresh ingredients?"
+  },
+  "timestamp": "2026-02-06T21:41:34.080Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "e53ecf6071db1fb7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 cups milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "¾ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "12 ounces beef lunch meat",
+        "searchTerm": "chipped beef",
+        "normalizedName": "Chipped Beef"
+      },
+      {
+        "ingredient": "16 slices bread, toasted",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      }
+    ],
+    "cookingTips": [
+      "Make a smooth roux before adding milk to prevent lumps",
+      "Shred chipped beef finely for even distribution in the sauce",
+      "Keep toast warm until ready to serve to prevent sogginess"
+    ],
+    "coachingPrompt": "Coach the user through making a silky cream sauce and explain how to properly toast bread to support the creamy topping."
+  },
+  "timestamp": "2026-02-06T12:43:13.318Z"
+}

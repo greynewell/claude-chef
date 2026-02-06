@@ -1,0 +1,43 @@
+{
+  "contentHash": "ffbbdb22a18ff456",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 (1 ounce) square unsweetened chocolate, melted",
+        "searchTerm": "unsweetened chocolate",
+        "normalizedName": "Unsweetened Chocolate"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "double boiler",
+        "searchTerm": "double boiler"
+      }
+    ],
+    "cookingTips": [
+      "Melt chocolate gently over low heat to avoid scorching",
+      "Sift powdered sugar to remove lumps for smooth icing",
+      "Add milk gradually while whisking for perfect consistency"
+    ],
+    "coachingPrompt": "How smooth should the icing be? What texture are you aiming for - thick frosting or pourable glaze?"
+  },
+  "timestamp": "2026-02-06T18:27:41.615Z"
+}

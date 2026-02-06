@@ -1,0 +1,67 @@
+{
+  "contentHash": "6a30efab37cb9aeb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 slice multigrain seeded sandwich bread (such as Dave's Killer® Bread)",
+        "searchTerm": "multigrain bread",
+        "normalizedName": "Multigrain Bread"
+      },
+      {
+        "ingredient": "½ teaspoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "flaky sea salt to taste",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "freshly ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 pinches red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "½ ripe avocado",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 wedge lemon",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "non-stick skillet"
+      },
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "sharp knife"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread to desired crispness before topping",
+      "Cook egg to preference, sunny-side-up works best for presentation"
+    ],
+    "coachingPrompt": "Guide the user on creating a visually appealing, nutritious breakfast with proper avocado selection and egg doneness."
+  },
+  "timestamp": "2026-02-06T05:43:24.511Z"
+}

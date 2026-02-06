@@ -1,0 +1,63 @@
+{
+  "contentHash": "972fb4a774ef4b6a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (5 ounce) skinless, boneless chicken breast",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 tablespoons Italian dressing",
+        "searchTerm": "italian dressing",
+        "normalizedName": "Italian Dressing"
+      },
+      {
+        "ingredient": "1 (1 pound) loaf frozen bread dough, thawed",
+        "searchTerm": "bread dough",
+        "normalizedName": "Bread Dough"
+      },
+      {
+        "ingredient": "⅓ cup Alfredo sauce",
+        "searchTerm": "alfredo sauce",
+        "normalizedName": "Alfredo Sauce"
+      },
+      {
+        "ingredient": "1 (8 ounce) package shredded mozzarella cheese, divided",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "½ cup sliced fresh mushrooms",
+        "searchTerm": "mushroom",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "3 slices bacon, cooked and crumbled (Optional)",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Pizza Stone",
+        "searchTerm": "pizza stone"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken to even thickness before marinating for uniform cooking",
+      "Stretch bread dough gently to flatbread thickness to prevent excessive rising",
+      "Grill dough side down first until it has grill marks, then flip and add toppings"
+    ],
+    "coachingPrompt": "Guide the user through the process of grilling dough correctly, layering toppings efficiently, and ensuring chicken is cooked through while crust is crispy."
+  },
+  "timestamp": "2026-02-06T08:12:09.123Z"
+}

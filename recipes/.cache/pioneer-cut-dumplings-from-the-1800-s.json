@@ -1,0 +1,47 @@
+{
+  "contentHash": "be1ae4d6c531086a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 ½ teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "rolling pin",
+        "searchTerm": "rolling pin"
+      },
+      {
+        "name": "cutting knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Mix dough until just combined to avoid tough dumplings",
+      "Roll dough thin for tender dumplings that cook quickly in broth"
+    ],
+    "coachingPrompt": "Guide the user on making a simple dough and cutting into rustic pieces for historic authenticity."
+  },
+  "timestamp": "2026-02-06T14:50:58.659Z"
+}

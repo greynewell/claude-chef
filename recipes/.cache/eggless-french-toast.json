@@ -1,0 +1,52 @@
+{
+  "contentHash": "2960a9e5566a2bb9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 teaspoons ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "4 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "1 teaspoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "shallow dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Dip bread quickly in milk mixture to avoid sogginess",
+      "Cook on medium heat until golden brown on both sides"
+    ],
+    "coachingPrompt": "How can we create a custardy coating without eggs while keeping the bread from becoming too wet?"
+  },
+  "timestamp": "2026-02-06T06:11:49.411Z"
+}

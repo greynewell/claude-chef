@@ -1,0 +1,63 @@
+{
+  "contentHash": "03122757fe762e8d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup uncooked white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "5 tablespoons margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "1 cup chopped onions",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cup chopped celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 (10 ounce) package chopped frozen broccoli, thawed and drained",
+        "searchTerm": "frozen broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 (8 ounce) jar processed cheese spread with jalapeno",
+        "searchTerm": "jalapeno cheese spread",
+        "normalizedName": "Jalapeno Cheese Spread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 Casserole Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Large Pot",
+        "searchTerm": "cooking pot"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Toast rice in margarine before adding liquid for deeper flavor",
+      "The uncooked rice will absorb liquid as it bakes, so ensure proper ratio",
+      "Stir halfway through baking to ensure even rice cooking"
+    ],
+    "coachingPrompt": "This recipe uses uncooked rice as a thickener. How would you adjust liquid if substituting with pre-cooked rice?"
+  },
+  "timestamp": "2026-02-06T00:42:37.294Z"
+}

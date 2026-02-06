@@ -1,0 +1,53 @@
+{
+  "contentHash": "a83fecf20cc6db62",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15 ounce) can whole kernel corn, drained",
+        "searchTerm": "whole kernel corn",
+        "normalizedName": "Whole Kernel Corn"
+      },
+      {
+        "ingredient": "1 cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup self-rising cornmeal",
+        "searchTerm": "self rising cornmeal",
+        "normalizedName": "Self-Rising Cornmeal"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons applesauce",
+        "searchTerm": "applesauce",
+        "normalizedName": "Applesauce"
+      }
+    ],
+    "gear": [
+      "baking pan",
+      "mixing bowl",
+      "whisk"
+    ],
+    "cookingTips": [
+      "Don't overmix the batter to keep the cornbread tender and moist",
+      "Bake until a toothpick inserted in the center comes out clean"
+    ],
+    "coachingPrompt": "What temperature and baking time ensures this cornbread stays moist on the inside while developing a golden crust?"
+  },
+  "timestamp": "2026-02-06T03:51:48.995Z"
+}

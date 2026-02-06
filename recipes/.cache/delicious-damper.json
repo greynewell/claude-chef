@@ -1,0 +1,48 @@
+{
+  "contentHash": "846c6fb1a779e7eb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "4 teaspoons baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "¾ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Mix dry ingredients thoroughly before adding milk",
+      "Stir until just combined to avoid overworking the dough",
+      "Bake at 400°F for 15-20 minutes until golden brown"
+    ],
+    "coachingPrompt": "What's the difference between damper and traditional bread dough?"
+  },
+  "timestamp": "2026-02-06T05:08:07.154Z"
+}

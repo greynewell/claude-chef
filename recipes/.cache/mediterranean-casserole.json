@@ -1,0 +1,63 @@
+{
+  "contentHash": "e7af6233f4f2c0be",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "3 tablespoons extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "4 (4.375 ounce) cans sardines, drained",
+        "searchTerm": "sardines",
+        "normalizedName": "Sardine"
+      },
+      {
+        "ingredient": "½ pound cherry tomatoes, diced",
+        "searchTerm": "cherry tomatoes",
+        "normalizedName": "Cherry Tomato"
+      },
+      {
+        "ingredient": "2 cloves garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "2 tablespoons bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Drain sardines well to prevent excess liquid in the casserole",
+      "Slice potatoes thinly for even cooking",
+      "Top with bread crumbs and bake until golden for added texture"
+    ],
+    "coachingPrompt": "Guide the user through layering potatoes and sardines evenly to ensure each bite has balanced flavors and textures."
+  },
+  "timestamp": "2026-02-06T12:10:23.333Z"
+}

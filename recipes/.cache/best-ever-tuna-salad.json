@@ -1,0 +1,83 @@
+{
+  "contentHash": "bb8ed8d39b31399b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 (5 ounce) cans tuna, drained",
+        "searchTerm": "tuna canned",
+        "normalizedName": "Tuna"
+      },
+      {
+        "ingredient": "1 (6 ounce) can crabmeat, shredded",
+        "searchTerm": "crabmeat canned",
+        "normalizedName": "Crabmeat"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 teaspoon yellow mustard",
+        "searchTerm": "mustard yellow",
+        "normalizedName": "Yellow Mustard"
+      },
+      {
+        "ingredient": "½ teaspoon dried dill weed",
+        "searchTerm": "dill dried",
+        "normalizedName": "Dill"
+      },
+      {
+        "ingredient": "⅛ teaspoon lemon pepper",
+        "searchTerm": "lemon pepper seasoning",
+        "normalizedName": "Lemon Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons dill pickle relish",
+        "searchTerm": "pickle relish dill",
+        "normalizedName": "Dill Pickle Relish"
+      },
+      {
+        "ingredient": "2 tablespoons sweet pickle relish",
+        "searchTerm": "pickle relish sweet",
+        "normalizedName": "Sweet Pickle Relish"
+      },
+      {
+        "ingredient": "¾ cup finely chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "large mixing bowl"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork for mixing"
+      },
+      {
+        "name": "Can Opener",
+        "searchTerm": "can opener"
+      }
+    ],
+    "cookingTips": [
+      "Hard boil eggs and chop finely for better texture integration",
+      "Drain tuna and crabmeat thoroughly to avoid excess moisture",
+      "Chill before serving for best flavor development"
+    ],
+    "coachingPrompt": "What would happen if you substituted Greek yogurt for some of the mayonnaise for a lighter version?"
+  },
+  "timestamp": "2026-02-06T00:00:31.855Z"
+}

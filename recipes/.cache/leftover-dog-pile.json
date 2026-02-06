@@ -1,0 +1,58 @@
+{
+  "contentHash": "9a1c0de2a013a9bd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 hot dogs",
+        "searchTerm": "hot dogs",
+        "normalizedName": "Hot Dog"
+      },
+      {
+        "ingredient": "¾ cup chili with beans",
+        "searchTerm": "chili",
+        "normalizedName": "Chili"
+      },
+      {
+        "ingredient": "1 slice bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "¼ cup shredded Cheddar cheese, divided",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 tablespoons prepared yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "plate",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Layer ingredients in order: bread, hot dogs, chili, cheese, onion, mustard",
+      "Heat in a skillet or microwave until cheese melts completely",
+      "This is a casual comfort food, so don't worry about presentation"
+    ],
+    "coachingPrompt": "How would you build this sandwich to maximize flavor and ensure even distribution of toppings?"
+  },
+  "timestamp": "2026-02-06T11:06:18.589Z"
+}

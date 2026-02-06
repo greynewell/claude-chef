@@ -1,0 +1,88 @@
+{
+  "contentHash": "f8be244c7cd7ea6b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 ½ cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 teaspoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 ½ teaspoons ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "¾ teaspoon ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      },
+      {
+        "ingredient": "1 (8 ounce) can crushed pineapple, drained",
+        "searchTerm": "crushed pineapple",
+        "normalizedName": "Crushed Pineapple"
+      },
+      {
+        "ingredient": "2 cups grated zucchini",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "3 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ½ teaspoons baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "1 ½ teaspoons baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "loaf pans",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Drain pineapple well to prevent soggy bread",
+      "Grate zucchini and squeeze out excess moisture",
+      "Do not overmix batter to keep bread tender"
+    ],
+    "coachingPrompt": "Help the user balance the moisture from zucchini and pineapple to create moist but not wet bread."
+  },
+  "timestamp": "2026-02-06T22:29:12.633Z"
+}

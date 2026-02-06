@@ -1,0 +1,62 @@
+{
+  "contentHash": "af112b9b81bd5b3c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups ground fully cooked ham",
+        "searchTerm": "cooked ham",
+        "normalizedName": "Cooked Ham"
+      },
+      {
+        "ingredient": "2 hard cooked eggs",
+        "searchTerm": "hard cooked egg",
+        "normalizedName": "Hard Cooked Egg"
+      },
+      {
+        "ingredient": "2 tablespoons finely chopped celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "4 teaspoons sweet pickle relish",
+        "searchTerm": "sweet pickle relish",
+        "normalizedName": "Sweet Pickle Relish"
+      },
+      {
+        "ingredient": "2 teaspoons finely chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 tablespoon prepared yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Finely chop all vegetables by hand for texture, or pulse in food processor for smoother spread",
+      "Ensure hard-boiled eggs are cooled completely before chopping to prevent crumbling"
+    ],
+    "coachingPrompt": "How can you create a spreadable consistency that holds together on bread without becoming paste-like?"
+  },
+  "timestamp": "2026-02-06T08:43:35.541Z"
+}

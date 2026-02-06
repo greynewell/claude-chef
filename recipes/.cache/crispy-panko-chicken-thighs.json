@@ -1,0 +1,58 @@
+{
+  "contentHash": "6760e2305fdceedb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "¾ cup panko bread crumbs, or as needed",
+        "searchTerm": "panko breadcrumb",
+        "normalizedName": "Panko Breadcrumb"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "4 bone-in chicken thighs",
+        "searchTerm": "bone-in chicken thigh",
+        "normalizedName": "Bone-In Chicken Thigh"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "shallow bowl",
+        "searchTerm": "shallow bowl"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Spread mayo mixture on chicken to help panko adhere without egg wash",
+      "Bake at 400°F for 30-35 minutes until internal temperature reaches 165°F",
+      "The mayo base creates a creamy texture while panko provides crispiness"
+    ],
+    "coachingPrompt": "Why is mayonnaise used here instead of egg wash as a binder for the panko coating?"
+  },
+  "timestamp": "2026-02-06T04:39:42.735Z"
+}

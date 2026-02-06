@@ -1,0 +1,47 @@
+{
+  "contentHash": "b37378aedb340420",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15 ounce) can chickpeas (garbanzo beans), undrained",
+        "searchTerm": "chickpeas",
+        "normalizedName": "Chickpea"
+      },
+      {
+        "ingredient": "¼ teaspoon cream of tartar",
+        "searchTerm": "cream of tartar",
+        "normalizedName": "Cream of Tartar"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract (Optional)",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Use the liquid from canned chickpeas (aquafaba) as an egg white replacement for meringues",
+      "Whip aquafaba with cream of tartar until stiff peaks form before gradually adding sugar"
+    ],
+    "coachingPrompt": "What is aquafaba and how does it replicate the functional properties of egg whites in creating stable vegan meringues?"
+  },
+  "timestamp": "2026-02-06T21:38:26.470Z"
+}

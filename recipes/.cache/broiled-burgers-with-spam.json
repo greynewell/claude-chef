@@ -1,0 +1,73 @@
+{
+  "contentHash": "dee7f927fa4fcb73",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) can fully cooked luncheon meat (such as SPAM®), finely chopped",
+        "searchTerm": "SPAM",
+        "normalizedName": "SPAM"
+      },
+      {
+        "ingredient": "4 hard-cooked eggs, peeled and chopped",
+        "searchTerm": "hard-cooked eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (8 ounce) package shredded Cheddar cheese",
+        "searchTerm": "shredded Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "½ cup finely chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¼ cup chili sauce",
+        "searchTerm": "chili sauce",
+        "normalizedName": "Chili Sauce"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon hot sauce (Optional)",
+        "searchTerm": "hot sauce",
+        "normalizedName": "Hot Sauce"
+      },
+      {
+        "ingredient": "12 hamburger buns, split",
+        "searchTerm": "hamburger buns",
+        "normalizedName": "Hamburger Bun"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Broiler pan",
+        "searchTerm": "broiler pan"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Finely chop all ingredients to create a cohesive patty mixture",
+      "Chill mixture before shaping into patties for easier handling",
+      "Monitor broiling closely to prevent cheese from burning"
+    ],
+    "coachingPrompt": "How will you keep these patties from falling apart during broiling given their high moisture content?"
+  },
+  "timestamp": "2026-02-06T00:45:33.134Z"
+}

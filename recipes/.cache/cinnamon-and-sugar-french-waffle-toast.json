@@ -1,0 +1,58 @@
+{
+  "contentHash": "ac892c5b44f99973",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 teaspoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "9 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "waffle iron",
+        "searchTerm": "waffle iron"
+      },
+      {
+        "name": "shallow dish",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Preheat the waffle iron thoroughly for crispy edges and a tender interior",
+      "Don't soak the bread too long in the custard mixture to prevent sogginess",
+      "Make these immediately before serving for optimal texture and warmth"
+    ],
+    "coachingPrompt": "Help the cook understand how a waffle iron creates crispy exteriors on French toast and the balance between custard absorption and bread texture."
+  },
+  "timestamp": "2026-02-06T03:22:50.713Z"
+}

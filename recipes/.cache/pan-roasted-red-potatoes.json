@@ -1,0 +1,49 @@
+{
+  "contentHash": "c25f2721a16771b2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon duck fat",
+        "searchTerm": "duck fat",
+        "normalizedName": "Duck Fat"
+      },
+      {
+        "ingredient": "3 unpeeled red potatoes, diced",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "1 teaspoon dried parsley",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon ground white pepper",
+        "searchTerm": "white pepper",
+        "normalizedName": "White Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Medium Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Keep potato skins on for texture and nutritional value",
+      "Cut potatoes into uniform sizes for even cooking",
+      "Don't stir too frequently; let potatoes sit to develop crispy, golden edges"
+    ],
+    "coachingPrompt": "How can I achieve crispy exteriors while keeping the insides tender? What heat level works best?"
+  },
+  "timestamp": "2026-02-06T14:04:31.526Z"
+}

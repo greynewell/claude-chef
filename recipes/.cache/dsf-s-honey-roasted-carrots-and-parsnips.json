@@ -1,0 +1,58 @@
+{
+  "contentHash": "5d49af8a196c121d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 carrots, peeled",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "3 parsnips, peeled",
+        "searchTerm": "parsnips",
+        "normalizedName": "Parsnip"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Cut carrots and parsnips into similar-sized pieces for even roasting",
+      "Toss vegetables halfway through cooking to ensure caramelization on all sides",
+      "Drizzle honey in the last 5 minutes to prevent burning"
+    ],
+    "coachingPrompt": "How can I ensure my root vegetables get crispy edges while staying tender inside?"
+  },
+  "timestamp": "2026-02-06T05:24:04.848Z"
+}

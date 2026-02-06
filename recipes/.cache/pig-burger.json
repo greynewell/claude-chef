@@ -1,0 +1,62 @@
+{
+  "contentHash": "a0005fe49fce399e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices focaccia bread",
+        "searchTerm": "focaccia bread",
+        "normalizedName": "Focaccia Bread"
+      },
+      {
+        "ingredient": "1 tablespoon herb mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "⅛ cup shredded lettuce",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "2 slices ripe tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "¼ pound grilled chicken breast",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "3 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 tablespoons guacamole",
+        "searchTerm": "guacamole",
+        "normalizedName": "Guacamole"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill or Skillet",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Grill chicken breast to proper doneness before assembling burger",
+      "Toast focaccia bread lightly to prevent sogginess from wet ingredients"
+    ],
+    "coachingPrompt": "How would you assemble this burger to balance all flavors and prevent the bread from becoming soggy?"
+  },
+  "timestamp": "2026-02-06T14:46:17.299Z"
+}

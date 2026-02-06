@@ -1,0 +1,78 @@
+{
+  "contentHash": "b4696a36036429ef",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ cup unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "½ teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "⅔ cup unsalted butter, melted",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      },
+      {
+        "ingredient": "½ cup boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 large eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ⅓ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 cups semisweet chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Semisweet Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking pan",
+        "searchTerm": "9x9 baking pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Don't overmix the batter; stir just until combined for fudgier brownies",
+      "Test doneness with a toothpick; a few moist crumbs indicate perfect fudginess",
+      "Cool completely before cutting for cleaner edges"
+    ],
+    "coachingPrompt": "Help the user understand the difference between fudgy and overdone by explaining the toothpick test and how cooling time affects texture."
+  },
+  "timestamp": "2026-02-06T05:45:16.337Z"
+}

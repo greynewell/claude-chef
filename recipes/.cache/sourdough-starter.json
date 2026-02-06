@@ -1,0 +1,47 @@
+{
+  "contentHash": "b61b0bd46f9dc4ca",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 package active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "2 cups warm water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Jar",
+        "searchTerm": "glass jar"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Cloth Cover",
+        "searchTerm": "cloth or cheesecloth"
+      }
+    ],
+    "cookingTips": [
+      "Mix ingredients and let sit at room temperature, stirring daily",
+      "Feed with equal parts flour and water daily until bubbly and active (5-7 days)",
+      "Once mature, store in refrigerator and feed weekly"
+    ],
+    "coachingPrompt": "What signs indicate when a sourdough starter is ready to use for baking?"
+  },
+  "timestamp": "2026-02-06T18:37:33.172Z"
+}

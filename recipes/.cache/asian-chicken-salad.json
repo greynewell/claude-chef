@@ -1,0 +1,78 @@
+{
+  "contentHash": "db92fe1b9a90a858",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "2 teaspoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 tablespoon sesame oil (Optional)",
+        "searchTerm": "sesame oil",
+        "normalizedName": "Sesame Oil"
+      },
+      {
+        "ingredient": "¼ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "3 tablespoons rice vinegar",
+        "searchTerm": "rice vinegar",
+        "normalizedName": "Rice Vinegar"
+      },
+      {
+        "ingredient": "1 (8 ounce) package dried rice noodles",
+        "searchTerm": "rice noodles",
+        "normalizedName": "Rice Noodle"
+      },
+      {
+        "ingredient": "1 head iceberg lettuce - rinsed, dried, and chopped",
+        "searchTerm": "iceberg lettuce",
+        "normalizedName": "Iceberg Lettuce"
+      },
+      {
+        "ingredient": "4 boneless chicken breast halves, cooked and shredded",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "3 green onions, chopped",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 tablespoon sesame seeds, toasted",
+        "searchTerm": "sesame seeds",
+        "normalizedName": "Sesame Seed"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large salad bowl",
+        "searchTerm": "large bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "skillet for toasting seeds",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Toast sesame seeds in dry skillet for 2-3 minutes to enhance their nutty flavor",
+      "Soak rice noodles in hot water until just tender, then drain well before adding",
+      "Assemble salad close to serving time to prevent rice noodles from absorbing too much dressing"
+    ],
+    "coachingPrompt": "How should I cook the chicken, and when should I add the rice noodles?"
+  },
+  "timestamp": "2026-02-05T22:25:35.939Z"
+}

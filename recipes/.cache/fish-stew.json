@@ -1,0 +1,58 @@
+{
+  "contentHash": "04bc433cc10f64a2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15 ounce) can mackerel, undrained",
+        "searchTerm": "canned mackerel",
+        "normalizedName": "Mackerel"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can tomato soup (not condensed) (Optional)",
+        "searchTerm": "tomato soup",
+        "normalizedName": "Tomato Soup"
+      },
+      {
+        "ingredient": "4 potatoes, sliced",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 onion, sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "red pepper flakes (to taste)",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "1 egg (Optional)",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Knife and Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use canned mackerel in water or oil depending on your preference for richness",
+      "Cook potatoes until tender before adding the fish to ensure even cooking",
+      "If using an egg, whisk it gently into the hot stew at the end for added richness"
+    ],
+    "coachingPrompt": "Explain how to build layers of flavor in a simple stew and when to add delicate ingredients like canned fish."
+  },
+  "timestamp": "2026-02-06T06:44:08.098Z"
+}

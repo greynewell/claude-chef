@@ -1,0 +1,48 @@
+{
+  "contentHash": "439753c777e74292",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 mini bagels, split",
+        "searchTerm": "mini bagels",
+        "normalizedName": "Mini Bagel"
+      },
+      {
+        "ingredient": "¼ cup pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "⅓ cup shredded pizza cheese blend",
+        "searchTerm": "pizza cheese blend",
+        "normalizedName": "Pizza Cheese Blend"
+      },
+      {
+        "ingredient": "16 slices turkey pepperoni (such as Hormel®)",
+        "searchTerm": "turkey pepperoni",
+        "normalizedName": "Turkey Pepperoni"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "spreader or knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Use split bagels to provide enough surface area for even topping distribution",
+      "Spread sauce evenly to prevent dry spots; don't overload with toppings",
+      "Toast at 400°F for 5-7 minutes until cheese melts and edges toast lightly"
+    ],
+    "coachingPrompt": "Guide the user on proper topping ratios for mini pizzas and how to achieve melted cheese without burning bagel edges."
+  },
+  "timestamp": "2026-02-06T05:52:19.797Z"
+}

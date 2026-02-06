@@ -1,0 +1,78 @@
+{
+  "contentHash": "b82cf35d89a26e8f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "sweet pickle relish",
+        "searchTerm": "sweet pickle relish",
+        "normalizedName": "Sweet Pickle Relish"
+      },
+      {
+        "ingredient": "steak sauce",
+        "searchTerm": "steak sauce",
+        "normalizedName": "Steak Sauce"
+      },
+      {
+        "ingredient": "paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "dried dill weed",
+        "searchTerm": "dill",
+        "normalizedName": "Dill"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Cook eggs until hard boiled (about 10-12 minutes), cool, and peel before chopping",
+      "Mash eggs with a fork to desired texture—chunky or more finely mixed",
+      "Taste and adjust seasonings before serving—the relish and mustard add significant flavor"
+    ],
+    "coachingPrompt": "What makes this egg salad 'magical'? How do condiments like steak sauce and relish elevate basic ingredients?"
+  },
+  "timestamp": "2026-02-06T11:44:08.185Z"
+}

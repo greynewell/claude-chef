@@ -1,0 +1,63 @@
+{
+  "contentHash": "43098d95485af5f2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 thick slices white bread, cut into 1 inch cubes",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "¼ cup crumbled cooked bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 ½ cups chopped fresh mushrooms",
+        "searchTerm": "fresh mushrooms",
+        "normalizedName": "Fresh Mushroom"
+      },
+      {
+        "ingredient": "12 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 ½ cups half-and-half",
+        "searchTerm": "half-and-half",
+        "normalizedName": "Half-and-Half"
+      },
+      {
+        "ingredient": "1 teaspoon Dijon mustard",
+        "searchTerm": "dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Layer ingredients evenly in baking dish for consistent cooking and texture",
+      "Prepare strata night before and refrigerate, then bake next morning for convenience",
+      "Bake covered at 350°F for 45 minutes, then uncovered for 15 minutes until set and golden"
+    ],
+    "coachingPrompt": "Explain to the user how stratas work as a make-ahead breakfast dish and the importance of proper layering."
+  },
+  "timestamp": "2026-02-05T22:51:06.701Z"
+}

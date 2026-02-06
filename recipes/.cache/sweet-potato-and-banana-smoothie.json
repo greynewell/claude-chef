@@ -1,0 +1,48 @@
+{
+  "contentHash": "a5bd006cc58a0950",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 large sweet potato",
+        "searchTerm": "sweet potato",
+        "normalizedName": "Sweet Potato"
+      },
+      {
+        "ingredient": "1 banana",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "2 cups soy milk",
+        "searchTerm": "soy milk",
+        "normalizedName": "Soy Milk"
+      },
+      {
+        "ingredient": "¼ teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Microwave",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Microwave sweet potato until very soft for easiest blending",
+      "Peel and freeze banana before adding for colder, thicker smoothie",
+      "Blend in stages - sweet potato first, then add other ingredients"
+    ],
+    "coachingPrompt": "This is a simple smoothie with complex flavors. How will you ensure smooth blending without chunks?"
+  },
+  "timestamp": "2026-02-06T20:05:17.992Z"
+}

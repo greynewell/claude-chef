@@ -1,0 +1,68 @@
+{
+  "contentHash": "62b5212836801dda",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package lasagna noodles",
+        "searchTerm": "lasagna noodles",
+        "normalizedName": "Lasagna Noodle"
+      },
+      {
+        "ingredient": "1 pound lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "3 (15 ounce) cans tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "1 (6 ounce) can tomato paste",
+        "searchTerm": "tomato paste",
+        "normalizedName": "Tomato Paste"
+      },
+      {
+        "ingredient": "2 teaspoons garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "5 tablespoons Italian seasoning",
+        "searchTerm": "italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      },
+      {
+        "ingredient": "1 pint part-skim ricotta cheese",
+        "searchTerm": "ricotta cheese",
+        "normalizedName": "Ricotta Cheese"
+      },
+      {
+        "ingredient": "2 cups shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "9x13 baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Brown the beef thoroughly and break it into small pieces for even distribution",
+      "Simmer the sauce for 15-20 minutes to develop flavors before assembling",
+      "Don't skip letting the finished lasagna rest 10 minutes before cutting"
+    ],
+    "coachingPrompt": "How many layers should I make, and what's the best way to prevent the noodles from sticking together?"
+  },
+  "timestamp": "2026-02-06T10:56:19.106Z"
+}

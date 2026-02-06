@@ -1,0 +1,93 @@
+---
+title: "Pumpkin-Oat Scones"
+description: "A delicious bread made with all-purpose flour, old-fashioned rolled oats. Ready in under 30 minutes and serves 12."
+author: "Mattswife"
+prep_time: PT15M
+cook_time: PT15M
+servings: 12
+calories: 208
+recipe_category: Bread
+keywords:
+  - bread
+  - oat
+  - pumpkin
+  - scones
+recipe_ingredients:
+  - "All-Purpose Flour"
+  - "Old-Fashioned Rolled Oats"
+  - "Baking Powder"
+  - "Salt"
+  - "Cinnamon"
+  - "Nutmeg"
+  - "Ginger"
+  - "Cold Butter"
+  - "Pumpkin Puree"
+  - "Cold Milk"
+  - "Egg"
+  - "Vanilla Extract"
+allergies:
+  - Dairy
+  - Gluten
+  - Eggs
+flavors:
+  - Sweet
+tools:
+  - Oven
+  - Mixing Bowl
+  - Baking Sheet
+  - Blender
+  - Cutting Board
+  - Whisk
+skill_level: Medium
+source_url: "https://www.allrecipes.com/recipe/210066/pumpkin-oat-scones/"
+---
+
+## Ingredients
+
+- 2 cups all-purpose flour
+- 1 cup old-fashioned rolled oats
+- 1 tablespoon baking powder
+- ½ teaspoon salt
+- 1 teaspoon ground cinnamon
+- 1 teaspoon ground nutmeg
+- ½ teaspoon ground ginger
+- ½ teaspoon ground cloves
+- 6 tablespoons cold butter
+- ¾ cup pumpkin puree
+- 2 tablespoons cold milk
+- 1  large egg
+- ½ teaspoon vanilla extract
+- 1 cup confectioners' sugar
+- 1 tablespoon milk, or as needed
+- 1 pinch ground ginger
+- 1 dash ground cinnamon, or to taste
+
+## Instructions
+
+1. Preheat an oven to 425 degrees F (220 degrees C).
+2. Whisk the flour, oats, baking powder, salt, 1 teaspoon cinnamon, nutmeg, 1/2 teaspoon ground ginger, and cloves together in a mixing bowl. Cut the cold butter into the mixture with a pastry blender or fork until the mixture resembles coarse crumbs the size of peas or smaller. Whisk the pumpkin puree, 2 tablespoons cold milk, the egg, and vanilla together in a small bowl; fold into the flour mixture until just blended.
+3. Divide dough into two sections on a lightly floured surface. Gather each into a ball and knead about 10-12 times. Flatten balls to 1/2-inch thickness on a non-stick baking sheet. Leave about 2 inches between the rounds. Cut rounds into sixths with a butter knife, but do not separate the wedges.
+4. Bake in the preheated oven until the bottoms and edges are just golden brown, 12 to 16 minutes. Set aside to cool.
+5. While the scones cool, mix the confectioners' sugar, 1 tablespoon milk, remaining pinch of ginger, and dash of cinnamon together in a small bowl. Add more milk to thin the frosting as needed. Pour the frosting into a sealable plastic bag. Snip off a corner of the bag and drizzle icing over the cooled scones in a zigzag fashion. The icing will harden as it cools.
+
+## Frequently Asked Questions
+
+### How long does it take to make Pumpkin-Oat Scones?
+
+This recipe takes approximately 30 minutes from start to finish — 15 minutes of prep and 15 minutes of cooking. It is rated as medium difficulty.
+
+### How many servings does this Pumpkin-Oat Scones recipe make?
+
+This recipe yields 12 servings. You can adjust the serving size using the servings slider above the ingredient list.
+
+### Can I make Pumpkin-Oat Scones ahead of time? How should I store leftovers?
+
+Store this bread at room temperature in a bread box or sealed bag for 2-3 days.
+
+### How many calories are in Pumpkin-Oat Scones?
+
+Each serving contains approximately 208 calories. The recipe serves 12.
+
+### What temperature should I use for Pumpkin-Oat Scones?
+
+Follow the temperature specified in the recipe instructions. Make sure to preheat your oven fully.

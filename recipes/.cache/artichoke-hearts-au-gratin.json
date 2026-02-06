@@ -1,0 +1,43 @@
+{
+  "contentHash": "2515202b50339c3c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (10 ounce) cans artichoke hearts in water, drained",
+        "searchTerm": "artichoke hearts canned",
+        "normalizedName": "Artichoke Heart"
+      },
+      {
+        "ingredient": "½ cup Italian-style salad dressing",
+        "searchTerm": "Italian salad dressing",
+        "normalizedName": "Italian Salad Dressing"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese shredded",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 (3 ounce) can French-fried onions",
+        "searchTerm": "fried onions canned",
+        "normalizedName": "Fried Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Pat artichokes dry before assembling to ensure proper gratin crust formation",
+      "Add fried onions at the end to maintain their crispy texture"
+    ],
+    "coachingPrompt": "You're creating a gratin with a crispy onion topping. When should you add the fried onions to prevent them from softening?"
+  },
+  "timestamp": "2026-02-05T22:23:28.758Z"
+}

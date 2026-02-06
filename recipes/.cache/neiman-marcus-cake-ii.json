@@ -1,0 +1,53 @@
+{
+  "contentHash": "1e9eadbe876def32",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (18.25 ounce) package yellow cake mix",
+        "searchTerm": "yellow cake mix",
+        "normalizedName": "Yellow Cake Mix"
+      },
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "8 ounces cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "4 cups confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "Electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Frost the cake while still warm so frosting melts slightly into the cake",
+      "Cream cheese frosting should be smooth; mix until no lumps remain",
+      "This is a famous shortcut cake; the frosting makes all the difference"
+    ],
+    "coachingPrompt": "This is a simple cake mix-based recipe with a cream cheese frosting. Are you comfortable making frosting?"
+  },
+  "timestamp": "2026-02-06T13:10:02.037Z"
+}

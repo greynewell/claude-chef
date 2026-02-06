@@ -1,0 +1,43 @@
+{
+  "contentHash": "7047be47d2945dd1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup superfine sugar",
+        "searchTerm": "superfine sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 ¼ cups heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "4 bananas, peeled and halved lengthwise",
+        "searchTerm": "bananas",
+        "normalizedName": "Banana"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Watch the caramel carefully—it goes from golden to burned quickly",
+      "Add cream slowly and carefully as it will bubble up when added to hot caramel"
+    ],
+    "coachingPrompt": "How do I know when the caramel is perfectly done without burning it, and can I make it ahead?"
+  },
+  "timestamp": "2026-02-05T23:27:35.409Z"
+}

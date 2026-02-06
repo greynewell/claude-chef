@@ -1,0 +1,43 @@
+{
+  "contentHash": "76a10585a5d2f202",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 quart 1% milk",
+        "searchTerm": "1% milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ cup dry milk powder",
+        "searchTerm": "dry milk powder",
+        "normalizedName": "Milk Powder"
+      },
+      {
+        "ingredient": "3 tablespoons plain yogurt with active cultures",
+        "searchTerm": "plain yogurt starter",
+        "normalizedName": "Yogurt Starter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Thermometer",
+        "searchTerm": "instant read thermometer"
+      },
+      {
+        "name": "Yogurt maker or cooler",
+        "searchTerm": "yogurt maker"
+      },
+      {
+        "name": "Jars",
+        "searchTerm": "mason jars"
+      }
+    ],
+    "cookingTips": [
+      "Heat milk to 180°F and cool to 110°F before adding starter culture",
+      "Maintain consistent temperature between 100-110°F for 6-8 hours for proper culturing",
+      "Use fresh yogurt starter with live active cultures for best results"
+    ],
+    "coachingPrompt": "What temperature control method will give me consistently creamy yogurt?"
+  },
+  "timestamp": "2026-02-06T09:17:13.644Z"
+}

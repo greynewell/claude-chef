@@ -1,0 +1,63 @@
+{
+  "contentHash": "44cda692f26f63f7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 quarts chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "5 cups chopped cooked chicken breast",
+        "searchTerm": "cooked chicken",
+        "normalizedName": "Cooked Chicken Breast"
+      },
+      {
+        "ingredient": "1 cup uncooked white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "3 lemons, juiced",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 bunch spinach, rinsed and chopped",
+        "searchTerm": "spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "2 large carrots, chopped",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "stockpot"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "ladle",
+        "searchTerm": "soup ladle"
+      }
+    ],
+    "cookingTips": [
+      "Cook rice separately if preferred for better texture control",
+      "Add lemon juice just before serving to maintain brightness",
+      "Stir in spinach at the very end for vibrant color"
+    ],
+    "coachingPrompt": "Help me make a simple, nourishing lemon chicken soup with proper timing for components."
+  },
+  "timestamp": "2026-02-06T11:09:40.725Z"
+}

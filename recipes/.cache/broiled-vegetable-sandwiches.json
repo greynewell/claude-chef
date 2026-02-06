@@ -1,0 +1,62 @@
+{
+  "contentHash": "b1458d031ac35e21",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 medium tomatoes, chopped",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 large onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 red bell pepper, chopped",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 green bell pepper, chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "2 teaspoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "6 slices white American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      },
+      {
+        "ingredient": "6 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Broiler Pan",
+        "searchTerm": "broiler pan"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Sauté vegetables briefly before assembly to remove excess moisture and prevent soggy sandwiches",
+      "Place sandwiches on broiler pan a few inches from heat to melt cheese without burning bread"
+    ],
+    "coachingPrompt": "How will you prevent your sandwiches from becoming soggy under the broiler?"
+  },
+  "timestamp": "2026-02-06T00:47:08.149Z"
+}

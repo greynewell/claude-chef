@@ -1,0 +1,62 @@
+{
+  "contentHash": "785cbf8fe2b441fb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (5 ounce) can tuna, drained and flaked",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Tuna"
+      },
+      {
+        "ingredient": "3 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 stalks celery, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "2 tablespoons sweet pickle relish",
+        "searchTerm": "sweet pickle relish",
+        "normalizedName": "Sweet Pickle Relish"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot for boiling egg",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Hard boil the egg, cool it completely, and chop finely for even texture",
+      "Drain tuna thoroughly to prevent the salad from becoming watery",
+      "Mix gently to keep tuna flakes intact and preserve texture"
+    ],
+    "coachingPrompt": "Guide the user through making classic tuna salad with proper ingredient proportions and mixing technique."
+  },
+  "timestamp": "2026-02-06T21:52:16.104Z"
+}

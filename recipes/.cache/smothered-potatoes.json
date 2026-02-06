@@ -1,0 +1,63 @@
+{
+  "contentHash": "10703ac247fa0952",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 red potatoes, peeled and cubed",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "¾ cup all-purpose flour for coating",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ small onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "3 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Cube potatoes evenly for consistent cooking",
+      "Keep potatoes on high heat while cooking for golden crust",
+      "Don't flip constantly - let them brown before stirring"
+    ],
+    "coachingPrompt": "Do you prefer your potatoes crispy and brown or softer throughout? How much crust would you like?"
+  },
+  "timestamp": "2026-02-06T18:27:41.620Z"
+}

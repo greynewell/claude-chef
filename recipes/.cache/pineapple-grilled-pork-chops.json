@@ -1,0 +1,58 @@
+{
+  "contentHash": "41bd155d80e56384",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) can pineapple rings, juice drained and reserved",
+        "searchTerm": "canned pineapple",
+        "normalizedName": "Pineapple"
+      },
+      {
+        "ingredient": "¼ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "¼ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "¼ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "4 pork chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Small Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Marinate pork chops for at least 1 hour for maximum flavor penetration",
+      "Grill to an internal temperature of 145°F for safe, juicy results",
+      "Place pineapple rings on the grill during the last few minutes for caramelized edges"
+    ],
+    "coachingPrompt": "How long should I marinate the pork chops and at what temperature should I grill them?"
+  },
+  "timestamp": "2026-02-06T14:49:02.568Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "1843f5482a611059",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "hickory wood chips",
+        "searchTerm": "hickory wood chips",
+        "normalizedName": "Wood Chip"
+      },
+      {
+        "ingredient": "2 pounds fresh black cherries, pitted",
+        "searchTerm": "black cherries",
+        "normalizedName": "Black Cherry"
+      },
+      {
+        "ingredient": "3 tablespoons cracked peppercorns",
+        "searchTerm": "peppercorns",
+        "normalizedName": "Peppercorn"
+      },
+      {
+        "ingredient": "1 pound large sea scallops, patted dry",
+        "searchTerm": "sea scallops",
+        "normalizedName": "Sea Scallop"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ cup unsalted butter, cut into cubes",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "smoker",
+        "searchTerm": "smoker"
+      },
+      {
+        "name": "grill grate",
+        "searchTerm": "grill grate"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Pat scallops completely dry to prevent sticking",
+      "Don't overcook scallops—2-3 minutes per side is usually sufficient",
+      "Make cherry sauce while scallops smoke for timing efficiency"
+    ],
+    "coachingPrompt": "Teach proper scallop handling and how to create a delicate cherry gastrique to complement the smoky flavor."
+  },
+  "timestamp": "2026-02-06T18:21:25.353Z"
+}

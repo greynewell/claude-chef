@@ -1,0 +1,73 @@
+{
+  "contentHash": "aefef1dc43d6b078",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 ½ cups shredded coconut",
+        "searchTerm": "coconut",
+        "normalizedName": "Coconut"
+      },
+      {
+        "ingredient": "1 (14 ounce) can sweetened condensed milk",
+        "searchTerm": "condensed milk",
+        "normalizedName": "Sweetened Condensed Milk"
+      },
+      {
+        "ingredient": "⅓ cup chopped red maraschino cherries",
+        "searchTerm": "maraschino cherries",
+        "normalizedName": "Maraschino Cherry"
+      },
+      {
+        "ingredient": "⅓ cup chopped green maraschino cherries",
+        "searchTerm": "maraschino cherries",
+        "normalizedName": "Maraschino Cherry"
+      },
+      {
+        "ingredient": "⅓ cup chopped walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "¼ cup golden raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Golden Raisin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking pan",
+        "searchTerm": "9x13 baking pan"
+      },
+      {
+        "name": "Mixer",
+        "searchTerm": "stand mixer"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "sharp knife"
+      }
+    ],
+    "cookingTips": [
+      "Press shortbread base firmly into the pan for even texture",
+      "Allow to cool completely before cutting for clean, neat bars",
+      "The condensed milk creates a creamy, binding layer"
+    ],
+    "coachingPrompt": "Guide the user through creating distinct layers and explain how the shortbread base and condensed milk layer work together."
+  },
+  "timestamp": "2026-02-06T11:56:22.403Z"
+}

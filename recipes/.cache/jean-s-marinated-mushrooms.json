@@ -1,0 +1,73 @@
+{
+  "contentHash": "d61fb87ab42a6c91",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (8 ounce) packages fresh mushrooms",
+        "searchTerm": "fresh mushrooms",
+        "normalizedName": "Fresh Mushroom"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (.7 ounce) package dry Italian-style salad dressing mix",
+        "searchTerm": "Italian dressing mix",
+        "normalizedName": "Italian Dressing Mix"
+      },
+      {
+        "ingredient": "⅓ cup tarragon vinegar",
+        "searchTerm": "tarragon vinegar",
+        "normalizedName": "Tarragon Vinegar"
+      },
+      {
+        "ingredient": "2 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "⅔ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "4 cloves garlic, peeled and crushed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "6 drops hot pepper sauce",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet pan"
+      },
+      {
+        "name": "Glass Jar",
+        "searchTerm": "mason jar"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Marinate mushrooms for at least 4 hours or overnight for deeper flavor",
+      "Sauté mushrooms first to develop their natural umami before marinating",
+      "Store in refrigerator and serve cold as an appetizer or salad topping"
+    ],
+    "coachingPrompt": "How does sautéing the mushrooms before marinating improve the final dish?"
+  },
+  "timestamp": "2026-02-06T10:23:16.837Z"
+}

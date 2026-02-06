@@ -1,0 +1,73 @@
+{
+  "contentHash": "67265ef0c44ffc36",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 whole egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "3 egg whites",
+        "searchTerm": "egg white",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "1 tablespoon water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 eggplant, peeled and thinly sliced",
+        "searchTerm": "eggplant",
+        "normalizedName": "Eggplant"
+      },
+      {
+        "ingredient": "2 cups whole wheat bread crumbs",
+        "searchTerm": "whole wheat bread crumbs",
+        "normalizedName": "Whole Wheat Bread Crumb"
+      },
+      {
+        "ingredient": "6 cups spaghetti sauce, divided",
+        "searchTerm": "spaghetti sauce",
+        "normalizedName": "Spaghetti Sauce"
+      },
+      {
+        "ingredient": "¾ pound part-skim mozzarella cheese, shredded and divided",
+        "searchTerm": "part-skim mozzarella cheese",
+        "normalizedName": "Part-Skim Mozzarella Cheese"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese, divided",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "½ teaspoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "shallow bowl",
+        "searchTerm": "shallow bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Salt eggplant slices and let sit to draw out moisture before breading",
+      "Use mostly egg whites instead of whole eggs to reduce fat while maintaining structure",
+      "Layer ingredients evenly to ensure consistent baking and even cheese distribution"
+    ],
+    "coachingPrompt": "Help the user prepare a lighter eggplant parmesan using mostly egg whites and whole wheat breadcrumbs. Focus on proper eggplant preparation and layering technique."
+  },
+  "timestamp": "2026-02-06T08:53:52.193Z"
+}

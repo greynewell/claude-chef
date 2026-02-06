@@ -1,0 +1,78 @@
+{
+  "contentHash": "e206466be74693eb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "red potato",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "spinach",
+        "searchTerm": "fresh spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "Muenster cheese",
+        "searchTerm": "muenster cheese",
+        "normalizedName": "Muenster Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "heavy skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Caramelize onions slowly over medium heat for 30-40 minutes for deep flavor",
+      "Make a béchamel sauce before adding cheese for creamy consistency",
+      "Bake at 350°F for 45-50 minutes until potatoes are tender and top is golden"
+    ],
+    "coachingPrompt": "Do you have time for slow-caramelized onions, or would you prefer quick-cooked onions?"
+  },
+  "timestamp": "2026-02-06T19:14:40.647Z"
+}

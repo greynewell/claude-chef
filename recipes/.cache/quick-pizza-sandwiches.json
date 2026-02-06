@@ -1,0 +1,44 @@
+{
+  "contentHash": "72f782fabf9586fa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package refrigerated crescent rolls",
+        "searchTerm": "crescent rolls",
+        "normalizedName": "Crescent Roll"
+      },
+      {
+        "ingredient": "4 slices mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "4 teaspoons tomato paste",
+        "searchTerm": "tomato paste",
+        "normalizedName": "Tomato Paste"
+      },
+      {
+        "ingredient": "½ teaspoon dried oregano",
+        "searchTerm": "oregano",
+        "normalizedName": "Oregano"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Unroll and seal crescent roll edges before filling to prevent leakage during baking",
+      "Spread tomato paste evenly for consistent pizza flavor in every bite",
+      "Bake until golden brown for optimal cheese melt and pastry crispness"
+    ],
+    "coachingPrompt": "Help the user assemble these quickly and suggest baking time based on oven type to achieve golden, melted results."
+  },
+  "timestamp": "2026-02-06T15:45:17.896Z"
+}

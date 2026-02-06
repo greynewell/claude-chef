@@ -1,0 +1,57 @@
+{
+  "contentHash": "2b9a900b24308e92",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tomatoes, sliced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "½ cup ricotta cheese",
+        "searchTerm": "ricotta cheese",
+        "normalizedName": "Ricotta Cheese"
+      },
+      {
+        "ingredient": "¼ teaspoon Italian seasoning",
+        "searchTerm": "Italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      },
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "4 slices multigrain bread, toasted",
+        "searchTerm": "multigrain bread",
+        "normalizedName": "Multigrain Bread"
+      },
+      {
+        "ingredient": "2 slices provolone cheese",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread while still warm to help cheese melt slightly",
+      "Salt tomato slices lightly to enhance flavor and reduce moisture"
+    ],
+    "coachingPrompt": "Guide assembly and flavor balance to create a fresh, satisfying sandwich."
+  },
+  "timestamp": "2026-02-06T16:15:13.410Z"
+}

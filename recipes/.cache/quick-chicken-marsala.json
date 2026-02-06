@@ -1,0 +1,48 @@
+{
+  "contentHash": "e6ee8fa23d14508c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "6 skinless, boneless chicken breasts",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed golden mushroom soup",
+        "searchTerm": "golden mushroom soup",
+        "normalizedName": "Golden Mushroom Soup"
+      },
+      {
+        "ingredient": "1 ¼ cups Marsala wine",
+        "searchTerm": "marsala wine",
+        "normalizedName": "Marsala Wine"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Brown chicken in butter first for better flavor development",
+      "Marsala wine adds richness; use quality wine for best taste",
+      "Simmer gently to allow flavors to meld without reducing sauce too much"
+    ],
+    "coachingPrompt": "Guide the user through browning chicken properly and how to balance wine and cream-based soup for an elegant dish."
+  },
+  "timestamp": "2026-02-06T15:41:12.349Z"
+}

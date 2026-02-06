@@ -1,0 +1,53 @@
+{
+  "contentHash": "56511f75b28e1942",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pint fresh raspberries",
+        "searchTerm": "fresh raspberries",
+        "normalizedName": "Raspberry"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons orange juice",
+        "searchTerm": "orange juice",
+        "normalizedName": "Orange Juice"
+      },
+      {
+        "ingredient": "2 tablespoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "1 cup cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Strainer",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Strain sauce for seedless texture if preferred",
+      "Whisk cornstarch with cold water first to prevent lumps",
+      "Simmer gently until sauce coats the back of a spoon"
+    ],
+    "coachingPrompt": "What consistency are you aiming for - thick syrup or pourable sauce?"
+  },
+  "timestamp": "2026-02-06T15:57:15.731Z"
+}

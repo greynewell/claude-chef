@@ -1,0 +1,88 @@
+{
+  "contentHash": "4ff8cc07b9799a0b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "ricotta cheese",
+        "searchTerm": "ricotta cheese",
+        "normalizedName": "Ricotta Cheese"
+      },
+      {
+        "ingredient": "spinach",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "spaghetti sauce",
+        "searchTerm": "marinara sauce",
+        "normalizedName": "Spaghetti Sauce"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "manicotti shell",
+        "searchTerm": "manicotti pasta",
+        "normalizedName": "Manicotti Shell"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "piping bag",
+        "searchTerm": "piping bag"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Squeeze spinach very dry before mixing with cheese",
+      "Use piping bag for easy filling of manicotti tubes without breaking",
+      "Cover with foil while baking to prevent drying, remove for last 10 minutes"
+    ],
+    "coachingPrompt": "Do you have a piping bag, or will you fill the manicotti by hand or using a spoon?"
+  },
+  "timestamp": "2026-02-06T19:14:40.648Z"
+}

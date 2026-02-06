@@ -1,0 +1,53 @@
+{
+  "contentHash": "d6878d7003702df8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 teaspoons paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "1 teaspoon black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (5 pound) whole duck",
+        "searchTerm": "whole duck",
+        "normalizedName": "Duck"
+      },
+      {
+        "ingredient": "½ cup melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "kitchen tongs"
+      }
+    ],
+    "cookingTips": [
+      "Prick duck skin all over to render fat and achieve crispy exterior",
+      "Place duck breast-side up on a rack above the pan to keep it elevated from excess fat",
+      "Roast at 375°F until internal temperature reaches 165°F, about 2.5 to 3 hours"
+    ],
+    "coachingPrompt": "What techniques ensure duck skin becomes crispy while keeping meat tender and juicy inside?"
+  },
+  "timestamp": "2026-02-06T16:22:46.949Z"
+}

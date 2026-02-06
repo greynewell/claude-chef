@@ -1,0 +1,43 @@
+{
+  "contentHash": "4715d5a0b655d486",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "¼ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "bread knife"
+      },
+      {
+        "name": "Small Saucepan",
+        "searchTerm": "small pot"
+      }
+    ],
+    "cookingTips": [
+      "Cut bread into uniform cubes for even toasting",
+      "Toast at 375°F for 10-12 minutes, stirring halfway through",
+      "Store in an airtight container for up to one week"
+    ],
+    "coachingPrompt": "Guide the user on achieving golden-brown, crispy croutons with even butter distribution and garlic flavor."
+  },
+  "timestamp": "2026-02-05T23:57:41.345Z"
+}

@@ -1,0 +1,78 @@
+{
+  "contentHash": "a3a7d84bf732d85d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (750 milliliter) bottles fruity red wine, such as Beaujolais",
+        "searchTerm": "red wine",
+        "normalizedName": "Red Wine"
+      },
+      {
+        "ingredient": "1 (750 milliliter) bottle port wine",
+        "searchTerm": "port wine",
+        "normalizedName": "Port Wine"
+      },
+      {
+        "ingredient": "3 (3 inch) cinnamon sticks",
+        "searchTerm": "cinnamon sticks",
+        "normalizedName": "Cinnamon Stick"
+      },
+      {
+        "ingredient": "14 whole cloves",
+        "searchTerm": "whole cloves",
+        "normalizedName": "Whole Clove"
+      },
+      {
+        "ingredient": "1 orange, peel cut into thin strips",
+        "searchTerm": "orange peel",
+        "normalizedName": "Orange Peel"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¾ cup rum",
+        "searchTerm": "rum",
+        "normalizedName": "Rum"
+      },
+      {
+        "ingredient": "¼ cup brandy",
+        "searchTerm": "brandy",
+        "normalizedName": "Brandy"
+      },
+      {
+        "ingredient": "1 cup raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      },
+      {
+        "ingredient": "1 cup slivered almonds",
+        "searchTerm": "slivered almonds",
+        "normalizedName": "Slivered Almond"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Heat source",
+        "searchTerm": "stove"
+      }
+    ],
+    "cookingTips": [
+      "Heat gently without boiling to preserve alcohol content",
+      "Infuse spices for at least 1 hour for full flavor",
+      "Add rum and brandy just before serving for aroma and warmth"
+    ],
+    "coachingPrompt": "How does heating temperature affect the final alcohol content of glogg?"
+  },
+  "timestamp": "2026-02-06T19:55:06.204Z"
+}

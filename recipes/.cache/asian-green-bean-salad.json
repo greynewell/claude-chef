@@ -1,0 +1,63 @@
+{
+  "contentHash": "16b38576b4ae1708",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound fresh green beans, trimmed and cut into 2-inch pieces",
+        "searchTerm": "fresh green beans",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "3 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 tablespoons mirin",
+        "searchTerm": "mirin",
+        "normalizedName": "Mirin"
+      },
+      {
+        "ingredient": "1 teaspoon sweet chile sauce",
+        "searchTerm": "sweet chile sauce",
+        "normalizedName": "Sweet Chile Sauce"
+      },
+      {
+        "ingredient": "3 tablespoons toasted sesame seeds",
+        "searchTerm": "sesame seeds",
+        "normalizedName": "Sesame Seed"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Blanch green beans until just tender-crisp, not fully cooked, for better texture",
+      "Cool beans in ice water immediately after blanching to stop the cooking process",
+      "Toast sesame seeds in a dry pan for enhanced nutty flavor"
+    ],
+    "coachingPrompt": "Teach the user the proper technique for blanching vegetables and explain how the dressing combines sweet, salty, and spicy flavors."
+  },
+  "timestamp": "2026-02-05T22:26:48.922Z"
+}

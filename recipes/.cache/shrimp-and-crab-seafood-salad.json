@@ -1,0 +1,78 @@
+{
+  "contentHash": "b685063863519424",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "imitation crabmeat",
+        "searchTerm": "imitation crab",
+        "normalizedName": "Imitation Crab"
+      },
+      {
+        "ingredient": "uncooked shrimp",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "minced celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "minced red onion",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "minced fresh dill",
+        "searchTerm": "dill",
+        "normalizedName": "Dill"
+      },
+      {
+        "ingredient": "seafood seasoning",
+        "searchTerm": "seafood seasoning",
+        "normalizedName": "Seafood Seasoning"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cook fresh shrimp and cool completely before mixing to ensure proper texture",
+      "Chop all ingredients finely and uniformly for a cohesive salad texture",
+      "Refrigerate for at least 2 hours to allow flavors to develop before serving"
+    ],
+    "coachingPrompt": "Guide the user on proper shrimp preparation and help them achieve the right consistency by balancing mayo with lemon juice."
+  },
+  "timestamp": "2026-02-06T17:30:37.368Z"
+}

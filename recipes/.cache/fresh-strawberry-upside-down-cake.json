@@ -1,0 +1,48 @@
+{
+  "contentHash": "99aeb15fb3037883",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups crushed fresh strawberries",
+        "searchTerm": "fresh strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "1 (6 ounce) package strawberry flavored Jell-O® mix",
+        "searchTerm": "strawberry jello",
+        "normalizedName": "Strawberry Gelatin"
+      },
+      {
+        "ingredient": "3 cups miniature marshmallows",
+        "searchTerm": "miniature marshmallows",
+        "normalizedName": "Marshmallow"
+      },
+      {
+        "ingredient": "1 (18 ounce) package yellow cake mix, batter prepared as directed on package",
+        "searchTerm": "yellow cake mix",
+        "normalizedName": "Yellow Cake Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9-inch round cake pan",
+        "searchTerm": "round cake pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "electric mixer"
+      }
+    ],
+    "cookingTips": [
+      "The gelatin will partially dissolve when mixed with fresh strawberries - this is expected",
+      "Spread the marshmallows evenly to ensure consistent melting and distribution",
+      "Let the cake cool slightly before inverting so the strawberry topping sets"
+    ],
+    "coachingPrompt": "Do you want a jiggly, moist cake or something more set? Any dietary restrictions with the gelatin?"
+  },
+  "timestamp": "2026-02-06T07:01:44.245Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "7695bb698a369065",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "lemons",
+        "searchTerm": "lemons",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "juicer",
+        "searchTerm": "juicer"
+      },
+      {
+        "name": "pitcher",
+        "searchTerm": "pitcher"
+      },
+      {
+        "name": "stirring spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Room temperature lemons yield more juice than cold ones",
+      "Make simple syrup by dissolving sugar in hot water for smoother texture",
+      "Adjust sweetness to taste and serve over ice"
+    ],
+    "coachingPrompt": "What technique would help you extract maximum juice from each lemon?"
+  },
+  "timestamp": "2026-02-06T19:23:56.692Z"
+}

@@ -1,0 +1,52 @@
+{
+  "contentHash": "02599af9614b502f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "1 ½ tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 ½ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 tablespoons milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 tablespoon cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Mug",
+        "searchTerm": "mug"
+      }
+    ],
+    "cookingTips": [
+      "Whisk cocoa and cornstarch with cold milk first to prevent lumps",
+      "Heat slowly and stir constantly for a silky, thick Italian-style hot chocolate"
+    ],
+    "coachingPrompt": "Help the user create rich, thick Italian hot chocolate with a smooth texture and balanced cocoa flavor."
+  },
+  "timestamp": "2026-02-06T03:27:39.377Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "a589412cf7f57507",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10 ounce) package frozen peas, thawed and drained",
+        "searchTerm": "frozen peas",
+        "normalizedName": "Pea"
+      },
+      {
+        "ingredient": "2 cups cubed fully cooked ham",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "¾ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 tablespoons onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 ½ teaspoons mustard",
+        "searchTerm": "mustard",
+        "normalizedName": "Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Thaw peas and drain thoroughly to prevent excess moisture in the salad",
+      "Mix mayonnaise-based dressing with ham first, then fold in peas gently to avoid crushing them",
+      "Prepare up to 2 hours ahead; cover and refrigerate until serving"
+    ],
+    "coachingPrompt": "Help the user understand that this is a classic potluck salad that benefits from being made ahead so flavors meld together."
+  },
+  "timestamp": "2026-02-06T08:08:33.007Z"
+}

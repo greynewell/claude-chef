@@ -1,0 +1,53 @@
+{
+  "contentHash": "d5670d915bd4955a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "20 fresh oysters in shells, rinsed and scrubbed clean",
+        "searchTerm": "fresh oysters",
+        "normalizedName": "Fresh Oyster"
+      },
+      {
+        "ingredient": "2 teaspoons Mexican-style hot sauce (such as Valentina®)",
+        "searchTerm": "hot sauce",
+        "normalizedName": "Hot Sauce"
+      },
+      {
+        "ingredient": "½ teaspoon dried parsley flakes",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley Flake"
+      },
+      {
+        "ingredient": "4 tablespoons unsalted butter, melted",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Instant Pot",
+        "searchTerm": "instant pot"
+      },
+      {
+        "name": "Steamer Rack",
+        "searchTerm": "steamer rack"
+      },
+      {
+        "name": "Small Bowl",
+        "searchTerm": "small bowl"
+      }
+    ],
+    "cookingTips": [
+      "Scrub oyster shells thoroughly under running water before cooking",
+      "Cook oysters for exactly 5 minutes under high pressure to avoid overcooking",
+      "Serve immediately with spicy butter for best flavor and texture"
+    ],
+    "coachingPrompt": "Oysters require precision cooking. Are you confident about the timing and temperature needed to cook them perfectly?"
+  },
+  "timestamp": "2026-02-06T09:50:38.705Z"
+}

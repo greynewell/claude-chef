@@ -1,0 +1,53 @@
+{
+  "contentHash": "7dd55d0d7bfa918f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound fresh rhubarb, trimmed and cut into 1-inch pieces",
+        "searchTerm": "fresh rhubarb",
+        "normalizedName": "Fresh Rhubarb"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground cloves",
+        "searchTerm": "ground cloves",
+        "normalizedName": "Ground Clove"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Trim leafy ends of rhubarb as they are toxic; only the stalks are edible",
+      "Cut into uniform pieces for even cooking",
+      "Bake at 350°F for 30-40 minutes, stirring occasionally, until rhubarb breaks down into sauce"
+    ],
+    "coachingPrompt": "What's the balance between tartness and sweetness when making rhubarb sauce, and how do the spices complement it?"
+  },
+  "timestamp": "2026-02-05T23:11:39.014Z"
+}

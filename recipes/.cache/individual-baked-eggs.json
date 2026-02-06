@@ -1,0 +1,48 @@
+{
+  "contentHash": "925f071374886413",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 slice bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 teaspoon melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ slice Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Ramekin or small baking dish",
+        "searchTerm": "ramekin"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Brush ramekins with melted butter or oil to prevent sticking",
+      "Bake at 350°F for 12-15 minutes until egg white is set but yolk is still slightly runny if desired",
+      "Layer ingredients strategically—place cheese on top to melt evenly"
+    ],
+    "coachingPrompt": "What oven temperature ensures eggs cook gently without the edges becoming rubbery?"
+  },
+  "timestamp": "2026-02-06T09:42:44.984Z"
+}

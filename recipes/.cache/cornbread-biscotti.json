@@ -1,0 +1,43 @@
+{
+  "contentHash": "b31132ed9c88f1a7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "cornbread",
+        "searchTerm": "cornbread",
+        "normalizedName": "Cornbread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "bread knife",
+        "searchTerm": "serrated knife"
+      },
+      {
+        "name": "cooling rack",
+        "searchTerm": "cooling rack"
+      }
+    ],
+    "cookingTips": [
+      "Slice cornbread at an angle for classic biscotti shape",
+      "Toast slices twice for proper crispness and dunking consistency",
+      "Cool between baking sessions to prevent burning"
+    ],
+    "coachingPrompt": "What complementary flavors could transform this into a savory appetizer biscotti?"
+  },
+  "timestamp": "2026-02-06T03:53:30.137Z"
+}

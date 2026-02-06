@@ -1,0 +1,68 @@
+{
+  "contentHash": "2e67c07bd674ef00",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 English muffins, split and toasted",
+        "searchTerm": "English muffin",
+        "normalizedName": "English Muffin"
+      },
+      {
+        "ingredient": "1 avocado, mashed",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 cup alfalfa sprouts",
+        "searchTerm": "alfalfa sprout",
+        "normalizedName": "Alfalfa Sprout"
+      },
+      {
+        "ingredient": "1 small tomato, chopped",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 small sweet onion, chopped",
+        "searchTerm": "sweet onion",
+        "normalizedName": "Sweet Onion"
+      },
+      {
+        "ingredient": "4 tablespoons Ranch-style salad dressing",
+        "searchTerm": "Ranch dressing",
+        "normalizedName": "Ranch Salad Dressing"
+      },
+      {
+        "ingredient": "4 tablespoons toasted sesame seeds",
+        "searchTerm": "sesame seeds",
+        "normalizedName": "Sesame Seed"
+      },
+      {
+        "ingredient": "1 cup shredded smoked Cheddar cheese",
+        "searchTerm": "smoked Cheddar cheese",
+        "normalizedName": "Smoked Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "serving plate",
+        "searchTerm": "serving plate"
+      }
+    ],
+    "cookingTips": [
+      "Toast English muffins immediately before assembly to keep them warm and crispy",
+      "Layer ingredients evenly for consistent flavor in each sandwich",
+      "Add dressing just before serving to prevent muffins from becoming soggy"
+    ],
+    "coachingPrompt": "How should I layer the ingredients to prevent this sandwich from getting soggy?"
+  },
+  "timestamp": "2026-02-06T20:40:42.653Z"
+}

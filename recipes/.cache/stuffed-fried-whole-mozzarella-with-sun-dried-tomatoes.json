@@ -1,0 +1,67 @@
+{
+  "contentHash": "ff8f48593863400c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 (4 ounce) balls fresh mozzarella cheese",
+        "searchTerm": "fresh mozzarella",
+        "normalizedName": "Fresh Mozzarella"
+      },
+      {
+        "ingredient": "4 teaspoons chopped fresh basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      },
+      {
+        "ingredient": "4 teaspoons sun-dried tomatoes packed in oil, drained and chopped",
+        "searchTerm": "sun-dried tomatoes",
+        "normalizedName": "Sun-Dried Tomato"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup panko bread crumbs",
+        "searchTerm": "panko bread crumbs",
+        "normalizedName": "Panko Bread Crumb"
+      },
+      {
+        "ingredient": "salt and freshly ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and freshly ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep fryer or pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "shallow bowl",
+        "searchTerm": "shallow bowl"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Keep mozzarella balls very cold before breading; freeze for 30 minutes after filling for best results",
+      "Fry at 350°F for only 1-2 minutes to achieve crispy exterior while keeping cheese creamy inside"
+    ],
+    "coachingPrompt": "How will you prevent the mozzarella from leaking out during frying? What temperature control ensures perfect results?"
+  },
+  "timestamp": "2026-02-06T19:39:25.375Z"
+}

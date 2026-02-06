@@ -1,0 +1,53 @@
+{
+  "contentHash": "496c33679a374b75",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) can chickpeas (garbanzo beans), drained",
+        "searchTerm": "chickpeas",
+        "normalizedName": "Chickpea"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "1 pinch cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Pat chickpeas completely dry with paper towels to remove excess moisture for crispiness",
+      "Spread in single layer on baking sheet to prevent steaming and ensure even roasting",
+      "Roast at 400°F for 25-30 minutes, shaking pan every 10 minutes for uniform golden color"
+    ],
+    "coachingPrompt": "What moisture removal technique yields the crispiest possible roasted chickpea snack?"
+  },
+  "timestamp": "2026-02-06T16:22:46.948Z"
+}

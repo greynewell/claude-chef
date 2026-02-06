@@ -1,0 +1,53 @@
+{
+  "contentHash": "70e72b26f0c72b52",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package spaghetti",
+        "searchTerm": "spaghetti",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "3 (12.5 fl oz) cans chicken chunks, drained",
+        "searchTerm": "canned chicken",
+        "normalizedName": "Canned Chicken"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of chicken soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream of Chicken Soup"
+      },
+      {
+        "ingredient": "4 cups shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cook spaghetti until al dente to prevent mushiness when baked",
+      "Mix soups with drained chicken before combining with pasta",
+      "Bake covered at 350°F for 30 minutes, then add remaining cheese and bake 10 minutes more"
+    ],
+    "coachingPrompt": "How can I elevate this classic casserole with fresh ingredients while keeping it convenient?"
+  },
+  "timestamp": "2026-02-06T02:42:06.510Z"
+}

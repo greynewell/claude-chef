@@ -1,0 +1,53 @@
+{
+  "contentHash": "8550844876488282",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 teaspoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "3 (8 ounce) packages cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "4 ounces blue cheese",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      },
+      {
+        "ingredient": "¼ cup chopped walnuts or pecans to taste",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy and drain on paper towels before crumbling",
+      "Mix cream cheese, blue cheese, and garlic until smooth before adding bacon and nuts",
+      "Bake at 350°F for 15-20 minutes until heated through and edges are slightly bubbly"
+    ],
+    "coachingPrompt": "How do you prevent the dip from becoming grainy when mixing cheeses?"
+  },
+  "timestamp": "2026-02-06T00:18:58.191Z"
+}

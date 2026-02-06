@@ -1,0 +1,54 @@
+{
+  "contentHash": "94d925ed23bec4be",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons hummus",
+        "searchTerm": "hummus",
+        "normalizedName": "Hummus"
+      },
+      {
+        "ingredient": "1 naan bread",
+        "searchTerm": "naan bread",
+        "normalizedName": "Naan Bread"
+      },
+      {
+        "ingredient": "1 cup arugula",
+        "searchTerm": "arugula",
+        "normalizedName": "Arugula"
+      },
+      {
+        "ingredient": "1 date, pitted and finely chopped",
+        "searchTerm": "dates",
+        "normalizedName": "Date"
+      },
+      {
+        "ingredient": "2 teaspoons pumpkin seeds",
+        "searchTerm": "pumpkin seeds",
+        "normalizedName": "Pumpkin Seed"
+      },
+      {
+        "ingredient": "1 teaspoon balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Spread hummus evenly on naan to prevent dry spots",
+      "Toast naan lightly before topping to maintain crispness",
+      "Add arugula after baking to preserve its peppery flavor"
+    ],
+    "coachingPrompt": "How will you prevent the naan from becoming soggy with the hummus base?"
+  },
+  "timestamp": "2026-02-05T22:24:33.098Z"
+}

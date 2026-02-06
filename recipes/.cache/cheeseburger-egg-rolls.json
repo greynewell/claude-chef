@@ -1,0 +1,63 @@
+{
+  "contentHash": "980e5bb6ee76ee43",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cup chopped dill pickles or sweet pickles",
+        "searchTerm": "dill pickles",
+        "normalizedName": "Dill Pickle"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon prepared yellow mustard, or to taste",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      },
+      {
+        "ingredient": "1 (16 ounce) package egg roll wrappers",
+        "searchTerm": "egg roll wrappers",
+        "normalizedName": "Egg Roll Wrapper"
+      },
+      {
+        "ingredient": "1 cup vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "deep fryer or pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "kitchen tongs"
+      }
+    ],
+    "cookingTips": [
+      "Cool the beef filling completely before wrapping to prevent wrapper softening",
+      "Seal egg rolls with water-moistened edges for a tight seal",
+      "Oil should reach 350°F for optimal crispiness without burning"
+    ],
+    "coachingPrompt": "How do you ensure the filling is cooked and cooled properly so the wrappers crisp up while the inside stays moist?"
+  },
+  "timestamp": "2026-02-06T01:47:00.222Z"
+}

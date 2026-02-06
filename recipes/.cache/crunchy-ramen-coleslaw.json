@@ -1,0 +1,58 @@
+{
+  "contentHash": "81b995cec4c33993",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package coleslaw mix with carrots",
+        "searchTerm": "coleslaw mix",
+        "normalizedName": "Coleslaw Mix"
+      },
+      {
+        "ingredient": "2 (3 ounce) packages ramen noodles",
+        "searchTerm": "ramen noodles",
+        "normalizedName": "Ramen Noodle"
+      },
+      {
+        "ingredient": "1 cup slivered almonds",
+        "searchTerm": "slivered almonds",
+        "normalizedName": "Slivered Almond"
+      },
+      {
+        "ingredient": "1 cup shelled sunflower seeds",
+        "searchTerm": "sunflower seeds",
+        "normalizedName": "Sunflower Seed"
+      },
+      {
+        "ingredient": "1 bunch green onions, chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "½ cup vinegar",
+        "searchTerm": "vinegar",
+        "normalizedName": "Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "chopping board"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "frying pan"
+      }
+    ],
+    "cookingTips": [
+      "Toast ramen noodles in a dry skillet over medium heat until fragrant and lightly browned",
+      "Toast almonds and sunflower seeds separately to control their individual browning",
+      "Mix coleslaw with vinegar dressing just before serving to maintain maximum crunch"
+    ],
+    "coachingPrompt": "This coleslaw depends entirely on careful timing and toasting technique. Help the cook understand why toasting the noodles and seeds matters and how to prevent them from burning. Why serve immediately?"
+  },
+  "timestamp": "2026-02-06T04:44:41.397Z"
+}

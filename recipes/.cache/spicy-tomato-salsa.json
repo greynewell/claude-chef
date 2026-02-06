@@ -1,0 +1,63 @@
+{
+  "contentHash": "062dfb484b8fe5c4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups chopped tomatoes",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "2 cups green bell pepper, chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "¾ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cup jalapeno pepper",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 ½ teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 ¼ cups cider vinegar",
+        "searchTerm": "cider vinegar",
+        "normalizedName": "Cider Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Serving Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Dice tomatoes and remove excess seeds to prevent watery salsa",
+      "Seed jalapenos for milder heat or leave seeds for extra spice",
+      "Let salsa sit for at least 30 minutes to allow flavors to meld"
+    ],
+    "coachingPrompt": "Guide the cook in achieving balanced fresh salsa with proper texture and heat level."
+  },
+  "timestamp": "2026-02-06T19:10:49.877Z"
+}

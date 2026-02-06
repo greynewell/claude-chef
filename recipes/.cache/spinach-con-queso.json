@@ -1,0 +1,78 @@
+{
+  "contentHash": "d2aed54912abd34f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "red bell pepper",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "jalapeno pepper",
+        "searchTerm": "jalapeno",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "Pepperjack cheese",
+        "searchTerm": "pepperjack cheese",
+        "normalizedName": "Pepperjack Cheese"
+      },
+      {
+        "ingredient": "spinach",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "heavy saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Seed and remove membranes from jalapeno for less heat if desired",
+      "Squeeze spinach very dry before adding to prevent watery dip",
+      "Heat slowly and stir constantly to prevent cheese from scorching"
+    ],
+    "coachingPrompt": "How spicy do you like your queso, and will you serve hot with tortilla chips or as a topping?"
+  },
+  "timestamp": "2026-02-06T19:14:40.648Z"
+}

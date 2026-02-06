@@ -1,0 +1,53 @@
+{
+  "contentHash": "776cc5ba993af07b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 egg yolks",
+        "searchTerm": "egg yolks",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "¼ lemon, juiced, or to taste",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "¼ cup salted butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "microwave-safe bowl",
+        "searchTerm": "microwave-safe bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "microwave",
+        "searchTerm": "microwave"
+      }
+    ],
+    "cookingTips": [
+      "Heat in 15-second intervals, whisking between each, to emulsify safely without scrambling eggs",
+      "Use room temperature egg yolks to promote even emulsification",
+      "Add melted butter slowly while whisking constantly for silky, stable sauce"
+    ],
+    "coachingPrompt": "Guide the user through the microwave technique for foolproof hollandaise without requiring a double boiler."
+  },
+  "timestamp": "2026-02-06T15:37:42.273Z"
+}

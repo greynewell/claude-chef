@@ -1,0 +1,58 @@
+{
+  "contentHash": "9b8fe8d409900efd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can cream of asparagus soup",
+        "searchTerm": "cream of asparagus soup",
+        "normalizedName": "Cream of Asparagus Soup"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 cup light cream",
+        "searchTerm": "light cream",
+        "normalizedName": "Light Cream"
+      },
+      {
+        "ingredient": "1 (6 ounce) can crabmeat",
+        "searchTerm": "canned crab meat",
+        "normalizedName": "Crabmeat"
+      },
+      {
+        "ingredient": "1 ¼ cups white wine",
+        "searchTerm": "white wine",
+        "normalizedName": "White Wine"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "Heat soup gently to prevent curdling; do not boil",
+      "Flake crab meat gently to preserve texture and remove any shell pieces",
+      "Add wine gradually and taste as you go to balance alcohol flavor"
+    ],
+    "coachingPrompt": "This is a luxurious quick bisque using canned soups. Are you comfortable creating cream-based soups?"
+  },
+  "timestamp": "2026-02-06T13:10:02.038Z"
+}

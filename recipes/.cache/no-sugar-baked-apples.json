@@ -1,0 +1,43 @@
+{
+  "contentHash": "52b4a1a5f9ca88c2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 McIntosh apples",
+        "searchTerm": "McIntosh apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "4 teaspoons ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "4 teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "apple corer",
+        "searchTerm": "apple corer"
+      }
+    ],
+    "cookingTips": [
+      "Core apples carefully from the top, leaving the bottom intact to hold filling",
+      "Pack cinnamon and butter into each apple core for even distribution",
+      "Bake at 350°F for 25-30 minutes until apples are tender but not collapsing"
+    ],
+    "coachingPrompt": "This minimal recipe shows how natural fruit sweetness and warming spices create satisfaction without added sugar."
+  },
+  "timestamp": "2026-02-06T13:19:56.736Z"
+}

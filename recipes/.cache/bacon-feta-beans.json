@@ -1,0 +1,59 @@
+{
+  "contentHash": "06e5e12b7d32ab9e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 slices bacon - cooked, crumbled and divided",
+        "searchTerm": "bacon slices",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 (16 ounce) package frozen cut green beans",
+        "searchTerm": "frozen green beans",
+        "normalizedName": "Frozen Green Bean"
+      },
+      {
+        "ingredient": "1 teaspoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "4 ounces crumbled feta cheese, divided",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "½ teaspoon onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, crumble, and reserve bacon fat for sautéing garlic",
+      "Thaw frozen green beans slightly before adding to pan for even cooking",
+      "Add feta cheese at end to prevent it from breaking down too much during cooking"
+    ],
+    "coachingPrompt": "Help the user understand how tangy feta and salty bacon complement the earthiness of green beans."
+  },
+  "timestamp": "2026-02-05T22:51:06.701Z"
+}

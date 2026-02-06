@@ -1,0 +1,53 @@
+{
+  "contentHash": "8b64c325bfc79a6d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "6 (6 inch) French sandwich rolls",
+        "searchTerm": "French sandwich rolls",
+        "normalizedName": "French Sandwich Roll"
+      },
+      {
+        "ingredient": "1 (15 ounce) jar processed cheese sauce",
+        "searchTerm": "cheese sauce",
+        "normalizedName": "Processed Cheese Sauce"
+      },
+      {
+        "ingredient": "¼ cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Toaster Oven",
+        "searchTerm": "toaster oven"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly and drain excess fat before adding remaining ingredients",
+      "Toast sandwich rolls lightly to prevent sogginess from sauce",
+      "Warm cheese sauce gently to maintain smooth consistency"
+    ],
+    "coachingPrompt": "Help me create a simple, quick comfort food sandwich by building balanced beef, cheese, and tomato flavors."
+  },
+  "timestamp": "2026-02-06T15:01:18.648Z"
+}

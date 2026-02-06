@@ -1,0 +1,57 @@
+{
+  "contentHash": "8ece49688257b007",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "9 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "½ onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 fresh jalapeno pepper, seeded and chopped",
+        "searchTerm": "jalapeno pepper fresh",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 fresh tomato, finely chopped",
+        "searchTerm": "tomato fresh",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "½ cup canned tomato sauce",
+        "searchTerm": "tomato sauce canned",
+        "normalizedName": "Tomato Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef knife"
+      },
+      {
+        "name": "Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, drain on paper towels, then chop into bite-sized pieces",
+      "Remove jalapeno seeds for milder heat, keep them for more spice",
+      "Mix all ingredients and serve warm or at room temperature"
+    ],
+    "coachingPrompt": "How does bacon transform this salsa into a breakfast dish? What are the flavor balances at work here?"
+  },
+  "timestamp": "2026-02-05T23:55:29.441Z"
+}

@@ -1,0 +1,73 @@
+{
+  "contentHash": "b56eaebfcd351bc2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 whole chicken",
+        "searchTerm": "whole chicken",
+        "normalizedName": "Whole Chicken"
+      },
+      {
+        "ingredient": "40 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon dried thyme",
+        "searchTerm": "dried thyme",
+        "normalizedName": "Dried Thyme"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Dutch oven",
+        "searchTerm": "Dutch oven"
+      },
+      {
+        "name": "kitchen twine",
+        "searchTerm": "kitchen twine"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Truss the chicken with kitchen twine for even cooking",
+      "Braise covered at 375°F for about 1.5 hours until chicken is tender",
+      "Roasted garlic cloves become creamy and can be spread on bread"
+    ],
+    "coachingPrompt": "Walk the user through trussing a whole chicken and the low and slow braising method."
+  },
+  "timestamp": "2026-02-06T02:46:40.323Z"
+}

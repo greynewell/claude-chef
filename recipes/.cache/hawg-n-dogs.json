@@ -1,0 +1,53 @@
+{
+  "contentHash": "c16dd7df97a35ed0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 hot dogs",
+        "searchTerm": "hot dog",
+        "normalizedName": "Hot Dog"
+      },
+      {
+        "ingredient": "2 slices Pepper Jack cheese",
+        "searchTerm": "Pepper Jack cheese",
+        "normalizedName": "Pepper Jack Cheese"
+      },
+      {
+        "ingredient": "10 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "4 cups oil for deep frying",
+        "searchTerm": "frying oil",
+        "normalizedName": "Oil"
+      },
+      {
+        "ingredient": "10 hot dog buns",
+        "searchTerm": "hot dog bun",
+        "normalizedName": "Hot Dog Bun"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep fryer or heavy pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "Paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Cut Pepper Jack cheese into small pieces and insert into slits in hot dogs before wrapping with bacon",
+      "Secure bacon with toothpicks to keep it in place during frying",
+      "Heat oil to 350°F for perfectly crispy bacon without overcooking the hot dog"
+    ],
+    "coachingPrompt": "Guide the user through creating indulgent bacon-wrapped, cheese-filled fried hot dogs that stay juicy inside with crispy exteriors."
+  },
+  "timestamp": "2026-02-06T08:50:40.282Z"
+}

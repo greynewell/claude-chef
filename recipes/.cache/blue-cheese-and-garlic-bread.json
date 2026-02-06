@@ -1,0 +1,58 @@
+{
+  "contentHash": "a25ccf76a9c1ae06",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) loaf French bread",
+        "searchTerm": "French bread",
+        "normalizedName": "French Bread"
+      },
+      {
+        "ingredient": "½ cup butter at room temperature",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 teaspoons garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 (8 ounce) bottle blue cheese salad dressing",
+        "searchTerm": "blue cheese dressing",
+        "normalizedName": "Blue Cheese Dressing"
+      },
+      {
+        "ingredient": "½ cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 (3 ounce) package grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bread knife",
+        "searchTerm": "bread knife"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "small bowl"
+      }
+    ],
+    "cookingTips": [
+      "Slice bread horizontally rather than vertically to prevent it from falling apart during toasting",
+      "Mix butter and garlic powder ahead of time and let sit for flavor development",
+      "Toast at 375°F for 8-10 minutes until cheese is melted and bread edges are golden"
+    ],
+    "coachingPrompt": "How would you apply the garlic butter mixture evenly across the bread surface?"
+  },
+  "timestamp": "2026-02-06T00:18:58.189Z"
+}

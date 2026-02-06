@@ -1,0 +1,63 @@
+{
+  "contentHash": "3d3763b0bb4c9477",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup white vinegar",
+        "searchTerm": "white vinegar",
+        "normalizedName": "White Vinegar"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 tablespoons coarse salt",
+        "searchTerm": "coarse salt",
+        "normalizedName": "Coarse Salt"
+      },
+      {
+        "ingredient": "2 tablespoons pickling spice",
+        "searchTerm": "pickling spice",
+        "normalizedName": "Pickling Spice"
+      },
+      {
+        "ingredient": "1 onion, sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "5 black peppercorns",
+        "searchTerm": "black peppercorn",
+        "normalizedName": "Black Peppercorn"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "glass jar",
+        "searchTerm": "mason jar"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cool eggs completely before submerging in pickling liquid to avoid overcooking",
+      "Pickling liquid should cover eggs completely to prevent discoloration",
+      "Eggs will keep refrigerated for up to 2 weeks"
+    ],
+    "coachingPrompt": "Guide the user through the pickling process, explaining how vinegar and spices preserve and flavor the eggs."
+  },
+  "timestamp": "2026-02-06T06:18:17.929Z"
+}

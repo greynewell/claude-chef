@@ -1,0 +1,63 @@
+{
+  "contentHash": "da8b02e59da86129",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (14.75 ounce) can cream-style corn",
+        "searchTerm": "cream-style corn",
+        "normalizedName": "Cream-Style Corn"
+      },
+      {
+        "ingredient": "1 (15 ounce) can chili with beans",
+        "searchTerm": "chili with beans",
+        "normalizedName": "Chili With Bean"
+      },
+      {
+        "ingredient": "1 (15 ounce) can baked beans with pork",
+        "searchTerm": "baked beans",
+        "normalizedName": "Baked Bean"
+      },
+      {
+        "ingredient": "1 (15 ounce) can tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "1 (4 ounce) can diced green chiles",
+        "searchTerm": "diced green chiles",
+        "normalizedName": "Diced Green Chile"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Can opener",
+        "searchTerm": "can opener"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly and drain excess fat before combining with other ingredients",
+      "Simmer stew for 15-20 minutes to let flavors meld",
+      "Serve with crusty bread or over rice"
+    ],
+    "coachingPrompt": "How long should I simmer this stew? Should I cook it covered or uncovered?"
+  },
+  "timestamp": "2026-02-06T03:58:26.483Z"
+}

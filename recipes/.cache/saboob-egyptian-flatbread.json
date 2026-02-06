@@ -1,0 +1,48 @@
+{
+  "contentHash": "02263764d0f885d0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups all-purpose flour, plus more for work surface",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¾ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "skillet or griddle",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "rolling pin",
+        "searchTerm": "rolling pin"
+      }
+    ],
+    "cookingTips": [
+      "Dough should be soft and slightly sticky; add flour gradually",
+      "Rest dough for 15-20 minutes before rolling for elasticity",
+      "Cook on medium heat until lightly spotted and puffed"
+    ],
+    "coachingPrompt": "How thin should I roll this dough and at what temperature should I cook it?"
+  },
+  "timestamp": "2026-02-06T16:41:06.398Z"
+}

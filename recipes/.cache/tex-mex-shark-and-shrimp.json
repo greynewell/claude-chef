@@ -1,0 +1,63 @@
+{
+  "contentHash": "cc7497ae6f5ba50e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package uncooked wide egg noodles",
+        "searchTerm": "egg noodle",
+        "normalizedName": "Egg Noodle"
+      },
+      {
+        "ingredient": "1 teaspoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 pound shark steaks, cut into chunks",
+        "searchTerm": "shark steak",
+        "normalizedName": "Shark Steak"
+      },
+      {
+        "ingredient": "1 pound frozen medium shrimp",
+        "searchTerm": "medium shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can diced tomatoes and green chiles",
+        "searchTerm": "diced tomato",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "2 cups shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "large bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook noodles al dente so they don't overcook when combined with protein",
+      "Sauté shark and shrimp separately to control cooking times",
+      "Melt cheese over warm noodles off heat for a creamy coating"
+    ],
+    "coachingPrompt": "Guide the cook on managing two different proteins with different cooking times in a one-dish meal."
+  },
+  "timestamp": "2026-02-06T20:26:19.809Z"
+}

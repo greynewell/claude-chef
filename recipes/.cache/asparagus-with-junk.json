@@ -1,0 +1,48 @@
+{
+  "contentHash": "cf095c82529f4348",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 bunch fresh asparagus, trimmed",
+        "searchTerm": "fresh asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "½ cup bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Small Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Arrange asparagus in single layer to ensure even coating",
+      "Mix mayonnaise topping thoroughly before spreading",
+      "Bake until golden brown and cheese is melted, watching to prevent burning"
+    ],
+    "coachingPrompt": "Help the user create an even coating of the mayonnaise mixture and determine the right baking temperature to avoid burning the cheese."
+  },
+  "timestamp": "2026-02-05T22:32:34.575Z"
+}

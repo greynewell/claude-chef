@@ -1,0 +1,68 @@
+{
+  "contentHash": "222f9259ebcbf5b0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices whole wheat bread, toasted",
+        "searchTerm": "whole wheat bread",
+        "normalizedName": "Whole Wheat Bread"
+      },
+      {
+        "ingredient": "2 tablespoons honey mustard salad dressing",
+        "searchTerm": "honey mustard dressing",
+        "normalizedName": "Honey Mustard Dressing"
+      },
+      {
+        "ingredient": "½ cup alfalfa sprouts",
+        "searchTerm": "alfalfa sprouts",
+        "normalizedName": "Alfalfa Sprout"
+      },
+      {
+        "ingredient": "2 slices tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "¼ cup chopped broccoli",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "2 tablespoons sliced fresh mushrooms",
+        "searchTerm": "fresh mushrooms",
+        "normalizedName": "Fresh Mushroom"
+      },
+      {
+        "ingredient": "4 slices cucumber",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "1 slice Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread to prevent sogginess from fresh vegetables and dressing",
+      "Layer vegetables for structural support and easy eating",
+      "Chop broccoli finely so it integrates well in sandwich texture"
+    ],
+    "coachingPrompt": "Why is toasting the bread important when making a vegetable sandwich?"
+  },
+  "timestamp": "2026-02-06T06:17:20.158Z"
+}

@@ -1,0 +1,52 @@
+{
+  "contentHash": "093259f609a17f84",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) can fully cooked luncheon meat (such as SPAM®), cubed",
+        "searchTerm": "SPAM",
+        "normalizedName": "SPAM"
+      },
+      {
+        "ingredient": "¾ (1 pound) loaf processed cheese food (such as Velveeta®), cubed",
+        "searchTerm": "Velveeta cheese",
+        "normalizedName": "Processed Cheese Food"
+      },
+      {
+        "ingredient": "2 tablespoons sweet pickle relish",
+        "searchTerm": "pickle relish",
+        "normalizedName": "Pickle Relish"
+      },
+      {
+        "ingredient": "½ cup creamy salad dressing (such as Miracle Whip®)",
+        "searchTerm": "Miracle Whip",
+        "normalizedName": "Salad Dressing"
+      },
+      {
+        "ingredient": "8 hamburger buns, split",
+        "searchTerm": "hamburger buns",
+        "normalizedName": "Hamburger Bun"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Mix the cheese and SPAM filling ahead for quick assembly",
+      "Watch carefully while baking to prevent over-browning"
+    ],
+    "coachingPrompt": "Help the user understand how to combine processed cheese and meat into a creamy filling and assemble efficiently for baking."
+  },
+  "timestamp": "2026-02-06T13:54:58.470Z"
+}

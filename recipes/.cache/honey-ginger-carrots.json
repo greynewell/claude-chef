@@ -1,0 +1,53 @@
+{
+  "contentHash": "1707f17fcb6c7c4f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound carrots, sliced",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 ½ tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 pinch ground ginger",
+        "searchTerm": "ginger",
+        "normalizedName": "Ginger"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice, or to taste",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Vegetable peeler",
+        "searchTerm": "vegetable peeler"
+      },
+      {
+        "name": "Serving spoon",
+        "searchTerm": "serving spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cut carrots into uniform thickness for even cooking",
+      "Cover pan to help carrots steam and soften faster",
+      "Squeeze fresh lemon juice just before serving for brightness"
+    ],
+    "coachingPrompt": "How would you adjust cooking time based on carrot thickness?"
+  },
+  "timestamp": "2026-02-06T09:21:45.101Z"
+}

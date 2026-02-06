@@ -1,0 +1,62 @@
+{
+  "contentHash": "39f4dc3f144aadf9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 teaspoons baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "2 teaspoons onion salt",
+        "searchTerm": "onion salt",
+        "normalizedName": "Onion Salt"
+      },
+      {
+        "ingredient": "1 quart vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "4 large onions, peeled and sliced into rings",
+        "searchTerm": "onions",
+        "normalizedName": "Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep fryer",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "deep fry thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Baking powder in the batter creates a lighter, crispier coating than egg alone",
+      "Keep oil at 350°F and work in batches to prevent temperature drop"
+    ],
+    "coachingPrompt": "Why does baking powder improve onion ring texture compared to a basic egg-based batter?"
+  },
+  "timestamp": "2026-02-05T23:59:24.708Z"
+}

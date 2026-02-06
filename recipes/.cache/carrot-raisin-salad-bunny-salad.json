@@ -1,0 +1,68 @@
+{
+  "contentHash": "292a81aab2c36b16",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 carrots",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 apples",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "1 stalk celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery Stalk"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "½ cup raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      },
+      {
+        "ingredient": "½ cup vanilla yogurt",
+        "searchTerm": "yogurt",
+        "normalizedName": "Yogurt"
+      },
+      {
+        "ingredient": "½ cup chopped walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Box Grater",
+        "searchTerm": "grater"
+      },
+      {
+        "name": "Large Mixing Bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Toss apple and celery with lemon juice first to prevent browning",
+      "Grate carrots just before serving for best texture",
+      "Mix all ingredients gently to keep salad from becoming soggy"
+    ],
+    "coachingPrompt": "Would you like tips on prep timing to keep vegetables fresh and crisp?"
+  },
+  "timestamp": "2026-02-06T01:32:23.828Z"
+}

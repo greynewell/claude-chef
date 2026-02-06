@@ -1,0 +1,58 @@
+{
+  "contentHash": "410124c2b5837f7e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 ½ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon unsweetened lemonade drink mix",
+        "searchTerm": "lemonade drink mix",
+        "normalizedName": "Lemonade Drink Mix"
+      },
+      {
+        "ingredient": "⅓ cup shortening",
+        "searchTerm": "shortening",
+        "normalizedName": "Shortening"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Easy-Bake Oven",
+        "searchTerm": "Easy-Bake Oven"
+      },
+      {
+        "name": "whisk or spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Mix dry ingredients thoroughly to distribute the leavening agent evenly",
+      "Store this dry mix in an airtight container for up to 3 months",
+      "Follow Easy-Bake Oven instructions for converting this mix into cake"
+    ],
+    "coachingPrompt": "This is a homemade cake mix for an Easy-Bake Oven. How much liquid and eggs should I add when using this mix?"
+  },
+  "timestamp": "2026-02-06T05:31:36.084Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "870bf4eb14987c9d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup cocoa",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "3 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 tablespoon butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 teaspoons vanilla",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Whisk cocoa and flour together before adding milk to avoid lumps",
+      "Heat milk gently and stir constantly to prevent scorching",
+      "Add vanilla at the end to preserve its delicate flavor"
+    ],
+    "coachingPrompt": "Help the user master the technique of creating a smooth, lump-free gravy and explain why tempering ingredients matters."
+  },
+  "timestamp": "2026-02-06T18:42:18.254Z"
+}

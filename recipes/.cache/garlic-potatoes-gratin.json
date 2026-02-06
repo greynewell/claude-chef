@@ -1,0 +1,62 @@
+{
+  "contentHash": "27da0d28ecc8f49c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds red potatoes, peeled and sliced",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "6 ounces Gouda cheese, shredded, divided",
+        "searchTerm": "Gouda cheese",
+        "normalizedName": "Gouda Cheese"
+      },
+      {
+        "ingredient": "3 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "5 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 ½ cups heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Mandoline Slicer",
+        "searchTerm": "mandoline slicer"
+      }
+    ],
+    "cookingTips": [
+      "Slice potatoes evenly for uniform cooking",
+      "Layer potatoes, garlic, and cheese alternately in the baking dish before pouring cream"
+    ],
+    "coachingPrompt": "How will you layer the gratin to ensure even distribution of garlic and cheese throughout?"
+  },
+  "timestamp": "2026-02-06T07:20:02.618Z"
+}

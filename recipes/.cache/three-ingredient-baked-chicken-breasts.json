@@ -1,0 +1,43 @@
+{
+  "contentHash": "3e0c40448218acbe",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Use a meat thermometer to ensure chicken reaches 165°F internal temperature",
+      "Pat chicken dry before baking to promote even cooking",
+      "Let chicken rest for 5 minutes after baking before serving"
+    ],
+    "coachingPrompt": "Guide the user on proper internal temperature checking and how minimal seasoning allows natural chicken flavor to shine."
+  },
+  "timestamp": "2026-02-06T20:46:47.270Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "5db485cfc40eaeb3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 large eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "salt and freshly ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "freshly ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 ¼ cups gluten-free flour",
+        "searchTerm": "gluten-free flour",
+        "normalizedName": "Gluten-Free Flour"
+      },
+      {
+        "ingredient": "1 ¼ cups crushed gluten-free crackers",
+        "searchTerm": "gluten-free crackers",
+        "normalizedName": "Gluten-Free Cracker"
+      },
+      {
+        "ingredient": "2 pounds boneless, skinless chicken breast",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "¼ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "shallow bowls",
+        "searchTerm": "mixing bowls"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Pat chicken pieces dry before breading to help the coating stick better",
+      "Beat eggs with a splash of water to create a thinner coating mixture",
+      "Don't overcrowd the air fryer; cook in batches for even browning and cooking"
+    ],
+    "coachingPrompt": "Walk me through breading and air-frying gluten-free fried chicken pieces until golden and cooked through"
+  },
+  "timestamp": "2026-02-05T21:43:38.977Z"
+}

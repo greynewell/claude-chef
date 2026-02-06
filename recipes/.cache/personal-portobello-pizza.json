@@ -1,0 +1,58 @@
+{
+  "contentHash": "c0a26f0176809496",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 large portobello mushroom, stem removed",
+        "searchTerm": "portobello mushroom",
+        "normalizedName": "Portobello Mushroom"
+      },
+      {
+        "ingredient": "1 tablespoon spaghetti sauce",
+        "searchTerm": "spaghetti sauce",
+        "normalizedName": "Spaghetti Sauce"
+      },
+      {
+        "ingredient": "½ cup mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "½ tablespoon sliced black olives",
+        "searchTerm": "black olive",
+        "normalizedName": "Black Olive"
+      },
+      {
+        "ingredient": "4 slices pepperoni sausage",
+        "searchTerm": "pepperoni",
+        "normalizedName": "Pepperoni"
+      },
+      {
+        "ingredient": "1 clove garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Remove mushroom gills with spoon if they're too moist",
+      "Preheat oven to broil for quick melting and charring",
+      "Cook just until cheese bubbles and browns lightly"
+    ],
+    "coachingPrompt": "Guide the user on preparing the mushroom base and timing to prevent it from becoming watery."
+  },
+  "timestamp": "2026-02-06T14:38:03.284Z"
+}

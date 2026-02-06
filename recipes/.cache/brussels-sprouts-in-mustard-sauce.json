@@ -1,0 +1,58 @@
+{
+  "contentHash": "d8d84c9b5c903cb6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 pound Brussels sprouts",
+        "searchTerm": "brussels sprout",
+        "normalizedName": "Brussels Sprout"
+      },
+      {
+        "ingredient": "2 teaspoons prepared Dijon-style mustard",
+        "searchTerm": "dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "2 teaspoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Make a slurry with cornstarch and water to thicken the sauce smoothly",
+      "Add mustard at the end to preserve its sharpness and prevent it from becoming bitter",
+      "Don't overcook Brussels sprouts; they should be tender-crisp"
+    ],
+    "coachingPrompt": "This is a quick, mustard-based braise. Will you halve the Brussels sprouts for even cooking, or leave them whole?"
+  },
+  "timestamp": "2026-02-06T00:51:42.395Z"
+}

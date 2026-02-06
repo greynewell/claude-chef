@@ -1,0 +1,63 @@
+{
+  "contentHash": "c96e208eff3fcd29",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "3 cloves garlic, crushed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "2 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons corn flour",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "1 tablespoon soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Small saucepan",
+        "searchTerm": "small saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Whisk cornstarch with cold water before adding to prevent lumps",
+      "Stir constantly while thickening to achieve smooth consistency",
+      "Adjust peanut butter and brown sugar for balanced sweet and nutty flavor"
+    ],
+    "coachingPrompt": "How would you modify this sauce if you needed to accommodate a nut allergy?"
+  },
+  "timestamp": "2026-02-06T11:40:17.601Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "22c9416fdb753fdb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ apple, cored and diced",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "½ banana, sliced",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "¼ cup apple juice",
+        "searchTerm": "apple juice",
+        "normalizedName": "Apple Juice"
+      },
+      {
+        "ingredient": "1 tablespoon strawberry jam",
+        "searchTerm": "strawberry jam",
+        "normalizedName": "Strawberry Jam"
+      },
+      {
+        "ingredient": "2 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "2 slices whole-wheat bread, toasted",
+        "searchTerm": "whole-wheat bread",
+        "normalizedName": "Whole-Wheat Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      }
+    ],
+    "cookingTips": [
+      "Prepare fruits just before assembly to prevent browning",
+      "Toast bread to add crunch and prevent sogginess",
+      "Spread peanut butter evenly for consistent flavor in each bite"
+    ],
+    "coachingPrompt": "Quick lunch idea. Would you like suggestions for flavor variations or ways to pack this for travel?"
+  },
+  "timestamp": "2026-02-06T13:56:47.926Z"
+}

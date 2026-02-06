@@ -1,0 +1,68 @@
+{
+  "contentHash": "430954f8dd09722b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 small purple eggplants, cut into 1 1/2-inch cubes",
+        "searchTerm": "eggplant",
+        "normalizedName": "Eggplant"
+      },
+      {
+        "ingredient": "salt and freshly ground pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and freshly ground pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "5 Roma (plum) tomatoes, or more to taste, cut into 1 1/2-inch cubes",
+        "searchTerm": "roma tomatoes",
+        "normalizedName": "Roma Tomato"
+      },
+      {
+        "ingredient": "2 zucchini, cut into 1 1/2-inch cubes",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "1 large yellow onion, cut into 1 1/2-inch cubes",
+        "searchTerm": "yellow onion",
+        "normalizedName": "Yellow Onion"
+      },
+      {
+        "ingredient": "5 cloves garlic, or more to taste, peeled",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil, or to taste",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "sheet pan",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cut all vegetables into uniform 1.5-inch cubes for even cooking",
+      "Toss vegetables with oil and seasonings to coat evenly",
+      "Roast at 400°F for 25-30 minutes, stirring occasionally"
+    ],
+    "coachingPrompt": "What's the benefit of cutting all vegetables to the same size, and how does it affect cooking time?"
+  },
+  "timestamp": "2026-02-06T16:20:12.482Z"
+}

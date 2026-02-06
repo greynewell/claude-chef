@@ -1,0 +1,48 @@
+{
+  "contentHash": "dc0287d5bbd54f26",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound boneless, skinless chicken meat",
+        "searchTerm": "boneless skinless chicken",
+        "normalizedName": "Boneless Skinless Chicken"
+      },
+      {
+        "ingredient": "4 cubes chicken bouillon",
+        "searchTerm": "chicken bouillon cube",
+        "normalizedName": "Chicken Bouillon"
+      },
+      {
+        "ingredient": "8 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 cups thin egg noodles",
+        "searchTerm": "egg noodles",
+        "normalizedName": "Egg Noodle"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Poach the chicken in the broth first, then shred and return to the pot for best flavor and texture",
+      "Add noodles in the last 8-10 minutes to prevent them from becoming mushy",
+      "Taste and adjust seasoning with additional bouillon or salt as needed"
+    ],
+    "coachingPrompt": "Guide the cook through making a simple but flavorful broth-based soup and timing noodle cooking."
+  },
+  "timestamp": "2026-02-06T19:51:28.149Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "2b6cffaf33de0b51",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup stemmed, chopped kale",
+        "searchTerm": "kale",
+        "normalizedName": "Kale"
+      },
+      {
+        "ingredient": "⅓ cup plain Greek yogurt",
+        "searchTerm": "Greek yogurt",
+        "normalizedName": "Greek Yogurt"
+      },
+      {
+        "ingredient": "6 grape tomatoes, halved",
+        "searchTerm": "grape tomato",
+        "normalizedName": "Grape Tomato"
+      },
+      {
+        "ingredient": "½ cucumber, thinly sliced",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "1 tablespoon crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon sunflower seeds",
+        "searchTerm": "sunflower seed",
+        "normalizedName": "Sunflower Seed"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Massage kale with a small amount of olive oil to soften it before adding other ingredients",
+      "Use Greek yogurt as a creamy base instead of heavy dressing for a lighter salad",
+      "Assemble salad just before serving to prevent sogginess"
+    ],
+    "coachingPrompt": "Guide the user through massaging kale properly and emulsifying Greek yogurt into a creamy dressing."
+  },
+  "timestamp": "2026-02-06T08:01:18.201Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "ee2ed0feac2dba20",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup complete pancake mix",
+        "searchTerm": "pancake mix",
+        "normalizedName": "Complete Pancake Mix"
+      },
+      {
+        "ingredient": "⅓ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "9 chocolate sandwich cookies",
+        "searchTerm": "Oreos",
+        "normalizedName": "Chocolate Sandwich Cookie"
+      },
+      {
+        "ingredient": "1 tablespoon confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Confectioners' Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "Sifter",
+        "searchTerm": "sifter"
+      }
+    ],
+    "cookingTips": [
+      "Make batter slightly thicker than regular pancake batter for better coating adherence",
+      "Fully coat each cookie in batter before air frying to keep filling enclosed",
+      "Sift powdered sugar over warm fried cookies for even coating"
+    ],
+    "coachingPrompt": "Help me make crispy fried Oreos with a fluffy inside in the air fryer."
+  },
+  "timestamp": "2026-02-05T21:44:31.214Z"
+}

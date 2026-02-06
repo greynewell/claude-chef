@@ -1,0 +1,81 @@
+{
+  "contentHash": "839661557d90ff46",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound fresh green beans, trimmed and cut into bite-size pieces",
+        "searchTerm": "green beans",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "1 tablespoon extra-virgin olive oil (Optional)",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 pound fresh asparagus, trimmed and cut into bite-size pieces",
+        "searchTerm": "asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "1 tablespoon extra-virgin olive oil (Optional)",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ red onion, chopped",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "2 cups cherry tomatoes, halved",
+        "searchTerm": "cherry tomatoes",
+        "normalizedName": "Cherry Tomato"
+      },
+      {
+        "ingredient": "¼ cup chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      },
+      {
+        "ingredient": "kosher salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon extra-virgin olive oil, or as desired (Optional)",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Slotted spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Blanch vegetables separately since asparagus cooks faster than green beans; cook green beans 4-5 minutes and asparagus 2-3 minutes",
+      "Shock vegetables in ice water immediately after cooking to preserve color and crispness"
+    ],
+    "coachingPrompt": "Guide the user on the proper blanching technique for each vegetable to achieve perfect texture while maintaining vibrant color."
+  },
+  "timestamp": "2026-02-06T08:04:32.986Z"
+}

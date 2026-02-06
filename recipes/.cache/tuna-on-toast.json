@@ -1,0 +1,48 @@
+{
+  "contentHash": "ad4293ab92c65b63",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream Of Mushroom Soup"
+      },
+      {
+        "ingredient": "2 hard-cooked eggs, sliced",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (5 ounce) can tuna, drained",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Canned Tuna"
+      },
+      {
+        "ingredient": "6 slices whole wheat bread",
+        "searchTerm": "whole wheat bread",
+        "normalizedName": "Whole Wheat Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "Serving Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Heat soup gently over low heat and thin with a splash of milk or water if too thick",
+      "Toast bread until golden and crispy to provide structural support for the creamy mixture",
+      "Arrange sliced eggs decoratively on toast before topping with tuna-mushroom mixture"
+    ],
+    "coachingPrompt": "What's the simplest preparation that feels satisfying? How do you prevent creamed tuna from becoming too thick on toast?"
+  },
+  "timestamp": "2026-02-06T21:14:46.086Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "dd87b60725b9426a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ small cucumber",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "1 sheet nori",
+        "searchTerm": "nori seaweed",
+        "normalizedName": "Nori"
+      },
+      {
+        "ingredient": "1 small carrot",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "¼ small red bell pepper",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "6 thin slices avocado",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      }
+    ],
+    "gear": [
+      {
+        "name": "sushi mat",
+        "searchTerm": "sushi rolling mat"
+      },
+      {
+        "name": "sharp knife",
+        "searchTerm": "sushi knife"
+      },
+      {
+        "name": "small bowl of water",
+        "searchTerm": "water bowl"
+      }
+    ],
+    "cookingTips": [
+      "Slice vegetables into thin, uniform strips so they roll evenly",
+      "Keep a bowl of water nearby to damp your hands and prevent sticking to nori",
+      "Slice finished rolls with a very sharp, wet knife using gentle sawing motions"
+    ],
+    "coachingPrompt": "I struggle with rolling sushi rolls that don't fall apart. What's the proper rolling technique?"
+  },
+  "timestamp": "2026-02-06T09:19:09.785Z"
+}

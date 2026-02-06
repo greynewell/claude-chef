@@ -1,0 +1,62 @@
+{
+  "contentHash": "b00a8487409d000f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup warm water (110 degrees F/45 degrees C)",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 ½ tablespoons lard",
+        "searchTerm": "lard",
+        "normalizedName": "Lard"
+      },
+      {
+        "ingredient": "2 teaspoons active dry yeast",
+        "searchTerm": "yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "½ cup raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      },
+      {
+        "ingredient": "3 cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "Kitchen towel",
+        "searchTerm": "kitchen towel"
+      }
+    ],
+    "cookingTips": [
+      "Ensure water is exactly 110°F to activate yeast properly without damaging it",
+      "Allow dough to rise until doubled before shaping into loaf"
+    ],
+    "coachingPrompt": "How can you determine if the dough has risen sufficiently, and what is the ideal internal temperature for a fully baked loaf?"
+  },
+  "timestamp": "2026-02-06T15:52:27.232Z"
+}

@@ -1,0 +1,52 @@
+{
+  "contentHash": "084a0ffd3b849376",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 roasted chicken, bones and skin removed, meat shredded",
+        "searchTerm": "roasted chicken",
+        "normalizedName": "Roasted Chicken"
+      },
+      {
+        "ingredient": "¾ cup cranberry and apple chutney",
+        "searchTerm": "cranberry apple chutney",
+        "normalizedName": "Cranberry Apple Chutney"
+      },
+      {
+        "ingredient": "¼ cup whipped cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 teaspoons curry powder",
+        "searchTerm": "curry powder",
+        "normalizedName": "Curry Powder"
+      },
+      {
+        "ingredient": "6 croissants, split",
+        "searchTerm": "croissants",
+        "normalizedName": "Croissant"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Use store-bought roasted chicken to save time",
+      "Mix filling components gently to avoid crushing croissants when assembling"
+    ],
+    "coachingPrompt": "This sandwich combines curry and cranberry-apple chutney flavors. How do sweet and savory/spicy flavors work together here?"
+  },
+  "timestamp": "2026-02-06T02:28:44.913Z"
+}

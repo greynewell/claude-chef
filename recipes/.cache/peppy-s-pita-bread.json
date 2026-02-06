@@ -1,0 +1,58 @@
+{
+  "contentHash": "491424c3a215aa50",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "kitchen thermometer",
+        "searchTerm": "kitchen thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Heat water to exactly 110°F to activate yeast without killing it",
+      "Knead dough until smooth and elastic for proper gluten development",
+      "Bake at high temperature (475°F) to create characteristic pita pocket"
+    ],
+    "coachingPrompt": "What techniques ensure pita bread forms a pocket instead of puffing up like a balloon?"
+  },
+  "timestamp": "2026-02-06T14:34:09.066Z"
+}

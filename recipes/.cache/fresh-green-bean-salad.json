@@ -1,0 +1,63 @@
+{
+  "contentHash": "961911ef69af57ed",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds fresh green beans, trimmed",
+        "searchTerm": "green beans",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "1 bunch radishes, chopped",
+        "searchTerm": "radishes",
+        "normalizedName": "Radish"
+      },
+      {
+        "ingredient": "3 cucumbers, chopped",
+        "searchTerm": "cucumbers",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon vinegar",
+        "searchTerm": "vinegar",
+        "normalizedName": "Vinegar"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "salad bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Blanch green beans until tender-crisp, then shock in ice water to retain bright color and crunch",
+      "Chop all vegetables into similar sizes for uniform appearance and consistent eating experience",
+      "Dress salad just before serving to keep green beans crispy"
+    ],
+    "coachingPrompt": "Explain the blanching and shocking process and why it's important for maintaining the texture and color of fresh green beans."
+  },
+  "timestamp": "2026-02-06T06:58:44.017Z"
+}

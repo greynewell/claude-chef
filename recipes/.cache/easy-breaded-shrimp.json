@@ -1,0 +1,48 @@
+{
+  "contentHash": "2653b369f13f91bf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 quart vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "4 cups shrimp, peeled and deveined",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 cups dry bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep fryer or heavy pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Heat oil to 350°F; use thermometer to ensure consistent temperature for even cooking",
+      "Dip shrimp in beaten egg, then dredge in bread crumbs, shaking off excess",
+      "Fry shrimp 2-3 minutes until golden; don't overcrowd pan to maintain oil temperature"
+    ],
+    "coachingPrompt": "Why is precise oil temperature critical for fried shrimp? How do you prevent oil temperature from dropping?"
+  },
+  "timestamp": "2026-02-06T05:34:07.252Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "079ec4be91c0fba2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 skinless, boneless chicken breast halves, cut into bite size pieces",
+        "searchTerm": "chicken breasts",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 cups uncooked white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "2 (10.75 ounce) cans condensed cream of chicken soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream of Chicken Soup"
+      },
+      {
+        "ingredient": "1 teaspoon seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cut chicken into small pieces for even cooking throughout the casserole",
+      "Mix all ingredients before baking to ensure even distribution",
+      "Cover casserole for the first 30 minutes to allow rice to absorb liquid, then uncover for browning"
+    ],
+    "coachingPrompt": "Help the cook prepare a simple all-in-one casserole where rice cooks perfectly in the creamy chicken mixture."
+  },
+  "timestamp": "2026-02-06T05:38:57.933Z"
+}

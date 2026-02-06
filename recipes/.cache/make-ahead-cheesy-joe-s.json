@@ -1,0 +1,53 @@
+{
+  "contentHash": "e4ed7c5058c6409d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 large onion, finely chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (10 ounce) jar sweet pickle relish, drained",
+        "searchTerm": "sweet pickle relish",
+        "normalizedName": "Sweet Pickle Relish"
+      },
+      {
+        "ingredient": "16 hamburger buns, split",
+        "searchTerm": "hamburger buns",
+        "normalizedName": "Hamburger Bun"
+      },
+      {
+        "ingredient": "2 (15 ounce) jars processed cheese sauce (such as Cheez Whiz®)",
+        "searchTerm": "processed cheese sauce",
+        "normalizedName": "Processed Cheese Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly, breaking it into small pieces, then drain excess fat",
+      "Mix in relish and cheese sauce; simmer gently to combine without burning",
+      "Spoon onto buns and keep warm in a slow cooker for up to 2 hours"
+    ],
+    "coachingPrompt": "I'm making cheesy joes with processed cheese sauce. Should I make the filling ahead, and what's the best way to keep it warm for serving?"
+  },
+  "timestamp": "2026-02-06T11:46:17.214Z"
+}

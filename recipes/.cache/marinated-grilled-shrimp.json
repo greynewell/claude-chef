@@ -1,0 +1,73 @@
+{
+  "contentHash": "c245a35edf52afd0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "⅓ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ cup tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons red wine vinegar",
+        "searchTerm": "red wine vinegar",
+        "normalizedName": "Red Wine Vinegar"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "2 pounds fresh shrimp, peeled and deveined",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "6 each skewers",
+        "searchTerm": "skewers",
+        "normalizedName": "Skewer"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill or grill pan",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Skewers",
+        "searchTerm": "skewers"
+      },
+      {
+        "name": "Shallow baking dish",
+        "searchTerm": "baking dish"
+      }
+    ],
+    "cookingTips": [
+      "Soak wooden skewers in water for 30 minutes before threading to prevent burning",
+      "Marinate shrimp for only 1-2 hours maximum as acid in vinegar can make them rubbery if over-marinated",
+      "Grill for 2-3 minutes per side until pink and cooked through; do not overcook"
+    ],
+    "coachingPrompt": "Teach the user how to properly peel and devein shrimp, and explain why shrimp require careful timing to avoid becoming tough."
+  },
+  "timestamp": "2026-02-06T12:00:25.720Z"
+}

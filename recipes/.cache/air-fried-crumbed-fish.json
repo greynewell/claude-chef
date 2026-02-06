@@ -1,0 +1,53 @@
+{
+  "contentHash": "83a7ad0041227789",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "dry bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumbs"
+      },
+      {
+        "ingredient": "vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "flounder fillets",
+        "searchTerm": "flounder fillets",
+        "normalizedName": "Flounder Fillet"
+      },
+      {
+        "ingredient": "egg",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "lemon",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "shallow dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Use a fork to beat egg for even coating",
+      "Don't overload air fryer basket to ensure even crumbing",
+      "Serve immediately with fresh lemon for best flavor"
+    ],
+    "coachingPrompt": "Guide me through the breading process and air frying temperature and time for crispy flounder."
+  },
+  "timestamp": "2026-02-05T21:37:13.642Z"
+}

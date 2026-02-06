@@ -1,0 +1,43 @@
+{
+  "contentHash": "b08a28dd70d6f02e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (9 inch) frozen pie crusts, thawed and ready to bake",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      },
+      {
+        "ingredient": "1 pound sausage",
+        "searchTerm": "sausage",
+        "normalizedName": "Sausage"
+      },
+      {
+        "ingredient": "2 teaspoons prepared mustard",
+        "searchTerm": "prepared mustard",
+        "normalizedName": "Prepared Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Cook the sausage completely and cool before assembling to prevent soggy crust",
+      "Roll the pie crust gently to avoid cracking",
+      "Brush with egg wash before baking for a golden, glossy finish"
+    ],
+    "coachingPrompt": "Help the user create easy appetizers by cooking sausage thoroughly, cooling it, and rolling it in pastry with mustard for bite-sized portions."
+  },
+  "timestamp": "2026-02-06T17:00:35.378Z"
+}

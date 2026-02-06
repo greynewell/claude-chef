@@ -1,0 +1,73 @@
+{
+  "contentHash": "0a69a87a7916d3a4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 lime, juiced",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "1 tablespoon ground ancho chile pepper",
+        "searchTerm": "ancho chile powder",
+        "normalizedName": "Ancho Chile Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon smoked paprika",
+        "searchTerm": "smoked paprika",
+        "normalizedName": "Smoked Paprika"
+      },
+      {
+        "ingredient": "8 ears corn on the cob, husked",
+        "searchTerm": "corn on the cob",
+        "normalizedName": "Corn on the Cob"
+      },
+      {
+        "ingredient": "¼ cup butter, melted, or as needed",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup freshly grated Cotija cheese",
+        "searchTerm": "Cotija cheese",
+        "normalizedName": "Cotija Cheese"
+      },
+      {
+        "ingredient": "1 pinch salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 lime, sliced",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Basting brush",
+        "searchTerm": "basting brush"
+      },
+      {
+        "name": "Small bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Mix mayo, lime juice, and spices ahead of time for easy application",
+      "Turn corn frequently for even grilling and light charring",
+      "Add cheese after grilling while corn is still warm for better adhesion"
+    ],
+    "coachingPrompt": "Show the user how to brush the mayo-spice mixture on corn while grilling, then top with Cotija cheese and lime for authentic elote."
+  },
+  "timestamp": "2026-02-06T12:19:44.976Z"
+}

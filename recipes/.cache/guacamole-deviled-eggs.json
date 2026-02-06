@@ -1,0 +1,82 @@
+{
+  "contentHash": "b73102c16ea553c6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 whole eggs in the shell",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 avocados - peeled, pitted, and mashed",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 tablespoon chopped cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "1 tablespoon minced green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "2 teaspoons minced seeded jalapeno pepper",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "2 teaspoons fresh lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "½ teaspoon salt, or to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 dash hot pepper sauce (e.g. Tabasco™), or to taste",
+        "searchTerm": "hot sauce",
+        "normalizedName": "Hot Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon Worcestershire sauce, or to taste",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon Dijon-style prepared mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "1 pinch paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "piping bag",
+        "searchTerm": "piping bag"
+      }
+    ],
+    "cookingTips": [
+      "Boil eggs 10-12 minutes, then ice bath for easy peeling",
+      "Assemble deviled eggs just before serving to prevent avocado browning"
+    ],
+    "coachingPrompt": "Have you boiled and peeled eggs before? Would you like tips for getting smooth filling?"
+  },
+  "timestamp": "2026-02-06T08:34:19.054Z"
+}

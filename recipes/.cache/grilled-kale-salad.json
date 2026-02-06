@@ -1,0 +1,73 @@
+{
+  "contentHash": "23495a4fdf2bacd7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "olive oil cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 bunch kale, stems removed and discarded, leaves torn into bite-sized pieces",
+        "searchTerm": "kale",
+        "normalizedName": "Kale"
+      },
+      {
+        "ingredient": "½ red onion, diced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "2 carrots, cut into matchstick-sized pieces",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 jalapeno peppers, seeded and diced, or to taste",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "3 cloves garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil, or as needed",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill basket",
+        "searchTerm": "grill basket"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Grill kale quickly to wilt and char slightly without burning",
+      "Toss diced vegetables with oil and salt before grilling smaller pieces",
+      "Finish warm salad with fresh seasoning immediately after grilling"
+    ],
+    "coachingPrompt": "How does grilling transform raw kale and vegetables into a warm salad?"
+  },
+  "timestamp": "2026-02-06T08:18:25.704Z"
+}

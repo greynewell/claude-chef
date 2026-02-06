@@ -1,0 +1,73 @@
+{
+  "contentHash": "3a1d2d2d653b35a4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 leftover roast chicken frame - bones, giblets, etc",
+        "searchTerm": "chicken bones",
+        "normalizedName": "Chicken Frame"
+      },
+      {
+        "ingredient": "1 teaspoon whole black peppercorns",
+        "searchTerm": "black peppercorns",
+        "normalizedName": "Black Peppercorn"
+      },
+      {
+        "ingredient": "2 bay leaf",
+        "searchTerm": "bay leaves",
+        "normalizedName": "Bay Leaf"
+      },
+      {
+        "ingredient": "2 large carrots, chopped",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 large onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cup chopped fresh green beans",
+        "searchTerm": "green beans",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "4 large potatoes, diced",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "strainer",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Simmer the chicken frame with peppercorns and bay leaves for 1-2 hours to extract maximum flavor",
+      "Strain the broth and remove meat from bones before adding vegetables",
+      "Add potatoes last as they cook quickly and prevent overcooking of other vegetables"
+    ],
+    "coachingPrompt": "How would you build layers of flavor by simmering the chicken frame and then adding fresh vegetables?"
+  },
+  "timestamp": "2026-02-06T11:06:18.591Z"
+}

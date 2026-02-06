@@ -1,0 +1,48 @@
+{
+  "contentHash": "6eb99db8ae9fd669",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup beer",
+        "searchTerm": "beer",
+        "normalizedName": "Beer"
+      },
+      {
+        "ingredient": "1 (7 ounce) container shake and pour buttermilk pancake mix",
+        "searchTerm": "buttermilk pancake mix",
+        "normalizedName": "Buttermilk Pancake Mix"
+      },
+      {
+        "ingredient": "2 pounds trout fillets",
+        "searchTerm": "trout fillets",
+        "normalizedName": "Trout Fillet"
+      },
+      {
+        "ingredient": "½ cup oil",
+        "searchTerm": "oil for frying",
+        "normalizedName": "Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep Fryer",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Shallow Bowl",
+        "searchTerm": "shallow bowl"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use cold beer to keep batter light and create carbonation bubbles for crispiness",
+      "Pat fish dry before dipping to help batter adhere",
+      "Fry at 350°F for 3-4 minutes until golden brown and crispy"
+    ],
+    "coachingPrompt": "Guide me through making crispy beer batter using carbonation for light, airy coating on delicate fish."
+  },
+  "timestamp": "2026-02-06T15:01:18.648Z"
+}

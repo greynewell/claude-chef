@@ -1,0 +1,67 @@
+{
+  "contentHash": "bda2606657369573",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 teaspoons vanilla sugar",
+        "searchTerm": "vanilla sugar",
+        "normalizedName": "Vanilla Sugar"
+      },
+      {
+        "ingredient": "½ cup unsalted butter, cubed and softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 ½ cups chopped rhubarb",
+        "searchTerm": "rhubarb",
+        "normalizedName": "Rhubarb"
+      },
+      {
+        "ingredient": "3 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons unsalted butter, cut into cubes",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "pastry blender",
+        "searchTerm": "pastry blender"
+      }
+    ],
+    "cookingTips": [
+      "Use young rhubarb stalks for less tartness; toss with sugar to draw out excess moisture",
+      "Create a streusel topping by rubbing flour and butter together until breadcrumb texture is achieved"
+    ],
+    "coachingPrompt": "Help the user build a simple cake base, layer rhubarb, and top with a crumbly streusel topping."
+  },
+  "timestamp": "2026-02-06T07:25:48.712Z"
+}

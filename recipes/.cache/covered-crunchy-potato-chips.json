@@ -1,0 +1,54 @@
+{
+  "contentHash": "faa005f585540b14",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ounce kettle-cooked potato chips",
+        "searchTerm": "potato chips",
+        "normalizedName": "Potato Chip"
+      },
+      {
+        "ingredient": "¼ cup shredded sharp Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 cherry tomatoes",
+        "searchTerm": "cherry tomatoes",
+        "normalizedName": "Cherry Tomato"
+      },
+      {
+        "ingredient": "1 tablespoon chopped green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 tablespoon chopped cooked bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 tablespoon sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Small plate",
+        "searchTerm": "plate"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Arrange chips on plate first before adding toppings to maintain crunchiness",
+      "Crumble bacon just before assembling for best texture",
+      "Use sour cream sparingly to avoid soaking the chips"
+    ],
+    "coachingPrompt": "What's the best way to layer these toppings so the chips stay crispy? Any order of assembly that works best?"
+  },
+  "timestamp": "2026-02-06T03:58:26.480Z"
+}

@@ -1,0 +1,73 @@
+{
+  "contentHash": "b1b6bd81c6bc4423",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "¼ cup real maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "6 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon grated fresh ginger",
+        "searchTerm": "ginger",
+        "normalizedName": "Ginger"
+      },
+      {
+        "ingredient": "1 teaspoon mustard powder",
+        "searchTerm": "mustard powder",
+        "normalizedName": "Mustard Powder"
+      },
+      {
+        "ingredient": "½ teaspoon sesame oil",
+        "searchTerm": "sesame oil",
+        "normalizedName": "Sesame Oil"
+      },
+      {
+        "ingredient": "¼ teaspoon hot pepper sauce",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      },
+      {
+        "ingredient": "½ cup beer",
+        "searchTerm": "beer",
+        "normalizedName": "Beer"
+      },
+      {
+        "ingredient": "4 (10 ounce) beef rib eye steaks",
+        "searchTerm": "rib eye steak",
+        "normalizedName": "Rib Eye Steak"
+      }
+    ],
+    "gear": [
+      {
+        "name": "shallow dish",
+        "searchTerm": "dish"
+      },
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Marinate steaks for at least 2 hours or up to overnight for deeper flavor",
+      "Remove steaks from marinade 30 minutes before cooking to reach room temperature",
+      "Grill over high heat and use a thermometer to reach desired doneness"
+    ],
+    "coachingPrompt": "Will you save marinade for basting while grilling?"
+  },
+  "timestamp": "2026-02-06T16:12:04.557Z"
+}

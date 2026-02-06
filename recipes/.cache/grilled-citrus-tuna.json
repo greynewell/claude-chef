@@ -1,0 +1,63 @@
+{
+  "contentHash": "7dc7f3f7e75d0ec4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup orange juice",
+        "searchTerm": "orange juice",
+        "normalizedName": "Orange Juice"
+      },
+      {
+        "ingredient": "½ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon oregano, dried",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Oregano"
+      },
+      {
+        "ingredient": "1 teaspoon finely chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 (6 ounce) fresh tuna steaks",
+        "searchTerm": "tuna steak",
+        "normalizedName": "Tuna Steak"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "shallow dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "instant-read thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Marinate tuna for only 15-30 minutes to avoid over-softening the delicate fish",
+      "Grill tuna over high heat for a short time to achieve seared exterior with rare/medium-rare center",
+      "Don't turn tuna frequently; let it develop a crust on one side before carefully flipping once"
+    ],
+    "coachingPrompt": "Teach the user that tuna requires quick cooking over high heat and that citrus-based marinades complement its rich flavor."
+  },
+  "timestamp": "2026-02-06T08:14:29.567Z"
+}

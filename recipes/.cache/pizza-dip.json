@@ -1,0 +1,58 @@
+{
+  "contentHash": "bb19f6151cb03e83",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (14 ounce) can pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "¼ pound pepperoni sausage, diced",
+        "searchTerm": "pepperoni sausage",
+        "normalizedName": "Pepperoni Sausage"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (6 ounce) can black olives, chopped",
+        "searchTerm": "black olives",
+        "normalizedName": "Black Olive"
+      },
+      {
+        "ingredient": "2 cups shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausage before mixing into dip to render fat and develop flavor",
+      "Soften cream cheese at room temperature for easy mixing",
+      "Bake at 350°F for 20-25 minutes until bubbling around edges"
+    ],
+    "coachingPrompt": "Why is it important to cook sausage separately before adding to the dip?"
+  },
+  "timestamp": "2026-02-06T14:54:09.801Z"
+}

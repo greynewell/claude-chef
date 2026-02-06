@@ -1,0 +1,58 @@
+{
+  "contentHash": "60f2bf1496b6677f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (16 ounce) package brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¾ cup peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "3 ½ cups confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook brown sugar, butter, and milk together and bring to boil for 2 minutes to dissolve sugar completely",
+      "Cool mixture to room temperature before adding powdered sugar to prevent it from melting",
+      "Beat fudge vigorously after adding powdered sugar to achieve thick, spreadable consistency"
+    ],
+    "coachingPrompt": "Why boil the mixture? Why is cooling important before adding powdered sugar?"
+  },
+  "timestamp": "2026-02-06T05:27:03.257Z"
+}

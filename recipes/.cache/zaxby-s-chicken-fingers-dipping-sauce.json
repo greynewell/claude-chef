@@ -1,0 +1,49 @@
+{
+  "contentHash": "b4071569e9e70da7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¼ cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "¼ teaspoon Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "½ teaspoon freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "small bowl",
+        "searchTerm": "small bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Whisk all ingredients together until smooth and fully combined",
+      "Taste and adjust seasoning to preference before serving",
+      "Refrigerate for 15 minutes before serving for best flavor development"
+    ],
+    "coachingPrompt": "Help the user combine these simple ingredients into a tangy dipping sauce that complements crispy chicken perfectly."
+  },
+  "timestamp": "2026-02-06T22:22:02.387Z"
+}

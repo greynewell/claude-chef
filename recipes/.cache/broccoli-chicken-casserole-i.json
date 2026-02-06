@@ -1,0 +1,57 @@
+{
+  "contentHash": "fac9a89ba3e8fd5c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 pound broccoli florets, cooked",
+        "searchTerm": "broccoli florets",
+        "normalizedName": "Broccoli Floret"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 tablespoon mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 cup dry stuffing mix",
+        "searchTerm": "stuffing mix",
+        "normalizedName": "Stuffing Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Casserole Dish",
+        "searchTerm": "9x13 casserole dish"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Ensure broccoli is fully cooked before mixing to prevent watery casserole",
+      "Mix soup and mayonnaise well before combining with other ingredients for smooth texture"
+    ],
+    "coachingPrompt": "Help me make sure this casserole is creamy but not soggy. Should I cook the broccoli beforehand?"
+  },
+  "timestamp": "2026-02-06T00:43:35.171Z"
+}

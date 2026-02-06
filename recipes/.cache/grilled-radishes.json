@@ -1,0 +1,58 @@
+{
+  "contentHash": "600386823ca4278f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "20 ounces radishes, sliced",
+        "searchTerm": "radishes",
+        "normalizedName": "Radish"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 tablespoons butter, cut into small pieces",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cube ice",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "aluminum foil packet",
+        "searchTerm": "aluminum foil"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Create a foil packet for radishes to prevent them from falling through grill grates",
+      "The ice cube will create steam within the packet for tender radishes",
+      "Grilling mellows the peppery radish flavor into something sweeter"
+    ],
+    "coachingPrompt": "How would you transform the sharp peppery flavor of raw radishes into something mellower through grilling?"
+  },
+  "timestamp": "2026-02-06T08:23:14.899Z"
+}

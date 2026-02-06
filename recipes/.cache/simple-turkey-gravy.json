@@ -1,0 +1,52 @@
+{
+  "contentHash": "f556d128c2c7a22b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup fat from turkey drippings",
+        "searchTerm": "turkey fat",
+        "normalizedName": "Turkey Fat"
+      },
+      {
+        "ingredient": "½ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 cup liquid from turkey drippings",
+        "searchTerm": "turkey drippings",
+        "normalizedName": "Turkey Dripping"
+      },
+      {
+        "ingredient": "2 cups turkey stock",
+        "searchTerm": "turkey stock",
+        "normalizedName": "Turkey Stock"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "measuring cup",
+        "searchTerm": "measuring cup"
+      }
+    ],
+    "cookingTips": [
+      "Make a roux with fat and flour, cooking 1-2 minutes before adding liquids",
+      "Whisk constantly to prevent lumps while adding stock"
+    ],
+    "coachingPrompt": "What is the purpose of the roux in gravy, and how do you know when it's the right consistency?"
+  },
+  "timestamp": "2026-02-06T17:54:03.128Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "7d2cc68ab57a8eb6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 heads broccoli, chopped",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "2 potatoes, peeled and cubed",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "4 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "4 ounces stilton cheese",
+        "searchTerm": "stilton cheese",
+        "normalizedName": "Stilton Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "immersion blender",
+        "searchTerm": "immersion blender"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cook vegetables until tender before blending for smooth texture",
+      "Add cheese at the end and stir gently to avoid breaking it up too much",
+      "Blend soup until desired consistency; leave slightly chunky for texture"
+    ],
+    "coachingPrompt": "Stilton adds sharp, tangy flavor. Are you comfortable using this pungent cheese?"
+  },
+  "timestamp": "2026-02-06T00:41:42.323Z"
+}

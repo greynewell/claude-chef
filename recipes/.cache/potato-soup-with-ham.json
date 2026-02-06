@@ -1,0 +1,88 @@
+{
+  "contentHash": "67bffd5130f3e310",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 potatoes, diced",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 cup diced fully cooked ham",
+        "searchTerm": "cooked ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "⅔ cup finely chopped leek",
+        "searchTerm": "leek",
+        "normalizedName": "Leek"
+      },
+      {
+        "ingredient": "⅓ cup diced celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "⅓ cup diced carrots",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 teaspoon dill",
+        "searchTerm": "dill",
+        "normalizedName": "Dill"
+      },
+      {
+        "ingredient": "1 bay leaf",
+        "searchTerm": "bay leaf",
+        "normalizedName": "Bay Leaf"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "coarsely ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "48 fluid ounces low-sodium chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Stock Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Soften leeks and carrots in butter before adding broth for deeper flavor",
+      "Add ham toward the end to prevent it from becoming tough",
+      "Remove bay leaf before serving"
+    ],
+    "coachingPrompt": "This is a classic, comforting ham and potato soup. Help the cook build flavor layers by sautéing vegetables first and timing the ham addition correctly."
+  },
+  "timestamp": "2026-02-06T15:15:47.212Z"
+}

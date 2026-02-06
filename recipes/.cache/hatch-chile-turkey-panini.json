@@ -1,0 +1,58 @@
+{
+  "contentHash": "375af9e5b5cb5cec",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 ounces Dietz & Watson Hatch Chile Turkey",
+        "searchTerm": "hatch chile turkey",
+        "normalizedName": "Hatch Chile Turkey"
+      },
+      {
+        "ingredient": "3 ounces Dietz & Watson Hatch Chile Cheese",
+        "searchTerm": "hatch chile cheese",
+        "normalizedName": "Hatch Chile Cheese"
+      },
+      {
+        "ingredient": "2 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "½ cup wilted spinach",
+        "searchTerm": "fresh spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "¼ cup julienned red onion",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "2 shishito peppers",
+        "searchTerm": "shishito peppers",
+        "normalizedName": "Shishito Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "panini press",
+        "searchTerm": "panini press"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "cast iron skillet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Wilt spinach before assembling to avoid soggy bread",
+      "Press panini until cheese melts and bread is golden",
+      "Char shishito peppers in skillet for smoky flavor"
+    ],
+    "coachingPrompt": "Do you have a panini press, or would you prefer to use a skillet and weight method?"
+  },
+  "timestamp": "2026-02-06T08:48:36.618Z"
+}

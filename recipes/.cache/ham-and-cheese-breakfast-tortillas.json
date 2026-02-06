@@ -1,0 +1,73 @@
+{
+  "contentHash": "1553e7d5275c4473",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅓ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "3 slices cooked ham, diced",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "2 green onions, minced",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 ounces Cheddar cheese, shredded",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "4 (10 inch) flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "½ cup salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Whisk eggs with milk before cooking for fluffier scrambled eggs",
+      "Warm tortillas briefly before filling to prevent cracking",
+      "Prepare all ingredients ahead for quick assembly"
+    ],
+    "coachingPrompt": "How would you modify this recipe for a dairy-free diet?"
+  },
+  "timestamp": "2026-02-06T08:40:28.528Z"
+}

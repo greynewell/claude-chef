@@ -1,0 +1,53 @@
+{
+  "contentHash": "481a65066f3d0e25",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (2 pound) bag frozen cooked meatballs",
+        "searchTerm": "frozen meatball",
+        "normalizedName": "Frozen Meatball"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can whole berry cranberry sauce",
+        "searchTerm": "cranberry sauce",
+        "normalizedName": "Cranberry Sauce"
+      },
+      {
+        "ingredient": "1 (12 ounce) bottle tomato-based chili sauce",
+        "searchTerm": "chili sauce",
+        "normalizedName": "Chili Sauce"
+      },
+      {
+        "ingredient": "½ lemon, juiced",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "2 drops hot sauce",
+        "searchTerm": "hot sauce",
+        "normalizedName": "Hot Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Crock Pot",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Measuring Spoon",
+        "searchTerm": "measuring spoon"
+      },
+      {
+        "name": "Toothpicks",
+        "searchTerm": "toothpicks"
+      }
+    ],
+    "cookingTips": [
+      "Stir sauce components together before adding meatballs",
+      "Cook on low for 3-4 hours for best flavor melding",
+      "Serve in slow cooker on warm setting for easy party serving"
+    ],
+    "coachingPrompt": "How does the sweet-savory combination of cranberry and chili sauce complement meatballs?"
+  },
+  "timestamp": "2026-02-06T04:41:45.708Z"
+}

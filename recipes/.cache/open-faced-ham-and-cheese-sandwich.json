@@ -1,0 +1,53 @@
+{
+  "contentHash": "4835089430087d88",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon pesto, or to taste",
+        "searchTerm": "pesto",
+        "normalizedName": "Pesto"
+      },
+      {
+        "ingredient": "1 slice dense and hearty bread",
+        "searchTerm": "hearty bread",
+        "normalizedName": "Hearty Bread"
+      },
+      {
+        "ingredient": "1 slice Swiss cheese",
+        "searchTerm": "swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "2 slices deli-sliced honey ham",
+        "searchTerm": "honey ham",
+        "normalizedName": "Honey Ham"
+      },
+      {
+        "ingredient": "2 tablespoons butter, divided",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread in skillet with butter for extra flavor and crunch",
+      "Cook egg to preference, then layer with ham and cheese on warm bread"
+    ],
+    "coachingPrompt": "This is a quick sandwich with an egg. Do you want tips on cooking everything in the right order?"
+  },
+  "timestamp": "2026-02-06T13:41:08.026Z"
+}

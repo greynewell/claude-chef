@@ -1,0 +1,53 @@
+{
+  "contentHash": "e83fbfb60ff02c54",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (5 ounce) salmon fillets or steaks",
+        "searchTerm": "salmon fillets",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "2 tablespoons frozen green peas",
+        "searchTerm": "frozen green peas",
+        "normalizedName": "Frozen Green Pea"
+      },
+      {
+        "ingredient": "2 cloves garlic, crushed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 dashes lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Create parchment packets by folding paper over fish with ingredients inside",
+      "Bake at 400°F for 12-15 minutes; the fish is done when it flakes easily",
+      "Carefully open hot packets away from your face to avoid steam burns"
+    ],
+    "coachingPrompt": "Do you prefer delicate or bold flavors, and would you like to add vegetables to the packet?"
+  },
+  "timestamp": "2026-02-06T14:08:48.914Z"
+}

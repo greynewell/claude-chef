@@ -1,0 +1,58 @@
+{
+  "contentHash": "a9f185ac582344b7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound breakfast sausage",
+        "searchTerm": "breakfast sausage",
+        "normalizedName": "Breakfast Sausage"
+      },
+      {
+        "ingredient": "11 large eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¾ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 cups shredded sharp Cheddar cheese",
+        "searchTerm": "sharp Cheddar cheese",
+        "normalizedName": "Sharp Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Frozen Spinach"
+      },
+      {
+        "ingredient": "1 teaspoon dried oregano",
+        "searchTerm": "oregano",
+        "normalizedName": "Oregano"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Drain thawed spinach thoroughly by pressing in paper towels to remove excess moisture",
+      "Brown sausage completely and drain excess fat before combining with egg mixture",
+      "Let casserole rest 5-10 minutes after baking for easier slicing"
+    ],
+    "coachingPrompt": "What's the best way to ensure the casserole is cooked through without becoming rubbery?"
+  },
+  "timestamp": "2026-02-06T19:17:45.219Z"
+}

@@ -1,0 +1,68 @@
+{
+  "contentHash": "20468adc6c29798a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 canned chipotle pepper",
+        "searchTerm": "chipotle pepper",
+        "normalizedName": "Chipotle Pepper"
+      },
+      {
+        "ingredient": "3 cooked pork cutlets",
+        "searchTerm": "pork cutlets",
+        "normalizedName": "Pork Cutlet"
+      },
+      {
+        "ingredient": "3 naan breads",
+        "searchTerm": "naan bread",
+        "normalizedName": "Naan Bread"
+      },
+      {
+        "ingredient": "2 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 slices Gouda cheese",
+        "searchTerm": "gouda cheese",
+        "normalizedName": "Gouda Cheese"
+      },
+      {
+        "ingredient": "¾ cup shredded lettuce",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "3 green onions",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Small bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Mince the chipotle pepper finely and mix with mayo for a spicy spread",
+      "Warm the naan bread in a dry skillet to soften before assembling",
+      "Layer ingredients in order: spread, pork, cheese, lettuce, green onions for best texture"
+    ],
+    "coachingPrompt": "Help the user create a balanced chipotle mayo and explain how to warm naan without making it crispy so fillings stay together."
+  },
+  "timestamp": "2026-02-06T02:57:29.764Z"
+}

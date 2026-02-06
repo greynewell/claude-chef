@@ -1,0 +1,63 @@
+{
+  "contentHash": "3e094e769f6abcec",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "salted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "canned chili without beans",
+        "searchTerm": "canned chili",
+        "normalizedName": "Canned Chili"
+      },
+      {
+        "ingredient": "cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "medium salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "minced jalapeno peppers",
+        "searchTerm": "jalapeno",
+        "normalizedName": "Jalapeno"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Sauté onion and garlic in butter before adding to slow cooker for better flavor",
+      "Cube cream cheese before adding and stir frequently to ensure smooth melting",
+      "Keep on warm setting during serving to maintain dipping consistency"
+    ],
+    "coachingPrompt": "Help the user create a smooth, creamy queso dip and explain how to maintain proper consistency for serving."
+  },
+  "timestamp": "2026-02-06T18:08:28.916Z"
+}

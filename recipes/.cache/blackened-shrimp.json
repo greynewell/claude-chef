@@ -1,0 +1,44 @@
+{
+  "contentHash": "3917a252d2b753ca",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 ounces raw shrimp (26 to 30 count), peeled and deveined",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "1 teaspoon Cajun blackened seasoning, or to taste",
+        "searchTerm": "Cajun seasoning",
+        "normalizedName": "Cajun Seasoning"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon unsalted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Pat shrimp dry before seasoning to allow the spices to adhere properly",
+      "Use high heat and don't move the shrimp around - let them develop a proper char",
+      "Cook for only 2-3 minutes total; overcooked shrimp becomes tough and rubbery"
+    ],
+    "coachingPrompt": "Show the user how to quickly sear shrimp to perfection with bold blackened flavors."
+  },
+  "timestamp": "2026-02-06T00:16:12.877Z"
+}

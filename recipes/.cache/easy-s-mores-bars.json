@@ -1,0 +1,49 @@
+{
+  "contentHash": "799e16d67803fa93",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "9  graham cracker squares",
+        "searchTerm": "graham cracker",
+        "normalizedName": "Graham Cracker"
+      },
+      {
+        "ingredient": "½ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "2 cups miniature marshmallows",
+        "searchTerm": "marshmallow",
+        "normalizedName": "Marshmallow"
+      },
+      {
+        "ingredient": "1 ½ cups chocolate chips",
+        "searchTerm": "chocolate chip",
+        "normalizedName": "Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "sheet pan",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Layer graham crackers as base before adding chocolate and marshmallows",
+      "Add marshmallows in last 2-3 minutes of baking so they toast but don't burn",
+      "Let cool slightly before cutting to prevent marshmallows from being too sticky"
+    ],
+    "coachingPrompt": "When should marshmallows be added during baking?"
+  },
+  "timestamp": "2026-02-06T05:57:41.953Z"
+}

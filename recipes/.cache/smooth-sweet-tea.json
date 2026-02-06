@@ -1,0 +1,53 @@
+{
+  "contentHash": "e0c43899ea49736d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pinch baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "2 cups boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "6 tea bags",
+        "searchTerm": "tea bags",
+        "normalizedName": "Tea Bag"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "6 cups cool water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pitcher",
+        "searchTerm": "pitcher"
+      },
+      {
+        "name": "kettle",
+        "searchTerm": "kettle"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "stirring spoon"
+      }
+    ],
+    "cookingTips": [
+      "Add baking soda to boiling water to reduce bitterness",
+      "Steep tea bags for 5 minutes, don't over-brew",
+      "Dissolve sugar completely before chilling for smooth texture"
+    ],
+    "coachingPrompt": "How sweet do you like your tea? Would you prefer to adjust the sugar ratio to your taste?"
+  },
+  "timestamp": "2026-02-06T18:27:41.619Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "3ab90a5b33525291",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices smoked deli turkey",
+        "searchTerm": "smoked deli turkey",
+        "normalizedName": "Smoked Deli Turkey"
+      },
+      {
+        "ingredient": "2 slices wheat bread",
+        "searchTerm": "wheat bread",
+        "normalizedName": "Wheat Bread"
+      },
+      {
+        "ingredient": "2 leaves lettuce",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "1 ½ tablespoons crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon Italian salad dressing",
+        "searchTerm": "Italian salad dressing",
+        "normalizedName": "Italian Salad Dressing"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet or griddle",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Butter the bread generously for a golden, crispy exterior",
+      "Toast the sandwich over medium heat until cheese melts and bread is golden brown"
+    ],
+    "coachingPrompt": "Help me make a crispy grilled sandwich with melted feta cheese that stays warm but doesn't burn the bread."
+  },
+  "timestamp": "2026-02-06T21:18:02.585Z"
+}

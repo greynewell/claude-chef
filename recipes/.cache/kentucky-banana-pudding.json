@@ -1,0 +1,68 @@
+{
+  "contentHash": "b5f811298020053d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      },
+      {
+        "ingredient": "milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "vanilla wafers",
+        "searchTerm": "vanilla wafers",
+        "normalizedName": "Vanilla Wafer"
+      },
+      {
+        "ingredient": "banana, sliced",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Serving Dish",
+        "searchTerm": "serving dish"
+      }
+    ],
+    "cookingTips": [
+      "Temper the egg by slowly whisking hot milk mixture into beaten egg to prevent scrambling",
+      "Cook pudding over medium heat, stirring constantly until thickened",
+      "Layer pudding, wafers, and bananas in sequence for best presentation"
+    ],
+    "coachingPrompt": "Explain the tempering process clearly to prevent egg scrambling. Offer timing advice for adding bananas to prevent browning."
+  },
+  "timestamp": "2026-02-06T10:39:09.367Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "86c46ff1bdc00720",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 teaspoons lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "1 jalapeno pepper, minced",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pound ahi tuna steaks",
+        "searchTerm": "ahi tuna steak",
+        "normalizedName": "Ahi Tuna Steak"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "fish spatula",
+        "searchTerm": "fish spatula"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Pat tuna completely dry before grilling to avoid steaming",
+      "Use high heat and cook for only 90 seconds per side for rare to medium-rare",
+      "Don't move tuna around; resist urge to flip multiple times"
+    ],
+    "coachingPrompt": "How do you cook tuna steaks to rare while building a flavorful crust?"
+  },
+  "timestamp": "2026-02-06T08:18:25.704Z"
+}

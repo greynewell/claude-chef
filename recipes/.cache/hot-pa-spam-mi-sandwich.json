@@ -1,0 +1,52 @@
+{
+  "contentHash": "391d319755fd69ac",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) can SPAM® with Bacon",
+        "searchTerm": "SPAM with bacon",
+        "normalizedName": "SPAM with Bacon"
+      },
+      {
+        "ingredient": "½ teaspoon ground coriander",
+        "searchTerm": "coriander",
+        "normalizedName": "Coriander"
+      },
+      {
+        "ingredient": "¼ cup prepared yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      },
+      {
+        "ingredient": "2 French rolls",
+        "searchTerm": "French rolls",
+        "normalizedName": "French Roll"
+      },
+      {
+        "ingredient": "4 slices provolone cheese",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Slice SPAM into ¼-inch slabs and pan-fry until crispy edges form for better texture",
+      "Toast the French rolls lightly to prevent the sandwich from becoming soggy"
+    ],
+    "coachingPrompt": "How would adding the coriander to the SPAM during cooking enhance the flavor profile versus just seasoning the finished sandwich?"
+  },
+  "timestamp": "2026-02-06T09:31:01.256Z"
+}

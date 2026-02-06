@@ -1,0 +1,58 @@
+{
+  "contentHash": "408f8fd4d6e42bb0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 ounces cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 ½ teaspoons garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 ½ cups shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "16 whole jalapeno peppers with stems",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "8 slices bacon, cut in half crosswise",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "small knife",
+        "searchTerm": "paring knife"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Wear gloves when handling and seeding jalapenos to prevent capsaicin burns",
+      "Soften cream cheese first for easier filling",
+      "Wrap bacon tightly around peppers and secure with toothpicks"
+    ],
+    "coachingPrompt": "What technique ensures the filling stays inside while bacon crisps on the grill?"
+  },
+  "timestamp": "2026-02-06T08:18:25.703Z"
+}

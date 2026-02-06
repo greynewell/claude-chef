@@ -1,0 +1,83 @@
+{
+  "contentHash": "f5f530a72eb84186",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "3 tablespoons heavy whipping cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Whipping Cream"
+      },
+      {
+        "ingredient": "1 teaspoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 ounce cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 ounces smoked salmon",
+        "searchTerm": "smoked salmon",
+        "normalizedName": "Smoked Salmon"
+      },
+      {
+        "ingredient": "1 tablespoon chopped scallions",
+        "searchTerm": "scallions",
+        "normalizedName": "Scallion"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh dill",
+        "searchTerm": "fresh dill",
+        "normalizedName": "Fresh Dill"
+      },
+      {
+        "ingredient": "2 teaspoons sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "2 teaspoons chopped fresh chives",
+        "searchTerm": "fresh chives",
+        "normalizedName": "Fresh Chive"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Non-stick skillet",
+        "searchTerm": "non-stick skillet"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Whisk eggs with cream until smooth before cooking for a fluffy omelet",
+      "Keep butter heat medium to prevent browning while cooking",
+      "Fold fillings gently to maintain structural integrity"
+    ],
+    "coachingPrompt": "Guide the user through proper omelet folding technique and timing to achieve a creamy center with a set exterior."
+  },
+  "timestamp": "2026-02-06T05:15:48.743Z"
+}

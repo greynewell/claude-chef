@@ -1,0 +1,38 @@
+{
+  "contentHash": "87d541df3769de82",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 ounces shelf-stable gnocchi",
+        "searchTerm": "gnocchi",
+        "normalizedName": "Gnocchi"
+      },
+      {
+        "ingredient": "⅓ cup pasta sauce",
+        "searchTerm": "pasta sauce",
+        "normalizedName": "Pasta Sauce"
+      },
+      {
+        "ingredient": "¼ cup shredded mozzarella cheese, or to taste",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "small baking dish",
+        "searchTerm": "small baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Mix sauce with gnocchi before baking to ensure even coating",
+      "Check gnocchi doneness early as they cook quickly"
+    ],
+    "coachingPrompt": "What's the quickest way to prepare this single-serving dish, and can you use any type of pasta sauce?"
+  },
+  "timestamp": "2026-02-05T23:06:08.419Z"
+}

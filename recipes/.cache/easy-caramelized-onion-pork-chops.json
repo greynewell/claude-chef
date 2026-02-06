@@ -1,0 +1,58 @@
+{
+  "contentHash": "bcab404e456926fc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "4 (4 ounce) pork loin chops, 1/2 inch thick",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "3 teaspoons seasoning salt",
+        "searchTerm": "seasoning salt",
+        "normalizedName": "Seasoning Salt"
+      },
+      {
+        "ingredient": "2 teaspoons ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 onion, cut into strips",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "Lid",
+        "searchTerm": "skillet lid"
+      }
+    ],
+    "cookingTips": [
+      "Season pork chops generously before searing for better browning and flavor",
+      "Sear chops first to develop crust, then add water and onions",
+      "Cook low and slow to ensure tender, juicy chops with caramelized onions"
+    ],
+    "coachingPrompt": "Show the user how to build flavor by searing pork chops first, then braising with onions and water until tender."
+  },
+  "timestamp": "2026-02-06T05:36:11.506Z"
+}

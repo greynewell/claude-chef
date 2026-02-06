@@ -1,0 +1,42 @@
+{
+  "contentHash": "98fbcc91a817d1d7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 cups raw peanuts",
+        "searchTerm": "raw peanuts",
+        "normalizedName": "Raw Peanut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "candy thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Cook sugar mixture to soft ball stage (240°F) for the best texture and coating",
+      "Spread coated peanuts on parchment paper to cool and prevent clumping"
+    ],
+    "coachingPrompt": "Do you prefer a thin delicate sugar coating or a thick candy shell on your peanuts?"
+  },
+  "timestamp": "2026-02-06T19:44:10.590Z"
+}

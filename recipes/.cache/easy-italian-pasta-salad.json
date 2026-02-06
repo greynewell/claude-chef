@@ -1,0 +1,71 @@
+{
+  "contentHash": "fe163a9be4f01d72",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package bow-tie pasta",
+        "searchTerm": "bow-tie pasta",
+        "normalizedName": "Bow-Tie Pasta"
+      },
+      {
+        "ingredient": "2 large tomatoes, chopped",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 green bell pepper, chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 yellow bell pepper, chopped",
+        "searchTerm": "yellow bell pepper",
+        "normalizedName": "Yellow Bell Pepper"
+      },
+      {
+        "ingredient": "1 cucumber, chopped",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "2 (6 ounce) cans sliced black olives",
+        "searchTerm": "black olives",
+        "normalizedName": "Black Olive"
+      },
+      {
+        "ingredient": "5 stalks celery, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 (8 ounce) bottle Italian-style salad dressing, or more to taste",
+        "searchTerm": "Italian dressing",
+        "normalizedName": "Italian Salad Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "pasta pot"
+      },
+      {
+        "name": "Large Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Cool pasta completely before mixing with dressing to prevent wilting vegetables",
+      "Prepare vegetables in advance but dress salad just before serving for crispness"
+    ],
+    "coachingPrompt": "Do you want to add fresh mozzarella, pepperoni, or keep it vegetarian?"
+  },
+  "timestamp": "2026-02-06T05:48:45.983Z"
+}

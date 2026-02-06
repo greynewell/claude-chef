@@ -1,0 +1,58 @@
+{
+  "contentHash": "04f314f4d864e840",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon hot water, or as needed",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "5 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Custard Cups",
+        "searchTerm": "ramekins or custard cups"
+      },
+      {
+        "name": "Small Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Larger Baking Pan",
+        "searchTerm": "water bath pan"
+      }
+    ],
+    "cookingTips": [
+      "Make caramel on low heat to prevent burning and scorching",
+      "Heat milk gently before whisking with eggs to temper them",
+      "Bake custard in a water bath to ensure gentle, even cooking"
+    ],
+    "coachingPrompt": "Guide the user through making caramel carefully, then cooling it before combining with the custard mixture."
+  },
+  "timestamp": "2026-02-06T05:36:11.505Z"
+}

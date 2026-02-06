@@ -1,0 +1,63 @@
+{
+  "contentHash": "fd4874ee6dcb3c1f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (6 ounce) can canned crabmeat, drained",
+        "searchTerm": "crabmeat",
+        "normalizedName": "Crabmeat"
+      },
+      {
+        "ingredient": "1 cup fresh bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¾ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "6 hard-cooked eggs, chopped",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅓ cup onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Mix bread crumbs with mayonnaise until you reach a paste-like consistency before adding milk",
+      "Hard-cook eggs in advance and chop just before mixing to prevent discoloration",
+      "Top with additional bread crumbs and bake at 350°F for 30 minutes until golden and bubbly"
+    ],
+    "coachingPrompt": "How would you prevent this baked crabmeat dish from becoming dry while ensuring it bakes through?"
+  },
+  "timestamp": "2026-02-06T04:04:48.326Z"
+}

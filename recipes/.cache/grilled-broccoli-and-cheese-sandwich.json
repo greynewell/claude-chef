@@ -1,0 +1,58 @@
+{
+  "contentHash": "5a9886c08327bfcd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons butter, divided",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¾ cup frozen chopped broccoli, thawed",
+        "searchTerm": "frozen broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "¼ cup finely chopped sweet onion",
+        "searchTerm": "sweet onion",
+        "normalizedName": "Sweet Onion"
+      },
+      {
+        "ingredient": "4 slices whole grain sliced bread",
+        "searchTerm": "whole grain bread",
+        "normalizedName": "Whole Grain Bread"
+      },
+      {
+        "ingredient": "4 slices sharp Cheddar cheese",
+        "searchTerm": "sharp Cheddar cheese",
+        "normalizedName": "Sharp Cheddar Cheese"
+      },
+      {
+        "ingredient": "¼ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill or griddle",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Sauté broccoli and onion first to enhance flavors and ensure tenderness",
+      "Use sharp Cheddar for more robust cheese flavor that stands up to vegetables",
+      "Butter the bread generously before grilling for a golden, crispy exterior"
+    ],
+    "coachingPrompt": "Why is it better to cook the broccoli filling before assembling the sandwich? What cooking method works best for vegetables?"
+  },
+  "timestamp": "2026-02-06T08:11:12.956Z"
+}

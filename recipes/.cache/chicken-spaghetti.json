@@ -1,0 +1,57 @@
+{
+  "contentHash": "11e944f2ee42dc13",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package spaghetti",
+        "searchTerm": "spaghetti pasta",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "2 cups boneless chicken breast half, cooked and diced",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 (4 ounce) jar chopped pimento peppers",
+        "searchTerm": "pimento peppers",
+        "normalizedName": "Pimento Pepper"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream Of Mushroom Soup"
+      },
+      {
+        "ingredient": "½ green bell pepper, diced",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 ½ cups shredded, processed American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Baking dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook spaghetti just until al dente to prevent mushiness when baked",
+      "Mix cream soup with a bit of milk to improve consistency and creaminess"
+    ],
+    "coachingPrompt": "Guide the user through layering ingredients and achieving a creamy, cohesive casserole texture."
+  },
+  "timestamp": "2026-02-06T02:43:10.406Z"
+}

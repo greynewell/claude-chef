@@ -1,0 +1,63 @@
+{
+  "contentHash": "8ad3d5da93f1dcce",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "3 cloves garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh rosemary",
+        "searchTerm": "fresh rosemary",
+        "normalizedName": "Fresh Rosemary"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh thyme",
+        "searchTerm": "fresh thyme",
+        "normalizedName": "Fresh Thyme"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh oregano",
+        "searchTerm": "fresh oregano",
+        "normalizedName": "Fresh Oregano"
+      },
+      {
+        "ingredient": "2 lemons, juiced",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 (4 pound) chicken, cut into pieces",
+        "searchTerm": "whole chicken",
+        "normalizedName": "Whole Chicken"
+      }
+    ],
+    "gear": [
+      {
+        "name": "roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Marinate chicken pieces for at least 2 hours or overnight for deeper flavor",
+      "Arrange chicken skin-side up in pan to achieve golden, crispy skin",
+      "Roast at 400°F until thighs reach 165°F internal temperature, about 45-50 minutes"
+    ],
+    "coachingPrompt": "How long should I marinate this chicken? What temperature and time should I roast it at?"
+  },
+  "timestamp": "2026-02-06T07:59:06.844Z"
+}

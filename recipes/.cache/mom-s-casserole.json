@@ -1,0 +1,73 @@
+{
+  "contentHash": "2e10796e44dcb400",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 ounces wide egg noodles",
+        "searchTerm": "egg noodles",
+        "normalizedName": "Egg Noodle"
+      },
+      {
+        "ingredient": "1 pound lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 clove garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 (8 ounce) can tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "8 ounces cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "6 green onions, chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef and drain fat before adding to noodles",
+      "Mix cream cheese and sour cream until smooth before combining with other ingredients",
+      "Bake covered to prevent drying; uncover if you want a browned top"
+    ],
+    "coachingPrompt": "Help the cook understand the balance of creamy and savory flavors and proper baking temperatures."
+  },
+  "timestamp": "2026-02-06T12:42:16.975Z"
+}

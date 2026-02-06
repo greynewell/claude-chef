@@ -1,0 +1,88 @@
+{
+  "contentHash": "c7bf7680b88a968d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon sesame oil",
+        "searchTerm": "sesame oil",
+        "normalizedName": "Sesame Oil"
+      },
+      {
+        "ingredient": "2 cups chopped cabbage",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "¼ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 clove garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "¼ cup chopped carrot",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "½ pound ground pork",
+        "searchTerm": "ground pork",
+        "normalizedName": "Ground Pork"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 (10 ounce) package wonton wrappers",
+        "searchTerm": "wonton wrappers",
+        "normalizedName": "Wonton Wrapper"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons rice vinegar",
+        "searchTerm": "rice vinegar",
+        "normalizedName": "Rice Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook vegetables lightly before mixing with pork to remove excess moisture",
+      "Use wonton wrappers as a sturdy alternative if gyoza wrappers are unavailable",
+      "Start with the filling cold for easier handling and sealing"
+    ],
+    "coachingPrompt": "This is a simplified gyoza using wonton wrappers. Do you have experience pan-frying dumplings?"
+  },
+  "timestamp": "2026-02-06T08:36:37.207Z"
+}

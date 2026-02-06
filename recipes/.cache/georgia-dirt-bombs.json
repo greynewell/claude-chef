@@ -1,0 +1,63 @@
+{
+  "contentHash": "554778ad5aa5ddc2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¼ teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "⅛ teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "2 tablespoons butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "⅓ cup cinnamon sugar",
+        "searchTerm": "cinnamon sugar",
+        "normalizedName": "Cinnamon Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "skillet or griddle",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Make cinnamon sugar coating fresh and coat warm pancakes immediately",
+      "Cook on medium heat to prevent burning while ensuring the center cooks through",
+      "Use a combination of cinnamon and white sugar for the coating texture"
+    ],
+    "coachingPrompt": "What cooking temperature ensures these pancakes are golden and crispy outside while remaining tender inside?"
+  },
+  "timestamp": "2026-02-06T07:23:57.062Z"
+}

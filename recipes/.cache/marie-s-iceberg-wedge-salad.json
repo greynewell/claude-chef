@@ -1,0 +1,53 @@
+{
+  "contentHash": "82291c2042f4eaab",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 head iceberg lettuce, quartered",
+        "searchTerm": "iceberg lettuce",
+        "normalizedName": "Iceberg Lettuce"
+      },
+      {
+        "ingredient": "1 cup Marie's® Chunky Blue Cheese Dressing",
+        "searchTerm": "blue cheese dressing",
+        "normalizedName": "Blue Cheese Dressing"
+      },
+      {
+        "ingredient": "4 slices cooked bacon, chopped",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 green onions, diced",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "2 small tomatoes, chopped",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "serving plates",
+        "searchTerm": "plates"
+      }
+    ],
+    "cookingTips": [
+      "Chill lettuce and plates for maximum crispness and temperature contrast",
+      "Add dressing just before serving to keep lettuce crisp",
+      "Cook bacon until crispy for best texture and flavor"
+    ],
+    "coachingPrompt": "How do you cut clean wedges and ensure they stay upright on the plate?"
+  },
+  "timestamp": "2026-02-06T11:58:21.799Z"
+}

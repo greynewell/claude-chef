@@ -1,0 +1,52 @@
+{
+  "contentHash": "8ed8f85264325fab",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "½ cup rice vinegar",
+        "searchTerm": "rice vinegar",
+        "normalizedName": "Rice Vinegar"
+      },
+      {
+        "ingredient": "2 tablespoons bonito shavings (dry fish flakes)",
+        "searchTerm": "bonito flakes",
+        "normalizedName": "Bonito Flake"
+      },
+      {
+        "ingredient": "1 (1 inch) square konbu (kelp)",
+        "searchTerm": "konbu kelp",
+        "normalizedName": "Konbu"
+      },
+      {
+        "ingredient": "1 orange, quartered",
+        "searchTerm": "orange",
+        "normalizedName": "Orange"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Glass Bowl",
+        "searchTerm": "glass mixing bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Citrus Juicer",
+        "searchTerm": "citrus juicer"
+      }
+    ],
+    "cookingTips": [
+      "Steep the konbu and bonito for at least 2 hours for best flavor extraction",
+      "Squeeze the orange juice fresh just before serving to preserve citrus brightness"
+    ],
+    "coachingPrompt": "Help me create a balanced ponzu sauce with proper umami depth from the bonito and kelp."
+  },
+  "timestamp": "2026-02-06T13:45:25.534Z"
+}

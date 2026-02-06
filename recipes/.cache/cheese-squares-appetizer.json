@@ -1,0 +1,48 @@
+{
+  "contentHash": "450b2326b8ca779b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 pound shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 teaspoon minced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 jalapeno peppers, seeded and chopped",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Seed and finely chop jalapenos to control heat level",
+      "Beat eggs thoroughly to incorporate air for a lighter texture",
+      "Cut into squares while slightly warm for clean edges"
+    ],
+    "coachingPrompt": "What steps ensure your cheese squares stay moist and don't overbake?"
+  },
+  "timestamp": "2026-02-06T01:47:00.219Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "e3982449b1b5f36b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound dry pinto beans, rinsed",
+        "searchTerm": "pinto bean",
+        "normalizedName": "Pinto Bean"
+      },
+      {
+        "ingredient": "2 tablespoons minced garlic, divided",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 medium tomato, diced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "2 tablespoons ground cumin",
+        "searchTerm": "ground cumin",
+        "normalizedName": "Ground Cumin"
+      },
+      {
+        "ingredient": "1 tablespoon chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "stockpot"
+      },
+      {
+        "name": "potato masher",
+        "searchTerm": "potato masher"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Soak beans overnight to reduce cooking time and improve digestibility",
+      "Don't add salt until beans are fully cooked to prevent toughening",
+      "Mash to desired consistency - chunky or smooth depending on preference"
+    ],
+    "coachingPrompt": "Explain the importance of proper bean cooking and discuss flavor layering with spices"
+  },
+  "timestamp": "2026-02-06T21:45:14.218Z"
+}

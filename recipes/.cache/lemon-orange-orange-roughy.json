@@ -1,0 +1,53 @@
+{
+  "contentHash": "34dd9e86c65a3754",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "4 (4 ounce) fillets orange roughy",
+        "searchTerm": "orange roughy fillets",
+        "normalizedName": "Orange Roughy Fillet"
+      },
+      {
+        "ingredient": "1 orange, juiced",
+        "searchTerm": "orange",
+        "normalizedName": "Orange"
+      },
+      {
+        "ingredient": "1 lemon, juiced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "½ teaspoon lemon pepper",
+        "searchTerm": "lemon pepper",
+        "normalizedName": "Lemon Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "citrus juicer",
+        "searchTerm": "citrus juicer"
+      },
+      {
+        "name": "fish spatula",
+        "searchTerm": "fish spatula"
+      }
+    ],
+    "cookingTips": [
+      "Orange roughy is delicate - handle gently to avoid breaking fillets",
+      "Cook skin-side down first for best presentation",
+      "The fish is done when it flakes easily with a fork"
+    ],
+    "coachingPrompt": "Do you prefer your fish lightly sautéed or would you like to bake it in the citrus sauce?"
+  },
+  "timestamp": "2026-02-06T11:14:27.634Z"
+}

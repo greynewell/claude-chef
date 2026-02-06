@@ -1,0 +1,38 @@
+{
+  "contentHash": "1b7031c9924aa3bc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "2 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "2 ½ tablespoons marshmallow cream",
+        "searchTerm": "marshmallow fluff",
+        "normalizedName": "Marshmallow Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Spread peanut butter on one slice and marshmallow cream on the other for easy assembly",
+      "Toast bread lightly for better texture and to prevent sogginess"
+    ],
+    "coachingPrompt": "This is a simple no-cook sandwich. Focus on even spreading and quality bread selection for best results."
+  },
+  "timestamp": "2026-02-06T14:19:55.136Z"
+}

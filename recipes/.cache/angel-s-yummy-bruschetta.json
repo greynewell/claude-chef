@@ -1,0 +1,73 @@
+{
+  "contentHash": "98a2dd42f98e2c62",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 French baguette",
+        "searchTerm": "French baguette",
+        "normalizedName": "French Baguette"
+      },
+      {
+        "ingredient": "3 tomatoes, seeded and chopped",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 onion, minced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 clove garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ teaspoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "½ teaspoon dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Oregano"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "8 ounces mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Broiler",
+        "searchTerm": "broiler"
+      }
+    ],
+    "cookingTips": [
+      "Seed tomatoes to prevent the bruschetta from becoming soggy",
+      "Toast bread slices under the broiler before topping so they stay crispy",
+      "Assemble bruschetta just before serving or the bread will absorb moisture and get soft"
+    ],
+    "coachingPrompt": "How do I prevent the bread from getting soggy? Should I prepare the topping ahead of time?"
+  },
+  "timestamp": "2026-02-05T22:05:40.836Z"
+}

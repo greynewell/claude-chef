@@ -1,0 +1,53 @@
+{
+  "contentHash": "25d0fd5b82a7799a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ cup baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 cups shortening",
+        "searchTerm": "shortening",
+        "normalizedName": "Shortening"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "pastry cutter",
+        "searchTerm": "pastry cutter"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Keep shortening cold to create flaky biscuits",
+      "Mix dry ingredients thoroughly before cutting in shortening",
+      "Store mixture in airtight container for up to 3 months"
+    ],
+    "coachingPrompt": "What's the purpose of pre-mixing and storing this biscuit mixture? How does temperature affect the final texture?"
+  },
+  "timestamp": "2026-02-06T05:34:07.250Z"
+}

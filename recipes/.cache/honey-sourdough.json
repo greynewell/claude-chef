@@ -1,0 +1,67 @@
+{
+  "contentHash": "245943dfb5769cd1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅔ cup liquid sourdough starter",
+        "searchTerm": "sourdough starter",
+        "normalizedName": "Sourdough Starter"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ cup high protein wheat flour",
+        "searchTerm": "wheat flour",
+        "normalizedName": "Wheat Flour"
+      },
+      {
+        "ingredient": "2 cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "1 teaspoon active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Dutch oven",
+        "searchTerm": "Dutch oven"
+      },
+      {
+        "name": "kitchen scale",
+        "searchTerm": "kitchen scale"
+      }
+    ],
+    "cookingTips": [
+      "Use active dry yeast to speed up rising time with sourdough starter",
+      "Score the top of the loaf before baking for an attractive crust"
+    ],
+    "coachingPrompt": "Guide the user through mixing, first rise (until doubled, about 4-6 hours), shaping, second rise (1-2 hours), then baking in a Dutch oven at 450°F."
+  },
+  "timestamp": "2026-02-06T09:24:29.256Z"
+}

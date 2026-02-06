@@ -1,0 +1,53 @@
+{
+  "contentHash": "6160749bd5fb206a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (10 ounce) cans refrigerated pizza dough",
+        "searchTerm": "refrigerated pizza dough",
+        "normalizedName": "Refrigerated Pizza Dough"
+      },
+      {
+        "ingredient": "2 (6 ounce) cans crabmeat, drained and flaked",
+        "searchTerm": "canned crabmeat",
+        "normalizedName": "Canned Crabmeat"
+      },
+      {
+        "ingredient": "1 cup canned pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "1 (8 ounce) can pineapple chunks, drained and roughly chopped",
+        "searchTerm": "canned pineapple chunks",
+        "normalizedName": "Canned Pineapple Chunk"
+      },
+      {
+        "ingredient": "1 (8 ounce) package light cream cheese, cubed",
+        "searchTerm": "light cream cheese",
+        "normalizedName": "Light Cream Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Spread pizza dough onto prepared baking sheets; let rest 5 minutes before adding toppings",
+      "Distribute crab and pineapple evenly to ensure balanced bites in every slice",
+      "Cube cream cheese and distribute it before baking so it melts and creates a creamy base"
+    ],
+    "coachingPrompt": "How would you balance the sweetness of pineapple with savory crab and cheese components?"
+  },
+  "timestamp": "2026-02-06T03:59:32.220Z"
+}

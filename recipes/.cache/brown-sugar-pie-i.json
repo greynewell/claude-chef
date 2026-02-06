@@ -1,0 +1,57 @@
+{
+  "contentHash": "e963c75825a7a96d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 cups packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 ½ cups evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      },
+      {
+        "ingredient": "4 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pie Dish",
+        "searchTerm": "pie dish"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "This custard-style pie fills itself as it bakes",
+      "Let cool completely before serving for proper setting"
+    ],
+    "coachingPrompt": "How does the flour in this recipe contribute to the pie's final texture?"
+  },
+  "timestamp": "2026-02-06T00:49:42.990Z"
+}

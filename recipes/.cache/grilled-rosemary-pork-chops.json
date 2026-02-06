@@ -1,0 +1,57 @@
+{
+  "contentHash": "48931bf8e7285f23",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "6 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons dried rosemary, crushed",
+        "searchTerm": "dried rosemary",
+        "normalizedName": "Rosemary"
+      },
+      {
+        "ingredient": "4 boneless pork chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "shallow dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "grill tongs",
+        "searchTerm": "grill tongs"
+      }
+    ],
+    "cookingTips": [
+      "Marinate pork chops for 4-6 hours to develop deep savory-sweet flavor",
+      "Remove from marinade and pat dry before grilling to achieve better caramelization",
+      "Grill to internal temperature of 145°F for juicy, slightly pink centers"
+    ],
+    "coachingPrompt": "How does the soy-rosemary marinade enhance pork flavor? What's the ideal internal temperature for pork chops?"
+  },
+  "timestamp": "2026-02-06T08:24:17.552Z"
+}

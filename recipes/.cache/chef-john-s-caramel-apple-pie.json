@@ -1,0 +1,68 @@
+{
+  "contentHash": "eabe46481f078482",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "unsalted butter",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "apples",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "pastry for double-crust pie",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "pie dish",
+        "searchTerm": "pie dish"
+      },
+      {
+        "name": "peeler",
+        "searchTerm": "vegetable peeler"
+      }
+    ],
+    "cookingTips": [
+      "Cook caramel to medium amber stage before adding apples to prevent burning",
+      "Toss apples in caramel coating to ensure even coverage throughout pie",
+      "Brush pie crust with water before baking for a golden finish"
+    ],
+    "coachingPrompt": "Explain the caramelization process and how controlling heat prevents crystallization. Discuss apple selection for pie-making."
+  },
+  "timestamp": "2026-02-06T01:59:13.390Z"
+}

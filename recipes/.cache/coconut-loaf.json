@@ -1,0 +1,48 @@
+{
+  "contentHash": "9e8b59ed7190ea32",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup coconut",
+        "searchTerm": "coconut",
+        "normalizedName": "Coconut"
+      },
+      {
+        "ingredient": "1 cup castor sugar or superfine sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup self-rising flour",
+        "searchTerm": "self-rising flour",
+        "normalizedName": "Self-Rising Flour"
+      },
+      {
+        "ingredient": "1 ½ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Use self-rising flour for simplicity; no need to add baking powder separately",
+      "Mix ingredients gently to avoid overworking the batter",
+      "Check for doneness with a toothpick inserted in the center"
+    ],
+    "coachingPrompt": "This is a simple, four-ingredient loaf. Are you comfortable with the self-rising flour as a one-step leavening agent?"
+  },
+  "timestamp": "2026-02-06T03:39:37.002Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "a1b3a61a2f1ac873",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 quart water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 orange spice tea bags",
+        "searchTerm": "orange spice tea",
+        "normalizedName": "Orange Spice Tea"
+      },
+      {
+        "ingredient": "½ cup light brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "2 cups apple cider",
+        "searchTerm": "apple cider",
+        "normalizedName": "Apple Cider"
+      },
+      {
+        "ingredient": "1 ½ cups light rum",
+        "searchTerm": "light rum",
+        "normalizedName": "Light Rum"
+      },
+      {
+        "ingredient": "8 cinnamon sticks",
+        "searchTerm": "cinnamon sticks",
+        "normalizedName": "Cinnamon Stick"
+      },
+      {
+        "ingredient": "3 teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Ladle",
+        "searchTerm": "ladle"
+      },
+      {
+        "name": "Mugs",
+        "searchTerm": "mugs"
+      }
+    ],
+    "cookingTips": [
+      "Steep tea bags briefly to avoid over-steeping and bitterness",
+      "Warm cider gently without boiling to preserve flavor",
+      "Add cinnamon sticks as both flavoring and garnish"
+    ],
+    "coachingPrompt": "Guide me through infusing warm cider with tea and spices while properly incorporating rum."
+  },
+  "timestamp": "2026-02-06T09:31:54.535Z"
+}

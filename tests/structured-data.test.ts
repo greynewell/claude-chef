@@ -18,6 +18,7 @@ const mockRecipe: ParsedRecipe = {
   ingredients: ['200g spaghetti', '150g guanciale', '4 egg yolks'],
   instructions: ['Boil the pasta.', 'Render the guanciale.', 'Combine and serve.'],
   body: '',
+  faqs: [],
   slug: 'test-carbonara',
   sourceFile: 'test-carbonara.md',
 };
@@ -126,6 +127,7 @@ describe('Structured Data (JSON-LD)', () => {
       ingredients: ['1 head broccoli'],
       instructions: ['Roast broccoli.'],
       body: '',
+      faqs: [],
       slug: 'teriyaki-roasted-broccoli',
       sourceFile: 'teriyaki-roasted-broccoli.md',
     };

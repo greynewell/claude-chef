@@ -1,0 +1,43 @@
+{
+  "contentHash": "27a0d9c0b6f9ed12",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup orange peel, cut into strips",
+        "searchTerm": "orange peel",
+        "normalizedName": "Orange Peel"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "candy thermometer",
+        "searchTerm": "candy thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Blanch peels first to remove bitterness",
+      "Simmer gently to infuse syrup without crystallizing",
+      "Dry on parchment paper before storing"
+    ],
+    "coachingPrompt": "Help with blanching technique and achieving glossy candied finish."
+  },
+  "timestamp": "2026-02-06T01:18:28.873Z"
+}

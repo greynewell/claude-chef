@@ -1,0 +1,68 @@
+{
+  "contentHash": "10a966c69d15b6bd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 medium red potatoes, scrubbed",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "1 pound clams in shell, scrubbed",
+        "searchTerm": "clams",
+        "normalizedName": "Clam"
+      },
+      {
+        "ingredient": "1 pound mussels, cleaned and debearded",
+        "searchTerm": "mussels",
+        "normalizedName": "Mussel"
+      },
+      {
+        "ingredient": "½ pound unpeeled large shrimp",
+        "searchTerm": "large shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "1 (48 fluid ounce) can chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "¼ cup dry vermouth (Optional)",
+        "searchTerm": "dry vermouth",
+        "normalizedName": "Dry Vermouth"
+      },
+      {
+        "ingredient": "1 ½ cups butter, divided",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 loaf French bread",
+        "searchTerm": "French bread",
+        "normalizedName": "French Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot with lid",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "steamer basket",
+        "searchTerm": "steamer basket"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Add shellfish in stages based on cooking time: potatoes first, then clams, then mussels, then shrimp",
+      "Discard any mussels or clams that don't open after cooking",
+      "Serve with melted butter for dipping bread and seafood"
+    ],
+    "coachingPrompt": "Teach the user how to coordinate cooking times for multiple proteins in a one-pot seafood feast."
+  },
+  "timestamp": "2026-02-06T03:28:40.814Z"
+}

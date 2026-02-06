@@ -1,0 +1,53 @@
+{
+  "contentHash": "05eec1980cc656ba",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons almond butter",
+        "searchTerm": "almond butter",
+        "normalizedName": "Almond Butter"
+      },
+      {
+        "ingredient": "1 tablespoon strawberry jam",
+        "searchTerm": "strawberry jam",
+        "normalizedName": "Strawberry Jam"
+      },
+      {
+        "ingredient": "½ bananas, sliced",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "2 fresh strawberries, sliced",
+        "searchTerm": "strawberry",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "2 slices whole-grain bread",
+        "searchTerm": "whole-grain bread",
+        "normalizedName": "Whole-Grain Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "knife",
+        "searchTerm": "serrated knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "plate",
+        "searchTerm": "serving plate"
+      }
+    ],
+    "cookingTips": [
+      "Slice banana just before assembly to prevent browning",
+      "Toast bread lightly for better texture",
+      "Spread almond butter first for better adhesion"
+    ],
+    "coachingPrompt": "Create a delicious, nutty sandwich with balanced almond butter, berry brightness, and fresh fruit texture."
+  },
+  "timestamp": "2026-02-06T05:11:01.309Z"
+}

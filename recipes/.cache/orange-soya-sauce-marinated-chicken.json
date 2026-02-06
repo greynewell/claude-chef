@@ -1,0 +1,43 @@
+{
+  "contentHash": "c33a2739b65d3c7a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup orange juice",
+        "searchTerm": "orange juice",
+        "normalizedName": "Orange Juice"
+      },
+      {
+        "ingredient": "¼ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "2 cloves fresh garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 bone-in chicken breast, with skin",
+        "searchTerm": "chicken breast bone-in",
+        "normalizedName": "Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Shallow dish or ziplock bag",
+        "searchTerm": "marinating container"
+      },
+      {
+        "name": "Skillet or grill",
+        "searchTerm": "cooking surface"
+      }
+    ],
+    "cookingTips": [
+      "Marinate chicken for at least 2 hours for best flavor penetration",
+      "Reserve some marinade before adding raw chicken to use as a finishing sauce"
+    ],
+    "coachingPrompt": "How long should this chicken marinate, and can you use the marinade as a sauce?"
+  },
+  "timestamp": "2026-02-06T13:46:17.982Z"
+}

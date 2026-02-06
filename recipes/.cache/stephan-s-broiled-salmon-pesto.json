@@ -1,0 +1,43 @@
+{
+  "contentHash": "3bb48d087e9e8e86",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds salmon fillets",
+        "searchTerm": "salmon fillets",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "2 lemons",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "1 ½ cups pesto",
+        "searchTerm": "pesto",
+        "normalizedName": "Pesto"
+      },
+      {
+        "ingredient": "½ cup white wine",
+        "searchTerm": "white wine",
+        "normalizedName": "White Wine"
+      }
+    ],
+    "gear": [
+      {
+        "name": "broiler pan",
+        "searchTerm": "broiler pan"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Don't overcrowd pan to ensure even heat exposure",
+      "Broil 4-6 inches from heat source for 12-15 minutes"
+    ],
+    "coachingPrompt": "How can pesto sauce complement salmon without masking its delicate flavor?"
+  },
+  "timestamp": "2026-02-06T19:26:30.955Z"
+}

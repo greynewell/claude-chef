@@ -1,0 +1,52 @@
+{
+  "contentHash": "7d9d3d2f1f7b1d16",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups nonfat plain Greek yogurt",
+        "searchTerm": "greek yogurt",
+        "normalizedName": "Greek Yogurt"
+      },
+      {
+        "ingredient": "1 cup granular sucralose sweetener (such as Splenda®)",
+        "searchTerm": "sucralose sweetener",
+        "normalizedName": "Sucralose Sweetener"
+      },
+      {
+        "ingredient": "1 ½ teaspoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 cups granola cereal",
+        "searchTerm": "granola",
+        "normalizedName": "Granola Cereal"
+      },
+      {
+        "ingredient": "8 cups frozen mixed fruit, no sugar added",
+        "searchTerm": "frozen mixed fruit",
+        "normalizedName": "Frozen Mixed Fruit"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mason jars",
+        "searchTerm": "mason jars"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Layer yogurt mixture and fruit in jars for visually appealing make-ahead servings",
+      "Add granola just before serving to maintain crispness"
+    ],
+    "coachingPrompt": "Guide the user on layering strategy and timing for adding granola to preserve texture in advance-made parfaits."
+  },
+  "timestamp": "2026-02-06T11:47:22.133Z"
+}

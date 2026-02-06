@@ -1,0 +1,53 @@
+{
+  "contentHash": "2f3f3c7913e3faf2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "8 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "8 slices American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      },
+      {
+        "ingredient": "8 slices tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Griddle or flat pan",
+        "searchTerm": "griddle"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy for best texture contrast",
+      "Butter bread generously and cook on medium heat to prevent burning while melting cheese",
+      "Add tomato slices after cheese begins to melt for ideal temperature"
+    ],
+    "coachingPrompt": "Guide the user on achieving the perfect golden-brown exterior while ensuring the cheese melts completely."
+  },
+  "timestamp": "2026-02-06T20:55:14.258Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "5f69662a155b96cb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 medium lobsters",
+        "searchTerm": "live lobster",
+        "normalizedName": "Lobster"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ pound bay scallops",
+        "searchTerm": "scallops",
+        "normalizedName": "Scallop"
+      },
+      {
+        "ingredient": "1 shallot",
+        "searchTerm": "shallot",
+        "normalizedName": "Shallot"
+      },
+      {
+        "ingredient": "2 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 sleeve buttery round crackers",
+        "searchTerm": "Ritz crackers",
+        "normalizedName": "Butter Cracker"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "kitchen shears",
+        "searchTerm": "kitchen shears"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Split lobsters lengthwise and remove the dark vein running down the center",
+      "Sauté scallops, shallots, and garlic briefly before combining with cracker crumbs and butter",
+      "Bake at 400°F for 20-25 minutes until lobster meat is opaque and topping is golden"
+    ],
+    "coachingPrompt": "Help the user properly prepare fresh lobsters and understand how to create a complementary scallop and cracker topping for this elegant dish."
+  },
+  "timestamp": "2026-02-06T18:51:18.163Z"
+}

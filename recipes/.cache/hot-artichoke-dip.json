@@ -1,0 +1,58 @@
+{
+  "contentHash": "bf76706803546757",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅔ cup Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "⅔ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "⅓ cup heavy whipping cream",
+        "searchTerm": "heavy whipping cream",
+        "normalizedName": "Heavy Whipping Cream"
+      },
+      {
+        "ingredient": "1 (14 ounce) can artichoke hearts, drained and chopped",
+        "searchTerm": "artichoke hearts",
+        "normalizedName": "Artichoke Heart"
+      },
+      {
+        "ingredient": "2 tablespoons thinly sliced green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 tablespoon chopped pimento peppers",
+        "searchTerm": "pimento peppers",
+        "normalizedName": "Pimento Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Heavy cream adds richness and prevents the dip from drying out during baking",
+      "Chop artichokes finely for even texture",
+      "Don't overbake; serve while still creamy"
+    ],
+    "coachingPrompt": "Guide the user on how cream elevates a simple dip and the importance of not overbaking dairy-based appetizers."
+  },
+  "timestamp": "2026-02-06T09:27:19.863Z"
+}

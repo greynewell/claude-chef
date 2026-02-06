@@ -1,0 +1,73 @@
+{
+  "contentHash": "24b35c51eb8ee68c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 lemon",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon dried oregano",
+        "searchTerm": "oregano",
+        "normalizedName": "Oregano"
+      },
+      {
+        "ingredient": "3 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "4 pounds pork tenderloin",
+        "searchTerm": "pork tenderloin",
+        "normalizedName": "Pork Tenderloin"
+      },
+      {
+        "ingredient": "2 medium yellow onions",
+        "searchTerm": "yellow onion",
+        "normalizedName": "Yellow Onion"
+      },
+      {
+        "ingredient": "2 green bell peppers",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "skewers",
+        "searchTerm": "skewers",
+        "normalizedName": "Skewer"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skewers (metal or soaked wooden)",
+        "searchTerm": "metal skewers"
+      },
+      {
+        "name": "Grill or grill pan",
+        "searchTerm": "outdoor grill"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Marinate pork for at least 2-4 hours or overnight for maximum flavor",
+      "Soak wooden skewers in water for 30 minutes before threading to prevent burning",
+      "Ensure all pieces are cut to the same size for even cooking on the grill"
+    ],
+    "coachingPrompt": "How long should you marinate the pork, and what are signs it's ready for the grill?"
+  },
+  "timestamp": "2026-02-06T18:45:32.718Z"
+}

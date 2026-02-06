@@ -1,0 +1,52 @@
+{
+  "contentHash": "a0f1c08bc453d7d5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) can corned beef, chopped",
+        "searchTerm": "corned beef",
+        "normalizedName": "Corned Beef"
+      },
+      {
+        "ingredient": "1 (8 ounce) container sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 (1 ounce) envelope dry onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      },
+      {
+        "ingredient": "2 (8 ounce) packages dinner rolls",
+        "searchTerm": "dinner rolls",
+        "normalizedName": "Dinner Roll"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar dill pickle slices, drained",
+        "searchTerm": "dill pickles",
+        "normalizedName": "Dill Pickle"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Drain corned beef well to reduce excess moisture in sliders",
+      "Assemble just before serving to keep rolls from becoming soggy"
+    ],
+    "coachingPrompt": "How would you modify this recipe for a vegetarian version while maintaining the comfort food appeal?"
+  },
+  "timestamp": "2026-02-06T12:38:05.709Z"
+}

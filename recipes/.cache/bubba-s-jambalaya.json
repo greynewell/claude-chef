@@ -1,0 +1,98 @@
+{
+  "contentHash": "342cdd85b68aa212",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices bacon, cut into 1 inch pieces",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 cup chopped celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 green bell pepper, seeded and chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ pound cubed cooked ham",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "½ pound cubed cooked chicken",
+        "searchTerm": "chicken",
+        "normalizedName": "Chicken"
+      },
+      {
+        "ingredient": "½ pound cubed smoked sausage",
+        "searchTerm": "smoked sausage",
+        "normalizedName": "Smoked Sausage"
+      },
+      {
+        "ingredient": "2 (14.5 ounce) cans crushed tomatoes, with liquid",
+        "searchTerm": "crushed tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "2 cups beef broth",
+        "searchTerm": "beef broth",
+        "normalizedName": "Beef Broth"
+      },
+      {
+        "ingredient": "2 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 teaspoon dried thyme",
+        "searchTerm": "dried thyme",
+        "normalizedName": "Thyme"
+      },
+      {
+        "ingredient": "2 teaspoons Cajun seasoning",
+        "searchTerm": "cajun seasoning",
+        "normalizedName": "Cajun Seasoning"
+      },
+      {
+        "ingredient": "2 cups uncooked white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "½ pound salad shrimp",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot or Dutch oven",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Render bacon first for fat to cook the holy trinity (celery, bell pepper, onion)",
+      "Use pre-cooked proteins to speed up the dish and prevent overcooking",
+      "Add shrimp last so it doesn't become rubbery"
+    ],
+    "coachingPrompt": "This is a one-pot jambalaya with multiple proteins. Will you cook the rice in the pot or prepare it separately?"
+  },
+  "timestamp": "2026-02-06T00:51:42.396Z"
+}

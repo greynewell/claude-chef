@@ -1,0 +1,48 @@
+{
+  "contentHash": "c3947914d102ea37",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 (10 ounce) can asparagus tips, drained",
+        "searchTerm": "asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "4 thick slices sourdough bread, lightly toasted",
+        "searchTerm": "sourdough bread",
+        "normalizedName": "Sourdough Bread"
+      },
+      {
+        "ingredient": "4 slices sharp Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread lightly to provide structure without drying it out completely",
+      "Warm asparagus before assembling to help melt the cheese",
+      "Cook bacon until just crispy so it's not too brittle for sandwich assembly"
+    ],
+    "coachingPrompt": "How do you prevent the bread from getting soggy while ensuring the cheese melts properly?"
+  },
+  "timestamp": "2026-02-05T22:49:20.387Z"
+}

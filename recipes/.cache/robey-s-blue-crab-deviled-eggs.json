@@ -1,0 +1,58 @@
+{
+  "contentHash": "42b4c46864c9f91d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "½ teaspoon mustard powder",
+        "searchTerm": "mustard powder",
+        "normalizedName": "Mustard Powder"
+      },
+      {
+        "ingredient": "½ teaspoon Old Bay Seasoning",
+        "searchTerm": "Old Bay Seasoning",
+        "normalizedName": "Old Bay Seasoning"
+      },
+      {
+        "ingredient": "1 can lump crabmeat",
+        "searchTerm": "lump crabmeat",
+        "normalizedName": "Lump Crabmeat"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Piping bag",
+        "searchTerm": "piping bag"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Place eggs in boiling water and cook for 10-12 minutes for perfect hard-boiled eggs",
+      "Cool eggs in ice water immediately to stop the cooking process",
+      "Top with lump crab just before serving to keep it from getting watery"
+    ],
+    "coachingPrompt": "Why is fresh lump crabmeat essential for this dish, and how do you add it without crushing it?"
+  },
+  "timestamp": "2026-02-06T16:30:25.938Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "40b576ee6861d070",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 (16 ounce) package smoked kielbasa sausage, diced",
+        "searchTerm": "kielbasa",
+        "normalizedName": "Kielbasa"
+      },
+      {
+        "ingredient": "6 medium red potatoes, diced",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "1 red bell pepper, sliced",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 yellow bell pepper, sliced",
+        "searchTerm": "yellow bell pepper",
+        "normalizedName": "Yellow Bell Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes into small, uniform pieces so they cook at the same rate as other ingredients",
+      "Cook potatoes partway before adding peppers so everything finishes together",
+      "Don't overcrowd the skillet; cook in batches if needed for better browning"
+    ],
+    "coachingPrompt": "What seasonings or finishing touches could elevate this simple skillet dinner?"
+  },
+  "timestamp": "2026-02-06T10:48:32.139Z"
+}

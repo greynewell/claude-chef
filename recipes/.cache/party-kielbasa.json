@@ -1,0 +1,43 @@
+{
+  "contentHash": "81fc0a221f1c4e2d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds kielbasa sausage",
+        "searchTerm": "kielbasa sausage",
+        "normalizedName": "Kielbasa Sausage"
+      },
+      {
+        "ingredient": "2 cups ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "2 cups grape jelly",
+        "searchTerm": "grape jelly",
+        "normalizedName": "Grape Jelly"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Slice kielbasa into bite-sized pieces for easy serving and even sauce coating",
+      "Stir ketchup and jelly together before adding sausage to ensure even coating",
+      "Heat on low in slow cooker for 2-3 hours to allow flavors to develop"
+    ],
+    "coachingPrompt": "Walk the user through creating a sweet and savory glaze that transforms kielbasa into an easy, crowd-pleasing appetizer."
+  },
+  "timestamp": "2026-02-06T14:12:40.626Z"
+}

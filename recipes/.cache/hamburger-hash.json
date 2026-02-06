@@ -1,0 +1,53 @@
+{
+  "contentHash": "e215bd008eca8c21",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 large onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 pound potatoes, cut into small chunks",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "2 tablespoons beef bouillon",
+        "searchTerm": "beef bouillon",
+        "normalizedName": "Beef Bouillon"
+      },
+      {
+        "ingredient": "water to cover",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Cutting board and knife",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes into uniform small chunks for consistent cooking times",
+      "Brown ground beef and onion together before adding potatoes to build flavor base",
+      "Simmer gently until potatoes are tender but not falling apart"
+    ],
+    "coachingPrompt": "Help the cook understand how simmering time affects potato texture and how bouillon seasons the entire dish."
+  },
+  "timestamp": "2026-02-06T08:44:34.908Z"
+}

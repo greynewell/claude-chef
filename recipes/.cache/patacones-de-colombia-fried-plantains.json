@@ -1,0 +1,43 @@
+{
+  "contentHash": "1b48e9b23e0f5390",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "ripe plantain",
+        "searchTerm": "plantain",
+        "normalizedName": "Plantain"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Choose ripe plantains with yellow skin that yield slightly to pressure",
+      "Fry at medium-high temperature to cook through without burning outside",
+      "Flatten partially fried plantains and fry again for crispy twice-fried texture"
+    ],
+    "coachingPrompt": "Patacones are a Colombian staple requiring a unique twice-frying technique. Are you familiar with this method?"
+  },
+  "timestamp": "2026-02-06T14:17:55.581Z"
+}

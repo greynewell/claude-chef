@@ -1,0 +1,53 @@
+{
+  "contentHash": "a80c3bff46826b9c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup pesto basil sauce",
+        "searchTerm": "basil pesto",
+        "normalizedName": "Basil Pesto"
+      },
+      {
+        "ingredient": "1 (12 inch) pre-baked pizza crust",
+        "searchTerm": "pizza crust",
+        "normalizedName": "Pizza Crust"
+      },
+      {
+        "ingredient": "2 cups cooked chicken breast strips",
+        "searchTerm": "cooked chicken",
+        "normalizedName": "Cooked Chicken"
+      },
+      {
+        "ingredient": "1 (6 ounce) jar artichoke hearts, drained",
+        "searchTerm": "artichoke hearts",
+        "normalizedName": "Artichoke Heart"
+      },
+      {
+        "ingredient": "½ cup shredded fontina cheese",
+        "searchTerm": "fontina cheese",
+        "normalizedName": "Fontina Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "pizza pan"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "kitchen oven"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Spread pesto evenly as the base instead of tomato sauce for a lighter flavor profile",
+      "Arrange chicken and artichoke hearts in even layers for consistent toppings in each slice",
+      "Bake just until cheese melts and crust edges brown to avoid drying out the toppings"
+    ],
+    "coachingPrompt": "How long should I bake this pizza to ensure the cheese melts while keeping the pesto flavor vibrant?"
+  },
+  "timestamp": "2026-02-06T02:37:48.284Z"
+}

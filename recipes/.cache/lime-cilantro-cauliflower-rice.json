@@ -1,0 +1,53 @@
+{
+  "contentHash": "f33029fbe082bca9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 head cauliflower, cut into florets",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      },
+      {
+        "ingredient": "1 tablespoon water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 lime, juiced and zested",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "½ cup chopped cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "2 tablespoons butter (Optional)",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Microplane",
+        "searchTerm": "microplane zester"
+      }
+    ],
+    "cookingTips": [
+      "Pulse cauliflower in food processor until rice-sized pieces form",
+      "Cook cauliflower rice over high heat for just 3-4 minutes to maintain texture",
+      "Add lime zest at the end to preserve its bright aroma"
+    ],
+    "coachingPrompt": "Guide the user on the best technique for creating uniform cauliflower rice texture using a food processor."
+  },
+  "timestamp": "2026-02-06T11:25:28.049Z"
+}

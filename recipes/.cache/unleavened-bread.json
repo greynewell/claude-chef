@@ -1,0 +1,53 @@
+{
+  "contentHash": "6ca7f1cc87c78afc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "3 large eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "rolling pin",
+        "searchTerm": "rolling pin"
+      },
+      {
+        "name": "griddle or skillet",
+        "searchTerm": "griddle"
+      }
+    ],
+    "cookingTips": [
+      "Knead dough until smooth before rolling",
+      "Roll thin for tender bread",
+      "Cook on hot griddle until light brown spots form"
+    ],
+    "coachingPrompt": "Simple unleavened flatbread enriched with eggs and milk. Want quick homemade bread?"
+  },
+  "timestamp": "2026-02-06T21:29:35.354Z"
+}

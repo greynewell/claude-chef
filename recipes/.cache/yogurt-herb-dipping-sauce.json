@@ -1,0 +1,53 @@
+{
+  "contentHash": "2e9cc795788f51d4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup plain yogurt",
+        "searchTerm": "plain yogurt",
+        "normalizedName": "Plain Yogurt"
+      },
+      {
+        "ingredient": "¼ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 teaspoon chopped fresh parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "1 teaspoon chopped fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "1 teaspoon chopped green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "½ teaspoon celery salt",
+        "searchTerm": "celery salt",
+        "normalizedName": "Celery Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Prepare 30 minutes ahead to allow herbs to infuse",
+      "Use fresh herbs for maximum flavor"
+    ],
+    "coachingPrompt": "What vegetables or proteins will you serve with this dip?"
+  },
+  "timestamp": "2026-02-06T22:19:22.589Z"
+}

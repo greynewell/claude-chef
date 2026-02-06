@@ -1,0 +1,47 @@
+{
+  "contentHash": "12c995d232374eb9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups bow-tie pasta (farfalle)",
+        "searchTerm": "farfalle pasta",
+        "normalizedName": "Farfalle Pasta"
+      },
+      {
+        "ingredient": "1 (5 ounce) can white tuna, drained, or more to taste",
+        "searchTerm": "white tuna",
+        "normalizedName": "White Tuna"
+      },
+      {
+        "ingredient": "1 cucumber, cut into small pieces",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "1 ½ cups ranch dressing, or more to taste",
+        "searchTerm": "ranch dressing",
+        "normalizedName": "Ranch Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Chill all components before mixing to keep salad refreshing",
+      "Add dressing gradually to control the creaminess level"
+    ],
+    "coachingPrompt": "How can I lighten this ranch-based pasta salad without losing flavor?"
+  },
+  "timestamp": "2026-02-06T19:48:32.184Z"
+}

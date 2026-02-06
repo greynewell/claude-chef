@@ -1,0 +1,78 @@
+{
+  "contentHash": "75ffa914bab84d19",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup chopped celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "½ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ cup sweet pickle relish",
+        "searchTerm": "pickle relish",
+        "normalizedName": "Pickle Relish"
+      },
+      {
+        "ingredient": "¼ teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon celery salt",
+        "searchTerm": "celery salt",
+        "normalizedName": "Celery Salt"
+      },
+      {
+        "ingredient": "1 tablespoon prepared mustard",
+        "searchTerm": "mustard",
+        "normalizedName": "Mustard"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "¼ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes into uniform sizes so they cook evenly",
+      "Dress the salad while potatoes are still warm to absorb flavors better",
+      "Chill for at least 2 hours before serving for best flavor development"
+    ],
+    "coachingPrompt": "Help the user boil potatoes to the right tenderness without breaking them apart, then guide them through combining ingredients gently to maintain texture."
+  },
+  "timestamp": "2026-02-06T13:33:59.129Z"
+}

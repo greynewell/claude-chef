@@ -1,0 +1,53 @@
+{
+  "contentHash": "311ef42bc47ac787",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      },
+      {
+        "ingredient": "½ cup margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "1 cup peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 cup marshmallow creme",
+        "searchTerm": "marshmallow creme",
+        "normalizedName": "Marshmallow Creme"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "candy thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "baking pan",
+        "searchTerm": "baking pan"
+      }
+    ],
+    "cookingTips": [
+      "Use soft-ball stage (234-240°F) for proper fudge consistency",
+      "Add marshmallow creme at the end to keep it fluffy",
+      "Beat mixture until it loses its gloss before spreading"
+    ],
+    "coachingPrompt": "Do you have experience with the soft-ball candy stage, and would you like guidance on troubleshooting fudge texture issues?"
+  },
+  "timestamp": "2026-02-06T14:25:35.850Z"
+}

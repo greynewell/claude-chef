@@ -1,0 +1,53 @@
+{
+  "contentHash": "dc89d6cc489b2b10",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 cup whole milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "3 tablespoons beef or bacon drippings",
+        "searchTerm": "beef drippings",
+        "normalizedName": "Beef Dripping"
+      }
+    ],
+    "gear": [
+      {
+        "name": "muffin tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Make batter at least 30 minutes ahead and let rest for best rise",
+      "Use very hot pan with sizzling fat for dramatic puff and crispy exterior",
+      "Do not open oven door during baking or pudding will collapse"
+    ],
+    "coachingPrompt": "Guide the user on achieving the dramatic rise and airy texture essential to Yorkshire pudding."
+  },
+  "timestamp": "2026-02-06T03:34:47.161Z"
+}

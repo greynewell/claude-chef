@@ -1,0 +1,83 @@
+{
+  "contentHash": "4bff816d83489319",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound new potatoes",
+        "searchTerm": "new potatoes",
+        "normalizedName": "New Potato"
+      },
+      {
+        "ingredient": "1 pound beef sirloin steak",
+        "searchTerm": "beef sirloin steak",
+        "normalizedName": "Beef Sirloin Steak"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "8 cups mixed baby salad greens",
+        "searchTerm": "mixed baby greens",
+        "normalizedName": "Mixed Baby Green"
+      },
+      {
+        "ingredient": "1 pint cherry tomatoes, halved",
+        "searchTerm": "cherry tomatoes",
+        "normalizedName": "Cherry Tomato"
+      },
+      {
+        "ingredient": "2 tablespoons minced shallot",
+        "searchTerm": "shallot",
+        "normalizedName": "Shallot"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon red wine vinegar",
+        "searchTerm": "red wine vinegar",
+        "normalizedName": "Red Wine Vinegar"
+      },
+      {
+        "ingredient": "1 teaspoon Dijon mustard",
+        "searchTerm": "dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "¼ teaspoon dried tarragon",
+        "searchTerm": "dried tarragon",
+        "normalizedName": "Dried Tarragon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill or Skillet",
+        "searchTerm": "cooking skillet or grill"
+      },
+      {
+        "name": "Pot",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Large Plate",
+        "searchTerm": "serving plate"
+      }
+    ],
+    "cookingTips": [
+      "Let steak rest after cooking before slicing for juiciness",
+      "Dress greens separately from warm components to prevent wilting",
+      "Use Dijon mustard to create emulsion in vinaigrette"
+    ],
+    "coachingPrompt": "Guide the user through properly cooking steak and assembling a warm salad where cold greens contrast with warm protein and potatoes."
+  },
+  "timestamp": "2026-02-06T21:57:29.571Z"
+}

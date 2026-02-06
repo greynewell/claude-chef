@@ -1,0 +1,58 @@
+{
+  "contentHash": "75f8b81860d11b2f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (9 ounce) can bean dip",
+        "searchTerm": "bean dip",
+        "normalizedName": "Bean Dip"
+      },
+      {
+        "ingredient": "1 (6 ounce) container guacamole",
+        "searchTerm": "guacamole",
+        "normalizedName": "Guacamole"
+      },
+      {
+        "ingredient": "12 ounces sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 (1 ounce) package taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning Mix"
+      },
+      {
+        "ingredient": "1 (8 ounce) package shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 jalapeno pepper, seeded and diced",
+        "searchTerm": "jalapeno",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 tomato, chopped",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "serving dish",
+        "searchTerm": "serving dish"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Layer ingredients in order for best presentation and flavor distribution",
+      "Seed jalapenos to reduce heat, or leave seeds for more spice"
+    ],
+    "coachingPrompt": "How would you arrange these layers for maximum visual appeal and ease of scooping?"
+  },
+  "timestamp": "2026-02-05T23:59:24.706Z"
+}

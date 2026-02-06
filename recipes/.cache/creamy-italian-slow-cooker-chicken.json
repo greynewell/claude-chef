@@ -1,0 +1,58 @@
+{
+  "contentHash": "7ee23bd0b8803a3a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 (4 ounce) skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (4 ounce) package cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of chicken soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream of Chicken Soup"
+      },
+      {
+        "ingredient": "1 ½ (.7 ounce) packages dry Italian-style salad dressing mix",
+        "searchTerm": "italian dressing mix",
+        "normalizedName": "Italian Salad Dressing Mix"
+      },
+      {
+        "ingredient": "½ cup dry sherry",
+        "searchTerm": "dry sherry",
+        "normalizedName": "Dry Sherry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Measuring cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Layer ingredients in slow cooker: chicken first, then soup mixture, then cream cheese",
+      "Cube cream cheese into smaller pieces so it melts evenly throughout",
+      "Cook on low for 4-5 hours or high for 2-3 hours until chicken reaches 165°F"
+    ],
+    "coachingPrompt": "When should you add the cream cheese to avoid overcooking it?"
+  },
+  "timestamp": "2026-02-06T04:28:07.257Z"
+}

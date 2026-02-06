@@ -1,0 +1,63 @@
+{
+  "contentHash": "036dde4ace32fe2b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 avocados - peeled, pitted and diced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "¾ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "¾ cup salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "½ teaspoon ground cumin",
+        "searchTerm": "cumin",
+        "normalizedName": "Cumin"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 dash ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork for mashing"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "serving spoon"
+      }
+    ],
+    "cookingTips": [
+      "Mash avocados to desired consistency - leave slightly chunky for texture",
+      "Add lemon or lime juice to prevent browning if making ahead",
+      "Taste and adjust cumin and garlic powder to preference"
+    ],
+    "coachingPrompt": "Help me make a smooth avocado dip with the right balance of spices and creaminess"
+  },
+  "timestamp": "2026-02-05T22:42:06.383Z"
+}

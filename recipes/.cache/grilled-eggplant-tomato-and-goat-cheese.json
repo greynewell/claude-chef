@@ -1,0 +1,63 @@
+{
+  "contentHash": "5f4bc6a4a9dff994",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 medium eggplant, sliced into 1/4 inch rounds",
+        "searchTerm": "eggplant",
+        "normalizedName": "Eggplant"
+      },
+      {
+        "ingredient": "2 large tomatoes, sliced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 (11 ounce) log goat cheese",
+        "searchTerm": "goat cheese",
+        "normalizedName": "Goat Cheese"
+      },
+      {
+        "ingredient": "4 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 tablespoons balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill brush",
+        "searchTerm": "grill brush"
+      },
+      {
+        "name": "serving platter",
+        "searchTerm": "serving platter"
+      }
+    ],
+    "cookingTips": [
+      "Brush eggplant slices with oil on both sides before grilling for even cooking",
+      "Layer grilled eggplant with fresh tomato slices and crumbled goat cheese for a beautiful presentation",
+      "Drizzle with balsamic reduction at the end for acidity and elegance"
+    ],
+    "coachingPrompt": "Help the user understand how to balance warm and cool elements in a composed dish and proper timing for assembly."
+  },
+  "timestamp": "2026-02-06T08:15:36.945Z"
+}

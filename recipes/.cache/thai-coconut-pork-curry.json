@@ -1,0 +1,43 @@
+{
+  "contentHash": "e324214393783b61",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 ¼ pounds lean pork, cut into cubes",
+        "searchTerm": "pork",
+        "normalizedName": "Pork"
+      },
+      {
+        "ingredient": "2 ½ cups Thai-style coconut curry stir-fry sauce",
+        "searchTerm": "Thai coconut curry sauce",
+        "normalizedName": "Thai Coconut Curry Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cut pork into uniform cubes so they cook evenly throughout",
+      "Brown the pork before adding sauce for better flavor and texture",
+      "Use a jarred sauce to simplify the recipe while still achieving authentic Thai flavors"
+    ],
+    "coachingPrompt": "Tell the user to simmer gently after adding the sauce so the pork stays tender and absorbs all the flavors."
+  },
+  "timestamp": "2026-02-06T20:30:54.668Z"
+}

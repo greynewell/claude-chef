@@ -1,0 +1,48 @@
+{
+  "contentHash": "9d55b19c29854ed5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package bulk pork sausage",
+        "searchTerm": "pork sausage",
+        "normalizedName": "Pork Sausage"
+      },
+      {
+        "ingredient": "4 large hard-boiled eggs, peeled",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 large egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup Italian bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Shallow Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Work with cold hard-boiled eggs to prevent sausage from sliding off during coating",
+      "Divide sausage into 4 equal portions for even coverage around each egg",
+      "Use an egg wash (beaten egg) to help bread crumbs adhere to the sausage layer"
+    ],
+    "coachingPrompt": "Explain the technique of wrapping sausage around hard-boiled eggs and the purpose of the breadcrumb coating."
+  },
+  "timestamp": "2026-02-05T23:12:38.644Z"
+}

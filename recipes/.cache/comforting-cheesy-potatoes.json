@@ -1,0 +1,53 @@
+{
+  "contentHash": "9797787a057465e8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 potatoes",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese shredded",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 ½ cups sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "½ cup diced onions",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Baking dish",
+        "searchTerm": "9x13 baking dish"
+      }
+    ],
+    "cookingTips": [
+      "Boil potatoes until fork-tender but still hold their shape",
+      "Mash potatoes while warm for smoother texture, but don't overmix",
+      "Fold in cheese and sour cream gently to maintain creaminess"
+    ],
+    "coachingPrompt": "What's the ideal texture for mashed potatoes—lumpy or smooth—and how does it affect the final dish?"
+  },
+  "timestamp": "2026-02-06T03:46:51.384Z"
+}

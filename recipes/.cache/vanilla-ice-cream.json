@@ -1,0 +1,43 @@
+{
+  "contentHash": "e25d3458255ea5a2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups heavy whipping cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Whipping Cream"
+      },
+      {
+        "ingredient": "2 cups half-and-half cream",
+        "searchTerm": "half-and-half",
+        "normalizedName": "Half-and-Half Cream"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "ice cream maker",
+        "searchTerm": "ice cream machine"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Chill the mixture thoroughly before churning for proper freezing",
+      "This no-cook method is quick but produces a lighter texture than custard-based ice cream"
+    ],
+    "coachingPrompt": "What's the difference between churning ice cream and freezing it without churning?"
+  },
+  "timestamp": "2026-02-06T21:32:14.898Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "556c91f4f1f995bb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 eggplant, peeled and cut into 1/2-inch cubes",
+        "searchTerm": "eggplant",
+        "normalizedName": "Eggplant"
+      },
+      {
+        "ingredient": "1 (28 ounce) can plum tomatoes with juice, chopped",
+        "searchTerm": "canned plum tomatoes",
+        "normalizedName": "Plum Tomato"
+      },
+      {
+        "ingredient": "1 (16 ounce) package rigatoni pasta",
+        "searchTerm": "rigatoni pasta",
+        "normalizedName": "Rigatoni Pasta"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Salt eggplant cubes and let sit 15 minutes to remove excess moisture before cooking",
+      "Cook pasta al dente and reserve 1 cup pasta water to adjust sauce consistency",
+      "Simmer sauce for 15-20 minutes to allow flavors to meld"
+    ],
+    "coachingPrompt": "How comfortable are you with timing pasta to finish cooking when the sauce is ready?"
+  },
+  "timestamp": "2026-02-06T06:14:17.687Z"
+}

@@ -1,0 +1,62 @@
+{
+  "contentHash": "bb1e18ec14ee2814",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 recipe pastry for a 9 inch single crust pie",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "3 tablespoons unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9 inch pie dish",
+        "searchTerm": "9 inch pie dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Let pie crust come to room temperature slightly before blind baking for even browning",
+      "The filling will set as it cools, so it may appear slightly underbaked when removed from oven"
+    ],
+    "coachingPrompt": "Are you new to pie baking? Would you like guidance on pie crust preparation and preventing a soggy bottom?"
+  },
+  "timestamp": "2026-02-06T07:11:22.191Z"
+}

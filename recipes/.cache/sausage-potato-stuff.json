@@ -1,0 +1,53 @@
+{
+  "contentHash": "389084d65e5a49ff",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 large russet potatoes, peeled and cut into 1-inch cubes",
+        "searchTerm": "russet potato",
+        "normalizedName": "Russet Potato"
+      },
+      {
+        "ingredient": "1 (14 ounce) beef smoked sausage (such as Hillshire Farms®), cut into 1/2-inch slices",
+        "searchTerm": "beef smoked sausage",
+        "normalizedName": "Beef Smoked Sausage"
+      },
+      {
+        "ingredient": "2 (4 ounce) cans chopped green chiles",
+        "searchTerm": "chopped green chiles",
+        "normalizedName": "Chopped Green Chile"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes into uniform cubes so they cook at the same rate",
+      "Brown potatoes in olive oil first to create a crispy exterior",
+      "Add cheddar cheese at the end off heat to prevent stringiness"
+    ],
+    "coachingPrompt": "Help the user build a skillet dish with textural contrast by crisping potatoes, adding smoked sausage, and finishing with melted cheese."
+  },
+  "timestamp": "2026-02-06T17:00:35.378Z"
+}

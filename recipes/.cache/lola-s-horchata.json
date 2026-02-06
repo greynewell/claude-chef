@@ -1,0 +1,58 @@
+{
+  "contentHash": "f2bd39975d76ca05",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup uncooked white long-grain rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "5 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ tablespoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "½ tablespoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "⅔ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "fine strainer",
+        "searchTerm": "strainer"
+      },
+      {
+        "name": "pitcher",
+        "searchTerm": "pitcher"
+      }
+    ],
+    "cookingTips": [
+      "Soak rice in water for several hours or overnight for easier blending",
+      "Strain the mixture twice for a smooth, creamy texture",
+      "Serve horchata over ice with a cinnamon stick"
+    ],
+    "coachingPrompt": "Horchata is a refreshing traditional drink. Do you have a high-powered blender? This is important for smooth grinding of the rice."
+  },
+  "timestamp": "2026-02-06T11:33:15.136Z"
+}

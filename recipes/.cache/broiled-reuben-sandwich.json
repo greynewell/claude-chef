@@ -1,0 +1,58 @@
+{
+  "contentHash": "99b3c351ea276e23",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon chili sauce",
+        "searchTerm": "chili sauce",
+        "normalizedName": "Chili Sauce"
+      },
+      {
+        "ingredient": "⅓ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¼ cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "8 slices rye bread",
+        "searchTerm": "rye bread",
+        "normalizedName": "Rye Bread"
+      },
+      {
+        "ingredient": "½ pound thinly sliced corned beef",
+        "searchTerm": "corned beef",
+        "normalizedName": "Corned Beef"
+      },
+      {
+        "ingredient": "½ pound sliced Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "1 pound sauerkraut",
+        "searchTerm": "sauerkraut",
+        "normalizedName": "Sauerkraut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "broiler pan",
+        "searchTerm": "broiler pan"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "serrated knife"
+      }
+    ],
+    "cookingTips": [
+      "Spread butter on bread before assembling for better toasting",
+      "Broil until cheese is melted and bread is golden, about 3-4 minutes"
+    ],
+    "coachingPrompt": "How do you prevent the bread from becoming soggy while the cheese melts?"
+  },
+  "timestamp": "2026-02-06T00:46:15.321Z"
+}

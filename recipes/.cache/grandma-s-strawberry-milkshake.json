@@ -1,0 +1,40 @@
+{
+  "contentHash": "3dadf1c179d065aa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 ounces strawberries, hulled",
+        "searchTerm": "strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 tablespoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "6 cubes ice",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      }
+    ],
+    "cookingTips": [
+      "Use fresh strawberries at peak ripeness for best flavor",
+      "Add ice last and blend until smooth",
+      "Serve immediately for best texture"
+    ],
+    "coachingPrompt": "This is a quick refreshing treat. Do you prefer thicker or thinner milkshakes?"
+  },
+  "timestamp": "2026-02-06T07:53:18.183Z"
+}

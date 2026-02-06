@@ -1,0 +1,73 @@
+{
+  "contentHash": "11e44cc90c9ad9ef",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 loaf French bread",
+        "searchTerm": "French bread",
+        "normalizedName": "French Bread"
+      },
+      {
+        "ingredient": "4 tablespoons margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "8 ounces sliced deli turkey meat",
+        "searchTerm": "deli turkey",
+        "normalizedName": "Deli Turkey"
+      },
+      {
+        "ingredient": "8 slices provolone cheese",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      },
+      {
+        "ingredient": "8 slices precooked bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "4 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "4 tablespoons jellied cranberry sauce",
+        "searchTerm": "cranberry sauce",
+        "normalizedName": "Cranberry Sauce"
+      },
+      {
+        "ingredient": "8 slices fresh tomatoes",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "4 lettuce leaves",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Bread Knife",
+        "searchTerm": "bread knife"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Toaster or Oven",
+        "searchTerm": "toaster"
+      }
+    ],
+    "cookingTips": [
+      "Lightly toast the French bread to create a crispy exterior that won't get soggy",
+      "Butter the bread before toasting for extra flavor and crispness",
+      "Layer ingredients in order: cranberry sauce, lettuce, turkey, bacon, cheese, tomato, mayonnaise"
+    ],
+    "coachingPrompt": "How can you balance sweet cranberry sauce with savory turkey and bacon in a satisfying sandwich?"
+  },
+  "timestamp": "2026-02-06T21:20:23.180Z"
+}

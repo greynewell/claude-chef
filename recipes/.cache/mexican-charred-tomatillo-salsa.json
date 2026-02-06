@@ -1,0 +1,48 @@
+{
+  "contentHash": "7f81b65f32585c5d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds fresh tomatillos",
+        "searchTerm": "fresh tomatillos",
+        "normalizedName": "Fresh Tomatillo"
+      },
+      {
+        "ingredient": "10 dried chile de arbol peppers",
+        "searchTerm": "dried chile de arbol",
+        "normalizedName": "Dried Chile De Arbol Pepper"
+      },
+      {
+        "ingredient": "2 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Fresh Garlic"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cast iron skillet",
+        "searchTerm": "cast iron skillet"
+      },
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Char the tomatillos directly on the flame until blackened for deep, smoky flavor",
+      "Toast the dried chiles briefly before blending to intensify their heat and flavor",
+      "Blend while still warm for the best texture and easier processing"
+    ],
+    "coachingPrompt": "What's the best way to char tomatillos to get maximum flavor without burning them?"
+  },
+  "timestamp": "2026-02-06T12:17:39.964Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "5fd53c6cf55cebf1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices prosciutto",
+        "searchTerm": "prosciutto",
+        "normalizedName": "Prosciutto"
+      },
+      {
+        "ingredient": "8 leaves basil, or more to taste",
+        "searchTerm": "basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "1 ½ pounds barramundi (Asian sea bass) fillets",
+        "searchTerm": "barramundi fillet",
+        "normalizedName": "Barramundi Fillet"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Pat fish dry before wrapping to ensure prosciutto adheres and sears properly",
+      "Place basil between prosciutto and fish to prevent it from burning during cooking",
+      "Sear skin-side down first to crisp the prosciutto, then flip gently to cook through"
+    ],
+    "coachingPrompt": "Help the cook understand how wrapping delicate fish protects it while cooking and how prosciutto contributes fat and flavor that prevents dryness."
+  },
+  "timestamp": "2026-02-06T14:00:05.629Z"
+}

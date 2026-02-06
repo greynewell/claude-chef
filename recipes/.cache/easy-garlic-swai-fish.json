@@ -1,0 +1,43 @@
+{
+  "contentHash": "8e54a09c5c9fbe72",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 teaspoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 (4 ounce) fillet swai fish",
+        "searchTerm": "swai fish",
+        "normalizedName": "Swai Fish"
+      },
+      {
+        "ingredient": "1 pinch Greek seasoning",
+        "searchTerm": "Greek seasoning",
+        "normalizedName": "Greek Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "non-stick skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Pat fish dry before cooking for better browning",
+      "Don't overcook swai fish as it dries out quickly"
+    ],
+    "coachingPrompt": "Guide the user through pan-searing delicate white fish without breaking it apart."
+  },
+  "timestamp": "2026-02-06T05:46:00.704Z"
+}

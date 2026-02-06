@@ -1,0 +1,63 @@
+{
+  "contentHash": "4e87dfd85d98aa91",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound bacon, diced",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 large head cauliflower, cut into florets",
+        "searchTerm": "cauliflower florets",
+        "normalizedName": "Cauliflower Floret"
+      },
+      {
+        "ingredient": "1 cup shredded Parmesan cheese",
+        "searchTerm": "parmesan cheese shredded",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "4 tablespoons unsalted butter, at room temperature",
+        "searchTerm": "butter unsalted",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons medium-chain triglyceride (MCT) oil",
+        "searchTerm": "MCT oil",
+        "normalizedName": "MCT Oil"
+      },
+      {
+        "ingredient": "½ tablespoon apple cider vinegar",
+        "searchTerm": "apple cider vinegar",
+        "normalizedName": "Apple Cider Vinegar"
+      },
+      {
+        "ingredient": "sea salt to taste",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "food mill or ricer",
+        "searchTerm": "food mill"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Cut cauliflower into uniform florets so they cook evenly and blend smoothly",
+      "Render bacon first, then use the bacon fat to help cook cauliflower for extra flavor",
+      "Use a food mill or ricer rather than blender to get fluffy texture without gumminess"
+    ],
+    "coachingPrompt": "Do you want a buttery, creamy mash or lighter version? Adjust butter and MCT oil amounts to your preference."
+  },
+  "timestamp": "2026-02-06T10:41:12.043Z"
+}

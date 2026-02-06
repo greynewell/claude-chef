@@ -1,0 +1,48 @@
+{
+  "contentHash": "704f2043624d9317",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      },
+      {
+        "ingredient": "2 slices white bread, toasted",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "3 slices deli-style sliced turkey breast",
+        "searchTerm": "sliced turkey breast",
+        "normalizedName": "Turkey Breast"
+      },
+      {
+        "ingredient": "2 tablespoons Russian salad dressing",
+        "searchTerm": "Russian dressing",
+        "normalizedName": "Russian Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "serrated knife"
+      },
+      {
+        "name": "plate",
+        "searchTerm": "small plate"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread lightly for crunch and to prevent it from getting soggy",
+      "Slightly warm the cheese slices by placing them on the hot toast to help them melt",
+      "Use quality deli turkey for better flavor than standard packaged varieties"
+    ],
+    "coachingPrompt": "This is a simple, classic sandwich. What makes a good deli sandwich stand out from just assembled ingredients?"
+  },
+  "timestamp": "2026-02-06T20:41:45.183Z"
+}

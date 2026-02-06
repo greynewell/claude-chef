@@ -1,0 +1,53 @@
+{
+  "contentHash": "5eaa51698ca9666e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (4 ounce) can diced jalapeno peppers",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "20 (3.5 inch square) wonton wrappers",
+        "searchTerm": "wonton wrapper",
+        "normalizedName": "Wonton Wrapper"
+      },
+      {
+        "ingredient": "½ cup sweet chili sauce",
+        "searchTerm": "sweet chili sauce",
+        "normalizedName": "Sweet Chili Sauce"
+      },
+      {
+        "ingredient": "oil for deep frying",
+        "searchTerm": "cooking oil",
+        "normalizedName": "Cooking Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep Fryer or Pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "Paper Towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Drain canned jalapenos thoroughly to prevent soggy wontons",
+      "Fill wontons sparingly to avoid filling leaking during frying",
+      "Fry at 350°F for 2-3 minutes until golden brown, turning once for even cooking"
+    ],
+    "coachingPrompt": "What folding technique would you use to seal the wonton wrappers and prevent filling from escaping during frying?"
+  },
+  "timestamp": "2026-02-06T10:15:43.198Z"
+}

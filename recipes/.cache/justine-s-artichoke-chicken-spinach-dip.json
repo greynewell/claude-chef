@@ -1,0 +1,63 @@
+{
+  "contentHash": "d7efd9552bbe5948",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "frozen chopped spinach",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "artichoke hearts",
+        "searchTerm": "canned artichoke hearts",
+        "normalizedName": "Artichoke Heart"
+      },
+      {
+        "ingredient": "chunk chicken",
+        "searchTerm": "canned chicken",
+        "normalizedName": "Chicken"
+      },
+      {
+        "ingredient": "mayonnaise",
+        "searchTerm": "mayo",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic clove",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "liquid smoke flavoring",
+        "searchTerm": "liquid smoke",
+        "normalizedName": "Liquid Smoke"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Drain spinach thoroughly to avoid excess moisture in the dip",
+      "Mix ingredients until well combined before baking for even texture",
+      "Serve warm with crackers or bread for best flavor"
+    ],
+    "coachingPrompt": "This is a crowd-pleasing dip. What temperature and time should you bake it to achieve a bubbly, golden top?"
+  },
+  "timestamp": "2026-02-06T10:32:48.835Z"
+}

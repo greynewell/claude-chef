@@ -1,0 +1,68 @@
+{
+  "contentHash": "c24b444af1c61819",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound fresh green beans, trimmed",
+        "searchTerm": "green beans",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "3 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "3 cloves garlic, sliced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons white wine vinegar",
+        "searchTerm": "white wine vinegar",
+        "normalizedName": "White Wine Vinegar"
+      },
+      {
+        "ingredient": "3 tablespoons freshly grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "serving dish",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Cook green beans until tender-crisp, about 5-7 minutes, for best texture",
+      "Add vinegar at the end to brighten flavors",
+      "Use fresh grated Parmesan for superior flavor over pre-grated"
+    ],
+    "coachingPrompt": "Help the user achieve the perfect tender-crisp green bean by teaching proper cooking time and the impact of finishing with vinegar and cheese."
+  },
+  "timestamp": "2026-02-06T05:45:16.337Z"
+}

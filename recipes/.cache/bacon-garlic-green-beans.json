@@ -1,0 +1,53 @@
+{
+  "contentHash": "4b97c8309779a54d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds fresh green beans, trimmed",
+        "searchTerm": "fresh green beans",
+        "normalizedName": "Fresh Green Bean"
+      },
+      {
+        "ingredient": "4 slices bacon",
+        "searchTerm": "bacon slices",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ teaspoon lemon zest",
+        "searchTerm": "lemon zest",
+        "normalizedName": "Lemon Zest"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "microplane zester",
+        "searchTerm": "microplane zester"
+      }
+    ],
+    "cookingTips": [
+      "Blanch green beans in boiling salted water for 4-5 minutes to ensure tenderness",
+      "Cook bacon until crispy, then remove and crumble, reserving fat for flavor",
+      "Finish beans with lemon zest and a pinch of lemon juice for brightness"
+    ],
+    "coachingPrompt": "Help the user create a side dish that balances rich butter and bacon with fresh bright flavors."
+  },
+  "timestamp": "2026-02-05T22:51:06.702Z"
+}

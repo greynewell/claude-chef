@@ -1,0 +1,54 @@
+{
+  "contentHash": "9b20ab46b200e1f4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10.75 ounce) can Campbell's® Condensed Cream of Chicken Soup or Campbell's® Condensed 98% Fat Free Cream of Chicken Soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream of Chicken Soup"
+      },
+      {
+        "ingredient": "1 cup Pace Thick & Chunky Salsa Mild,Med,Hot CAM",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup uncooked instant white rice",
+        "searchTerm": "instant white rice",
+        "normalizedName": "Instant White Rice"
+      },
+      {
+        "ingredient": "2 cups cubed cooked chicken",
+        "searchTerm": "cooked chicken",
+        "normalizedName": "Cooked Chicken"
+      },
+      {
+        "ingredient": "4 each flour tortillas (10-inch)",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Combine soup, salsa, and water before adding rice for even distribution",
+      "Let rice cool slightly before filling tortillas to prevent soggy wraps",
+      "Warm tortillas before filling for better flexibility"
+    ],
+    "coachingPrompt": "How do I fill these wraps so they stay together and the filling doesn't fall out?"
+  },
+  "timestamp": "2026-02-06T06:36:19.897Z"
+}

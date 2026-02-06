@@ -1,0 +1,57 @@
+{
+  "contentHash": "49ffa32dcc0e8e32",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (10 ounce) package refrigerated fresh ramen noodles",
+        "searchTerm": "fresh ramen noodles",
+        "normalizedName": "Fresh Ramen Noodle"
+      },
+      {
+        "ingredient": "1 (.75 ounce) packet dashi granules",
+        "searchTerm": "dashi granules",
+        "normalizedName": "Dashi Granule"
+      },
+      {
+        "ingredient": "4 slices fully cooked luncheon meat, cut into bite-sized pieces",
+        "searchTerm": "luncheon meat",
+        "normalizedName": "Luncheon Meat"
+      },
+      {
+        "ingredient": "1 green onion, thinly sliced",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "noodle strainer",
+        "searchTerm": "strainer"
+      },
+      {
+        "name": "soup bowls",
+        "searchTerm": "bowls"
+      }
+    ],
+    "cookingTips": [
+      "Boil eggs until soft-boiled (6-7 minutes) to get that perfect jammy yolk.",
+      "Use dashi broth for an authentic Hawaiian saimin flavor—it's the key to this dish."
+    ],
+    "coachingPrompt": "What makes authentic saimin different from regular ramen noodle soup?"
+  },
+  "timestamp": "2026-02-06T05:49:36.362Z"
+}

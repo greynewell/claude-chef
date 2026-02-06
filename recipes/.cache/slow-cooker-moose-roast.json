@@ -1,0 +1,48 @@
+{
+  "contentHash": "01c2e67a4206ee01",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "4 pounds moose roast",
+        "searchTerm": "moose roast",
+        "normalizedName": "Moose Roast"
+      },
+      {
+        "ingredient": "2 cups apple juice",
+        "searchTerm": "apple juice",
+        "normalizedName": "Apple Juice"
+      },
+      {
+        "ingredient": "1 (1 ounce) envelope dry onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Wild game benefits from braising—the apple juice adds brightness to gamey flavors",
+      "Brown the roast in oil before slow cooking for better color and flavor",
+      "Check internal temperature—wild game is leaner and can dry out if overcooked"
+    ],
+    "coachingPrompt": "Moose is a lean, flavorful game meat. Would you like to add vegetables like carrots and onions, or keep this minimal? Should we reduce the cooking liquid afterward for a pan sauce?"
+  },
+  "timestamp": "2026-02-06T18:13:46.310Z"
+}

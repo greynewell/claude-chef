@@ -1,0 +1,63 @@
+{
+  "contentHash": "07e38b9458865e74",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon finely ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ teaspoon cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "8 ounces fresh perch fillets",
+        "searchTerm": "perch fillets",
+        "normalizedName": "Perch Fillet"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 lemon",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "shallow dish",
+        "searchTerm": "shallow dish for dredging"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "fish tongs"
+      }
+    ],
+    "cookingTips": [
+      "Pat fish dry before dredging to achieve better browning",
+      "Brown butter over medium-high heat until fragrant and golden, about 3-4 minutes",
+      "Cook fish 3-4 minutes per side depending on thickness until flesh flakes easily"
+    ],
+    "coachingPrompt": "Explain how to tell when butter has browned properly and guide the user on pan temperature for delicate fish without overcooking."
+  },
+  "timestamp": "2026-02-06T00:48:07.756Z"
+}

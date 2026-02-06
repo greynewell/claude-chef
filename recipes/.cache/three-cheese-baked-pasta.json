@@ -1,0 +1,72 @@
+{
+  "contentHash": "8703a735b781d52a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound uncooked pasta",
+        "searchTerm": "pasta",
+        "normalizedName": "Pasta"
+      },
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "6 ½ cups tomato pasta sauce",
+        "searchTerm": "pasta sauce",
+        "normalizedName": "Pasta Sauce"
+      },
+      {
+        "ingredient": "6 ounces provolone cheese, thinly sliced",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      },
+      {
+        "ingredient": "1 ½ cups sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "6 ounces mozzarella cheese, shredded",
+        "searchTerm": "shredded mozzarella",
+        "normalizedName": "Shredded Mozzarella Cheese"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "9x13 baking dish"
+      },
+      {
+        "name": "Large Skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown the ground beef thoroughly and drain excess fat before adding sauce",
+      "Combine sour cream with pasta before layering to prevent curdling during baking",
+      "Cover with foil initially, then uncover for the last 10 minutes for a golden top"
+    ],
+    "coachingPrompt": "Help the user layer this rich pasta bake properly and explain the role of sour cream in the dish."
+  },
+  "timestamp": "2026-02-06T20:45:51.172Z"
+}

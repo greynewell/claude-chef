@@ -1,0 +1,58 @@
+{
+  "contentHash": "232c1ebf16f52524",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "uncooked medium shrimp",
+        "searchTerm": "medium shrimp",
+        "normalizedName": "Medium Shrimp"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "hot pepper sauce",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Keep ingredients simple; this dish relies on quality shrimp and proper technique",
+      "Monitor heat carefully to cook shrimp through without toughening them",
+      "Adjust hot sauce to taste; different brands vary significantly in heat level and flavor"
+    ],
+    "coachingPrompt": "How do you achieve tender, juicy shrimp when cooking with acidic ketchup and hot sauce that can toughen them?"
+  },
+  "timestamp": "2026-02-06T01:15:44.023Z"
+}

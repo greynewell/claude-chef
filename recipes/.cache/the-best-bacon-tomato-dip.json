@@ -1,0 +1,63 @@
+{
+  "contentHash": "4a24d7e9535043d8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "4 ounces cream cheese, room temperature",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "½ cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "¼ cup chopped onions",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 tomato, seeded and diced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "6 slices bacon - cooked, drained, and chopped",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "serving spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Seed the tomato to remove excess moisture that can dilute the dip",
+      "Chop bacon into fine pieces to distribute flavor throughout",
+      "Mix dip a few hours ahead to let flavors meld; serve at room temperature or chilled"
+    ],
+    "coachingPrompt": "How can you prevent the tomato from making this dip watery while keeping its fresh flavor?"
+  },
+  "timestamp": "2026-02-06T20:36:40.917Z"
+}

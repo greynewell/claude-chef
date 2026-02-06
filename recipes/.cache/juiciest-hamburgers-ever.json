@@ -1,0 +1,63 @@
+{
+  "contentHash": "e8820c98c2eb588c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¾ cup dry bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "3 tablespoons evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      },
+      {
+        "ingredient": "2 tablespoons Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "⅛ teaspoon cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "skillet or grill",
+        "searchTerm": "cast iron skillet"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Use evaporated milk instead of regular milk to keep patties juicy without making them wet",
+      "Handle meat minimally when mixing to avoid compacting and creating tough burgers",
+      "Make a small indent in the center of each patty to prevent it from puffing up during cooking"
+    ],
+    "coachingPrompt": "Evaporated milk is the secret to juiciness here. Explain why this ingredient works better than water or regular milk for moisture retention."
+  },
+  "timestamp": "2026-02-06T10:30:51.203Z"
+}

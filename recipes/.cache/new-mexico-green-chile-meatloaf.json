@@ -1,0 +1,73 @@
+{
+  "contentHash": "ee66041b3031f007",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds hamburger",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can diced tomatoes",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 (6 ounce) can diced green chiles",
+        "searchTerm": "green chiles",
+        "normalizedName": "Green Chile"
+      },
+      {
+        "ingredient": "¾ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ cup milk, or as needed",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "15 crushed crackers",
+        "searchTerm": "crackers",
+        "normalizedName": "Cracker"
+      },
+      {
+        "ingredient": "½ teaspoon salt, or more to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Mix ingredients gently with your hands to avoid overmixing, which toughens the meatloaf",
+      "Press mixture firmly into the pan to ensure even cooking and help it hold together",
+      "Let the meatloaf rest for 5 minutes after baking before slicing for easier serving"
+    ],
+    "coachingPrompt": "Guide the user on achieving a moist, flavorful meatloaf by not overmixing and using the milk to adjust texture."
+  },
+  "timestamp": "2026-02-06T13:12:22.965Z"
+}

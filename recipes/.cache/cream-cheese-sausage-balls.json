@@ -1,0 +1,52 @@
+{
+  "contentHash": "8b2056e31441eac0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound bulk pork sausage",
+        "searchTerm": "pork sausage",
+        "normalizedName": "Pork Sausage"
+      },
+      {
+        "ingredient": "1 ¼ cups baking mix (such as Bisquick ®)",
+        "searchTerm": "baking mix",
+        "normalizedName": "Baking Mix"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (8 ounce) package shredded sharp Cheddar cheese",
+        "searchTerm": "sharp cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Mix sausage and cream cheese until fully combined before adding dry ingredients",
+      "Chill mixture for easier handling when rolling into balls",
+      "These freeze well before baking for convenient make-ahead appetizers"
+    ],
+    "coachingPrompt": "Guide the user through combining ingredients and rolling uniform balls for even cooking."
+  },
+  "timestamp": "2026-02-06T04:16:17.048Z"
+}

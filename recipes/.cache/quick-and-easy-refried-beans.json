@@ -1,0 +1,63 @@
+{
+  "contentHash": "d86beb35cbc86163",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons canola oil",
+        "searchTerm": "canola oil",
+        "normalizedName": "Canola Oil"
+      },
+      {
+        "ingredient": "2 garlic cloves, peeled",
+        "searchTerm": "garlic cloves",
+        "normalizedName": "Garlic Clove"
+      },
+      {
+        "ingredient": "2 (15 ounce) cans pinto beans",
+        "searchTerm": "pinto beans",
+        "normalizedName": "Pinto Bean"
+      },
+      {
+        "ingredient": "1 teaspoon cumin",
+        "searchTerm": "cumin",
+        "normalizedName": "Cumin"
+      },
+      {
+        "ingredient": "1 teaspoon chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ lime, juiced",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "potato masher",
+        "searchTerm": "potato masher"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Don't drain beans - the liquid helps create creaminess",
+      "Mash to your desired consistency",
+      "Finish with lime juice for brightness"
+    ],
+    "coachingPrompt": "Should the user drain the beans or keep the liquid? How smooth or chunky should the final texture be?"
+  },
+  "timestamp": "2026-02-06T15:38:36.243Z"
+}

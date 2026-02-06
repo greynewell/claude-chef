@@ -1,0 +1,83 @@
+{
+  "contentHash": "d4ce8c61b4b8a902",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 slice Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 teaspoon mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon mustard",
+        "searchTerm": "mustard",
+        "normalizedName": "Mustard"
+      },
+      {
+        "ingredient": "1 teaspoon ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "1 pinch Cajun seasoning (such as Tony Chachere's)",
+        "searchTerm": "Cajun seasoning",
+        "normalizedName": "Cajun Seasoning"
+      },
+      {
+        "ingredient": "1 dash hot pepper sauce (such as Tabasco®)",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      },
+      {
+        "ingredient": "2 slices white bread, toasted",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "1 lettuce leaf",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "1 slice tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "plate",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Melt butter in the pan and fry egg to your preference before building the sandwich",
+      "Toast bread lightly while cooking the egg for the best texture",
+      "Layer condiments strategically with greens and tomato for flavor and moisture balance"
+    ],
+    "coachingPrompt": "Help the user build a well-balanced sandwich with perfectly fried eggs and guide them on layering ingredients for optimal flavor."
+  },
+  "timestamp": "2026-02-06T01:10:31.781Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "836866bf93f314b1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 serving cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "2 large eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 tablespoon pesto",
+        "searchTerm": "pesto",
+        "normalizedName": "Pesto"
+      },
+      {
+        "ingredient": "2 tablespoons ricotta cheese",
+        "searchTerm": "ricotta cheese",
+        "normalizedName": "Ricotta Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons freshly grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "freshly ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon chopped green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Microwave-Safe Bowl",
+        "searchTerm": "microwave bowl"
+      },
+      {
+        "name": "Microwave",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Whisk eggs thoroughly with pesto and cheeses before microwaving for even texture",
+      "Microwave in 30-second intervals, stirring between each interval for creaminess",
+      "Remove from microwave when eggs are just set but still slightly moist for best texture"
+    ],
+    "coachingPrompt": "Help the user understand how to achieve a creamy frittata texture by monitoring microwave intervals carefully."
+  },
+  "timestamp": "2026-02-06T12:25:46.979Z"
+}

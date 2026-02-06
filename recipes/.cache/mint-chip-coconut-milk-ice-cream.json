@@ -1,0 +1,47 @@
+{
+  "contentHash": "df1a14ccdbf05ef5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "canned coconut milk",
+        "searchTerm": "coconut milk",
+        "normalizedName": "Coconut Milk"
+      },
+      {
+        "ingredient": "agave syrup",
+        "searchTerm": "agave syrup",
+        "normalizedName": "Agave Syrup"
+      },
+      {
+        "ingredient": "peppermint extract",
+        "searchTerm": "peppermint extract",
+        "normalizedName": "Peppermint Extract"
+      },
+      {
+        "ingredient": "dark chocolate, chopped into small pieces",
+        "searchTerm": "dark chocolate",
+        "normalizedName": "Dark Chocolate"
+      }
+    ],
+    "gear": [
+      {
+        "name": "ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Chill mixture thoroughly before churning for best results",
+      "Add chocolate chips during the last 5 minutes of churning for better distribution"
+    ],
+    "coachingPrompt": "How can you achieve creamy texture with coconut milk instead of dairy?"
+  },
+  "timestamp": "2026-02-06T12:33:38.579Z"
+}

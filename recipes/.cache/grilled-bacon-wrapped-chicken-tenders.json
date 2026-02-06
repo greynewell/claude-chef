@@ -1,0 +1,53 @@
+{
+  "contentHash": "ff300145fb2d5f0f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 chicken tenders",
+        "searchTerm": "chicken tenders",
+        "normalizedName": "Chicken Tender"
+      },
+      {
+        "ingredient": "1 tablespoon BBQ rub (such as McCormick®)",
+        "searchTerm": "BBQ rub",
+        "normalizedName": "BBQ Rub"
+      },
+      {
+        "ingredient": "8 slices center-cut bacon, cut in half lengthwise",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 teaspoon water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Apply BBQ rub before wrapping with bacon for maximum flavor",
+      "Grill over medium heat for 12-15 minutes until internal temperature reaches 165°F",
+      "Brush with honey-water mixture in final minutes for glaze"
+    ],
+    "coachingPrompt": "Advise on checking for doneness and preventing bacon from burning while chicken cooks through."
+  },
+  "timestamp": "2026-02-06T08:10:19.109Z"
+}

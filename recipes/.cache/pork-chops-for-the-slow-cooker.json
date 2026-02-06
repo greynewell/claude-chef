@@ -1,0 +1,64 @@
+{
+  "contentHash": "ad68f751d2b1f419",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 boneless pork chops",
+        "searchTerm": "boneless pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "¼ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon ground ginger",
+        "searchTerm": "ground ginger",
+        "normalizedName": "Ground Ginger"
+      },
+      {
+        "ingredient": "½ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "¼ cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "2 cloves garlic, crushed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Whisk together sauce ingredients before adding to slow cooker for even flavor distribution",
+      "Don't overcrowd the slow cooker—arrange chops in a single layer for best results",
+      "Cook on low for 4-6 hours; high heat can make pork tough and dry"
+    ],
+    "coachingPrompt": "Help the user understand slow cooker fundamentals and the importance of not lifting the lid during cooking. Explain how low, slow heat ensures tender, flavorful pork."
+  },
+  "timestamp": "2026-02-06T15:05:33.536Z"
+}

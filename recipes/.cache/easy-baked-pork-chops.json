@@ -1,0 +1,72 @@
+{
+  "contentHash": "8a67097a3f7665d9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 small onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "4 pork chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "3 tablespoons maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "3 tablespoons spicy brown mustard",
+        "searchTerm": "brown mustard",
+        "normalizedName": "Brown Mustard"
+      },
+      {
+        "ingredient": "4 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon red pepper",
+        "searchTerm": "red pepper",
+        "normalizedName": "Red Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Sear pork chops before baking to develop flavor and prevent drying",
+      "Glaze chops near end of cooking to prevent burning"
+    ],
+    "coachingPrompt": "Guide the user on achieving caramelized glaze while keeping pork chops tender and moist inside."
+  },
+  "timestamp": "2026-02-06T05:32:24.149Z"
+}

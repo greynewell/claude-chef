@@ -1,0 +1,48 @@
+{
+  "contentHash": "d29d722d33952252",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pound bucatini (dry)",
+        "searchTerm": "bucatini pasta",
+        "normalizedName": "Bucatini Pasta"
+      },
+      {
+        "ingredient": "2 cups finely grated Pecorino Romano cheese",
+        "searchTerm": "Pecorino Romano cheese",
+        "normalizedName": "Pecorino Romano Cheese"
+      },
+      {
+        "ingredient": "1 ½ tablespoons freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pasta pot",
+        "searchTerm": "pasta pot"
+      },
+      {
+        "name": "Pasta tongs",
+        "searchTerm": "pasta tongs"
+      },
+      {
+        "name": "Microplane grater",
+        "searchTerm": "microplane grater"
+      }
+    ],
+    "cookingTips": [
+      "Use freshly ground black pepper for the best flavor",
+      "Reserve 1-2 cups of starchy pasta water before draining",
+      "Toss quickly off heat with cheese and pepper to create creamy sauce without added fat"
+    ],
+    "coachingPrompt": "How can you create a creamy emulsion with just cheese, pepper, and pasta water?"
+  },
+  "timestamp": "2026-02-06T00:52:41.788Z"
+}

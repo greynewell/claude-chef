@@ -1,0 +1,53 @@
+{
+  "contentHash": "bfe3efffd5da3684",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 pound shredded cabbage",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "1 tablespoon soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 tablespoon Chinese cooking wine",
+        "searchTerm": "Shaoxing wine",
+        "normalizedName": "Shaoxing Wine"
+      }
+    ],
+    "gear": [
+      {
+        "name": "wok or large skillet",
+        "searchTerm": "wok"
+      },
+      {
+        "name": "wooden spatula",
+        "searchTerm": "wooden spatula"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Have all ingredients prepped before you start cooking as stir-frying is fast",
+      "Cook over high heat and keep ingredients moving to prevent sticking and maintain crunch",
+      "Add soy sauce and wine at the very end to preserve their flavors"
+    ],
+    "coachingPrompt": "Why is it important to cook stir-fries over high heat, and how do you maintain texture?"
+  },
+  "timestamp": "2026-02-06T19:52:18.016Z"
+}

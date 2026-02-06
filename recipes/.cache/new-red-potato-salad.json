@@ -1,0 +1,73 @@
+{
+  "contentHash": "bcad3cca3625f9d2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds unpeeled red potatoes",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 ½ cups mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 tablespoons milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 tablespoons distilled white vinegar",
+        "searchTerm": "white vinegar",
+        "normalizedName": "White Vinegar"
+      },
+      {
+        "ingredient": "½ cup sliced green onions",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 cup sliced celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Boil potatoes in their skins until just tender, about 15-20 minutes, then cool before peeling",
+      "Dress potatoes while still warm so they absorb the mayonnaise and vinegar dressing better",
+      "Hard boil eggs separately, then peel, chop, and fold in at the end to avoid breaking them"
+    ],
+    "coachingPrompt": "Help the user understand why keeping potato skins on adds flavor and texture, and why warm potatoes absorb dressing better."
+  },
+  "timestamp": "2026-02-06T13:12:22.966Z"
+}

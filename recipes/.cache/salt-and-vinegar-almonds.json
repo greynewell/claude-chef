@@ -1,0 +1,48 @@
+{
+  "contentHash": "5ff2a54048a09416",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups whole almonds",
+        "searchTerm": "almond",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "1 cup balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "½ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Reduce vinegar mixture on stovetop until syrupy before coating almonds",
+      "Spread almonds in single layer on baking sheet and bake at 300°F for 15-20 minutes to dry",
+      "Cool completely on parchment paper to prevent sticking"
+    ],
+    "coachingPrompt": "How does reducing the vinegar mixture to a syrup consistency ensure the coating adheres properly to the almonds?"
+  },
+  "timestamp": "2026-02-06T16:51:21.299Z"
+}

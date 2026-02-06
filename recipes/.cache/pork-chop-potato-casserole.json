@@ -1,0 +1,83 @@
+{
+  "contentHash": "56d8d89c7c833718",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "8 pork chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "1 teaspoon seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of celery soup",
+        "searchTerm": "cream of celery soup",
+        "normalizedName": "Cream of Celery Soup"
+      },
+      {
+        "ingredient": "⅔ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (16 ounce) package frozen hash brown potatoes, thawed",
+        "searchTerm": "hash brown potatoes",
+        "normalizedName": "Hash Brown Potato"
+      },
+      {
+        "ingredient": "¾ cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "½ (6 ounce) can French-fried onions",
+        "searchTerm": "fried onions",
+        "normalizedName": "Fried Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "9x13 baking dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Brown the pork chops in batches to develop flavor before assembling the casserole",
+      "Add fried onions only halfway through baking, then again on top in final minutes to keep them crispy",
+      "Thaw hash browns completely and squeeze out excess moisture to prevent a watery casserole"
+    ],
+    "coachingPrompt": "Help the user understand the layering technique and timing for browning the meat. Emphasize when to add fried onions for maximum crispness."
+  },
+  "timestamp": "2026-02-06T15:05:33.535Z"
+}

@@ -1,0 +1,73 @@
+{
+  "contentHash": "772aafd3c7795e26",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "teriyaki sauce",
+        "searchTerm": "teriyaki sauce",
+        "normalizedName": "Teriyaki Sauce"
+      },
+      {
+        "ingredient": "honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "ground ginger",
+        "searchTerm": "ginger",
+        "normalizedName": "Ginger"
+      },
+      {
+        "ingredient": "red bell pepper",
+        "searchTerm": "bell pepper",
+        "normalizedName": "Bell Pepper"
+      },
+      {
+        "ingredient": "sweet onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "fresh mushroom",
+        "searchTerm": "mushroom",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "beef sirloin",
+        "searchTerm": "beef sirloin",
+        "normalizedName": "Beef Sirloin"
+      },
+      {
+        "ingredient": "chicken breast",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skewers",
+        "searchTerm": "skewers"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      }
+    ],
+    "cookingTips": [
+      "Soak wooden skewers 30 minutes before grilling to prevent burning",
+      "Cut vegetables and proteins similarly for even cooking times",
+      "Brush marinade during cooking to build glaze"
+    ],
+    "coachingPrompt": "When threading multiple proteins on one skewer, how will you ensure the chicken and beef cook at the same rate?"
+  },
+  "timestamp": "2026-02-06T10:32:48.836Z"
+}

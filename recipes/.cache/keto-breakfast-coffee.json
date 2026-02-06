@@ -1,0 +1,53 @@
+{
+  "contentHash": "d871e9fd59f21e1c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons virgin coconut oil",
+        "searchTerm": "coconut oil virgin",
+        "normalizedName": "Coconut Oil"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 cups hot coffee",
+        "searchTerm": "coffee",
+        "normalizedName": "Coffee"
+      },
+      {
+        "ingredient": "1 pinch ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "mug",
+        "searchTerm": "mug"
+      },
+      {
+        "name": "coffee maker",
+        "searchTerm": "coffee maker"
+      }
+    ],
+    "cookingTips": [
+      "Blend all ingredients on high speed for 30 seconds until frothy and emulsified",
+      "Use very hot coffee to pasteurize the raw egg safely",
+      "Pour immediately into mug to maintain froth and temperature"
+    ],
+    "coachingPrompt": "Are you looking for a thick creamy texture or prefer it more coffee-like? Adjust oil amounts accordingly."
+  },
+  "timestamp": "2026-02-06T10:41:12.042Z"
+}

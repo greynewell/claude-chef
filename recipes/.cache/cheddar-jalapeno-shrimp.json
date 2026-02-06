@@ -1,0 +1,58 @@
+{
+  "contentHash": "853448bd3d68aac8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds large shrimp, peeled and deveined and butterflied",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "8 ounces sharp Cheddar cheese, cut into strips",
+        "searchTerm": "sharp cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "3 fresh jalapeno peppers, seeded",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 teaspoon Old Bay Seasoning TM, or to taste",
+        "searchTerm": "old bay seasoning",
+        "normalizedName": "Old Bay Seasoning"
+      },
+      {
+        "ingredient": "2 pounds thick cut bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Parchment Paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Butterfly shrimp to create pockets for cheese",
+      "Wrap in bacon to keep shrimp moist and add flavor",
+      "Watch carefully as bacon and shrimp cook at different rates"
+    ],
+    "coachingPrompt": "This is an elegant appetizer with bold flavors. How would you time the cooking of bacon and shrimp together?"
+  },
+  "timestamp": "2026-02-06T01:43:28.841Z"
+}

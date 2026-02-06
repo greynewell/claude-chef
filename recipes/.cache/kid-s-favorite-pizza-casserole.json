@@ -1,0 +1,58 @@
+{
+  "contentHash": "f246a18c2f4ac301",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups elbow macaroni",
+        "searchTerm": "elbow macaroni",
+        "normalizedName": "Elbow Macaroni"
+      },
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (14 ounce) jar pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "1 (4 ounce) can tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "1 (4.5 ounce) can sliced mushrooms, drained",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "1 pound shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta until just al dente since it will continue cooking in the oven",
+      "Drain the ground beef well to prevent a watery casserole",
+      "Top with extra cheese in the last few minutes of baking for a crispy layer"
+    ],
+    "coachingPrompt": "What pizza toppings could you add to make this casserole feel like a personalized pizza night for each family member?"
+  },
+  "timestamp": "2026-02-06T10:48:32.136Z"
+}

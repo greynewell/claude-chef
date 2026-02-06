@@ -1,0 +1,53 @@
+{
+  "contentHash": "7560e6a8a2f11d86",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 egg whites",
+        "searchTerm": "egg white",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "⅔ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Wooden Dowel",
+        "searchTerm": "wooden dowel"
+      },
+      {
+        "name": "Electric Mixer",
+        "searchTerm": "electric mixer"
+      }
+    ],
+    "cookingTips": [
+      "Work quickly while wafers are still warm to roll them into tubes before they harden",
+      "Bake one sheet at a time and keep a close eye to prevent overbaking",
+      "Have your wooden dowel or cone mold ready before wafers come out of the oven"
+    ],
+    "coachingPrompt": "Coach the user on speed and timing—these delicate wafers require immediate shaping while warm."
+  },
+  "timestamp": "2026-02-05T23:31:47.046Z"
+}

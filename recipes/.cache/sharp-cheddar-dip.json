@@ -1,0 +1,47 @@
+{
+  "contentHash": "2c5bb7ce4644f03d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "5 ounces sharp processed cheese spread",
+        "searchTerm": "processed cheese spread",
+        "normalizedName": "Processed Cheese Spread"
+      },
+      {
+        "ingredient": "1 pinch garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "6 bagels",
+        "searchTerm": "bagels",
+        "normalizedName": "Bagel"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Serving bowl",
+        "searchTerm": "serving bowl"
+      }
+    ],
+    "cookingTips": [
+      "Use softened cream cheese for smoother mixing without lumps",
+      "Toast bagels lightly for better texture and to hold the dip"
+    ],
+    "coachingPrompt": "Help the user blend cheeses smoothly and suggest bagel slicing and toasting tips."
+  },
+  "timestamp": "2026-02-06T17:24:06.231Z"
+}

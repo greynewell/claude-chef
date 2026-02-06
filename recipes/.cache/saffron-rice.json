@@ -1,0 +1,59 @@
+{
+  "contentHash": "cb770ad220098013",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup diced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cup uncooked long grain white rice",
+        "searchTerm": "long grain white rice",
+        "normalizedName": "Long Grain White Rice"
+      },
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ teaspoon dried parsley flakes",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Parsley Flake"
+      },
+      {
+        "ingredient": "1 pinch saffron threads",
+        "searchTerm": "saffron threads",
+        "normalizedName": "Saffron Thread"
+      },
+      {
+        "ingredient": "3 drops yellow food coloring",
+        "searchTerm": "yellow food coloring",
+        "normalizedName": "Yellow Food Coloring"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan with lid",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Toast rice in butter before adding liquid for nutty flavor and separate grains",
+      "Do not stir rice after liquid boils; let it steam undisturbed",
+      "Let rice rest 5 minutes off heat before fluffing with fork"
+    ],
+    "coachingPrompt": "What's the best technique for cooking rice so each grain stays separate and fluffy?"
+  },
+  "timestamp": "2026-02-06T16:41:06.399Z"
+}

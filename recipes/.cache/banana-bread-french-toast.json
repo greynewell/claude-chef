@@ -1,0 +1,57 @@
+{
+  "contentHash": "385330243026af6e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "3 tablespoon sweetened condensed milk",
+        "searchTerm": "condensed milk",
+        "normalizedName": "Condensed Milk"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 loaf banana bread",
+        "searchTerm": "banana bread",
+        "normalizedName": "Banana Bread"
+      },
+      {
+        "ingredient": "1 tablespoon confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Shallow bowl",
+        "searchTerm": "shallow bowl"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Stove",
+        "searchTerm": "stove"
+      }
+    ],
+    "cookingTips": [
+      "Slice banana bread thick enough to soak custard without falling apart",
+      "Condensed milk creates richer, creamier custard coating"
+    ],
+    "coachingPrompt": "How can leftover banana bread be transformed into a decadent breakfast dish?"
+  },
+  "timestamp": "2026-02-05T23:19:52.665Z"
+}

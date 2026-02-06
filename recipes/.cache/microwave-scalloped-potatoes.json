@@ -1,0 +1,68 @@
+{
+  "contentHash": "4b9e372d618ca02e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 potatoes, peeled and sliced",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "½ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ½ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ teaspoon dried parsley",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley"
+      },
+      {
+        "ingredient": "1 pinch ground paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Microwave",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "Microwave-Safe Baking Dish",
+        "searchTerm": "microwave dish"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "cutting knife"
+      }
+    ],
+    "cookingTips": [
+      "Slice potatoes thinly and evenly for uniform cooking throughout",
+      "Create a roux with butter and flour before adding milk for a smooth, creamy sauce",
+      "Microwave in intervals and stir occasionally to prevent sauce from scorching"
+    ],
+    "coachingPrompt": "Guide the user on proper roux-making and how to achieve creamy sauce consistency in the microwave."
+  },
+  "timestamp": "2026-02-06T12:25:46.981Z"
+}

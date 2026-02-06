@@ -1,0 +1,52 @@
+{
+  "contentHash": "07df6f40e24102ec",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ½ cups creamy salad dressing (such as Miracle Whip®)",
+        "searchTerm": "creamy salad dressing",
+        "normalizedName": "Creamy Salad Dressing"
+      },
+      {
+        "ingredient": "¾ cup prepared yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons white vinegar",
+        "searchTerm": "white vinegar",
+        "normalizedName": "White Vinegar"
+      },
+      {
+        "ingredient": "12 hard-boiled eggs, peeled and cut into 1/4-inch slices",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Hard-boil eggs 10-12 minutes then cool immediately in ice water for easy peeling",
+      "Mix dressing components first to ensure even flavor distribution before adding eggs"
+    ],
+    "coachingPrompt": "Guide the user to gently fold in the sliced eggs to maintain their shape and prevent the salad from becoming too chunky."
+  },
+  "timestamp": "2026-02-06T04:26:12.761Z"
+}

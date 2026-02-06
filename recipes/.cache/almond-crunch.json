@@ -1,0 +1,58 @@
+{
+  "contentHash": "a8fd5d1fa3c0af3e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "blanched slivered almonds",
+        "searchTerm": "slivered almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "white sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "light corn syrup",
+        "searchTerm": "corn syrup",
+        "normalizedName": "Light Corn Syrup"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "milk chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Milk Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Candy thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Use a candy thermometer to reach the proper hard crack stage",
+      "Work quickly once the toffee is cooked; it hardens rapidly",
+      "Coat with chocolate while still warm for better adhesion"
+    ],
+    "coachingPrompt": "Guide the user through candy-making temperatures and explain the science of toffee brittleness."
+  },
+  "timestamp": "2026-02-05T21:53:34.910Z"
+}

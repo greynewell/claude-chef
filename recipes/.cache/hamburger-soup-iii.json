@@ -1,0 +1,68 @@
+{
+  "contentHash": "6f40e77f96e614ed",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 (14 ounce) cans beef broth",
+        "searchTerm": "beef broth",
+        "normalizedName": "Beef Broth"
+      },
+      {
+        "ingredient": "2 (14.5 ounce) cans stewed tomatoes",
+        "searchTerm": "stewed tomatoes",
+        "normalizedName": "Stewed Tomato"
+      },
+      {
+        "ingredient": "1 (16 ounce) package frozen peas and carrots",
+        "searchTerm": "frozen peas and carrots",
+        "normalizedName": "Frozen Peas and Carrots"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "1 cup uncooked elbow macaroni",
+        "searchTerm": "elbow macaroni",
+        "normalizedName": "Elbow Macaroni"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Add pasta near the end of cooking to prevent it from becoming soft and falling apart",
+      "Brown ground beef thoroughly before adding liquids to ensure proper flavor distribution",
+      "Add frozen vegetables at the very end to preserve their bright color and prevent overcooking"
+    ],
+    "coachingPrompt": "Help the cook understand the importance of timing pasta and frozen vegetables to prevent mushiness."
+  },
+  "timestamp": "2026-02-06T08:44:34.909Z"
+}

@@ -1,0 +1,73 @@
+{
+  "contentHash": "7f22c5b1f9a5b4cf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 1/2 cups high protein crisp rice and wheat cereal",
+        "searchTerm": "rice wheat cereal",
+        "normalizedName": "Crisp Rice Wheat Cereal"
+      },
+      {
+        "ingredient": "1 1/4 cups warm water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 tablespoon molasses",
+        "searchTerm": "molasses",
+        "normalizedName": "Molasses"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "2 cups whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "1 1/2 teaspoons active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bread machine or mixing bowl",
+        "searchTerm": "bread machine"
+      },
+      {
+        "name": "loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Let the cereal soften in the warm water for a few minutes before mixing with other ingredients",
+      "The honey and molasses add natural sweetness and help with browning",
+      "Allow adequate rising time, as the cereal can slow yeast activity slightly"
+    ],
+    "coachingPrompt": "How does the cereal affect this bread's texture and crumb, and should I adjust hydration or rising times because of it?"
+  },
+  "timestamp": "2026-02-06T18:50:22.356Z"
+}

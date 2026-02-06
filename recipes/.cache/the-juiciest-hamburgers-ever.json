@@ -1,0 +1,58 @@
+{
+  "contentHash": "4b66cbe4757171a4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "½ cup beer",
+        "searchTerm": "beer",
+        "normalizedName": "Beer"
+      },
+      {
+        "ingredient": "¼ cup Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "½ teaspoon onion salt",
+        "searchTerm": "onion salt",
+        "normalizedName": "Onion Salt"
+      },
+      {
+        "ingredient": "freshly ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet or grill",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "instant-read thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Mix ingredients gently with your hands just until combined; overmixing creates dense, tough burgers",
+      "Make a slight indent in the center of each patty to prevent it from puffing up during cooking",
+      "Don't press down on burgers while cooking; this squeezes out juices and dries them out"
+    ],
+    "coachingPrompt": "Beer and Worcestershire sauce add moisture and flavor to ground beef. How do these ingredients prevent the burgers from becoming dry?"
+  },
+  "timestamp": "2026-02-06T20:41:45.184Z"
+}

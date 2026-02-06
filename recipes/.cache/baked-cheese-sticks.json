@@ -1,0 +1,62 @@
+{
+  "contentHash": "2a2e1af6e94d3215",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups cornflakes cereal",
+        "searchTerm": "cornflakes cereal",
+        "normalizedName": "Cornflake"
+      },
+      {
+        "ingredient": "½ teaspoon dried oregano",
+        "searchTerm": "oregano",
+        "normalizedName": "Oregano"
+      },
+      {
+        "ingredient": "1 teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "¼ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 egg whites",
+        "searchTerm": "egg whites",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "2 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (8 ounce) package mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "shallow dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Crush cornflakes into fine crumbs for even coating",
+      "Keep cheese cold before breading to maintain stick shape during baking"
+    ],
+    "coachingPrompt": "How can you prevent the mozzarella from leaking out of the cheese sticks while baking?"
+  },
+  "timestamp": "2026-02-05T23:01:02.495Z"
+}

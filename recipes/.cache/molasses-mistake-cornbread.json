@@ -1,0 +1,63 @@
+{
+  "contentHash": "5d5c4264237ba8cb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅔ cup cornmeal",
+        "searchTerm": "cornmeal",
+        "normalizedName": "Cornmeal"
+      },
+      {
+        "ingredient": "¾ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 tablespoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 tablespoons molasses",
+        "searchTerm": "molasses",
+        "normalizedName": "Molasses"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Mix wet and dry ingredients separately to avoid overworking the batter",
+      "Don't overmix batter or cornbread will be tough",
+      "Bake at 400°F for 20-25 minutes until golden brown"
+    ],
+    "coachingPrompt": "Explain the importance of gentle mixing for tender cornbread and help the user avoid common mistakes like overmixing."
+  },
+  "timestamp": "2026-02-06T12:40:18.811Z"
+}

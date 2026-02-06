@@ -1,0 +1,53 @@
+{
+  "contentHash": "ca47ddb3f03f5f51",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (14 ounce) can sweetened condensed milk",
+        "searchTerm": "sweetened condensed milk",
+        "normalizedName": "Sweetened Condensed Milk"
+      },
+      {
+        "ingredient": "1 (12 fluid ounce) can evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      },
+      {
+        "ingredient": "1 tablespoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Flan Mold",
+        "searchTerm": "flan mold"
+      },
+      {
+        "name": "Water Bath",
+        "searchTerm": "baking pan for water bath"
+      },
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      }
+    ],
+    "cookingTips": [
+      "Caramelize sugar carefully over medium heat until golden amber; use immediately before it hardens",
+      "Ensure water bath stays at a gentle simmer to cook flan evenly without curdling",
+      "Flan is done when it jiggles slightly in the center but is mostly set"
+    ],
+    "coachingPrompt": "Walk me through creating silky flan with a perfectly caramelized sugar sauce and custard that sets properly."
+  },
+  "timestamp": "2026-02-06T18:49:29.101Z"
+}

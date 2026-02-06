@@ -1,0 +1,42 @@
+{
+  "contentHash": "326104092b369a8f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ½ cups pancake mix",
+        "searchTerm": "pancake mix",
+        "normalizedName": "Pancake Mix"
+      },
+      {
+        "ingredient": "2 ⅔ cups skim milk",
+        "searchTerm": "skim milk",
+        "normalizedName": "Skim Milk"
+      },
+      {
+        "ingredient": "2 cups part-skim ricotta cheese",
+        "searchTerm": "part-skim ricotta cheese",
+        "normalizedName": "Part-Skim Ricotta Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "griddle",
+        "searchTerm": "griddle"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Don't overmix batter or pancakes will be tough",
+      "Cook on medium heat to prevent burning bottoms before cooking centers"
+    ],
+    "coachingPrompt": "Guide proper batter mixing and griddle temperature for fluffy, evenly cooked pancakes."
+  },
+  "timestamp": "2026-02-06T16:15:13.410Z"
+}

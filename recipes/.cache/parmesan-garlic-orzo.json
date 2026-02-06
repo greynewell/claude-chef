@@ -1,0 +1,63 @@
+{
+  "contentHash": "c94f0cce643a8bec",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup orzo pasta",
+        "searchTerm": "orzo pasta",
+        "normalizedName": "Orzo Pasta"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 teaspoons minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "¼ cup Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      },
+      {
+        "ingredient": "½ teaspoon salt and ground black pepper",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon salt and ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pasta pot",
+        "searchTerm": "pasta pot"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Toss hot pasta with butter and garlic before adding Parmesan for better melting",
+      "Add milk at the end to create a creamy sauce without overdrying the pasta"
+    ],
+    "coachingPrompt": "How can you prevent the Parmesan from clumping when added to the warm pasta?"
+  },
+  "timestamp": "2026-02-06T14:10:37.102Z"
+}

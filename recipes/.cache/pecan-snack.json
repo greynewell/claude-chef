@@ -1,0 +1,58 @@
+{
+  "contentHash": "afbf65f0d33662b8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg white",
+        "searchTerm": "egg white",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "1 tablespoon water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 pound pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Whip egg white until foamy to help coating adhere",
+      "Toss pecans in egg white and sugar mixture thoroughly for even coating",
+      "Spread in single layer and stir halfway through baking to prevent burning"
+    ],
+    "coachingPrompt": "Egg white acts as a binder for the sugar coating. How does roasting change the texture of the nuts?"
+  },
+  "timestamp": "2026-02-06T14:30:01.082Z"
+}

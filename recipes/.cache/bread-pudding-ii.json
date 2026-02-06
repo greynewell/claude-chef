@@ -1,0 +1,68 @@
+{
+  "contentHash": "a683ff2aa0ac3cea",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices day-old bread",
+        "searchTerm": "day-old bread",
+        "normalizedName": "Day-Old Bread"
+      },
+      {
+        "ingredient": "2 tablespoons butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup raisins  (Optional)",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      },
+      {
+        "ingredient": "4 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "This streamlined version uses less custard for a firmer, more bread-forward texture",
+      "Raisins plump up during baking, adding pockets of sweetness and moisture",
+      "Let pudding cool 15 minutes before serving to allow custard to fully set"
+    ],
+    "coachingPrompt": "This simpler version uses less custard than traditional bread pudding. How does the bread-to-custard ratio affect the final texture?"
+  },
+  "timestamp": "2026-02-06T00:35:57.449Z"
+}

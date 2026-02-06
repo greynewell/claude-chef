@@ -1,0 +1,83 @@
+{
+  "contentHash": "c459aec606774048",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 medium eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon white vinegar",
+        "searchTerm": "white vinegar",
+        "normalizedName": "White Vinegar"
+      },
+      {
+        "ingredient": "½ cup reduced-sodium soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "¼ cup prepared ponzu sauce",
+        "searchTerm": "ponzu sauce",
+        "normalizedName": "Ponzu Sauce"
+      },
+      {
+        "ingredient": "¼ cup mirin",
+        "searchTerm": "mirin",
+        "normalizedName": "Mirin"
+      },
+      {
+        "ingredient": "2 tablespoons chopped scallions",
+        "searchTerm": "scallion",
+        "normalizedName": "Scallion"
+      },
+      {
+        "ingredient": "1 clove roasted garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ teaspoon light brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon sesame oil",
+        "searchTerm": "sesame oil",
+        "normalizedName": "Sesame Oil"
+      },
+      {
+        "ingredient": "½ teaspoon togarashi",
+        "searchTerm": "togarashi",
+        "normalizedName": "Togarashi"
+      },
+      {
+        "ingredient": "½ teaspoon grated fresh ginger",
+        "searchTerm": "ginger",
+        "normalizedName": "Ginger"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot for boiling",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Container for marinating",
+        "searchTerm": "glass jar"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "paring knife"
+      }
+    ],
+    "cookingTips": [
+      "Boil eggs for exactly 6-7 minutes for soft-boiled yolks that absorb the marinade well",
+      "Cool eggs in ice water immediately to stop cooking and make peeling easier",
+      "Marinate for at least 4 hours or overnight for the best flavor penetration"
+    ],
+    "coachingPrompt": "Why is it important to cool eggs immediately after boiling, and how does this affect the final texture?"
+  },
+  "timestamp": "2026-02-06T18:45:32.718Z"
+}

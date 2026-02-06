@@ -1,0 +1,87 @@
+{
+  "contentHash": "22a5f02479c97ceb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ham hock",
+        "searchTerm": "ham hock",
+        "normalizedName": "Ham Hock"
+      },
+      {
+        "ingredient": "1 (10 ounce) linguica sausage, sliced",
+        "searchTerm": "linguica sausage",
+        "normalizedName": "Linguica Sausage"
+      },
+      {
+        "ingredient": "1 onion, minced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 quarts water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "4 potatoes, peeled and cubed",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "2 celery rib, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "2 carrots, chopped",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 (15 ounce) can stewed tomatoes",
+        "searchTerm": "stewed tomatoes",
+        "normalizedName": "Stewed Tomato"
+      },
+      {
+        "ingredient": "1 (8 ounce) can tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ head cabbage, thinly sliced",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "1 (15 ounce) can kidney beans",
+        "searchTerm": "kidney beans",
+        "normalizedName": "Kidney Bean"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "Simmer ham hock for at least 1 hour to extract flavor before adding vegetables",
+      "Add delicate vegetables like cabbage in the last 15 minutes to maintain texture"
+    ],
+    "coachingPrompt": "How would you layer the cooking of vegetables to achieve optimal tenderness?"
+  },
+  "timestamp": "2026-02-06T15:10:39.495Z"
+}

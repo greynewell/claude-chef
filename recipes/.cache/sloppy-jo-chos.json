@@ -1,0 +1,48 @@
+{
+  "contentHash": "3058a728d3fd0398",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (15 ounce) can sloppy joe sauce",
+        "searchTerm": "sloppy joe sauce",
+        "normalizedName": "Sloppy Joe Sauce"
+      },
+      {
+        "ingredient": "1 (15 ounce) jar nacho cheese dip",
+        "searchTerm": "nacho cheese dip",
+        "normalizedName": "Nacho Cheese Dip"
+      },
+      {
+        "ingredient": "1 (13.5 ounce) package corn tortilla chips",
+        "searchTerm": "corn tortilla chips",
+        "normalizedName": "Corn Tortilla Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Serving platter",
+        "searchTerm": "platter"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef until fully cooked and fat is drained before adding sloppy joe sauce",
+      "Warm nacho cheese dip in a separate container so it stays creamy",
+      "Assemble nachos just before serving to keep chips crispy and warm"
+    ],
+    "coachingPrompt": "Guide the cook through building this appetizer nachos dish by layering tortilla chips, sloppy joe meat, and melted cheese dip."
+  },
+  "timestamp": "2026-02-06T18:01:12.359Z"
+}

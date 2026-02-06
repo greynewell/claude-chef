@@ -1,0 +1,73 @@
+{
+  "contentHash": "8a9d101db9e70ffb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "3 tablespoons TABASCO® brand Chipotle Pepper Sauce, divided",
+        "searchTerm": "chipotle hot sauce",
+        "normalizedName": "Chipotle Pepper Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "6 slices Monterey Jack or Cheddar cheese",
+        "searchTerm": "Monterey Jack cheese",
+        "normalizedName": "Monterey Jack Cheese"
+      },
+      {
+        "ingredient": "6 hamburger buns",
+        "searchTerm": "hamburger buns",
+        "normalizedName": "Hamburger Bun"
+      },
+      {
+        "ingredient": "6 red onion slices",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "6 tomato slices",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "6 lettuce leaves",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill or skillet",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Measuring spoons",
+        "searchTerm": "measuring spoons"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Mix chipotle sauce into ground beef with minimal handling to keep patties tender",
+      "Add cheese in the last minute of cooking and cover to melt properly",
+      "Toast buns lightly for better structural integrity"
+    ],
+    "coachingPrompt": "Guide the user on mixing hot sauce into burger meat for even flavor distribution and achieving perfect cheese melt timing."
+  },
+  "timestamp": "2026-02-06T02:56:28.956Z"
+}

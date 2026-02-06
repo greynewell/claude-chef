@@ -1,0 +1,57 @@
+{
+  "contentHash": "7da176b912025c62",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 recipe pastry for a 9 inch double crust pie",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      },
+      {
+        "ingredient": "2 cups frozen mixed vegetables",
+        "searchTerm": "frozen mixed vegetables",
+        "normalizedName": "Mixed Vegetable"
+      },
+      {
+        "ingredient": "2 boneless, skinless chicken breast halves, boiled",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 teaspoon dried thyme",
+        "searchTerm": "dried thyme",
+        "normalizedName": "Dried Thyme"
+      },
+      {
+        "ingredient": "½ (10.75 ounce) can condensed cream of celery soup",
+        "searchTerm": "cream of celery soup",
+        "normalizedName": "Cream of Celery Soup"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of potato soup",
+        "searchTerm": "cream of potato soup",
+        "normalizedName": "Cream of Potato Soup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9-inch pie dish",
+        "searchTerm": "pie dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Pre-boil chicken breasts for tender, easy-to-shred meat",
+      "Use two complementary cream soups for richer flavor depth"
+    ],
+    "coachingPrompt": "Show me how to combine two cream soups with pre-cooked chicken for a quick pot pie assembly."
+  },
+  "timestamp": "2026-02-06T02:38:47.849Z"
+}

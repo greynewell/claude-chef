@@ -1,0 +1,63 @@
+{
+  "contentHash": "3a643a7bcaaecd08",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "pork chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "onions",
+        "searchTerm": "onions",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "sweet potatoes",
+        "searchTerm": "sweet potatoes",
+        "normalizedName": "Sweet Potato"
+      },
+      {
+        "ingredient": "apples",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Sharp Knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "Vegetable Peeler",
+        "searchTerm": "vegetable peeler"
+      }
+    ],
+    "cookingTips": [
+      "Slice vegetables uniformly so they cook at the same rate",
+      "Layer vegetables strategically so pork chops sit on top and stay moist",
+      "Brown sugar caramelizes in the oven, creating a sweet glaze"
+    ],
+    "coachingPrompt": "Walk through proper layering technique to ensure even cooking of all components."
+  },
+  "timestamp": "2026-02-06T15:06:24.089Z"
+}

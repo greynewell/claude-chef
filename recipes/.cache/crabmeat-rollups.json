@@ -1,0 +1,52 @@
+{
+  "contentHash": "a832d9055a7fd86e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (6 ounce) cans crab meat, drained",
+        "searchTerm": "crabmeat",
+        "normalizedName": "Crabmeat"
+      },
+      {
+        "ingredient": "½ pound processed cheese, shredded",
+        "searchTerm": "processed cheese",
+        "normalizedName": "Processed Cheese"
+      },
+      {
+        "ingredient": "1 pound butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "20 slices white sandwich bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "2 cups sesame seeds",
+        "searchTerm": "sesame seeds",
+        "normalizedName": "Sesame Seed"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "rolling pin",
+        "searchTerm": "rolling pin"
+      },
+      {
+        "name": "shallow bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Use a rolling pin to flatten bread slices before filling to prevent cracking",
+      "Toast sesame seeds in a dry pan before coating for deeper flavor"
+    ],
+    "coachingPrompt": "How should I roll these to prevent the filling from leaking out, and what's the best way to toast them?"
+  },
+  "timestamp": "2026-02-06T04:05:54.806Z"
+}

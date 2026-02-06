@@ -1,0 +1,48 @@
+{
+  "contentHash": "d3b8ccec200b922e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound fresh strawberries",
+        "searchTerm": "strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "½ lemon, juiced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "2 (7 ounce) containers Greek yogurt (such as Fage®)",
+        "searchTerm": "Greek yogurt",
+        "normalizedName": "Greek Yogurt"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food Processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Airtight Container",
+        "searchTerm": "airtight container"
+      }
+    ],
+    "cookingTips": [
+      "Freeze strawberries before blending for better texture",
+      "Lemon juice prevents oxidation and adds brightness",
+      "Pulse rather than fully blend for icy texture"
+    ],
+    "coachingPrompt": "Would you prefer a smoother frozen yogurt or one with chunks of strawberry? How would that change your preparation?"
+  },
+  "timestamp": "2026-02-06T05:29:48.089Z"
+}

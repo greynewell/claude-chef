@@ -1,0 +1,43 @@
+{
+  "contentHash": "642407ea8eb4a08e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "3 tablespoons applesauce",
+        "searchTerm": "applesauce",
+        "normalizedName": "Applesauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Butter both sides of bread for even browning and golden crispness",
+      "Applesauce acts as a natural sweetener and moisture provider instead of jam",
+      "Grill sandwich on medium heat to warm applesauce without burning bread"
+    ],
+    "coachingPrompt": "How would you transform this simple sandwich into a more sophisticated dessert?"
+  },
+  "timestamp": "2026-02-05T22:18:26.498Z"
+}

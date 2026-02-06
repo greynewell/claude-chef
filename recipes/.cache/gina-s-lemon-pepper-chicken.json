@@ -1,0 +1,48 @@
+{
+  "contentHash": "4882cc0a2a71acbd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 skinless, boneless chicken breast halves",
+        "searchTerm": "boneless skinless chicken breasts",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 teaspoon lemon pepper",
+        "searchTerm": "lemon pepper seasoning",
+        "normalizedName": "Lemon Pepper"
+      },
+      {
+        "ingredient": "1 pinch garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 teaspoon onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "cooking tongs"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "instant read thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken breasts to even thickness for uniform cooking",
+      "Let chicken rest 5 minutes after cooking before serving",
+      "Cook over medium-high heat until internal temperature reaches 165°F"
+    ],
+    "coachingPrompt": "Help the cook achieve moist, evenly cooked chicken breasts with a simple seasoning approach."
+  },
+  "timestamp": "2026-02-06T07:29:02.475Z"
+}

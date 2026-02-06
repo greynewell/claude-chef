@@ -1,0 +1,68 @@
+{
+  "contentHash": "9f04a1a86748f8ba",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "13 fresh strawberries",
+        "searchTerm": "fresh strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "4 scoops strawberry ice cream",
+        "searchTerm": "strawberry ice cream",
+        "normalizedName": "Strawberry Ice Cream"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "½ cup ice",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      },
+      {
+        "ingredient": "2 tablespoons whipped cream, or to taste",
+        "searchTerm": "whipped cream",
+        "normalizedName": "Whipped Cream"
+      },
+      {
+        "ingredient": "2 teaspoons chocolate sauce, or to taste",
+        "searchTerm": "chocolate sauce",
+        "normalizedName": "Chocolate Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "milkshake glass",
+        "searchTerm": "tall glass"
+      },
+      {
+        "name": "straw",
+        "searchTerm": "straw"
+      }
+    ],
+    "cookingTips": [
+      "Add ice last and blend just until smooth to avoid over-mixing",
+      "Use slightly softened ice cream for easier blending",
+      "Top with whipped cream and chocolate drizzle immediately before serving"
+    ],
+    "coachingPrompt": "How can I make a thicker, creamier milkshake with the right ice-to-liquid ratio?"
+  },
+  "timestamp": "2026-02-06T19:34:24.688Z"
+}

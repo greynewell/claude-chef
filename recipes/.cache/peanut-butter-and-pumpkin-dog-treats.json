@@ -1,0 +1,58 @@
+{
+  "contentHash": "4f8a1f21e19f0372",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ½ cups whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup canned pumpkin",
+        "searchTerm": "canned pumpkin",
+        "normalizedName": "Canned Pumpkin"
+      },
+      {
+        "ingredient": "2 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Cookie Cutter",
+        "searchTerm": "cookie cutter"
+      }
+    ],
+    "cookingTips": [
+      "Mix wet and dry ingredients separately before combining",
+      "Roll dough between parchment paper to prevent sticking",
+      "Cut into dog-safe portions and bake until firm but not hard"
+    ],
+    "coachingPrompt": "These are dog treats - remind the user these are not for human consumption and to store safely away from human food."
+  },
+  "timestamp": "2026-02-06T14:23:07.954Z"
+}

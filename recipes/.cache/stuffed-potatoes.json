@@ -1,0 +1,43 @@
+{
+  "contentHash": "494e4c7165bf6f93",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 large baking potatoes",
+        "searchTerm": "baking potatoes",
+        "normalizedName": "Baking Potato"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 (16 ounce) container sour cream and onion dip",
+        "searchTerm": "sour cream onion dip",
+        "normalizedName": "Sour Cream Onion Dip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Preheat oven to 375°F and bake potatoes for about 45-50 minutes until tender",
+      "Scoop out potato centers carefully to leave a shell about 1/4-inch thick",
+      "Fill stuffed potatoes and bake additional 10-15 minutes until heated through"
+    ],
+    "coachingPrompt": "Help the user understand the best method for baking potatoes evenly and how to prevent them from bursting during cooking."
+  },
+  "timestamp": "2026-02-06T19:42:27.507Z"
+}

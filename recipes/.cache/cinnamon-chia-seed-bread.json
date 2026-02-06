@@ -1,0 +1,67 @@
+{
+  "contentHash": "3e8ba10c4d836d1c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup self-rising flour",
+        "searchTerm": "self-rising flour",
+        "normalizedName": "Self-Rising Flour"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ cup chia seeds",
+        "searchTerm": "chia seeds",
+        "normalizedName": "Chia Seed"
+      },
+      {
+        "ingredient": "3 tablespoons ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ cup coconut milk beverage",
+        "searchTerm": "coconut milk",
+        "normalizedName": "Coconut Milk"
+      },
+      {
+        "ingredient": "1 large egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Don't overmix the batter to keep the bread tender",
+      "Chia seeds absorb liquid, so the batter should be thick"
+    ],
+    "coachingPrompt": "Guide the baker through combining dry ingredients first, then wet ingredients, before folding together gently to avoid overdeveloping gluten."
+  },
+  "timestamp": "2026-02-06T03:23:43.034Z"
+}

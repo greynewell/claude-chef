@@ -1,0 +1,58 @@
+{
+  "contentHash": "42f96cde3dabfb99",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (28 ounce) package frozen French fries",
+        "searchTerm": "frozen french fries",
+        "normalizedName": "Frozen French Fries"
+      },
+      {
+        "ingredient": "3 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup minced scallions",
+        "searchTerm": "scallions",
+        "normalizedName": "Scallion"
+      },
+      {
+        "ingredient": "1 tablespoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ cup blue cheese crumbles",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons half-and-half",
+        "searchTerm": "half-and-half",
+        "normalizedName": "Half-and-Half"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy for better texture contrast with soft fries",
+      "Toss fries with warm toppings immediately after cooking to help cheese melt"
+    ],
+    "coachingPrompt": "What's the best way to keep fries crispy while adding wet toppings?"
+  },
+  "timestamp": "2026-02-06T00:19:44.072Z"
+}

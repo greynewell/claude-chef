@@ -1,0 +1,83 @@
+{
+  "contentHash": "db06ccbd40fed4bc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 ¼ cups vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 cups canned pumpkin",
+        "searchTerm": "pumpkin puree",
+        "normalizedName": "Pumpkin Puree"
+      },
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "3 teaspoons baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "2 teaspoons baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 teaspoons ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "1 cup chopped walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "9x13 cake pan",
+        "searchTerm": "cake pan"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "mixer"
+      }
+    ],
+    "cookingTips": [
+      "Both baking powder and baking soda are used for optimal rise and texture",
+      "Oil-based cakes stay moist longer than butter-based versions",
+      "Let cake cool completely in pan before turning out"
+    ],
+    "coachingPrompt": "This version uses both leavening agents for a specific texture. Guide baker on why both are needed and proper cooling technique."
+  },
+  "timestamp": "2026-02-06T15:27:13.965Z"
+}

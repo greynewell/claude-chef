@@ -1,0 +1,62 @@
+{
+  "contentHash": "e960e53eb6f4de88",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "3 tablespoons margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "3 cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 ½ teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ½ teaspoons active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Bread machine",
+        "searchTerm": "bread machine"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Pastry brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Liquid ingredients should be at room temperature - warm milk can kill yeast if too hot",
+      "Let the bread machine knead, then shape by hand for traditional braided challah"
+    ],
+    "coachingPrompt": "Will you be shaping this into a traditional braid, or baking it as a round loaf?"
+  },
+  "timestamp": "2026-02-06T00:34:57.324Z"
+}

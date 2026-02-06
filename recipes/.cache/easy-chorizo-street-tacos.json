@@ -1,0 +1,53 @@
+{
+  "contentHash": "d32ad7390ed9da0a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 chorizo sausage link, casing removed and meat crumbled",
+        "searchTerm": "chorizo sausage",
+        "normalizedName": "Chorizo Sausage"
+      },
+      {
+        "ingredient": "2 tablespoons chipotle peppers in adobo sauce",
+        "searchTerm": "chipotle peppers",
+        "normalizedName": "Chipotle Pepper"
+      },
+      {
+        "ingredient": "4 corn tortillas",
+        "searchTerm": "corn tortillas",
+        "normalizedName": "Corn Tortilla"
+      },
+      {
+        "ingredient": "2 tablespoons chopped onion, or to taste",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh cilantro, or to taste (Optional)",
+        "searchTerm": "cilantro",
+        "normalizedName": "Fresh Cilantro"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "turner"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Remove chorizo casing and cook until browned and crispy",
+      "Warm tortillas directly over flame or in a dry skillet for better texture",
+      "Mince chipotle peppers for even heat distribution"
+    ],
+    "coachingPrompt": "These street tacos are simple. Should I cook the chorizo first or add it raw to the tortillas?"
+  },
+  "timestamp": "2026-02-06T05:40:46.762Z"
+}

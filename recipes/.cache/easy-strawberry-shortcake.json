@@ -1,0 +1,38 @@
+{
+  "contentHash": "dfce619d997d4890",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 quart fresh strawberries, sliced",
+        "searchTerm": "strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 (12 ounce) package prepared sponge cake dessert cups",
+        "searchTerm": "sponge cake cups",
+        "normalizedName": "Sponge Cake Cup"
+      },
+      {
+        "ingredient": "1 (7 ounce) can whipped cream",
+        "searchTerm": "whipped cream",
+        "normalizedName": "Whipped Cream"
+      }
+    ],
+    "gear": [
+      "mixing bowl",
+      "measuring cup",
+      "serving spoon"
+    ],
+    "cookingTips": [
+      "Macerate strawberries with sugar 30 minutes ahead to release juices",
+      "Assemble just before serving to keep cake from getting soggy"
+    ],
+    "coachingPrompt": "Guide the user through timing and assembly to balance tender cake, juicy berries, and fresh whipped cream in each bite"
+  },
+  "timestamp": "2026-02-06T06:03:25.645Z"
+}

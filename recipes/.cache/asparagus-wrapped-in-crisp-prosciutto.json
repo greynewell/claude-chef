@@ -1,0 +1,43 @@
+{
+  "contentHash": "5015e0cf6c119995",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "16 spears fresh asparagus, trimmed",
+        "searchTerm": "fresh asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "16 slices prosciutto",
+        "searchTerm": "prosciutto",
+        "normalizedName": "Prosciutto"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "kitchen tongs"
+      },
+      {
+        "name": "Paper Towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Trim asparagus spears to similar length for uniform presentation",
+      "Wrap prosciutto tightly around asparagus to ensure crispiness",
+      "Roast at high temperature for crispy prosciutto and tender asparagus"
+    ],
+    "coachingPrompt": "Guide the user on the best roasting temperature to achieve crispy prosciutto without burning, and how to wrap tightly for presentation."
+  },
+  "timestamp": "2026-02-05T22:32:34.575Z"
+}

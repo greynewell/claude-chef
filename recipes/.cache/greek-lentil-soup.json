@@ -1,0 +1,83 @@
+{
+  "contentHash": "f00b6a6394920e5a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "5 carrots, chopped",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "5 stalks celery, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "5 cloves garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "4 cups water, or as needed",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 teaspoon olive oil, or to taste",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 bay leaves",
+        "searchTerm": "bay leaf",
+        "normalizedName": "Bay Leaf"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (16 ounce) package dry lentils",
+        "searchTerm": "dry lentil",
+        "normalizedName": "Dry Lentil"
+      },
+      {
+        "ingredient": "1 teaspoon vinegar, or to taste",
+        "searchTerm": "vinegar",
+        "normalizedName": "Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Use equal parts onion, carrot, and celery for traditional mirepoix base",
+      "Lentils should be tender but hold their shape—about 25-30 minutes",
+      "Add vinegar just before serving to enhance all flavors without making soup taste sour"
+    ],
+    "coachingPrompt": "Guide the user through building a flavorful vegetable base and explain why vinegar is added last for brightness."
+  },
+  "timestamp": "2026-02-06T08:01:18.202Z"
+}

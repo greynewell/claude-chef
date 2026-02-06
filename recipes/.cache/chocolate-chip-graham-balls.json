@@ -1,0 +1,48 @@
+{
+  "contentHash": "0421168eeacd06d2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup finely crushed graham crackers",
+        "searchTerm": "graham crackers",
+        "normalizedName": "Graham Cracker"
+      },
+      {
+        "ingredient": "1 cup chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Chocolate Chip"
+      },
+      {
+        "ingredient": "⅓ cup sweetened condensed milk",
+        "searchTerm": "sweetened condensed milk",
+        "normalizedName": "Sweetened Condensed Milk"
+      },
+      {
+        "ingredient": "½ cup chopped nuts",
+        "searchTerm": "nuts",
+        "normalizedName": "Nut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      }
+    ],
+    "cookingTips": [
+      "Crush graham crackers finely for uniform texture",
+      "Chill mixture before rolling to prevent sticking",
+      "Roll balls in cocoa powder or sprinkles for variation"
+    ],
+    "coachingPrompt": "Guide the user on achieving the right consistency when mixing ingredients so balls hold together without being too dense."
+  },
+  "timestamp": "2026-02-06T03:03:08.878Z"
+}

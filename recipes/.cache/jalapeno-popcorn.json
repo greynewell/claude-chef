@@ -1,0 +1,52 @@
+{
+  "contentHash": "266813800fa03566",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup vegetable oil, divided",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "6 slices pickled jalapeno peppers, drained, or more to taste",
+        "searchTerm": "pickled jalapeno peppers",
+        "normalizedName": "Pickled Jalapeno Pepper"
+      },
+      {
+        "ingredient": "⅓ cup popcorn kernels",
+        "searchTerm": "popcorn kernels",
+        "normalizedName": "Popcorn Kernel"
+      },
+      {
+        "ingredient": "¼ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (1 ounce) package ranch dressing mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Ranch Dressing Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot with lid",
+        "searchTerm": "pot with lid"
+      },
+      {
+        "name": "large bowl",
+        "searchTerm": "large bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Pop kernels with oil in a covered pot over medium-high heat for even popping",
+      "Mince pickled jalapenos finely and mix well with butter and ranch for even seasoning"
+    ],
+    "coachingPrompt": "Help the user properly pop kernels and evenly distribute the jalapeno-ranch seasoning throughout the popcorn."
+  },
+  "timestamp": "2026-02-06T10:14:39.294Z"
+}

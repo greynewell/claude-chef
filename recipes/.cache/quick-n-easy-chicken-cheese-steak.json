@@ -1,0 +1,44 @@
+{
+  "contentHash": "716fe03f59d2113f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (5 ounce) can chicken chunks, drained",
+        "searchTerm": "canned chicken",
+        "normalizedName": "Canned Chicken"
+      },
+      {
+        "ingredient": "1 tablespoon hot pepper sauce",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      },
+      {
+        "ingredient": "1 slice Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 hot dog bun, split",
+        "searchTerm": "hot dog bun",
+        "normalizedName": "Hot Dog Bun"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Small skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Drain canned chicken well to remove excess liquid",
+      "Warm the bun lightly for better texture and cheese melting",
+      "Add hot sauce to taste, starting with less and building up"
+    ],
+    "coachingPrompt": "This is a 4-ingredient quick lunch. How will you build maximum flavor from minimal components?"
+  },
+  "timestamp": "2026-02-06T15:44:15.913Z"
+}

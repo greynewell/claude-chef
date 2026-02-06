@@ -1,0 +1,53 @@
+{
+  "contentHash": "55a3c56782310cef",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound sliced bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 (1 1/2 pound) fat-trimmed pork tenderloin",
+        "searchTerm": "pork tenderloin",
+        "normalizedName": "Pork Tenderloin"
+      },
+      {
+        "ingredient": "1 ½ cups mustard-based barbeque sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "salt and freshly ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and freshly ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill or Grill Pan",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Cutting Board and Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Spiral the bacon around the tenderloin and secure with toothpicks to keep it in place",
+      "Cook to an internal temperature of 145°F for perfectly tender, juicy pork",
+      "Apply barbecue sauce during the last 10 minutes of cooking to prevent burning"
+    ],
+    "coachingPrompt": "How do I wrap bacon around the tenderloin evenly and keep it from burning while the pork cooks?"
+  },
+  "timestamp": "2026-02-06T01:27:47.291Z"
+}

@@ -1,0 +1,54 @@
+{
+  "contentHash": "deb6c449f1f48c73",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds red potatoes, quartered",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "¼ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 teaspoons minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 lemon, juiced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "1 tablespoon grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes evenly so they cook at the same rate",
+      "Toss potatoes with butter and seasonings, then spread in single layer for crispy edges",
+      "Add lemon juice after cooking to brighten the flavors without making potatoes mushy"
+    ],
+    "coachingPrompt": "At what temperature and for how long should you roast these potatoes for optimal tenderness?"
+  },
+  "timestamp": "2026-02-06T07:20:51.747Z"
+}

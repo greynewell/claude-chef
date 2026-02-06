@@ -1,0 +1,62 @@
+{
+  "contentHash": "366d1926efe8461a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds chicken wings, separated at joints, tips discarded",
+        "searchTerm": "chicken wings",
+        "normalizedName": "Chicken Wing"
+      },
+      {
+        "ingredient": "1 cup Louisiana-style hot sauce",
+        "searchTerm": "Louisiana hot sauce",
+        "normalizedName": "Louisiana Hot Sauce"
+      },
+      {
+        "ingredient": "1 (12 fluid ounce) can cola-flavored carbonated beverage",
+        "searchTerm": "cola",
+        "normalizedName": "Cola"
+      },
+      {
+        "ingredient": "¼ teaspoon cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill basket",
+        "searchTerm": "grill basket"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Mix sauce ingredients ahead and let flavors meld before using",
+      "Use indirect grilling with medium heat to prevent charring while cooking through",
+      "Apply sauce during final minutes of cooking to avoid burning; reserve some for serving"
+    ],
+    "coachingPrompt": "Why does cola add to a buffalo wing sauce? What do the sugar and spice do to the wings?"
+  },
+  "timestamp": "2026-02-06T08:11:12.957Z"
+}

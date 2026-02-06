@@ -1,0 +1,47 @@
+{
+  "contentHash": "902983e779e04df4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (8 ounce) packages cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "shredded Cheddar cheese",
+        "normalizedName": "Shredded Cheddar Cheese"
+      },
+      {
+        "ingredient": "10 jalapeno peppers, halved and seeded",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 (12 ounce) package turkey bacon",
+        "searchTerm": "turkey bacon",
+        "normalizedName": "Turkey Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Mix cream cheese and Cheddar thoroughly to distribute filling evenly",
+      "Wrap each popper tightly with turkey bacon to keep filling contained during baking"
+    ],
+    "coachingPrompt": "Guide me through making poppers with creamy filling that stays put and bacon that crisps perfectly."
+  },
+  "timestamp": "2026-02-06T21:18:02.589Z"
+}

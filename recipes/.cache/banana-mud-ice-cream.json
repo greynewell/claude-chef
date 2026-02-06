@@ -1,0 +1,58 @@
+{
+  "contentHash": "ded15992a075d691",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 banana, sliced",
+        "searchTerm": "bananas",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "2 tablespoons coconut milk",
+        "searchTerm": "coconut milk",
+        "normalizedName": "Coconut Milk"
+      },
+      {
+        "ingredient": "¼ cup unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "1 scoop protein powder",
+        "searchTerm": "protein powder",
+        "normalizedName": "Protein Powder"
+      },
+      {
+        "ingredient": "2 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "2 tablespoons maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "1 packet stevia powder",
+        "searchTerm": "stevia",
+        "normalizedName": "Stevia"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Freezer",
+        "searchTerm": "freezer"
+      }
+    ],
+    "cookingTips": [
+      "Freeze banana slices ahead of time for a creamier texture",
+      "Blend until smooth for ice cream consistency, or leave chunkier for sorbet texture"
+    ],
+    "coachingPrompt": "This is a quick frozen treat. Do you have frozen bananas ready, or will you use fresh ones?"
+  },
+  "timestamp": "2026-02-05T23:23:45.038Z"
+}

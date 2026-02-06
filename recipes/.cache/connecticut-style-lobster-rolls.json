@@ -1,0 +1,58 @@
+{
+  "contentHash": "df676699a6932fa0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 lobster tails",
+        "searchTerm": "lobster tails",
+        "normalizedName": "Lobster Tail"
+      },
+      {
+        "ingredient": "8 tablespoons butter, divided",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 top-sliced hot dog buns",
+        "searchTerm": "hot dog bun",
+        "normalizedName": "Hot Dog Bun"
+      },
+      {
+        "ingredient": "1 pinch paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "1 pinch kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "4 leaves Bibb lettuce",
+        "searchTerm": "Bibb lettuce",
+        "normalizedName": "Bibb Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot for boiling",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Skillet for toasting buns",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Meat fork or tweezers",
+        "searchTerm": "meat fork"
+      }
+    ],
+    "cookingTips": [
+      "Boil lobster tails until shell is bright red and meat is opaque, about 8-12 minutes",
+      "Butter and toast buns lightly in skillet before filling for crispy texture",
+      "Serve immediately while lobster is warm and buns are toasted"
+    ],
+    "coachingPrompt": "Guide the user to boil tender lobster, extract the meat cleanly, warm it gently in butter, and assemble warm buttered buns."
+  },
+  "timestamp": "2026-02-06T03:47:57.042Z"
+}

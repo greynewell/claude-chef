@@ -1,0 +1,52 @@
+{
+  "contentHash": "3eab72357f4dc5a1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds red potatoes, cut into quarters",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ teaspoon dried rosemary, crushed",
+        "searchTerm": "dried rosemary",
+        "normalizedName": "Dried Rosemary"
+      }
+    ],
+    "gear": [
+      {
+        "name": "roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "kitchen tongs"
+      }
+    ],
+    "cookingTips": [
+      "Toss potatoes halfway through roasting for even browning",
+      "Ensure potatoes are cut to uniform size for consistent cooking"
+    ],
+    "coachingPrompt": "How can we achieve crispy exteriors while maintaining creamy centers? Should we adjust the oven temperature or cooking time?"
+  },
+  "timestamp": "2026-02-06T16:19:16.787Z"
+}

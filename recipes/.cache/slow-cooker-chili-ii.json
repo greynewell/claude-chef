@@ -1,0 +1,103 @@
+{
+  "contentHash": "29e24fcb1b2e446c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "diced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "diced celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "diced green bell pepper",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "tomato puree",
+        "searchTerm": "tomato puree",
+        "normalizedName": "Tomato Puree"
+      },
+      {
+        "ingredient": "kidney beans",
+        "searchTerm": "kidney beans",
+        "normalizedName": "Kidney Bean"
+      },
+      {
+        "ingredient": "cannellini beans",
+        "searchTerm": "cannellini beans",
+        "normalizedName": "Cannellini Bean"
+      },
+      {
+        "ingredient": "chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "dried parsley",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "dried oregano",
+        "searchTerm": "oregano",
+        "normalizedName": "Dried Oregano"
+      },
+      {
+        "ingredient": "black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "hot pepper sauce",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef before adding to slow cooker to remove excess fat and develop flavor",
+      "Drain one can of beans to reduce overall liquid, keep one undrained for creamier texture",
+      "Adjust hot pepper sauce at the end to control heat level"
+    ],
+    "coachingPrompt": "Guide the user through browning ground beef properly and explain bean mixing technique for texture variety."
+  },
+  "timestamp": "2026-02-06T18:08:28.916Z"
+}

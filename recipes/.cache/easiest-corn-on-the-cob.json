@@ -1,0 +1,39 @@
+{
+  "contentHash": "24acafbe8f894a5b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ear fresh corn in the husk",
+        "searchTerm": "fresh corn",
+        "normalizedName": "Fresh Corn"
+      },
+      {
+        "ingredient": "1 teaspoon butter, or more to taste",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Keep corn in husk while roasting to steam and protect kernels from drying",
+      "Roast at 350°F for 30 minutes for tender corn with concentrated sweetness",
+      "Apply butter immediately after removing husk while corn is still hot"
+    ],
+    "coachingPrompt": "Why keep corn in the husk? What roasting temperature achieves best sweetness?"
+  },
+  "timestamp": "2026-02-06T05:27:03.256Z"
+}

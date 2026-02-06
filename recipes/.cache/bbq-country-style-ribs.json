@@ -1,0 +1,48 @@
+{
+  "contentHash": "2e662b29200fcf01",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 country style pork ribs",
+        "searchTerm": "country style pork ribs",
+        "normalizedName": "Country Style Pork Rib"
+      },
+      {
+        "ingredient": "2 teaspoons minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 lemon, thinly sliced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "1 (18 ounce) bottle barbeque sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Country-style ribs are meatier than baby back ribs, perfect for slow cooking",
+      "Layer lemon slices in slow cooker for brightness that cuts through rich barbecue sauce",
+      "Cook on low for 6-8 hours until meat falls off bone easily"
+    ],
+    "coachingPrompt": "This is a minimal-ingredient, hands-off recipe perfect for slow cookers. How much prep time do you have?"
+  },
+  "timestamp": "2026-02-05T23:37:23.226Z"
+}

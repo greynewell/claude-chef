@@ -1,0 +1,63 @@
+{
+  "contentHash": "23dd12d3a6e647b6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¼ cup red wine vinegar",
+        "searchTerm": "red wine vinegar",
+        "normalizedName": "Red Wine Vinegar"
+      },
+      {
+        "ingredient": "¼ cup sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon celery seed",
+        "searchTerm": "celery seed",
+        "normalizedName": "Celery Seed"
+      },
+      {
+        "ingredient": "1 bag coleslaw mix",
+        "searchTerm": "coleslaw mix",
+        "normalizedName": "Coleslaw Mix"
+      },
+      {
+        "ingredient": "1 green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "large bowl",
+        "searchTerm": "large bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then crumble and add just before serving to maintain crunchiness",
+      "Prepare dressing ahead and refrigerate; combine with coleslaw mix just before serving",
+      "Use pre-shredded coleslaw mix to save time without sacrificing quality"
+    ],
+    "coachingPrompt": "Should I add the bacon to the slaw right away or just before serving?"
+  },
+  "timestamp": "2026-02-06T19:54:02.410Z"
+}

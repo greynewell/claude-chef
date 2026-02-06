@@ -1,0 +1,62 @@
+{
+  "contentHash": "0c0b80be623ba1e2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound cauliflower florets",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      },
+      {
+        "ingredient": "¼ cup mashed potato flakes",
+        "searchTerm": "mashed potato flakes",
+        "normalizedName": "Mashed Potato Flake"
+      },
+      {
+        "ingredient": "¼ cup low-fat milk",
+        "searchTerm": "low fat milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 tablespoons margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "salt and ground black pepper",
+        "searchTerm": "salt pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ cup shredded reduced-fat Cheddar cheese",
+        "searchTerm": "reduced fat cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "potato masher",
+        "searchTerm": "potato masher"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Boil cauliflower until very tender for smooth mashing; don't undercook",
+      "Drain cauliflower thoroughly to avoid watery mash; press in colander",
+      "Warm milk slightly before adding to help achieve creamy consistency"
+    ],
+    "coachingPrompt": "Walk me through making a healthy mashed cauliflower side dish with cheese."
+  },
+  "timestamp": "2026-02-05T21:36:23.118Z"
+}

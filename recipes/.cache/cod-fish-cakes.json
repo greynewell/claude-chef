@@ -1,0 +1,63 @@
+{
+  "contentHash": "56e25e09dab5c30b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 large potatoes, peeled and halved",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 pound cod fillets, cubed",
+        "searchTerm": "cod fillets",
+        "normalizedName": "Cod Fillet"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon grated onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "3 tablespoons oil for frying",
+        "searchTerm": "oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Potato masher",
+        "searchTerm": "potato masher"
+      }
+    ],
+    "cookingTips": [
+      "Cook cod and potatoes together for easier preparation and integrated flavors",
+      "Mash while still warm to achieve a cohesive mixture that holds together",
+      "Form cakes before frying and chill if needed for better handling"
+    ],
+    "coachingPrompt": "How should you balance potato and cod proportions for the best texture, and what binding role does the egg play?"
+  },
+  "timestamp": "2026-02-06T03:41:35.988Z"
+}

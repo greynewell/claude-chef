@@ -1,0 +1,68 @@
+{
+  "contentHash": "a653c06fee8b0cdc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 teaspoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 slices multigrain bread",
+        "searchTerm": "multigrain bread",
+        "normalizedName": "Multigrain Bread"
+      },
+      {
+        "ingredient": "1 ripe avocado, pitted, peeled",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 teaspoon lemon juice, or to taste",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 pinch cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "sea salt to taste",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Use medium heat for butter to prevent burning",
+      "Toast bread while cooking eggs for optimal timing",
+      "Cayenne pepper adds depth to the avocado"
+    ],
+    "coachingPrompt": "How do you coordinate toasting, cooking eggs, and assembling for best results?"
+  },
+  "timestamp": "2026-02-05T22:43:14.836Z"
+}

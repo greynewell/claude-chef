@@ -1,0 +1,52 @@
+{
+  "contentHash": "0fd05c0d4219ccd6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 cups panko bread crumbs",
+        "searchTerm": "panko bread crumbs",
+        "normalizedName": "Panko Bread Crumb"
+      },
+      {
+        "ingredient": "1 head cauliflower, broken into florets",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Panko stays crispier than regular bread crumbs when baked",
+      "Pat cauliflower dry after dipping in egg for better coating adhesion"
+    ],
+    "coachingPrompt": "How can I make breaded baked vegetables extra crispy?"
+  },
+  "timestamp": "2026-02-05T22:59:09.362Z"
+}

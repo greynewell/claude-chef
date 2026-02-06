@@ -1,0 +1,58 @@
+{
+  "contentHash": "1d1ce5181c81d645",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds fish fillets",
+        "searchTerm": "fish fillets",
+        "normalizedName": "Fish Fillet"
+      },
+      {
+        "ingredient": "butter flavored cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "2 teaspoons canola oil or corn oil",
+        "searchTerm": "canola oil",
+        "normalizedName": "Canola Oil"
+      },
+      {
+        "ingredient": "¼ cup oyster sauce",
+        "searchTerm": "oyster sauce",
+        "normalizedName": "Oyster Sauce"
+      },
+      {
+        "ingredient": "lemon pepper",
+        "searchTerm": "lemon pepper",
+        "normalizedName": "Lemon Pepper"
+      },
+      {
+        "ingredient": "garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Cooking spray",
+        "searchTerm": "cooking spray"
+      }
+    ],
+    "cookingTips": [
+      "Choose thick fish fillets to prevent drying during cooking",
+      "Apply oyster sauce in final 2 minutes to prevent burning",
+      "Don't overcrowd the baking sheet to allow proper heat circulation"
+    ],
+    "coachingPrompt": "What type of fish are you using? Delicate white fish vs. firm fish affects cooking time."
+  },
+  "timestamp": "2026-02-06T13:56:47.925Z"
+}

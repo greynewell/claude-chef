@@ -1,0 +1,48 @@
+{
+  "contentHash": "3adffd7973fa98dd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "7 (1 ounce) squares bittersweet chocolate",
+        "searchTerm": "bittersweet chocolate",
+        "normalizedName": "Bittersweet Chocolate"
+      },
+      {
+        "ingredient": "½ cup heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "3 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 tablespoons brandy",
+        "searchTerm": "brandy",
+        "normalizedName": "Brandy"
+      }
+    ],
+    "gear": [
+      {
+        "name": "double boiler",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Chop chocolate finely for even melting",
+      "Heat cream until just steaming, not boiling",
+      "Stir ganache until glossy and smooth before using"
+    ],
+    "coachingPrompt": "Help the user achieve the perfect ganache consistency by guiding them on chocolate-to-cream ratios and temperature control."
+  },
+  "timestamp": "2026-02-06T03:08:01.746Z"
+}

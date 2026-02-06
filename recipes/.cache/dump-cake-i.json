@@ -1,0 +1,49 @@
+{
+  "contentHash": "f8a67fe5441e35b0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (21 ounce) can cherry pie filling",
+        "searchTerm": "cherry pie filling",
+        "normalizedName": "Cherry Pie Filling"
+      },
+      {
+        "ingredient": "1 (15 ounce) can crushed pineapple",
+        "searchTerm": "crushed pineapple",
+        "normalizedName": "Crushed Pineapple"
+      },
+      {
+        "ingredient": "1 (18.25 ounce) package yellow cake mix",
+        "searchTerm": "yellow cake mix",
+        "normalizedName": "Yellow Cake Mix"
+      },
+      {
+        "ingredient": "8 ounces chopped walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Dump all ingredients directly into the pan without mixing - the cake bakes from the bottom up",
+      "Don't drain the pineapple; the liquid helps create the cake structure",
+      "Bake at 350°F for 50-60 minutes until golden brown"
+    ],
+    "coachingPrompt": "This is a no-mix dump cake. Guide the user to layer ingredients without pre-mixing, emphasizing the simplicity and forgiving nature of the recipe."
+  },
+  "timestamp": "2026-02-06T05:25:06.898Z"
+}

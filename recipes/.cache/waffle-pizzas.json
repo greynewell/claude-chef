@@ -1,0 +1,48 @@
+{
+  "contentHash": "e424a998bcd63a5c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound pizza dough",
+        "searchTerm": "pizza dough",
+        "normalizedName": "Pizza Dough"
+      },
+      {
+        "ingredient": "½ cup pizza sauce, divided",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese, divided",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "16 slices pepperoni",
+        "searchTerm": "pepperoni",
+        "normalizedName": "Pepperoni"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Waffle Iron",
+        "searchTerm": "waffle iron"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Small Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Divide dough into 4 portions for easier handling in waffle iron",
+      "Distribute toppings evenly between dough layers to prevent leaking",
+      "Let waffle iron heat fully before cooking to crisp edges and cook cheese through"
+    ],
+    "coachingPrompt": "How do I prevent pizza filling from leaking out during waffle iron cooking?"
+  },
+  "timestamp": "2026-02-06T21:53:15.667Z"
+}

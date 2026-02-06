@@ -1,0 +1,73 @@
+{
+  "contentHash": "a37bcb2be4efa8ea",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (3 ounce) cans white tuna in water, drained",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Tuna"
+      },
+      {
+        "ingredient": "2 (1 ounce) slices Swiss cheese, diced",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 ½ teaspoons sweet pickle relish",
+        "searchTerm": "pickle relish",
+        "normalizedName": "Pickle Relish"
+      },
+      {
+        "ingredient": "¼ teaspoon dried minced onion",
+        "searchTerm": "dried onion",
+        "normalizedName": "Dried Onion"
+      },
+      {
+        "ingredient": "¼ teaspoon onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (8 ounce) package fresh white mushrooms, cleaned and stems removed",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "small spoon"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Remove mushroom stems gently to create a larger cavity for filling",
+      "Bake stuffed mushrooms at 375°F for 15-20 minutes until heated through",
+      "Pat mushroom caps dry before filling to prevent excess moisture"
+    ],
+    "coachingPrompt": "What temperature and time will prevent the mushrooms from becoming rubbery while ensuring the filling is hot?"
+  },
+  "timestamp": "2026-02-06T21:17:00.435Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "416773093218f73b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons prepared brown mustard",
+        "searchTerm": "brown mustard",
+        "normalizedName": "Brown Mustard"
+      },
+      {
+        "ingredient": "3 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 cups shredded mozzarella cheese",
+        "searchTerm": "mozzarella",
+        "normalizedName": "Mozzarella"
+      },
+      {
+        "ingredient": "2 cups broccoli florets",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "1 loaf focaccia bread, cut in half horizontally",
+        "searchTerm": "focaccia bread",
+        "normalizedName": "Focaccia Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "kitchen knife",
+        "searchTerm": "kitchen knife"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cook chicken thoroughly and slice into manageable pieces for easy sandwich eating",
+      "Steam or blanch broccoli briefly to retain crunch and reduce raw vegetable texture",
+      "Layer ingredients on focaccia and bake to melt cheese and warm filling without drying out chicken"
+    ],
+    "coachingPrompt": "This is an assembly-based sandwich that benefits from proper component preparation. How do you prefer to cook chicken breasts to keep them moist?"
+  },
+  "timestamp": "2026-02-06T06:49:37.398Z"
+}

@@ -1,0 +1,78 @@
+{
+  "contentHash": "a434164bce2001c4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "unsalted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Unsalted Butter"
+      },
+      {
+        "ingredient": "confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "large eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "large egg yolk",
+        "searchTerm": "egg yolk",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "freshly squeezed lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "freshly grated lemon zest",
+        "searchTerm": "lemon zest",
+        "normalizedName": "Lemon Zest"
+      }
+    ],
+    "gear": [
+      {
+        "name": "8x8 baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "mixing bowls",
+        "searchTerm": "mixing bowls"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "electric mixer"
+      }
+    ],
+    "cookingTips": [
+      "Make the crust first and bake until golden, then add the filling for best texture",
+      "Use freshly squeezed lemon juice and zest; bottled juice lacks the brightness these bars need",
+      "Let bars cool completely before cutting for clean edges"
+    ],
+    "coachingPrompt": "Explain the importance of a properly baked crust and how fresh lemon ensures bright, complex flavor in the filling."
+  },
+  "timestamp": "2026-02-06T02:05:54.518Z"
+}

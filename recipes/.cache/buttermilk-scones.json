@@ -1,0 +1,53 @@
+{
+  "contentHash": "64bb67244712f3a2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 tablespoons baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅓ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 ¼ cups buttermilk",
+        "searchTerm": "buttermilk",
+        "normalizedName": "Buttermilk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Biscuit Cutter",
+        "searchTerm": "2-inch biscuit cutter"
+      }
+    ],
+    "cookingTips": [
+      "Mix dry ingredients thoroughly; melted butter makes scones easier to handle than cold butter",
+      "Stir just until a soft dough forms; do not knead or overwork",
+      "Bake at 400°F for 12-15 minutes until golden brown on top"
+    ],
+    "coachingPrompt": "Help the baker achieve tender scones with minimal mixing and proper baking temperature."
+  },
+  "timestamp": "2026-02-06T01:02:27.726Z"
+}

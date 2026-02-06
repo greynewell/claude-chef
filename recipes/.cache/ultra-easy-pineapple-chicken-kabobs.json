@@ -1,0 +1,58 @@
+{
+  "contentHash": "647510b89dc62109",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "green bell pepper",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "chicken breast",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "pineapple chunks",
+        "searchTerm": "pineapple chunks",
+        "normalizedName": "Pineapple Chunk"
+      },
+      {
+        "ingredient": "barbecue sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "skewers",
+        "searchTerm": "skewers",
+        "normalizedName": "Skewer"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill or grill pan",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "brush for sauce",
+        "searchTerm": "basting brush"
+      }
+    ],
+    "cookingTips": [
+      "Soak wooden skewers in water for 30 minutes before grilling",
+      "Cut all ingredients to similar sizes for even cooking",
+      "Brush sauce on during the last few minutes to prevent burning"
+    ],
+    "coachingPrompt": "How can I ensure the chicken cooks through while keeping the vegetables crisp?"
+  },
+  "timestamp": "2026-02-06T21:28:38.624Z"
+}

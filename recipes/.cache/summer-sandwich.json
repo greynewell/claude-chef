@@ -1,0 +1,53 @@
+{
+  "contentHash": "129c08397f54fe03",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (1 pound) loaf ciabatta bread",
+        "searchTerm": "ciabatta bread",
+        "normalizedName": "Ciabatta Bread"
+      },
+      {
+        "ingredient": "¾ cup pesto",
+        "searchTerm": "pesto",
+        "normalizedName": "Pesto"
+      },
+      {
+        "ingredient": "8 ounces fontina cheese, sliced",
+        "searchTerm": "fontina cheese",
+        "normalizedName": "Fontina Cheese"
+      },
+      {
+        "ingredient": "2 ripe tomatoes, sliced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "4 leaves butter lettuce",
+        "searchTerm": "butter lettuce",
+        "normalizedName": "Butter Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Serrated knife",
+        "searchTerm": "serrated knife"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Bread knife",
+        "searchTerm": "bread knife"
+      }
+    ],
+    "cookingTips": [
+      "Slice bread horizontally and lightly toast cut sides to add texture and prevent sogginess",
+      "Apply pesto to both cut sides of bread to act as a moisture barrier",
+      "Layer cheese first to protect lettuce and tomato from moisture"
+    ],
+    "coachingPrompt": "This sandwich is simple but relies on quality ingredients and assembly technique. What's the role of each component?"
+  },
+  "timestamp": "2026-02-06T19:47:23.672Z"
+}

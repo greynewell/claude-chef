@@ -1,0 +1,58 @@
+{
+  "contentHash": "f1a982224571ad49",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (3 pound) beef chuck roast",
+        "searchTerm": "beef chuck roast",
+        "normalizedName": "Beef Chuck Roast"
+      },
+      {
+        "ingredient": "1 onion, quartered",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (10.5 ounce) can beef broth",
+        "searchTerm": "beef broth",
+        "normalizedName": "Beef Broth"
+      },
+      {
+        "ingredient": "1 (1 ounce) packet dry au jus mix",
+        "searchTerm": "au jus mix",
+        "normalizedName": "Au Jus Mix"
+      },
+      {
+        "ingredient": "1 (.7 ounce) package dry Italian salad dressing mix (such as Good Seasons®)",
+        "searchTerm": "italian dressing mix",
+        "normalizedName": "Italian Salad Dressing Mix"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Don't remove the lid during cooking; each lift adds 15-20 minutes to cook time",
+      "Shred beef with two forks when tender and use the pan juices as a sauce"
+    ],
+    "coachingPrompt": "What combination of seasonings creates the Italian flavor profile in this slow cooker dish?"
+  },
+  "timestamp": "2026-02-05T23:59:24.710Z"
+}

@@ -1,0 +1,52 @@
+{
+  "contentHash": "1be91169987bbbdc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 slice bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "1 teaspoon butter, or as needed",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 fresh peach, sliced",
+        "searchTerm": "fresh peach",
+        "normalizedName": "Peach"
+      },
+      {
+        "ingredient": "1 tablespoon mascarpone cheese",
+        "searchTerm": "mascarpone cheese",
+        "normalizedName": "Mascarpone Cheese"
+      },
+      {
+        "ingredient": "1 teaspoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill or grill pan",
+        "searchTerm": "grill or skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "serving plate",
+        "searchTerm": "serving plate"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread lightly on grill for texture contrast with creamy toppings",
+      "Grill peach slices briefly until caramelized and soft"
+    ],
+    "coachingPrompt": "Guide me through making an elegant grilled peach toast with creamy mascarpone"
+  },
+  "timestamp": "2026-02-06T08:21:08.934Z"
+}

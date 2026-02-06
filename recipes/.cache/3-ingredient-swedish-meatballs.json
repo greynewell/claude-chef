@@ -1,0 +1,43 @@
+{
+  "contentHash": "a5da87f84692d11f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package frozen meatballs",
+        "searchTerm": "frozen meatballs",
+        "normalizedName": "Meatball"
+      },
+      {
+        "ingredient": "1 (10.5 ounce) can condensed beef and mushroom soup",
+        "searchTerm": "beef mushroom soup",
+        "normalizedName": "Beef Mushroom Soup"
+      },
+      {
+        "ingredient": "½ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Stirring Spoon",
+        "searchTerm": "cooking spoon"
+      },
+      {
+        "name": "Serving Dish",
+        "searchTerm": "serving platter"
+      }
+    ],
+    "cookingTips": [
+      "Add sour cream at the end to prevent curdling, stirring gently to combine",
+      "Heat on low for 2-3 hours to keep meatballs tender and warm",
+      "Serve over egg noodles or mashed potatoes for a complete meal"
+    ],
+    "coachingPrompt": "Show me how to prepare easy slow cooker Swedish meatballs with a creamy sauce"
+  },
+  "timestamp": "2026-02-05T21:27:20.946Z"
+}

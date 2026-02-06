@@ -1,0 +1,43 @@
+{
+  "contentHash": "8d5a4fa3409fa088",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) can sliced carrots",
+        "searchTerm": "canned carrots",
+        "normalizedName": "Canned Carrot"
+      },
+      {
+        "ingredient": "⅔ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons orange marmalade",
+        "searchTerm": "orange marmalade",
+        "normalizedName": "Orange Marmalade"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "stirring spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Drain carrots thoroughly to prevent a watery glaze",
+      "Stir frequently to prevent the glaze from burning on the bottom"
+    ],
+    "coachingPrompt": "Help the cook achieve a glossy, caramelized glaze without scorching the brown sugar."
+  },
+  "timestamp": "2026-02-06T05:46:00.706Z"
+}

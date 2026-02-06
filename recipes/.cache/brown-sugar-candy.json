@@ -1,0 +1,53 @@
+{
+  "contentHash": "8f2fd631f9d6635c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "¾ cup evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "½ cup chopped walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Candy Thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Use a candy thermometer to reach the exact soft-ball stage (236°F) for proper texture",
+      "Stir constantly to prevent burning and ensure even cooking",
+      "Beat the mixture vigorously after cooling to the proper temperature to create texture; it will thicken as it cools"
+    ],
+    "coachingPrompt": "Guide the cook on using a candy thermometer and the beating technique for achieving the right candy texture."
+  },
+  "timestamp": "2026-02-06T00:48:57.936Z"
+}

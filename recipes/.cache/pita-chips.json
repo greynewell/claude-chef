@@ -1,0 +1,58 @@
+{
+  "contentHash": "16dcd959a63b494c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 pita bread pockets",
+        "searchTerm": "pita bread",
+        "normalizedName": "Pita Bread"
+      },
+      {
+        "ingredient": "½ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "½ teaspoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "1 teaspoon dried chervil",
+        "searchTerm": "dried chervil",
+        "normalizedName": "Dried Chervil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Small Bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Pastry Brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Brush pita lightly with oil mixture to avoid soggy chips",
+      "Cut pita into uniform triangles for even baking",
+      "Bake at 350°F for 10-15 minutes until golden and crispy"
+    ],
+    "coachingPrompt": "Help the user achieve crispy pita chips with proper oil-to-seasoning ratio and baking technique."
+  },
+  "timestamp": "2026-02-06T14:52:12.377Z"
+}

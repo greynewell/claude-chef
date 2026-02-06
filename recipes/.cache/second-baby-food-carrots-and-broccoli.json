@@ -1,0 +1,47 @@
+{
+  "contentHash": "fa8778a8e25facb8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups chopped carrots",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 cups broccoli florets",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "½ cup breast milk",
+        "searchTerm": "breast milk",
+        "normalizedName": "Breast Milk"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "steamer basket or pot",
+        "searchTerm": "steamer"
+      },
+      {
+        "name": "food processor or blender",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "ice cube tray for storage",
+        "searchTerm": "ice cube tray"
+      }
+    ],
+    "cookingTips": [
+      "Steam vegetables until very soft so they puree smoothly",
+      "Strain the puree through a fine mesh for younger babies who need smoother texture"
+    ],
+    "coachingPrompt": "How do I know when these vegetables are soft enough to puree for my baby?"
+  },
+  "timestamp": "2026-02-06T17:18:57.582Z"
+}

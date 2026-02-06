@@ -1,0 +1,39 @@
+{
+  "contentHash": "1b3e5ecc67c0dca5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package frozen French-cut green beans",
+        "searchTerm": "frozen green beans",
+        "normalizedName": "Frozen Green Bean"
+      },
+      {
+        "ingredient": "⅓ cup almonds",
+        "searchTerm": "almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "¼ cup tamari",
+        "searchTerm": "tamari",
+        "normalizedName": "Tamari"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Toast the almonds lightly in a dry pan before adding beans for enhanced flavor",
+      "Keep the heat moderate to prevent the tamari from burning",
+      "Add almonds near the end of cooking to maintain their crunch"
+    ],
+    "coachingPrompt": "How would you adjust the saltiness if you used regular soy sauce instead of tamari?"
+  },
+  "timestamp": "2026-02-06T17:54:58.118Z"
+}

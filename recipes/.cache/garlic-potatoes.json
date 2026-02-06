@@ -1,0 +1,52 @@
+{
+  "contentHash": "1474b1523d07fff2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds red potatoes, cut into large chunks",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "1 clove garlic, halved lengthwise",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Potato Masher",
+        "searchTerm": "potato masher"
+      }
+    ],
+    "cookingTips": [
+      "Add garlic halves to the boiling water with potatoes for subtle flavor",
+      "Boil potatoes until very tender before mashing with milk"
+    ],
+    "coachingPrompt": "How can you extract maximum garlic flavor while keeping it subtle in mashed potatoes?"
+  },
+  "timestamp": "2026-02-06T07:20:02.618Z"
+}

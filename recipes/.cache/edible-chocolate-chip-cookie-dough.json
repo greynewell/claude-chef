@@ -1,0 +1,78 @@
+{
+  "contentHash": "fa4fef6848d54945",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 ¼ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¾ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 cup chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Chocolate Chip"
+      },
+      {
+        "ingredient": "½ cup chopped walnuts (Optional)",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Use heat-treated flour to eliminate food safety concerns from raw flour",
+      "Ensure butter is fully softened for proper creaming with sugars",
+      "Omit baking soda and baking powder since dough is eaten raw, not baked"
+    ],
+    "coachingPrompt": "Guide the user through preparing safe-to-eat cookie dough using heat-treated flour and proper ingredient handling."
+  },
+  "timestamp": "2026-02-06T06:08:16.621Z"
+}

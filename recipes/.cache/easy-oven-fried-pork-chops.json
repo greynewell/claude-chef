@@ -1,0 +1,67 @@
+{
+  "contentHash": "fd4807e37cb176a5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "3 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 medium egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 tablespoon water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 pinch ground ginger",
+        "searchTerm": "ground ginger",
+        "normalizedName": "Ground Ginger"
+      },
+      {
+        "ingredient": "1 cup bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "4 pork chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "shallow bowl",
+        "searchTerm": "shallow bowl"
+      },
+      {
+        "name": "meat mallet",
+        "searchTerm": "meat mallet"
+      }
+    ],
+    "cookingTips": [
+      "Pat pork chops dry before coating for better crust",
+      "Don't flip chops too early; wait until they're golden brown on one side"
+    ],
+    "coachingPrompt": "Guide the user through setting up a three-stage breading station: soy sauce mixture, then egg, then bread crumbs."
+  },
+  "timestamp": "2026-02-06T05:54:15.932Z"
+}

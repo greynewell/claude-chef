@@ -1,0 +1,53 @@
+{
+  "contentHash": "8735ce8392d3f0f5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 acorn squash",
+        "searchTerm": "acorn squash",
+        "normalizedName": "Acorn Squash"
+      },
+      {
+        "ingredient": "1 can low-sodium chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 large onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 apples",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "saucepot"
+      },
+      {
+        "name": "immersion blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "cutting board and knife",
+        "searchTerm": "cutting tools"
+      }
+    ],
+    "cookingTips": [
+      "Roast squash halves face-down until very soft for easy scooping",
+      "Blend soup until smooth for elegant presentation",
+      "Add more broth if you prefer thinner consistency"
+    ],
+    "coachingPrompt": "Guide the user through making a silky, elegant soup that balances sweet squash and apples with savory broth."
+  },
+  "timestamp": "2026-02-05T22:16:31.410Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "d50d267dd80d3d23",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (10 ounce) cans condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "2 (5 ounce) cans tuna, drained and flaked",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Tuna"
+      },
+      {
+        "ingredient": "7 ounces crushed potato chips",
+        "searchTerm": "potato chips",
+        "normalizedName": "Potato Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Crush potato chips in a food processor for consistent texture, or by hand for varied sizes",
+      "Mix soup and tuna gently to maintain flake structure and avoid breaking down the fish",
+      "Reserve a handful of crushed chips to sprinkle on top just before baking for added crunch"
+    ],
+    "coachingPrompt": "What simple additions would you suggest to elevate this three-ingredient casserole?"
+  },
+  "timestamp": "2026-02-06T21:12:46.539Z"
+}

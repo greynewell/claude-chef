@@ -1,0 +1,63 @@
+{
+  "contentHash": "51c3018e8d01b065",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 (15 ounce) cans tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (16 ounce) package uncooked elbow macaroni",
+        "searchTerm": "elbow macaroni",
+        "normalizedName": "Elbow Macaroni"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly and drain excess fat before adding tomato sauce",
+      "Cook pasta to al dente separately, then combine to avoid mushiness",
+      "Stir in cheese off heat to prevent it from becoming grainy or separating"
+    ],
+    "coachingPrompt": "Explain why cooking components separately and combining at the end creates better texture, and the technique for incorporating cheese without scorching."
+  },
+  "timestamp": "2026-02-05T23:47:25.790Z"
+}

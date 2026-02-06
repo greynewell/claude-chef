@@ -1,0 +1,63 @@
+{
+  "contentHash": "f8dfb6f39d220663",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 tablespoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "2 teaspoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon cream of tartar",
+        "searchTerm": "cream of tartar",
+        "normalizedName": "Cream Of Tartar"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ cup melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Mix dry ingredients thoroughly before adding wet ingredients",
+      "Drop dough by spoonfuls onto baking sheet—do not overwork the dough",
+      "Bake at 400°F until lightly golden, about 12-15 minutes"
+    ],
+    "coachingPrompt": "Do you prefer fluffy biscuits or more compact, dense ones?"
+  },
+  "timestamp": "2026-02-06T05:26:01.787Z"
+}

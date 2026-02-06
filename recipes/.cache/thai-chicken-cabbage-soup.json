@@ -1,0 +1,63 @@
+{
+  "contentHash": "ee22b5993f21c151",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "8 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "2 leeks, sliced",
+        "searchTerm": "leeks",
+        "normalizedName": "Leek"
+      },
+      {
+        "ingredient": "6 carrots, cut into 1 inch pieces",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 medium head cabbage, shredded",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "1 (8 ounce) package uncooked egg noodles",
+        "searchTerm": "egg noodles",
+        "normalizedName": "Egg Noodle"
+      },
+      {
+        "ingredient": "1 teaspoon Thai chile sauce",
+        "searchTerm": "Thai chile sauce",
+        "normalizedName": "Thai Chile Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Simmer chicken gently so it stays tender; remove and shred it before returning to the pot",
+      "Add noodles toward the end of cooking so they don't become mushy",
+      "Clean leeks thoroughly by slicing lengthwise and rinsing between layers to remove sand"
+    ],
+    "coachingPrompt": "Encourage the user to taste the broth and adjust the Thai chile sauce gradually to reach their preferred heat level."
+  },
+  "timestamp": "2026-02-06T20:30:54.666Z"
+}

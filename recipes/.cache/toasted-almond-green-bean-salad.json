@@ -1,0 +1,48 @@
+{
+  "contentHash": "19524ecb20870a7b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds fresh green beans, trimmed",
+        "searchTerm": "green beans",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "½ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 tablespoons balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "½ cup sliced almonds",
+        "searchTerm": "sliced almonds",
+        "normalizedName": "Sliced Almond"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Serving Bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Toast almonds separately until fragrant, then add to beans to prevent burning",
+      "Cook beans until tender-crisp to maintain color and slight crunch",
+      "Dress salad while warm so flavors meld together"
+    ],
+    "coachingPrompt": "Do you prefer your green beans crisp or more tender? Should we discuss cooking time variations?"
+  },
+  "timestamp": "2026-02-06T20:51:17.456Z"
+}

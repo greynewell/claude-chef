@@ -1,0 +1,48 @@
+{
+  "contentHash": "5a01afbc4ad8380f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups shredded cooked or leftover beef",
+        "searchTerm": "cooked beef",
+        "normalizedName": "Cooked Beef"
+      },
+      {
+        "ingredient": "1 cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "2 cups barbecue sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "4 hamburger buns",
+        "searchTerm": "hamburger buns",
+        "normalizedName": "Hamburger Bun"
+      },
+      {
+        "ingredient": "½ cup sliced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Shred the beef into small pieces to help it absorb the sauce",
+      "Heat the sauce gently to avoid scorching the bottom of the pan"
+    ],
+    "coachingPrompt": "This is a simple weeknight sandwich using leftover beef. Do you want to make it spicier, smokier, or sweeter by adjusting the sauce ratio?"
+  },
+  "timestamp": "2026-02-06T19:27:25.610Z"
+}

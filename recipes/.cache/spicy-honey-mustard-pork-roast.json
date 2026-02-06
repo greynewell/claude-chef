@@ -1,0 +1,58 @@
+{
+  "contentHash": "a0d163e2059454d4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds pork roast",
+        "searchTerm": "pork roast",
+        "normalizedName": "Pork Roast"
+      },
+      {
+        "ingredient": "¼ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "2 tablespoons Dijon mustard",
+        "searchTerm": "dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "2 tablespoons black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ teaspoon dried thyme, crushed",
+        "searchTerm": "dried thyme",
+        "normalizedName": "Dried Thyme"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Roasting Pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Small Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Let pork reach room temperature before roasting for even cooking",
+      "Brush glaze on during last 15 minutes to prevent burning",
+      "Rest roast 10 minutes after cooking before slicing"
+    ],
+    "coachingPrompt": "How do you prevent the honey-mustard glaze from burning while ensuring the pork is fully cooked?"
+  },
+  "timestamp": "2026-02-06T19:02:12.221Z"
+}

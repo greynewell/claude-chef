@@ -1,0 +1,39 @@
+{
+  "contentHash": "0ab52ce721997314",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ear corn on the cob, unhusked",
+        "searchTerm": "corn on the cob",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "1 teaspoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Paper towels",
+        "searchTerm": "paper towels"
+      },
+      {
+        "name": "Microwave or pot",
+        "searchTerm": "microwave"
+      }
+    ],
+    "cookingTips": [
+      "Microwaving corn in the husk makes shucking easier as steam loosens the silk",
+      "Let corn cool slightly before handling to avoid burns",
+      "Pull silk away from the tip end for cleanest removal"
+    ],
+    "coachingPrompt": "This method uses heat to make shucking easier. Are you familiar with the microwave trick for corn, or would you like guidance on the best technique?"
+  },
+  "timestamp": "2026-02-06T03:52:43.844Z"
+}

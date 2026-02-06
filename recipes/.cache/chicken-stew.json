@@ -1,0 +1,77 @@
+{
+  "contentHash": "fee85e97e0075a90",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 pound chicken tenders",
+        "searchTerm": "chicken tenders",
+        "normalizedName": "Chicken Tender"
+      },
+      {
+        "ingredient": "3 carrots, cut into chunks",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 stalks celery, cut into chunks",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "2 potatoes, diced",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 sweet potato, diced",
+        "searchTerm": "sweet potato",
+        "normalizedName": "Sweet Potato"
+      },
+      {
+        "ingredient": "1 (15 ounce) can peas",
+        "searchTerm": "canned peas",
+        "normalizedName": "Pea"
+      },
+      {
+        "ingredient": "1 (8 ounce) can tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "2 bay leaves",
+        "searchTerm": "bay leaves",
+        "normalizedName": "Bay Leaf"
+      },
+      {
+        "ingredient": "1 cup cooked rice",
+        "searchTerm": "cooked rice",
+        "normalizedName": "Rice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cut vegetables into uniform chunks so they cook evenly",
+      "Add rice at the end or serve on the side to prevent it from becoming mushy"
+    ],
+    "coachingPrompt": "Help the user build a hearty, well-balanced stew with proper vegetable timing and texture."
+  },
+  "timestamp": "2026-02-06T02:43:10.409Z"
+}

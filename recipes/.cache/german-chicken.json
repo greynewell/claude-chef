@@ -1,0 +1,38 @@
+{
+  "contentHash": "5590940dfa0feac3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 cup barbecue sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "22 ounces sauerkraut",
+        "searchTerm": "sauerkraut",
+        "normalizedName": "Sauerkraut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Layer sauerkraut on bottom of dish before adding chicken for even cooking",
+      "Cover with foil to prevent drying out during baking"
+    ],
+    "coachingPrompt": "How would you adapt this recipe to use chicken thighs for more moisture?"
+  },
+  "timestamp": "2026-02-06T07:24:52.179Z"
+}

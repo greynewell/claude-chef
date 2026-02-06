@@ -1,0 +1,48 @@
+{
+  "contentHash": "5e6f8481b0e6990e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "10 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 (2 ounce) cans anchovy fillets, drained",
+        "searchTerm": "anchovy fillets",
+        "normalizedName": "Anchovy Fillet"
+      },
+      {
+        "ingredient": "1 pint heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Small Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Fondue Pot",
+        "searchTerm": "fondue pot"
+      },
+      {
+        "name": "Serving Spoon",
+        "searchTerm": "serving spoon"
+      }
+    ],
+    "cookingTips": [
+      "Melt butter over low heat and cook garlic slowly to avoid browning",
+      "Break anchovies into small pieces and stir into butter until completely dissolved",
+      "Warm cream separately and add at the end; serve warm as a dipping sauce"
+    ],
+    "coachingPrompt": "Help the cook understand how anchovies dissolve into the sauce to create umami depth without being identifiable."
+  },
+  "timestamp": "2026-02-05T22:55:35.482Z"
+}

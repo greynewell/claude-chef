@@ -1,0 +1,63 @@
+{
+  "contentHash": "aa00bbcd50e7671d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 large cucumbers, peeled and sliced",
+        "searchTerm": "cucumbers",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "2 large carrots, shredded",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 large yellow bell pepper, seeded and cut into strips",
+        "searchTerm": "yellow bell pepper",
+        "normalizedName": "Yellow Bell Pepper"
+      },
+      {
+        "ingredient": "1 large red bell pepper, seeded and cut into strips",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "¼ red onion, minced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "2 teaspoons lemon zest",
+        "searchTerm": "lemon zest",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "1 large lemon, juiced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "vegetable peeler",
+        "searchTerm": "vegetable peeler"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Seed cucumbers to reduce excess moisture",
+      "Prepare vegetables just before serving to maintain crispness",
+      "Use microplane for fine lemon zest"
+    ],
+    "coachingPrompt": "How can you keep this salad crisp and prevent vegetables from becoming watery?"
+  },
+  "timestamp": "2026-02-06T06:56:41.131Z"
+}

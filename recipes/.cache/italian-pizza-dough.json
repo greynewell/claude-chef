@@ -1,0 +1,63 @@
+{
+  "contentHash": "03c26fe9727c905d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ teaspoons active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "½ teaspoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup lukewarm water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 cups sifted all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Stand Mixer",
+        "searchTerm": "stand mixer"
+      },
+      {
+        "name": "Rolling Pin",
+        "searchTerm": "rolling pin"
+      }
+    ],
+    "cookingTips": [
+      "Sift flour before measuring to avoid over-packing and ensure proper dough hydration",
+      "Let dough rise at room temperature for 1-2 hours until doubled in size",
+      "The beaten egg creates a nice crust when brushed on top before baking"
+    ],
+    "coachingPrompt": "What's the best way to knead this pizza dough by hand if I don't have a stand mixer?"
+  },
+  "timestamp": "2026-02-06T10:09:30.463Z"
+}

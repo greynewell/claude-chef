@@ -1,0 +1,53 @@
+{
+  "contentHash": "a76925c7689cbfe7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "4 (4 ounce) fillets salmon",
+        "searchTerm": "salmon fillets",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "4 ounces Brie cheese, sliced",
+        "searchTerm": "Brie cheese",
+        "normalizedName": "Brie Cheese"
+      },
+      {
+        "ingredient": "1 teaspoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 mangos - peeled, seeded, and diced",
+        "searchTerm": "mango",
+        "normalizedName": "Mango"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Add Brie slices to salmon toward the end of cooking so cheese melts without separating",
+      "Dice mango just before cooking to prevent oxidation and maintain bright color",
+      "Sear salmon skin-side up first, then flip to top with Brie for even melting"
+    ],
+    "coachingPrompt": "Guide the cook to layer creamy Brie with fresh mango to create an elegant sweet-savory salmon preparation."
+  },
+  "timestamp": "2026-02-06T16:49:30.625Z"
+}

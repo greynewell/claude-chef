@@ -1,0 +1,67 @@
+{
+  "contentHash": "4dd7c5c4d3983ba0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound bacon, diced",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 package frozen bite-size potato nuggets",
+        "searchTerm": "tater tots",
+        "normalizedName": "Tater Tot"
+      },
+      {
+        "ingredient": "12 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then drain on paper towels",
+      "Whisk eggs with milk and seasonings thoroughly for even texture",
+      "Bake at 350°F for 45-50 minutes until center is set"
+    ],
+    "coachingPrompt": "How can you tell when a breakfast casserole is fully cooked without overcooking the eggs?"
+  },
+  "timestamp": "2026-02-06T20:21:31.198Z"
+}

@@ -1,0 +1,88 @@
+{
+  "contentHash": "0c87d09a115c89fc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 small onion, finely chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 ½ pounds fresh mushrooms, sliced",
+        "searchTerm": "mushroom",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "4 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "½ cup sherry",
+        "searchTerm": "sherry",
+        "normalizedName": "Sherry"
+      },
+      {
+        "ingredient": "1 ½ teaspoons dried thyme",
+        "searchTerm": "dried thyme",
+        "normalizedName": "Dried Thyme"
+      },
+      {
+        "ingredient": "1 teaspoon Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon salt, or more to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper, or more to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 cup heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Instant Pot",
+        "searchTerm": "instant pot"
+      },
+      {
+        "name": "Immersion Blender",
+        "searchTerm": "immersion blender"
+      },
+      {
+        "name": "Chef's Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Sauté mushrooms in butter first to develop deep umami flavors",
+      "Sherry adds richness - do not skip this ingredient",
+      "For chunky soup, partially blend; for smooth, blend completely"
+    ],
+    "coachingPrompt": "Guide the user through selecting quality mushrooms and explain how sautéing builds flavor depth before pressure cooking."
+  },
+  "timestamp": "2026-02-06T09:49:33.380Z"
+}

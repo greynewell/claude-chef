@@ -1,0 +1,48 @@
+{
+  "contentHash": "ed831c2e88c0b96e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 large head cabbage",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "1 ½ teaspoons garlic powder, or to taste",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Grilling fork or tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cut cabbage into thick wedges to prevent pieces from falling through grill grates",
+      "Grill over medium heat to allow the interior to soften while exterior chars slightly",
+      "Season just before grilling to prevent salt from drawing out moisture"
+    ],
+    "coachingPrompt": "What's your grill temperature experience? I can help you achieve the perfect char without burning."
+  },
+  "timestamp": "2026-02-06T01:07:24.075Z"
+}

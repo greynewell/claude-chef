@@ -1,0 +1,48 @@
+{
+  "contentHash": "505c95b593ccb461",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (4 pound) corned beef brisket, seasoning packet discarded",
+        "searchTerm": "corned beef brisket",
+        "normalizedName": "Corned Beef Brisket"
+      },
+      {
+        "ingredient": "1 ½ teaspoons garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 ½ teaspoons onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      },
+      {
+        "ingredient": "1 (12 ounce) bottle beer",
+        "searchTerm": "beer",
+        "normalizedName": "Beer"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pressure Cooker",
+        "searchTerm": "pressure cooker"
+      },
+      {
+        "name": "Meat Knife",
+        "searchTerm": "carving knife"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Discard the included seasoning packet and use fresh spices for better flavor control",
+      "Beer adds subtle sweetness and helps break down tough fibers in the brisket",
+      "Slice against the grain for maximum tenderness"
+    ],
+    "coachingPrompt": "Explain how beer's acidity tenderizes corned beef and why slicing against the grain is crucial for the best texture."
+  },
+  "timestamp": "2026-02-06T15:18:53.458Z"
+}

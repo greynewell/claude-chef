@@ -1,0 +1,58 @@
+{
+  "contentHash": "719a501a91c99144",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "flat-cut corned beef brisket",
+        "searchTerm": "corned beef brisket",
+        "normalizedName": "Corned Beef Brisket"
+      },
+      {
+        "ingredient": "browning sauce",
+        "searchTerm": "browning sauce",
+        "normalizedName": "Browning Sauce"
+      },
+      {
+        "ingredient": "vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Dutch oven or heavy pot",
+        "searchTerm": "Dutch oven"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Sear the brisket to develop color and crust",
+      "Low, slow braising breaks down tough meat fibers",
+      "Check internal temperature (190-205°F) for proper doneness"
+    ],
+    "coachingPrompt": "What liquid do you prefer for braising corned beef, and why?"
+  },
+  "timestamp": "2026-02-06T00:33:03.008Z"
+}

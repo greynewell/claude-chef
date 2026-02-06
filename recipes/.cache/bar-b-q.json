@@ -1,0 +1,57 @@
+{
+  "contentHash": "2bcedbb807ed6208",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed tomato soup",
+        "searchTerm": "tomato soup",
+        "normalizedName": "Tomato Soup"
+      },
+      {
+        "ingredient": "1 (10.5 ounce) can condensed French onion soup",
+        "searchTerm": "French onion soup",
+        "normalizedName": "French Onion Soup"
+      },
+      {
+        "ingredient": "½ cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "½ cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "10 hamburger buns",
+        "searchTerm": "hamburger buns",
+        "normalizedName": "Hamburger Bun"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      }
+    ],
+    "cookingTips": [
+      "Break the ground beef into small pieces as it browns for better sauce integration",
+      "Simmer the mixture for at least 15-20 minutes to allow flavors to blend"
+    ],
+    "coachingPrompt": "Guide the cook through browning the meat evenly and creating a flavorful, saucy filling."
+  },
+  "timestamp": "2026-02-05T23:28:38.260Z"
+}

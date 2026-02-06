@@ -1,0 +1,53 @@
+{
+  "contentHash": "4034ddce388ef955",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "½ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 dash liquid smoke flavoring",
+        "searchTerm": "liquid smoke",
+        "normalizedName": "Liquid Smoke"
+      },
+      {
+        "ingredient": "½ cup apple cider vinegar",
+        "searchTerm": "apple cider vinegar",
+        "normalizedName": "Apple Cider Vinegar"
+      },
+      {
+        "ingredient": "1 (4 pound) whole salmon fillet",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Brush for sauce",
+        "searchTerm": "pastry brush"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Brush glaze on salmon multiple times during cooking for caramelized layers",
+      "Bake at 350°F for 25-30 minutes, basting every 10 minutes",
+      "Fish is done when it flakes easily and reaches 145°F internal temperature"
+    ],
+    "coachingPrompt": "Teach the user how to build flavor through repeated basting and explain the balance between sweet and tangy in the glaze."
+  },
+  "timestamp": "2026-02-05T21:49:27.924Z"
+}

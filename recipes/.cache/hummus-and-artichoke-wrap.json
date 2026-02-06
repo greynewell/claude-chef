@@ -1,0 +1,54 @@
+{
+  "contentHash": "b6dd13493b667750",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons hummus",
+        "searchTerm": "hummus",
+        "normalizedName": "Hummus"
+      },
+      {
+        "ingredient": "1 large whole-wheat sandwich wrap",
+        "searchTerm": "whole wheat wrap",
+        "normalizedName": "Whole Wheat Wrap"
+      },
+      {
+        "ingredient": "3 marinated artichoke hearts, cut into small pieces",
+        "searchTerm": "marinated artichoke hearts",
+        "normalizedName": "Marinated Artichoke Heart"
+      },
+      {
+        "ingredient": "¼ cup shredded fat-free mozzarella cheese",
+        "searchTerm": "fat-free mozzarella",
+        "normalizedName": "Fat-Free Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 roasted red bell pepper, cut into small pieces",
+        "searchTerm": "roasted red bell pepper",
+        "normalizedName": "Roasted Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 cup fresh spinach leaves",
+        "searchTerm": "fresh spinach",
+        "normalizedName": "Fresh Spinach"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Warm the wrap slightly to make it more pliable for rolling",
+      "Layer ingredients strategically to prevent the wrap from tearing",
+      "Cut artichoke hearts into even pieces for consistent distribution"
+    ],
+    "coachingPrompt": "What are the key techniques for assembling a wrap that holds together and doesn't fall apart?"
+  },
+  "timestamp": "2026-02-06T09:35:18.080Z"
+}

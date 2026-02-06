@@ -1,0 +1,73 @@
+{
+  "contentHash": "0982d1be7eca7fe2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "cornmeal",
+        "searchTerm": "cornmeal",
+        "normalizedName": "Cornmeal"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "buttermilk",
+        "searchTerm": "buttermilk",
+        "normalizedName": "Buttermilk"
+      },
+      {
+        "ingredient": "large eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "griddle",
+        "searchTerm": "griddle"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Cool melted butter before mixing to prevent cooking eggs",
+      "Batter will be thicker than traditional pancake batter due to cornmeal",
+      "Use medium-low heat to prevent burning exterior while cooking interior"
+    ],
+    "coachingPrompt": "What toppings would complement the cornmeal flavor in these pancakes?"
+  },
+  "timestamp": "2026-02-06T03:53:30.139Z"
+}

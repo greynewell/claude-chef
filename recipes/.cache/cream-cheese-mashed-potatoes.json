@@ -1,0 +1,63 @@
+{
+  "contentHash": "f88efb66ae48f967",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "9 large potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup minced green onions",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "salt and ground black pepper, to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper, to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "potato masher",
+        "searchTerm": "potato masher"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "electric mixer"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes evenly so they cook at the same rate",
+      "Add cream cheese and sour cream while potatoes are still hot for better incorporation",
+      "Do not overmix to avoid gluey, dense potatoes"
+    ],
+    "coachingPrompt": "Help me prepare creamy, luxurious mashed potatoes with cream cheese and fresh green onions."
+  },
+  "timestamp": "2026-02-06T04:15:10.451Z"
+}

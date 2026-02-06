@@ -1,0 +1,73 @@
+{
+  "contentHash": "c02728ddc505ac4a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "olive oil cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 (16 ounce) package ziti pasta",
+        "searchTerm": "ziti pasta",
+        "normalizedName": "Ziti Pasta"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ (8 ounce) package fresh spinach, chopped",
+        "searchTerm": "fresh spinach",
+        "normalizedName": "Fresh Spinach"
+      },
+      {
+        "ingredient": "1 (4 ounce) package fresh mushrooms, sliced",
+        "searchTerm": "fresh mushrooms",
+        "normalizedName": "Fresh Mushroom"
+      },
+      {
+        "ingredient": "1 (15 ounce) container part-skim ricotta cheese",
+        "searchTerm": "ricotta cheese",
+        "normalizedName": "Ricotta Cheese"
+      },
+      {
+        "ingredient": "1 (8 ounce) package crumbled goat cheese",
+        "searchTerm": "goat cheese",
+        "normalizedName": "Goat Cheese"
+      },
+      {
+        "ingredient": "½ (8 ounce) package shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 (14 ounce) jar spaghetti sauce",
+        "searchTerm": "spaghetti sauce",
+        "normalizedName": "Spaghetti Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Large Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta until just al dente since it will continue cooking in the oven",
+      "Sauté mushrooms and spinach until any liquid released is evaporated to prevent watery baked ziti",
+      "Mix the three cheeses together for even distribution throughout the dish"
+    ],
+    "coachingPrompt": "Guide the cook through the layering technique and explain how the combination of ricotta, goat, and mozzarella creates different textures."
+  },
+  "timestamp": "2026-02-06T05:09:09.434Z"
+}

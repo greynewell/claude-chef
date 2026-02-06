@@ -1,0 +1,52 @@
+{
+  "contentHash": "5495c015e0ef935c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 ½ cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "1 ½ cups warm water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 teaspoon fine salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon quick-rise yeast",
+        "searchTerm": "instant yeast",
+        "normalizedName": "Quick-Rise Yeast"
+      },
+      {
+        "ingredient": "2 tablespoons bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Low yeast amount creates slow fermentation suitable for overnight cooking",
+      "Check internal temperature reaches 210°F for proper doneness"
+    ],
+    "coachingPrompt": "How does slow cooking affect yeast fermentation compared to traditional oven baking?"
+  },
+  "timestamp": "2026-02-06T13:55:51.974Z"
+}

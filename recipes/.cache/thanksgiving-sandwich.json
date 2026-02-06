@@ -1,0 +1,48 @@
+{
+  "contentHash": "cf31e9c35de3f4fd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 slices ham",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "2 thick slices leftover roast turkey",
+        "searchTerm": "roast turkey",
+        "normalizedName": "Turkey"
+      },
+      {
+        "ingredient": "½ cup mashed potatoes",
+        "searchTerm": "mashed potatoes",
+        "normalizedName": "Mashed Potato"
+      },
+      {
+        "ingredient": "4 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "serrated knife",
+        "searchTerm": "serrated knife"
+      },
+      {
+        "name": "plate",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Layer proteins strategically for balanced flavors in each bite",
+      "Use mashed potatoes as a binder to keep the sandwich intact",
+      "Toast bread lightly for structural support"
+    ],
+    "coachingPrompt": "What ingredients might transform this simple sandwich into something more exciting?"
+  },
+  "timestamp": "2026-02-06T20:36:40.915Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "ee7f3b6735348b6a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 tablespoons cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "3 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "microwave-safe mug",
+        "searchTerm": "mug"
+      },
+      {
+        "name": "microwave",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Mix all dry ingredients in mug first, then add wet ingredients for even distribution",
+      "Microwave in 30-second intervals - watch closely as cooking time varies by microwave wattage"
+    ],
+    "coachingPrompt": "Help the user create a quick single-serve dessert with minimal cleanup"
+  },
+  "timestamp": "2026-02-06T00:50:44.592Z"
+}

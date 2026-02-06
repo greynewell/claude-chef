@@ -1,0 +1,67 @@
+{
+  "contentHash": "9de7cb050def8606",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (49.5 fluid ounce) can chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 bunch chopped green onions",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "¼ teaspoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "3 tablespoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "⅓ cup cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "small mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Bring broth to gentle boil before adding egg mixture",
+      "Drizzle beaten eggs slowly while stirring for delicate wisps"
+    ],
+    "coachingPrompt": "Help the user achieve silky egg ribbons and proper broth consistency using cornstarch slurry."
+  },
+  "timestamp": "2026-02-06T05:43:24.511Z"
+}

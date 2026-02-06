@@ -1,0 +1,38 @@
+{
+  "contentHash": "369f42cbdf1af79f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (9 inch) wheel Brie cheese",
+        "searchTerm": "Brie cheese",
+        "normalizedName": "Brie Cheese"
+      },
+      {
+        "ingredient": "5 cloves garlic, crushed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 ½ tablespoons red pepper jelly, divided",
+        "searchTerm": "red pepper jelly",
+        "normalizedName": "Red Pepper Jelly"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Watch the cheese carefully as it bakes; it should be soft and gooey but not leaking",
+      "Let it cool for a minute or two before serving to prevent burning"
+    ],
+    "coachingPrompt": "Help the user understand baking time and suggest serving vessels and accompaniments for this elegant appetizer."
+  },
+  "timestamp": "2026-02-06T07:21:44.575Z"
+}

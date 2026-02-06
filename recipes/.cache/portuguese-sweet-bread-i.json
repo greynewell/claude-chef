@@ -1,0 +1,62 @@
+{
+  "contentHash": "5ac73a98c58be928",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "⅓ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¾ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "3 cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "2 ½ teaspoons active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bread loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "dough hook",
+        "searchTerm": "dough hook"
+      }
+    ],
+    "cookingTips": [
+      "Warm milk before combining with yeast to optimize fermentation",
+      "Allow dough to rise until doubled before shaping for best volume and crumb"
+    ],
+    "coachingPrompt": "How would you achieve a tender, slightly sweet Portuguese bread with good rise?"
+  },
+  "timestamp": "2026-02-06T15:10:39.498Z"
+}

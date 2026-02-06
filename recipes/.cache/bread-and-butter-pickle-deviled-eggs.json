@@ -1,0 +1,57 @@
+{
+  "contentHash": "d8d0c83ce293fe4a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 hard-boiled eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 tablespoons sliced bread-and-butter pickles",
+        "searchTerm": "bread and butter pickles",
+        "normalizedName": "Bread and Butter Pickle"
+      },
+      {
+        "ingredient": "1 tablespoon honey mustard, or more to taste",
+        "searchTerm": "honey mustard",
+        "normalizedName": "Honey Mustard"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pinch paprika, or as needed",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Piping bag with round tip",
+        "searchTerm": "piping bag"
+      },
+      {
+        "name": "Small bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Chill the egg yolk mixture before piping for neater presentation",
+      "Finely mince the pickles so they distribute evenly throughout the filling"
+    ],
+    "coachingPrompt": "Do you have a piping bag? If not, would you like alternatives for filling the eggs?"
+  },
+  "timestamp": "2026-02-06T00:34:57.322Z"
+}

@@ -1,0 +1,72 @@
+{
+  "contentHash": "6876ce69448a18b5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ sweet onion, thinly sliced",
+        "searchTerm": "sweet onion",
+        "normalizedName": "Sweet Onion"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 (5 ounce) center-cut pork chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "¼ teaspoon chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "1 tablespoon sesame oil",
+        "searchTerm": "sesame oil",
+        "normalizedName": "Sesame Oil"
+      },
+      {
+        "ingredient": "2 small cloves garlic, finely chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ cup balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Caramelize onions on medium-low heat for 15-20 minutes, stirring occasionally, to develop deep sweetness",
+      "Cook pork chops to 145°F internal temperature for juicy, safe results"
+    ],
+    "coachingPrompt": "Help the user manage cooking two components simultaneously and explain how the balsamic glaze complements the pork."
+  },
+  "timestamp": "2026-02-05T23:19:00.877Z"
+}

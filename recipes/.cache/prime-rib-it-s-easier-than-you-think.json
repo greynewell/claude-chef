@@ -1,0 +1,57 @@
+{
+  "contentHash": "acd6f64c6f45f5cf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (5 pound) bone-in beef prime rib roast",
+        "searchTerm": "prime rib roast",
+        "normalizedName": "Prime Rib Roast"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 teaspoons Montreal-style steak seasoning (such as McCormick®)",
+        "searchTerm": "Montreal steak seasoning",
+        "normalizedName": "Montreal Steak Seasoning"
+      },
+      {
+        "ingredient": "1 teaspoon chopped garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon Italian seasoning",
+        "searchTerm": "Italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      },
+      {
+        "ingredient": "1 teaspoon mustard powder",
+        "searchTerm": "mustard powder",
+        "normalizedName": "Mustard Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "roasting pan with rack",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "small mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Let roast sit at room temperature for 1-2 hours before cooking for even doneness",
+      "Use a meat thermometer to achieve perfect medium-rare (130-135°F internal temperature)"
+    ],
+    "coachingPrompt": "Guide the user through the simple seasoning process and explain how to roast prime rib perfectly without complicated techniques."
+  },
+  "timestamp": "2026-02-06T15:19:47.089Z"
+}

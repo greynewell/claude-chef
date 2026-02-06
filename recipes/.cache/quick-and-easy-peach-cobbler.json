@@ -1,0 +1,53 @@
+{
+  "contentHash": "c577eb1afcc76d6c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup self-rising flour",
+        "searchTerm": "self-rising flour",
+        "normalizedName": "Self-Rising Flour"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 (16 ounce) cans sliced peaches in heavy syrup",
+        "searchTerm": "canned peaches",
+        "normalizedName": "Canned Peach"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Pour batter first, then add peaches to create inverted cobbler",
+      "Bake until top is golden brown and bubbly at edges",
+      "Serve warm with vanilla ice cream"
+    ],
+    "coachingPrompt": "Explain the assembly method for this easy cobbler. Why does the batter rise around the fruit?"
+  },
+  "timestamp": "2026-02-06T15:38:36.243Z"
+}

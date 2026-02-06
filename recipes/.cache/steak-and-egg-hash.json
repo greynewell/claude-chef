@@ -1,0 +1,68 @@
+{
+  "contentHash": "f1da178e04cf207e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "beef sirloin steak, sliced",
+        "searchTerm": "sirloin steak",
+        "normalizedName": "Sirloin Steak"
+      },
+      {
+        "ingredient": "potatoes, cut into small pieces",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "sweet onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "cherry tomatoes, halved",
+        "searchTerm": "cherry tomatoes",
+        "normalizedName": "Cherry Tomato"
+      },
+      {
+        "ingredient": "dried Italian seasoning",
+        "searchTerm": "italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes into uniform small pieces for even cooking",
+      "Cook potatoes until golden and crispy for best texture",
+      "Create wells in the hash and crack eggs directly into them for presentation"
+    ],
+    "coachingPrompt": "What order would you cook each ingredient to ensure everything finishes at the same time?"
+  },
+  "timestamp": "2026-02-06T19:23:56.693Z"
+}

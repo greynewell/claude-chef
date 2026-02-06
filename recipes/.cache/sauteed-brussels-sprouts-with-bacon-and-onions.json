@@ -1,0 +1,63 @@
+{
+  "contentHash": "56bb142cf6de0b1d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices lower-sodium bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "½ large white onion, diced",
+        "searchTerm": "white onion",
+        "normalizedName": "White Onion"
+      },
+      {
+        "ingredient": "30 Brussels sprouts, halved lengthwise",
+        "searchTerm": "Brussels sprout",
+        "normalizedName": "Brussels Sprout"
+      },
+      {
+        "ingredient": "2 cloves garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons grated Parmesan cheese, or to taste (Optional)",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Render bacon until crispy, then use the fat to cook Brussels sprouts for maximum flavor",
+      "Place Brussels sprouts cut-side down in the skillet to develop a golden, caramelized crust",
+      "Cook for 15-20 minutes total, stirring occasionally, until Brussels sprouts are tender inside and crispy outside"
+    ],
+    "coachingPrompt": "Guide the cook through rendering bacon properly, achieving caramelization on Brussels sprouts, and balancing flavors."
+  },
+  "timestamp": "2026-02-06T17:01:37.064Z"
+}

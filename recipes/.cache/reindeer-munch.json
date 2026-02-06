@@ -1,0 +1,52 @@
+{
+  "contentHash": "2ee82251dfcc32f3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups crispy rice cereal squares (such as Rice Chex®)",
+        "searchTerm": "rice cereal",
+        "normalizedName": "Rice Cereal"
+      },
+      {
+        "ingredient": "2 cups thin pretzel sticks",
+        "searchTerm": "pretzel",
+        "normalizedName": "Pretzel"
+      },
+      {
+        "ingredient": "1 cup cocktail peanuts",
+        "searchTerm": "peanut",
+        "normalizedName": "Peanut"
+      },
+      {
+        "ingredient": "1 cup candy-coated milk chocolate pieces (such as M&M's®)",
+        "searchTerm": "candy-coated chocolate",
+        "normalizedName": "Candy-Coated Chocolate"
+      },
+      {
+        "ingredient": "1 (12 ounce) package white vanilla baking chips",
+        "searchTerm": "white baking chips",
+        "normalizedName": "White Baking Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "double boiler or microwave",
+        "searchTerm": "double boiler"
+      }
+    ],
+    "cookingTips": [
+      "Melt white baking chips in short microwave intervals, stirring between each, to prevent overheating",
+      "Toss warm mixture quickly for even coating of melted chocolate"
+    ],
+    "coachingPrompt": "Guide the user through tempering white chocolate for a smooth coating and proper tossing technique to evenly coat all ingredients."
+  },
+  "timestamp": "2026-02-06T16:07:17.147Z"
+}

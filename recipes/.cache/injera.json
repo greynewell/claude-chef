@@ -1,0 +1,53 @@
+{
+  "contentHash": "6f3c0e35f0fb013e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "1 teaspoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "5 cups warm water (110 degrees F/45 degrees C)",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 cups finely ground millet flour",
+        "searchTerm": "millet flour",
+        "normalizedName": "Millet Flour"
+      },
+      {
+        "ingredient": "¼ teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Non-Stick Skillet or Crepe Pan",
+        "searchTerm": "non-stick skillet"
+      },
+      {
+        "name": "Cloth Cover",
+        "searchTerm": "kitchen cloth"
+      }
+    ],
+    "cookingTips": [
+      "Water temperature is critical for yeast activation—use a thermometer if available",
+      "Cover the dough with a cloth and let ferment at room temperature for 3-5 days",
+      "The batter should have a slightly tangy smell when ready to cook"
+    ],
+    "coachingPrompt": "Are you new to working with yeast fermentation? This is a longer ferment than typical bread—would you like tips on temperature control?"
+  },
+  "timestamp": "2026-02-06T09:44:01.983Z"
+}

@@ -1,0 +1,77 @@
+{
+  "contentHash": "fab734f1d509a476",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cucumber, diced",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "2 Roma tomatoes, diced",
+        "searchTerm": "roma tomatoes",
+        "normalizedName": "Roma Tomato"
+      },
+      {
+        "ingredient": "½ medium red onion, diced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "2 serrano peppers, seeded and deveined",
+        "searchTerm": "serrano peppers",
+        "normalizedName": "Serrano Pepper"
+      },
+      {
+        "ingredient": "¼ cup chopped cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "6 medium limes, divided",
+        "searchTerm": "limes",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "1 ½ teaspoons salt, divided",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ pound raw shrimp, peeled and deveined",
+        "searchTerm": "raw shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "1 small avocado, diced (Optional)",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Glass bowl",
+        "searchTerm": "glass bowl"
+      },
+      {
+        "name": "Chef's knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "Citrus juicer",
+        "searchTerm": "citrus juicer"
+      }
+    ],
+    "cookingTips": [
+      "Use fresh, high-quality shrimp and ensure it's properly deveined",
+      "The acid from lime juice 'cooks' the shrimp; allow adequate marinating time"
+    ],
+    "coachingPrompt": "Help the user understand that lime juice cures the shrimp and advise on proper marinating time in the refrigerator before serving."
+  },
+  "timestamp": "2026-02-06T05:59:34.209Z"
+}

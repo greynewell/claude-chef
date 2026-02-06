@@ -1,0 +1,53 @@
+{
+  "contentHash": "02c75a466e8fdaad",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 package frozen potato rounds",
+        "searchTerm": "potato rounds",
+        "normalizedName": "Potato Round"
+      },
+      {
+        "ingredient": "1 container sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 can French-fried onions",
+        "searchTerm": "fried onions",
+        "normalizedName": "Fried Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Mix sour cream with soup to create creamy sauce base",
+      "Stir in cheese until melted and combined smoothly",
+      "Top with fried onions during last 5 minutes of baking for crunch"
+    ],
+    "coachingPrompt": "Why should fried onion topping be added near the end of baking?"
+  },
+  "timestamp": "2026-02-06T20:21:31.198Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "e42ca69a6c472aeb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 tablespoons melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 tablespoons liquid honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 large lemon, juiced",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "4 teaspoons liquid aminos",
+        "searchTerm": "liquid aminos",
+        "normalizedName": "Liquid Aminos"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 (2 pound) halibut fillet, cut into 4 pieces",
+        "searchTerm": "halibut fillet",
+        "normalizedName": "Halibut Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "small bowl for marinade",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Combine marinade ingredients and pour over fish; let sit 15-30 minutes for flavor",
+      "Bake at 400°F for 12-15 minutes until fish flakes easily with a fork",
+      "The honey and butter create a glaze; baste occasionally for even cooking"
+    ],
+    "coachingPrompt": "Do you prefer baked fish? This sweet and savory glaze is elegant—would you like tips on doneness testing?"
+  },
+  "timestamp": "2026-02-06T05:46:57.024Z"
+}

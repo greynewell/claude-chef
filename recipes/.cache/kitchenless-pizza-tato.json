@@ -1,0 +1,58 @@
+{
+  "contentHash": "5ca922e38dd08037",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 large baking potato",
+        "searchTerm": "baking potato",
+        "normalizedName": "Baking Potato"
+      },
+      {
+        "ingredient": "1 teaspoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 tablespoons canned pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "½ cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Pierce the potato multiple times with a fork to allow steam to escape and prevent splitting",
+      "Brush with oil and salt before baking for a crispier skin",
+      "Add toppings after the potato is fully cooked but still hot so cheese melts properly"
+    ],
+    "coachingPrompt": "This minimalist pizza potato is perfect for limited kitchen setups. What additional toppings appeal to you—pepperoni, vegetables, or herbs?"
+  },
+  "timestamp": "2026-02-06T10:51:51.431Z"
+}

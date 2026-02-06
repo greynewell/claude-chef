@@ -1,0 +1,53 @@
+{
+  "contentHash": "0ec0778fd90153b3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups cooked egg noodles",
+        "searchTerm": "egg noodles",
+        "normalizedName": "Egg Noodle"
+      },
+      {
+        "ingredient": "1 cup cubed, cooked ham",
+        "searchTerm": "cooked ham",
+        "normalizedName": "Cooked Ham"
+      },
+      {
+        "ingredient": "½ cup cubed Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "½ (10.75 ounce) can milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook noodles just before mixing to keep them from becoming mushy",
+      "Heat soup and milk gently over low heat to prevent scorching",
+      "Stir frequently to prevent cheese from clumping and to ensure even heating"
+    ],
+    "coachingPrompt": "This is a comfort food classic—would you like suggestions for elevating it with vegetables or herbs?"
+  },
+  "timestamp": "2026-02-06T05:46:57.026Z"
+}

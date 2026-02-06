@@ -1,0 +1,53 @@
+{
+  "contentHash": "d590bb401ebb850f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10 ounce) jar Dickinson's® Pure Marion Blackberry Preserves",
+        "searchTerm": "blackberry preserves",
+        "normalizedName": "Blackberry Preserve"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons plain yogurt, or more to taste",
+        "searchTerm": "plain yogurt",
+        "normalizedName": "Plain Yogurt"
+      },
+      {
+        "ingredient": "24 phyllo pastry cups, or more if needed",
+        "searchTerm": "phyllo pastry cups",
+        "normalizedName": "Phyllo Pastry Cup"
+      },
+      {
+        "ingredient": "24 Blackberries, fresh or frozen",
+        "searchTerm": "blackberries",
+        "normalizedName": "Blackberry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "serving plate",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Mix cream cheese and yogurt until smooth before filling",
+      "Fill pastry cups just before serving to keep them crispy",
+      "Use fresh berries for best visual appeal"
+    ],
+    "coachingPrompt": "Guide the user on timing assembly to maintain crispy phyllo shells while ensuring smooth, creamy filling."
+  },
+  "timestamp": "2026-02-06T05:45:16.337Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "975d78903d05ecb7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "15 small new potatoes",
+        "searchTerm": "new potatoes",
+        "normalizedName": "New Potato"
+      },
+      {
+        "ingredient": "5 slices bacon, cut into thirds",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 (1 ounce) package ranch dressing mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Ranch Dressing Mix"
+      },
+      {
+        "ingredient": "15 toothpicks",
+        "searchTerm": "toothpicks",
+        "normalizedName": "Toothpick"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Boil potatoes until just tender before wrapping to ensure even cooking",
+      "Toss cooked potatoes with ranch mix before serving for better flavor distribution",
+      "Use toothpicks to secure bacon and prevent unraveling during baking"
+    ],
+    "coachingPrompt": "Help the user understand the importance of pre-cooking potatoes and timing the bacon wrapping for crispiness."
+  },
+  "timestamp": "2026-02-05T22:54:35.192Z"
+}

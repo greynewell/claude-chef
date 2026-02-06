@@ -1,0 +1,58 @@
+{
+  "contentHash": "3eb630efb685f143",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "5 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "3 cups frozen hash brown potatoes, thawed",
+        "searchTerm": "frozen hash brown potatoes",
+        "normalizedName": "Hash Brown Potato"
+      },
+      {
+        "ingredient": "⅓ cup chopped green onions",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 ½ cups shredded Cheddar cheese, divided",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pie Dish",
+        "searchTerm": "9 inch pie dish"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then crumble for even distribution throughout the pie",
+      "Layer hash browns as a crust base for structural integrity",
+      "Bake until a knife inserted in center comes out clean to ensure eggs are set"
+    ],
+    "coachingPrompt": "Guide me through layering ingredients in the pie dish for maximum flavor and texture."
+  },
+  "timestamp": "2026-02-06T06:09:11.305Z"
+}

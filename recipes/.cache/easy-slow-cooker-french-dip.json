@@ -1,0 +1,62 @@
+{
+  "contentHash": "81258b9b331c58a4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 pounds rump roast",
+        "searchTerm": "rump roast",
+        "normalizedName": "Rump Roast"
+      },
+      {
+        "ingredient": "1 (10.5 ounce) can beef broth",
+        "searchTerm": "beef broth",
+        "normalizedName": "Beef Broth"
+      },
+      {
+        "ingredient": "1 (10.5 ounce) can condensed French onion soup",
+        "searchTerm": "French onion soup",
+        "normalizedName": "French Onion Soup"
+      },
+      {
+        "ingredient": "1 (12 fluid ounce) can or bottle beer",
+        "searchTerm": "beer",
+        "normalizedName": "Beer"
+      },
+      {
+        "ingredient": "6 French rolls",
+        "searchTerm": "French rolls",
+        "normalizedName": "French Roll"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Shallow bowls",
+        "searchTerm": "shallow bowls"
+      }
+    ],
+    "cookingTips": [
+      "Cook on low for 8-10 hours until meat shreds easily with a fork",
+      "Skim fat from surface before shredding meat for cleaner dipping sauce",
+      "Toast rolls lightly before serving and serve dipping broth in small bowls"
+    ],
+    "coachingPrompt": "Help the user understand how to render and shred tough cuts of beef for sandwich applications and create proper dipping sauce."
+  },
+  "timestamp": "2026-02-06T06:01:36.216Z"
+}

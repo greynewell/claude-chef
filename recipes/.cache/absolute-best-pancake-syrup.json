@@ -1,0 +1,63 @@
+{
+  "contentHash": "e74df3cbba65b92a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup sugar",
+        "searchTerm": "white sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup buttermilk",
+        "searchTerm": "buttermilk",
+        "normalizedName": "Buttermilk"
+      },
+      {
+        "ingredient": "1 tablespoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 tablespoon corn syrup",
+        "searchTerm": "corn syrup",
+        "normalizedName": "Corn Syrup"
+      },
+      {
+        "ingredient": "¼ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon ground",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "½ teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "medium saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "wire whisk"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "candy thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Bring mixture to a boil and maintain rolling boil for 1 minute to activate baking soda",
+      "Syrup will thicken as it cools, so remove from heat when slightly thinner than desired consistency",
+      "Store in airtight container and reheat gently before serving"
+    ],
+    "coachingPrompt": "Help me combine butter, sugar, and buttermilk, then cook to the proper consistency without scorching."
+  },
+  "timestamp": "2026-02-05T21:32:44.695Z"
+}

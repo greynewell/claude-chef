@@ -1,0 +1,48 @@
+{
+  "contentHash": "452e65efc68a3d79",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (8 ounce) package processed cheese food",
+        "searchTerm": "processed cheese food",
+        "normalizedName": "Processed Cheese Food"
+      },
+      {
+        "ingredient": "½ (12 fluid ounce) can beer",
+        "searchTerm": "beer",
+        "normalizedName": "Beer"
+      },
+      {
+        "ingredient": "1 clove garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan or double boiler",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk or wooden spoon",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Serving bowl",
+        "searchTerm": "serving bowl"
+      }
+    ],
+    "cookingTips": [
+      "Soften the cream cheese at room temperature before heating for smoother blending",
+      "Use a double boiler to prevent the cheese from overheating and becoming grainy",
+      "This simple version lets the beer and cheese flavors shine without additional complexity"
+    ],
+    "coachingPrompt": "Guide the cook to understand why processed cheese works here: it melts smoothly and prevents separation better than aged cheeses."
+  },
+  "timestamp": "2026-02-05T23:49:25.677Z"
+}

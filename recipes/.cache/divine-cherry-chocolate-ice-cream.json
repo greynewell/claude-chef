@@ -1,0 +1,63 @@
+{
+  "contentHash": "e5f9f6fc30690318",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "3 cups whole milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 (10 ounce) jar maraschino cherries, with juice",
+        "searchTerm": "maraschino cherries",
+        "normalizedName": "Maraschino Cherry"
+      },
+      {
+        "ingredient": "8 egg yolks",
+        "searchTerm": "egg yolks",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "2 teaspoons almond extract",
+        "searchTerm": "almond extract",
+        "normalizedName": "Almond Extract"
+      },
+      {
+        "ingredient": "12 ounces bittersweet chocolate, chopped",
+        "searchTerm": "bittersweet chocolate",
+        "normalizedName": "Bittersweet Chocolate"
+      }
+    ],
+    "gear": [
+      {
+        "name": "ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "double boiler",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "fine-mesh strainer",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Temper egg yolks slowly by adding hot cream mixture gradually to prevent scrambling while building richness",
+      "Strain the custard base through fine mesh to remove any cooked egg bits for silky smooth texture",
+      "Chill the custard base completely before churning for optimal ice cream consistency and flavor development"
+    ],
+    "coachingPrompt": "How would you balance the cherry, almond, and chocolate flavors so each one is distinct without competing?"
+  },
+  "timestamp": "2026-02-06T05:17:06.452Z"
+}

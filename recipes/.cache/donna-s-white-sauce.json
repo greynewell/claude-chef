@@ -1,0 +1,48 @@
+{
+  "contentHash": "c8c03380a589d23b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 quart heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "4 ounces Havarti cheese",
+        "searchTerm": "havarti cheese",
+        "normalizedName": "Havarti Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Make a roux by whisking butter and flour together to create a smooth paste",
+      "Add cream gradually while whisking to prevent lumps from forming",
+      "Stir in cheese off heat to prevent scorching and maintain smooth texture"
+    ],
+    "coachingPrompt": "This classic béchamel variation works well with pasta or vegetables. How will you adjust the consistency if needed?"
+  },
+  "timestamp": "2026-02-06T05:19:00.094Z"
+}

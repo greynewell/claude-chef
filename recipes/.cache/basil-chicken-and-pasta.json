@@ -1,0 +1,67 @@
+{
+  "contentHash": "8cad3c3174c6d666",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) package rotini pasta",
+        "searchTerm": "rotini pasta",
+        "normalizedName": "Rotini Pasta"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 pound skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 teaspoons dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "1 cup heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pasta pot"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Cook chicken completely through (165°F internal) before adding cream to avoid overcooking",
+      "Reserve pasta water to thin sauce if it becomes too thick"
+    ],
+    "coachingPrompt": "Do you prefer a thicker or lighter cream sauce consistency?"
+  },
+  "timestamp": "2026-02-05T23:34:21.978Z"
+}

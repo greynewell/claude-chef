@@ -1,0 +1,53 @@
+{
+  "contentHash": "9c9bf1233915c665",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 avocados from Mexico, peeled, pitted and diced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "2 Roma tomatoes, seeded and diced",
+        "searchTerm": "Roma tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "4 tablespoons finely diced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ lime, juiced",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "½ teaspoon salt, or to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Add lime juice immediately after dicing avocados to prevent browning",
+      "Mix gently to keep avocado chunks intact"
+    ],
+    "coachingPrompt": "This is a simple guacamole - are you open to experimenting with flavor additions like cilantro or jalapeño?"
+  },
+  "timestamp": "2026-02-06T08:34:19.054Z"
+}

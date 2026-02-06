@@ -1,0 +1,78 @@
+{
+  "contentHash": "b631afe04fa5acab",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 red potatoes",
+        "searchTerm": "red potato",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "3 hard-boiled eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "½ red onion",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "¼ cup spicy brown mustard",
+        "searchTerm": "brown mustard",
+        "normalizedName": "Brown Mustard"
+      },
+      {
+        "ingredient": "4 teaspoons sweet pickle relish",
+        "searchTerm": "pickle relish",
+        "normalizedName": "Pickle Relish"
+      },
+      {
+        "ingredient": "1 teaspoon chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      },
+      {
+        "ingredient": "1 teaspoon chopped fresh dill",
+        "searchTerm": "fresh dill",
+        "normalizedName": "Fresh Dill"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pinch paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Boil potatoes in salted water until just tender, then dice while still warm to absorb dressing better",
+      "Use spicy brown mustard for tangier flavor than traditional yellow mustard",
+      "Toss salad gently to avoid breaking potatoes while still distributing flavors evenly"
+    ],
+    "coachingPrompt": "Explain why warm potatoes absorb dressing better and help the user balance the brown mustard tang with creamy mayo."
+  },
+  "timestamp": "2026-02-06T00:48:07.756Z"
+}

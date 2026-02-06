@@ -1,0 +1,58 @@
+{
+  "contentHash": "94c105e584c5b8ee",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups coconut milk",
+        "searchTerm": "coconut milk",
+        "normalizedName": "Coconut Milk"
+      },
+      {
+        "ingredient": "⅓ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 egg yolks",
+        "searchTerm": "egg yolks",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "1 teaspoon coconut extract",
+        "searchTerm": "coconut extract",
+        "normalizedName": "Coconut Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "measuring spoons",
+        "searchTerm": "measuring spoons"
+      }
+    ],
+    "cookingTips": [
+      "Whisk cornstarch with a bit of coconut milk first to prevent lumps",
+      "Temper egg yolks by slowly adding hot mixture while whisking",
+      "Cook until pudding coats the back of a spoon for proper thickness"
+    ],
+    "coachingPrompt": "This custard-style pudding needs careful temperature control. How comfortable are you with egg tempering?"
+  },
+  "timestamp": "2026-02-06T03:40:37.005Z"
+}

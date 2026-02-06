@@ -1,0 +1,58 @@
+{
+  "contentHash": "02005bf44529e6b0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "2 teaspoons minced fresh ginger",
+        "searchTerm": "fresh ginger",
+        "normalizedName": "Fresh Ginger"
+      },
+      {
+        "ingredient": "2 teaspoons minced fresh garlic",
+        "searchTerm": "fresh garlic",
+        "normalizedName": "Fresh Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon seasoning sauce",
+        "searchTerm": "seasoning sauce",
+        "normalizedName": "Seasoning Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon sriracha sauce",
+        "searchTerm": "sriracha",
+        "normalizedName": "Sriracha Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Whisk peanut butter into eggs before cooking for even distribution",
+      "Use fresh minced ginger and garlic for bold, authentic flavoring",
+      "Balance spice from sriracha with the richness of peanut butter"
+    ],
+    "coachingPrompt": "Help the user blend Asian-inspired flavors with peanut butter, emphasizing proper ingredient incorporation and heat management."
+  },
+  "timestamp": "2026-02-06T17:11:57.703Z"
+}

@@ -1,0 +1,83 @@
+{
+  "contentHash": "3617b6a117c64cb7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "½ pound salami, cubed",
+        "searchTerm": "salami",
+        "normalizedName": "Salami"
+      },
+      {
+        "ingredient": "3 hard-cooked eggs, chopped",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 apples, cored and chopped",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 dill pickles, chopped",
+        "searchTerm": "dill pickles",
+        "normalizedName": "Dill Pickle"
+      },
+      {
+        "ingredient": "3 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "3 tablespoons red wine vinegar",
+        "searchTerm": "red wine vinegar",
+        "normalizedName": "Red Wine Vinegar"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pinch paprika, or to taste",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "saucepot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Boil potatoes until just tender, approximately 15-20 minutes, then cool and dice",
+      "Dress salad while potatoes are still slightly warm to absorb vinegar and mayonnaise flavors",
+      "Chill for at least 2 hours before serving to allow flavors to meld"
+    ],
+    "coachingPrompt": "Should I dress the potatoes while they're warm and how long should I chill the salad?"
+  },
+  "timestamp": "2026-02-06T05:07:12.925Z"
+}

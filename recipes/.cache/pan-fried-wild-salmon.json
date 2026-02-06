@@ -1,0 +1,39 @@
+{
+  "contentHash": "b802f46d272ecfad",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (3 ounce) fillets salmon, with skin",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "sea salt to taste",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "fish spatula",
+        "searchTerm": "fish spatula"
+      }
+    ],
+    "cookingTips": [
+      "Keep salmon skin-side down for most of the cooking to render the fat and create a crispy exterior",
+      "Use high-quality sea salt to enhance the natural flavor of wild salmon",
+      "Don't add any fat if the salmon has adequate fat content; let the skin crisp in its own oils"
+    ],
+    "coachingPrompt": "Show me how to pan-fry wild salmon with minimal ingredients to highlight its natural flavor."
+  },
+  "timestamp": "2026-02-06T14:03:22.282Z"
+}

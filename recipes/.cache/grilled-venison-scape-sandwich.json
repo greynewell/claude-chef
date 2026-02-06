@@ -1,0 +1,62 @@
+{
+  "contentHash": "e3eece8f514b9826",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "venison",
+        "searchTerm": "venison",
+        "normalizedName": "Venison"
+      },
+      {
+        "ingredient": "garlic scapes",
+        "searchTerm": "garlic scape",
+        "normalizedName": "Garlic Scape"
+      },
+      {
+        "ingredient": "canola oil",
+        "searchTerm": "canola oil",
+        "normalizedName": "Canola Oil"
+      },
+      {
+        "ingredient": "soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "hamburger buns",
+        "searchTerm": "hamburger buns",
+        "normalizedName": "Hamburger Bun"
+      },
+      {
+        "ingredient": "sharp Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "meat slicer or sharp knife",
+        "searchTerm": "sharp knife"
+      },
+      {
+        "name": "basting brush",
+        "searchTerm": "basting brush"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "grill tongs"
+      }
+    ],
+    "cookingTips": [
+      "Partially freeze venison before slicing to achieve thin, even 1/16-inch slices",
+      "Mince garlic scapes finely for even distribution of flavor throughout the meat",
+      "Grill thin slices quickly over high heat to maintain tenderness and prevent drying"
+    ],
+    "coachingPrompt": "What advantage does partially freezing the venison provide for this recipe?"
+  },
+  "timestamp": "2026-02-06T08:31:06.341Z"
+}

@@ -1,0 +1,62 @@
+{
+  "contentHash": "90f27b3620b8bac0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 tablespoons butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 teaspoon oregano",
+        "searchTerm": "oregano",
+        "normalizedName": "Oregano"
+      },
+      {
+        "ingredient": "½ teaspoon dried thyme",
+        "searchTerm": "dried thyme",
+        "normalizedName": "Dried Thyme"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "5 thick slices day-old bread with crusts removed, cut into cubes",
+        "searchTerm": "day-old bread",
+        "normalizedName": "Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Use day-old bread to achieve optimal crispiness without burning",
+      "Toss bread cubes evenly with butter and seasonings before baking"
+    ],
+    "coachingPrompt": "How can you ensure even browning and crispiness across all your croutons?"
+  },
+  "timestamp": "2026-02-06T07:20:02.616Z"
+}

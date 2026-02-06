@@ -1,0 +1,68 @@
+{
+  "contentHash": "cdee39f0f34265a5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup cold cooked sushi rice",
+        "searchTerm": "sushi rice",
+        "normalizedName": "Sushi Rice"
+      },
+      {
+        "ingredient": "1 sheet nori (dry seaweed)",
+        "searchTerm": "nori seaweed",
+        "normalizedName": "Nori"
+      },
+      {
+        "ingredient": "1 tablespoon masago",
+        "searchTerm": "masago",
+        "normalizedName": "Masago"
+      },
+      {
+        "ingredient": "½ deep-fried soft-shell crab",
+        "searchTerm": "soft-shell crab",
+        "normalizedName": "Soft-Shell Crab"
+      },
+      {
+        "ingredient": "3 slices red bell pepper",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "2 leaves leaf lettuce",
+        "searchTerm": "leaf lettuce",
+        "normalizedName": "Leaf Lettuce"
+      },
+      {
+        "ingredient": "½ tablespoon okonomiyaki sauce",
+        "searchTerm": "okonomiyaki sauce",
+        "normalizedName": "Okonomiyaki Sauce"
+      },
+      {
+        "ingredient": "½ avocado, thinly sliced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bamboo sushi mat",
+        "searchTerm": "sushi mat"
+      },
+      {
+        "name": "sharp knife",
+        "searchTerm": "kitchen knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Keep hands wet when handling sushi rice to prevent sticking",
+      "Slice with a wet, sharp knife for clean cuts",
+      "Serve immediately with soy sauce and wasabi"
+    ],
+    "coachingPrompt": "Guide the user through proper rolling technique and explain how to achieve tight, even rolls with proper rice distribution."
+  },
+  "timestamp": "2026-02-06T18:32:31.203Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "131d2e72372abbfa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups uncooked elbow macaroni",
+        "searchTerm": "elbow macaroni",
+        "normalizedName": "Elbow Macaroni"
+      },
+      {
+        "ingredient": "1 pound shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 (12 ounce) container small curd cottage cheese",
+        "searchTerm": "cottage cheese",
+        "normalizedName": "Cottage Cheese"
+      },
+      {
+        "ingredient": "4 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "water to cover",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Combine uncooked pasta with other ingredients; baking cooks everything together",
+      "Use enough water to just cover pasta; it will absorb liquid during baking"
+    ],
+    "coachingPrompt": "Show the cook how to assemble a casserole where uncooked pasta cooks directly in the creamy cheese sauce."
+  },
+  "timestamp": "2026-02-06T05:53:08.131Z"
+}

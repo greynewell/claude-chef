@@ -1,0 +1,62 @@
+{
+  "contentHash": "37119c8a635e495f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¾ cup buttermilk",
+        "searchTerm": "buttermilk",
+        "normalizedName": "Buttermilk"
+      },
+      {
+        "ingredient": "½ cup melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (10 ounce) package flaked coconut",
+        "searchTerm": "coconut",
+        "normalizedName": "Coconut Flake"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 (9 inch) unbaked pie crusts",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "pie dish",
+        "searchTerm": "9 inch pie dish"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Mix custard filling thoroughly before pouring into crusts to ensure even distribution of coconut",
+      "Bake at 350°F for 30-40 minutes until center is set but slightly jiggly"
+    ],
+    "coachingPrompt": "Guide the user through creating a smooth custard filling and achieving the perfect tender crumb texture in these classic coconut pies."
+  },
+  "timestamp": "2026-02-06T07:50:24.325Z"
+}

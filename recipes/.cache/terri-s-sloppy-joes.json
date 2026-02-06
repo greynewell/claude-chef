@@ -1,0 +1,63 @@
+{
+  "contentHash": "1d74097e30c39aee",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 small onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "¾ cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "¼ cup barbeque sauce",
+        "searchTerm": "barbeque sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "1 tablespoon vinegar",
+        "searchTerm": "vinegar",
+        "normalizedName": "Vinegar"
+      },
+      {
+        "ingredient": "1 tablespoon prepared mustard",
+        "searchTerm": "mustard",
+        "normalizedName": "Prepared Mustard"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly and break into small pieces for better texture",
+      "Simmer sauce 10-15 minutes to meld flavors together",
+      "Adjust sweetness and tanginess to taste with additional condiments"
+    ],
+    "coachingPrompt": "Help the cook develop a rich, balanced sauce by teaching them about the interplay between sweet and tangy components."
+  },
+  "timestamp": "2026-02-06T20:26:19.808Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "18d8882e35234821",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound large shrimp - peeled and deveined",
+        "searchTerm": "large shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "2 cups fresh broccoli florets",
+        "searchTerm": "broccoli florets",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "1 (6 ounce) jar sun-dried tomatoes packed in oil, drained and chopped",
+        "searchTerm": "sun-dried tomatoes",
+        "normalizedName": "Sun-Dried Tomato"
+      },
+      {
+        "ingredient": "½ teaspoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (8 ounce) package angel hair pasta",
+        "searchTerm": "angel hair pasta",
+        "normalizedName": "Angel Hair Pasta"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Pasta Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Cook shrimp only 2-3 minutes per side to avoid rubbery texture",
+      "Toast garlic in butter briefly before adding shrimp to build flavor",
+      "Reserve pasta water to adjust sauce consistency"
+    ],
+    "coachingPrompt": "How comfortable are you with cooking seafood? Would you like tips on selecting quality shrimp or perfecting the scampi sauce?"
+  },
+  "timestamp": "2026-02-06T17:35:03.703Z"
+}

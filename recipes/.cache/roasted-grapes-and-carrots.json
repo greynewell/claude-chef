@@ -1,0 +1,53 @@
+{
+  "contentHash": "f51013711aa429d1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds red seedless grapes",
+        "searchTerm": "red grapes",
+        "normalizedName": "Grape"
+      },
+      {
+        "ingredient": "1 (16 ounce) package peeled, baby carrots",
+        "searchTerm": "baby carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 medium red onion, cut into wedges",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon ground cumin",
+        "searchTerm": "ground cumin",
+        "normalizedName": "Ground Cumin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "sheet pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "measuring spoons",
+        "searchTerm": "measuring spoons"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Keep grapes whole to prevent bursting; pierce skin slightly if desired",
+      "Carrots take longer than grapes, so add grapes partway through roasting",
+      "Toss gently to avoid breaking the grapes"
+    ],
+    "coachingPrompt": "Help me balance roasting times so carrots caramelize while grapes stay intact and juicy"
+  },
+  "timestamp": "2026-02-06T16:24:54.005Z"
+}

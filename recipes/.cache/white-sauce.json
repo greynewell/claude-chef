@@ -1,0 +1,39 @@
+{
+  "contentHash": "cdcec97af6e515d9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "small saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Create a smooth roux by cooking butter and flour together before adding milk",
+      "Whisk constantly while adding milk to prevent lumps",
+      "Simmer until sauce thickens, about 2-3 minutes"
+    ],
+    "coachingPrompt": "Teach the classic roux method: melt butter, add flour to create a paste, then slowly incorporate milk while whisking to achieve a silky béchamel."
+  },
+  "timestamp": "2026-02-06T22:07:31.111Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "356589e4a4a3adc2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound dry fettuccine pasta",
+        "searchTerm": "fettuccine pasta",
+        "normalizedName": "Fettuccine Pasta"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "6 ounces diced cooked ham",
+        "searchTerm": "cooked ham",
+        "normalizedName": "Cooked Ham"
+      },
+      {
+        "ingredient": "2 cups heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "1 cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Add ham towards the end to prevent it from toughening",
+      "Use freshly grated Parmesan for a smoother sauce",
+      "Reserve pasta water to thin sauce if needed"
+    ],
+    "coachingPrompt": "How do I balance the salt from ham and cheese in this dish?"
+  },
+  "timestamp": "2026-02-06T06:36:19.894Z"
+}

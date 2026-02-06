@@ -1,0 +1,98 @@
+{
+  "contentHash": "95202faf5a6a7c9e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup uncooked white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "5 carrots, diced",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 onions, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 green bell pepper, chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 ½ cups chopped celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 pound fresh mushrooms, sliced",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "1 zucchini, sliced",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "1 (16 ounce) can diced tomatoes",
+        "searchTerm": "canned tomatoes",
+        "normalizedName": "Canned Tomato"
+      },
+      {
+        "ingredient": "1 (15 ounce) can tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "1 pound cooked shrimp",
+        "searchTerm": "cooked shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "1 (4 ounce) jar diced pimento peppers, drained",
+        "searchTerm": "pimento peppers",
+        "normalizedName": "Pimento Pepper"
+      },
+      {
+        "ingredient": "3 teaspoons chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Dice vegetables uniformly for consistent cooking time",
+      "Cook rice separately then combine for better texture control",
+      "Add shrimp at the very end to keep it tender"
+    ],
+    "coachingPrompt": "Guide the user through creating a vegetable-forward Creole dish by managing multiple cooking times for rice, vegetables, and shrimp."
+  },
+  "timestamp": "2026-02-06T17:36:24.675Z"
+}

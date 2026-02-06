@@ -1,0 +1,49 @@
+{
+  "contentHash": "4481e1c4c995b3d6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "¼ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Heat butter and milk together before adding sugar and cocoa to prevent lumps",
+      "Use this icing immediately while warm for best spreading consistency",
+      "Stir constantly to ensure smooth, glossy finish"
+    ],
+    "coachingPrompt": "Teach the baker how to make this quick frosting with proper heat control and whisking technique for a smooth result."
+  },
+  "timestamp": "2026-02-06T13:38:04.912Z"
+}

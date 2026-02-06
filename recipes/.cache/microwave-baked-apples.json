@@ -1,0 +1,49 @@
+{
+  "contentHash": "4538ecd0f07d3ddd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 apples",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "2 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "2 teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Microwave-Safe Plate",
+        "searchTerm": "microwave-safe plate"
+      },
+      {
+        "name": "Small Spoon",
+        "searchTerm": "small spoon"
+      }
+    ],
+    "cookingTips": [
+      "Core apples from the top, leaving the bottom intact so filling stays inside",
+      "Fill cavities with brown sugar and spices, then top with butter",
+      "Microwave on high for 3-5 minutes depending on apple size until soft"
+    ],
+    "coachingPrompt": "Guide me through making simple, elegant microwave baked apples with warm spices."
+  },
+  "timestamp": "2026-02-06T12:24:58.857Z"
+}

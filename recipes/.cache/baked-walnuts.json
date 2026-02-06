@@ -1,0 +1,48 @@
+{
+  "contentHash": "b1b621606da3273f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 egg whites",
+        "searchTerm": "egg whites",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 pound walnut halves",
+        "searchTerm": "walnut halves",
+        "normalizedName": "Walnut Half"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Electric Mixer",
+        "searchTerm": "electric mixer"
+      }
+    ],
+    "cookingTips": [
+      "Beat egg whites until stiff peaks form for proper volume and coating",
+      "Ensure walnuts are coated evenly with the meringue mixture",
+      "Watch carefully during baking to prevent burning; walnuts toast quickly"
+    ],
+    "coachingPrompt": "How would you verify that egg whites have reached stiff peak stage?"
+  },
+  "timestamp": "2026-02-05T23:16:14.265Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "06b6baf1fdc1805b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package buttery round crackers",
+        "searchTerm": "buttery round crackers",
+        "normalizedName": "Buttery Round Cracker"
+      },
+      {
+        "ingredient": "1 pound sliced bacon, cut into thirds",
+        "searchTerm": "bacon slices",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 pound brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Arrange bacon pieces on crackers before topping with brown sugar for even caramelization",
+      "Bake at 350°F for 15-20 minutes until bacon is crispy and sugar is melted",
+      "Cool on baking sheet for 2 minutes before transferring to prevent sticking"
+    ],
+    "coachingPrompt": "Help the user understand how the brown sugar caramelizes with the bacon fat to create a sweet-salty flavor profile."
+  },
+  "timestamp": "2026-02-05T22:51:06.700Z"
+}

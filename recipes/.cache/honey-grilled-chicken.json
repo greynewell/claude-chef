@@ -1,0 +1,53 @@
+{
+  "contentHash": "8fc6e56e0c662bff",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter or margarine",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 clove garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "⅓ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Basting brush",
+        "searchTerm": "basting brush"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Melt butter with garlic first, then add honey and lemon to infuse flavors",
+      "Baste chicken frequently while grilling to build glaze layers",
+      "Check internal temperature reaches 165°F before serving"
+    ],
+    "coachingPrompt": "How do I prevent the honey glaze from burning on the grill while cooking the chicken through?"
+  },
+  "timestamp": "2026-02-06T09:22:33.552Z"
+}

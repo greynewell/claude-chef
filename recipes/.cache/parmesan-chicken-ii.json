@@ -1,0 +1,53 @@
+{
+  "contentHash": "b7bbbc7fbdde3c83",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 chicken drumsticks",
+        "searchTerm": "chicken drumstick",
+        "normalizedName": "Chicken Drumstick"
+      },
+      {
+        "ingredient": "2 cups grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Shallow Dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Beat egg thoroughly to create even coating on drumsticks",
+      "Coat drumsticks generously and shake off excess cheese mixture to prevent burning",
+      "Bake on a wire rack to allow air circulation underneath for crispier coating"
+    ],
+    "coachingPrompt": "Help the user understand how a simple egg wash creates an adhesive for the Parmesan crust, and why proper coating technique matters."
+  },
+  "timestamp": "2026-02-06T14:09:46.908Z"
+}

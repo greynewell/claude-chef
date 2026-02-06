@@ -1,0 +1,67 @@
+{
+  "contentHash": "51f350951127e906",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 containers chicken stock",
+        "searchTerm": "chicken stock",
+        "normalizedName": "Chicken Stock"
+      },
+      {
+        "ingredient": "1 can potato soup",
+        "searchTerm": "potato soup",
+        "normalizedName": "Potato Soup"
+      },
+      {
+        "ingredient": "2 skinless, boneless chicken breasts",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 stalks celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "3 carrots",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "½ head cabbage",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "1 bunch fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Layer ingredients with lighter items on top to prevent excess seasoning on delicate proteins",
+      "Shred chicken with two forks once it's fully cooked for easier eating in the soup"
+    ],
+    "coachingPrompt": "Guide the cook on slow cooker layering and how to properly shred cooked chicken."
+  },
+  "timestamp": "2026-02-06T20:39:38.693Z"
+}

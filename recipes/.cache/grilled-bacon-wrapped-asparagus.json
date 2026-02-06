@@ -1,0 +1,48 @@
+{
+  "contentHash": "f95dc0b6e9010239",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound fresh asparagus, trimmed",
+        "searchTerm": "asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "6 slices bacon, or more to taste",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Bundle asparagus spears together with bacon strips for even cooking",
+      "Grill over medium-high heat for 5-7 minutes, turning occasionally",
+      "Bacon fat will crisp the asparagus and add great flavor"
+    ],
+    "coachingPrompt": "Help the user understand how to wrap bacon around asparagus bundles securely and achieve crispy bacon."
+  },
+  "timestamp": "2026-02-06T08:10:19.109Z"
+}

@@ -1,0 +1,65 @@
+{
+  "contentHash": "cb3caafde65dd6a6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds chicken wings",
+        "searchTerm": "chicken wings",
+        "normalizedName": "Chicken Wing"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "1 cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish"
+      },
+      {
+        "name": "whisk"
+      },
+      {
+        "name": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Pat chicken dry before baking for better browning",
+      "Baste chicken halfway through cooking for even caramelization",
+      "Let rest 5 minutes before serving to retain juices"
+    ],
+    "coachingPrompt": "What temperature and timing will give you a glossy caramelized glaze without drying out the chicken?"
+  },
+  "timestamp": "2026-02-06T01:24:18.052Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "90fa2120c9ab2a1e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "3 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "⅓ cup toasted, chopped pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook brown sugar and butter together over medium heat until mixture reaches soft ball stage",
+      "Cool frosting slightly before spreading on cakes to prevent melting",
+      "Toast pecans beforehand for enhanced nutty flavor"
+    ],
+    "coachingPrompt": "Guide the user through the caramelization process and how to test for soft ball stage without a thermometer"
+  },
+  "timestamp": "2026-02-06T01:23:29.719Z"
+}

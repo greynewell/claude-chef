@@ -1,0 +1,58 @@
+{
+  "contentHash": "36b5f6fbc0ca5ca9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 bunch Swiss chard",
+        "searchTerm": "Swiss chard",
+        "normalizedName": "Swiss Chard"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "4 cloves garlic, coarsely chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "⅛ teaspoon crushed red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Blanch Swiss chard in salted water first to remove bitterness and set color",
+      "Squeeze out excess moisture after blanching to prevent watery finished dish",
+      "Garlic should be golden but not brown to avoid bitterness"
+    ],
+    "coachingPrompt": "Are you familiar with Swiss chard preparation? Would you like guidance on selecting fresh greens and removing excess moisture?"
+  },
+  "timestamp": "2026-02-06T10:11:38.047Z"
+}

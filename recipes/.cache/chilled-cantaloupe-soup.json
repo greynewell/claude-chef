@@ -1,0 +1,43 @@
+{
+  "contentHash": "ec68c3fa7c379901",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cantaloupe - peeled, seeded and cubed",
+        "searchTerm": "cantaloupe",
+        "normalizedName": "Cantaloupe"
+      },
+      {
+        "ingredient": "2 cups orange juice",
+        "searchTerm": "orange juice",
+        "normalizedName": "Orange Juice"
+      },
+      {
+        "ingredient": "1 tablespoon fresh lime juice",
+        "searchTerm": "fresh lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "¼ teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Use a ripe cantaloupe with a strong aroma for maximum sweetness and flavor",
+      "Chill the soup thoroughly before serving, at least 2 hours, for the best refreshing temperature"
+    ],
+    "coachingPrompt": "How can you balance the sweetness of cantaloupe and orange juice with brightness from lime?"
+  },
+  "timestamp": "2026-02-06T02:50:54.800Z"
+}

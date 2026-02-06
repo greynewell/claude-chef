@@ -1,0 +1,78 @@
+{
+  "contentHash": "e4e0a7030a69392f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package spaghetti",
+        "searchTerm": "spaghetti",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "1 cup heavy whipping cream",
+        "searchTerm": "heavy whipping cream",
+        "normalizedName": "Heavy Whipping Cream"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic cloves",
+        "normalizedName": "Garlic Clove"
+      },
+      {
+        "ingredient": "1 bunch fresh flat-leaf parsley, chopped",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      },
+      {
+        "ingredient": "1 lemon, zested and juiced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "1 pinch salt and freshly ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch salt and freshly ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 (3 ounce) packages smoked salmon, flaked",
+        "searchTerm": "smoked salmon",
+        "normalizedName": "Smoked Salmon"
+      },
+      {
+        "ingredient": "1 tablespoon freshly grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "sauce pan",
+        "searchTerm": "sauce pan"
+      },
+      {
+        "name": "microplane grater",
+        "searchTerm": "microplane grater"
+      }
+    ],
+    "cookingTips": [
+      "Warm cream gently and don't boil to prevent breaking",
+      "Add smoked salmon at the very end to avoid overcooking",
+      "Toss with warm pasta to coat evenly"
+    ],
+    "coachingPrompt": "How should the user prepare the cream sauce? When should the salmon be added? What role does lemon play in this dish?"
+  },
+  "timestamp": "2026-02-06T15:38:36.243Z"
+}

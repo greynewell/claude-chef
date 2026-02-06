@@ -1,0 +1,43 @@
+{
+  "contentHash": "4b81153698e4f403",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "10 ounces extra sharp Cheddar cheese, shredded",
+        "searchTerm": "extra sharp Cheddar",
+        "normalizedName": "Extra Sharp Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 (1 ounce) envelope dry onion soup mix",
+        "searchTerm": "dry onion soup mix",
+        "normalizedName": "Dry Onion Soup Mix"
+      },
+      {
+        "ingredient": "1 cup chopped walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Plastic Wrap",
+        "searchTerm": "plastic wrap"
+      }
+    ],
+    "cookingTips": [
+      "Mix all ingredients until well combined, then chill before rolling in walnuts",
+      "Form into a ball and refrigerate for at least 2 hours for easier handling"
+    ],
+    "coachingPrompt": "Help the cook combine soft cheeses with soup mix and shape into a walnut-coated ball for parties."
+  },
+  "timestamp": "2026-02-06T05:53:08.133Z"
+}

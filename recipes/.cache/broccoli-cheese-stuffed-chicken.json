@@ -1,0 +1,78 @@
+{
+  "contentHash": "4998af8f9c2b8f03",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 thin chicken breast cutlets",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "3 wedges spreadable garlic and herb cheese (such as The Laughing Cow®), softened",
+        "searchTerm": "garlic herb cheese",
+        "normalizedName": "Garlic Herb Cheese"
+      },
+      {
+        "ingredient": "1 cup frozen broccoli florets, thawed and finely chopped",
+        "searchTerm": "frozen broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "¼ cup shredded sharp Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "8 toothpicks, or as needed",
+        "searchTerm": "toothpicks",
+        "normalizedName": "Toothpick"
+      },
+      {
+        "ingredient": "1 ½ tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ teaspoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Meat Mallet",
+        "searchTerm": "mallet"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken thin for even cooking and easier rolling",
+      "Finely chop broccoli to prevent tearing the chicken when rolling",
+      "Secure with toothpicks and set seam-side down while cooking to keep filling in"
+    ],
+    "coachingPrompt": "This is a restaurant-style presentation. What internal temperature should the chicken reach to ensure it's fully cooked?"
+  },
+  "timestamp": "2026-02-06T00:42:37.300Z"
+}

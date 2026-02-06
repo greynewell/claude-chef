@@ -1,0 +1,58 @@
+{
+  "contentHash": "960c12080340b152",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (18.25 ounce) package lemon cake mix",
+        "searchTerm": "lemon cake mix",
+        "normalizedName": "Lemon Cake Mix"
+      },
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 (3 ounce) package instant lemon pudding mix",
+        "searchTerm": "instant lemon pudding mix",
+        "normalizedName": "Instant Lemon Pudding Mix"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup poppy seeds",
+        "searchTerm": "poppy seeds",
+        "normalizedName": "Poppy Seed"
+      }
+    ],
+    "gear": [
+      {
+        "name": "loaf pans",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "mixer"
+      }
+    ],
+    "cookingTips": [
+      "Mix ingredients just until combined - overmixing creates dense bread",
+      "Distribute poppy seeds evenly throughout the batter",
+      "Test doneness with a toothpick"
+    ],
+    "coachingPrompt": "How will you ensure even distribution of poppy seeds?"
+  },
+  "timestamp": "2026-02-06T15:43:21.054Z"
+}

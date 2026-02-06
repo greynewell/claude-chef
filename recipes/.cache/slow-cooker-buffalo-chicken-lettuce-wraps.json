@@ -1,0 +1,48 @@
+{
+  "contentHash": "7b3340ea3ab17050",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds skinless boneless chicken breasts",
+        "searchTerm": "chicken breasts",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 12 ounce bottle cayenne pepper sauce",
+        "searchTerm": "cayenne pepper sauce",
+        "normalizedName": "Cayenne Pepper Sauce"
+      },
+      {
+        "ingredient": "1 1 ounce package ranch dressing mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Ranch Dressing Mix"
+      },
+      {
+        "ingredient": "1 head Boston lettuce leaves",
+        "searchTerm": "boston lettuce",
+        "normalizedName": "Boston Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Two Forks",
+        "searchTerm": "forks"
+      },
+      {
+        "name": "Serving Platter",
+        "searchTerm": "serving platter"
+      }
+    ],
+    "cookingTips": [
+      "Mix dressing mix with sauce before adding for even seasoning distribution",
+      "Tear lettuce leaves gently to prevent bruising",
+      "Use crisp, cold lettuce as a contrast to hot buffalo chicken"
+    ],
+    "coachingPrompt": "How can you add crunch and freshness to buffalo chicken lettuce wraps?"
+  },
+  "timestamp": "2026-02-06T18:06:28.088Z"
+}

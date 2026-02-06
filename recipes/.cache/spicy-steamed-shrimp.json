@@ -1,0 +1,47 @@
+{
+  "contentHash": "97d44835c74d267a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 quart water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 pound tiger prawns with shell",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "3 ounces Old Bay (tm) Seasoning",
+        "searchTerm": "Old Bay seasoning",
+        "normalizedName": "Old Bay Seasoning"
+      },
+      {
+        "ingredient": "1 (12 ounce) jar cocktail sauce",
+        "searchTerm": "cocktail sauce",
+        "normalizedName": "Cocktail Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot with steamer insert",
+        "searchTerm": "steamer pot"
+      },
+      {
+        "name": "Lid",
+        "searchTerm": "lid"
+      },
+      {
+        "name": "Slotted spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Don't overcrowd the steamer basket to ensure even cooking",
+      "Remove shrimp immediately when pink to prevent rubber-like texture"
+    ],
+    "coachingPrompt": "How do you prefer your steamed shrimp served - hot or chilled with cocktail sauce?"
+  },
+  "timestamp": "2026-02-06T19:08:35.923Z"
+}

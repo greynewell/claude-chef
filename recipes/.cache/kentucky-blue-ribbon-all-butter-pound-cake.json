@@ -1,0 +1,72 @@
+{
+  "contentHash": "f86aa4207fbb7974",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Electric Mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "Loaf Pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cream butter and sugar until light and fluffy for best texture",
+      "Add eggs one at a time, beating well between additions",
+      "Alternate adding flour mixture and milk to prevent overmixing"
+    ],
+    "coachingPrompt": "Explain the creaming method and why it matters for cake structure. Guide proper oven temperature and suggest cooling procedures."
+  },
+  "timestamp": "2026-02-06T10:39:09.367Z"
+}

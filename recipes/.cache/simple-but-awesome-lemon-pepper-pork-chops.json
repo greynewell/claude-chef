@@ -1,0 +1,44 @@
+{
+  "contentHash": "2dad84b6273e4de1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 pork chops",
+        "searchTerm": "pork chop",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "1 tablespoon lemon pepper",
+        "searchTerm": "lemon pepper",
+        "normalizedName": "Lemon Pepper"
+      },
+      {
+        "ingredient": "8 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "8 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "4 teaspoons Worcestershire sauce",
+        "searchTerm": "worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Season pork chops generously with lemon pepper before cooking",
+      "Cook over medium-high heat for 5-7 minutes per side, basting with the butter-oil mixture"
+    ],
+    "coachingPrompt": "Do you prefer thicker-cut pork chops or thinner ones? This affects cooking time significantly."
+  },
+  "timestamp": "2026-02-06T17:48:18.603Z"
+}

@@ -1,0 +1,78 @@
+{
+  "contentHash": "9c5124ef74ca48ae",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "4 potatoes, peeled and cubed",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can sliced carrots, undrained",
+        "searchTerm": "canned carrots",
+        "normalizedName": "Sliced Carrot"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can French style green beans, undrained",
+        "searchTerm": "canned green beans",
+        "normalizedName": "French Style Green Bean"
+      },
+      {
+        "ingredient": "1 (15.25 ounce) can sweet corn, undrained",
+        "searchTerm": "canned corn",
+        "normalizedName": "Sweet Corn"
+      },
+      {
+        "ingredient": "1 (28 ounce) can diced tomatoes",
+        "searchTerm": "canned diced tomatoes",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "3 ½ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (14 ounce) can tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "salt and black pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "skillet for browning beef",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spoon for stirring",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly and drain excess fat before adding to soup",
+      "Fresh potatoes add better texture than canned",
+      "Let soup simmer at least 20 minutes for flavors to meld"
+    ],
+    "coachingPrompt": "How will you ensure the potatoes are tender without being mushy?"
+  },
+  "timestamp": "2026-02-06T15:43:21.053Z"
+}

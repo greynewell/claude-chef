@@ -1,0 +1,73 @@
+{
+  "contentHash": "d6abad02f158cb68",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "dried basil",
+        "searchTerm": "basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "dried oregano",
+        "searchTerm": "oregano",
+        "normalizedName": "Oregano"
+      },
+      {
+        "ingredient": "onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      },
+      {
+        "ingredient": "garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Measuring Spoons",
+        "searchTerm": "measuring spoons"
+      }
+    ],
+    "cookingTips": [
+      "Brown the beef thoroughly to build flavor before adding sauce",
+      "Simmer low and slow for at least 30 minutes for deeper flavor",
+      "The sugar balances the acidity of the tomato sauce"
+    ],
+    "coachingPrompt": "This is a classic weeknight sauce. Would you like suggestions for batch cooking and freezing?"
+  },
+  "timestamp": "2026-02-06T20:16:19.235Z"
+}

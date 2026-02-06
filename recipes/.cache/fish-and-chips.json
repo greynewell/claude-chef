@@ -1,0 +1,47 @@
+{
+  "contentHash": "d76379ef98e89582",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 quart vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 pound red snapper fillets",
+        "searchTerm": "red snapper fillets",
+        "normalizedName": "Red Snapper Fillet"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup dry bread crumbs",
+        "searchTerm": "dry bread crumbs",
+        "normalizedName": "Dry Bread Crumb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep fryer or pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "shallow bowls",
+        "searchTerm": "shallow bowl"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Maintain oil temperature at 350°F for crispy exterior and moist interior",
+      "Drain fried fish on paper towels immediately after removing from oil"
+    ],
+    "coachingPrompt": "Guide the user on proper breading technique and oil temperature management to achieve classic fish and chips at home."
+  },
+  "timestamp": "2026-02-06T06:41:36.110Z"
+}

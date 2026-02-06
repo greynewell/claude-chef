@@ -1,0 +1,58 @@
+{
+  "contentHash": "83f673c4ad900699",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "apples",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "banana",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "fresh strawberries",
+        "searchTerm": "strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "vanilla yogurt",
+        "searchTerm": "vanilla yogurt",
+        "normalizedName": "Vanilla Yogurt"
+      },
+      {
+        "ingredient": "ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Large Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Fruit Knife",
+        "searchTerm": "fruit knife"
+      }
+    ],
+    "cookingTips": [
+      "Cut apples just before serving and toss with lemon juice to prevent browning",
+      "Add banana last since it browns quickly when exposed to air",
+      "Toast walnuts lightly to bring out their natural flavor and add crunch"
+    ],
+    "coachingPrompt": "This is a quick, healthy option. Would you like ideas for variations or prep-ahead strategies?"
+  },
+  "timestamp": "2026-02-06T06:26:26.179Z"
+}

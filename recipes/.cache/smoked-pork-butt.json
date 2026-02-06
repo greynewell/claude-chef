@@ -1,0 +1,43 @@
+{
+  "contentHash": "1faac8f1ef786426",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "7 pounds fresh pork butt roast",
+        "searchTerm": "pork butt roast",
+        "normalizedName": "Pork Butt Roast"
+      },
+      {
+        "ingredient": "2 tablespoons ground New Mexico chile powder",
+        "searchTerm": "New Mexico chile powder",
+        "normalizedName": "New Mexico Chile Powder"
+      },
+      {
+        "ingredient": "4 tablespoons packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Smoker",
+        "searchTerm": "smoker"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Spray Bottle for Spritzing",
+        "searchTerm": "spray bottle"
+      }
+    ],
+    "cookingTips": [
+      "Apply dry rub 12-24 hours ahead for deep flavor penetration",
+      "Maintain smoker temperature at 225°F; smoke until internal temp reaches 190-203°F",
+      "Let rest 15-20 minutes before pulling; this redistributes juices"
+    ],
+    "coachingPrompt": "How long would you expect this to smoke? Would you wrap in foil after bark forms?"
+  },
+  "timestamp": "2026-02-06T18:22:25.290Z"
+}

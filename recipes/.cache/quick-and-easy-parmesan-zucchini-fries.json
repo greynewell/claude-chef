@@ -1,0 +1,68 @@
+{
+  "contentHash": "336837cf7c5312be",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¾ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon dried mixed herbs",
+        "searchTerm": "dried mixed herbs",
+        "normalizedName": "Mixed Herb"
+      },
+      {
+        "ingredient": "1 ½ teaspoons garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 teaspoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 pounds zucchinis",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "shallow dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cut zucchini uniformly for even cooking",
+      "Double-dip in egg and coating for extra crispiness",
+      "Bake at 400°F for 20-25 minutes until golden"
+    ],
+    "coachingPrompt": "Help the user achieve crispy-on-outside, tender-inside zucchini fries. Should they fry or bake? What temperature and time?"
+  },
+  "timestamp": "2026-02-06T15:38:36.242Z"
+}

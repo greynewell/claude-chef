@@ -1,0 +1,73 @@
+{
+  "contentHash": "756d85170a468c81",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground pork",
+        "searchTerm": "ground pork",
+        "normalizedName": "Ground Pork"
+      },
+      {
+        "ingredient": "1 teaspoon kosher salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¾ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 teaspoons finely chopped fresh sage leaves",
+        "searchTerm": "sage",
+        "normalizedName": "Sage"
+      },
+      {
+        "ingredient": "1 teaspoon finely chopped fresh thyme",
+        "searchTerm": "thyme",
+        "normalizedName": "Thyme"
+      },
+      {
+        "ingredient": "¼ teaspoon chopped fresh rosemary",
+        "searchTerm": "rosemary",
+        "normalizedName": "Rosemary"
+      },
+      {
+        "ingredient": "¼ teaspoon ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      },
+      {
+        "ingredient": "¼ teaspoon cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "¼ teaspoon red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "silicone spatula"
+      }
+    ],
+    "cookingTips": [
+      "Use fresh herbs when possible for superior flavor compared to dried versions",
+      "Mix gently to avoid compacting the meat; overmixing results in dense sausage",
+      "Cook over medium heat to ensure patties cook through without burning exterior"
+    ],
+    "coachingPrompt": "Guide the user on proper herb selection and the importance of gentle mixing to maintain tender sausage texture."
+  },
+  "timestamp": "2026-02-06T09:16:20.189Z"
+}

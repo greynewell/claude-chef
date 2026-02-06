@@ -1,0 +1,48 @@
+{
+  "contentHash": "1e60074fcc160881",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup sifted self-rising flour",
+        "searchTerm": "self-rising flour",
+        "normalizedName": "Self-Rising Flour"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "griddle",
+        "searchTerm": "griddle"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Do not overmix batter; lumps are fine and result in fluffier pancakes",
+      "Use medium heat and wait for bubbles to form on surface before flipping",
+      "Keep cooked pancakes warm in a 200°F oven while finishing batch"
+    ],
+    "coachingPrompt": "This is a straightforward recipe. Are you looking to add toppings or variations, or would you like guidance on achieving perfect golden-brown color?"
+  },
+  "timestamp": "2026-02-06T14:06:39.487Z"
+}

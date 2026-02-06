@@ -1,0 +1,52 @@
+{
+  "contentHash": "12af04b2c4d1958a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup whipped cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons Dijon mustard",
+        "searchTerm": "dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "1 tablespoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "4 bagels, split",
+        "searchTerm": "bagels",
+        "normalizedName": "Bagel"
+      },
+      {
+        "ingredient": "8 slices deli-style ham",
+        "searchTerm": "deli ham",
+        "normalizedName": "Deli Ham"
+      }
+    ],
+    "gear": [
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Mix the cream cheese spread at room temperature for smooth, even spreading",
+      "Toast bagels lightly to add texture and prevent them from becoming too soft"
+    ],
+    "coachingPrompt": "Help the user balance the sweetness of honey with the sharpness of Dijon mustard in the cream cheese spread."
+  },
+  "timestamp": "2026-02-06T08:41:29.025Z"
+}

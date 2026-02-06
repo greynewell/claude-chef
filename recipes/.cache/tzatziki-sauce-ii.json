@@ -1,0 +1,57 @@
+{
+  "contentHash": "f8c8d2bacf261d7c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups plain yogurt",
+        "searchTerm": "yogurt",
+        "normalizedName": "Yogurt"
+      },
+      {
+        "ingredient": "2 cloves crushed garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "¼ cup chopped fresh mint leaves",
+        "searchTerm": "mint",
+        "normalizedName": "Mint"
+      },
+      {
+        "ingredient": "1 large cucumber - peeled, seeded and shredded",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "grater",
+        "searchTerm": "grater"
+      },
+      {
+        "name": "cheesecloth",
+        "searchTerm": "cheesecloth"
+      }
+    ],
+    "cookingTips": [
+      "Drain shredded cucumber in cheesecloth to remove excess moisture",
+      "Make ahead and refrigerate for flavors to meld"
+    ],
+    "coachingPrompt": "How will you prevent the sauce from becoming watery as the cucumber releases liquid?"
+  },
+  "timestamp": "2026-02-06T21:25:46.593Z"
+}

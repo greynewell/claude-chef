@@ -1,0 +1,53 @@
+{
+  "contentHash": "11f15b686e913e1a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 ¼ cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup slivered almonds",
+        "searchTerm": "slivered almonds",
+        "normalizedName": "Slivered Almond"
+      },
+      {
+        "ingredient": "1 cup chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "candy thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Use a candy thermometer and cook mixture to exactly 300°F (hard crack stage) for proper texture",
+      "Pour toffee onto buttered baking sheet immediately and work quickly as it hardens fast",
+      "Top with chocolate chips while warm and spread evenly, then sprinkle almonds before chocolate sets"
+    ],
+    "coachingPrompt": "Toffee candy requires precise temperature control. How will you monitor heat and what should you do when the mixture reaches hard crack stage?"
+  },
+  "timestamp": "2026-02-06T06:21:09.560Z"
+}

@@ -1,0 +1,62 @@
+{
+  "contentHash": "4aa9379276dded4f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅓ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 teaspoons minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 cup whole milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "1 pinch dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      },
+      {
+        "ingredient": "1 pinch dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "1 pinch dried parsley",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "pan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Make a roux with butter and flour, cooking for 1-2 minutes before adding milk",
+      "Whisk constantly when adding milk to prevent lumps"
+    ],
+    "coachingPrompt": "Suggest the user taste the sauce and adjust the dried herbs, as their potency can vary significantly between brands."
+  },
+  "timestamp": "2026-02-06T04:26:12.763Z"
+}

@@ -1,0 +1,73 @@
+{
+  "contentHash": "1bcb73c0a1513f44",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "unsalted butter at room temperature",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      },
+      {
+        "ingredient": "shredded sharp Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "freshly shredded Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmigiano-Reggiano Cheese"
+      },
+      {
+        "ingredient": "paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "rolling pin",
+        "searchTerm": "rolling pin"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Keep dough cold to ensure flaky, tender crackers",
+      "Cut crackers into uniform sizes for even baking",
+      "Watch for color change from pale to golden—they brown quickly"
+    ],
+    "coachingPrompt": "Guide the user through creating a paste with butter and cheese before adding flour. Explain how this builds flavor throughout the crackers."
+  },
+  "timestamp": "2026-02-06T01:59:13.392Z"
+}

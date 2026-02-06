@@ -1,0 +1,67 @@
+{
+  "contentHash": "9fdaa951d3c882a6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package penne pasta",
+        "searchTerm": "penne pasta",
+        "normalizedName": "Penne"
+      },
+      {
+        "ingredient": "1 teaspoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 cups chopped cooked chicken",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 (14 ounce) can Italian-style diced tomatoes",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 (10 ounce) package spinach",
+        "searchTerm": "fresh spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 ½ cups shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Baking dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "pan"
+      }
+    ],
+    "cookingTips": [
+      "Soften cream cheese in a warm pan before mixing to avoid lumps",
+      "Squeeze excess moisture from spinach to prevent a watery casserole"
+    ],
+    "coachingPrompt": "Guide the user on properly wilting and draining spinach and achieving smooth sauce integration."
+  },
+  "timestamp": "2026-02-06T02:43:10.407Z"
+}

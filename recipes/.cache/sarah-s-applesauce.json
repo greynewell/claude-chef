@@ -1,0 +1,47 @@
+{
+  "contentHash": "4613ddfdb3ab4d3c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 apples - peeled, cored and chopped",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "¾ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Potato masher or immersion blender",
+        "searchTerm": "potato masher"
+      },
+      {
+        "name": "Fine-mesh strainer",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Use a mix of tart and sweet apples for better flavor balance",
+      "Cook until apples are very soft and break down easily, about 15-20 minutes"
+    ],
+    "coachingPrompt": "Guide the user through making homemade applesauce with proper texture and controlling sweetness with natural apple sugars."
+  },
+  "timestamp": "2026-02-06T16:55:39.150Z"
+}

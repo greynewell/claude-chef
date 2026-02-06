@@ -1,0 +1,68 @@
+{
+  "contentHash": "6e8d2ae4f23f4c6f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ham bone with some meat",
+        "searchTerm": "ham bone",
+        "normalizedName": "Ham Bone"
+      },
+      {
+        "ingredient": "1 onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can peeled and diced tomatoes with juice",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 (15.25 ounce) can kidney beans",
+        "searchTerm": "kidney beans",
+        "normalizedName": "Kidney Bean"
+      },
+      {
+        "ingredient": "3 potatoes, cubed",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 green bell pepper, seeded and cubed",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "4 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "6 cubes chicken bouillon",
+        "searchTerm": "chicken bouillon",
+        "normalizedName": "Chicken Bouillon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Crush bouillon cubes before adding for better distribution in broth",
+      "Simmer for 1.5 hours to extract flavor from ham bone",
+      "Kidney beans add protein and heartiness; drain and rinse first if preferred"
+    ],
+    "coachingPrompt": "Help the user understand the balance between bean-based soups and meat-based flavor from ham bone."
+  },
+  "timestamp": "2026-02-06T08:42:32.642Z"
+}

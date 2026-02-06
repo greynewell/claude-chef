@@ -1,0 +1,63 @@
+{
+  "contentHash": "e6e8840683720d1f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "4 small potatoes, peeled and coarsely chopped",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ teaspoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 cups shredded Wisconsin brick cheese",
+        "searchTerm": "brick cheese",
+        "normalizedName": "Brick Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grater",
+        "searchTerm": "box grater"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Grate potatoes just before cooking to prevent discoloration",
+      "Cook bacon until crispy, then use the rendered fat for cooking the dumplings",
+      "Don't overmix the batter or the haluski will become tough"
+    ],
+    "coachingPrompt": "How does the combination of potato and egg create the right consistency for these dumplings?"
+  },
+  "timestamp": "2026-02-06T21:06:10.518Z"
+}

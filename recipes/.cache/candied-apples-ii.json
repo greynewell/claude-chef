@@ -1,0 +1,53 @@
+{
+  "contentHash": "29ff4f311e3106d7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "15 apples",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup light corn syrup",
+        "searchTerm": "corn syrup",
+        "normalizedName": "Corn Syrup"
+      },
+      {
+        "ingredient": "1 ½ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "8 drops red food coloring",
+        "searchTerm": "red food coloring",
+        "normalizedName": "Red Food Coloring"
+      }
+    ],
+    "gear": [
+      {
+        "name": "candy thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "popsicle sticks",
+        "searchTerm": "popsicle sticks"
+      }
+    ],
+    "cookingTips": [
+      "Insert sticks before coating to prevent slipping",
+      "Work quickly as candy coating hardens fast",
+      "Keep syrup at proper temperature for optimal coating"
+    ],
+    "coachingPrompt": "Help the user manage temperature control and timing for uniform coating."
+  },
+  "timestamp": "2026-02-06T01:18:28.872Z"
+}

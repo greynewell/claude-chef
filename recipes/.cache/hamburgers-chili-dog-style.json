@@ -1,0 +1,78 @@
+{
+  "contentHash": "767c2bb413cef02a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 teaspoon Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon minced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (15 ounce) can chili without beans",
+        "searchTerm": "chili",
+        "normalizedName": "Chili"
+      },
+      {
+        "ingredient": "6 hot dog buns",
+        "searchTerm": "hot dog buns",
+        "normalizedName": "Hot Dog Bun"
+      },
+      {
+        "ingredient": "6 slices American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      },
+      {
+        "ingredient": "3 dill pickles, cut into strips lengthwise",
+        "searchTerm": "dill pickles",
+        "normalizedName": "Dill Pickle"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Cook the hamburger patties first, then warm the canned chili separately to avoid overcooking the meat",
+      "Top each burger with cheese while still hot on the skillet so it melts slightly before assembly",
+      "Warm the hot dog buns lightly to prevent them from getting soggy from the chili"
+    ],
+    "coachingPrompt": "This is a fun casual burger with chili-dog toppings. Would you prefer to warm the chili first or add it fresh?"
+  },
+  "timestamp": "2026-02-06T08:45:37.989Z"
+}

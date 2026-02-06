@@ -1,0 +1,43 @@
+{
+  "contentHash": "67b0291fd62e7a25",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "12 sea scallops, rinsed and drained",
+        "searchTerm": "sea scallops",
+        "normalizedName": "Sea Scallop"
+      },
+      {
+        "ingredient": "3 tablespoons fresh lemon juice",
+        "searchTerm": "fresh lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "toothpicks",
+        "searchTerm": "toothpicks"
+      },
+      {
+        "name": "plate",
+        "searchTerm": "serving plate"
+      }
+    ],
+    "cookingTips": [
+      "Wrap bacon around scallops and secure with toothpicks before cooking",
+      "Render bacon fat fully for best flavor, then cook scallops in the same pan",
+      "Drizzle fresh lemon juice just before serving to brighten flavors"
+    ],
+    "coachingPrompt": "What's the advantage of cooking scallops in bacon fat? How do you know when the bacon is crispy but the scallops aren't overcooked?"
+  },
+  "timestamp": "2026-02-06T17:09:04.901Z"
+}

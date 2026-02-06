@@ -1,0 +1,58 @@
+{
+  "contentHash": "37094e4f9896b4d6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "⅔ cup creamy peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "3 cups quick-cooking oats",
+        "searchTerm": "oats",
+        "normalizedName": "Quick-Cooking Oat"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Boil the sugar-butter-milk mixture for exactly 1 minute before adding peanut butter",
+      "Stir constantly while cooking to prevent burning on the bottom of the pan",
+      "Work quickly when dropping cookies as they harden rapidly once removed from heat"
+    ],
+    "coachingPrompt": "Emphasize precise timing and quick execution when boiling and dropping the cookie mixture."
+  },
+  "timestamp": "2026-02-06T13:17:09.207Z"
+}

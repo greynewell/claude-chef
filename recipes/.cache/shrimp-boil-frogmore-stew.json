@@ -1,0 +1,53 @@
+{
+  "contentHash": "de00ede9f7b887c4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "seafood seasoning",
+        "searchTerm": "Old Bay seasoning",
+        "normalizedName": "Seafood Seasoning"
+      },
+      {
+        "ingredient": "small red potatoes",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "smoked sausage",
+        "searchTerm": "smoked sausage",
+        "normalizedName": "Smoked Sausage"
+      },
+      {
+        "ingredient": "ears corn",
+        "searchTerm": "corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "fresh shrimp",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Boil potatoes until just tender, about 15 minutes, before adding sausage",
+      "Add corn and shrimp in final minutes to prevent overcooking",
+      "Drain well and serve on newspaper or wooden board for authentic experience"
+    ],
+    "coachingPrompt": "Help me organize the timing of this one-pot feast so every ingredient is perfectly cooked simultaneously."
+  },
+  "timestamp": "2026-02-06T17:33:53.080Z"
+}

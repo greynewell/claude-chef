@@ -1,0 +1,58 @@
+{
+  "contentHash": "e86874a629dac0e3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 cloves crushed garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 large zucchini, sliced crosswise into rounds",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "1 pound ground Italian sausage",
+        "searchTerm": "Italian sausage",
+        "normalizedName": "Italian Sausage"
+      },
+      {
+        "ingredient": "½ (14 ounce) jar pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "½ cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausage thoroughly before topping pizzas",
+      "Cut zucchini into even rounds for uniform cooking",
+      "Brush zucchini with garlic butter before assembling"
+    ],
+    "coachingPrompt": "Guide the user through cooking sausage and assembling these zucchini-based mini pizzas."
+  },
+  "timestamp": "2026-02-06T22:29:12.634Z"
+}

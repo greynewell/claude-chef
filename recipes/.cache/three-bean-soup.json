@@ -1,0 +1,73 @@
+{
+  "contentHash": "b544487b7c210c87",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 green bell pepper, chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 yellow bell pepper, chopped",
+        "searchTerm": "yellow bell pepper",
+        "normalizedName": "Yellow Bell Pepper"
+      },
+      {
+        "ingredient": "2 (14.5 ounce) cans chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 (10 ounce) can diced tomatoes with green chile peppers",
+        "searchTerm": "diced tomatoes with green chiles",
+        "normalizedName": "Diced Tomato with Green Chile"
+      },
+      {
+        "ingredient": "2 (15 ounce) cans black beans, drained",
+        "searchTerm": "canned black beans",
+        "normalizedName": "Canned Black Bean"
+      },
+      {
+        "ingredient": "1 (15 ounce) can pinto beans, drained",
+        "searchTerm": "canned pinto beans",
+        "normalizedName": "Canned Pinto Bean"
+      },
+      {
+        "ingredient": "2 (15 ounce) cans kidney beans, drained",
+        "searchTerm": "canned kidney beans",
+        "normalizedName": "Canned Kidney Bean"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Drain all canned beans well to prevent a starchy, thick soup",
+      "Sauté the vegetables first to build flavor before adding liquids",
+      "Simmer for 15-20 minutes to let the flavors combine"
+    ],
+    "coachingPrompt": "Guide the user through making a hearty, quick three-bean soup and suggest optional toppings."
+  },
+  "timestamp": "2026-02-06T20:45:51.172Z"
+}

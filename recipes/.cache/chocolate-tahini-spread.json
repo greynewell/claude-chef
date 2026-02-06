@@ -1,0 +1,53 @@
+{
+  "contentHash": "1e8fbcf85f26ccb6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ounces dark chocolate, chopped",
+        "searchTerm": "dark chocolate",
+        "normalizedName": "Dark Chocolate"
+      },
+      {
+        "ingredient": "¼ cup extra-virgin olive oil",
+        "searchTerm": "extra-virgin olive oil",
+        "normalizedName": "Extra-Virgin Olive Oil"
+      },
+      {
+        "ingredient": "⅔ cup tahini",
+        "searchTerm": "tahini",
+        "normalizedName": "Tahini"
+      },
+      {
+        "ingredient": "3 ½ tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon  (Optional)",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "jar",
+        "searchTerm": "storage jar"
+      }
+    ],
+    "cookingTips": [
+      "Melt chocolate gently over low heat to prevent seizing",
+      "Blend until completely smooth for best spread consistency",
+      "Store in airtight container at room temperature"
+    ],
+    "coachingPrompt": "Guide the user on proper chocolate melting technique and achieving a smooth, spreadable consistency."
+  },
+  "timestamp": "2026-02-06T03:13:30.662Z"
+}

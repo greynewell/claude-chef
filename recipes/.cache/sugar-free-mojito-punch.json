@@ -1,0 +1,52 @@
+{
+  "contentHash": "d5633eab621841c4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "½ cup fresh mint leaves",
+        "searchTerm": "mint",
+        "normalizedName": "Mint"
+      },
+      {
+        "ingredient": "¼ cup granular sucralose sweetener (such as Splenda®)",
+        "searchTerm": "sucralose sweetener",
+        "normalizedName": "Sucralose Sweetener"
+      },
+      {
+        "ingredient": "4 ¼ cups diet lemon-lime soda",
+        "searchTerm": "diet lemon-lime soda",
+        "normalizedName": "Diet Lemon-Lime Soda"
+      },
+      {
+        "ingredient": "4 cups crushed ice",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pitcher",
+        "searchTerm": "pitcher"
+      },
+      {
+        "name": "muddler",
+        "searchTerm": "muddler"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Muddle mint gently to release oils without pulverizing the leaves",
+      "Add ice just before serving to keep the punch cold and refreshing"
+    ],
+    "coachingPrompt": "Are you serving this as a non-alcoholic punch or adding rum for an adult version?"
+  },
+  "timestamp": "2026-02-06T19:44:10.589Z"
+}

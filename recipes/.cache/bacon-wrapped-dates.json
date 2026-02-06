@@ -1,0 +1,43 @@
+{
+  "contentHash": "26315f79f2e56d57",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "16 fresh or dried pitted dates, such as Medjool",
+        "searchTerm": "Medjool dates",
+        "normalizedName": "Date"
+      },
+      {
+        "ingredient": "16 smoked almonds",
+        "searchTerm": "smoked almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "8 thick slices applewood-smoked bacon, halved crosswise",
+        "searchTerm": "applewood-smoked bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "Reynolds Wrap® Aluminum Foil",
+        "searchTerm": "aluminum foil",
+        "normalizedName": "Aluminum Foil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "foil",
+        "searchTerm": "aluminum foil"
+      }
+    ],
+    "cookingTips": [
+      "Place one smoked almond inside each date before wrapping with bacon",
+      "Wrap in foil packets for steaming effect that keeps bacon moist while crisping"
+    ],
+    "coachingPrompt": "Should you wrap these in foil or cook them uncovered for maximum bacon crispness?"
+  },
+  "timestamp": "2026-02-05T22:53:49.046Z"
+}

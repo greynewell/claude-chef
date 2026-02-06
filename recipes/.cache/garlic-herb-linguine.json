@@ -1,0 +1,53 @@
+{
+  "contentHash": "5818042ec602847a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 ounces dried linguine",
+        "searchTerm": "linguine",
+        "normalizedName": "Linguine"
+      },
+      {
+        "ingredient": "¼ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon dried parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "1 teaspoon seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta in salted boiling water until al dente",
+      "Toss pasta immediately with garlic butter while still warm",
+      "Serve immediately to prevent sticking"
+    ],
+    "coachingPrompt": "How do you achieve al dente pasta texture?"
+  },
+  "timestamp": "2026-02-06T07:18:24.901Z"
+}

@@ -1,0 +1,77 @@
+{
+  "contentHash": "899968591d7fa6bb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "1 cup chopped celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 (14.5 ounce) cans chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "3 cups peeled and cubed potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 (15 ounce) can whole kernel corn",
+        "searchTerm": "corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "1 (4 ounce) can diced green chiles",
+        "searchTerm": "green chiles",
+        "normalizedName": "Green Chile"
+      },
+      {
+        "ingredient": "1 (2.5 ounce) package country style gravy mix",
+        "searchTerm": "gravy mix",
+        "normalizedName": "Gravy Mix"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 cup shredded Mexican-style processed cheese food",
+        "searchTerm": "Mexican cheese",
+        "normalizedName": "Mexican Cheese Food"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "Let potatoes cook until just tender; overcooked potatoes will fall apart and make soup mushy",
+      "Add cheese at the end off heat to prevent separation and scorching"
+    ],
+    "coachingPrompt": "When is the best time to add cheese to prevent the soup from breaking?"
+  },
+  "timestamp": "2026-02-06T01:53:00.002Z"
+}

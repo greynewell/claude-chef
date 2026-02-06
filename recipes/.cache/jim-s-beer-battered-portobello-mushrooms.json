@@ -1,0 +1,63 @@
+{
+  "contentHash": "ba6110883a732b01",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 cups bitter ale",
+        "searchTerm": "bitter ale beer",
+        "normalizedName": "Bitter Ale"
+      },
+      {
+        "ingredient": "1 ¾ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ cup sesame seeds",
+        "searchTerm": "sesame seeds",
+        "normalizedName": "Sesame Seed"
+      },
+      {
+        "ingredient": "2 tablespoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "1 tablespoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "3 large portobello mushroom caps",
+        "searchTerm": "portobello mushroom",
+        "normalizedName": "Portobello Mushroom"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep fryer",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Slotted spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use cold beer and keep batter cold for crispier coating",
+      "Oil must reach 350°F for proper frying",
+      "Fry in small batches to maintain oil temperature"
+    ],
+    "coachingPrompt": "How can I make sure the beer batter is light and crispy rather than dense?"
+  },
+  "timestamp": "2026-02-06T10:27:47.085Z"
+}

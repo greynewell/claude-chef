@@ -1,0 +1,52 @@
+{
+  "contentHash": "69489638a153cffe",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 gallon warm water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¾ cup kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "⅔ cup sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¾ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large container",
+        "searchTerm": "container"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Measuring cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Ensure salt and sugar completely dissolve before adding chicken",
+      "Keep brine and chicken refrigerated throughout the brining process"
+    ],
+    "coachingPrompt": "Guide me on how long to brine chicken and the proper refrigeration method"
+  },
+  "timestamp": "2026-02-06T17:49:04.650Z"
+}

@@ -1,0 +1,62 @@
+{
+  "contentHash": "47e129796b5f94cc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅓ pound ground beef chuck",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 potato, sliced",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 carrot, sliced",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 sweet onion, sliced",
+        "searchTerm": "sweet onion",
+        "normalizedName": "Sweet Onion"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Aluminum foil",
+        "searchTerm": "heavy-duty foil"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "cutting knife"
+      }
+    ],
+    "cookingTips": [
+      "Create sealed foil packets with ingredients layered for even cooking",
+      "Bake at 400°F for 25-30 minutes until vegetables are tender and beef is cooked through"
+    ],
+    "coachingPrompt": "How does cooking in foil packets help retain moisture and simplify cleanup?"
+  },
+  "timestamp": "2026-02-06T12:06:57.904Z"
+}

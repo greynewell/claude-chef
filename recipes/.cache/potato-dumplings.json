@@ -1,0 +1,48 @@
+{
+  "contentHash": "27632008bf97fcf1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 large potatoes, peeled and chopped",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 cup self-rising flour",
+        "searchTerm": "self-rising flour",
+        "normalizedName": "Self-Rising Flour"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "8 large seasoned croutons",
+        "searchTerm": "crouton",
+        "normalizedName": "Crouton"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Boil potatoes until very tender for easy mashing",
+      "Use croutons as a surprise filling in the center of each dumpling",
+      "Test one dumpling first to ensure dough holds together properly"
+    ],
+    "coachingPrompt": "Guide the user through creating tender dumplings with a crouton surprise inside. What's the ideal dough consistency?"
+  },
+  "timestamp": "2026-02-06T15:13:50.725Z"
+}

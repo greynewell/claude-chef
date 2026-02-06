@@ -1,0 +1,63 @@
+{
+  "contentHash": "95be55eb79ac017d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons red wine",
+        "searchTerm": "red wine",
+        "normalizedName": "Red Wine"
+      },
+      {
+        "ingredient": "½ teaspoon ground ginger",
+        "searchTerm": "ginger",
+        "normalizedName": "Ginger"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 pounds salmon steaks",
+        "searchTerm": "salmon steaks",
+        "normalizedName": "Salmon Steak"
+      },
+      {
+        "ingredient": "4 sprigs fresh parsley, for garnish",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "4 slices lemon, for garnish",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "charbroiler or grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "fish spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "shallow dish",
+        "searchTerm": "baking dish"
+      }
+    ],
+    "cookingTips": [
+      "Marinate salmon for 30-45 minutes to avoid overpowering the delicate fish",
+      "Oil the grill grates well to prevent sticking",
+      "Cook skin-side down first, then flip only once for 4-5 minutes per side"
+    ],
+    "coachingPrompt": "How can you prevent salmon from sticking to the grill while maintaining the skin's integrity?"
+  },
+  "timestamp": "2026-02-06T01:41:44.615Z"
+}

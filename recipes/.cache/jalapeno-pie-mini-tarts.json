@@ -1,0 +1,47 @@
+{
+  "contentHash": "654ae719dc677f69",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) jar sliced jalapeno peppers",
+        "searchTerm": "sliced jalapeno peppers",
+        "normalizedName": "Sliced Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 (8 ounce) package shredded Monterey Jack cheese",
+        "searchTerm": "monterey jack cheese",
+        "normalizedName": "Monterey Jack Cheese"
+      },
+      {
+        "ingredient": "6 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 tablespoon dried parsley",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mini muffin tin",
+        "searchTerm": "mini muffin tin"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Grease muffin tins well to prevent sticking",
+      "Don't overfill tarts as egg mixture will puff up during baking"
+    ],
+    "coachingPrompt": "Help the user distribute jalapenos evenly among muffin cups and pour egg mixture carefully for uniform cooking."
+  },
+  "timestamp": "2026-02-06T10:14:39.294Z"
+}

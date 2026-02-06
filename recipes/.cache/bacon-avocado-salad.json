@@ -1,0 +1,73 @@
+{
+  "contentHash": "0f75d9d378fd7a87",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound bacon, chopped",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 cucumber, diced",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "1 cup quartered cherry tomatoes",
+        "searchTerm": "cherry tomato",
+        "normalizedName": "Cherry Tomato"
+      },
+      {
+        "ingredient": "¼ cup seasoned rice vinegar",
+        "searchTerm": "rice vinegar",
+        "normalizedName": "Rice Vinegar"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "5 avocados - peeled, pitted, and diced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "½ cup chopped fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "4 green onions, chopped",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Salad Bowl",
+        "searchTerm": "salad bowl"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Prepare avocados last and toss gently to avoid crushing them",
+      "Cook bacon until crispy and let cool before adding to prevent wilting vegetables",
+      "Use rice vinegar for a milder acid that won't overpower delicate ingredients"
+    ],
+    "coachingPrompt": "What order should you assemble this salad to maintain texture and prevent browning?"
+  },
+  "timestamp": "2026-02-05T22:49:20.389Z"
+}

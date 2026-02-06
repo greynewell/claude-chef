@@ -1,0 +1,63 @@
+{
+  "contentHash": "57698dee1b826573",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "chicken bouillon cube",
+        "searchTerm": "chicken bouillon",
+        "normalizedName": "Chicken Bouillon"
+      },
+      {
+        "ingredient": "boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "fresh parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cut celery into uniform pieces for even cooking",
+      "Braising mellows celery's strong flavor",
+      "Parsley garnish adds freshness to mild braised vegetables"
+    ],
+    "coachingPrompt": "Have you braised celery before, and what surprised you about the result?"
+  },
+  "timestamp": "2026-02-06T00:33:03.008Z"
+}

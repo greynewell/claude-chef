@@ -1,0 +1,58 @@
+{
+  "contentHash": "3ff4abe99b6387ce",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 jumbo hot dogs",
+        "searchTerm": "jumbo hot dogs",
+        "normalizedName": "Hot Dog"
+      },
+      {
+        "ingredient": "1 teaspoon taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning"
+      },
+      {
+        "ingredient": "2 hot dog buns",
+        "searchTerm": "hot dog buns",
+        "normalizedName": "Hot Dog Bun"
+      },
+      {
+        "ingredient": "⅓ cup guacamole",
+        "searchTerm": "guacamole",
+        "normalizedName": "Guacamole"
+      },
+      {
+        "ingredient": "4 tablespoons salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "6 pickled jalapeno slices",
+        "searchTerm": "pickled jalapenos",
+        "normalizedName": "Jalapeno"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Air Fryer Basket",
+        "searchTerm": "air fryer basket"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "kitchen knife"
+      }
+    ],
+    "cookingTips": [
+      "Score hot dogs diagonally before air frying to help taco seasoning adhere and create texture",
+      "Air fry hot dogs at 380°F for 5-7 minutes until slightly charred and heated through",
+      "Toast buns lightly in air fryer or toaster before assembling for better texture and flavor"
+    ],
+    "coachingPrompt": "Help the user score and season hot dogs, air fry to perfection, and assemble with toppings."
+  },
+  "timestamp": "2026-02-05T21:38:14.880Z"
+}

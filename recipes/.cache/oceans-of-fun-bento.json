@@ -1,0 +1,53 @@
+{
+  "contentHash": "56e6c6133f3c4310",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ hot dog",
+        "searchTerm": "hot dog",
+        "normalizedName": "Hot Dog"
+      },
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (3 ounce) package ramen noodles",
+        "searchTerm": "ramen noodles",
+        "normalizedName": "Ramen Noodle"
+      },
+      {
+        "ingredient": "6 cauliflower florets",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower Floret"
+      },
+      {
+        "ingredient": "¼ cup chopped baby spinach",
+        "searchTerm": "baby spinach",
+        "normalizedName": "Baby Spinach"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "bento box",
+        "searchTerm": "bento box"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Cook ramen slightly al dente so it doesn't get mushy in the bento box",
+      "Blanch cauliflower briefly to keep it tender-crisp",
+      "Assemble bento box just before eating to keep ingredients fresh"
+    ],
+    "coachingPrompt": "Bento boxes are fun and portable. Arrange ingredients with color and variety in mind for visual appeal."
+  },
+  "timestamp": "2026-02-06T13:28:53.148Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "2ffea62eeb428b9c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups peeled and shredded potatoes",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 tablespoon grated onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 eggs, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 ½ teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ cup peanut oil for frying",
+        "searchTerm": "peanut oil",
+        "normalizedName": "Peanut Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Box Grater",
+        "searchTerm": "box grater"
+      },
+      {
+        "name": "Shallow Dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "Cast Iron Skillet",
+        "searchTerm": "cast iron skillet"
+      }
+    ],
+    "cookingTips": [
+      "Squeeze shredded potatoes in a clean kitchen towel to remove excess moisture",
+      "Form patties just before frying to prevent discoloration",
+      "Fry over medium-high heat until golden brown on both sides, about 3-4 minutes per side"
+    ],
+    "coachingPrompt": "What techniques will help the user create crispy edges and tender centers? How should they manage moisture and timing?"
+  },
+  "timestamp": "2026-02-06T15:13:50.725Z"
+}

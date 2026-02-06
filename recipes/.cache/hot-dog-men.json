@@ -1,0 +1,48 @@
+{
+  "contentHash": "61029c910b19f0d4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 hot dogs",
+        "searchTerm": "hot dogs",
+        "normalizedName": "Hot Dog"
+      },
+      {
+        "ingredient": "8 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "8 slices American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      },
+      {
+        "ingredient": "ketchup and mustard to taste",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "ketchup and mustard to taste",
+        "searchTerm": "mustard",
+        "normalizedName": "Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Heat bread lightly to prevent sogginess from condiments",
+      "Arrange hot dogs and cheese creatively to form a 'face' for a fun presentation"
+    ],
+    "coachingPrompt": "Suggest creative vegetable toppings and condiment combinations to make this kid-friendly dish more nutritious and visually interesting."
+  },
+  "timestamp": "2026-02-06T09:30:05.078Z"
+}

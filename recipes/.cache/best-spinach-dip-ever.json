@@ -1,0 +1,54 @@
+{
+  "contentHash": "c58bdbcdb587fa7a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 (16 ounce) container sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 (1.8 ounce) package dry leek soup mix",
+        "searchTerm": "leek soup mix",
+        "normalizedName": "Leek Soup Mix"
+      },
+      {
+        "ingredient": "1 (4 ounce) can water chestnuts, drained and chopped",
+        "searchTerm": "water chestnuts",
+        "normalizedName": "Water Chestnut"
+      },
+      {
+        "ingredient": "½ (10 ounce) package frozen chopped spinach, thawed and drained",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Frozen Spinach"
+      },
+      {
+        "ingredient": "1 (1 pound) loaf round sourdough bread",
+        "searchTerm": "sourdough bread",
+        "normalizedName": "Sourdough Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Bread Knife",
+        "searchTerm": "bread knife"
+      }
+    ],
+    "cookingTips": [
+      "Thaw and thoroughly drain spinach to prevent excess moisture that could make the dip watery",
+      "Mix all ingredients well and refrigerate for at least 1 hour to allow flavors to meld",
+      "Hollow out the bread bowl and serve the dip inside with bread cubes for an impressive presentation"
+    ],
+    "coachingPrompt": "Help the user achieve the perfect consistency by emphasizing proper spinach drainage. Suggest make-ahead timing and flavor balance recommendations."
+  },
+  "timestamp": "2026-02-06T00:03:47.584Z"
+}

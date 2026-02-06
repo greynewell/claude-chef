@@ -1,0 +1,57 @@
+{
+  "contentHash": "88f7bb5548b9d59e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound uncooked linguine",
+        "searchTerm": "linguine pasta",
+        "normalizedName": "Linguine Pasta"
+      },
+      {
+        "ingredient": "2 boneless chicken breast halves, cooked and cubed",
+        "searchTerm": "cooked chicken breast",
+        "normalizedName": "Cooked Chicken Breast"
+      },
+      {
+        "ingredient": "1 (4.5 ounce) can sliced mushrooms",
+        "searchTerm": "canned mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar Alfredo-style pasta sauce",
+        "searchTerm": "Alfredo sauce",
+        "normalizedName": "Alfredo Sauce"
+      },
+      {
+        "ingredient": "1 (10 ounce) package frozen mixed vegetables",
+        "searchTerm": "frozen mixed vegetables",
+        "normalizedName": "Mixed Vegetable"
+      },
+      {
+        "ingredient": "⅓ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Use jarred sauce to save time while still creating a satisfying weeknight meal",
+      "Add milk gradually to the sauce to reach desired consistency without making it too thin"
+    ],
+    "coachingPrompt": "Help the user understand how to combine simple ingredients for a quick dinner, and suggest ways to customize with additional vegetables."
+  },
+  "timestamp": "2026-02-06T05:37:57.568Z"
+}

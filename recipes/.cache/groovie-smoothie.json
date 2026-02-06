@@ -1,0 +1,48 @@
+{
+  "contentHash": "a7053a3f0a320d03",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "small bananas",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "frozen unsweetened strawberries",
+        "searchTerm": "frozen strawberry",
+        "normalizedName": "Frozen Strawberry"
+      },
+      {
+        "ingredient": "vanilla low-fat yogurt",
+        "searchTerm": "vanilla yogurt",
+        "normalizedName": "Vanilla Yogurt"
+      },
+      {
+        "ingredient": "milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cup"
+      },
+      {
+        "name": "glasses",
+        "searchTerm": "drinking glass"
+      }
+    ],
+    "cookingTips": [
+      "Freeze bananas ahead of time for a thicker, creamier smoothie texture",
+      "Add frozen fruit gradually while blending to achieve desired consistency",
+      "Blend on high speed for 30-60 seconds until smooth and creamy"
+    ],
+    "coachingPrompt": "How do frozen bananas contribute to both thickness and creaminess without added ice?"
+  },
+  "timestamp": "2026-02-06T08:31:06.344Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "9fc1df3563995bb6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup unsalted butter, chilled",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      },
+      {
+        "ingredient": "3 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "3 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "⅓ cup ice water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pastry cutter or fork",
+        "searchTerm": "pastry cutter"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "pie dish",
+        "searchTerm": "pie dish"
+      }
+    ],
+    "cookingTips": [
+      "Keep all ingredients, especially butter and water, as cold as possible for a flaky crust",
+      "Avoid overworking the dough; mix until just combined",
+      "Chill the dough for at least 30 minutes before rolling out"
+    ],
+    "coachingPrompt": "Guide the user through creating a tender, flaky pie crust by emphasizing proper temperature control and minimal mixing."
+  },
+  "timestamp": "2026-02-06T12:45:08.411Z"
+}

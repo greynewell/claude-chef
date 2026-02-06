@@ -1,0 +1,58 @@
+{
+  "contentHash": "5169c06cc3b07a0b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (8 ounce) packages cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 cup crumbled blue cheese",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      },
+      {
+        "ingredient": "1 cup shredded sharp Cheddar cheese",
+        "normalizedName": "Sharp Cheddar Cheese",
+        "searchTerm": "sharp Cheddar cheese"
+      },
+      {
+        "ingredient": "¼ cup minced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 tablespoon Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "1 cup chopped walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "plastic wrap",
+        "searchTerm": "plastic wrap"
+      }
+    ],
+    "cookingTips": [
+      "Soften cream cheese at room temperature for at least 30 minutes for easier mixing",
+      "Roll the finished ball in finely chopped walnuts for even coverage and attractive presentation",
+      "Refrigerate for at least 2 hours before serving to firm up the ball"
+    ],
+    "coachingPrompt": "What's the benefit of chilling the cheese ball before coating with nuts?"
+  },
+  "timestamp": "2026-02-06T00:18:58.190Z"
+}

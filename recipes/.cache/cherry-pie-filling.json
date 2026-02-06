@@ -1,0 +1,43 @@
+{
+  "contentHash": "33984b9fe2653093",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups pitted tart red cherries",
+        "searchTerm": "tart cherries",
+        "normalizedName": "Cherry"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ cup cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Combine cornstarch and sugar before adding to prevent lumping",
+      "Bring to a boil and simmer for 2-3 minutes until thickened",
+      "Cool slightly before filling pie to prevent sogginess"
+    ],
+    "coachingPrompt": "What techniques ensure a smooth, lump-free pie filling thickener?"
+  },
+  "timestamp": "2026-02-06T02:16:47.081Z"
+}

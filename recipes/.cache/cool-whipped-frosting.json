@@ -1,0 +1,43 @@
+{
+  "contentHash": "1c5973cd2a0e3c61",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) container frozen whipped topping, thawed",
+        "searchTerm": "whipped topping",
+        "normalizedName": "Whipped Topping"
+      },
+      {
+        "ingredient": "1 (3.5 ounce) package instant vanilla pudding mix",
+        "searchTerm": "instant pudding mix",
+        "normalizedName": "Instant Vanilla Pudding Mix"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Thaw whipped topping completely for smooth mixing",
+      "Use cold milk to prevent pudding from setting too quickly"
+    ],
+    "coachingPrompt": "Show me how to fold pudding into whipped topping for light, fluffy frosting."
+  },
+  "timestamp": "2026-02-06T03:48:49.761Z"
+}

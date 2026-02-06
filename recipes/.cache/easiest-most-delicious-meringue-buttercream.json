@@ -1,0 +1,48 @@
+{
+  "contentHash": "610e1ce5c8d6fa75",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 egg whites",
+        "searchTerm": "egg whites",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 cups unsalted butter, at room temperature",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      },
+      {
+        "ingredient": "1 tablespoon vanilla extract  (Optional)",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "double boiler",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Heat egg whites and sugar together in double boiler to 160°F for food safety while dissolving sugar",
+      "Beat meringue to stiff peaks before adding butter gradually for stable emulsion",
+      "Ensure butter is at room temperature to blend smoothly without separating"
+    ],
+    "coachingPrompt": "Why heat eggs and sugar? How do you know when to start adding butter?"
+  },
+  "timestamp": "2026-02-06T05:27:03.257Z"
+}

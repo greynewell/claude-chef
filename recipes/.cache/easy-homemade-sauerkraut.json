@@ -1,0 +1,52 @@
+{
+  "contentHash": "6ef1f48a162651b3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 pounds cabbage, thinly sliced",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "1 onion, thinly sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 tablespoons sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "water to cover",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Glass jar or crock",
+        "searchTerm": "glass jar"
+      },
+      {
+        "name": "Weight or plate",
+        "searchTerm": "weight"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Keep the cabbage submerged under the brine to prevent mold growth during fermentation",
+      "Ferment at room temperature for 3-6 weeks, tasting daily to achieve desired tanginess"
+    ],
+    "coachingPrompt": "Explain the fermentation process, why salt draws out cabbage liquid, and how to monitor the fermentation for best flavor development."
+  },
+  "timestamp": "2026-02-06T05:47:51.331Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "caf8275ceafb7fbc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "spinach",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "water chestnut",
+        "searchTerm": "water chestnuts",
+        "normalizedName": "Water Chestnut"
+      },
+      {
+        "ingredient": "vegetable soup mix",
+        "searchTerm": "vegetable soup mix",
+        "normalizedName": "Vegetable Soup Mix"
+      },
+      {
+        "ingredient": "mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "walnut",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "plastic wrap",
+        "searchTerm": "plastic wrap"
+      },
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      }
+    ],
+    "cookingTips": [
+      "Squeeze spinach very dry to prevent watery mixture",
+      "Soften cream cheese to room temperature for easy mixing",
+      "Chill for at least 2 hours before forming into ball"
+    ],
+    "coachingPrompt": "Would you like to coat the entire ball with walnuts or serve nuts on the side?"
+  },
+  "timestamp": "2026-02-06T19:14:40.648Z"
+}

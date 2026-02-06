@@ -1,0 +1,52 @@
+{
+  "contentHash": "39c165924574da13",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "½ teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "3 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "muffin tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Sour cream adds moisture and tang to replace the binding function of eggs",
+      "Don't overmix batter to keep muffins tender"
+    ],
+    "coachingPrompt": "How does sour cream work as both a wet ingredient and flavor enhancer in eggless muffins?"
+  },
+  "timestamp": "2026-02-06T06:11:49.411Z"
+}

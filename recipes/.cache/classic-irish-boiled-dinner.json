@@ -1,0 +1,68 @@
+{
+  "contentHash": "1dfc739cf9736248",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds smoked pork shoulder",
+        "searchTerm": "smoked pork shoulder",
+        "normalizedName": "Smoked Pork Shoulder"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 large onions, quartered",
+        "searchTerm": "onions",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "6 potatoes, peeled",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "8 ounces carrots, cut in half",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 large head cabbage, quartered",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "1 pound fresh green beans, trimmed",
+        "searchTerm": "fresh green beans",
+        "normalizedName": "Green Bean"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "slotted spoon"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Simmer pork gently to keep it tender - do not boil vigorously",
+      "Add vegetables in stages based on cooking time - hardest vegetables first",
+      "Reserve broth for serving or use as base for soup"
+    ],
+    "coachingPrompt": "Help the cook understand the timing of adding different vegetables to ensure everything finishes cooking at the same time, creating a perfectly balanced one-pot meal."
+  },
+  "timestamp": "2026-02-06T03:32:51.082Z"
+}

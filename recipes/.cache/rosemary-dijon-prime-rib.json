@@ -1,0 +1,43 @@
+{
+  "contentHash": "6464372c44181e1b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (5 pound) prime rib roast",
+        "searchTerm": "prime rib roast",
+        "normalizedName": "Prime Rib Roast"
+      },
+      {
+        "ingredient": "3 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "½ cup Dijon mustard",
+        "searchTerm": "dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "3 sprigs fresh rosemary",
+        "searchTerm": "fresh rosemary",
+        "normalizedName": "Rosemary"
+      }
+    ],
+    "gear": [
+      "Roasting pan",
+      "Meat thermometer",
+      "Oven"
+    ],
+    "cookingTips": [
+      "Bring prime rib to room temperature before roasting for even cooking",
+      "Let rest for 10-15 minutes after cooking before slicing to retain juices"
+    ],
+    "coachingPrompt": "What internal temperature indicates a perfectly cooked prime rib for medium-rare?"
+  },
+  "timestamp": "2026-02-06T16:34:17.422Z"
+}

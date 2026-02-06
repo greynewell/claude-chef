@@ -1,0 +1,49 @@
+{
+  "contentHash": "0b0b63edb45e399d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 slice bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (6 inch) corn tortilla",
+        "searchTerm": "corn tortilla",
+        "normalizedName": "Corn Tortilla"
+      },
+      {
+        "ingredient": "¼ cup sweet corn kernels",
+        "searchTerm": "corn kernels",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "1 tablespoon smooth salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then crumble and set aside before using same skillet for egg and tortilla",
+      "Warm tortilla in the skillet before assembling to make it pliable",
+      "Assemble quickly while egg is still warm so fillings meld together"
+    ],
+    "coachingPrompt": "This is a quick Asian breakfast wrap. Would you like suggestions for additional fillings?"
+  },
+  "timestamp": "2026-02-06T02:53:04.722Z"
+}

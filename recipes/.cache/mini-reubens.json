@@ -1,0 +1,52 @@
+{
+  "contentHash": "9c2b099277e72537",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (1 pound) loaf cocktail rye bread",
+        "searchTerm": "rye bread",
+        "normalizedName": "Rye Bread"
+      },
+      {
+        "ingredient": "1 cup thousand island dressing",
+        "searchTerm": "thousand island dressing",
+        "normalizedName": "Thousand Island Dressing"
+      },
+      {
+        "ingredient": "1 ½ pounds deli sliced corned beef",
+        "searchTerm": "corned beef",
+        "normalizedName": "Corned Beef"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar sauerkraut, rinsed and well drained",
+        "searchTerm": "sauerkraut",
+        "normalizedName": "Sauerkraut"
+      },
+      {
+        "ingredient": "1 pound sliced Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Toothpicks",
+        "searchTerm": "toothpicks"
+      }
+    ],
+    "cookingTips": [
+      "Rinse and drain sauerkraut thoroughly to prevent soggy sandwiches",
+      "Toast bread lightly before assembling for structural support"
+    ],
+    "coachingPrompt": "How would you assemble these to ensure all components stay together?"
+  },
+  "timestamp": "2026-02-06T12:32:52.193Z"
+}

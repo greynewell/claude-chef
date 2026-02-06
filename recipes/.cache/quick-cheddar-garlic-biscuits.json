@@ -1,0 +1,53 @@
+{
+  "contentHash": "d5ca2a83d4d0e132",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups biscuit mix",
+        "searchTerm": "biscuit mix",
+        "normalizedName": "Biscuit Mix"
+      },
+      {
+        "ingredient": "1 cup shredded mild Cheddar cheese",
+        "searchTerm": "cheddar cheese shredded",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "⅔ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Pastry Cutter",
+        "searchTerm": "pastry cutter"
+      }
+    ],
+    "cookingTips": [
+      "Use cold butter for flakier biscuits",
+      "Don't overwork the dough; mix until just combined",
+      "Add cheese at the very end to prevent it from melting during mixing"
+    ],
+    "coachingPrompt": "Emphasize the importance of handling biscuit dough gently to achieve a tender, fluffy texture."
+  },
+  "timestamp": "2026-02-06T15:41:12.348Z"
+}

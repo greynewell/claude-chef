@@ -1,0 +1,83 @@
+{
+  "contentHash": "da794dcfae74050f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 pound chicken breast, cut into bite-sized pieces",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 medium onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 large jalapeno peppers, seeded and chopped",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "3 (15 ounce) cans navy beans, drained",
+        "searchTerm": "navy beans",
+        "normalizedName": "Navy Bean"
+      },
+      {
+        "ingredient": "1 (10 ounce) can green enchilada sauce",
+        "searchTerm": "green enchilada sauce",
+        "normalizedName": "Green Enchilada Sauce"
+      },
+      {
+        "ingredient": "1 cup chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 teaspoon dried Mexican oregano",
+        "searchTerm": "Mexican oregano",
+        "normalizedName": "Mexican Oregano"
+      },
+      {
+        "ingredient": "1 teaspoon chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "½ teaspoon ground cumin",
+        "searchTerm": "ground cumin",
+        "normalizedName": "Ground Cumin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Brown the chicken pieces first to develop flavor before adding other ingredients",
+      "Simmer the chili for 20-30 minutes to allow flavors to meld",
+      "Adjust spice level by adding more jalapenos or chili powder to taste"
+    ],
+    "coachingPrompt": "Guide the user through building layers of flavor by searing chicken first and simmering to develop depth."
+  },
+  "timestamp": "2026-02-06T00:04:41.715Z"
+}

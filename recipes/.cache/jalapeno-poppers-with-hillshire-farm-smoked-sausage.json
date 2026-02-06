@@ -1,0 +1,53 @@
+{
+  "contentHash": "9cdf34abd1abd910",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (14 ounce) package Hillshire Farm® Smoked Sausage",
+        "searchTerm": "smoked sausage",
+        "normalizedName": "Smoked Sausage"
+      },
+      {
+        "ingredient": "2 fresh jalapeno peppers, halved lengthwise and seeded",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "4 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "toothpicks",
+        "searchTerm": "toothpicks",
+        "normalizedName": "Toothpick"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Slice sausage into thin rounds or strips to fit inside jalapeno halves",
+      "Layer cream cheese and sausage in each jalapeno half before wrapping with bacon",
+      "Bake at 400°F for 15-20 minutes until bacon is crispy and sausage is heated through"
+    ],
+    "coachingPrompt": "How would you balance the sausage flavor with the cream cheese to avoid overwhelming the jalapeno heat?"
+  },
+  "timestamp": "2026-02-06T10:15:43.199Z"
+}

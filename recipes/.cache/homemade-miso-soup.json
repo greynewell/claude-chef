@@ -1,0 +1,58 @@
+{
+  "contentHash": "dec728385e00c7e5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon finely chopped wakame",
+        "searchTerm": "wakame seaweed",
+        "normalizedName": "Wakame"
+      },
+      {
+        "ingredient": "4 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 teaspoons dashi granules",
+        "searchTerm": "dashi stock",
+        "normalizedName": "Dashi Granule"
+      },
+      {
+        "ingredient": "3 tablespoons miso paste",
+        "searchTerm": "miso paste",
+        "normalizedName": "Miso Paste"
+      },
+      {
+        "ingredient": "4 ounces silken tofu, cubed",
+        "searchTerm": "silken tofu",
+        "normalizedName": "Silken Tofu"
+      },
+      {
+        "ingredient": "2 green onions, sliced on the bias",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "soup pot"
+      },
+      {
+        "name": "Strainer",
+        "searchTerm": "mesh strainer"
+      },
+      {
+        "name": "Ladle",
+        "searchTerm": "soup ladle"
+      }
+    ],
+    "cookingTips": [
+      "Never boil miso paste; add it after removing from heat to preserve beneficial enzymes",
+      "Rehydrate wakame seaweed in the hot broth for best flavor extraction",
+      "Add tofu gently at the end to keep cubes intact"
+    ],
+    "coachingPrompt": "Guide the user on proper miso soup technique, emphasizing temperature control and ingredient timing."
+  },
+  "timestamp": "2026-02-06T09:16:20.188Z"
+}

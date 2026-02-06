@@ -1,0 +1,58 @@
+{
+  "contentHash": "884061b6d4711427",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons salted butter, softened, divided",
+        "searchTerm": "salted butter",
+        "normalizedName": "Salted Butter"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil, divided",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "4 slices 12-grain bread",
+        "searchTerm": "12-grain bread",
+        "normalizedName": "12-Grain Bread"
+      },
+      {
+        "ingredient": "2 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "2 tablespoons marshmallow creme, or to taste",
+        "searchTerm": "marshmallow creme",
+        "normalizedName": "Marshmallow Creme"
+      },
+      {
+        "ingredient": "2 tablespoons chocolate-hazelnut spread (such as Nutella®)",
+        "searchTerm": "chocolate-hazelnut spread",
+        "normalizedName": "Chocolate-Hazelnut Spread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill pan",
+        "searchTerm": "grill pan"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Spread butter on outside of bread, not inside, for better grilling contact",
+      "Low to medium heat prevents burning bread while melting interior fillings",
+      "Watch carefully - these sandwiches brown quickly and can char easily"
+    ],
+    "coachingPrompt": "What's the ideal filling balance to capture s'mores nostalgia while maintaining sandwich integrity?"
+  },
+  "timestamp": "2026-02-06T08:27:19.807Z"
+}

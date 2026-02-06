@@ -1,0 +1,48 @@
+{
+  "contentHash": "e61c71232e382e62",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (3 ounce) package any flavor ramen noodles",
+        "searchTerm": "ramen noodles",
+        "normalizedName": "Ramen Noodle"
+      },
+      {
+        "ingredient": "1 (3 ounce) can water-packed tuna, drained",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Canned Tuna"
+      },
+      {
+        "ingredient": "2 slices American cheese",
+        "searchTerm": "american cheese",
+        "normalizedName": "American Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mug",
+        "searchTerm": "mug"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "microwave",
+        "searchTerm": "microwave"
+      }
+    ],
+    "cookingTips": [
+      "Add noodles to boiling water and cook according to package directions",
+      "Drain noodles if too much liquid remains, then add tuna and cheese",
+      "Stir until cheese melts and coats the noodles evenly"
+    ],
+    "coachingPrompt": "This quick dorm meal is budget-friendly. Would you add frozen vegetables or hot sauce for nutrition and flavor?"
+  },
+  "timestamp": "2026-02-06T05:19:00.097Z"
+}

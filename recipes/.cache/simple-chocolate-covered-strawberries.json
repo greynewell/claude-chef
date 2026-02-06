@@ -1,0 +1,42 @@
+{
+  "contentHash": "d49dcb4954179635",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) bag semisweet chocolate chips",
+        "searchTerm": "semisweet chocolate chips",
+        "normalizedName": "Semisweet Chocolate Chip"
+      },
+      {
+        "ingredient": "1 (12 ounce) bag milk chocolate chips",
+        "searchTerm": "milk chocolate chips",
+        "normalizedName": "Milk Chocolate Chip"
+      },
+      {
+        "ingredient": "2 (16 ounce) packages large strawberries",
+        "searchTerm": "strawberries",
+        "normalizedName": "Strawberry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Double boiler",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "Parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Keep strawberries dry before dipping to prevent chocolate from seizing",
+      "Melt chocolate slowly over a double boiler to avoid burning"
+    ],
+    "coachingPrompt": "Show me the best way to melt chocolate and dip strawberries for a smooth coating"
+  },
+  "timestamp": "2026-02-06T17:49:04.651Z"
+}

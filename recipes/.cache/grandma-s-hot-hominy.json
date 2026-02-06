@@ -1,0 +1,58 @@
+{
+  "contentHash": "5582bb4ffe9d650a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 can white hominy",
+        "searchTerm": "white hominy",
+        "normalizedName": "White Hominy"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon chopped jalapeno pepper",
+        "searchTerm": "jalapeno",
+        "normalizedName": "Jalapeno"
+      },
+      {
+        "ingredient": "½ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Serving dish",
+        "searchTerm": "serving dish"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Drain hominy well and rinse to remove excess starch before cooking",
+      "Heat sour cream gently over low heat to prevent curdling when combined with cheese",
+      "Adjust jalapeno amount based on preferred heat level; seeds add more spice than flesh"
+    ],
+    "coachingPrompt": "Help the user understand how to work with sour cream without curdling and how jalapeno and garlic complement the mild, corn-like flavor of hominy."
+  },
+  "timestamp": "2026-02-06T07:51:20.210Z"
+}

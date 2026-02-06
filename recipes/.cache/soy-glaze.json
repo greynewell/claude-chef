@@ -1,0 +1,63 @@
+{
+  "contentHash": "572cf572378f0b8a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅔ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "½ cup low-sodium soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "⅓ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 tablespoons white wine vinegar",
+        "searchTerm": "white wine vinegar",
+        "normalizedName": "White Wine Vinegar"
+      },
+      {
+        "ingredient": "2 tablespoons rice vinegar",
+        "searchTerm": "rice vinegar",
+        "normalizedName": "Rice Vinegar"
+      },
+      {
+        "ingredient": "½ teaspoon ground ginger",
+        "searchTerm": "ginger",
+        "normalizedName": "Ginger"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "small saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Jar for storage",
+        "searchTerm": "glass jar"
+      }
+    ],
+    "cookingTips": [
+      "Combine all ingredients and simmer over medium-low heat for 5-10 minutes until slightly thickened",
+      "Stir occasionally to ensure sugars dissolve completely",
+      "Cool before storing and use within 2 weeks refrigerated"
+    ],
+    "coachingPrompt": "What proteins or vegetables would work best with this versatile glaze?"
+  },
+  "timestamp": "2026-02-06T18:45:32.718Z"
+}

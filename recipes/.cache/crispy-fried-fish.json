@@ -1,0 +1,78 @@
+{
+  "contentHash": "ca64edf52d3ca27b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 ½ cups beer",
+        "searchTerm": "beer",
+        "normalizedName": "Beer"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pound cod fillets",
+        "searchTerm": "cod fillets",
+        "normalizedName": "Cod Fillet"
+      },
+      {
+        "ingredient": "2 cups crushed cornflake crumbs",
+        "searchTerm": "cornflake cereal",
+        "normalizedName": "Cornflake Crumb"
+      },
+      {
+        "ingredient": "1 teaspoon Cajun seasoning",
+        "searchTerm": "Cajun seasoning",
+        "normalizedName": "Cajun Seasoning"
+      },
+      {
+        "ingredient": "1 quart oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep fryer or heavy pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "cooking thermometer"
+      },
+      {
+        "name": "slotted spatula",
+        "searchTerm": "slotted spatula"
+      }
+    ],
+    "cookingTips": [
+      "Beer in batter creates a lighter, crispier coating due to carbonation",
+      "Fry at 375°F for 3-4 minutes until golden brown",
+      "Don't overcrowd the pan; fry in batches for even cooking"
+    ],
+    "coachingPrompt": "How will the beer affect the texture of your batter compared to a traditional beer batter?"
+  },
+  "timestamp": "2026-02-06T04:39:42.733Z"
+}

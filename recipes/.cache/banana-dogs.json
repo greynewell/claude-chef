@@ -1,0 +1,48 @@
+{
+  "contentHash": "6bf49bcd5c2bd6f4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "2 whole wheat hot dog buns",
+        "searchTerm": "whole wheat hot dog buns",
+        "normalizedName": "Whole Wheat Hot Dog Bun"
+      },
+      {
+        "ingredient": "2 bananas",
+        "searchTerm": "bananas",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "2 tablespoons raspberry jelly",
+        "searchTerm": "raspberry jelly",
+        "normalizedName": "Raspberry Jelly"
+      },
+      {
+        "ingredient": "1 tablespoon raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "sharp knife"
+      }
+    ],
+    "cookingTips": [
+      "Use firm bananas that won't fall apart when placed in bun",
+      "Spread peanut butter and jelly on bun for better adherence"
+    ],
+    "coachingPrompt": "This is a fun, no-cook snack perfect for kids. Is this meant as a quick breakfast or snack idea?"
+  },
+  "timestamp": "2026-02-05T23:22:50.967Z"
+}

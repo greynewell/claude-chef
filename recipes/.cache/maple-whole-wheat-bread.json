@@ -1,0 +1,63 @@
+{
+  "contentHash": "c1d662488ecfaca0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ½ cups whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "½ cup bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "⅓ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ¼ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "4 tablespoons maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 ½ teaspoons active dry yeast",
+        "searchTerm": "yeast",
+        "normalizedName": "Active Dry Yeast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Bread pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "Mixer",
+        "searchTerm": "stand mixer with dough hook"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "instant-read thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Whole wheat flour absorbs more water than all-purpose flour, so monitor dough consistency",
+      "Allow proper rising time for good texture and flavor development",
+      "Maple syrup adds subtle sweetness and helps with browning"
+    ],
+    "coachingPrompt": "Explain how whole wheat flour differs from white flour and guide the user through proper proofing for bread success."
+  },
+  "timestamp": "2026-02-06T11:56:22.402Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "19573380882a9174",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound carrots, peeled and trimmed",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Grill Grates",
+        "searchTerm": "grill grates"
+      },
+      {
+        "name": "Basting Brush",
+        "searchTerm": "basting brush"
+      }
+    ],
+    "cookingTips": [
+      "Slice carrots lengthwise for maximum grill contact and char",
+      "Oil grates well to prevent sticking",
+      "Brush maple syrup on during final 1-2 minutes to caramelize without burning"
+    ],
+    "coachingPrompt": "Show me how to get charred, tender grilled carrots with a light maple caramel without burning the glaze."
+  },
+  "timestamp": "2026-02-06T11:54:30.069Z"
+}

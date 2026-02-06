@@ -1,0 +1,67 @@
+{
+  "contentHash": "1fcece706952918b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "pork chop",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "wild rice, uncooked",
+        "searchTerm": "wild rice",
+        "normalizedName": "Wild Rice"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "canned mushrooms",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "chicken bouillon granules",
+        "searchTerm": "chicken bouillon",
+        "normalizedName": "Chicken Bouillon Granule"
+      },
+      {
+        "ingredient": "condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream Of Mushroom Soup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Brown pork chops before combining with rice for better flavor",
+      "Cover baking dish with foil to prevent rice from drying out"
+    ],
+    "coachingPrompt": "How can you ensure pork chops stay juicy while the rice cooks?"
+  },
+  "timestamp": "2026-02-06T12:33:38.577Z"
+}

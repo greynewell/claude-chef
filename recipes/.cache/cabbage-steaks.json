@@ -1,0 +1,53 @@
+{
+  "contentHash": "47714a702fd1e21e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 head cabbage",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "2 tablespoons light olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 tablespoons minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ teaspoon salt, or to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper, or to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cut cabbage into thick 1-1.5 inch steaks to hold together during cooking",
+      "Brush both sides with oil and garlic mixture for even seasoning and browning",
+      "Roast at high heat until edges are caramelized and centers are tender"
+    ],
+    "coachingPrompt": "Do you want tips on achieving crispy, caramelized edges while keeping the interior tender?"
+  },
+  "timestamp": "2026-02-06T01:07:24.079Z"
+}

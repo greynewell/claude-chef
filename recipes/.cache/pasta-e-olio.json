@@ -1,0 +1,58 @@
+{
+  "contentHash": "15398987dae9b50b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound spaghetti",
+        "searchTerm": "spaghetti",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "2 teaspoons chopped garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "¼ cup chopped parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "¼ teaspoon crushed red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ cup melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Toast garlic gently in oil until just golden to avoid bitterness",
+      "Reserve pasta water to adjust sauce consistency",
+      "Toss pasta immediately with oil mixture while hot for better coating"
+    ],
+    "coachingPrompt": "How would you prevent the garlic from burning while infusing maximum flavor into the oil?"
+  },
+  "timestamp": "2026-02-06T14:14:47.157Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "1eb7e11a5e1c844e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 ½ cups uncooked fine egg noodles",
+        "searchTerm": "egg noodle",
+        "normalizedName": "Egg Noodle"
+      },
+      {
+        "ingredient": "3 cups uncooked long grain white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "5 (14.5 ounce) cans chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "4 cubes chicken bouillon",
+        "searchTerm": "chicken bouillon",
+        "normalizedName": "Chicken Bouillon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Lid",
+        "searchTerm": "pot lid"
+      }
+    ],
+    "cookingTips": [
+      "Toast the noodles in butter until golden before adding rice to develop nutty flavor",
+      "Use a 1:2 liquid-to-rice ratio for properly cooked rice",
+      "Let the pilaf rest covered for 5 minutes after cooking to allow fluffy texture"
+    ],
+    "coachingPrompt": "What's the correct ratio of broth to rice, and how do I prevent the pilaf from becoming mushy?"
+  },
+  "timestamp": "2026-02-05T22:21:43.076Z"
+}

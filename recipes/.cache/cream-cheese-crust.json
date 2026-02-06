@@ -1,0 +1,43 @@
+{
+  "contentHash": "19da6ba66b2566ef",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 ½ cups all-purpose flour",
+        "searchTerm": "flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "pie pan",
+        "searchTerm": "pie pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Keep all ingredients cold for a flaky, tender crust",
+      "Pulse ingredients gently in food processor to avoid overworking the dough",
+      "Let dough rest 15 minutes before rolling for easier handling"
+    ],
+    "coachingPrompt": "Guide me through making a tender, flaky pastry crust using cream cheese for extra richness."
+  },
+  "timestamp": "2026-02-06T04:15:10.449Z"
+}

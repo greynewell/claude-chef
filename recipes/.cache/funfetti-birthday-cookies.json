@@ -1,0 +1,53 @@
+{
+  "contentHash": "445d2c48312eaa3f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15.25 ounce) package cake mix with candy bits (such as Pillsbury® Funfetti®), or more to taste",
+        "searchTerm": "Funfetti cake mix",
+        "normalizedName": "Funfetti Cake Mix"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅓ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "⅓ cup confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "5 tablespoons multicolored candy sprinkles",
+        "searchTerm": "sprinkles",
+        "normalizedName": "Candy Sprinkle"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Electric Mixer",
+        "searchTerm": "electric mixer"
+      }
+    ],
+    "cookingTips": [
+      "Use room temperature eggs for better incorporation",
+      "Don't overmix the dough to keep cookies tender",
+      "Chill dough for 30 minutes before baking for better shape retention"
+    ],
+    "coachingPrompt": "Help the user understand that boxed cake mix already contains leavening, so these cookies will be thick and cake-like. Suggest not overbaking to maintain moisture."
+  },
+  "timestamp": "2026-02-06T07:12:37.285Z"
+}

@@ -1,0 +1,52 @@
+{
+  "contentHash": "7482972db85dbb05",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 fluid ounces vodka",
+        "searchTerm": "vodka",
+        "normalizedName": "Vodka"
+      },
+      {
+        "ingredient": "1 fluid ounce dry vermouth",
+        "searchTerm": "dry vermouth",
+        "normalizedName": "Dry Vermouth"
+      },
+      {
+        "ingredient": "1 cup ice cubes",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      },
+      {
+        "ingredient": "3 olives",
+        "searchTerm": "olive",
+        "normalizedName": "Olive"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cocktail shaker or mixing glass",
+        "searchTerm": "cocktail shaker"
+      },
+      {
+        "name": "Martini glass",
+        "searchTerm": "martini glass"
+      },
+      {
+        "name": "Jigger",
+        "searchTerm": "jigger"
+      },
+      {
+        "name": "Bar spoon",
+        "searchTerm": "bar spoon"
+      }
+    ],
+    "cookingTips": [
+      "Chill the martini glass in the freezer before serving for optimal temperature",
+      "Stir rather than shake for a vodka martini to avoid excess dilution",
+      "Use quality dry vermouth stored properly as it oxidizes quickly after opening"
+    ],
+    "coachingPrompt": "Guide the user through stirring a proper vodka martini with the right proportions and temperature."
+  },
+  "timestamp": "2026-02-06T21:52:16.105Z"
+}

@@ -1,0 +1,72 @@
+{
+  "contentHash": "3bc43e70ceaaeb6e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (12 ounce) bottles beer",
+        "searchTerm": "beer",
+        "normalizedName": "Beer"
+      },
+      {
+        "ingredient": "2 pounds dark brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "½ cup butter or margarine",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "6 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "9 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¼ cup baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "3 cups raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      },
+      {
+        "ingredient": "3 cups candied mixed fruit",
+        "searchTerm": "candied fruit",
+        "normalizedName": "Candied Mixed Fruit"
+      }
+    ],
+    "gear": [
+      {
+        "name": "loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "mixer"
+      }
+    ],
+    "cookingTips": [
+      "Soak raisins in warm water for 15 minutes to plump before adding",
+      "¼ cup baking powder is unusually high; verify recipe measurement"
+    ],
+    "coachingPrompt": "This recipe has an unusual amount of baking powder. Help verify the measurement and explain traditional fruitcake preparation."
+  },
+  "timestamp": "2026-02-06T20:03:15.694Z"
+}

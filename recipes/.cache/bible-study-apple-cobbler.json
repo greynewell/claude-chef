@@ -1,0 +1,43 @@
+{
+  "contentHash": "a320500aaf86817a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cans apple pie filling",
+        "searchTerm": "apple pie filling",
+        "normalizedName": "Apple Pie Filling"
+      },
+      {
+        "ingredient": "1 package yellow cake mix",
+        "searchTerm": "yellow cake mix",
+        "normalizedName": "Yellow Cake Mix"
+      },
+      {
+        "ingredient": "¾ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Spread apple filling evenly in baking dish before topping",
+      "Sprinkle dry cake mix directly over filling for crumbly texture",
+      "Drizzle melted butter over cake mix for golden browning"
+    ],
+    "coachingPrompt": "This is a quick cobbler using convenience ingredients. What visual cues tell you it's fully baked and ready to serve?"
+  },
+  "timestamp": "2026-02-06T00:06:44.532Z"
+}

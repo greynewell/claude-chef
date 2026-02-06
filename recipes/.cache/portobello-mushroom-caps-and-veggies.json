@@ -1,0 +1,58 @@
+{
+  "contentHash": "3903114d32d0c82c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon garlic, peeled and minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 onion, cut into strips",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 green bell pepper, cut into strips",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "4 large portobello mushroom caps",
+        "searchTerm": "portobello mushroom",
+        "normalizedName": "Portobello Mushroom"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet or wok",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cut vegetables into even-sized strips to ensure uniform cooking",
+      "Cook mushroom caps separately at first to render their moisture, then combine with vegetables",
+      "Finish with high heat to caramelize edges and develop depth of flavor"
+    ],
+    "coachingPrompt": "This simple stir-fry highlights fresh vegetables and mushrooms. Do you prefer to cook everything together or separately for better texture control?"
+  },
+  "timestamp": "2026-02-06T15:09:42.432Z"
+}

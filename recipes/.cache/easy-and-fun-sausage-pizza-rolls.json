@@ -1,0 +1,58 @@
+{
+  "contentHash": "41cdfa9e990ed38a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package pork breakfast sausage",
+        "searchTerm": "pork breakfast sausage",
+        "normalizedName": "Pork Breakfast Sausage"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable oil, or as needed",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 (16 ounce) package egg roll wrappers",
+        "searchTerm": "egg roll wrappers",
+        "normalizedName": "Egg Roll Wrapper"
+      },
+      {
+        "ingredient": "2 cups spaghetti sauce",
+        "searchTerm": "spaghetti sauce",
+        "normalizedName": "Spaghetti Sauce"
+      },
+      {
+        "ingredient": "2 cups shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "Shallow Dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausage completely and drain excess fat",
+      "Keep egg roll wrappers moist with damp towel",
+      "Seal edges with milk mixture for easy handling"
+    ],
+    "coachingPrompt": "Would you bake or fry these rolls? How would that affect the texture and final result?"
+  },
+  "timestamp": "2026-02-06T05:29:48.089Z"
+}

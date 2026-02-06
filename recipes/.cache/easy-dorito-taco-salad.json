@@ -1,0 +1,67 @@
+{
+  "contentHash": "24cb645206c23dc2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 envelope taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning Mix"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 cups ranch dressing",
+        "searchTerm": "ranch dressing",
+        "normalizedName": "Ranch Dressing"
+      },
+      {
+        "ingredient": "½ cup Italian-style salad dressing",
+        "searchTerm": "Italian dressing",
+        "normalizedName": "Italian Salad Dressing"
+      },
+      {
+        "ingredient": "1 red onion, diced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "1 head lettuce, shredded",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "1 (17 ounce) package nacho-flavor tortilla chips, crushed into bite-size pieces",
+        "searchTerm": "nacho tortilla chips",
+        "normalizedName": "Nacho Tortilla Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "salad bowl",
+        "searchTerm": "large mixing bowl"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "salad tongs"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly before adding seasoning",
+      "Add chips just before serving to maintain crunch"
+    ],
+    "coachingPrompt": "Help the user build layers of flavor and texture, from seasoning beef to assembling the salad with fresh ingredients."
+  },
+  "timestamp": "2026-02-06T05:43:24.510Z"
+}

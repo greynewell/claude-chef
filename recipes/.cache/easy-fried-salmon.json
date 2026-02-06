@@ -1,0 +1,48 @@
+{
+  "contentHash": "2a9f7901658dda60",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 (5 ounce) center-cut salmon fillets",
+        "searchTerm": "salmon fillets",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "fish spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Pat salmon dry before cooking for better browning",
+      "Cook skin-side down first for crispier skin",
+      "Don't overcook; salmon is done at 145°F internal temperature"
+    ],
+    "coachingPrompt": "Help the user understand when salmon is perfectly cooked by color and texture, avoiding the common mistake of overcooking."
+  },
+  "timestamp": "2026-02-06T05:45:16.336Z"
+}

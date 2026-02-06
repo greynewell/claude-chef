@@ -1,0 +1,58 @@
+{
+  "contentHash": "1e220072482a9698",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 teaspoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "2 tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "¼ cup shredded coconut",
+        "searchTerm": "shredded coconut",
+        "normalizedName": "Coconut"
+      },
+      {
+        "ingredient": "½ cup granola",
+        "searchTerm": "granola",
+        "normalizedName": "Granola"
+      },
+      {
+        "ingredient": "1 banana, peeled and halved lengthwise",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "2 large whole wheat tortillas",
+        "searchTerm": "whole wheat tortillas",
+        "normalizedName": "Whole Wheat Tortilla"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "small bowl"
+      }
+    ],
+    "cookingTips": [
+      "Warm tortillas slightly to make them more pliable for wrapping",
+      "Spread peanut butter evenly to bind all components together",
+      "Wrap tightly in parchment paper if preparing ahead"
+    ],
+    "coachingPrompt": "How should I layer these ingredients to prevent the wrap from falling apart?"
+  },
+  "timestamp": "2026-02-06T06:19:15.272Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "bb8b1631277c3993",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup roughly chopped fresh mint leaves",
+        "searchTerm": "fresh mint",
+        "normalizedName": "Fresh Mint Leaf"
+      },
+      {
+        "ingredient": "32 fluid ounces Kentucky bourbon",
+        "searchTerm": "bourbon",
+        "normalizedName": "Bourbon Whiskey"
+      },
+      {
+        "ingredient": "8 sprigs fresh mint leaves for garnish",
+        "searchTerm": "fresh mint",
+        "normalizedName": "Fresh Mint Leaf"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "julep cups",
+        "searchTerm": "julep cups"
+      },
+      {
+        "name": "bar spoon",
+        "searchTerm": "bar spoon"
+      }
+    ],
+    "cookingTips": [
+      "Make mint syrup ahead and strain for clarity",
+      "Chill all components before assembly",
+      "Stir gently to combine without over-diluting"
+    ],
+    "coachingPrompt": "Will you make the syrup in advance? How will you keep the drinks cold during service?"
+  },
+  "timestamp": "2026-02-06T12:34:30.454Z"
+}

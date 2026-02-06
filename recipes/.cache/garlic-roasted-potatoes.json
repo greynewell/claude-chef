@@ -1,0 +1,49 @@
+{
+  "contentHash": "b4bc43f04decec7c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound small new potatoes, halved",
+        "searchTerm": "new potatoes",
+        "normalizedName": "New Potato"
+      },
+      {
+        "ingredient": "1 head garlic, cloves separated but not peeled",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes into similar sizes so they roast evenly",
+      "Toss with oil and seasonings thoroughly for even coverage and browning",
+      "Roast until potatoes are golden and tender, and garlic cloves are soft enough to squeeze from skin"
+    ],
+    "coachingPrompt": "How long should this dish roast at 400°F for perfectly golden, creamy potatoes?"
+  },
+  "timestamp": "2026-02-06T07:20:51.748Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "46d119ae383c2f50",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ cup instant nonfat dry milk powder, or more to taste",
+        "searchTerm": "dry milk powder",
+        "normalizedName": "Dry Milk Powder"
+      },
+      {
+        "ingredient": "½ cup plain kefir",
+        "searchTerm": "plain kefir",
+        "normalizedName": "Plain Kefir"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Yogurt maker (optional)",
+        "searchTerm": "yogurt maker"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "kitchen thermometer"
+      },
+      {
+        "name": "Large jar",
+        "searchTerm": "glass jar"
+      }
+    ],
+    "cookingTips": [
+      "Heat milk to 110°F before adding kefir starter to activate cultures properly",
+      "Keep mixture undisturbed in a warm environment (yogurt maker or oven with light on) for 12-24 hours",
+      "Stir in dry milk powder for thicker yogurt and additional protein content"
+    ],
+    "coachingPrompt": "How would you flavor this homemade yogurt—with honey, vanilla, or fresh fruit—to create different varieties?"
+  },
+  "timestamp": "2026-02-06T10:38:16.333Z"
+}

@@ -1,0 +1,47 @@
+{
+  "contentHash": "34bbfd462a0a5793",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 serving cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 (3 pound) boneless turkey breast",
+        "searchTerm": "turkey breast",
+        "normalizedName": "Turkey Breast"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can Cheddar cheese soup",
+        "searchTerm": "cheddar cheese soup",
+        "normalizedName": "Cheddar Cheese Soup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "basting brush",
+        "searchTerm": "basting brush"
+      }
+    ],
+    "cookingTips": [
+      "Cook the turkey on low for 6-8 hours until the internal temperature reaches 165°F",
+      "Stir the gravy occasionally to ensure even heating and smooth consistency"
+    ],
+    "coachingPrompt": "What's the best way to keep the turkey moist while it cooks in the slow cooker?"
+  },
+  "timestamp": "2026-02-06T18:19:23.903Z"
+}

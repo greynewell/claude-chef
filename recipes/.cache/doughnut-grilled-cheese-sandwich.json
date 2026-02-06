@@ -1,0 +1,39 @@
+{
+  "contentHash": "c0a23706150c3a29",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 glazed raised ring doughnut, halved horizontally",
+        "searchTerm": "glazed doughnut",
+        "normalizedName": "Glazed Doughnut"
+      },
+      {
+        "ingredient": "2 slices Gouda cheese",
+        "searchTerm": "gouda cheese",
+        "normalizedName": "Gouda Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Use medium-low heat to melt cheese without burning the glaze",
+      "Place cheese between doughnut halves for even melting",
+      "Serve immediately while cheese is melted and glaze is warm"
+    ],
+    "coachingPrompt": "This sweet-savory sandwich pairs glazed doughnuts with creamy Gouda. What other cheese would work well with this combination?"
+  },
+  "timestamp": "2026-02-06T05:21:01.105Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "f53aebb593762920",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 tablespoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ cup shortening",
+        "searchTerm": "shortening",
+        "normalizedName": "Shortening"
+      },
+      {
+        "ingredient": "¾ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "biscuit cutter",
+        "searchTerm": "biscuit cutter"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "pastry blender",
+        "searchTerm": "pastry blender"
+      }
+    ],
+    "cookingTips": [
+      "Keep all ingredients cold, especially shortening, for flaky layers",
+      "Cut shortening into flour until mixture resembles coarse crumbs, do not overwork",
+      "Bake at 450°F for 12-15 minutes until golden brown; avoid opening oven door"
+    ],
+    "coachingPrompt": "Emphasize keeping ingredients cold and handling the dough minimally to achieve tender, flaky biscuits with nice height."
+  },
+  "timestamp": "2026-02-05T23:32:42.645Z"
+}

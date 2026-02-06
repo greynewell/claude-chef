@@ -1,0 +1,47 @@
+{
+  "contentHash": "e61a87f844102798",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ cup semisweet chocolate chips",
+        "searchTerm": "semisweet chocolate chips",
+        "normalizedName": "Semisweet Chocolate Chip"
+      },
+      {
+        "ingredient": "3 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon light corn syrup",
+        "searchTerm": "light corn syrup",
+        "normalizedName": "Light Corn Syrup"
+      },
+      {
+        "ingredient": "¼ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "double boiler or microwave-safe bowl",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use a double boiler or microwave in 30-second intervals to gently melt chocolate without scorching",
+      "Corn syrup creates a silky sheen and smooth consistency that prevents the glaze from being too thick"
+    ],
+    "coachingPrompt": "Help the user understand chocolate tempering basics and how corn syrup creates professional-looking, glossy finishes."
+  },
+  "timestamp": "2026-02-06T16:56:40.395Z"
+}

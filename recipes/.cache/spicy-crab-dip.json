@@ -1,0 +1,39 @@
+{
+  "contentHash": "ccb818c72dd5531d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (2 pound) loaf processed cheese, cubed",
+        "searchTerm": "processed cheese",
+        "normalizedName": "Processed Cheese"
+      },
+      {
+        "ingredient": "1 (10 ounce) can diced tomatoes with green chile peppers, drained",
+        "searchTerm": "diced tomatoes with green chiles",
+        "normalizedName": "Diced Tomato with Green Chile"
+      },
+      {
+        "ingredient": "½ pound imitation crabmeat",
+        "searchTerm": "imitation crabmeat",
+        "normalizedName": "Imitation Crabmeat"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker or fondue pot",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use imitation crabmeat which melts smoothly without becoming tough",
+      "Drain tomatoes well to prevent dip from becoming watery",
+      "Stir frequently while heating to ensure even melting and prevent sticking"
+    ],
+    "coachingPrompt": "Explain why this three-ingredient dip is so popular for parties, and how to troubleshoot if the cheese separates."
+  },
+  "timestamp": "2026-02-06T18:58:56.515Z"
+}

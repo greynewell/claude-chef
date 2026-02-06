@@ -1,0 +1,73 @@
+{
+  "contentHash": "5eb38ee2fbda3b43",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound dried split peas",
+        "searchTerm": "split peas",
+        "normalizedName": "Split Pea"
+      },
+      {
+        "ingredient": "8 cups water, divided",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "4 cups low-sodium chicken broth",
+        "searchTerm": "low-sodium chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "½ pound cooked ham, cut into 1-inch cubes",
+        "searchTerm": "cooked ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "½ red onion, minced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "1 tablespoon brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "immersion blender",
+        "searchTerm": "immersion blender"
+      }
+    ],
+    "cookingTips": [
+      "Use low-sodium broth to control final saltiness since ham adds significant salt",
+      "Blend a portion of the soup for creaminess while leaving some texture",
+      "Add ham cubes near the end to keep them tender and distinct"
+    ],
+    "coachingPrompt": "Guide the cook in creating a balanced, creamy split pea soup while controlling sodium and maintaining good ham texture."
+  },
+  "timestamp": "2026-02-06T19:19:04.840Z"
+}

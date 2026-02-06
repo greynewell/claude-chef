@@ -1,0 +1,63 @@
+{
+  "contentHash": "53baa0e0bc48c975",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (1 pound) loaf white bread, torn into small pieces",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "1 quart hot milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "3 eggs, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 cup golden raisins",
+        "searchTerm": "golden raisin",
+        "normalizedName": "Golden Raisin"
+      },
+      {
+        "ingredient": "3 tablespoons margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Use day-old or stale bread for better absorption of custard mixture",
+      "Soak bread pieces in hot milk for 5 minutes before adding egg mixture",
+      "Bake at 350°F for 50-60 minutes until custard is set but still slightly jiggly in center"
+    ],
+    "coachingPrompt": "Guide the user to achieve a creamy custard center by not overbaking and soaking the bread adequately to absorb all the liquid."
+  },
+  "timestamp": "2026-02-05T23:32:42.645Z"
+}

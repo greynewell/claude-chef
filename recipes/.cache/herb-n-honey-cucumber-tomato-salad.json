@@ -1,0 +1,63 @@
+{
+  "contentHash": "3334cb2fb84b080d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cucumbers, peeled and sliced",
+        "searchTerm": "cucumbers",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "2 large ripe tomatoes, sliced",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "2 green onions, sliced thin",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "8 leaves fresh basil, chopped",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      },
+      {
+        "ingredient": "½ cup crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "½ cup seasoned rice wine vinegar",
+        "searchTerm": "rice wine vinegar",
+        "normalizedName": "Rice Wine Vinegar"
+      },
+      {
+        "ingredient": "½ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "large bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Prepare salad close to serving time to prevent vegetables from becoming soggy",
+      "Slice cucumbers and tomatoes uniformly for consistent texture",
+      "Whisk honey and vinegar together before adding to ensure even distribution"
+    ],
+    "coachingPrompt": "Help the user understand how to balance sweet honey with tangy vinegar, and why timing matters for fresh salads."
+  },
+  "timestamp": "2026-02-06T09:03:25.014Z"
+}

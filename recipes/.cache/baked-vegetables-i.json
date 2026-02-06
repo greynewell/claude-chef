@@ -1,0 +1,63 @@
+{
+  "contentHash": "ee04cd8ae6c53890",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "4 carrots",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 head fresh broccoli",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "4 zucchini",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 (1 ounce) package dry onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Large Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cut vegetables to similar sizes for even cooking throughout",
+      "Toss vegetables thoroughly with oil and seasoning to ensure even coating",
+      "Arrange in single layer on baking sheet to promote caramelization"
+    ],
+    "coachingPrompt": "What vegetable sizes would cook evenly together, and how should you arrange them on the sheet?"
+  },
+  "timestamp": "2026-02-05T23:16:14.264Z"
+}

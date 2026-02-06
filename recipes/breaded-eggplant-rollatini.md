@@ -1,0 +1,116 @@
+---
+title: "Breaded Eggplant Rollatini"
+description: "Built around eggplant, this Italian main course is ready in about 1 hour and 30 minutes. Yields 8 servings."
+author: "Stephanie Bailey"
+prep_time: PT45M
+cook_time: PT45M
+servings: 8
+calories: 331
+recipe_category: Main Course
+cuisine: Italian
+keywords:
+  - breaded
+  - course
+  - eggplant
+  - main
+  - rollatini
+recipe_ingredients:
+  - "Eggplant"
+  - "Milk"
+  - "Wheat Flour"
+  - "Garlic Powder"
+  - "Onion Powder"
+  - "Red Pepper Flakes"
+  - "Salt"
+  - "Black Pepper"
+  - "Egg"
+  - "Panko Bread Crumbs"
+  - "Olive Oil"
+  - "Onion"
+allergies:
+  - Dairy
+  - Gluten
+  - Eggs
+flavors:
+  - Savory
+  - Spicy
+  - Umami
+  - Herbaceous
+tools:
+  - Oven
+  - Skillet
+  - Mixing Bowl
+  - Stock Pot
+  - Cutting Board
+  - Colander
+skill_level: Hard
+source_url: "https://www.allrecipes.com/recipe/254955/breaded-eggplant-rollatini/"
+---
+
+## Ingredients
+
+- 1 large eggplant, cut lengthwise into 1/4-inch slices
+- ½ cup milk
+- ½ cup whole wheat flour
+- 2 teaspoons garlic powder, divided
+- 1 teaspoon onion powder, divided
+- ½ teaspoon red pepper flakes, or to taste
+- ½ teaspoon salt, divided
+- ½ teaspoon ground black pepper, divided
+- 2  eggs
+- 1 cup panko bread crumbs
+- ¼ cup olive oil, divided
+- 2 tablespoons olive oil
+- ½ large onion, chopped
+- 2 teaspoons minced garlic, or to taste
+- 1 (15 ounce) can tomato sauce
+- 1 (14.5 ounce) can petite diced tomatoes
+- ½ (14.5 ounce) can chopped tomatoes
+- 2 teaspoons ground black pepper
+- 2 teaspoons dried oregano, or to taste
+- 2 teaspoons dried basil, or to taste
+- 1 teaspoon salt
+- 1 teaspoon poultry seasoning, or to taste
+- 1 (15 ounce) container low-fat ricotta cheese
+- 1 (8 ounce) package fresh spinach
+- 1  egg
+- 2 tablespoons grated Parmesan cheese
+- 1 teaspoon minced garlic
+- ⅛ teaspoon ground nutmeg
+- salt and ground black pepper to taste
+
+## Instructions
+
+1. Preheat oven to 350 degrees F (175 degrees C).
+2. Place eggplant slices in a large dish and cover with salted water. Let soak, about 15 minutes. Drain and cover with milk.
+3. Combine flour, 1 teaspoon garlic powder, 1/2 teaspoon onion powder, 1/4 teaspoon red pepper flakes, 1/4 teaspoon salt, and 1/4 teaspoon pepper in a large resealable plastic bag.
+4. Beat eggs lightly in a shallow bowl that is long enough for the eggplant slices to fit in.
+5. Combine panko, remaining 1 teaspoon garlic powder, 1/2 teaspoon onion powder, 1/4 teaspoon red pepper flakes, 1/4 teaspoon salt, and 1/4 teaspoon pepper in another large resealable plastic bag.
+6. Place 1 slice eggplant in flour mixture, shaking to coat. Dip in egg. Transfer to bag with panko mixture, shaking to coat. Repeat with remaining slices.
+7. Heat 1 tablespoon olive oil in a large skillet. Cook coated eggplant slices in batches until golden brown and crisp, about 2 minutes per side. Transfer to a cooling rack. Repeat with remaining eggplant, adding oil as needed.
+8. Heat 2 tablespoons oil in a large pot over medium heat. Add onion and garlic; cook and stir until onion softens, about 5 minutes. Stir in tomato sauce, diced tomatoes, chopped tomatoes, 2 teaspoons pepper, oregano, basil, 1 teaspoon salt, and poultry seasoning. Reduce heat to low and cover; cook sauce, stirring occasionally, until flavors combine, 10 to 15 minutes.
+9. Mix ricotta cheese, spinach, egg, Parmesan cheese, 1 teaspoon garlic, nutmeg, salt, and pepper together gently in a bowl to make filling.
+10. Spread 2 to 3 tablespoons of filling over each eggplant slice. Roll slices into logs and arrange in a single layer in a 9x13-inch baking pan. Pour tomato sauce evenly on top.
+11. Bake in the preheated oven until sauce is bubbly, about 30 minutes. Let stand for 5 minutes before serving.
+
+## Frequently Asked Questions
+
+### How long does it take to make Breaded Eggplant Rollatini?
+
+This recipe takes approximately 1 hour and 30 minutes from start to finish — 45 minutes of prep and 45 minutes of cooking. It is rated as hard difficulty.
+
+### How many servings does this Breaded Eggplant Rollatini recipe make?
+
+This recipe yields 8 servings. You can adjust the serving size using the servings slider above the ingredient list.
+
+### Can I make Breaded Eggplant Rollatini ahead of time? How should I store leftovers?
+
+Store leftovers in an airtight container in the refrigerator for up to 3-4 days.
+
+### How many calories are in Breaded Eggplant Rollatini?
+
+Each serving contains approximately 331 calories. The recipe serves 8.
+
+### What temperature should I use for Breaded Eggplant Rollatini?
+
+Follow the temperature specified in the recipe instructions. Make sure to preheat your oven fully.

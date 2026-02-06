@@ -1,0 +1,58 @@
+{
+  "contentHash": "a57fcd8d25f69036",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 strips bacon, divided",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 ounces Cheddar cheese, cubed, divided",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "¼ cup barbeque sauce, divided",
+        "searchTerm": "bbq sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "2 (4 ounce) skinless, boneless chicken breasts",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "sharp knife",
+        "searchTerm": "chef knife"
+      },
+      {
+        "name": "instant-read thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Cut a pocket horizontally into the thickest part of each chicken breast without cutting all the way through",
+      "Stuff chicken evenly and secure with toothpicks if needed to prevent filling from escaping",
+      "Cook bacon until crispy first, then crumble and add to the cheese filling for best flavor"
+    ],
+    "coachingPrompt": "Guide me through butterflying the chicken, preparing the bacon-cheddar filling, and air frying until the chicken is cooked through and filling is melted."
+  },
+  "timestamp": "2026-02-05T21:40:04.005Z"
+}

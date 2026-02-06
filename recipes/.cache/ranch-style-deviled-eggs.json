@@ -1,0 +1,58 @@
+{
+  "contentHash": "32481b1739297182",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon ranch dressing mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Ranch Dressing Mix"
+      },
+      {
+        "ingredient": "1 teaspoon prepared yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      },
+      {
+        "ingredient": "1 pinch paprika, for garnish (Optional)",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "cooking pot"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "piping bag",
+        "searchTerm": "pastry bag"
+      }
+    ],
+    "cookingTips": [
+      "Boil eggs for 10-12 minutes, then cool in ice water for easy peeling",
+      "Use a piping bag with a star tip for attractive presentation",
+      "Prepare filling ahead and refrigerate until ready to assemble"
+    ],
+    "coachingPrompt": "What garnishes beyond paprika would enhance these deviled eggs?"
+  },
+  "timestamp": "2026-02-06T15:54:36.135Z"
+}

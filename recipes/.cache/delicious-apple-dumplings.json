@@ -1,0 +1,63 @@
+{
+  "contentHash": "9bb5ba2ed44a63b1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 (12 fluid ounce) can or bottle caffeinated citrus-flavored soda (such as Mountain Dew®)",
+        "searchTerm": "citrus soda",
+        "normalizedName": "Citrus Soda"
+      },
+      {
+        "ingredient": "4 small Granny Smith apple, peeled, cored, and quartered",
+        "searchTerm": "Granny Smith apples",
+        "normalizedName": "Granny Smith Apple"
+      },
+      {
+        "ingredient": "2 (8 ounce) packages refrigerated crescent roll dough",
+        "searchTerm": "crescent roll dough",
+        "normalizedName": "Crescent Roll Dough"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Melt butter with sugar and cinnamon to create sweet sauce, then pour into baking dish",
+      "Wrap each apple quarter in crescent roll dough, then arrange in baking dish over sauce",
+      "Pour soda around dumplings and bake at 350°F for 40-50 minutes until golden and apples are tender"
+    ],
+    "coachingPrompt": "How should I wrap the apples and what role does the soda play in cooking?"
+  },
+  "timestamp": "2026-02-06T05:07:12.926Z"
+}

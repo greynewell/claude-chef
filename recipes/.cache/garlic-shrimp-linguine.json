@@ -1,0 +1,68 @@
+{
+  "contentHash": "4d6390d5085b82c5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound uncooked linguine",
+        "searchTerm": "linguine pasta",
+        "normalizedName": "Linguine"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 tablespoons white wine",
+        "searchTerm": "white wine",
+        "normalizedName": "White Wine"
+      },
+      {
+        "ingredient": "2 teaspoons grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      },
+      {
+        "ingredient": "1 pinch salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pound medium shrimp, peeled and deveined",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta al dente so it doesn't become mushy when combined with sauce",
+      "Add shrimp to the sauce at the last moment to prevent overcooking"
+    ],
+    "coachingPrompt": "Guide the user on timing to ensure the pasta and shrimp finish cooking simultaneously for the best texture."
+  },
+  "timestamp": "2026-02-06T07:21:44.570Z"
+}

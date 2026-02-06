@@ -1,0 +1,53 @@
+{
+  "contentHash": "81edcf8d2f46a870",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 hot dogs",
+        "searchTerm": "hot dogs",
+        "normalizedName": "Hot Dog"
+      },
+      {
+        "ingredient": "4 slices American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      },
+      {
+        "ingredient": "4 (6 inch) flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "2 tablespoons ketchup, or to taste",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "2 tablespoons mustard, or to taste",
+        "searchTerm": "mustard",
+        "normalizedName": "Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Cook or warm hot dogs before wrapping to ensure they're hot when served",
+      "Warm tortillas slightly to make them pliable and easier to roll without tearing",
+      "Place cheese and hot dog in the center, add condiments sparingly, and roll tightly to prevent filling from falling out"
+    ],
+    "coachingPrompt": "Walk through rolling technique and suggest whether to serve fresh or baked. Advise on condiment distribution for balanced flavor."
+  },
+  "timestamp": "2026-02-06T00:58:01.706Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "d1f259f4b5ef99d7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices applewood smoked bacon",
+        "searchTerm": "applewood smoked bacon",
+        "normalizedName": "Applewood Smoked Bacon"
+      },
+      {
+        "ingredient": "2 slices whole wheat bread",
+        "searchTerm": "whole wheat bread",
+        "normalizedName": "Whole Wheat Bread"
+      },
+      {
+        "ingredient": "2 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 tablespoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Plate",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then drain on paper towels",
+      "Warm honey slightly to make it easier to spread",
+      "Layer peanut butter, bacon, and honey on warm toasted bread"
+    ],
+    "coachingPrompt": "This sandwich balances savory bacon with sweet honey and peanut butter. Suggest cooking bacon first so the sandwich assembly is quick."
+  },
+  "timestamp": "2026-02-06T14:23:07.954Z"
+}

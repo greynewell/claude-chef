@@ -1,0 +1,48 @@
+{
+  "contentHash": "ecdecebaf87e878f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup dry bread crumbs",
+        "searchTerm": "dry bread crumbs",
+        "normalizedName": "Dry Bread Crumb"
+      },
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "8 chicken tenderloins",
+        "searchTerm": "chicken tenderloins",
+        "normalizedName": "Chicken Tenderloin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "shallow bowl",
+        "searchTerm": "shallow bowl"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Pat chicken dry with paper towels before breading so coating adheres properly",
+      "Dip in beaten egg, then coat evenly in bread crumbs, pressing gently so they stick",
+      "Spray tenderloins lightly with oil before air-frying to promote browning and crispness at 380°F for 12-15 minutes"
+    ],
+    "coachingPrompt": "Guide the cook on proper breading technique and air-fryer temperature to achieve a crispy, golden coating with tender, juicy chicken inside."
+  },
+  "timestamp": "2026-02-06T04:42:46.857Z"
+}

@@ -1,0 +1,62 @@
+{
+  "contentHash": "0db8177315045b23",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "5 potatoes, peeled and cut into steak fries",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "4 large carrots, peeled and sliced lengthwise",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 onion, peeled and sliced into rings",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "garlic salt to taste",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Layer vegetables with beef in skillet for even cooking and flavor distribution",
+      "Cover skillet to steam vegetables while beef cooks through"
+    ],
+    "coachingPrompt": "Guide the cook on layering technique and how to know when both beef and vegetables are cooked through without burning."
+  },
+  "timestamp": "2026-02-06T09:08:34.068Z"
+}

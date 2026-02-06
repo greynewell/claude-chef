@@ -1,0 +1,88 @@
+{
+  "contentHash": "e1157a8e9119dda6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 Granny Smith apples, thinly sliced",
+        "searchTerm": "Granny Smith apples",
+        "normalizedName": "Granny Smith Apple"
+      },
+      {
+        "ingredient": "½ lemon, juiced",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "6 cups thinly sliced kale",
+        "searchTerm": "kale",
+        "normalizedName": "Kale"
+      },
+      {
+        "ingredient": "4 slices cooked bacon, crumbled",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "½ avocado, thinly sliced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "¼ cup chopped almonds",
+        "searchTerm": "almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "½ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ cup apple cider vinegar",
+        "searchTerm": "apple cider vinegar",
+        "normalizedName": "Apple Cider Vinegar"
+      },
+      {
+        "ingredient": "2 tablespoons maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "2 teaspoons grainy mustard",
+        "searchTerm": "grain mustard",
+        "normalizedName": "Grain Mustard"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ teaspoon kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Toss apple slices immediately with lemon juice to prevent oxidation and browning",
+      "Add avocado to salad just before serving to maintain its creamy texture",
+      "Whisk dressing vigorously to emulsify the oil and vinegar with mustard as the binder"
+    ],
+    "coachingPrompt": "Help the user manage timing to prevent browning and understand emulsification technique for a balanced dressing."
+  },
+  "timestamp": "2026-02-06T10:33:56.220Z"
+}

@@ -1,0 +1,42 @@
+{
+  "contentHash": "9a21ab5d7ec31cdc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 gallon whole milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 large lemon, juiced",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "cheesecloth",
+        "searchTerm": "cheesecloth"
+      },
+      {
+        "name": "strainer",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Use fresh milk - older milk may not curdle properly",
+      "Maintain proper temperature for curd formation - monitor with a thermometer"
+    ],
+    "coachingPrompt": "Explain the acid curdling process and how to achieve the right consistency by managing temperature and draining time."
+  },
+  "timestamp": "2026-02-06T09:10:26.091Z"
+}

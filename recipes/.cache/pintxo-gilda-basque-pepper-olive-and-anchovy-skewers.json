@@ -1,0 +1,47 @@
+{
+  "contentHash": "3ae18ccd1106b779",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 green Manzanillo olives, pitted",
+        "searchTerm": "green olives",
+        "normalizedName": "Olive"
+      },
+      {
+        "ingredient": "12 short skewers",
+        "searchTerm": "cocktail picks",
+        "normalizedName": "Skewer"
+      },
+      {
+        "ingredient": "12 oil-packed anchovy fillets",
+        "searchTerm": "anchovy fillets",
+        "normalizedName": "Anchovy"
+      },
+      {
+        "ingredient": "12 pepperoncini",
+        "searchTerm": "pepperoncini peppers",
+        "normalizedName": "Pepperoncini"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "small plates",
+        "searchTerm": "plate"
+      },
+      {
+        "name": "napkins",
+        "searchTerm": "napkins"
+      }
+    ],
+    "cookingTips": [
+      "Use pitted olives to make assembly easier and ensure balanced bites",
+      "Thread ingredients in alternating pattern: olive, anchovy, pepper for visual appeal"
+    ],
+    "coachingPrompt": "Explain this is a traditional Basque tapas that requires no cooking and can be assembled minutes before serving."
+  },
+  "timestamp": "2026-02-06T14:50:58.659Z"
+}

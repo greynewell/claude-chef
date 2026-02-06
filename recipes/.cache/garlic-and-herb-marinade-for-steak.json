@@ -1,0 +1,63 @@
+{
+  "contentHash": "9a74be35a68d155b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ cup apple cider vinegar",
+        "searchTerm": "apple cider vinegar",
+        "normalizedName": "Apple Cider Vinegar"
+      },
+      {
+        "ingredient": "2 tablespoons minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh oregano",
+        "searchTerm": "fresh oregano",
+        "normalizedName": "Fresh Oregano"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "zip-lock bag",
+        "searchTerm": "zip-lock bag"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Marinate steak for 4-8 hours for maximum flavor penetration",
+      "Don't marinate longer than 24 hours or acid will break down meat texture",
+      "Save some marinade before adding raw meat to use as finishing sauce"
+    ],
+    "coachingPrompt": "Marinades enhance flavor and tenderize meat. How long would you recommend marinating different cuts of steak, and how would you use the leftover marinade?"
+  },
+  "timestamp": "2026-02-06T07:15:56.552Z"
+}

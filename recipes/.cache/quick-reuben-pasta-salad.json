@@ -1,0 +1,53 @@
+{
+  "contentHash": "a55722a5150b0103",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package bow-tie pasta",
+        "searchTerm": "bow-tie pasta",
+        "normalizedName": "Bow-Tie Pasta"
+      },
+      {
+        "ingredient": "4 ounces shredded corned beef",
+        "searchTerm": "corned beef",
+        "normalizedName": "Corned Beef"
+      },
+      {
+        "ingredient": "4 ounces sauerkraut",
+        "searchTerm": "sauerkraut",
+        "normalizedName": "Sauerkraut"
+      },
+      {
+        "ingredient": "3 ounces shredded Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "3 ounces Thousand Island salad dressing",
+        "searchTerm": "Thousand Island dressing",
+        "normalizedName": "Thousand Island Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pasta pot"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta al dente to maintain texture when tossed with dressing",
+      "Drain sauerkraut well and squeeze dry to prevent soggy salad",
+      "Toss ingredients gently to distribute corned beef and maintain pasta shape"
+    ],
+    "coachingPrompt": "Help the user balance tangy, savory flavors and achieve proper texture by cooking pasta correctly and draining ingredients thoroughly."
+  },
+  "timestamp": "2026-02-06T15:45:17.897Z"
+}

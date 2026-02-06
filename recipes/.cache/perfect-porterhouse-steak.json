@@ -1,0 +1,48 @@
+{
+  "contentHash": "b7637a6c619f6f87",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "20 ounces porterhouse steak",
+        "searchTerm": "porterhouse steak",
+        "normalizedName": "Porterhouse Steak"
+      },
+      {
+        "ingredient": "1 teaspoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon meat tenderizer",
+        "searchTerm": "meat tenderizer",
+        "normalizedName": "Meat Tenderizer"
+      },
+      {
+        "ingredient": "1 teaspoon steak seasoning",
+        "searchTerm": "steak seasoning",
+        "normalizedName": "Steak Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cast iron skillet",
+        "searchTerm": "cast iron skillet"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "meat tongs"
+      }
+    ],
+    "cookingTips": [
+      "Let steak come to room temperature for 30 minutes before cooking",
+      "Don't move the steak constantly; let it develop a crust before flipping",
+      "Rest the steak for 5-10 minutes after cooking to redistribute juices"
+    ],
+    "coachingPrompt": "What's the best technique for cooking a thick porterhouse steak to achieve a perfect crust and desired doneness?"
+  },
+  "timestamp": "2026-02-06T14:36:07.903Z"
+}

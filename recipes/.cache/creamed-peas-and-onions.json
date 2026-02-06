@@ -1,0 +1,58 @@
+{
+  "contentHash": "ee50bad307e14b10",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 ½ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 (16 ounce) package frozen peas and onions, thawed",
+        "searchTerm": "frozen peas and onions",
+        "normalizedName": "Pea and Onion Mix"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Thaw frozen vegetables completely and drain excess liquid before adding",
+      "Make a roux with butter and flour for a smooth, consistent sauce",
+      "Add vegetables at the end to maintain their texture"
+    ],
+    "coachingPrompt": "I'm using frozen peas and onions for this creamed dish. Do I need to cook them before adding to the sauce?"
+  },
+  "timestamp": "2026-02-06T04:19:52.025Z"
+}

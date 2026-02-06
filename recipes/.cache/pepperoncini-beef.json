@@ -1,0 +1,53 @@
+{
+  "contentHash": "dccbe603f6419808",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (3 pound) beef chuck roast",
+        "searchTerm": "beef chuck roast",
+        "normalizedName": "Beef Chuck Roast"
+      },
+      {
+        "ingredient": "4 cloves garlic, sliced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar pepperoncini",
+        "searchTerm": "pepperoncini",
+        "normalizedName": "Pepperoncini"
+      },
+      {
+        "ingredient": "8 hoagie rolls, split lengthwise",
+        "searchTerm": "hoagie roll",
+        "normalizedName": "Hoagie Roll"
+      },
+      {
+        "ingredient": "16 slices provolone cheese",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "Shredding Forks",
+        "searchTerm": "meat forks"
+      }
+    ],
+    "cookingTips": [
+      "Score the roast surface to help garlic slices penetrate during cooking",
+      "Include the brine from the pepperoncini jar for additional flavor and moisture",
+      "Shred meat with two forks or meat shredders for best texture"
+    ],
+    "coachingPrompt": "Why would you include the pepperoncini brine in the slow cooker? How would you adjust spice level for different preferences?"
+  },
+  "timestamp": "2026-02-06T14:33:19.297Z"
+}

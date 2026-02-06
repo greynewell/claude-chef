@@ -1,0 +1,87 @@
+---
+title: "Raspberry Lemon Cupcakes"
+description: "This easy-level dessert features all-purpose flour, white sugar and is ready in about 40 minutes. Serves 12."
+author: "Mkr"
+prep_time: PT20M
+cook_time: PT20M
+servings: 12
+calories: 190
+recipe_category: Dessert
+keywords:
+  - cupcakes
+  - dessert
+  - lemon
+  - raspberry
+recipe_ingredients:
+  - "All-Purpose Flour"
+  - "White Sugar"
+  - "Baking Soda"
+  - "Baking Powder"
+  - "Butter At"
+  - "Lemon Juice"
+  - "Milk"
+  - "Egg Whites"
+  - "Almond Extract"
+  - "Vanilla Extract"
+  - "Raspberry"
+allergies:
+  - Dairy
+  - Gluten
+  - Eggs
+  - Tree Nuts
+flavors:
+  - Sweet
+  - Sour
+tools:
+  - Oven
+  - Mixing Bowl
+  - Stand Mixer
+  - Cutting Board
+  - Whisk
+skill_level: Easy
+source_url: "https://www.allrecipes.com/recipe/276980/raspberry-lemon-cupcakes/"
+---
+
+## Ingredients
+
+- 2 ¼ cups all-purpose flour, divided
+- ⅓ cup white sugar
+- 1 teaspoon baking soda
+- ½ teaspoon baking powder
+- ½ cup butter, at room temperature
+- ½ cup lemon juice
+- ⅓ cup milk
+- 2  egg whites
+- 1 teaspoon almond extract
+- ½ teaspoon vanilla extract
+- 1 cup frozen raspberries
+
+## Instructions
+
+1. Preheat the oven to 350 degrees F (175 degrees C). Line 12 muffin cups with paper liners.
+2. Sift 2 cups flour, sugar, baking soda, and baking powder into the bowl of a stand mixer. Cut butter into 4 or 5 chunks and add to the bowl. Mix on low speed until mixture resembles sand.
+3. Combine lemon juice, milk, egg whites, almond extract, and vanilla extract in a separate bowl. Beat lightly for 2 minutes with a fork or whisk. Pour over the flour mixture and mix on medium speed until fully incorporated, about 1 minute.
+4. Dust frozen raspberries with 4 tablespoons flour to prevent sinking. Fold into the batter using a spatula. Fill muffin cups 2/3 full of batter.
+5. Bake in the preheated oven until a toothpick inserted into the center comes out clean, 20 to 25 minutes. Cool for 5 minutes before transferring to a wire rack.
+
+## Frequently Asked Questions
+
+### How long does it take to make Raspberry Lemon Cupcakes?
+
+This recipe takes approximately 40 minutes from start to finish — 20 minutes of prep and 20 minutes of cooking. It is rated as easy difficulty.
+
+### How many servings does this Raspberry Lemon Cupcakes recipe make?
+
+This recipe yields 12 servings. You can adjust the serving size using the servings slider above the ingredient list.
+
+### Can I make Raspberry Lemon Cupcakes ahead of time? How should I store leftovers?
+
+Store leftover raspberry lemon cupcakes in an airtight container in the refrigerator for up to 3-4 days.
+
+### How many calories are in Raspberry Lemon Cupcakes?
+
+Each serving contains approximately 190 calories. The recipe serves 12.
+
+### What temperature should I use for Raspberry Lemon Cupcakes?
+
+Follow the temperature specified in the recipe instructions. Make sure to preheat your oven fully.

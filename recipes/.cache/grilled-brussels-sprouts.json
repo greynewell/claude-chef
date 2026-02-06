@@ -1,0 +1,58 @@
+{
+  "contentHash": "0beee21cd0a04fa1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (16 ounce) package Brussels sprouts, halved",
+        "searchTerm": "Brussels sprouts",
+        "normalizedName": "Brussels Sprout"
+      },
+      {
+        "ingredient": "2 teaspoons garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "2 teaspoons cracked black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pinch seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      },
+      {
+        "ingredient": "1 lime, halved",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill basket",
+        "searchTerm": "grill basket"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Halve Brussels sprouts with flat side down for better caramelization and char",
+      "Use a grill basket to prevent smaller pieces from falling through",
+      "Squeeze lime over finished sprouts for brightness and acid balance"
+    ],
+    "coachingPrompt": "Why does cutting Brussels sprouts in half expose more surface area for caramelization? What happens during the Maillard reaction?"
+  },
+  "timestamp": "2026-02-06T08:11:12.957Z"
+}

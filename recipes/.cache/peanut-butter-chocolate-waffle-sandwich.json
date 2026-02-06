@@ -1,0 +1,39 @@
+{
+  "contentHash": "1a07ee51f45d44fb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 frozen waffles",
+        "searchTerm": "frozen waffles",
+        "normalizedName": "Waffle"
+      },
+      {
+        "ingredient": "1 cup chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Chocolate Chip"
+      },
+      {
+        "ingredient": "2 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Toast waffles until crispy on the outside to provide structure for the sandwich",
+      "Warm peanut butter slightly so it spreads easily on warm waffles",
+      "Add chocolate chips while waffles are still warm so they melt slightly"
+    ],
+    "coachingPrompt": "Guide the user on assembly techniques for quick dessert sandwiches and when to add components for optimal texture."
+  },
+  "timestamp": "2026-02-06T14:24:52.100Z"
+}

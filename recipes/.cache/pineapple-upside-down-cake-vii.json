@@ -1,0 +1,52 @@
+{
+  "contentHash": "1b2cc98677217989",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 ½ cups brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 (20 ounce) can sliced pineapple",
+        "searchTerm": "canned pineapple slices",
+        "normalizedName": "Pineapple"
+      },
+      {
+        "ingredient": "10 maraschino cherries",
+        "searchTerm": "maraschino cherries",
+        "normalizedName": "Maraschino Cherry"
+      },
+      {
+        "ingredient": "1 (18.25 ounce) package white cake mix",
+        "searchTerm": "white cake mix",
+        "normalizedName": "Cake Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9-inch round cake pan",
+        "searchTerm": "cake pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "mixer"
+      }
+    ],
+    "cookingTips": [
+      "Arrange pineapple slices and cherries in butter and brown sugar before adding batter for best presentation",
+      "Let cake cool 5 minutes before inverting onto plate to prevent breaking"
+    ],
+    "coachingPrompt": "Guide the user on proper inversion technique and timing to achieve the classic upside-down presentation."
+  },
+  "timestamp": "2026-02-06T14:50:58.656Z"
+}

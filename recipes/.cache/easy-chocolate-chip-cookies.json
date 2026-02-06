@@ -1,0 +1,53 @@
+{
+  "contentHash": "81f5fed875ead828",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (18.25 ounce) package yellow cake mix",
+        "searchTerm": "yellow cake mix",
+        "normalizedName": "Yellow Cake Mix"
+      },
+      {
+        "ingredient": "½ cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 cups semisweet chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Semisweet Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "cookie sheet"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "mixer"
+      }
+    ],
+    "cookingTips": [
+      "Soften butter to room temperature for easier mixing",
+      "Don't overbake; remove cookies when edges are set but centers still soft",
+      "Chill dough 15 minutes before baking for better texture"
+    ],
+    "coachingPrompt": "Help me make these shortcut cookies that use cake mix as the base. What temperature and time should I bake them at?"
+  },
+  "timestamp": "2026-02-06T05:40:46.761Z"
+}

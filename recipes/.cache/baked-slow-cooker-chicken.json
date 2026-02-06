@@ -1,0 +1,48 @@
+{
+  "contentHash": "c3a8fa54a4a9cd11",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (2 to 3 pound) whole chicken",
+        "searchTerm": "whole chicken",
+        "normalizedName": "Whole Chicken"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "kitchen knife"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Pat the chicken dry before cooking for better seasoning adherence",
+      "Place chicken breast-side up on a bed of vegetables for moisture and flavor",
+      "Let rest for 10 minutes after cooking before carving for juicier meat"
+    ],
+    "coachingPrompt": "Explain how slow cooking keeps chicken moist and makes it perfect for shredding for other recipes."
+  },
+  "timestamp": "2026-02-05T23:12:38.645Z"
+}

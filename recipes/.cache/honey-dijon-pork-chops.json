@@ -1,0 +1,53 @@
+{
+  "contentHash": "b1173200e4c5e8c8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "¼ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "4 (1-inch thick) boneless pork loin chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Marinate pork chops for 1-2 hours for flavor penetration",
+      "Bring to room temperature before cooking for even cooking",
+      "Cook to 145°F internal temperature with 3-minute rest for juiciness"
+    ],
+    "coachingPrompt": "How long should I marinate the pork chops? What's the ideal doneness for pork?"
+  },
+  "timestamp": "2026-02-06T09:20:56.004Z"
+}

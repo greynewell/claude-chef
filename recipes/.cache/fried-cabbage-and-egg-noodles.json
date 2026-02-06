@@ -1,0 +1,53 @@
+{
+  "contentHash": "9b9b3edb5885da4b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package egg noodles",
+        "searchTerm": "egg noodles",
+        "normalizedName": "Egg Noodle"
+      },
+      {
+        "ingredient": "1 stick butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 medium head green cabbage, chopped",
+        "searchTerm": "green cabbage",
+        "normalizedName": "Green Cabbage"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Cook noodles until just tender to avoid mushiness when fried",
+      "Chop cabbage into uniform pieces for even cooking",
+      "Use high heat to achieve crispy edges on the noodles and cabbage"
+    ],
+    "coachingPrompt": "How can we build better flavor by adding aromatics or adjusting the salt level?"
+  },
+  "timestamp": "2026-02-06T07:03:51.642Z"
+}

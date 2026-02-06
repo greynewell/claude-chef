@@ -1,0 +1,53 @@
+{
+  "contentHash": "3674f1d556952211",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10 ounce) can refrigerated crescent dinner rolls",
+        "searchTerm": "crescent rolls",
+        "normalizedName": "Crescent Dinner Roll"
+      },
+      {
+        "ingredient": "8 large marshmallows",
+        "searchTerm": "marshmallows",
+        "normalizedName": "Marshmallow"
+      },
+      {
+        "ingredient": "¼ cup melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "2 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "brush"
+      }
+    ],
+    "cookingTips": [
+      "Place one marshmallow in the center of each crescent roll and wrap dough around it completely",
+      "Mix cinnamon and sugar together before brushing with butter for even coating",
+      "Bake until golden and marshmallow is melted but not leaking out"
+    ],
+    "coachingPrompt": "How can we seal the dough around the marshmallow so it stays inside during baking?"
+  },
+  "timestamp": "2026-02-06T16:09:17.995Z"
+}

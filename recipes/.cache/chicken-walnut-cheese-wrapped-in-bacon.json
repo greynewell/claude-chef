@@ -1,0 +1,48 @@
+{
+  "contentHash": "4020cbc4839041fd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 boneless, skinless chicken breasts, halved horizontally",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "8 ounces crumbled blue cheese",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      },
+      {
+        "ingredient": "6 ounces walnut halves",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "8 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "meat mallet",
+        "searchTerm": "meat mallet"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "instant-read thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken breasts evenly to ensure uniform cooking",
+      "Wrap bacon tightly around chicken to prevent unraveling",
+      "Cook to internal temperature of 165°F for food safety"
+    ],
+    "coachingPrompt": "Guide the user through butterflying the chicken breasts and creating an even thickness for consistent cooking."
+  },
+  "timestamp": "2026-02-06T02:46:40.318Z"
+}

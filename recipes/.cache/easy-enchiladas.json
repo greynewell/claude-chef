@@ -1,0 +1,52 @@
+{
+  "contentHash": "d25f39d29427bdc0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (16 ounce) jars prepared salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (15.5 ounce) jar prepared salsa con queso",
+        "searchTerm": "salsa con queso",
+        "normalizedName": "Salsa Con Queso"
+      },
+      {
+        "ingredient": "20 (8 inch) flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "1 (8 ounce) package shredded Cheddar-Monterey Jack cheese blend",
+        "searchTerm": "Cheddar Monterey Jack cheese",
+        "normalizedName": "Cheddar Monterey Jack Cheese Blend"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "9x13 baking pan",
+        "searchTerm": "9x13 baking pan"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "rubber spatula"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly and drain excess fat before assembly",
+      "Warm tortillas to prevent tearing during rolling"
+    ],
+    "coachingPrompt": "Help the user efficiently layer enchiladas and explain how the cheese sauce creates cohesion during baking."
+  },
+  "timestamp": "2026-02-06T05:43:24.513Z"
+}

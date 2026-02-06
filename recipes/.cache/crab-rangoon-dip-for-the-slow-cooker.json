@@ -1,0 +1,63 @@
+{
+  "contentHash": "84ffd7c0f4dbf66f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (8 ounce) packages cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (12 ounce) package crabmeat, flaked and cartilage removed",
+        "searchTerm": "crabmeat",
+        "normalizedName": "Crabmeat"
+      },
+      {
+        "ingredient": "½ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "4 green onions, chopped",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "2 tablespoons confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "1 ½ teaspoons Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Soften cream cheese at room temperature for smooth mixing",
+      "Pick through crabmeat carefully to remove all cartilage",
+      "Set slow cooker to warm setting to keep dip hot without overcooking"
+    ],
+    "coachingPrompt": "Guide the user in preparing an easy slow cooker dip by combining ingredients and letting the slow cooker do the work."
+  },
+  "timestamp": "2026-02-06T04:02:47.147Z"
+}

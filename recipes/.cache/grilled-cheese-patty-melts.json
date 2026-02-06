@@ -1,0 +1,63 @@
+{
+  "contentHash": "edb332d48a6851c7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound 85% lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "3 tablespoons chopped fresh flat-leaf parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Flat-Leaf Parsley"
+      },
+      {
+        "ingredient": "1 tablespoon finely chopped garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon Worcestershire sauce",
+        "searchTerm": "worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon Montreal-style steak seasoning",
+        "searchTerm": "steak seasoning",
+        "normalizedName": "Montreal-Style Steak Seasoning"
+      },
+      {
+        "ingredient": "6 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "6 slices Colby-Jack cheese",
+        "searchTerm": "colby-jack cheese",
+        "normalizedName": "Colby-Jack Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Form patties gently to avoid compressing the meat; handle minimally",
+      "Cook patties until internal temperature reaches 160°F",
+      "Toast bread lightly before assembling to prevent sogginess"
+    ],
+    "coachingPrompt": "Help the user understand proper burger patty formation and the importance of not overworking the beef, plus timing both components correctly."
+  },
+  "timestamp": "2026-02-06T08:12:09.121Z"
+}

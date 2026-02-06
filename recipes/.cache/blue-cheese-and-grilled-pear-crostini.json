@@ -1,0 +1,68 @@
+{
+  "contentHash": "143d195b4b158048",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 small pears",
+        "searchTerm": "pears",
+        "normalizedName": "Pear"
+      },
+      {
+        "ingredient": "⅓ cup cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "8 (1/2 inch) slices French baguette",
+        "searchTerm": "French baguette",
+        "normalizedName": "French Baguette"
+      },
+      {
+        "ingredient": "2 slices blue cheese",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon toasted chopped walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "1 teaspoon chopped fresh mint",
+        "searchTerm": "fresh mint",
+        "normalizedName": "Mint"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill or grill pan",
+        "searchTerm": "grill pan"
+      },
+      {
+        "name": "toaster oven",
+        "searchTerm": "toaster oven"
+      },
+      {
+        "name": "small knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Grill pear halves cut-side down for 2-3 minutes to caramelize the natural sugars",
+      "Toast baguette slices lightly to create a crisp base that won't get soggy from cream cheese",
+      "Assemble crostini just before serving to maintain crispness"
+    ],
+    "coachingPrompt": "What technique creates caramelization on grilled pears?"
+  },
+  "timestamp": "2026-02-06T00:18:58.189Z"
+}

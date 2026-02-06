@@ -1,0 +1,53 @@
+{
+  "contentHash": "5ccee4e99b2461cb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (1 ounce) package ranch dressing mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Ranch Dressing Mix"
+      },
+      {
+        "ingredient": "2 cups mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¾ cup chopped green onion",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 pound bacon slices",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "5 pounds unpeeled red potatoes",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Boil potatoes with skin on until just fork-tender to prevent mushiness",
+      "Dress warm potatoes while still steaming for better flavor absorption",
+      "Cook bacon until crispy, crumble, and add just before serving to maintain crunch"
+    ],
+    "coachingPrompt": "How can you incorporate flavors while keeping potatoes intact and creamy?"
+  },
+  "timestamp": "2026-02-06T20:28:40.213Z"
+}

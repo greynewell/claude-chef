@@ -1,0 +1,57 @@
+{
+  "contentHash": "3cd33223c81310e4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (12.5 fl oz) cans white meat chicken",
+        "searchTerm": "canned chicken",
+        "normalizedName": "Canned Chicken"
+      },
+      {
+        "ingredient": "1 cup sharp Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 cup plain Greek yogurt",
+        "searchTerm": "Greek yogurt",
+        "normalizedName": "Greek Yogurt"
+      },
+      {
+        "ingredient": "¼ cup taco sauce",
+        "searchTerm": "taco sauce",
+        "normalizedName": "Taco Sauce"
+      },
+      {
+        "ingredient": "1 (1.25 ounce) package taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning Mix"
+      },
+      {
+        "ingredient": "½ (1 ounce) package ranch dressing mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Ranch Dressing Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "dip serving dish",
+        "searchTerm": "serving dish"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Drain canned chicken thoroughly to prevent excess moisture in the dip",
+      "Warm the dip in a slow cooker or oven to serve for parties"
+    ],
+    "coachingPrompt": "Guide the user through combining these ingredients efficiently. Suggest they can customize the spice level by adjusting taco seasoning."
+  },
+  "timestamp": "2026-02-06T15:55:29.842Z"
+}

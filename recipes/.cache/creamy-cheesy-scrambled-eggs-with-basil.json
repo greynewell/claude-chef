@@ -1,0 +1,63 @@
+{
+  "contentHash": "ee5dfbf46116d571",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "3 tablespoons sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "½ cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon minced fresh basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Non-stick skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Whisk sour cream into eggs before cooking to distribute it evenly throughout",
+      "Cook over medium-low heat, stirring frequently, to achieve creamy curds without toughness",
+      "Add cheese and basil at the very end to preserve their flavors and prevent overcooking"
+    ],
+    "coachingPrompt": "How does sour cream change the texture and richness of scrambled eggs compared to adding only milk?"
+  },
+  "timestamp": "2026-02-06T04:22:54.351Z"
+}

@@ -1,0 +1,47 @@
+{
+  "contentHash": "e500297ee214d1bd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "muffin tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Prepare batter ahead and let rest 30 minutes for better rise",
+      "Heat muffin tins with oil until smoking hot before adding batter for dramatic puffing"
+    ],
+    "coachingPrompt": "Why is extremely hot oil and a high oven temperature crucial for Yorkshire pudding success?"
+  },
+  "timestamp": "2026-02-06T17:54:03.128Z"
+}

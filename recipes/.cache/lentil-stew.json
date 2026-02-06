@@ -1,0 +1,68 @@
+{
+  "contentHash": "db296a89ac85e5c5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "7 medium potatoes, chopped",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 (28 ounce) can diced tomatoes",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "1 large onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 pound Polish sausage, sliced",
+        "searchTerm": "Polish sausage",
+        "normalizedName": "Polish Sausage"
+      },
+      {
+        "ingredient": "1 (16 ounce) package lentils",
+        "searchTerm": "lentils",
+        "normalizedName": "Lentil"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot or Dutch oven",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Brown the sausage first to render its fat and build a flavorful foundation for the stew",
+      "Cut potatoes into uniform chunks so they cook evenly with the lentils",
+      "Simmer covered for 45-60 minutes until lentils and potatoes are completely tender"
+    ],
+    "coachingPrompt": "Guide the user through building a hearty, one-pot meal where sausage and lentils create rich umami flavors."
+  },
+  "timestamp": "2026-02-06T11:21:32.394Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "cd3043228928dace",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups bow tie pasta",
+        "searchTerm": "farfalle pasta",
+        "normalizedName": "Farfalle"
+      },
+      {
+        "ingredient": "4 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 tablespoons grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 teaspoon chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 teaspoon dry mustard",
+        "searchTerm": "dry mustard",
+        "normalizedName": "Dry Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "kitchen tongs"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta al dente first, then dry thoroughly before frying",
+      "Toss seasoning while pasta is still warm for even coating"
+    ],
+    "coachingPrompt": "Why is drying the pasta critical, and how will you season it for maximum flavor absorption?"
+  },
+  "timestamp": "2026-02-06T07:04:45.286Z"
+}

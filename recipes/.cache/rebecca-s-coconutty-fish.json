@@ -1,0 +1,58 @@
+{
+  "contentHash": "e48ae46e71d15aba",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 lime, juiced",
+        "searchTerm": "fresh lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "8 tilapia fillets",
+        "searchTerm": "tilapia fillets",
+        "normalizedName": "Tilapia Fillet"
+      },
+      {
+        "ingredient": "¼ cup honey-flavored Greek-style yogurt",
+        "searchTerm": "Greek yogurt",
+        "normalizedName": "Greek Yogurt"
+      },
+      {
+        "ingredient": "½ cup finely chopped pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      },
+      {
+        "ingredient": "½ cup shredded sweetened coconut",
+        "searchTerm": "shredded coconut",
+        "normalizedName": "Shredded Coconut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "shallow bowl for coating",
+        "searchTerm": "shallow bowl"
+      }
+    ],
+    "cookingTips": [
+      "Pat fish dry before applying coating for better adhesion",
+      "Use a light hand with yogurt spread to avoid overpowering delicate fish",
+      "Bake at 400°F for 12-15 minutes until fish flakes easily with a fork"
+    ],
+    "coachingPrompt": "This recipe combines tropical flavors with delicate tilapia. Help the user understand why dry fish is important for coating adhesion, and explain how the yogurt acts as both flavor and binding agent."
+  },
+  "timestamp": "2026-02-06T16:00:32.950Z"
+}

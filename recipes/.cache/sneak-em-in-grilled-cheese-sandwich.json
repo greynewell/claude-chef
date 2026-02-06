@@ -1,0 +1,59 @@
+{
+  "contentHash": "c58b1bd4f14570b0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "2 slices Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "¼ cup chopped broccoli",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "¼ cup chopped zucchini",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "¼ cup chopped green bell pepper",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon chopped jalapeno pepper",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "3 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Chop vegetables finely so they cook through with the cheese",
+      "Cook vegetables lightly before assembling to reduce moisture",
+      "Butter both sides of bread evenly for golden color"
+    ],
+    "coachingPrompt": "How do you get vegetables to cook properly inside a sandwich? Why is finely chopping ingredients important here?"
+  },
+  "timestamp": "2026-02-06T18:28:41.093Z"
+}

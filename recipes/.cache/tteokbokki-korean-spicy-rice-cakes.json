@@ -1,0 +1,73 @@
+{
+  "contentHash": "8c3ca568216eee5e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 dried anchovies, or more to taste",
+        "searchTerm": "dried anchovy",
+        "normalizedName": "Dried Anchovy"
+      },
+      {
+        "ingredient": "3 tablespoons chile paste",
+        "searchTerm": "chile paste",
+        "normalizedName": "Chile Paste"
+      },
+      {
+        "ingredient": "2 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 tablespoon corn syrup",
+        "searchTerm": "corn syrup",
+        "normalizedName": "Corn Syrup"
+      },
+      {
+        "ingredient": "2 Korean fish cakes, sliced",
+        "searchTerm": "fish cake",
+        "normalizedName": "Fish Cake"
+      },
+      {
+        "ingredient": "½ onion, thickly sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 spring onion, thickly sliced",
+        "searchTerm": "spring onion",
+        "normalizedName": "Spring Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "serving bowl",
+        "searchTerm": "serving bowl"
+      }
+    ],
+    "cookingTips": [
+      "Simmer anchovy broth gently to extract umami without making it too fishy",
+      "Add rice cakes near the end of cooking to prevent them from becoming too soft",
+      "Adjust chile paste amount based on desired spice level"
+    ],
+    "coachingPrompt": "Help the user build proper Korean rice cake broth with balanced spice and umami, achieving the signature chewy texture of tteok."
+  },
+  "timestamp": "2026-02-06T21:10:32.833Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "d72184df7fff5a70",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "½ cup Italian-style salad dressing",
+        "searchTerm": "Italian-style salad dressing",
+        "normalizedName": "Italian-Style Salad Dressing"
+      },
+      {
+        "ingredient": "3 pounds chicken wings",
+        "searchTerm": "chicken wings",
+        "normalizedName": "Chicken Wing"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "¼ cup hot pepper sauce",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "Shallow Baking Dish",
+        "searchTerm": "shallow baking dish"
+      }
+    ],
+    "cookingTips": [
+      "Marinate wings for 2-4 hours for best flavor",
+      "Grill over medium heat to avoid flare-ups from dripping fat",
+      "Brush with sauce during last 5 minutes of cooking"
+    ],
+    "coachingPrompt": "This recipe uses a marinade for flavor. How much prep time do you have? Would you prefer to marinate ahead or use a quick method?"
+  },
+  "timestamp": "2026-02-06T08:09:25.637Z"
+}

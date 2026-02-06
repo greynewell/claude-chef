@@ -1,0 +1,78 @@
+{
+  "contentHash": "6bdebb806c2d3f35",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound uncooked spaghetti",
+        "searchTerm": "spaghetti",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "1 pound broccoli florets",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "1 tablespoon margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "1 pound skinless, boneless chicken breast halves - cut into strips",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "½ cup chopped onions",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of chicken soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream of Chicken Soup"
+      },
+      {
+        "ingredient": "⅔ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "⅔ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (3 ounce) package cream cheese, cubed and softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "¾ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Large Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta just until al dente as it will continue softening in the sauce",
+      "Add broccoli in the last few minutes of cooking for a tender-crisp texture",
+      "Cube cream cheese before adding so it melts smoothly"
+    ],
+    "coachingPrompt": "Would you like guidance on timing all the components so everything finishes together, or tips on preventing the broccoli from getting mushy?"
+  },
+  "timestamp": "2026-02-06T04:23:58.221Z"
+}

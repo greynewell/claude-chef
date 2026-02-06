@@ -1,0 +1,62 @@
+{
+  "contentHash": "dfa3e19cd61d49ea",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "1 tablespoon mustard",
+        "searchTerm": "mustard",
+        "normalizedName": "Mustard"
+      },
+      {
+        "ingredient": "6 slices ham",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "1 pear, peeled and thinly sliced",
+        "searchTerm": "pear",
+        "normalizedName": "Pear"
+      },
+      {
+        "ingredient": "2 dashes ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon light margarine",
+        "searchTerm": "light margarine",
+        "normalizedName": "Light Margarine"
+      }
+    ],
+    "gear": [
+      {
+        "name": "panini press",
+        "searchTerm": "panini press"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Select a firm pear and slice thinly so it cooks evenly in the panini",
+      "Press sandwiches until cheese melts and bread is golden for best texture"
+    ],
+    "coachingPrompt": "Help the user select the right pear ripeness and explain how to achieve crispy golden bread with melted cheese."
+  },
+  "timestamp": "2026-02-06T08:41:29.023Z"
+}

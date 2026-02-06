@@ -1,0 +1,88 @@
+{
+  "contentHash": "a80ff35fb3a1e490",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "diced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "diced carrot",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "diced celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "fresh thyme",
+        "searchTerm": "thyme",
+        "normalizedName": "Thyme"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "beluga lentils",
+        "searchTerm": "beluga lentils",
+        "normalizedName": "Beluga Lentil"
+      },
+      {
+        "ingredient": "chicken stock",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Stock"
+      },
+      {
+        "ingredient": "champagne vinegar",
+        "searchTerm": "champagne vinegar",
+        "normalizedName": "Champagne Vinegar"
+      },
+      {
+        "ingredient": "Italian parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan or pot",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Beluga lentils hold their shape well during cooking",
+      "Toast spices in butter and oil before adding liquids for deeper flavor",
+      "Add vinegar at the end to brighten the dish"
+    ],
+    "coachingPrompt": "What's your preferred ratio of liquid to lentils, and how do you know when they're perfectly cooked?"
+  },
+  "timestamp": "2026-02-06T00:33:03.008Z"
+}

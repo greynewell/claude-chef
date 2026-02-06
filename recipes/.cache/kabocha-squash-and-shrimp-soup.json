@@ -1,0 +1,68 @@
+{
+  "contentHash": "f919ee8446298cb4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "kabocha squash",
+        "searchTerm": "kabocha squash",
+        "normalizedName": "Kabocha Squash"
+      },
+      {
+        "ingredient": "dried shrimp",
+        "searchTerm": "dried shrimp",
+        "normalizedName": "Dried Shrimp"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "immersion blender",
+        "searchTerm": "blender"
+      }
+    ],
+    "cookingTips": [
+      "Peel kabocha squash while raw for easier removal of tough skin",
+      "Rehydrate dried shrimp briefly before adding for better flavor extraction",
+      "Blend soup until smooth for creamy texture without cream"
+    ],
+    "coachingPrompt": "Kabocha has a naturally sweet flavor. How will you balance this with the savory dried shrimp element?"
+  },
+  "timestamp": "2026-02-06T10:32:48.836Z"
+}

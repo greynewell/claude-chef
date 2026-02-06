@@ -1,0 +1,39 @@
+{
+  "contentHash": "7ffd5c567b1d1bc3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ounces Baileys Original Irish Cream",
+        "searchTerm": "Irish cream liqueur",
+        "normalizedName": "Irish Cream Liqueur"
+      },
+      {
+        "ingredient": "5 ounces coffee",
+        "searchTerm": "coffee",
+        "normalizedName": "Coffee"
+      },
+      {
+        "ingredient": "Cinnamon dust and cinnamon stick",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mug",
+        "searchTerm": "mug"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use freshly brewed hot coffee for best flavor",
+      "Add Baileys to the hot coffee and stir well",
+      "Use the cinnamon stick as both stirrer and garnish"
+    ],
+    "coachingPrompt": "How would you describe the flavor profile created by combining Irish cream with coffee and cinnamon?"
+  },
+  "timestamp": "2026-02-05T22:56:35.878Z"
+}

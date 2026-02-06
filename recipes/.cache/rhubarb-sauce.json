@@ -1,0 +1,48 @@
+{
+  "contentHash": "485f1330b8b599b4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups chopped rhubarb",
+        "searchTerm": "rhubarb",
+        "normalizedName": "Rhubarb"
+      },
+      {
+        "ingredient": "1 ½ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 (3 ounce) package strawberry-flavored gelatin mix (such as Jell-O®)",
+        "searchTerm": "strawberry gelatin",
+        "normalizedName": "Strawberry Gelatin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cup"
+      }
+    ],
+    "cookingTips": [
+      "Simmer rhubarb until very soft before adding gelatin",
+      "Stir gelatin until completely dissolved to avoid lumps",
+      "Cool completely before serving or storing"
+    ],
+    "coachingPrompt": "What texture are you aiming for—chunky or smooth sauce?"
+  },
+  "timestamp": "2026-02-06T16:12:04.554Z"
+}

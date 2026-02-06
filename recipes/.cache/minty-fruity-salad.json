@@ -1,0 +1,78 @@
+{
+  "contentHash": "cf8323c258282092",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 apple, cut into bite-size pieces",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "1 pear, cut into bite-size pieces",
+        "searchTerm": "pear",
+        "normalizedName": "Pear"
+      },
+      {
+        "ingredient": "1 peach, cut into bite-size pieces",
+        "searchTerm": "peach",
+        "normalizedName": "Peach"
+      },
+      {
+        "ingredient": "1 banana, cut into bite-size pieces",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "2 kiwi fruit, peeled and cut into bite-size pieces",
+        "searchTerm": "kiwi",
+        "normalizedName": "Kiwi Fruit"
+      },
+      {
+        "ingredient": "1 pint fresh raspberries",
+        "searchTerm": "raspberries",
+        "normalizedName": "Raspberry"
+      },
+      {
+        "ingredient": "1 pint fresh blueberries",
+        "searchTerm": "blueberries",
+        "normalizedName": "Blueberry"
+      },
+      {
+        "ingredient": "1 small bunch fresh mint, minced",
+        "searchTerm": "fresh mint",
+        "normalizedName": "Fresh Mint Leaf"
+      },
+      {
+        "ingredient": "1 lime, juiced",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "½ teaspoon triple sec",
+        "searchTerm": "triple sec",
+        "normalizedName": "Triple Sec"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "citrus juicer",
+        "searchTerm": "citrus juicer"
+      }
+    ],
+    "cookingTips": [
+      "Prep all fruits just before serving to prevent browning",
+      "Toss gently to avoid bruising delicate berries",
+      "Add lime juice and mint at the last moment for freshness"
+    ],
+    "coachingPrompt": "How will you prevent the apple and banana from oxidizing? When should you assemble this?"
+  },
+  "timestamp": "2026-02-06T12:34:30.455Z"
+}

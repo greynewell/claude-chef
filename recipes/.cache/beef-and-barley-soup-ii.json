@@ -1,0 +1,48 @@
+{
+  "contentHash": "786def59a47b1777",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 quarts beef stock",
+        "searchTerm": "beef stock",
+        "normalizedName": "Beef Stock"
+      },
+      {
+        "ingredient": "1 cup diced cooked beef",
+        "searchTerm": "cooked beef",
+        "normalizedName": "Cooked Beef"
+      },
+      {
+        "ingredient": "1 (12 ounce) package barley",
+        "searchTerm": "barley",
+        "normalizedName": "Barley"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Measuring Cups",
+        "searchTerm": "measuring cups"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use pre-made quality beef stock to save time while maintaining flavor",
+      "Simmer barley for 45 minutes until tender, checking for desired doneness",
+      "Add cooked beef at the end to avoid toughening the meat"
+    ],
+    "coachingPrompt": "Suggest how to use leftover beef and stock efficiently, and tips for varying the soup with vegetables."
+  },
+  "timestamp": "2026-02-05T23:40:31.729Z"
+}

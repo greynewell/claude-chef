@@ -1,0 +1,68 @@
+{
+  "contentHash": "b5b8842837c92816",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup chopped uncooked bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 pound fresh green beans, trimmed",
+        "searchTerm": "green beans",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "¼ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until just beginning to crisp before adding vegetables for better control",
+      "Trim green beans to similar lengths for even cooking",
+      "Keep vegetables tender-crisp by avoiding overcooking; they should still have slight crunch"
+    ],
+    "coachingPrompt": "Guide on the balance of butter, bacon fat, and broth to create a flavorful light sauce without making beans soggy."
+  },
+  "timestamp": "2026-02-06T03:56:20.730Z"
+}

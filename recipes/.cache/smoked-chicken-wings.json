@@ -1,0 +1,53 @@
+{
+  "contentHash": "555dbab5c7695bfc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "16 chicken wings, tips discarded",
+        "searchTerm": "chicken wings",
+        "normalizedName": "Chicken Wing"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ cup dry rub for chicken (such as McCormick® Grill Mates®)",
+        "searchTerm": "dry rub chicken",
+        "normalizedName": "Dry Rub"
+      },
+      {
+        "ingredient": "1 pound mesquite wood chips, soaked in water",
+        "searchTerm": "mesquite wood chips",
+        "normalizedName": "Mesquite Wood Chip"
+      },
+      {
+        "ingredient": "1 (8 ounce) bottle blue cheese salad dressing",
+        "searchTerm": "blue cheese dressing",
+        "normalizedName": "Blue Cheese Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Smoker",
+        "searchTerm": "smoker"
+      },
+      {
+        "name": "Wire Rack",
+        "searchTerm": "wire rack"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Pat wings dry before applying oil and rub for crispier results",
+      "Wings smoke faster than larger cuts; expect 1.5-2 hours at 225°F",
+      "Serve with blue cheese dressing for a classic pairing"
+    ],
+    "coachingPrompt": "Would you parboil the wings first to reduce smoking time? How does smoke penetration differ on smaller pieces?"
+  },
+  "timestamp": "2026-02-06T18:22:25.288Z"
+}

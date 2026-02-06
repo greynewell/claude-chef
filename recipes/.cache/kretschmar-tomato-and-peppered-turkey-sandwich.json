@@ -1,0 +1,63 @@
+{
+  "contentHash": "fd4d96a633142c00",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 slices KRETSCHMAR® Peppered Turkey",
+        "searchTerm": "peppered turkey",
+        "normalizedName": "Peppered Turkey"
+      },
+      {
+        "ingredient": "2 slices mozzarella",
+        "searchTerm": "mozzarella",
+        "normalizedName": "Mozzarella"
+      },
+      {
+        "ingredient": "1 roll",
+        "searchTerm": "roll",
+        "normalizedName": "Roll"
+      },
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 tablespoon prepared pesto",
+        "searchTerm": "prepared pesto",
+        "normalizedName": "Prepared Pesto"
+      },
+      {
+        "ingredient": "1 vine-ripened tomato, sliced",
+        "searchTerm": "vine-ripened tomato",
+        "normalizedName": "Vine-Ripened Tomato"
+      },
+      {
+        "ingredient": "4 leaves Fresh basil leaves",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Serrated Knife",
+        "searchTerm": "serrated knife"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Small Spreader",
+        "searchTerm": "spreader"
+      }
+    ],
+    "cookingTips": [
+      "Slice tomato just before assembling to prevent excess moisture from accumulating",
+      "Toast roll lightly to add structure and prevent bread from getting soggy",
+      "Layer mayo and pesto before adding tomato to create a moisture barrier"
+    ],
+    "coachingPrompt": "What's the best way to keep this sandwich from getting soggy when using fresh tomato?"
+  },
+  "timestamp": "2026-02-06T10:55:09.015Z"
+}

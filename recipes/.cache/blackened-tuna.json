@@ -1,0 +1,44 @@
+{
+  "contentHash": "253b0a83be5dfd66",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds fresh tuna steaks, 1 inch thick",
+        "searchTerm": "tuna steaks",
+        "normalizedName": "Tuna Steak"
+      },
+      {
+        "ingredient": "2 tablespoons Cajun seasoning",
+        "searchTerm": "Cajun seasoning",
+        "normalizedName": "Cajun Seasoning"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "cast iron skillet"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Use a combination of olive oil and butter for the best flavor and heat tolerance",
+      "Cook tuna steaks only 1-2 minutes per side for a seared crust and rare center",
+      "Let the pan get smoking hot before adding the tuna to develop the proper blackened crust"
+    ],
+    "coachingPrompt": "Show the user how to sear tuna to restaurant-quality perfection with minimal ingredients."
+  },
+  "timestamp": "2026-02-06T00:16:12.878Z"
+}

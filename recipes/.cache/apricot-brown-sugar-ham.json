@@ -1,0 +1,48 @@
+{
+  "contentHash": "583e8ec2bb3247a7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10 pound) fully-cooked spiral cut ham",
+        "searchTerm": "spiral cut ham",
+        "normalizedName": "Spiral Cut Ham"
+      },
+      {
+        "ingredient": "⅔ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "⅓ cup apricot jam",
+        "searchTerm": "apricot jam",
+        "normalizedName": "Apricot Jam"
+      },
+      {
+        "ingredient": "1 teaspoon dry mustard powder",
+        "searchTerm": "dry mustard",
+        "normalizedName": "Dry Mustard Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "large baking dish"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Pastry Brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Score the ham surface in a crosshatch pattern before glazing to help the glaze penetrate",
+      "Baste the ham every 15-20 minutes during cooking to build layers of glaze",
+      "Allow ham to rest 15 minutes after cooking before slicing for easier presentation"
+    ],
+    "coachingPrompt": "How would you modify the glaze if you preferred a tangier flavor profile?"
+  },
+  "timestamp": "2026-02-05T22:19:24.260Z"
+}

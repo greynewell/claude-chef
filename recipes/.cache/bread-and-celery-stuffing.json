@@ -1,0 +1,67 @@
+{
+  "contentHash": "b68bbcaf1c2d71b3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (1 pound) loaf sliced white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "¾ cup butter or margarine",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "4 stalks celery, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "2 teaspoons poultry seasoning",
+        "searchTerm": "poultry seasoning",
+        "normalizedName": "Poultry Seasoning"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 cup chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cut bread into cubes and let them dry out slightly before mixing for better texture",
+      "Don't oversaturate with broth - add gradually while mixing until you reach desired moistness"
+    ],
+    "coachingPrompt": "Are you making this as a side dish for poultry? Would you like suggestions for adjusting seasoning?"
+  },
+  "timestamp": "2026-02-06T00:34:57.322Z"
+}

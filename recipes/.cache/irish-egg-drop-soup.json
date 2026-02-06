@@ -1,0 +1,53 @@
+{
+  "contentHash": "3880257840a246e2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 large baking potatoes, peeled and cut into 1 inch pieces",
+        "searchTerm": "baking potato",
+        "normalizedName": "Baking Potato"
+      },
+      {
+        "ingredient": "1 large onion, coarsely chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cube chicken bouillon",
+        "searchTerm": "chicken bouillon cube",
+        "normalizedName": "Chicken Bouillon Cube"
+      },
+      {
+        "ingredient": "1 tablespoon margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "3 eggs, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "Bring broth to gentle boil before drizzling beaten eggs to create delicate strands",
+      "Cut potatoes small and uniform so they cook evenly",
+      "Stir constantly while adding eggs to create fine egg ribbons"
+    ],
+    "coachingPrompt": "Show me how to create silky egg ribbons in potato soup by controlling heat and egg-drizzling speed."
+  },
+  "timestamp": "2026-02-06T10:01:36.531Z"
+}

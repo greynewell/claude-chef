@@ -1,0 +1,63 @@
+{
+  "contentHash": "77ebc897968375d6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds baby back ribs, trimmed",
+        "searchTerm": "baby back ribs",
+        "normalizedName": "Baby Back Rib"
+      },
+      {
+        "ingredient": "salt and ground black pepper, to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper, to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ onion, sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 (18 ounce) bottle barbeque sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "Meat Fork",
+        "searchTerm": "meat fork"
+      }
+    ],
+    "cookingTips": [
+      "Trim excess fat from ribs before cooking to reduce grease",
+      "Cook on low for 6-8 hours until meat falls off bones easily",
+      "Add barbecue sauce in the last 30 minutes to prevent burning"
+    ],
+    "coachingPrompt": "Guide the cook on achieving fall-off-the-bone tenderness without drying out the meat in a slow cooker."
+  },
+  "timestamp": "2026-02-06T18:04:11.979Z"
+}

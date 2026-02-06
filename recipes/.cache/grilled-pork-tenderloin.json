@@ -1,0 +1,53 @@
+{
+  "contentHash": "3e733f41165b8475",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (1 pound) pork tenderloins",
+        "searchTerm": "pork tenderloin",
+        "normalizedName": "Pork Tenderloin"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 cup barbeque sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Let pork come to room temperature before grilling for even cooking",
+      "Use a meat thermometer to ensure internal temperature reaches 145°F",
+      "Rest meat for 5 minutes after grilling before slicing"
+    ],
+    "coachingPrompt": "How would you achieve a perfectly caramelized exterior while keeping the interior juicy on a pork tenderloin?"
+  },
+  "timestamp": "2026-02-06T08:23:14.888Z"
+}

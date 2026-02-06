@@ -1,0 +1,58 @@
+{
+  "contentHash": "df7eac2993fc2304",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 skinless, boneless chicken breasts",
+        "searchTerm": "chicken breasts",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 cloves garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 tablespoons dried rosemary",
+        "searchTerm": "dried rosemary",
+        "normalizedName": "Dried Rosemary"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken breasts to even thickness for uniform cooking",
+      "Marinate for 30 minutes if time allows for deeper flavor",
+      "Cook to internal temperature of 165°F for food safety"
+    ],
+    "coachingPrompt": "Coach the user on achieving moist chicken by explaining the importance of even thickness and avoiding overcooking."
+  },
+  "timestamp": "2026-02-06T05:45:16.338Z"
+}

@@ -1,0 +1,68 @@
+{
+  "contentHash": "b19e7b24b93defb7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 quart chicken stock",
+        "searchTerm": "chicken stock",
+        "normalizedName": "Chicken Stock"
+      },
+      {
+        "ingredient": "14 ounces red snapper fillets, cut into slices",
+        "searchTerm": "red snapper fillets",
+        "normalizedName": "Red Snapper Fillet"
+      },
+      {
+        "ingredient": "2 cups cooked rice",
+        "searchTerm": "cooked rice",
+        "normalizedName": "Cooked Rice"
+      },
+      {
+        "ingredient": "10 cherry tomatoes",
+        "searchTerm": "cherry tomatoes",
+        "normalizedName": "Cherry Tomato"
+      },
+      {
+        "ingredient": "2 stalks gai lan (Chinese broccoli), diced",
+        "searchTerm": "gai lan",
+        "normalizedName": "Gai Lan"
+      },
+      {
+        "ingredient": "2 green onions, sliced",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "5 sprigs pak chi farang (culantro)",
+        "searchTerm": "culantro",
+        "normalizedName": "Culantro"
+      },
+      {
+        "ingredient": "sea salt to taste",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "ladle",
+        "searchTerm": "ladle"
+      },
+      {
+        "name": "bowls",
+        "searchTerm": "bowls"
+      }
+    ],
+    "cookingTips": [
+      "Bring stock to boil before adding fish to ensure quick cooking",
+      "Add vegetables in stages based on cooking time - hardy vegetables first",
+      "Slice fish thin so it cooks through in about 2-3 minutes"
+    ],
+    "coachingPrompt": "Prepare a light Thai rice soup with fresh fish and aromatic vegetables."
+  },
+  "timestamp": "2026-02-06T10:46:09.005Z"
+}

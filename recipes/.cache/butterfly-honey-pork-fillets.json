@@ -1,0 +1,48 @@
+{
+  "contentHash": "54d35fd81107b44d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 pork chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "4 teaspoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "½ cup Worcestershire sauce",
+        "searchTerm": "worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "meat mallet",
+        "searchTerm": "meat mallet"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Butterfly pork chops by cutting horizontally through the center without cutting all the way through",
+      "Brush with honey and Worcestershire glaze while cooking",
+      "Cook over medium-high heat for 4-5 minutes per side until internal temperature reaches 145°F"
+    ],
+    "coachingPrompt": "Butterflying pork chops creates a thinner cut that cooks quickly. How confident are you working with pork and achieving proper doneness?"
+  },
+  "timestamp": "2026-02-06T01:00:44.485Z"
+}

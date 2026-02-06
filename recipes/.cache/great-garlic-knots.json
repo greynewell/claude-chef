@@ -1,0 +1,44 @@
+{
+  "contentHash": "d421734e2391bb62",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (11 ounce) container refrigerated breadstick dough",
+        "searchTerm": "breadstick dough",
+        "normalizedName": "Breadstick Dough"
+      },
+      {
+        "ingredient": "1 egg, lightly beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh rosemary",
+        "searchTerm": "fresh rosemary",
+        "normalizedName": "Rosemary"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Pastry brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Tie breadsticks loosely to allow room for expansion during baking",
+      "Apply egg wash evenly for an attractive golden sheen",
+      "Fresh rosemary adds better flavor than dried; chop just before using"
+    ],
+    "coachingPrompt": "Help the user tie knots properly without pulling the dough too tight, and explain how an egg wash creates an appealing golden finish."
+  },
+  "timestamp": "2026-02-06T07:58:08.357Z"
+}

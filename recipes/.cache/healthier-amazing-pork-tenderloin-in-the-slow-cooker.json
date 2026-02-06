@@ -1,0 +1,63 @@
+{
+  "contentHash": "bbbf5361957d813c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (2 pound) pork tenderloin",
+        "searchTerm": "pork tenderloin",
+        "normalizedName": "Pork Tenderloin"
+      },
+      {
+        "ingredient": "2 cups onion, sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¾ cup red wine",
+        "searchTerm": "red wine",
+        "normalizedName": "Red Wine"
+      },
+      {
+        "ingredient": "3 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "3 tablespoons minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "freshly ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Don't skip browning the tenderloin for deeper flavor",
+      "Cook until internal temperature reaches 145°F for juicy meat",
+      "Let rest 5 minutes before slicing"
+    ],
+    "coachingPrompt": "Why brown meat before slow cooking even though it seems like an extra step?"
+  },
+  "timestamp": "2026-02-06T08:51:37.004Z"
+}

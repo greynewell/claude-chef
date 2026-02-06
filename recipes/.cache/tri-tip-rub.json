@@ -1,0 +1,47 @@
+{
+  "contentHash": "336232881cc62071",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "2 tablespoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 tablespoons ground black pepper",
+        "searchTerm": "ground black pepper",
+        "normalizedName": "Ground Black Pepper"
+      },
+      {
+        "ingredient": "2 pounds tri tip roast",
+        "searchTerm": "tri tip roast",
+        "normalizedName": "Tri Tip Roast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Mix rub ingredients thoroughly and apply generously the night before cooking for deeper flavor",
+      "Pat meat dry before applying rub for better adhesion"
+    ],
+    "coachingPrompt": "Guide the user on proper rub application and dry-brining time for maximum flavor."
+  },
+  "timestamp": "2026-02-06T21:07:08.700Z"
+}

@@ -1,0 +1,59 @@
+{
+  "contentHash": "2eae9d6718a8b80d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ¾ quarts chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "½ cup uncooked orzo pasta",
+        "searchTerm": "orzo pasta",
+        "normalizedName": "Orzo Pasta"
+      },
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 lemon, juiced",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Fresh Lemon Juice"
+      },
+      {
+        "ingredient": "1 tablespoon cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Cook orzo separately until just al dente, then add to broth to prevent mushiness",
+      "Whisk eggs with cold water before tempering to make them easier to incorporate smoothly",
+      "Never allow the soup to boil after adding the egg mixture to prevent curdling"
+    ],
+    "coachingPrompt": "What's the key technique for creating a creamy, lemon-bright soup without scrambled egg bits, and how do you balance tartness?"
+  },
+  "timestamp": "2026-02-05T22:40:06.725Z"
+}

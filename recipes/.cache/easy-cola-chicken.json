@@ -1,0 +1,58 @@
+{
+  "contentHash": "716f9a3730b5ef3d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breasts",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "1 cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "1 cup cola-flavored carbonated beverage",
+        "searchTerm": "cola",
+        "normalizedName": "Cola Soda"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Arrange chicken in single layer in baking dish for even cooking",
+      "Mix cola, ketchup, and Worcestershire sauce for glaze",
+      "Bake covered to keep chicken moist, then uncover last 10 minutes for browning"
+    ],
+    "coachingPrompt": "Does the cola really improve this chicken dish, or could I use something else?"
+  },
+  "timestamp": "2026-02-06T05:40:46.763Z"
+}

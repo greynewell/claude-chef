@@ -1,0 +1,78 @@
+{
+  "contentHash": "064f9fad2eab1899",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cider vinegar",
+        "searchTerm": "vinegar cider",
+        "normalizedName": "Cider Vinegar"
+      },
+      {
+        "ingredient": "coarse-ground mustard",
+        "searchTerm": "mustard coarse-ground",
+        "normalizedName": "Coarse-Ground Mustard"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "lime",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "lemon",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "chicken breast",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Marinate chicken for at least 2 hours for maximum flavor",
+      "Cook to an internal temperature of 165°F for food safety",
+      "Let rest 5 minutes after cooking before serving"
+    ],
+    "coachingPrompt": "How long should I marinate this chicken and what's the best cooking method?"
+  },
+  "timestamp": "2026-02-06T21:28:38.624Z"
+}

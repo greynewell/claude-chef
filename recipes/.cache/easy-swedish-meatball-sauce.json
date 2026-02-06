@@ -1,0 +1,53 @@
+{
+  "contentHash": "08a4112fea5b9379",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup beef stock",
+        "searchTerm": "beef stock",
+        "normalizedName": "Beef Stock"
+      },
+      {
+        "ingredient": "1 cup heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "3 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 tablespoon soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ teaspoon dried rosemary",
+        "searchTerm": "rosemary",
+        "normalizedName": "Rosemary"
+      },
+      {
+        "ingredient": "½ (20 ounce) package frozen cooked meatballs, thawed",
+        "searchTerm": "frozen meatballs",
+        "normalizedName": "Frozen Meatball"
+      }
+    ],
+    "gear": [
+      "saucepan",
+      "whisk",
+      "measuring spoons"
+    ],
+    "cookingTips": [
+      "Make a roux with flour and butter before adding liquids to prevent lumps",
+      "Simmer sauce gently to avoid breaking the cream"
+    ],
+    "coachingPrompt": "Guide the user through creating a silky, savory sauce that perfectly complements meatballs without curdling"
+  },
+  "timestamp": "2026-02-06T06:03:25.645Z"
+}

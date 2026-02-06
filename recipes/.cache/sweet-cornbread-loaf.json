@@ -1,0 +1,62 @@
+{
+  "contentHash": "dcd36718fe3e63b8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups cornmeal",
+        "searchTerm": "cornmeal",
+        "normalizedName": "Cornmeal"
+      },
+      {
+        "ingredient": "2 cups buttermilk",
+        "searchTerm": "buttermilk",
+        "normalizedName": "Buttermilk"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      }
+    ],
+    "gear": [
+      {
+        "name": "loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Buttermilk reacts with baking soda for optimal lift and tenderness",
+      "Let batter rest 5 minutes before baking"
+    ],
+    "coachingPrompt": "Provide bake time and temperature for this loaf, and explain why buttermilk works well here."
+  },
+  "timestamp": "2026-02-06T20:03:15.694Z"
+}

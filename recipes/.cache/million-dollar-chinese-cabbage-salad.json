@@ -1,0 +1,73 @@
+{
+  "contentHash": "7df824f21238b441",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ cup wine vinegar",
+        "searchTerm": "wine vinegar",
+        "normalizedName": "Wine Vinegar"
+      },
+      {
+        "ingredient": "1 tablespoon soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "2 (3 ounce) packages ramen noodles (without flavor packets), lightly crushed",
+        "searchTerm": "ramen noodles",
+        "normalizedName": "Ramen Noodle"
+      },
+      {
+        "ingredient": "½ cup slivered almonds",
+        "searchTerm": "slivered almonds",
+        "normalizedName": "Slivered Almond"
+      },
+      {
+        "ingredient": "1 cup sesame seeds",
+        "searchTerm": "sesame seeds",
+        "normalizedName": "Sesame Seed"
+      },
+      {
+        "ingredient": "1 head napa cabbage, chopped",
+        "searchTerm": "napa cabbage",
+        "normalizedName": "Napa Cabbage"
+      },
+      {
+        "ingredient": "1 bunch green onions, chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Salad Bowl",
+        "searchTerm": "salad bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Jar for Dressing",
+        "searchTerm": "mason jar"
+      }
+    ],
+    "cookingTips": [
+      "Toast sesame seeds in dry pan for enhanced nutty flavor",
+      "Prepare dressing ahead and add noodles just before serving to keep them crispy",
+      "Chop cabbage into bite-sized pieces for even distribution"
+    ],
+    "coachingPrompt": "Guide the user on timing to maintain crispy textures by dressing the salad at the last moment."
+  },
+  "timestamp": "2026-02-06T12:28:41.770Z"
+}

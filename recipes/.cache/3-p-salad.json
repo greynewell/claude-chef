@@ -1,0 +1,53 @@
+{
+  "contentHash": "09cc640c1c7fae34",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup frozen peas, thawed",
+        "searchTerm": "frozen peas",
+        "normalizedName": "Pea"
+      },
+      {
+        "ingredient": "1 cup chopped dill pickles",
+        "searchTerm": "dill pickles",
+        "normalizedName": "Dill Pickle"
+      },
+      {
+        "ingredient": "1 cup dry roasted peanuts",
+        "searchTerm": "roasted peanuts",
+        "normalizedName": "Peanut"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "6 large lettuce leaves",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Measuring cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Thaw peas completely and pat dry to prevent excess moisture in salad",
+      "Chop pickles into uniform pieces for better texture distribution",
+      "Mix all ingredients except lettuce, then serve on lettuce leaves as a base"
+    ],
+    "coachingPrompt": "Help me assemble a 3-ingredient pea, pickle, and peanut salad with mayo dressing"
+  },
+  "timestamp": "2026-02-05T21:27:32.628Z"
+}

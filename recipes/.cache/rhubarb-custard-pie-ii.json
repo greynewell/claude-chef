@@ -1,0 +1,67 @@
+{
+  "contentHash": "337d496781387167",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 recipe pastry for a 9 inch double crust pie",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      },
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "3 tablespoons milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 cups diced rhubarb",
+        "searchTerm": "rhubarb",
+        "normalizedName": "Rhubarb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9-inch pie dish",
+        "searchTerm": "pie dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Mix custard filling thoroughly to ensure flour is fully incorporated and no lumps remain",
+      "Cover pie edges with foil if browning too quickly during baking"
+    ],
+    "coachingPrompt": "How do I prevent custard from curdling in a pie with fruit filling?"
+  },
+  "timestamp": "2026-02-06T16:11:09.810Z"
+}

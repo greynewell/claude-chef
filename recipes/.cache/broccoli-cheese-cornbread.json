@@ -1,0 +1,63 @@
+{
+  "contentHash": "f93ad515efe3abf7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (10 ounce) package chopped frozen broccoli, thawed and drained",
+        "searchTerm": "frozen broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "1 cup cottage cheese",
+        "searchTerm": "cottage cheese",
+        "normalizedName": "Cottage Cheese"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (8.5 ounce) package self-rising cornmeal",
+        "searchTerm": "self-rising cornmeal",
+        "normalizedName": "Self-Rising Cornmeal"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Large Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Cottage cheese provides moisture; don't overmix after combining wet ingredients",
+      "Self-rising cornmeal contains leavening, so don't add extra baking powder",
+      "Batter should be chunky; smooth cornbread indicates overmixing"
+    ],
+    "coachingPrompt": "Cottage cheese in cornbread is unusual. What texture advantage does it provide over traditional cornbread?"
+  },
+  "timestamp": "2026-02-06T00:42:37.299Z"
+}

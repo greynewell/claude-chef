@@ -1,0 +1,44 @@
+{
+  "contentHash": "5a6f2452521ff0e6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 baking potatoes",
+        "searchTerm": "baking potatoes",
+        "normalizedName": "Baking Potato"
+      },
+      {
+        "ingredient": "3 teaspoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ cup Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "½ yellow onion",
+        "searchTerm": "yellow onion",
+        "normalizedName": "Yellow Onion"
+      },
+      {
+        "ingredient": "2 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      "air fryer",
+      "knife",
+      "mixing bowl",
+      "spoon"
+    ],
+    "cookingTips": [
+      "Pat potatoes dry before air frying to achieve crispier skin",
+      "Hollow out potato halves gently to avoid breaking through the bottom"
+    ],
+    "coachingPrompt": "How can you adjust air fryer temperature to cook potatoes through while crisping the cheese topping?"
+  },
+  "timestamp": "2026-02-06T19:38:27.997Z"
+}

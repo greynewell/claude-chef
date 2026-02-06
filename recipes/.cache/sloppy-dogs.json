@@ -1,0 +1,48 @@
+{
+  "contentHash": "998f8f167ace9a88",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "8 hot dogs",
+        "searchTerm": "hot dogs",
+        "normalizedName": "Hot Dog"
+      },
+      {
+        "ingredient": "8 hot dog buns",
+        "searchTerm": "hot dog buns",
+        "normalizedName": "Hot Dog Bun"
+      },
+      {
+        "ingredient": "1 (15 ounce) can sloppy joe sauce",
+        "searchTerm": "sloppy joe sauce",
+        "normalizedName": "Sloppy Joe Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly and drain excess fat to prevent greasy sloppy dogs",
+      "Warm hot dogs in a separate pan or boil them for even cooking",
+      "Toast hot dog buns lightly to prevent them from becoming soggy"
+    ],
+    "coachingPrompt": "Help the cook understand the quick assembly of this fun twist on classic hot dogs by adding a sloppy joe topping."
+  },
+  "timestamp": "2026-02-06T18:01:12.359Z"
+}

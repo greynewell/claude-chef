@@ -1,0 +1,83 @@
+{
+  "contentHash": "dce30f03b306a428",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "boneless center-cut pork chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "apple cider vinegar",
+        "searchTerm": "apple cider vinegar",
+        "normalizedName": "Apple Cider Vinegar"
+      },
+      {
+        "ingredient": "apple cider",
+        "searchTerm": "apple cider",
+        "normalizedName": "Apple Cider"
+      },
+      {
+        "ingredient": "Dijon mustard",
+        "searchTerm": "dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "rosemary",
+        "searchTerm": "fresh rosemary",
+        "normalizedName": "Rosemary"
+      },
+      {
+        "ingredient": "red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Sear pork chops in hot oil until golden brown for a flavorful crust before adding glaze",
+      "Reduce apple cider mixture to concentrate flavors and create a glossy glaze",
+      "Internal temperature should reach 145°F for perfectly cooked pork"
+    ],
+    "coachingPrompt": "Guide the user through deglazing the pan and creating a silky reduction that coats the chops beautifully."
+  },
+  "timestamp": "2026-02-06T15:06:24.089Z"
+}

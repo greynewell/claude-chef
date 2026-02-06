@@ -1,0 +1,43 @@
+{
+  "contentHash": "1f98903d4bcc1b03",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (4 ounce) bar white chocolate, chopped",
+        "searchTerm": "white chocolate bar",
+        "normalizedName": "White Chocolate"
+      },
+      {
+        "ingredient": "½ cup cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "3 eggs, separated",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "hand mixer"
+      },
+      {
+        "name": "baking dish",
+        "searchTerm": "9-inch baking dish"
+      }
+    ],
+    "cookingTips": [
+      "Separate eggs carefully to avoid any yolk in the whites for better meringue formation",
+      "Soften cream cheese at room temperature for 30 minutes for smooth mixing",
+      "Fold whipped egg whites gently into the mixture to maintain airiness"
+    ],
+    "coachingPrompt": "Guide me through making a 3-ingredient cheesecake from separating eggs to the final baking step."
+  },
+  "timestamp": "2026-02-05T21:25:20.998Z"
+}

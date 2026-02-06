@@ -1,0 +1,73 @@
+{
+  "contentHash": "af0199acab09bbfc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ cup fresh lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "2 tablespoons chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 teaspoons dried tarragon",
+        "searchTerm": "tarragon",
+        "normalizedName": "Tarragon"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon hot sauce",
+        "searchTerm": "hot sauce",
+        "normalizedName": "Hot Sauce"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 pounds bone-in chicken thighs",
+        "searchTerm": "chicken thighs",
+        "normalizedName": "Chicken Thigh"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Shallow dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Marinate chicken for at least 4 hours or overnight for full tarragon flavor development",
+      "Grill over medium heat with skin-side down first for 8-10 minutes",
+      "Use an instant-read thermometer to ensure internal temperature reaches 165°F at thickest part"
+    ],
+    "coachingPrompt": "Guide the user on balancing assertive tarragon flavor with lime and proper grill technique for bone-in chicken."
+  },
+  "timestamp": "2026-02-06T11:25:28.053Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "842fe11328250705",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 ounces large shrimp, peeled and deveined",
+        "searchTerm": "large shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "1 teaspoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ teaspoon ground paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "¼ teaspoon parsley flakes",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley Flake"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Electric Smoker",
+        "searchTerm": "electric smoker"
+      },
+      {
+        "name": "Smoking Rack",
+        "searchTerm": "smoking rack"
+      },
+      {
+        "name": "Small Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Toss shrimp gently with oil and seasonings to ensure even coating",
+      "Smoke at 225°F for 15-20 minutes until shrimp are pink and just cooked through",
+      "Use a smoking rack or mesh tray to prevent small shrimp from falling through grates"
+    ],
+    "coachingPrompt": "How can you prevent shrimp from overcooking and becoming rubbery during the smoking process?"
+  },
+  "timestamp": "2026-02-06T06:16:27.940Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "0c43ea1ee3256034",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup brown rice",
+        "searchTerm": "brown rice",
+        "normalizedName": "Brown Rice"
+      },
+      {
+        "ingredient": "1 teaspoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "1 cup diced tomatoes",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Toast rice briefly in the pan before adding liquid for enhanced nutty flavor",
+      "Keep the heat consistent at a gentle simmer to avoid mushy rice"
+    ],
+    "coachingPrompt": "Guide me through making fluffy brown rice infused with Spanish flavors without mushing the grains."
+  },
+  "timestamp": "2026-02-06T18:49:29.100Z"
+}

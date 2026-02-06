@@ -1,0 +1,57 @@
+{
+  "contentHash": "149c9316412a82fb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 medium head cabbage, shredded",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ cup tarragon vinegar",
+        "searchTerm": "tarragon vinegar",
+        "normalizedName": "Tarragon Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy and reserve 3-4 tablespoons of rendered fat for the dressing",
+      "Add cabbage to warm bacon fat in batches to avoid crowding the pan",
+      "Toss constantly for 3-4 minutes until cabbage is slightly softened but still has texture"
+    ],
+    "coachingPrompt": "Warm cabbage salads require timing to maintain a slight crunch. Do you prefer your cabbage more wilted or with more bite?"
+  },
+  "timestamp": "2026-02-06T22:13:34.298Z"
+}

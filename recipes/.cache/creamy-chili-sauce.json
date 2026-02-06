@@ -1,0 +1,48 @@
+{
+  "contentHash": "7440c9acf7ae7e86",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 cups sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "½ cup tomato-based chili sauce",
+        "searchTerm": "chili sauce",
+        "normalizedName": "Chili Sauce"
+      },
+      {
+        "ingredient": "½ teaspoon cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Whisk sour cream and mayonnaise together before adding chili sauce to avoid lumps",
+      "Start with less cayenne pepper and adjust to taste for desired heat level",
+      "Chill the sauce for at least 30 minutes before serving to allow flavors to meld"
+    ],
+    "coachingPrompt": "What dish are you planning to serve this sauce with? That will help determine if you need to adjust the spice level or consistency."
+  },
+  "timestamp": "2026-02-06T04:25:03.038Z"
+}

@@ -1,0 +1,73 @@
+{
+  "contentHash": "9d3f7f1b1518b1c9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "⅔ cup diced cherry tomatoes",
+        "searchTerm": "cherry tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 tablespoon shredded Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "2 leaves fresh basil, minced",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 thick slices crusty bread",
+        "searchTerm": "crusty bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ cup ricotta cheese",
+        "searchTerm": "ricotta",
+        "normalizedName": "Ricotta Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread until golden and still slightly chewy in the center to support toppings",
+      "Render bacon fat completely for crispy texture and better flavor distribution",
+      "Spread ricotta while bread is still warm for easier application"
+    ],
+    "coachingPrompt": "This is a simple open-faced toast. What's the best assembly order to prevent the bread from getting soggy?"
+  },
+  "timestamp": "2026-02-06T16:16:21.587Z"
+}

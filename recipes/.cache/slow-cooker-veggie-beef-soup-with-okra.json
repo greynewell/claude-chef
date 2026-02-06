@@ -1,0 +1,78 @@
+{
+  "contentHash": "6e6e5995c545d34e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "¼ cup onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can diced tomatoes, drained",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can Italian diced tomatoes, drained",
+        "searchTerm": "Italian diced tomatoes",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "1 (16 ounce) package frozen mixed vegetables",
+        "searchTerm": "frozen mixed vegetables",
+        "normalizedName": "Mixed Vegetable"
+      },
+      {
+        "ingredient": "1 cup sliced fresh or frozen okra",
+        "searchTerm": "okra",
+        "normalizedName": "Okra"
+      },
+      {
+        "ingredient": "2 potatoes, peeled and chopped",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 tablespoon ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Brown the ground beef before adding to the slow cooker for better flavor",
+      "Drain canned tomatoes to reduce excess liquid and prevent a watery soup",
+      "Add potatoes in the last 2 hours of cooking to prevent them from becoming mushy"
+    ],
+    "coachingPrompt": "How would you adjust cooking time if using fresh okra instead of frozen?"
+  },
+  "timestamp": "2026-02-06T18:20:27.594Z"
+}

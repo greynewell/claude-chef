@@ -1,0 +1,62 @@
+{
+  "contentHash": "f117ffa87e8090d5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup butter, melted",
+        "searchTerm": "butter melted",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 cups brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 ⅔ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "1 teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "2 cups semisweet chocolate chips",
+        "searchTerm": "semisweet chocolate chips",
+        "normalizedName": "Semisweet Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Cookie Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Melted butter creates a denser, chewier cookie texture",
+      "Do not overmix after adding flour to avoid tough cookies"
+    ],
+    "coachingPrompt": "Explain why melted butter yields different results than creamed butter and guide baking time."
+  },
+  "timestamp": "2026-02-05T23:58:35.592Z"
+}

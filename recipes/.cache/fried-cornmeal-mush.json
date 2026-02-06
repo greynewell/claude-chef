@@ -1,0 +1,48 @@
+{
+  "contentHash": "0857cbe8a2561cb2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 cup yellow cornmeal",
+        "searchTerm": "yellow cornmeal",
+        "normalizedName": "Yellow Cornmeal"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Loaf Pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Cook cornmeal mixture slowly, stirring constantly to avoid lumps forming",
+      "Spread cooked mush in a loaf pan to cool and set before slicing and frying",
+      "Slice into ½-inch thick pieces and fry in butter over medium-high heat until crispy and golden"
+    ],
+    "coachingPrompt": "This is a two-stage dish: cooking mush, then frying slices. How do you ensure crispy edges and soft interiors?"
+  },
+  "timestamp": "2026-02-06T07:03:51.651Z"
+}

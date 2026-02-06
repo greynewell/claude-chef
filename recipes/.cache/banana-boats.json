@@ -1,0 +1,38 @@
+{
+  "contentHash": "498aa05fe829c87f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 bananas",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "¼ cup semisweet chocolate chip",
+        "searchTerm": "chocolate chip",
+        "normalizedName": "Chocolate Chip"
+      },
+      {
+        "ingredient": "¼ cup miniature marshmallow",
+        "searchTerm": "marshmallow",
+        "normalizedName": "Marshmallow"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Slice bananas lengthwise to create a boat shape for filling",
+      "Use parchment paper to prevent sticking and easy cleanup"
+    ],
+    "coachingPrompt": "What simple technique transforms a banana into an elegant individual dessert?"
+  },
+  "timestamp": "2026-02-05T23:19:52.664Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "919ff735ed533157",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup sweetened dried cranberries",
+        "searchTerm": "dried cranberries",
+        "normalizedName": "Dried Cranberry"
+      },
+      {
+        "ingredient": "½ cup dried tart cherries",
+        "searchTerm": "dried tart cherries",
+        "normalizedName": "Dried Tart Cherry"
+      },
+      {
+        "ingredient": "½ cup dried blueberries",
+        "searchTerm": "dried blueberries",
+        "normalizedName": "Dried Blueberry"
+      },
+      {
+        "ingredient": "½ cup dried pineapple pieces",
+        "searchTerm": "dried pineapple",
+        "normalizedName": "Dried Pineapple"
+      },
+      {
+        "ingredient": "1 cup candy-coated dark chocolate pieces (such as M&M's Dark Chocolate ®)",
+        "searchTerm": "dark chocolate candy",
+        "normalizedName": "Dark Chocolate Candy"
+      },
+      {
+        "ingredient": "2 ½ cups salted deluxe mixed nuts (without peanuts)",
+        "searchTerm": "mixed nuts",
+        "normalizedName": "Mixed Nut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "storage container",
+        "searchTerm": "airtight container"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Store in airtight containers to keep nuts fresh and prevent the mix from absorbing moisture",
+      "Add chocolate just before serving to prevent melting and sticking",
+      "Toast nuts lightly for extra flavor intensity"
+    ],
+    "coachingPrompt": "Help me assemble a balanced trail mix with the right proportion of nuts, dried fruit, and chocolate."
+  },
+  "timestamp": "2026-02-06T06:33:26.239Z"
+}

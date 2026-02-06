@@ -1,0 +1,68 @@
+{
+  "contentHash": "4c231746cade4cf5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound carrots",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 clove garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic Clove"
+      },
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¼ cup bread crumbs or matzo meal",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "Box Grater",
+        "searchTerm": "grater"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Press out excess liquid from grated carrots for firmer patties",
+      "Pan-fry over medium-high heat until golden on both sides",
+      "Serve warm as a side dish or appetizer"
+    ],
+    "coachingPrompt": "Do you want tips on forming uniform patties that cook evenly?"
+  },
+  "timestamp": "2026-02-06T01:32:23.827Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "ad01c55483178954",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds sweet potatoes, peeled and cut into 1-inch pieces",
+        "searchTerm": "sweet potatoes",
+        "normalizedName": "Sweet Potato"
+      },
+      {
+        "ingredient": "1 pound chicken tenders",
+        "searchTerm": "chicken tenders",
+        "normalizedName": "Chicken Tender"
+      },
+      {
+        "ingredient": "2 teaspoons steak seasoning",
+        "searchTerm": "steak seasoning",
+        "normalizedName": "Steak Seasoning"
+      },
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "½ cup maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "½ cup sliced green onions",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "instant-read thermometer"
+      },
+      {
+        "name": "Lid",
+        "searchTerm": "skillet lid"
+      }
+    ],
+    "cookingTips": [
+      "Precook sweet potatoes partially to ensure they finish with chicken",
+      "Add glaze in the final 5 minutes to prevent burning",
+      "Chicken tenders cook quickly; watch to avoid overcooking"
+    ],
+    "coachingPrompt": "Help me coordinate cooking times so sweet potatoes and chicken finish together with a thick maple glaze."
+  },
+  "timestamp": "2026-02-06T11:54:30.068Z"
+}

@@ -1,0 +1,44 @@
+{
+  "contentHash": "62ed1cc9b9c7a022",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 ounces frozen French fries",
+        "searchTerm": "frozen French fries",
+        "normalizedName": "Frozen French Fries"
+      },
+      {
+        "ingredient": "½ pound thinly sliced roast turkey",
+        "searchTerm": "roast turkey",
+        "normalizedName": "Roast Turkey"
+      },
+      {
+        "ingredient": "4 slices white bread, lightly toasted",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "10 slices American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread lightly to provide structure but keep it flexible for folding",
+      "Layer cheese and turkey while fries are still warm for best melting",
+      "Serve immediately for optimal cheese melt and crispy fries"
+    ],
+    "coachingPrompt": "How would you assemble this open-faced sandwich so all components are at their best temperature?"
+  },
+  "timestamp": "2026-02-06T09:26:27.021Z"
+}

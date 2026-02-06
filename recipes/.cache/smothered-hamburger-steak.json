@@ -1,0 +1,73 @@
+{
+  "contentHash": "78e32fe25ff8aa3b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons minced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 tablespoon beef base",
+        "searchTerm": "beef base",
+        "normalizedName": "Beef Base"
+      },
+      {
+        "ingredient": "½ teaspoon black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "3 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "2 pounds lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 dash Worcestershire sauce",
+        "searchTerm": "worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Soak bread in water before mixing into meat for moist, tender patties",
+      "Form patties gently and don't overwork the meat mixture",
+      "Sear patties on both sides before adding sauce to build flavor"
+    ],
+    "coachingPrompt": "How thick do you like your hamburger steaks? Would you prefer them thin and crispy or thicker and juicier?"
+  },
+  "timestamp": "2026-02-06T18:27:41.620Z"
+}

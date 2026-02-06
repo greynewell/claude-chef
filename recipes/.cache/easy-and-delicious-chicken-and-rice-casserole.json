@@ -1,0 +1,53 @@
+{
+  "contentHash": "2d8e548c568fc0c4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup uncooked white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of chicken soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream of Chicken Soup"
+      },
+      {
+        "ingredient": "1 ⅞ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (1 ounce) package dry onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Casserole Dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "Mixing Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Foil or Lid",
+        "searchTerm": "foil"
+      }
+    ],
+    "cookingTips": [
+      "Don't stir rice once cooking begins",
+      "Cover casserole to retain moisture",
+      "Check chicken reaches 165°F internal temperature"
+    ],
+    "coachingPrompt": "How would you customize this casserole with additional vegetables or seasonings?"
+  },
+  "timestamp": "2026-02-06T05:29:48.088Z"
+}

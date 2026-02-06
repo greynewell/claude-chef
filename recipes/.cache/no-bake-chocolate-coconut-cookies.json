@@ -1,0 +1,58 @@
+{
+  "contentHash": "b0481ed1a62f30b4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups quick cooking oats",
+        "searchTerm": "quick oats",
+        "normalizedName": "Oat"
+      },
+      {
+        "ingredient": "1 cup sweetened flaked coconut",
+        "searchTerm": "flaked coconut",
+        "normalizedName": "Coconut Flake"
+      },
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Work quickly after removing from heat as mixture sets fast",
+      "Drop spoonfuls onto parchment paper before they cool",
+      "Refrigerate finished cookies for firmer texture"
+    ],
+    "coachingPrompt": "Guide the user through the rapid cooling process and explain why timing is critical for texture."
+  },
+  "timestamp": "2026-02-06T13:16:16.616Z"
+}

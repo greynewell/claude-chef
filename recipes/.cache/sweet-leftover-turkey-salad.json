@@ -1,0 +1,63 @@
+{
+  "contentHash": "c4c9ba677ff56537",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups cooked turkey, cut into bite-size pieces",
+        "searchTerm": "cooked turkey",
+        "normalizedName": "Turkey"
+      },
+      {
+        "ingredient": "½ cup roasted sunflower seed kernels",
+        "searchTerm": "sunflower seed kernels",
+        "normalizedName": "Sunflower Seed"
+      },
+      {
+        "ingredient": "½ cup raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      },
+      {
+        "ingredient": "2 small apples, cored and diced",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "½ teaspoon sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "½ lemon, juiced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "citrus juicer",
+        "searchTerm": "juicer"
+      }
+    ],
+    "cookingTips": [
+      "Dice apples just before serving to prevent browning",
+      "Use lemon juice to keep apple pieces from oxidizing",
+      "Toast sunflower seeds for enhanced flavor"
+    ],
+    "coachingPrompt": "How do the sweet raisins and tart lemon juice balance in this turkey salad?"
+  },
+  "timestamp": "2026-02-06T20:04:14.777Z"
+}

@@ -1,0 +1,72 @@
+{
+  "contentHash": "b4f4e35c2e06f7ca",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "brown sugar, packed",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "cinnamon, ground",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "butter, chilled",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "half-and-half cream",
+        "searchTerm": "half and half cream",
+        "normalizedName": "Half-and-Half Cream"
+      },
+      {
+        "ingredient": "pear, chopped",
+        "searchTerm": "pear",
+        "normalizedName": "Pear"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "pastry cutter",
+        "searchTerm": "pastry cutter"
+      },
+      {
+        "name": "mixing bowls",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Keep butter cold until mixing for flaky scones",
+      "Don't overmix the dough to maintain a tender crumb"
+    ],
+    "coachingPrompt": "How does working with cold ingredients impact scone texture and rise?"
+  },
+  "timestamp": "2026-02-06T14:28:16.118Z"
+}

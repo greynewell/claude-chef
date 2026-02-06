@@ -1,0 +1,42 @@
+{
+  "contentHash": "ead0f55819225a9c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 package corn tortillas",
+        "searchTerm": "corn tortillas",
+        "normalizedName": "Corn Tortilla"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "taco shell mold",
+        "searchTerm": "taco shell mold"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Oil should reach 350°F for crispy shells without burning",
+      "Fold tortillas quickly while still warm to set the shape"
+    ],
+    "coachingPrompt": "What oil temperature produces crispy taco shells, and how can you safely handle hot tortillas during folding?"
+  },
+  "timestamp": "2026-02-06T08:46:33.494Z"
+}

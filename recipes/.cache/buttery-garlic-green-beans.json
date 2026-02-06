@@ -1,0 +1,48 @@
+{
+  "contentHash": "fd30d1c1b6263b0b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound fresh green beans, trimmed and snapped in half",
+        "searchTerm": "fresh green beans",
+        "normalizedName": "Fresh Green Bean"
+      },
+      {
+        "ingredient": "3 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 pinches lemon pepper",
+        "searchTerm": "lemon pepper",
+        "normalizedName": "Lemon Pepper"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan or skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "lid",
+        "searchTerm": "pot lid"
+      }
+    ],
+    "cookingTips": [
+      "Cook beans until tender-crisp with brief steaming under lid, then sauté with garlic",
+      "Add garlic in last minutes to prevent burning and keep flavor bright"
+    ],
+    "coachingPrompt": "How can I tell when green beans are cooked to the right tenderness, and what's the advantage of the two-stage cooking?"
+  },
+  "timestamp": "2026-02-06T01:05:23.652Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "ef087533cd718205",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups grated Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "½ cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup chopped black olives, drained",
+        "searchTerm": "black olives",
+        "normalizedName": "Black Olive"
+      },
+      {
+        "ingredient": "½ teaspoon seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      },
+      {
+        "ingredient": "½ teaspoon curry powder",
+        "searchTerm": "curry powder",
+        "normalizedName": "Curry Powder"
+      },
+      {
+        "ingredient": "6 English muffins, split",
+        "searchTerm": "English muffins",
+        "normalizedName": "English Muffin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "serrated knife"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Blend cheese spread until smooth for even coating",
+      "Split muffins horizontally for more surface area",
+      "Broil on high to melt cheese quickly without browning the muffin"
+    ],
+    "coachingPrompt": "Help the user understand broiling temperatures and techniques to achieve melted cheese without burning."
+  },
+  "timestamp": "2026-02-05T22:34:28.853Z"
+}

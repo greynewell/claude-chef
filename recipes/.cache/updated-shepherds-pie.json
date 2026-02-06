@@ -1,0 +1,73 @@
+{
+  "contentHash": "f6cf50f53fd12837",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ¼ pounds red potatoes, cut into chunks",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "3 large cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 pound extra-lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "2 tablespoons flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "4 cups frozen mixed vegetables",
+        "searchTerm": "frozen mixed vegetables",
+        "normalizedName": "Frozen Mixed Vegetable"
+      },
+      {
+        "ingredient": "¾ cup fat-free reduced-sodium beef broth",
+        "searchTerm": "beef broth",
+        "normalizedName": "Beef Broth"
+      },
+      {
+        "ingredient": "2 tablespoons ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "¾ cup reduced fat sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "½ cup sharp cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Boil potatoes until fork-tender before mashing for smooth topping",
+      "Brown ground beef well to reduce fat before adding other ingredients",
+      "Layer beef mixture first, then top with mashed potatoes for best texture"
+    ],
+    "coachingPrompt": "How comfortable are you making mashed potatoes from scratch? Would tips on getting the right consistency help?"
+  },
+  "timestamp": "2026-02-06T21:30:33.928Z"
+}

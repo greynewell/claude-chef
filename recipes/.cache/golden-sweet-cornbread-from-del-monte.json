@@ -1,0 +1,48 @@
+{
+  "contentHash": "816fa029eadb20aa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 packages corn muffin mix",
+        "searchTerm": "corn muffin mix",
+        "normalizedName": "Corn Muffin Mix"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 can Del Monte® Sweet Corn Cream Style, No Salt Added",
+        "searchTerm": "sweet corn cream style",
+        "normalizedName": "Sweet Corn Cream Style"
+      },
+      {
+        "ingredient": "1 can DEL MONTE® Whole Kernel Corn, No Salt Added, well drained",
+        "searchTerm": "whole kernel corn",
+        "normalizedName": "Whole Kernel Corn"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Use both creamed and whole kernel corn for texture variation and sweet corn flavor throughout",
+      "Follow muffin mix package directions as base, then fold in corn products gently to avoid overmixing",
+      "Bake until a toothpick inserted in the center comes out clean and the top is golden"
+    ],
+    "coachingPrompt": "Help the user make easy, delicious sweet cornbread by combining corn muffin mix with both cream-style and whole kernel corn for double corn flavor and appealing texture."
+  },
+  "timestamp": "2026-02-06T07:41:26.677Z"
+}

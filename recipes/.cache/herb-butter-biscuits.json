@@ -1,0 +1,58 @@
+{
+  "contentHash": "33f4dd5ec519ba5d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅓ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon prepared Dijon-style mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh rosemary",
+        "searchTerm": "fresh rosemary",
+        "normalizedName": "Fresh Rosemary"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh basil leaves",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      },
+      {
+        "ingredient": "2 drops hot pepper sauce",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      },
+      {
+        "ingredient": "1 (12 ounce) package refrigerated biscuit dough",
+        "searchTerm": "refrigerated biscuit dough",
+        "normalizedName": "Refrigerated Biscuit Dough"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Soften butter at room temperature for easier mixing with other ingredients",
+      "Use fresh herbs for the most vibrant flavor compared to dried",
+      "Apply herb butter generously to each biscuit before baking"
+    ],
+    "coachingPrompt": "Teach the user how fresh herbs create more complex flavors than dried, and how to balance Dijon mustard with herbs."
+  },
+  "timestamp": "2026-02-06T09:03:25.012Z"
+}

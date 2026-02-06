@@ -1,0 +1,52 @@
+{
+  "contentHash": "dfed9f5bcb5d7014",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 cup coconut cream",
+        "searchTerm": "coconut cream",
+        "normalizedName": "Coconut Cream"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 (1/2 pound) avocados, peeled and pitted",
+        "searchTerm": "avocados",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "¾ teaspoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Chill mixture thoroughly before churning",
+      "Add lemon juice to prevent avocado browning"
+    ],
+    "coachingPrompt": "How would you explain why avocado works in ice cream to someone unfamiliar with it?"
+  },
+  "timestamp": "2026-02-06T03:36:49.471Z"
+}

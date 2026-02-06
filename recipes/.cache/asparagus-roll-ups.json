@@ -1,0 +1,63 @@
+{
+  "contentHash": "f1418aafbf0b4f35",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "24 spears fresh asparagus, trimmed",
+        "searchTerm": "fresh asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons finely chopped chives",
+        "searchTerm": "chives",
+        "normalizedName": "Chive"
+      },
+      {
+        "ingredient": "12 slices white bread, crusts removed",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "2 tablespoons butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 tablespoons grated Parmesan cheese, divided",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Rolling Pin",
+        "searchTerm": "rolling pin"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Flatten bread slices with a rolling pin to make rolling easier",
+      "Cook bacon until crispy but still pliable for wrapping",
+      "Arrange roll-ups seam-side down on baking sheet to prevent unraveling"
+    ],
+    "coachingPrompt": "Help the user understand how to properly flatten bread without tearing and coordinate the timing of bacon cooking so it's ready when needed."
+  },
+  "timestamp": "2026-02-05T22:32:34.575Z"
+}

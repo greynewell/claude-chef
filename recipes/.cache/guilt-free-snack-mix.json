@@ -1,0 +1,48 @@
+{
+  "contentHash": "bba1e815156512b0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups crispy corn cereal squares",
+        "searchTerm": "corn cereal",
+        "normalizedName": "Corn Cereal"
+      },
+      {
+        "ingredient": "1 cup dried mixed fruit, chopped",
+        "searchTerm": "dried mixed fruit",
+        "normalizedName": "Dried Fruit"
+      },
+      {
+        "ingredient": "¼ cup yogurt covered raisins",
+        "searchTerm": "yogurt raisins",
+        "normalizedName": "Yogurt Raisin"
+      },
+      {
+        "ingredient": "⅓ cup chopped mixed nuts",
+        "searchTerm": "mixed nuts",
+        "normalizedName": "Mixed Nut"
+      },
+      {
+        "ingredient": ".66 cup banana chips",
+        "searchTerm": "banana chips",
+        "normalizedName": "Banana Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "airtight container",
+        "searchTerm": "storage container"
+      }
+    ],
+    "cookingTips": [
+      "Mix gently to avoid crushing delicate ingredients",
+      "Store in airtight container for up to 2 weeks"
+    ],
+    "coachingPrompt": "This no-cook snack is very customizable - would you like suggestions for ingredient swaps based on your preferences?"
+  },
+  "timestamp": "2026-02-06T08:34:19.056Z"
+}

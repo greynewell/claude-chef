@@ -1,0 +1,73 @@
+{
+  "contentHash": "dd5cc95150a3279d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (5 ounce) can tuna, drained",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Tuna"
+      },
+      {
+        "ingredient": "1 cup low-fat cottage cheese",
+        "searchTerm": "cottage cheese",
+        "normalizedName": "Cottage Cheese"
+      },
+      {
+        "ingredient": "¼ cup chopped celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "¼ cup chopped green onions",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "1 teaspoon lemon pepper",
+        "searchTerm": "lemon pepper",
+        "normalizedName": "Lemon Pepper"
+      },
+      {
+        "ingredient": "¼ teaspoon celery salt",
+        "searchTerm": "celery salt",
+        "normalizedName": "Celery Salt"
+      },
+      {
+        "ingredient": "1 teaspoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "¼ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Use hard-boiled eggs for texture - chop or crumble them into the salad",
+      "Mix gently to keep tuna chunks intact for better texture"
+    ],
+    "coachingPrompt": "Help the user balance the tangy cottage cheese with mayonnaise for optimal creaminess."
+  },
+  "timestamp": "2026-02-06T09:10:26.092Z"
+}

@@ -1,0 +1,72 @@
+{
+  "contentHash": "56b40d7fdaa678eb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup orange juice",
+        "searchTerm": "orange juice",
+        "normalizedName": "Orange Juice"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup raspberry-flavored vinegar",
+        "searchTerm": "raspberry vinegar",
+        "normalizedName": "Raspberry Vinegar"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "1 cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 (11 ounce) package baby spinach leaves",
+        "searchTerm": "baby spinach",
+        "normalizedName": "Baby Spinach"
+      },
+      {
+        "ingredient": "1 (11 ounce) can mandarin oranges, drained",
+        "searchTerm": "mandarin oranges",
+        "normalizedName": "Canned Mandarin Orange"
+      },
+      {
+        "ingredient": "½ cup crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "1 red grapefruit, peeled and sectioned",
+        "searchTerm": "red grapefruit",
+        "normalizedName": "Red Grapefruit"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Jar with Lid",
+        "searchTerm": "mason jar"
+      },
+      {
+        "name": "Large Salad Bowl",
+        "searchTerm": "salad bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Make dressing ahead and shake well before serving for emulsification",
+      "Add spinach just before serving to prevent wilting"
+    ],
+    "coachingPrompt": "Guide the user in creating a balanced sweet-tart dressing that complements the delicate spinach without overpowering it."
+  },
+  "timestamp": "2026-02-06T03:27:39.378Z"
+}

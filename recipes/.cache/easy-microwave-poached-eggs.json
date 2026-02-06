@@ -1,0 +1,43 @@
+{
+  "contentHash": "3a076c8a626b1b44",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon white vinegar",
+        "searchTerm": "white vinegar",
+        "normalizedName": "White Vinegar"
+      },
+      {
+        "ingredient": "2 cold large eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "microwave-safe cup or ramekin",
+        "searchTerm": "cup"
+      },
+      {
+        "name": "microwave",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use cold eggs for best results as they cook more evenly in microwave",
+      "Vinegar helps set egg whites and adds subtle flavor",
+      "Microwave in 30-second intervals to prevent overcooked rubbery whites"
+    ],
+    "coachingPrompt": "Teach the user why vinegar is essential for poaching and how to achieve perfectly set whites with runny yolks using microwave timing."
+  },
+  "timestamp": "2026-02-06T05:52:19.796Z"
+}

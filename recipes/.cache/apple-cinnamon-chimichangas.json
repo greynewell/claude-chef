@@ -1,0 +1,48 @@
+{
+  "contentHash": "a42eac0e04698b30",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (21 ounce) can apple pie filling",
+        "searchTerm": "apple pie filling",
+        "normalizedName": "Apple Pie Filling"
+      },
+      {
+        "ingredient": "½ cup cinnamon sugar",
+        "searchTerm": "cinnamon sugar",
+        "normalizedName": "Cinnamon Sugar"
+      },
+      {
+        "ingredient": "15 (6 inch) flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "oil for frying",
+        "searchTerm": "oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep fryer or heavy pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "instant-read thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Keep tortillas warm to prevent cracking during rolling",
+      "Don't overfill chimichangas or filling will leak",
+      "Fry at 350°F until golden brown on both sides"
+    ],
+    "coachingPrompt": "Walk the cook through proper rolling and sealing technique, and explain how to fry until crispy without burning."
+  },
+  "timestamp": "2026-02-05T22:11:47.469Z"
+}

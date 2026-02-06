@@ -1,0 +1,49 @@
+{
+  "contentHash": "985d188d65f67e65",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "6 peeled and deveined large shrimp (21 to 25 per lb)",
+        "searchTerm": "large shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "6 mushrooms, stems removed",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "2 tablespoons shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet or baking dish",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spoon for stuffing",
+        "searchTerm": "small spoon"
+      }
+    ],
+    "cookingTips": [
+      "Remove mushroom stems carefully to create cups for the shrimp",
+      "Melt butter gently to avoid browning",
+      "Cook just until shrimp are pink and cheese melts"
+    ],
+    "coachingPrompt": "Help the user create an elegant appetizer by stuffing mushroom caps with shrimp and cheese. Guide proper mushroom preparation and cooking time."
+  },
+  "timestamp": "2026-02-06T17:45:24.156Z"
+}

@@ -1,0 +1,52 @@
+{
+  "contentHash": "8839ce02489ea396",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (15 ounce) can black beans, drained and rinsed",
+        "searchTerm": "black beans canned",
+        "normalizedName": "Black Bean"
+      },
+      {
+        "ingredient": "1 large red bell pepper, chopped",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "4 (10 inch) flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "4 cups shredded mozzarella cheese, divided",
+        "searchTerm": "shredded mozzarella cheese",
+        "normalizedName": "Shredded Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Brown beef thoroughly and drain excess fat before assembling",
+      "Warm tortillas before filling to prevent cracking"
+    ],
+    "coachingPrompt": "Guide the user on assembling and baking burritos for maximum cheese melting and structural integrity"
+  },
+  "timestamp": "2026-02-06T06:45:51.099Z"
+}

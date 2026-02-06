@@ -1,0 +1,62 @@
+{
+  "contentHash": "7cb68bc3df53f646",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 cloves garlic, peeled",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "4 teaspoons dill seed",
+        "searchTerm": "dill seed",
+        "normalizedName": "Dill Seed"
+      },
+      {
+        "ingredient": "2 teaspoons whole black peppercorns",
+        "searchTerm": "black peppercorn",
+        "normalizedName": "Black Peppercorn"
+      },
+      {
+        "ingredient": "3 pounds kirby cucumbers (or other unwaxed, small-seeded 4- to 5-inch pickling cucumbers)",
+        "searchTerm": "kirby cucumber",
+        "normalizedName": "Kirby Cucumber"
+      },
+      {
+        "ingredient": "2 ¼ cups apple cider vinegar",
+        "searchTerm": "apple cider vinegar",
+        "normalizedName": "Apple Cider Vinegar"
+      },
+      {
+        "ingredient": "2 ¼ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "6 ¾ teaspoons pickling salt",
+        "searchTerm": "pickling salt",
+        "normalizedName": "Pickling Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "glass jar",
+        "searchTerm": "glass jar"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Use unwaxed pickling cucumbers for better brine absorption",
+      "Pack cucumbers upright to maximize jar space and ensure even pickling"
+    ],
+    "coachingPrompt": "Help the user select appropriate pickling cucumbers and understand the importance of pickling salt versus regular salt in the brining process."
+  },
+  "timestamp": "2026-02-06T16:07:17.146Z"
+}

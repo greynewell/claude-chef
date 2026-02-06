@@ -1,0 +1,52 @@
+{
+  "contentHash": "f7ff6d7b9c0afacd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 tablespoons milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 cup confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Heat brown sugar and butter together to develop caramel flavor",
+      "Cool mixture slightly before adding powdered sugar to prevent melting"
+    ],
+    "coachingPrompt": "Guide the user through making a silky smooth caramel frosting and the importance of temperature control in achieving proper consistency."
+  },
+  "timestamp": "2026-02-06T01:22:34.620Z"
+}

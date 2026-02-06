@@ -1,0 +1,58 @@
+{
+  "contentHash": "b47db61a5b077fc7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ teaspoon ground turmeric",
+        "searchTerm": "ground turmeric",
+        "normalizedName": "Ground Turmeric"
+      },
+      {
+        "ingredient": "½ teaspoon chopped fresh ginger",
+        "searchTerm": "fresh ginger",
+        "normalizedName": "Fresh Ginger"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "1 tablespoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 lemon wedge",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "mug",
+        "searchTerm": "mug"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Whisk spices into water before heating to prevent clumping",
+      "Simmer gently rather than boiling to preserve delicate flavors",
+      "Adjust honey and lemon to taste preference"
+    ],
+    "coachingPrompt": "How will you extract maximum flavor from fresh ginger while creating a smooth, warming tea?"
+  },
+  "timestamp": "2026-02-06T07:30:03.070Z"
+}

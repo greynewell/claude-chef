@@ -1,0 +1,53 @@
+{
+  "contentHash": "00fde39d9fb2c621",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (15 ounce) cans mixed vegetables, drained",
+        "searchTerm": "mixed vegetables canned",
+        "normalizedName": "Mixed Vegetable"
+      },
+      {
+        "ingredient": "1 small onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of chicken soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream of Chicken Soup"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 cup shredded white Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "36 buttery round crackers, crushed",
+        "searchTerm": "buttery round crackers",
+        "normalizedName": "Buttery Round Cracker"
+      }
+    ],
+    "gear": [
+      {
+        "name": "casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Drain the canned vegetables thoroughly to prevent excess moisture in the casserole",
+      "Crush the crackers into varied sizes for better texture distribution"
+    ],
+    "coachingPrompt": "How will you combine the wet ingredients (soup, mayo) with vegetables to create a cohesive mixture before topping?"
+  },
+  "timestamp": "2026-02-06T12:37:15.934Z"
+}

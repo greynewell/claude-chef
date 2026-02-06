@@ -1,0 +1,43 @@
+{
+  "contentHash": "762cbf02e7621bd8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 jalapeno peppers, halved and seeded",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "7 ½ ounces garden vegetable cream cheese (such as Philadelphia®)",
+        "searchTerm": "garden vegetable cream cheese",
+        "normalizedName": "Garden Vegetable Cream Cheese"
+      },
+      {
+        "ingredient": "6 bacon strips, halved lengthwise",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Small spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Remove seeds and membrane carefully to avoid burning your hands",
+      "Don't overfill peppers or cheese will leak during cooking",
+      "Wrap bacon tightly around peppers for better holding and crispiness"
+    ],
+    "coachingPrompt": "How can you prevent cream cheese from leaking out of jalapeño poppers?"
+  },
+  "timestamp": "2026-02-06T10:40:11.623Z"
+}

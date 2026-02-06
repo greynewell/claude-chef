@@ -1,0 +1,43 @@
+{
+  "contentHash": "3e8f94881381e6e1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons coconut oil",
+        "searchTerm": "coconut oil",
+        "normalizedName": "Coconut Oil"
+      },
+      {
+        "ingredient": "½ cup unpopped popcorn",
+        "searchTerm": "popcorn kernels",
+        "normalizedName": "Popcorn Kernel"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Instant Pot",
+        "searchTerm": "instant pot pressure cooker"
+      },
+      {
+        "name": "Trivet",
+        "searchTerm": "instant pot trivet"
+      },
+      {
+        "name": "Bowl",
+        "searchTerm": "serving bowl"
+      }
+    ],
+    "cookingTips": [
+      "Use the sauté function with the lid off to heat oil before adding popcorn",
+      "High heat and proper oil coating ensures maximum kernel popping",
+      "Season immediately after popping while kernels are still warm"
+    ],
+    "coachingPrompt": "Help the user understand that an Instant Pot can make fresh popcorn quickly with minimal oil. Emphasize the importance of proper heat and timing for best results."
+  },
+  "timestamp": "2026-02-06T09:55:00.662Z"
+}

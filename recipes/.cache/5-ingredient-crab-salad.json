@@ -1,0 +1,53 @@
+{
+  "contentHash": "e2a664f70a5d3536",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ green bell pepper, chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Bell Pepper"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "12 ounces imitation crabmeat",
+        "searchTerm": "imitation crabmeat",
+        "normalizedName": "Crabmeat"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet or frying pan"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "rubber spatula"
+      }
+    ],
+    "cookingTips": [
+      "Sauté bell pepper and onion in butter until softened but still slightly crisp for best texture",
+      "Let sautéed vegetables cool slightly before mixing with mayonnaise to prevent it from becoming too thin",
+      "Gently fold in crabmeat at the end to keep pieces intact and maintain texture"
+    ],
+    "coachingPrompt": "Walk me through sautéing vegetables and combining them properly with mayonnaise and crabmeat for the best salad texture"
+  },
+  "timestamp": "2026-02-05T21:28:54.997Z"
+}

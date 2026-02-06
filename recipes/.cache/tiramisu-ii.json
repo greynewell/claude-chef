@@ -1,0 +1,78 @@
+{
+  "contentHash": "b5533d0aa84ca0fe",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 egg yolks",
+        "searchTerm": "egg yolks",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "⅔ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 ¼ cups heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 pound mascarpone cheese, at room temperature",
+        "searchTerm": "mascarpone",
+        "normalizedName": "Mascarpone Cheese"
+      },
+      {
+        "ingredient": "¼ cup strong brewed coffee, at room temperature",
+        "searchTerm": "brewed coffee",
+        "normalizedName": "Coffee"
+      },
+      {
+        "ingredient": "2 tablespoons rum",
+        "searchTerm": "rum",
+        "normalizedName": "Rum"
+      },
+      {
+        "ingredient": "2 (3 ounce) packages ladyfinger cookies",
+        "searchTerm": "ladyfingers",
+        "normalizedName": "Ladyfinger"
+      },
+      {
+        "ingredient": "1 tablespoon unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "8x8 dish or similar",
+        "searchTerm": "baking dish"
+      }
+    ],
+    "cookingTips": [
+      "Temper egg yolks by slowly heating them with sugar to prevent cooking",
+      "Fold whipped cream gently into mascarpone mixture to maintain airiness",
+      "Dip ladyfingers quickly in coffee mixture to avoid sogginess"
+    ],
+    "coachingPrompt": "Guide the baker through tempering eggs safely and folding in whipped cream without deflating the mixture."
+  },
+  "timestamp": "2026-02-06T20:50:20.150Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "f058f32b588d04e7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 fluid ounces tequila",
+        "searchTerm": "tequila",
+        "normalizedName": "Tequila"
+      },
+      {
+        "ingredient": "3 fluid ounces triple sec",
+        "searchTerm": "triple sec",
+        "normalizedName": "Triple Sec"
+      },
+      {
+        "ingredient": "2 (6 ounce) cans frozen limeade concentrate",
+        "searchTerm": "frozen limeade concentrate",
+        "normalizedName": "Frozen Limeade Concentrate"
+      },
+      {
+        "ingredient": "4 cups ice cubes",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      },
+      {
+        "ingredient": "coarse salt",
+        "searchTerm": "coarse salt",
+        "normalizedName": "Coarse Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "margarita glasses",
+        "searchTerm": "margarita glasses"
+      },
+      {
+        "name": "cocktail shaker",
+        "searchTerm": "cocktail shaker"
+      }
+    ],
+    "cookingTips": [
+      "Use quality tequila for a smoother, more refined drink",
+      "Rim glasses with salt before pouring for traditional presentation",
+      "Blend until slushy consistency for the best texture"
+    ],
+    "coachingPrompt": "How can I make fresh margaritas without using frozen concentrate?"
+  },
+  "timestamp": "2026-02-05T23:33:33.023Z"
+}

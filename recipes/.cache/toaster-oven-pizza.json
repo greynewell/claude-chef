@@ -1,0 +1,58 @@
+{
+  "contentHash": "a8d856bf8128d353",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 bagel, sliced in half",
+        "searchTerm": "bagel",
+        "normalizedName": "Bagel"
+      },
+      {
+        "ingredient": "½ cup tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "¼ cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 small onion, sliced into rings",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 green bell pepper, chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 (8 ounce) package sliced pepperoni sausage",
+        "searchTerm": "pepperoni sausage",
+        "normalizedName": "Pepperoni Sausage"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Toaster Oven",
+        "searchTerm": "toaster oven"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Toast bagel halves lightly before adding toppings to prevent sogginess",
+      "Layer sauce, cheese, and toppings in that order for best results",
+      "Watch carefully as bagel pizzas cook quickly in toaster oven"
+    ],
+    "coachingPrompt": "How would you modify this recipe to make it healthier? Consider ingredient substitutions."
+  },
+  "timestamp": "2026-02-06T20:52:12.877Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "6c81864707f1d2cd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package uncooked macaroni",
+        "searchTerm": "macaroni",
+        "normalizedName": "Macaroni"
+      },
+      {
+        "ingredient": "5 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (8 ounce) bottle Caesar salad dressing",
+        "searchTerm": "caesar dressing",
+        "normalizedName": "Caesar Salad Dressing"
+      },
+      {
+        "ingredient": "3 slices bacon, chopped",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 cups croutons",
+        "searchTerm": "croutons",
+        "normalizedName": "Crouton"
+      },
+      {
+        "ingredient": "1 head romaine lettuce, torn into bite-size pieces",
+        "searchTerm": "romaine lettuce",
+        "normalizedName": "Romaine Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Hard boil eggs ahead of time and chop them just before serving to maintain texture",
+      "Cook bacon until crispy and drain on paper towels before crumbling",
+      "Toss salad with dressing just before serving to prevent sogginess"
+    ],
+    "coachingPrompt": "Suggest timing strategies to prepare components ahead and assemble the salad fresh."
+  },
+  "timestamp": "2026-02-06T11:43:13.916Z"
+}

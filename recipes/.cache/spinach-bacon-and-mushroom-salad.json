@@ -1,0 +1,63 @@
+{
+  "contentHash": "03fa20f7817a8f39",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "spinach",
+        "searchTerm": "fresh spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "mushroom",
+        "searchTerm": "fresh mushroom",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "crouton",
+        "searchTerm": "croutons",
+        "normalizedName": "Crouton"
+      },
+      {
+        "ingredient": "egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "ranch dressing",
+        "searchTerm": "ranch dressing",
+        "normalizedName": "Ranch Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "salad bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "salad tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then crumble into bite-sized pieces",
+      "Toss spinach with warm bacon fat for wilted texture if desired",
+      "Add dressing just before serving to prevent wilting"
+    ],
+    "coachingPrompt": "Do you prefer raw or lightly wilted spinach, and would you like warm or cold salad dressing?"
+  },
+  "timestamp": "2026-02-06T19:14:40.647Z"
+}

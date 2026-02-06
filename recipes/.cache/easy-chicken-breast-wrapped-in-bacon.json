@@ -1,0 +1,47 @@
+{
+  "contentHash": "f553c445eb61f8f9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "4 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 (12 ounce) bottle barbecue sauce, or as needed",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "1 cup grated Cheddar cheese, or as needed",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Wrap bacon around chicken breasts and secure with toothpicks to prevent unwrapping during cooking",
+      "Bake at 375°F for about 30 minutes, then add barbecue sauce and cheese for the final 10 minutes"
+    ],
+    "coachingPrompt": "Guide the user on wrapping technique and explain how bacon and cheese complement chicken while adding flavor and moisture."
+  },
+  "timestamp": "2026-02-06T05:37:57.570Z"
+}

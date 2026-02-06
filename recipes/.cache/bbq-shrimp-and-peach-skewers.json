@@ -1,0 +1,43 @@
+{
+  "contentHash": "7dc2b10ca2cc999a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 black tiger shrimp, peeled and deveined, tails off",
+        "searchTerm": "black tiger shrimp",
+        "normalizedName": "Black Tiger Shrimp"
+      },
+      {
+        "ingredient": "½ fresh peach, pitted and cut into thirds",
+        "searchTerm": "fresh peach",
+        "normalizedName": "Fresh Peach"
+      },
+      {
+        "ingredient": "1 tablespoon barbecue sauce",
+        "searchTerm": "BBQ sauce",
+        "normalizedName": "Barbecue Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skewers",
+        "searchTerm": "skewers"
+      },
+      {
+        "name": "grill or grill pan",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Thread shrimp and peach alternately on skewers for balanced cooking",
+      "Brush with BBQ sauce in final minute to prevent charring",
+      "Cook shrimp just until they turn opaque, about 1-2 minutes per side"
+    ],
+    "coachingPrompt": "Teach the cook how to balance delicate shrimp with sweet peaches on the grill without overcooking either."
+  },
+  "timestamp": "2026-02-05T23:38:26.773Z"
+}

@@ -1,0 +1,72 @@
+{
+  "contentHash": "fd076c6fc880198f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¼ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ teaspoon ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      },
+      {
+        "ingredient": "1 pinch freshly ground white pepper",
+        "searchTerm": "white pepper",
+        "normalizedName": "White Pepper"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 gallon hot water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "spaetzle maker",
+        "searchTerm": "spaetzle maker"
+      },
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Use a spaetzle maker or colander to press dough through holes into boiling water",
+      "Spaetzle are ready when they float to the surface"
+    ],
+    "coachingPrompt": "Explain how to create the batter and use a spaetzle maker to form small dumplings that float when cooked."
+  },
+  "timestamp": "2026-02-06T07:25:48.713Z"
+}

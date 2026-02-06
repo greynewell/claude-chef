@@ -1,0 +1,58 @@
+{
+  "contentHash": "27398b0979c1504f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 sprigs rosemary, leaves stripped and chopped",
+        "searchTerm": "fresh rosemary",
+        "normalizedName": "Rosemary"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh thyme",
+        "searchTerm": "fresh thyme",
+        "normalizedName": "Thyme"
+      },
+      {
+        "ingredient": "1 cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 whole pheasant, cleaned",
+        "searchTerm": "whole pheasant",
+        "normalizedName": "Pheasant"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Mix herbs with olive oil and rub over and inside pheasant",
+      "Pheasant is lean so monitor closely to avoid drying out",
+      "Use meat thermometer and aim for 160°F for doneness"
+    ],
+    "coachingPrompt": "I'm roasting pheasant with herbs. How do I prevent it from drying out since it's a lean bird?"
+  },
+  "timestamp": "2026-02-06T16:18:22.657Z"
+}

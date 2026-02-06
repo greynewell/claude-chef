@@ -1,0 +1,63 @@
+{
+  "contentHash": "33470b6db839f66b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup cooked rice",
+        "searchTerm": "cooked rice",
+        "normalizedName": "Cooked Rice"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 ¼ cups rice flour",
+        "searchTerm": "rice flour",
+        "normalizedName": "Rice Flour"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons applesauce",
+        "searchTerm": "applesauce",
+        "normalizedName": "Applesauce"
+      },
+      {
+        "ingredient": "2 teaspoons baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Whisk or fork",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Non-stick griddle or skillet",
+        "searchTerm": "griddle"
+      }
+    ],
+    "cookingTips": [
+      "Use warm cooked rice for better texture integration",
+      "Applesauce serves as a binder and moisture agent in place of additional eggs",
+      "Cook pancakes on medium-low heat as rice flour batter browns faster than wheat"
+    ],
+    "coachingPrompt": "How does cooked rice change the pancake structure? What texture differences would you observe?"
+  },
+  "timestamp": "2026-02-06T16:13:04.059Z"
+}

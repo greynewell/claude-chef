@@ -1,0 +1,57 @@
+{
+  "contentHash": "f3a05dba7ab3ef97",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "¼ cup liquid smoke",
+        "searchTerm": "liquid smoke",
+        "normalizedName": "Liquid Smoke"
+      },
+      {
+        "ingredient": "1 ½ tablespoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "3 tablespoons seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      },
+      {
+        "ingredient": "2 tablespoons garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "2 ½ tablespoons onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "zip-lock bag",
+        "searchTerm": "zip-lock bag"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Mix all ingredients thoroughly before adding meat",
+      "Marinate steaks for at least 4 hours, preferably overnight"
+    ],
+    "coachingPrompt": "Advise on proper marinating time and storage for maximum flavor infusion"
+  },
+  "timestamp": "2026-02-06T18:26:30.031Z"
+}

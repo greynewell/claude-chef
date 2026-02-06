@@ -1,0 +1,72 @@
+{
+  "contentHash": "d81e7742454832b1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 potatoes, peeled and quartered",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 pound lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (4 ounce) can sliced mushrooms",
+        "searchTerm": "canned mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "1 (15 ounce) can mixed vegetables",
+        "searchTerm": "canned mixed vegetables",
+        "normalizedName": "Mixed Vegetable"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of celery soup",
+        "searchTerm": "cream of celery soup",
+        "normalizedName": "Cream of Celery Soup"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "3 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 baking dish",
+        "searchTerm": "rectangular casserole dish"
+      },
+      {
+        "name": "Large pot",
+        "searchTerm": "stockpot"
+      },
+      {
+        "name": "Potato masher",
+        "searchTerm": "masher"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef well to ensure flavor and avoid a bland filling",
+      "Layer potatoes smoothly on top and roughen with a fork for crispy edges when baked"
+    ],
+    "coachingPrompt": "How will you ensure the mashed potato topping stays creamy and doesn't dry out during baking?"
+  },
+  "timestamp": "2026-02-06T17:28:35.229Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "7a5653e9ee1ffaea",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 rib-eye steaks, cut 1 1/2-inch thick",
+        "searchTerm": "rib-eye steak",
+        "normalizedName": "Rib-Eye Steak"
+      },
+      {
+        "ingredient": "4 teaspoons grill seasoning",
+        "searchTerm": "Montreal steak seasoning",
+        "normalizedName": "Grill Seasoning"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ cup reduced-sodium soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Small Bowl",
+        "searchTerm": "small mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Bring steaks to room temperature 15 minutes before cooking",
+      "Create a marinade with oil and soy sauce for flavor depth",
+      "Check internal temperature: 130°F for medium-rare, 140°F for medium"
+    ],
+    "coachingPrompt": "Guide me through air frying thick-cut rib-eye steaks to restaurant-quality doneness"
+  },
+  "timestamp": "2026-02-05T21:46:10.392Z"
+}

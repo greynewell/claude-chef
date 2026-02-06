@@ -1,0 +1,53 @@
+{
+  "contentHash": "50c2996a2d9ded62",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 head romaine lettuce",
+        "searchTerm": "romaine lettuce",
+        "normalizedName": "Romaine Lettuce"
+      },
+      {
+        "ingredient": "4 leaves kale",
+        "searchTerm": "kale",
+        "normalizedName": "Kale"
+      },
+      {
+        "ingredient": "1 (1/2 inch) piece ginger",
+        "searchTerm": "ginger",
+        "normalizedName": "Ginger"
+      },
+      {
+        "ingredient": "2 apples, quartered",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "1 lemon",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "juicer or blender",
+        "searchTerm": "juicer"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "glasses",
+        "searchTerm": "juice glasses"
+      }
+    ],
+    "cookingTips": [
+      "Process leafy greens first, then harder vegetables to ensure thorough extraction",
+      "Use tart apples like Granny Smith to balance sweetness and prevent cloying beverage",
+      "Serve immediately over ice to preserve nutrient content and vibrant flavor"
+    ],
+    "coachingPrompt": "How can you balance bitter greens with sweet fruit and bright citrus in a refreshing juice?"
+  },
+  "timestamp": "2026-02-06T08:07:29.109Z"
+}

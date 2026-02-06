@@ -1,0 +1,53 @@
+{
+  "contentHash": "967a4b879b23c0a4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons yellow cornmeal",
+        "searchTerm": "cornmeal",
+        "normalizedName": "Cornmeal"
+      },
+      {
+        "ingredient": "6 cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "2 (.25 ounce) packages rapid rise yeast",
+        "searchTerm": "rapid rise yeast",
+        "normalizedName": "Rapid Rise Yeast"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 ½ cups warm water (120 to 130 degrees F/50 degrees C)",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Stand mixer",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "Dutch oven",
+        "searchTerm": "dutch oven"
+      },
+      {
+        "name": "Proofing bowl",
+        "searchTerm": "proofing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Water temperature is critical - use a thermometer to ensure it's between 120-130°F for proper yeast activation",
+      "The minimal ingredient list means gluten development through kneading is essential",
+      "Cornmeal on the crust adds texture and prevents sticking"
+    ],
+    "coachingPrompt": "With only five ingredients, what techniques matter most for creating great bread?"
+  },
+  "timestamp": "2026-02-06T06:23:30.067Z"
+}

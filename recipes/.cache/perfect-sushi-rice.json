@@ -1,0 +1,58 @@
+{
+  "contentHash": "5a18e009c8feb717",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups uncooked glutinous white rice",
+        "searchTerm": "sushi rice",
+        "normalizedName": "Sushi Rice"
+      },
+      {
+        "ingredient": "3 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup rice vinegar",
+        "searchTerm": "rice vinegar",
+        "normalizedName": "Rice Vinegar"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Rice Cooker",
+        "searchTerm": "rice cooker"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Rice Paddle",
+        "searchTerm": "rice paddle"
+      }
+    ],
+    "cookingTips": [
+      "Use glutinous rice specifically - regular rice won't have the correct texture",
+      "Cool the vinegar mixture before adding to hot rice to preserve flavor",
+      "Fold vinegar mixture gently into rice using a cutting motion to avoid crushing grains"
+    ],
+    "coachingPrompt": "Explain why glutinous rice is essential for sushi and how the vinegar mixture needs to be cooled before combining with hot rice."
+  },
+  "timestamp": "2026-02-06T14:37:03.419Z"
+}

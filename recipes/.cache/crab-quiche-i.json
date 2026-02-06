@@ -1,0 +1,68 @@
+{
+  "contentHash": "b2fb932bd0ddba8b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 cup crab meat",
+        "searchTerm": "crabmeat",
+        "normalizedName": "Crabmeat"
+      },
+      {
+        "ingredient": "1 cup diced Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "½ cup chopped green onions",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 (9 inch) unbaked pie crust",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "9-inch pie dish",
+        "searchTerm": "pie dish"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Combine mayonnaise and flour to create a custard-like base",
+      "Distribute crab and cheese evenly in the pie crust before pouring custard",
+      "Bake at 350°F for 35-40 minutes until a knife inserted near center comes out clean"
+    ],
+    "coachingPrompt": "Help the user create a classic quiche by building a smooth custard and ensuring even filling distribution."
+  },
+  "timestamp": "2026-02-06T04:02:47.146Z"
+}

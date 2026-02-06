@@ -1,0 +1,63 @@
+{
+  "contentHash": "ced6ccf73dc364a7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "kale leaves",
+        "searchTerm": "kale",
+        "normalizedName": "Kale"
+      },
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "kosher salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Thoroughly dry kale after washing to prevent moisture during cooking",
+      "Toss kale gently to avoid bruising delicate leaves",
+      "Don't overcrowd air fryer basket; cook in batches for maximum crispness"
+    ],
+    "coachingPrompt": "Help me prepare and season the kale, then air fry it at the right temperature for maximum crispiness."
+  },
+  "timestamp": "2026-02-05T21:37:13.643Z"
+}

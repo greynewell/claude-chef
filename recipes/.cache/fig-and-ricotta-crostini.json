@@ -1,0 +1,53 @@
+{
+  "contentHash": "657a6ed537b22a86",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 French baguette, cut into 1/2 inch slices",
+        "searchTerm": "French baguette",
+        "normalizedName": "French Baguette"
+      },
+      {
+        "ingredient": "1 (15 ounce) container ricotta cheese",
+        "searchTerm": "ricotta cheese",
+        "normalizedName": "Ricotta Cheese"
+      },
+      {
+        "ingredient": "12 fresh basil leaves, cut into thin strips",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      },
+      {
+        "ingredient": "8 black mission figs, cut in quarters",
+        "searchTerm": "black mission figs",
+        "normalizedName": "Black Mission Fig"
+      },
+      {
+        "ingredient": "¼ cup aged balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Spreader or Knife",
+        "searchTerm": "spreader"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread lightly to provide sturdy base but keep it slightly soft inside",
+      "Spread ricotta generously on bread while still warm to soften it slightly",
+      "Drizzle aged balsamic vinegar just before serving for maximum flavor impact"
+    ],
+    "coachingPrompt": "Help the user create fresh, simple fig and ricotta crostini with a drizzle of aged balsamic vinegar."
+  },
+  "timestamp": "2026-02-06T06:37:21.141Z"
+}

@@ -1,0 +1,73 @@
+{
+  "contentHash": "d9161cc77c15aa16",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 teaspoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "4 Buffalo wing-flavored chicken sausages (such as al fresco®), sliced on a bias",
+        "searchTerm": "buffalo chicken sausage",
+        "normalizedName": "Buffalo Chicken Sausage"
+      },
+      {
+        "ingredient": "1 onion, sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 red bell pepper, sliced",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 green bell pepper, sliced",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "¼ cup blue cheese salad dressing, or more to taste",
+        "searchTerm": "blue cheese dressing",
+        "normalizedName": "Blue Cheese Dressing"
+      },
+      {
+        "ingredient": "3 tablespoons hot pepper sauce",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      },
+      {
+        "ingredient": "2 cups baby spinach leaves",
+        "searchTerm": "baby spinach",
+        "normalizedName": "Baby Spinach"
+      },
+      {
+        "ingredient": "4 hoagie rolls, split lengthwise and toasted",
+        "searchTerm": "hoagie roll",
+        "normalizedName": "Hoagie Roll"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Slice sausages on a bias to increase surface area and browning",
+      "Cook peppers and onions until tender and slightly caramelized for sweetness",
+      "Toast rolls lightly to prevent sogginess from dressing and sauce"
+    ],
+    "coachingPrompt": "Guide the user through building a satisfying sandwich by sautéing sausage and peppers together, then layering with greens and creamy blue cheese dressing."
+  },
+  "timestamp": "2026-02-06T00:54:57.143Z"
+}

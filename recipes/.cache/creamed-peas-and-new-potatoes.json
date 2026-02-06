@@ -1,0 +1,63 @@
+{
+  "contentHash": "37e7ea962b1d775e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound baby red potatoes, quartered",
+        "searchTerm": "baby red potato",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "1 cup shelled English peas",
+        "searchTerm": "pea",
+        "normalizedName": "Pea"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Cook potatoes until just tender before adding to the cream sauce",
+      "Add fresh peas at the very end to maintain their vibrant color",
+      "Keep the sauce at a gentle simmer to avoid curdling"
+    ],
+    "coachingPrompt": "I'm making creamed peas and new potatoes. Should I cook the potatoes and peas separately or together?"
+  },
+  "timestamp": "2026-02-06T04:19:52.025Z"
+}

@@ -1,0 +1,73 @@
+{
+  "contentHash": "e2d517aabfc46c67",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 large eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 pinch salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 slices Italian bread",
+        "searchTerm": "Italian bread",
+        "normalizedName": "Italian Bread"
+      },
+      {
+        "ingredient": "1 ounce Swiss cheese, sliced",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "1 ounce Cheddar cheese, sliced",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "½ ripe avocado, sliced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      }
+    ],
+    "cookingTips": [
+      "Toast the bread lightly for structure and texture",
+      "Layer cheese with warm eggs so it melts slightly from residual heat",
+      "Add avocado just before serving to keep it from oxidizing"
+    ],
+    "coachingPrompt": "Do you prefer your eggs sunny side up, over easy, or scrambled? This will affect how the sandwich comes together."
+  },
+  "timestamp": "2026-02-05T22:41:09.146Z"
+}

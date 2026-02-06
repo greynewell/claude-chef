@@ -1,0 +1,58 @@
+{
+  "contentHash": "17300c3aa43fea70",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 ¼ cups packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon almond extract",
+        "searchTerm": "almond extract",
+        "normalizedName": "Almond Extract"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup blanched slivered almonds",
+        "searchTerm": "slivered almonds",
+        "normalizedName": "Slivered Almond"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "8x8 baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "mixer"
+      }
+    ],
+    "cookingTips": [
+      "Cream butter and sugar well for a light texture",
+      "Press dough firmly into the pan before baking",
+      "Top with almonds and bake until golden brown at 350°F for about 20-25 minutes"
+    ],
+    "coachingPrompt": "This is a traditional Dutch butter cake with almonds. Help the user understand it's a simple pressed dough cake, not a mixed batter."
+  },
+  "timestamp": "2026-02-06T05:25:06.901Z"
+}

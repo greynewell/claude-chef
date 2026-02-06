@@ -1,0 +1,57 @@
+{
+  "contentHash": "bfa940da94cda451",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Yeast"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 large egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "3 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Kitchen Thermometer",
+        "searchTerm": "instant read thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Use warm water (around 110°F) to activate yeast properly",
+      "Monitor rise time closely as rapid rise recipes can over-proof quickly",
+      "Brush rolls with egg wash before baking for a golden, shiny finish"
+    ],
+    "coachingPrompt": "Guide me through this 40-minute roll recipe including yeast activation, kneading time, rise duration, and baking instructions"
+  },
+  "timestamp": "2026-02-05T21:28:54.996Z"
+}

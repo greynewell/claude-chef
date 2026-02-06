@@ -1,0 +1,48 @@
+{
+  "contentHash": "edccea790ae3548d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "½ pound bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 (20 ounce) can pineapple chunks",
+        "searchTerm": "pineapple chunks",
+        "normalizedName": "Pineapple"
+      },
+      {
+        "ingredient": "18 fluid ounces teriyaki sauce",
+        "searchTerm": "teriyaki sauce",
+        "normalizedName": "Teriyaki Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      }
+    ],
+    "cookingTips": [
+      "Wrap bacon around chicken before cooking for even crisping",
+      "Use pineapple juice from the can to thin teriyaki sauce",
+      "Cook bacon and chicken together so flavors meld"
+    ],
+    "coachingPrompt": "Help the user layer bacon and chicken with a sweet-savory teriyaki-pineapple glaze for an impressive presentation."
+  },
+  "timestamp": "2026-02-06T02:47:47.086Z"
+}

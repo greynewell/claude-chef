@@ -1,0 +1,53 @@
+{
+  "contentHash": "2148798de1bfacc2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups cold whole milk, divided",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 tablespoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "7 ounces fine-quality bittersweet chocolate, finely chopped",
+        "searchTerm": "bittersweet chocolate",
+        "normalizedName": "Bittersweet Chocolate"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Ice Cream Maker",
+        "searchTerm": "ice cream maker"
+      }
+    ],
+    "cookingTips": [
+      "Cornstarch creates a creamy custard-like base without eggs",
+      "Finely chop chocolate for faster melting and smooth texture",
+      "Cool mixture completely before churning for best results"
+    ],
+    "coachingPrompt": "Do you have an ice cream maker, or would you prefer a no-churn gelato method?"
+  },
+  "timestamp": "2026-02-06T06:10:55.752Z"
+}

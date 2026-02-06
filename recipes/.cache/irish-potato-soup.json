@@ -1,0 +1,63 @@
+{
+  "contentHash": "802a629f299c4e3d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (1 pound) package bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cup celery, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "6 potatoes, scrubbed and cubed",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 (12 fluid ounce) cans evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      },
+      {
+        "name": "Ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then reserve and crumble for garnish",
+      "Simmer potatoes until fork-tender but not falling apart",
+      "Add evaporated milk at the end to prevent curdling"
+    ],
+    "coachingPrompt": "Guide me in building a hearty bacon-potato soup with creamy texture and crispy bacon bits."
+  },
+  "timestamp": "2026-02-06T10:01:36.533Z"
+}

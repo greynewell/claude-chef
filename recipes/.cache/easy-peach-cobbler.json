@@ -1,0 +1,52 @@
+{
+  "contentHash": "2d9d09bc75be7b10",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup butter, room temperature",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup self-rising flour",
+        "searchTerm": "self-rising flour",
+        "normalizedName": "Self-Rising Flour"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 (15 ounce) can peaches",
+        "searchTerm": "canned peaches",
+        "normalizedName": "Canned Peach"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Allow butter and sugar mixture to spread naturally in the baking dish as it bakes, creating a cake layer",
+      "Don't stir the batter; pour it over the peaches and let it rise during baking"
+    ],
+    "coachingPrompt": "Guide the user through this magical no-mix method where batter rises while baking to create a cobbler."
+  },
+  "timestamp": "2026-02-06T05:54:15.933Z"
+}

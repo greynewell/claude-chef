@@ -1,0 +1,53 @@
+{
+  "contentHash": "f16e81c33eb33740",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "ice",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      },
+      {
+        "ingredient": "1 splash grenadine syrup",
+        "searchTerm": "grenadine syrup",
+        "normalizedName": "Grenadine Syrup"
+      },
+      {
+        "ingredient": "1 (1.5 fluid ounce) jigger cake-flavored vodka",
+        "searchTerm": "cake-flavored vodka",
+        "normalizedName": "Cake-Flavored Vodka"
+      },
+      {
+        "ingredient": "3 ounces pineapple juice",
+        "searchTerm": "pineapple juice",
+        "normalizedName": "Pineapple Juice"
+      },
+      {
+        "ingredient": "1 maraschino cherry",
+        "searchTerm": "maraschino cherry",
+        "normalizedName": "Maraschino Cherry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cocktail Glass",
+        "searchTerm": "cocktail glass"
+      },
+      {
+        "name": "Jigger",
+        "searchTerm": "jigger"
+      },
+      {
+        "name": "Bar Spoon",
+        "searchTerm": "bar spoon"
+      }
+    ],
+    "cookingTips": [
+      "Pour grenadine first to create layered effect",
+      "Use ice to chill glass and cocktail",
+      "Garnish with cherry for presentation"
+    ],
+    "coachingPrompt": "Help the user layer ingredients correctly for visual appeal and balanced sweet-tart flavor."
+  },
+  "timestamp": "2026-02-06T14:49:59.969Z"
+}

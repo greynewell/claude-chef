@@ -1,0 +1,53 @@
+{
+  "contentHash": "33070724872a75c8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound hot Italian sausage links",
+        "searchTerm": "hot Italian sausage",
+        "normalizedName": "Hot Italian Sausage"
+      },
+      {
+        "ingredient": "2 (32 fluid ounce) containers chicken stock",
+        "searchTerm": "chicken stock",
+        "normalizedName": "Chicken Stock"
+      },
+      {
+        "ingredient": "1 (15 ounce) can cannellini beans, drained and rinsed",
+        "searchTerm": "cannellini beans",
+        "normalizedName": "Cannellini Bean"
+      },
+      {
+        "ingredient": "1 (10 ounce) package frozen chopped collard greens",
+        "searchTerm": "collard greens",
+        "normalizedName": "Collard Green"
+      },
+      {
+        "ingredient": "½ (16 ounce) package ditalini pasta",
+        "searchTerm": "ditalini pasta",
+        "normalizedName": "Ditalini Pasta"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausage separately and slice before adding to soup for better flavor distribution",
+      "Add pasta in the last few minutes so it doesn't absorb all the broth",
+      "Frozen collard greens are convenient and cook quickly in hot liquid"
+    ],
+    "coachingPrompt": "Help the user build a hearty, balanced soup by managing timing so pasta and greens stay tender without overcooking."
+  },
+  "timestamp": "2026-02-06T17:00:35.377Z"
+}

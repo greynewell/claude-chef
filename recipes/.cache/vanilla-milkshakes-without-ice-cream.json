@@ -1,0 +1,43 @@
+{
+  "contentHash": "ab2cebae4cb5457c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 ice cubes",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 dash vanilla extract, or to taste",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "tall glass",
+        "searchTerm": "glass"
+      }
+    ],
+    "cookingTips": [
+      "Dissolve sugar in milk first for even sweetness distribution",
+      "Add ice gradually and blend until desired thickness is reached"
+    ],
+    "coachingPrompt": "How does the texture differ from a traditional ice cream milkshake?"
+  },
+  "timestamp": "2026-02-06T21:32:14.899Z"
+}

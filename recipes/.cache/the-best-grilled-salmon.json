@@ -1,0 +1,52 @@
+{
+  "contentHash": "b8c194908257912f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 salmon fillets",
+        "searchTerm": "salmon fillets",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "½ cup lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 tablespoon onion and spice seasoning blend",
+        "searchTerm": "seasoning blend",
+        "normalizedName": "Seasoning Blend"
+      },
+      {
+        "ingredient": "1 lemon, sliced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "½ onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill mat or foil",
+        "searchTerm": "grill mat"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Bring salmon to room temperature 15 minutes before grilling for even cooking",
+      "Don't flip too early; wait until skin releases naturally from grill"
+    ],
+    "coachingPrompt": "Help the user grill salmon to moist perfection with proper heat management and timing."
+  },
+  "timestamp": "2026-02-06T20:38:30.512Z"
+}

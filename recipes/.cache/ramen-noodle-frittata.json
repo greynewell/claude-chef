@@ -1,0 +1,48 @@
+{
+  "contentHash": "d2e4765c689ff4cf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (3 ounce) packages chicken flavored ramen noodles",
+        "searchTerm": "ramen noodles",
+        "normalizedName": "Ramen Noodle"
+      },
+      {
+        "ingredient": "6 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Cook noodles until just tender and drain well",
+      "Cook on stovetop over medium heat, then finish under the broiler",
+      "Don't overmix eggs to keep frittata light and fluffy"
+    ],
+    "coachingPrompt": "Explain the stovetop-to-broiler technique for achieving a set but tender frittata."
+  },
+  "timestamp": "2026-02-06T15:53:47.041Z"
+}

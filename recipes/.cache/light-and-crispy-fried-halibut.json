@@ -1,0 +1,62 @@
+{
+  "contentHash": "962acf48e3466ec5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 tablespoon all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ (8 ounce) package panko bread crumbs",
+        "searchTerm": "panko bread crumbs",
+        "normalizedName": "Panko Bread Crumb"
+      },
+      {
+        "ingredient": "½ cup seasoned bread crumbs",
+        "searchTerm": "seasoned bread crumbs",
+        "normalizedName": "Seasoned Bread Crumb"
+      },
+      {
+        "ingredient": "1 pound halibut, cut into 2-inch squares",
+        "searchTerm": "halibut fillets",
+        "normalizedName": "Halibut Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "shallow bowls",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Maintain oil temperature at 350°F for crispy exterior without burning coating",
+      "Cut halibut into uniform pieces so they cook evenly"
+    ],
+    "coachingPrompt": "How will you monitor oil temperature to ensure perfect frying without the coating burning?"
+  },
+  "timestamp": "2026-02-06T11:22:27.686Z"
+}

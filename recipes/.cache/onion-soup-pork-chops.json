@@ -1,0 +1,47 @@
+{
+  "contentHash": "6fa8f983256363f6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pork chops",
+        "searchTerm": "pork chop",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "1 (1 ounce) package dry onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      },
+      {
+        "ingredient": "1 (6 ounce) package uncooked wild rice",
+        "searchTerm": "wild rice",
+        "normalizedName": "Wild Rice"
+      },
+      {
+        "ingredient": "3 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "covered baking dish",
+        "searchTerm": "baking dish"
+      }
+    ],
+    "cookingTips": [
+      "Brown pork chops first to develop flavor before adding liquid",
+      "Wild rice takes longer to cook than regular rice - don't skip this step"
+    ],
+    "coachingPrompt": "Would you like tips on getting golden-brown pork chops? Proper browning makes a big difference."
+  },
+  "timestamp": "2026-02-06T13:41:08.020Z"
+}

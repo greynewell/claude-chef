@@ -1,0 +1,53 @@
+{
+  "contentHash": "72266928b89820d7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 (1 ounce) squares unsweetened chocolate",
+        "searchTerm": "unsweetened chocolate",
+        "normalizedName": "Unsweetened Chocolate"
+      },
+      {
+        "ingredient": "1 pound confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "¾ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Melt chocolate and butter together over low heat to prevent scorching",
+      "Gradually add powdered sugar while stirring to avoid lumps",
+      "Let frosting cool slightly before spreading on cakes or cupcakes for best consistency"
+    ],
+    "coachingPrompt": "This rich frosting works well on chocolate or vanilla cakes. What temperature should the frosting be when you apply it?"
+  },
+  "timestamp": "2026-02-06T01:28:54.131Z"
+}

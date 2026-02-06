@@ -1,0 +1,48 @@
+{
+  "contentHash": "c9a23688a5f92b38",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ½ cups Italian-style tipo 00 flour, plus additional for dusting",
+        "searchTerm": "tipo 00 flour",
+        "normalizedName": "Tipo 00 Flour"
+      },
+      {
+        "ingredient": "3 large eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon water, or as needed",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Work surface or pasta board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "Rolling pin",
+        "searchTerm": "rolling pin"
+      }
+    ],
+    "cookingTips": [
+      "Tipo 00 flour is finer than all-purpose and produces silkier pasta dough",
+      "Knead dough for at least 10 minutes to develop gluten for proper texture",
+      "Roll dough thin by hand using gentle, consistent pressure in all directions"
+    ],
+    "coachingPrompt": "Guide the user through proper hand-kneading technique and the importance of developing gluten for authentic pasta texture."
+  },
+  "timestamp": "2026-02-06T09:16:20.190Z"
+}

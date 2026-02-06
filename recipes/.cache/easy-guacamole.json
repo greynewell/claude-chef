@@ -1,0 +1,63 @@
+{
+  "contentHash": "0df85f4b90c9398d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 avocados",
+        "searchTerm": "avocados",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 small onion, finely chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 ripe tomato, chopped",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 lime, juiced",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Use ripe avocados that yield slightly to pressure; overly hard ones won't blend smoothly",
+      "Add lime juice immediately to prevent browning",
+      "Chop all ingredients finely for consistent texture; don't over-blend"
+    ],
+    "coachingPrompt": "Do you prefer chunky or smooth guacamole? This recipe is simple—would you like suggestions for flavor additions like cilantro?"
+  },
+  "timestamp": "2026-02-06T05:46:57.024Z"
+}

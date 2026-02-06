@@ -1,0 +1,63 @@
+{
+  "contentHash": "20a6eec712343df9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (1.25 ounce) package taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning Mix"
+      },
+      {
+        "ingredient": "2 (16 ounce) cans refried beans",
+        "searchTerm": "refried beans",
+        "normalizedName": "Refried Bean"
+      },
+      {
+        "ingredient": "4 (10 inch) flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "3 cups shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 green onions, chopped",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "2 roma (plum) tomatoes, chopped",
+        "searchTerm": "Roma tomatoes",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Brown beef with taco seasoning for maximum flavor",
+      "Layer tortillas like noodles, alternating with beef, beans, and cheese",
+      "Top with green onions and tomatoes after baking for fresh garnish"
+    ],
+    "coachingPrompt": "Guide the user through cooking seasoned beef, layering flour tortillas with beef, refried beans, and cheese like traditional lasagna, then baking until hot."
+  },
+  "timestamp": "2026-02-06T12:19:44.978Z"
+}

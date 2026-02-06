@@ -1,0 +1,48 @@
+{
+  "contentHash": "d71a88528a6720be",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds apples - peeled, cored and chopped",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "3 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "food mill",
+        "searchTerm": "food mill"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Mix apple varieties for complex flavor",
+      "Simmer gently to avoid browning apples",
+      "Adjust sugar based on apple tartness"
+    ],
+    "coachingPrompt": "What techniques ensure smooth applesauce without lumps?"
+  },
+  "timestamp": "2026-02-06T06:56:41.132Z"
+}

@@ -1,0 +1,68 @@
+{
+  "contentHash": "078cf82d21637d32",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 pound fresh green beans",
+        "searchTerm": "fresh green beans",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "1 cube beef bouillon",
+        "searchTerm": "beef bouillon",
+        "normalizedName": "Beef Bouillon"
+      },
+      {
+        "ingredient": "4 tablespoons Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "2 teaspoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Divide green beans into bundles and wrap each tightly with bacon",
+      "Use thick-cut bacon for better structural integrity during cooking",
+      "The bacon will render and create a flavorful glaze with the sauce components"
+    ],
+    "coachingPrompt": "Bundling the beans with bacon is a presentation challenge. How will you secure the bacon tightly enough so it doesn't unravel during cooking?"
+  },
+  "timestamp": "2026-02-06T08:05:31.756Z"
+}

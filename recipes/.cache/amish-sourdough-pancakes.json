@@ -1,0 +1,43 @@
+{
+  "contentHash": "d926c84ab4815607",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups buttermilk pancake mix",
+        "searchTerm": "pancake mix",
+        "normalizedName": "Buttermilk Pancake Mix"
+      },
+      {
+        "ingredient": "1 ½ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup Amish Friendship Bread Starter",
+        "searchTerm": "bread starter",
+        "normalizedName": "Amish Friendship Bread Starter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "griddle",
+        "searchTerm": "griddle"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "The sourdough starter adds tang and extra lift to the pancakes",
+      "Let the batter rest for a few minutes before cooking for fluffier results",
+      "Cook on a medium-hot griddle until bubbles form on top before flipping"
+    ],
+    "coachingPrompt": "Explain how sourdough starter replaces some of the liquid and adds fermented flavor and loft to simple pancakes."
+  },
+  "timestamp": "2026-02-05T22:02:32.732Z"
+}

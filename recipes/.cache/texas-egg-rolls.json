@@ -1,0 +1,48 @@
+{
+  "contentHash": "ebc605d13d92447b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "oil for frying",
+        "searchTerm": "oil for frying",
+        "normalizedName": "Frying Oil"
+      },
+      {
+        "ingredient": "6 canned whole green chiles",
+        "searchTerm": "green chiles canned",
+        "normalizedName": "Whole Green Chile"
+      },
+      {
+        "ingredient": "6 egg roll wrappers",
+        "searchTerm": "egg roll wrappers",
+        "normalizedName": "Egg Roll Wrapper"
+      },
+      {
+        "ingredient": "6 slices Monterey Jack cheese",
+        "searchTerm": "monterey jack cheese",
+        "normalizedName": "Monterey Jack Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep Fryer or Heavy Pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      },
+      {
+        "name": "Paper Towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Pat green chiles dry before wrapping to prevent splattering",
+      "Roll tightly with cheese inside for maximum flavor",
+      "Fry until golden brown at 350°F for 2-3 minutes per side"
+    ],
+    "coachingPrompt": "Would you prefer these served with sour cream, salsa, or ranch dip?"
+  },
+  "timestamp": "2026-02-06T20:27:21.024Z"
+}

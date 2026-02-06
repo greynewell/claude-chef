@@ -1,0 +1,58 @@
+{
+  "contentHash": "332de0e6c25a1c7a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅔ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "shallow bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Cut the bread into corner triangles for more surface area and crispier edges",
+      "Make sure the egg mixture coats all sides of the bread evenly",
+      "Cook on medium heat to ensure the egg custard sets properly before the bread burns"
+    ],
+    "coachingPrompt": "The corner cut makes for more crispy edges. How will you arrange them in the pan?"
+  },
+  "timestamp": "2026-02-06T06:55:51.194Z"
+}

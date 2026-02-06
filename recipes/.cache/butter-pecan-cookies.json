@@ -1,0 +1,58 @@
+{
+  "contentHash": "0da6094219354635",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "⅔ cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ½ cups pecan halves",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cookie Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Electric Mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "Cookie Scoop",
+        "searchTerm": "cookie scoop"
+      }
+    ],
+    "cookingTips": [
+      "Cream butter and sugar until light and fluffy for tender cookies",
+      "Chill dough before baking to prevent excessive spreading",
+      "Place pecan halves on dough before baking for better adherence"
+    ],
+    "coachingPrompt": "What techniques ensure these cookies are tender with great pecan distribution?"
+  },
+  "timestamp": "2026-02-06T00:59:42.654Z"
+}

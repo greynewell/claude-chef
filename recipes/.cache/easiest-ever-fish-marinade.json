@@ -1,0 +1,44 @@
+{
+  "contentHash": "53b0f9fa0dd3b8e2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅓ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "⅓ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "⅓ cup bourbon whiskey",
+        "searchTerm": "bourbon whiskey",
+        "normalizedName": "Bourbon Whiskey"
+      },
+      {
+        "ingredient": "4 (4 ounce) fillets halibut",
+        "searchTerm": "halibut fillets",
+        "normalizedName": "Halibut Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "shallow dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      }
+    ],
+    "cookingTips": [
+      "Mix marinade in equal parts for balanced sweet, salty, and rich flavors",
+      "Marinate fish for 30-60 minutes to penetrate without over-curing",
+      "Reserve some marinade before adding raw fish for basting during cooking"
+    ],
+    "coachingPrompt": "How does the whiskey contribute to the marinade? How long should fish marinate?"
+  },
+  "timestamp": "2026-02-06T05:27:03.256Z"
+}

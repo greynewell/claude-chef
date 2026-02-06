@@ -1,0 +1,58 @@
+{
+  "contentHash": "b008c489a56ab235",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Frozen Spinach"
+      },
+      {
+        "ingredient": "½ cup crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "2 cloves garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breasts",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "4 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Drain spinach thoroughly and press out excess moisture before mixing with filling",
+      "Cut a pocket into the side of each chicken breast for easy filling insertion",
+      "Secure with toothpicks if needed to keep bacon wrapped around chicken"
+    ],
+    "coachingPrompt": "How can you ensure the filling stays moist inside while the chicken cooks through?"
+  },
+  "timestamp": "2026-02-06T19:17:45.220Z"
+}

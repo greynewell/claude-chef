@@ -1,0 +1,62 @@
+{
+  "contentHash": "d825b9886cb88221",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "2 cups hot mashed potatoes",
+        "searchTerm": "mashed potatoes",
+        "normalizedName": "Mashed Potato"
+      },
+      {
+        "ingredient": "4 ounces PHILADELPHIA Cream Cheese, cubed",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 cup KRAFT Shredded Cheddar Cheese, divided",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "4 cups frozen mixed vegetables, thawed",
+        "searchTerm": "frozen mixed vegetables",
+        "normalizedName": "Mixed Vegetable"
+      },
+      {
+        "ingredient": "1 cup beef gravy",
+        "searchTerm": "beef gravy",
+        "normalizedName": "Beef Gravy"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Baking dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly and drain excess fat before adding vegetables",
+      "Top with mashed potatoes that are still warm for better adhesion"
+    ],
+    "coachingPrompt": "Help the user layer the pie properly and advise on baking temperature until the top is golden brown and filling bubbles at edges."
+  },
+  "timestamp": "2026-02-06T05:59:34.208Z"
+}

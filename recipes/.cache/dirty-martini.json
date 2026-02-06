@@ -1,0 +1,48 @@
+{
+  "contentHash": "62c1ebb393387d41",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 fluid ounces vodka",
+        "searchTerm": "vodka",
+        "normalizedName": "Vodka"
+      },
+      {
+        "ingredient": "1 dash dry vermouth",
+        "searchTerm": "dry vermouth",
+        "normalizedName": "Dry Vermouth"
+      },
+      {
+        "ingredient": "1 fluid ounce brine from olive jar",
+        "searchTerm": "olive brine",
+        "normalizedName": "Olive Brine"
+      },
+      {
+        "ingredient": "4 stuffed green olives",
+        "searchTerm": "green olives",
+        "normalizedName": "Green Olive"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing glass",
+        "searchTerm": "mixing glass"
+      },
+      {
+        "name": "bar spoon",
+        "searchTerm": "bar spoon"
+      },
+      {
+        "name": "cocktail strainer",
+        "searchTerm": "cocktail strainer"
+      }
+    ],
+    "cookingTips": [
+      "Chill all ingredients and glassware before mixing for optimal temperature and dilution",
+      "Stir gently with ice for 30 seconds to achieve proper temperature and dilution without over-oxidizing",
+      "Strain into a chilled glass and garnish with olive skewer placed carefully to maintain presentation"
+    ],
+    "coachingPrompt": "How does the ratio of vermouth to vodka affect the final flavor profile, and what variations appeal to different palates?"
+  },
+  "timestamp": "2026-02-06T05:17:06.451Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "a6bf69fc42b62b97",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) package pork sausage links",
+        "searchTerm": "pork sausage links",
+        "normalizedName": "Pork Sausage Link"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Preheat batter ingredients but bake immediately for puffy Yorkshire pudding effect",
+      "Pre-cook sausages slightly so they finish at same time as batter",
+      "Use hot oil in pan before adding batter for crispy edges"
+    ],
+    "coachingPrompt": "Are you familiar with Yorkshire pudding batter? Would you like help achieving that signature puffy texture?"
+  },
+  "timestamp": "2026-02-06T20:51:17.456Z"
+}

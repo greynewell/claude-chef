@@ -1,0 +1,49 @@
+{
+  "contentHash": "42a0c02d89cbeb5a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ yellow onion, sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "4 pork chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "26 ounces condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 cubes beef bouillon",
+        "searchTerm": "beef bouillon",
+        "normalizedName": "Beef Bouillon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Dissolve bouillon cubes in water before adding to soup for better distribution",
+      "Layer onions under chops so they soften and flavor the sauce",
+      "Keep covered with foil to trap steam and prevent sauce from reducing too much"
+    ],
+    "coachingPrompt": "This is a simple one-dish meal. Why is beef bouillon important when the recipe already contains cream of mushroom soup?"
+  },
+  "timestamp": "2026-02-05T23:10:33.738Z"
+}

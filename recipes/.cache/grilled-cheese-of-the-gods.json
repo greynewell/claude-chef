@@ -1,0 +1,53 @@
+{
+  "contentHash": "1c0524bfa89e00e5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup freshly grated Parmigiano-Reggiano cheese",
+        "searchTerm": "parmigiano-reggiano cheese",
+        "normalizedName": "Parmigiano-Reggiano Cheese"
+      },
+      {
+        "ingredient": "8 slices cooked bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "4 slices Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "8 slices sourdough bread",
+        "searchTerm": "sourdough bread",
+        "normalizedName": "Sourdough Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Box Grater",
+        "searchTerm": "box grater"
+      }
+    ],
+    "cookingTips": [
+      "Grate Parmigiano-Reggiano fresh for best flavor and melting quality",
+      "Sourdough's tangy flavor complements the salty bacon and nutty Parm",
+      "Layer bacon evenly for consistent flavor in every bite"
+    ],
+    "coachingPrompt": "Guide the user on building layers of flavor with quality ingredients and achieving the perfect crispy-outside, melty-inside texture."
+  },
+  "timestamp": "2026-02-06T08:12:09.121Z"
+}

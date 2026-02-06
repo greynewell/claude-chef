@@ -1,0 +1,77 @@
+{
+  "contentHash": "3a6b832b220def96",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "pie crust pastry",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      },
+      {
+        "ingredient": "light corn syrup",
+        "searchTerm": "light corn syrup",
+        "normalizedName": "Light Corn Syrup"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Chocolate Chip"
+      },
+      {
+        "ingredient": "chopped pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      },
+      {
+        "ingredient": "butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "bourbon",
+        "searchTerm": "bourbon",
+        "normalizedName": "Bourbon"
+      },
+      {
+        "ingredient": "vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pie Pan",
+        "searchTerm": "pie pan"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Don't overmix filling to maintain texture and prevent cracks",
+      "Scatter nuts and chocolate chips on crust before pouring filling for even distribution",
+      "Tent pie with foil if browning too quickly during baking"
+    ],
+    "coachingPrompt": "Explain why this is a Kentucky Derby tradition. Guide doneness testing without overbaking and suggest serving with bourbon or whipped cream."
+  },
+  "timestamp": "2026-02-06T10:39:09.368Z"
+}

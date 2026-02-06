@@ -1,0 +1,63 @@
+{
+  "contentHash": "1e7c47caaf9a1eba",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup self-rising flour",
+        "searchTerm": "self-rising flour",
+        "normalizedName": "Self-Rising Flour"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 ¾ cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "7 ounces flaked coconut",
+        "searchTerm": "flaked coconut",
+        "normalizedName": "Flaked Coconut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pie dish",
+        "searchTerm": "pie dish"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Mix ingredients in order and don't overmix after adding flour",
+      "Batter will separate during baking, creating its own crust at the bottom",
+      "Pie is done when golden brown and center is just set"
+    ],
+    "coachingPrompt": "Explain how the batter magically creates its own crust and custard-like filling as it bakes."
+  },
+  "timestamp": "2026-02-06T13:18:04.384Z"
+}

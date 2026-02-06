@@ -1,0 +1,43 @@
+{
+  "contentHash": "c5ec5206c41e1452",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (3 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "3 ounces crumbled Gorgonzola cheese",
+        "searchTerm": "gorgonzola cheese",
+        "normalizedName": "Gorgonzola Cheese"
+      },
+      {
+        "ingredient": "36 pitted dates",
+        "searchTerm": "dates pitted",
+        "normalizedName": "Date"
+      },
+      {
+        "ingredient": "36 walnut pieces",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Soften cream cheese at room temperature for easier mixing and piping",
+      "Pit dates carefully to avoid breaking them, or purchase pre-pitted dates"
+    ],
+    "coachingPrompt": "How will you balance the sharp Gorgonzola with the sweet dates? Consider the walnut placement for texture."
+  },
+  "timestamp": "2026-02-06T19:39:25.374Z"
+}

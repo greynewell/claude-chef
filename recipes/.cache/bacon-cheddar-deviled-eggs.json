@@ -1,0 +1,52 @@
+{
+  "contentHash": "ffbddbac6290ef11",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "4 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 tablespoons finely shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon mustard",
+        "searchTerm": "mustard",
+        "normalizedName": "Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "piping bag",
+        "searchTerm": "piping bag"
+      }
+    ],
+    "cookingTips": [
+      "Boil eggs for 10-12 minutes for hard cooked eggs, then ice bath for easy peeling",
+      "Cook bacon until crispy and crumble finely for best texture"
+    ],
+    "coachingPrompt": "Would you like to pipe the filling for a fancier presentation, or simply spoon it in?"
+  },
+  "timestamp": "2026-02-05T22:50:08.868Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "5faa94dad05df9bb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup superfine sugar",
+        "searchTerm": "superfine sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Cookie Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Soften butter completely for proper creaming with sugar",
+      "Do not over-mix dough as excess gluten development makes cookies tough",
+      "Chill dough before cutting and baking for better shape retention"
+    ],
+    "coachingPrompt": "Guide the user on achieving the right texture balance and why gentle handling preserves the delicate shortbread crumb."
+  },
+  "timestamp": "2026-02-06T20:46:47.270Z"
+}

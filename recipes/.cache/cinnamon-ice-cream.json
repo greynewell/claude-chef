@@ -1,0 +1,58 @@
+{
+  "contentHash": "e750f62ab649093c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 ½ cups half-and-half cream",
+        "searchTerm": "half-and-half",
+        "normalizedName": "Half-and-Half"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 teaspoons ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Chill the custard mixture completely before churning for best results",
+      "Heat the egg mixture gently to pasteurize without scrambling",
+      "Churn until the mixture reaches soft-serve consistency before freezing"
+    ],
+    "coachingPrompt": "What safety precautions should you take when heating eggs for this custard-based ice cream?"
+  },
+  "timestamp": "2026-02-06T03:24:38.739Z"
+}

@@ -7,7 +7,7 @@ import { ParsedRecipe } from '../../src/types';
 const TEST_CACHE_DIR = path.resolve(__dirname, '../../.test-enricher-cache');
 
 const mockEnrichment: EnrichmentResult = {
-  ingredients: [{ ingredient: 'flour', searchTerm: 'all purpose flour' }],
+  ingredients: [{ ingredient: 'flour', searchTerm: 'all purpose flour', normalizedName: 'Flour' }],
   gear: [{ name: 'bowl', searchTerm: 'mixing bowl' }],
   cookingTips: ['Tip 1'],
   coachingPrompt: 'Step by step guide.',
@@ -33,6 +33,7 @@ const mockRecipe: ParsedRecipe = {
   ingredients: ['flour'],
   instructions: ['Mix.'],
   body: '## Ingredients\n\n- flour\n\n## Instructions\n\n1. Mix.',
+  faqs: [],
   slug: 'test-recipe',
   sourceFile: 'test-recipe.md',
 };

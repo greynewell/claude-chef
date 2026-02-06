@@ -1,0 +1,68 @@
+{
+  "contentHash": "c38cbeca3abe1fe0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "bacon slices",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "frozen chopped spinach",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "crumbled blue cheese",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      },
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sharp knife for butterflying",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Skillet for searing",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Toothpicks or kitchen twine",
+        "searchTerm": "toothpicks"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken breasts to ½ inch thickness to create a larger surface for stuffing",
+      "Cook bacon until crispy, crumble it, and mix with spinach and blue cheese for the filling",
+      "Secure stuffed breasts with toothpicks or kitchen twine; sear skin-side down first for a golden crust"
+    ],
+    "coachingPrompt": "Help the cook butterfly chicken breasts safely and understand how to keep fillings intact during cooking."
+  },
+  "timestamp": "2026-02-06T02:26:30.637Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "8fef581c6c215057",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (6 ounce) can frozen orange juice concentrate",
+        "searchTerm": "frozen orange juice concentrate",
+        "normalizedName": "Frozen Orange Juice Concentrate"
+      },
+      {
+        "ingredient": "1 (12 ounce) can frozen lemonade concentrate",
+        "searchTerm": "frozen lemonade concentrate",
+        "normalizedName": "Frozen Lemonade Concentrate"
+      },
+      {
+        "ingredient": "1 (46 fluid ounce) can pineapple juice",
+        "searchTerm": "pineapple juice",
+        "normalizedName": "Pineapple Juice"
+      },
+      {
+        "ingredient": "1 ½ cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 cups strong brewed black tea",
+        "searchTerm": "black tea",
+        "normalizedName": "Black Tea"
+      },
+      {
+        "ingredient": "2 cups bourbon whiskey",
+        "searchTerm": "bourbon",
+        "normalizedName": "Bourbon"
+      },
+      {
+        "ingredient": "1 (2 liter) bottle lemon-lime flavored carbonated beverage",
+        "searchTerm": "lemon-lime soda",
+        "normalizedName": "Lemon-Lime Soda"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Container",
+        "searchTerm": "container"
+      },
+      {
+        "name": "Freezer",
+        "searchTerm": "freezer"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Mix all ingredients except soda in a large container and freeze in an ice cream maker if you have one, or in a freezer with occasional stirring",
+      "For a smoother slush texture, stir every 2-3 hours while freezing, or blend halfway through freezing",
+      "Add the lemon-lime soda just before serving to maintain carbonation and bright flavor"
+    ],
+    "coachingPrompt": "This is a party punch that can be made ahead. How do you prefer your slush texture—thick and icy or more liquid? That affects freezing time."
+  },
+  "timestamp": "2026-02-06T00:31:00.363Z"
+}

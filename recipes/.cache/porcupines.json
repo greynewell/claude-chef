@@ -1,0 +1,77 @@
+{
+  "contentHash": "23eb66ef9007cf1c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "½ cup uncooked white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon celery salt",
+        "searchTerm": "celery salt",
+        "normalizedName": "Celery Salt"
+      },
+      {
+        "ingredient": "⅛ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (15 ounce) can tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Measuring cups",
+        "searchTerm": "measuring cups"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Shape meatballs gently to avoid compacting them too much",
+      "Let the meatballs simmer uncovered so the rice cooks in the tomato liquid"
+    ],
+    "coachingPrompt": "Help the cook understand why this dish is called 'porcupines' and how the rice creates a unique texture."
+  },
+  "timestamp": "2026-02-06T15:03:28.319Z"
+}

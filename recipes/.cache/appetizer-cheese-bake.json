@@ -1,0 +1,53 @@
+{
+  "contentHash": "2830be33436bdfc3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg, lightly beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "3 cups finely shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 onion, finely chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Finely chop onion to distribute evenly throughout bake",
+      "Use freshly shredded cheese for better melting",
+      "Bake until golden brown and set in center, about 20-25 minutes"
+    ],
+    "coachingPrompt": "How can you prevent this cheese bake from becoming dry, and what texture indicates doneness?"
+  },
+  "timestamp": "2026-02-05T22:08:45.884Z"
+}

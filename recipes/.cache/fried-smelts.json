@@ -1,0 +1,48 @@
+{
+  "contentHash": "d2a26fd43340ef07",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 tablespoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¾ pound cleaned smelt",
+        "searchTerm": "smelt",
+        "normalizedName": "Smelt"
+      },
+      {
+        "ingredient": "1 cup vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "shallow bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "deep skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Pat smelts dry completely before flouring for crispest results",
+      "The salt in the flour coating creates a flavorful crust",
+      "Fry in batches without crowding, 2-3 minutes until light golden"
+    ],
+    "coachingPrompt": "Smelts are delicate small fish. Are you familiar with preparing whole fish?"
+  },
+  "timestamp": "2026-02-06T07:06:48.970Z"
+}

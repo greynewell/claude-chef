@@ -1,0 +1,47 @@
+{
+  "contentHash": "9d1b2ddc18cd1dac",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (8 ounce) cans refrigerated crescent rolls",
+        "searchTerm": "crescent rolls",
+        "normalizedName": "Crescent Roll"
+      },
+      {
+        "ingredient": "1 pound fresh lump crabmeat, drained",
+        "searchTerm": "fresh crab meat",
+        "normalizedName": "Crab Meat"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "⅓ cup cocktail sauce",
+        "searchTerm": "cocktail sauce",
+        "normalizedName": "Cocktail Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Fold crescent roll dough around filling to create pockets that seal during baking",
+      "Use quality lump crab for better texture and flavor in the filling"
+    ],
+    "coachingPrompt": "Coach the user on properly sealing the crescent roll dough around the crab filling to prevent leaking during baking."
+  },
+  "timestamp": "2026-02-06T04:03:50.216Z"
+}

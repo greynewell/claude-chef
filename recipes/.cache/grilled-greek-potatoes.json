@@ -1,0 +1,53 @@
+{
+  "contentHash": "af108a2b24fb57b7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 large russet potatoes, scrubbed",
+        "searchTerm": "russet potatoes",
+        "normalizedName": "Russet Potato"
+      },
+      {
+        "ingredient": "2 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon finely chopped garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon Greek seasoning",
+        "searchTerm": "Greek seasoning",
+        "normalizedName": "Greek Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "foil packets",
+        "searchTerm": "aluminum foil"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Pierce potatoes with a fork before wrapping to allow steam to escape",
+      "Wrap potatoes in foil and grill indirectly for even cooking, about 45 minutes",
+      "Drizzle with lemon oil mixture immediately after grilling while hot"
+    ],
+    "coachingPrompt": "Guide the user through indirect grilling and timing foil packet cooking for fluffy interiors and tender exteriors."
+  },
+  "timestamp": "2026-02-06T08:16:33.678Z"
+}

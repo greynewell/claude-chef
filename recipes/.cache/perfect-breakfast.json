@@ -1,0 +1,54 @@
+{
+  "contentHash": "9ba780497cf6de83",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "sourdough bread",
+        "searchTerm": "sourdough bread",
+        "normalizedName": "Sourdough Bread"
+      },
+      {
+        "ingredient": "Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "avocado",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      }
+    ],
+    "cookingTips": [
+      "Cook eggs to your preference—fried or scrambled both work well",
+      "Toast bread to golden brown for textural contrast with soft avocado",
+      "Assemble quickly after cooking so bread stays warm and crispy"
+    ],
+    "coachingPrompt": "How can I cook eggs to be creamy without overcooking them?"
+  },
+  "timestamp": "2026-02-06T14:34:09.068Z"
+}

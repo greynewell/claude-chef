@@ -1,0 +1,52 @@
+{
+  "contentHash": "b0d83b727170d823",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 tablespoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 (4.5 ounce) can sliced mushrooms, drained",
+        "searchTerm": "mushroom",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "meat spatula",
+        "searchTerm": "meat spatula"
+      }
+    ],
+    "cookingTips": [
+      "Don't overmix the burger meat—handle it gently to keep patties tender",
+      "Make an indentation in the center of each patty so it stays flat while cooking"
+    ],
+    "coachingPrompt": "Why is it important to drain the mushrooms before adding them to the burger mixture?"
+  },
+  "timestamp": "2026-02-06T07:19:14.394Z"
+}

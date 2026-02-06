@@ -1,0 +1,58 @@
+{
+  "contentHash": "ad1d8bf450d95d8e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (8 ounce) containers fat-free cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon green tea powder",
+        "searchTerm": "green tea powder",
+        "normalizedName": "Green Tea Powder"
+      },
+      {
+        "ingredient": "2 teaspoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 (9 inch) prepared graham cracker pie crust",
+        "searchTerm": "graham cracker crust",
+        "normalizedName": "Graham Cracker Crust"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Soften cream cheese at room temperature before beating to ensure a smooth, lump-free filling",
+      "Sift green tea powder into the filling to avoid clumps and distribute flavor evenly",
+      "Bake at a lower temperature (325°F) and watch for a slight jiggle in the center when done to prevent cracks"
+    ],
+    "coachingPrompt": "Remind the user that using fat-free cream cheese makes this lighter; full-fat will make it richer. Baking instructions matter—don't overbake."
+  },
+  "timestamp": "2026-02-06T08:08:33.010Z"
+}

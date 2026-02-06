@@ -1,0 +1,68 @@
+{
+  "contentHash": "61ef3cb7187205c2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 medium potatoes, cut into 1/4-inch slices",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 (14 ounce) jar pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "1 green bell pepper, chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 fresh mushrooms, chopped",
+        "searchTerm": "mushroom",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "1 (3 ounce) package sliced pepperoni",
+        "searchTerm": "pepperoni",
+        "normalizedName": "Pepperoni"
+      },
+      {
+        "ingredient": "1 (16 ounce) package shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Mandoline Slicer",
+        "searchTerm": "mandoline"
+      }
+    ],
+    "cookingTips": [
+      "Slice potatoes thin and uniform for crispy bases",
+      "Roast potato slices first until partially cooked before adding toppings",
+      "Add cheese in final 5 minutes to melt without burning"
+    ],
+    "coachingPrompt": "Show me how to make crispy potato bases for pizza toppings without burning the cheese"
+  },
+  "timestamp": "2026-02-06T16:26:43.529Z"
+}

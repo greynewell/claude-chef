@@ -1,0 +1,43 @@
+{
+  "contentHash": "811a8bbf3d6a5135",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 peaches, halved and pitted",
+        "searchTerm": "peaches",
+        "normalizedName": "Peach"
+      },
+      {
+        "ingredient": "1 pinch ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "½ cup molasses",
+        "searchTerm": "molasses",
+        "normalizedName": "Molasses"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "pastry brush"
+      },
+      {
+        "name": "serving platter",
+        "searchTerm": "serving platter"
+      }
+    ],
+    "cookingTips": [
+      "Use ripe but firm peaches to prevent falling apart on grill",
+      "Brush molasses mixture on cut side just before placing on grill",
+      "Grill for 2-3 minutes per side until caramelized and tender"
+    ],
+    "coachingPrompt": "Help the user select proper peaches and master the timing on the grill to achieve perfect caramelization without burning."
+  },
+  "timestamp": "2026-02-06T12:40:18.811Z"
+}

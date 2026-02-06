@@ -1,0 +1,58 @@
+{
+  "contentHash": "535f68e651c6f482",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices slightly stale thick bread, such as Texas toast",
+        "searchTerm": "thick bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "2 eggs, lightly beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 teaspoon cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "1 pinch ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Parchment Paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "Shallow Dish",
+        "searchTerm": "shallow dish"
+      }
+    ],
+    "cookingTips": [
+      "Use slightly stale bread to prevent sogginess",
+      "Cut bread into sticks before dipping for even cooking",
+      "Don't overcrowd the air fryer basket"
+    ],
+    "coachingPrompt": "What temperature and time would work best for crisping these French toast sticks in your air fryer?"
+  },
+  "timestamp": "2026-02-06T05:29:48.086Z"
+}

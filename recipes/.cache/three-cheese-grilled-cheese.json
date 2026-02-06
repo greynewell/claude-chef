@@ -1,0 +1,63 @@
+{
+  "contentHash": "88738409e5fbf765",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup figs",
+        "searchTerm": "figs",
+        "normalizedName": "Fig"
+      },
+      {
+        "ingredient": "1 cup shiitake mushrooms",
+        "searchTerm": "shiitake mushrooms",
+        "normalizedName": "Shiitake Mushroom"
+      },
+      {
+        "ingredient": "4 slices Dietz & Watson Havarti",
+        "searchTerm": "Havarti cheese",
+        "normalizedName": "Havarti Cheese"
+      },
+      {
+        "ingredient": "4 slices Dietz & Watson Yellow Cheddar",
+        "searchTerm": "Yellow Cheddar cheese",
+        "normalizedName": "Yellow Cheddar Cheese"
+      },
+      {
+        "ingredient": "4 slices Dietz & Watson Colby Jack",
+        "searchTerm": "Colby Jack cheese",
+        "normalizedName": "Colby Jack Cheese"
+      },
+      {
+        "ingredient": "4 slices hearth bread",
+        "searchTerm": "hearth bread",
+        "normalizedName": "Hearth Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Sauté the mushrooms and figs first to concentrate their flavors",
+      "Use three different cheeses for flavor complexity",
+      "Cook on medium heat and don't rush to allow cheese to melt fully"
+    ],
+    "coachingPrompt": "Guide the user through building a gourmet grilled cheese with fresh figs and mushrooms."
+  },
+  "timestamp": "2026-02-06T20:45:51.172Z"
+}

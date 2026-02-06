@@ -1,0 +1,63 @@
+{
+  "contentHash": "29c97a8e9d116475",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "4 (8 ounce) ahi tuna steaks",
+        "searchTerm": "ahi tuna steak",
+        "normalizedName": "Ahi Tuna Steak"
+      },
+      {
+        "ingredient": "½ cup white wine",
+        "searchTerm": "white wine",
+        "normalizedName": "White Wine"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 medium shallot, minced",
+        "searchTerm": "shallot",
+        "normalizedName": "Shallot"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 cups blood orange juice",
+        "searchTerm": "blood orange juice",
+        "normalizedName": "Blood Orange Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Sear tuna quickly over high heat; it's best served rare to medium-rare to maintain tenderness",
+      "Reduce blood orange juice separately to concentrate flavor and prevent over-reducing on the stove",
+      "Let tuna rest for 2-3 minutes after searing before slicing to retain moisture"
+    ],
+    "coachingPrompt": "How long should I sear ahi tuna to keep it rare in the center? What's the best way to reduce the blood orange sauce?"
+  },
+  "timestamp": "2026-02-06T14:04:31.527Z"
+}

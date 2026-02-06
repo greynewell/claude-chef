@@ -1,0 +1,68 @@
+{
+  "contentHash": "06ad27cb7058f5ef",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 onion, thinly sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ teaspoon ground cumin",
+        "searchTerm": "ground cumin",
+        "normalizedName": "Ground Cumin"
+      },
+      {
+        "ingredient": "1 cup Basmati rice",
+        "searchTerm": "basmati rice",
+        "normalizedName": "Basmati Rice"
+      },
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¾ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon garam masala",
+        "searchTerm": "garam masala",
+        "normalizedName": "Garam Masala"
+      },
+      {
+        "ingredient": "¾ cup frozen mixed vegetables",
+        "searchTerm": "frozen mixed vegetable",
+        "normalizedName": "Frozen Mixed Vegetable"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Medium pot with lid",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Fork for fluffing",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Rinse basmati rice under cold water for 2-3 minutes before cooking to remove excess starch and achieve separate grains",
+      "Toast rice in oil for 1-2 minutes before adding liquid to enhance nutty flavor",
+      "Add frozen vegetables in the last 5 minutes of cooking—no thawing needed"
+    ],
+    "coachingPrompt": "How does the rice-to-water ratio affect the final texture, and why is it important to not stir during cooking?"
+  },
+  "timestamp": "2026-02-06T09:42:44.984Z"
+}

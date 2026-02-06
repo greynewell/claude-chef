@@ -1,0 +1,62 @@
+{
+  "contentHash": "3a310e35cd1575f0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 (16 ounce) can pork and beans",
+        "searchTerm": "pork and beans",
+        "normalizedName": "Pork and Beans"
+      },
+      {
+        "ingredient": "½ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 tablespoons brown sugar, or more to taste",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon Worcestershire sauce",
+        "searchTerm": "worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon prepared mustard",
+        "searchTerm": "prepared mustard",
+        "normalizedName": "Prepared Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then crumble for even distribution",
+      "Don't drain all bacon grease—use it to flavor the beans",
+      "Bake covered to retain moisture, uncovered in final minutes for slight caramelization"
+    ],
+    "coachingPrompt": "Do you prefer your baked beans thick or saucy? Would you like tips on adjusting sweetness or making them ahead for a potluck?"
+  },
+  "timestamp": "2026-02-06T06:22:15.497Z"
+}

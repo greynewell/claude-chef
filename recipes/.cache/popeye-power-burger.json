@@ -1,0 +1,73 @@
+{
+  "contentHash": "d5a601bcdcefb336",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 pound lean ground beef",
+        "searchTerm": "lean ground beef",
+        "normalizedName": "Lean Ground Beef"
+      },
+      {
+        "ingredient": "1 cup quick-cooking oats",
+        "searchTerm": "quick-cooking oats",
+        "normalizedName": "Quick-Cooking Oat"
+      },
+      {
+        "ingredient": "1 cup diced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cup chopped spinach",
+        "searchTerm": "spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "2 cups shredded low-fat Mexican blend cheese",
+        "searchTerm": "Mexican blend cheese",
+        "normalizedName": "Mexican Blend Cheese"
+      },
+      {
+        "ingredient": "salt and ground black pepper, to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper, to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 whole-grain buns",
+        "searchTerm": "whole-grain buns",
+        "normalizedName": "Whole-Grain Bun"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Don't overwork the meat mixture to keep burgers tender",
+      "Make a small indent in the center to prevent doming while cooking",
+      "Use a meat thermometer to reach 160°F internal temperature"
+    ],
+    "coachingPrompt": "I want to make healthier burgers packed with spinach and oats. How do I balance the texture so they don't fall apart?"
+  },
+  "timestamp": "2026-02-06T15:02:30.579Z"
+}

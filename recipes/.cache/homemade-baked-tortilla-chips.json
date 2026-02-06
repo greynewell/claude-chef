@@ -1,0 +1,43 @@
+{
+  "contentHash": "78b3da9c68a69515",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) package flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "1 drizzle olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Pizza Cutter",
+        "searchTerm": "pizza cutter"
+      },
+      {
+        "name": "Pastry Brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Cut tortillas into triangles before brushing with oil for even coating",
+      "Arrange in single layer without overlapping for crispy chips",
+      "Watch carefully at end of baking time as they crisp up quickly"
+    ],
+    "coachingPrompt": "Why is it important not to overlap chips on the baking sheet? What temperature gives the crispiest result?"
+  },
+  "timestamp": "2026-02-06T09:11:17.017Z"
+}

@@ -1,0 +1,68 @@
+{
+  "contentHash": "d3c05af058052727",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 gallon apple juice",
+        "searchTerm": "apple juice",
+        "normalizedName": "Apple Juice"
+      },
+      {
+        "ingredient": "1 gallon apple cider",
+        "searchTerm": "apple cider",
+        "normalizedName": "Apple Cider"
+      },
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 cups brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "4 cinnamon sticks",
+        "searchTerm": "cinnamon sticks",
+        "normalizedName": "Cinnamon Stick"
+      },
+      {
+        "ingredient": "1 pinch apple pie spice",
+        "searchTerm": "apple pie spice",
+        "normalizedName": "Apple Pie Spice"
+      },
+      {
+        "ingredient": "1 (750 milliliter) bottle 190 proof grain alcohol",
+        "searchTerm": "grain alcohol",
+        "normalizedName": "Grain Alcohol"
+      },
+      {
+        "ingredient": "1 (750 milliliter) bottle vodka",
+        "searchTerm": "vodka",
+        "normalizedName": "Vodka"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Glass Jars",
+        "searchTerm": "large glass jars"
+      },
+      {
+        "name": "Cheesecloth",
+        "searchTerm": "cheesecloth"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "candy thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Combine juices and sugars gently without boiling to preserve alcohol content",
+      "Allow moonshine to age for at least 2-3 weeks for optimal flavor",
+      "Strain carefully through cheesecloth to remove spices while keeping liquid clear"
+    ],
+    "coachingPrompt": "Guide the user through the proper infusion and aging process for developing complex moonshine flavors."
+  },
+  "timestamp": "2026-02-05T22:15:34.765Z"
+}

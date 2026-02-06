@@ -1,0 +1,53 @@
+{
+  "contentHash": "fca0a731c04f202c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (5 1/2 pound) corned beef brisket with spice packet",
+        "searchTerm": "corned beef brisket",
+        "normalizedName": "Corned Beef Brisket"
+      },
+      {
+        "ingredient": "7 small potatoes, peeled and diced",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "4 carrots, peeled and diced",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "3 cloves garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 medium onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Don't skip rinsing the brisket to remove excess salt",
+      "Add vegetables in stages so they cook evenly",
+      "Use the spice packet that comes with the brisket for optimal flavor"
+    ],
+    "coachingPrompt": "Are you familiar with cooking large cuts of meat? Do you want guidance on timing and doneness?"
+  },
+  "timestamp": "2026-02-06T03:54:24.806Z"
+}

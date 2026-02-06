@@ -1,0 +1,43 @@
+{
+  "contentHash": "02d6d33a3f2ebfcd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 Dietz & Watson Natural Casing NY Style Beef Frank",
+        "searchTerm": "beef frank",
+        "normalizedName": "Beef Frank"
+      },
+      {
+        "ingredient": "1 pretzel roll",
+        "searchTerm": "pretzel roll",
+        "normalizedName": "Pretzel Roll"
+      },
+      {
+        "ingredient": "2 tablespoons caramelized onions",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 tablespoons processed cheese spread (such as Kraft® Cheez Whiz®)",
+        "searchTerm": "cheese whiz",
+        "normalizedName": "Processed Cheese Spread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill or Griddle",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Warm the pretzel roll to enhance texture and prevent sogginess",
+      "Apply Cheez Whiz while the hot dog is still warm for proper melting"
+    ],
+    "coachingPrompt": "What's the best way to warm a pretzel roll without drying it out?"
+  },
+  "timestamp": "2026-02-06T22:15:40.827Z"
+}

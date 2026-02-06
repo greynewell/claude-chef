@@ -1,0 +1,47 @@
+{
+  "contentHash": "90b154dd58d897c7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 small jalapeno or habanero peppers",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "6 ounces Monterey Jack cheese, cubed",
+        "searchTerm": "monterey jack cheese",
+        "normalizedName": "Monterey Jack Cheese"
+      },
+      {
+        "ingredient": "1 cup thinly sliced hard salami",
+        "searchTerm": "hard salami",
+        "normalizedName": "Hard Salami"
+      },
+      {
+        "ingredient": "wooden toothpicks",
+        "searchTerm": "wooden toothpicks",
+        "normalizedName": "Wooden Toothpick"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "sharp knife"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Wear gloves when handling peppers to avoid burning your skin",
+      "Soak wooden toothpicks in water for 30 minutes before using to prevent burning"
+    ],
+    "coachingPrompt": "Guide the user through carefully seeding peppers and assembling the appetizers by alternating cheese and salami on toothpicks."
+  },
+  "timestamp": "2026-02-06T10:14:39.291Z"
+}

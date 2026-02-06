@@ -1,0 +1,53 @@
+{
+  "contentHash": "389431959d750bc8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package spicy pork sausage",
+        "searchTerm": "spicy pork sausage",
+        "normalizedName": "Spicy Pork Sausage"
+      },
+      {
+        "ingredient": "30 jalapeno peppers",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 pounds turkey bacon",
+        "searchTerm": "turkey bacon",
+        "normalizedName": "Turkey Bacon"
+      },
+      {
+        "ingredient": "toothpicks",
+        "searchTerm": "toothpicks",
+        "normalizedName": "Toothpick"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Small Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausage thoroughly before filling peppers",
+      "Mix warm sausage with cream cheese for easier blending",
+      "Wrap each pepper individually with bacon before baking"
+    ],
+    "coachingPrompt": "How will you prepare and combine the sausage and cream cheese filling for consistent results across 30 peppers?"
+  },
+  "timestamp": "2026-02-06T10:16:40.117Z"
+}

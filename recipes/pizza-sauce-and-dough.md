@@ -1,0 +1,87 @@
+---
+title: "Pizza Sauce and Dough"
+description: "A delicious side dish made with warm water, active dry yeast. Ready in about 60 minutes and serves 12."
+author: "Siegela"
+prep_time: PT40M
+cook_time: PT20M
+servings: 12
+calories: 84
+recipe_category: Side Dish
+keywords:
+  - dish
+  - dough
+  - pizza
+  - sauce
+  - side
+recipe_ingredients:
+  - "Warm Water"
+  - "Active Dry Yeast"
+  - "White Sugar"
+  - "Bread Flour"
+  - "Italian-Style Seasoning"
+  - "Salt"
+  - "Flat Beer"
+  - "Olive Oil"
+  - "Onion"
+  - "Garlic"
+  - "Roma Tomatoes Juice"
+  - "Tomato Paste"
+allergies:
+  - Gluten
+flavors:
+  - Sweet
+  - Savory
+  - Umami
+  - Herbaceous
+tools:
+  - Skillet
+  - Mixing Bowl
+  - Saucepan
+  - Food Processor
+skill_level: Medium
+source_url: "https://www.allrecipes.com/recipe/32013/pizza-sauce-and-dough/"
+---
+
+## Ingredients
+
+- ¼ cup warm water (100 to 110 degrees)
+- 1 teaspoon active dry yeast
+- 1 teaspoon white sugar
+- 4 cups bread flour
+- 2 tablespoons Italian-style seasoning
+- 1 teaspoon salt, divided
+- 1 ¼ cups flat beer
+- 1 tablespoon olive oil
+- 2 tablespoons olive oil
+- ⅓ cup chopped onion
+- 2 tablespoons chopped garlic
+- 1 (28 ounce) can roma tomatoes, with juice
+- 2 (6 ounce) cans tomato paste
+- 1 tablespoon chopped fresh basil
+- 1 tablespoon chopped fresh parsley
+- 1 teaspoon chopped fresh oregano
+- ½ teaspoon black pepper
+
+## Instructions
+
+1. In a small bowl, dissolve yeast and sugar in warm water. Let stand until creamy, about 10 minutes.
+2. In a food processor, combine flour, Italian seasoning and salt. Pulse until mixed. Add yeast mixture, flat beer and oil. Pulse until a ball is formed. Scrape dough out onto a lightly floured surface, and knead for several minutes until dough is smooth and elastic. Allow dough to rest for 2 to 3 minutes. Divide dough in half, and shape into balls. Place dough balls in separate bowls, and cover with plastic wrap. Allow to rise at room temperature for about 1 hour, then store in the refrigerate overnight.
+3. To make the sauce: Heat olive oil in a saucepan over medium heat. Saute onions until tender. Stir in garlic, and cook for 1 minute. Crush tomatoes into saucepan. Add tomato paste, basil, parsley and oregano. Simmer for 10 minutes.
+
+## Frequently Asked Questions
+
+### How long does it take to make Pizza Sauce and Dough?
+
+This recipe takes approximately 1 hour from start to finish — 40 minutes of prep and 20 minutes of cooking. It is rated as medium difficulty.
+
+### How many servings does this Pizza Sauce and Dough recipe make?
+
+This recipe yields 12 servings. You can adjust the serving size using the servings slider above the ingredient list.
+
+### Can I make Pizza Sauce and Dough ahead of time? How should I store leftovers?
+
+Store leftovers in an airtight container in the refrigerator for up to 3-4 days.
+
+### How many calories are in Pizza Sauce and Dough?
+
+Each serving contains approximately 84 calories. The recipe serves 12.

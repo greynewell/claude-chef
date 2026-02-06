@@ -1,0 +1,68 @@
+{
+  "contentHash": "7073575bc0c62183",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15 ounce) package pastry for a 9-inch double-crust pie",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      },
+      {
+        "ingredient": "8 cups frozen mixed berries",
+        "searchTerm": "frozen berries",
+        "normalizedName": "Frozen Berry"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ cup cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "¼ cup berry-flavored liqueur (such as Whidbey)",
+        "searchTerm": "berry liqueur",
+        "normalizedName": "Berry Liqueur"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 tablespoon half-and-half",
+        "searchTerm": "half and half",
+        "normalizedName": "Half-and-Half"
+      },
+      {
+        "ingredient": "1 large egg yolk",
+        "searchTerm": "egg yolk",
+        "normalizedName": "Egg Yolk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9-inch pie dish",
+        "searchTerm": "pie dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Don't thaw frozen berries; toss them directly into filling to prevent excess liquid",
+      "Mix cornstarch with sugar before adding berries to distribute evenly and prevent clumping",
+      "Brush egg wash on crust before baking for golden color"
+    ],
+    "coachingPrompt": "Why would you avoid thawing the berries? How does cornstarch help achieve the right pie filling consistency?"
+  },
+  "timestamp": "2026-02-06T05:34:07.250Z"
+}

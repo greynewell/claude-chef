@@ -1,0 +1,68 @@
+{
+  "contentHash": "2dde5e3b9564bc56",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds clean, scrubbed new red potatoes",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "6 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 pound bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 onion, finely chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 stalk celery, finely chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "2 cups mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Large Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook potatoes and eggs together for efficiency; start potatoes first, add eggs halfway through",
+      "Dice warm potatoes and toss with dressing to absorb flavors better",
+      "Cook bacon until crispy, then crumble just before serving to maintain texture"
+    ],
+    "coachingPrompt": "I want to make a classic bacon and potato salad. Should I dress the warm potatoes or let them cool first?"
+  },
+  "timestamp": "2026-02-06T16:04:14.569Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "8c0987dd5ceb64db",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "Vegetable oil, for deep-frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 green plantain, peeled and sliced 1/8-inch thick",
+        "searchTerm": "green plantains",
+        "normalizedName": "Green Plantain"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep Fryer or Pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Maintain oil temperature at 350°F for crispy chips without excess grease",
+      "Slice plantains as uniformly as possible for even cooking",
+      "Pat chips dry and season immediately after frying while still hot"
+    ],
+    "coachingPrompt": "Explain the difference between frying green plantains for chips versus ripe plantains, and why oil temperature is critical."
+  },
+  "timestamp": "2026-02-06T14:56:14.058Z"
+}

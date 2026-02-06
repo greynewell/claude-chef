@@ -1,0 +1,62 @@
+{
+  "contentHash": "9bc73e72e148b91d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ½ pounds red potatoes, cubed",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "1 cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ bunch green onions, chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon real bacon bits",
+        "searchTerm": "bacon bits",
+        "normalizedName": "Bacon Bit"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cool potatoes slightly before mixing with dressing so it doesn't separate",
+      "Reserve some bacon bits and cheese for garnish to add texture to the top"
+    ],
+    "coachingPrompt": "When should potatoes be tossed with dressing—hot or cold?"
+  },
+  "timestamp": "2026-02-06T01:53:00.003Z"
+}

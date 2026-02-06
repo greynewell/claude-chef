@@ -1,0 +1,53 @@
+{
+  "contentHash": "6dfe7f5492b80eac",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ cup long-grain white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "1 cup frozen green peas",
+        "searchTerm": "frozen peas",
+        "normalizedName": "Frozen Pea"
+      },
+      {
+        "ingredient": "½ cup chopped fresh parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "Salt and freshly ground black pepper",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "Salt and freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "Cook rice until tender but not mushy",
+      "Fresh parsley adds brightness at the end",
+      "Season to taste just before serving"
+    ],
+    "coachingPrompt": "This recipe appears incomplete—it's missing broth and chicken. Would you like help developing the full recipe?"
+  },
+  "timestamp": "2026-02-06T03:30:37.555Z"
+}

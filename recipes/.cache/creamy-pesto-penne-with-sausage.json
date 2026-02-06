@@ -1,0 +1,53 @@
+{
+  "contentHash": "93f451eb1958a19a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package penne pasta",
+        "searchTerm": "penne pasta",
+        "normalizedName": "Penne Pasta"
+      },
+      {
+        "ingredient": "½ pound ground sausage",
+        "searchTerm": "ground sausage",
+        "normalizedName": "Ground Sausage"
+      },
+      {
+        "ingredient": "1 (1.2 ounce) package creamy pesto sauce mix (such as Knorr®)",
+        "searchTerm": "pesto sauce mix",
+        "normalizedName": "Pesto Sauce Mix"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Brown the sausage completely and break it into small pieces for even distribution",
+      "Whisk the pesto sauce mix with milk until smooth before adding to prevent lumps",
+      "Toss hot pasta with the sauce immediately for better coating and flavor absorption"
+    ],
+    "coachingPrompt": "Help the user create a quick weeknight meal using convenience products. Guide them on properly browning sausage and combining the sauce components for a cohesive dish."
+  },
+  "timestamp": "2026-02-06T04:30:10.115Z"
+}

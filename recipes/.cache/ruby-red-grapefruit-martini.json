@@ -1,0 +1,52 @@
+{
+  "contentHash": "f6ad4b8755e7c4a6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup ice",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      },
+      {
+        "ingredient": "2 fluid ounces Ruby red grapefruit juice",
+        "searchTerm": "grapefruit juice",
+        "normalizedName": "Grapefruit Juice"
+      },
+      {
+        "ingredient": "1 fluid ounce vodka",
+        "searchTerm": "vodka",
+        "normalizedName": "Vodka"
+      },
+      {
+        "ingredient": "1 fluid ounce triple sec",
+        "searchTerm": "triple sec",
+        "normalizedName": "Triple Sec"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cocktail shaker",
+        "searchTerm": "cocktail shaker"
+      },
+      {
+        "name": "Martini glass",
+        "searchTerm": "martini glass"
+      },
+      {
+        "name": "Jigger",
+        "searchTerm": "jigger"
+      }
+    ],
+    "cookingTips": [
+      "Chill the martini glass before serving for optimal temperature",
+      "Shake vigorously with ice for 10-15 seconds to properly chill and dilute the cocktail"
+    ],
+    "coachingPrompt": "Guide the user through proper cocktail shaking technique and sugar rim application for presentation."
+  },
+  "timestamp": "2026-02-06T16:37:06.664Z"
+}

@@ -1,0 +1,47 @@
+{
+  "contentHash": "48128e753f83d120",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups whole unskinned almonds, lightly toasted",
+        "searchTerm": "whole unskinned almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "1 ½ cups confectioners' sugar",
+        "searchTerm": "confectioners' sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "1 large fresh egg white, at room temperature, lightly beaten, or more as needed",
+        "searchTerm": "egg white",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "¼ teaspoon almond extract",
+        "searchTerm": "almond extract",
+        "normalizedName": "Almond Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Toast almonds lightly to enhance flavor before processing",
+      "Add egg white gradually to reach desired consistency"
+    ],
+    "coachingPrompt": "Guide the user on pulsing techniques in a food processor to achieve proper paste texture without over-processing."
+  },
+  "timestamp": "2026-02-05T21:55:19.469Z"
+}

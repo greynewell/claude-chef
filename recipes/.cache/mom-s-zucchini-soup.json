@@ -1,0 +1,63 @@
+{
+  "contentHash": "35644013d328c2d0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "4 onions, minced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cups sliced zucchini",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "4 cups chicken stock, divided",
+        "searchTerm": "chicken stock",
+        "normalizedName": "Chicken Stock"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "immersion blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Blend soup until desired consistency - leave chunky or make completely smooth",
+      "Add milk at the end to prevent curdling when heating",
+      "Taste and adjust seasoning after cooking as flavors develop"
+    ],
+    "coachingPrompt": "Should I blend this soup or leave it chunky, and when should I add the milk?"
+  },
+  "timestamp": "2026-02-06T12:47:07.812Z"
+}

@@ -1,0 +1,47 @@
+{
+  "contentHash": "22dd733f4b5096f9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup red wine",
+        "searchTerm": "red wine",
+        "normalizedName": "Red Wine"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 sprig fresh rosemary",
+        "searchTerm": "fresh rosemary",
+        "normalizedName": "Rosemary"
+      },
+      {
+        "ingredient": "4 New York strip steaks, cut 1-inch thick",
+        "searchTerm": "New York strip steak",
+        "normalizedName": "New York Strip Steak"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill or cast iron skillet"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "steak tongs"
+      }
+    ],
+    "cookingTips": [
+      "Let steaks marinate in wine and rosemary for at least 2 hours",
+      "Pat steaks dry before grilling and season with salt just before cooking"
+    ],
+    "coachingPrompt": "How do I achieve a perfect sear on my steak?"
+  },
+  "timestamp": "2026-02-06T16:35:07.583Z"
+}

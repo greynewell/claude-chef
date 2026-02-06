@@ -1,0 +1,53 @@
+{
+  "contentHash": "28bf964a3ee3806f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) package Green Giant® Riced Cauliflower",
+        "searchTerm": "riced cauliflower",
+        "normalizedName": "Riced Cauliflower"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅓ cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "Your favorite pizza toppings",
+        "searchTerm": "pizza toppings",
+        "normalizedName": "Pizza Topping"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Use pre-riced cauliflower for convenience and consistent texture",
+      "Squeeze thawed cauliflower in a clean kitchen towel to remove as much liquid as possible",
+      "Pre-bake crust for 20-25 minutes before adding toppings to crisp the bottom"
+    ],
+    "coachingPrompt": "What steps would you take to prevent a soggy crust when using frozen riced cauliflower?"
+  },
+  "timestamp": "2026-02-06T01:36:35.341Z"
+}

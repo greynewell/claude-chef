@@ -1,0 +1,88 @@
+{
+  "contentHash": "648a97db0409458d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups dried chickpeas (garbanzo beans)",
+        "searchTerm": "dried chickpeas",
+        "normalizedName": "Dried Chickpea"
+      },
+      {
+        "ingredient": "water to cover",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup roughly chopped cilantro leaves and stems",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "2 medium eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "5 cloves garlic, peeled",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "3 tablespoons chickpea flour",
+        "searchTerm": "chickpea flour",
+        "normalizedName": "Chickpea Flour"
+      },
+      {
+        "ingredient": "2 tablespoons tahini",
+        "searchTerm": "tahini",
+        "normalizedName": "Tahini"
+      },
+      {
+        "ingredient": "2 teaspoons ground coriander",
+        "searchTerm": "coriander",
+        "normalizedName": "Coriander"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground cumin",
+        "searchTerm": "cumin",
+        "normalizedName": "Cumin"
+      },
+      {
+        "ingredient": "½ teaspoon chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "½ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Soak dried chickpeas overnight and cook until just tender for best texture",
+      "Don't overprocess mixture; some texture should remain for burger structure",
+      "Chill formed patties for 30 minutes before frying for better shape retention"
+    ],
+    "coachingPrompt": "Why is it important not to overprocess the chickpea mixture?"
+  },
+  "timestamp": "2026-02-06T06:17:20.159Z"
+}

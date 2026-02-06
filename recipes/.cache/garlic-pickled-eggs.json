@@ -1,0 +1,57 @@
+{
+  "contentHash": "bda7b3032ae1977a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 onion, sliced into rings",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cup distilled white vinegar",
+        "searchTerm": "distilled white vinegar",
+        "normalizedName": "Distilled White Vinegar"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "10 cloves garlic, peeled",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Glass Jar",
+        "searchTerm": "glass jar"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Boil eggs until hard-cooked, then cool before peeling",
+      "Let pickled eggs rest in refrigerator for at least 3-5 days before eating for best flavor"
+    ],
+    "coachingPrompt": "How will you achieve perfectly pickled eggs with well-developed garlic flavor?"
+  },
+  "timestamp": "2026-02-06T07:20:02.617Z"
+}

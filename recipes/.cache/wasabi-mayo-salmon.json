@@ -1,0 +1,48 @@
+{
+  "contentHash": "6c30a37fb0faf011",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (3 pound) salmon fillet",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 tablespoon wasabi powder",
+        "searchTerm": "wasabi powder",
+        "normalizedName": "Wasabi Powder"
+      },
+      {
+        "ingredient": "1 (8 ounce) bag Yukon gold potato chips, crushed",
+        "searchTerm": "yukon gold potato chips",
+        "normalizedName": "Yukon Gold Potato Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Crush potato chips just before assembling to maintain crispness",
+      "Spread wasabi mayo evenly for consistent heat throughout",
+      "Bake at 400°F until salmon is cooked through but still moist"
+    ],
+    "coachingPrompt": "Help the user create a crunchy, flavorful salmon crust that combines crispy chips with spicy mayo topping."
+  },
+  "timestamp": "2026-02-06T21:57:29.572Z"
+}

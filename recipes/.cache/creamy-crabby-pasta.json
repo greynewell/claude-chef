@@ -1,0 +1,62 @@
+{
+  "contentHash": "7c12b15b73428241",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package farfalle (bow tie) pasta",
+        "searchTerm": "farfalle pasta",
+        "normalizedName": "Farfalle Pasta"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of celery soup",
+        "searchTerm": "cream of celery soup",
+        "normalizedName": "Cream of Celery Soup"
+      },
+      {
+        "ingredient": "10 ¾ fluid ounces milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "¾ pound imitation crabmeat, flaked",
+        "searchTerm": "imitation crabmeat",
+        "normalizedName": "Imitation Crabmeat"
+      },
+      {
+        "ingredient": "1 bunch green onions, sliced",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 cup frozen green peas",
+        "searchTerm": "frozen peas",
+        "normalizedName": "Frozen Pea"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "pasta strainer"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "stirring spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta al dente to prevent mushiness when mixed with creamy sauce",
+      "Soften cream cheese in advance for smoother incorporation"
+    ],
+    "coachingPrompt": "Guide the user to combine the soup and milk first to create a smooth base before adding cream cheese to prevent lumps."
+  },
+  "timestamp": "2026-02-06T04:26:12.754Z"
+}

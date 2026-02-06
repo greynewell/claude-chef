@@ -1,0 +1,73 @@
+{
+  "contentHash": "69c600a33d6e4046",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "white sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "Easter-colored candy-coated chocolate pieces",
+        "searchTerm": "M&Ms",
+        "normalizedName": "Candy-Coated Chocolate Piece"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Cookie Scoop",
+        "searchTerm": "cookie scoop"
+      },
+      {
+        "name": "Electric Mixer",
+        "searchTerm": "hand mixer"
+      }
+    ],
+    "cookingTips": [
+      "Add candies after dough is mixed to prevent them from breaking",
+      "Chill dough for 30 minutes before baking for better shape retention",
+      "Slightly underbake cookies for a chewier texture"
+    ],
+    "coachingPrompt": "Help the baker understand the balance between brown and white sugar for flavor and texture, and advise on candy placement timing."
+  },
+  "timestamp": "2026-02-06T05:28:59.759Z"
+}

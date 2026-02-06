@@ -1,0 +1,63 @@
+{
+  "contentHash": "73ea923acaf621e2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅓ cup sake",
+        "searchTerm": "sake",
+        "normalizedName": "Sake"
+      },
+      {
+        "ingredient": "⅓ cup mirin",
+        "searchTerm": "mirin",
+        "normalizedName": "Mirin"
+      },
+      {
+        "ingredient": "3 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "¼ cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "⅓ cup miso paste",
+        "searchTerm": "miso paste",
+        "normalizedName": "Miso Paste"
+      },
+      {
+        "ingredient": "4 (4 ounce) fillets fresh sea bass, about 1 inch thick",
+        "searchTerm": "sea bass fillet",
+        "normalizedName": "Sea Bass"
+      },
+      {
+        "ingredient": "2 tablespoons chopped green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "shallow baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "brush",
+        "searchTerm": "pastry brush"
+      },
+      {
+        "name": "instant-read thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Mix miso glaze and let cool slightly before applying to fish",
+      "Marinate fish for 15-30 minutes for best flavor absorption",
+      "Watch carefully as miso can burn; baste if needed during cooking"
+    ],
+    "coachingPrompt": "How will you keep the fish from sticking? Should you marinate before or during cooking?"
+  },
+  "timestamp": "2026-02-06T12:34:30.456Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "c8acc6217d2367c7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup grated Romano cheese",
+        "searchTerm": "Romano cheese",
+        "normalizedName": "Romano Cheese"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (1 pound) loaf French bread",
+        "searchTerm": "French bread",
+        "normalizedName": "French Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "bread knife",
+        "searchTerm": "serrated knife"
+      }
+    ],
+    "cookingTips": [
+      "Slice bread thin and evenly for uniform crisping in the oven",
+      "Blend cheese mixture until smooth and spreadable before topping bread",
+      "Bake at high temperature until golden and bubbly, watching closely to prevent burning"
+    ],
+    "coachingPrompt": "How do you achieve a crispy texture? What's the benefit of mixing cream cheese with Romano?"
+  },
+  "timestamp": "2026-02-06T16:32:17.108Z"
+}

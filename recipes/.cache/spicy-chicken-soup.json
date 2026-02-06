@@ -1,0 +1,63 @@
+{
+  "contentHash": "f40d8a81293373c1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cup diced green bell pepper",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "2 cloves garlic, pressed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 (14.5 ounce) cans chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 cup chopped cooked chicken breast",
+        "searchTerm": "cooked chicken breast",
+        "normalizedName": "Cooked Chicken Breast"
+      },
+      {
+        "ingredient": "1 (10 ounce) can diced tomatoes with green chile peppers",
+        "searchTerm": "diced tomatoes green chiles",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large soup pot",
+        "searchTerm": "soup pot"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Sauté aromatics until fragrant before adding broth",
+      "Use pre-cooked chicken to reduce cooking time",
+      "Simmer rather than boil to maintain chicken texture"
+    ],
+    "coachingPrompt": "Help the user create a flavorful base by properly caramelizing vegetables and building layers of flavor."
+  },
+  "timestamp": "2026-02-06T18:57:47.542Z"
+}

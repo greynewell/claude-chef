@@ -1,0 +1,43 @@
+{
+  "contentHash": "e7cb018704c48fb9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (1 pound) Maine lobsters",
+        "searchTerm": "Maine lobster",
+        "normalizedName": "Maine Lobster"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 quart whole milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Cooking Utensils",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Strainer",
+        "searchTerm": "fine mesh strainer"
+      }
+    ],
+    "cookingTips": [
+      "Steam or boil lobsters until shells turn red and meat is opaque",
+      "Extract all meat from claws and tail carefully",
+      "Heat milk gently to prevent scorching while melting butter"
+    ],
+    "coachingPrompt": "Guide the user through properly cooking whole lobsters and extracting meat without damage."
+  },
+  "timestamp": "2026-02-05T22:34:28.856Z"
+}

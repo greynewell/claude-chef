@@ -1,0 +1,44 @@
+{
+  "contentHash": "097f64cc3aa1a9cc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 russet potatoes",
+        "searchTerm": "russet potatoes",
+        "normalizedName": "Russet Potato"
+      },
+      {
+        "ingredient": "¼ teaspoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 sheets aluminum foil",
+        "searchTerm": "aluminum foil",
+        "normalizedName": "Aluminum Foil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "outdoor grill"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "grilling tongs"
+      }
+    ],
+    "cookingTips": [
+      "Pierce potatoes with fork to allow steam to escape",
+      "Wrap potatoes tightly in foil to trap heat and moisture",
+      "Cook over medium heat for 30-45 minutes until tender"
+    ],
+    "coachingPrompt": "How do you ensure even cooking of potatoes on a grill, and what signs indicate they're done?"
+  },
+  "timestamp": "2026-02-05T23:11:39.005Z"
+}

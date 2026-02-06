@@ -1,0 +1,53 @@
+{
+  "contentHash": "4ade04fe90801956",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound bacon, coarsely chopped",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 pound dry penne pasta",
+        "searchTerm": "penne pasta",
+        "normalizedName": "Penne Pasta"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy for maximum flavor and texture",
+      "Reserve some pasta water to create a silky sauce when tossing",
+      "Toast the onions in bacon fat before adding other ingredients"
+    ],
+    "coachingPrompt": "How would you adjust the sauce consistency if it seems too dry after tossing?"
+  },
+  "timestamp": "2026-02-05T22:49:20.380Z"
+}

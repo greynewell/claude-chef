@@ -1,0 +1,63 @@
+{
+  "contentHash": "ae2a5c8e17ca0c7e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 bunch cilantro leaves, chopped",
+        "searchTerm": "fresh cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "2 cloves garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 cups honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "juice from one lime",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "4 salmon steaks",
+        "searchTerm": "salmon steak",
+        "normalizedName": "Salmon Steak"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill mat or foil",
+        "searchTerm": "grill mat"
+      },
+      {
+        "name": "basting brush",
+        "searchTerm": "basting brush"
+      }
+    ],
+    "cookingTips": [
+      "Create a cilantro-honey marinade and reserve half to brush on salmon during final minutes of cooking",
+      "Use a grill mat to prevent delicate salmon from sticking to grates",
+      "Cook salmon skin-side up first, then flip carefully to avoid breaking apart"
+    ],
+    "coachingPrompt": "Guide the user through cooking salmon to avoid dryness while building a caramelized exterior with the honey glaze."
+  },
+  "timestamp": "2026-02-06T08:14:29.567Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "8794c518b76e4196",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon oil, peanut or sesame",
+        "searchTerm": "peanut oil",
+        "normalizedName": "Peanut Oil"
+      },
+      {
+        "ingredient": "2 cloves garlic, thinly sliced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 pound fresh green beans, trimmed",
+        "searchTerm": "green bean",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons oyster sauce",
+        "searchTerm": "oyster sauce",
+        "normalizedName": "Oyster Sauce"
+      },
+      {
+        "ingredient": "2 teaspoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Wok or skillet",
+        "searchTerm": "wok"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Trim green beans and pat dry for better browning",
+      "Add garlic at the very end to prevent burning",
+      "Toss constantly to cook evenly and build light char on beans"
+    ],
+    "coachingPrompt": "How would you achieve those signature slightly charred edges on restaurant-style green beans?"
+  },
+  "timestamp": "2026-02-06T02:51:55.038Z"
+}

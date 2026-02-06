@@ -1,0 +1,58 @@
+{
+  "contentHash": "fe43955633975a94",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 English muffins, split",
+        "searchTerm": "English muffins",
+        "normalizedName": "English Muffin"
+      },
+      {
+        "ingredient": "1 (16 ounce) can maple cured baked beans",
+        "searchTerm": "baked beans",
+        "normalizedName": "Baked Bean"
+      },
+      {
+        "ingredient": "1 medium onion, thinly sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 medium tomatoes, cut into 1/4 inch slices",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "4 slices Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "4 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "sharp knife"
+      }
+    ],
+    "cookingTips": [
+      "Toast English muffins lightly before building the sandwich to prevent sogginess from the beans",
+      "Layer ingredients in order: beans, onion, tomato, cheese, and bacon for structural integrity",
+      "Bake until cheese is melted and bacon is crispy, about 10-12 minutes at 375°F"
+    ],
+    "coachingPrompt": "How can you build an open-faced sandwich that remains structurally sound while melting cheese and crisping bacon?"
+  },
+  "timestamp": "2026-02-05T22:58:19.113Z"
+}

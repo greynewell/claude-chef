@@ -1,0 +1,83 @@
+{
+  "contentHash": "32742f221ab8d40d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tomatoes, diced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 (16 ounce) package fresh mozzarella cheese, diced",
+        "searchTerm": "fresh mozzarella",
+        "normalizedName": "Fresh Mozzarella"
+      },
+      {
+        "ingredient": "1 onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cucumber, peeled and diced",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "1 avocado - peeled, pitted, and diced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "½ cup orange juice",
+        "searchTerm": "orange juice",
+        "normalizedName": "Orange Juice"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 tablespoons minced fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "2 teaspoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef knife"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Prepare all ingredients just before serving to maintain freshness and avoid browning avocado",
+      "Dice vegetables evenly for consistent texture and appearance",
+      "Use fresh citrus juice for bright, vibrant flavor"
+    ],
+    "coachingPrompt": "Guide the user through quick prep work and help them understand why timing is crucial to prevent oxidation of fresh ingredients."
+  },
+  "timestamp": "2026-02-06T21:04:02.864Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "741f944e90c0e949",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "9 pounds fully-cooked, bone-in ham",
+        "searchTerm": "bone-in ham",
+        "normalizedName": "Bone-In Ham"
+      },
+      {
+        "ingredient": "1 cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "¼ cup yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Score the ham surface in a crosshatch pattern before applying the glaze",
+      "Create a glaze by mixing brown sugar and mustard, applying it during the last 15-20 minutes of cooking",
+      "Grill over indirect heat to prevent burning the outside while heating through"
+    ],
+    "coachingPrompt": "How will you prevent a large ham from drying out on the grill, and what internal temperature should you reach?"
+  },
+  "timestamp": "2026-02-06T08:17:29.799Z"
+}

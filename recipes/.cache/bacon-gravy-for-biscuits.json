@@ -1,0 +1,58 @@
+{
+  "contentHash": "ab226d4cac72fad2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 thick slices bacon",
+        "searchTerm": "bacon slices",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 cup milk, or as needed",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (10 ounce) can refrigerated biscuit dough",
+        "searchTerm": "biscuit dough",
+        "normalizedName": "Biscuit Dough"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Reserve bacon fat in pan and cook flour in it to create a proper roux base",
+      "Whisk milk in slowly to prevent lumps from forming in gravy",
+      "Crumble crispy bacon into finished gravy for texture and flavor distribution"
+    ],
+    "coachingPrompt": "Guide the user in creating a silky, flavorful bacon gravy with proper roux technique."
+  },
+  "timestamp": "2026-02-05T22:51:06.702Z"
+}

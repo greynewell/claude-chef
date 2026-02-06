@@ -1,0 +1,53 @@
+{
+  "contentHash": "70b2be9bb4aa56fa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "2 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "1 banana, peeled and sliced",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "3 slices cooked bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 ½ teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy and drain on paper towels before layering",
+      "Slice banana just before assembly to prevent browning",
+      "Toast sandwich lightly until bread is golden and peanut butter is warm"
+    ],
+    "coachingPrompt": "Why is the Elvis sandwich considered an iconic comfort food pairing?"
+  },
+  "timestamp": "2026-02-06T06:17:20.159Z"
+}

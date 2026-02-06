@@ -1,0 +1,42 @@
+{
+  "contentHash": "545ea3454feee6a7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup self-rising flour",
+        "searchTerm": "self-rising flour",
+        "normalizedName": "Self-Rising Flour"
+      },
+      {
+        "ingredient": "½ cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Muffin tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use softened butter to ensure even distribution and rise",
+      "Don't overmix; combine ingredients just until incorporated"
+    ],
+    "coachingPrompt": "Help the user understand this 3-ingredient recipe requires gentle handling."
+  },
+  "timestamp": "2026-02-06T19:53:07.396Z"
+}

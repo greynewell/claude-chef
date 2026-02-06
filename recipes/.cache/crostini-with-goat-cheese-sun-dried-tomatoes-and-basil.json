@@ -1,0 +1,59 @@
+{
+  "contentHash": "8992c20b18490cd3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 baguette, sliced",
+        "searchTerm": "baguette",
+        "normalizedName": "Baguette"
+      },
+      {
+        "ingredient": "¼ cup extra-virgin olive oil",
+        "searchTerm": "extra-virgin olive oil",
+        "normalizedName": "Extra-Virgin Olive Oil"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (11 ounce) log chevre (soft goat cheese)",
+        "searchTerm": "chevre goat cheese",
+        "normalizedName": "Chevre Goat Cheese"
+      },
+      {
+        "ingredient": "1 (8 ounce) jar oil-packed sun-dried tomatoes, drained and cut into thirds",
+        "searchTerm": "sun-dried tomatoes",
+        "normalizedName": "Sun-Dried Tomato"
+      },
+      {
+        "ingredient": "1 bunch fresh basil leaves, washed and dried",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Basil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "small knife",
+        "searchTerm": "paring knife"
+      }
+    ],
+    "cookingTips": [
+      "Toast crostini lightly so they have structure to hold creamy goat cheese without crumbling",
+      "Spread goat cheese while crostini are still warm for easier application",
+      "Add sun-dried tomatoes and fresh basil just before serving to maintain texture contrast"
+    ],
+    "coachingPrompt": "Help the cook balance creamy goat cheese with tangy sun-dried tomatoes and bright basil, assembling just before service for optimal texture."
+  },
+  "timestamp": "2026-02-06T04:42:46.855Z"
+}

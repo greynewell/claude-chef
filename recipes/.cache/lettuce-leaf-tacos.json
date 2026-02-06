@@ -1,0 +1,73 @@
+{
+  "contentHash": "09e2b2090f65a003",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 green bell pepper, chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 yellow onion, chopped",
+        "searchTerm": "yellow onion",
+        "normalizedName": "Yellow Onion"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 tablespoons chicken stock  (Optional)",
+        "searchTerm": "chicken stock",
+        "normalizedName": "Chicken Stock"
+      },
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "3 tablespoons taco seasoning",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning"
+      },
+      {
+        "ingredient": "2 large roma (plum) tomatoes, chopped",
+        "searchTerm": "roma tomatoes",
+        "normalizedName": "Roma Tomato"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 (8 ounce) package shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "12 large romaine lettuce leaves",
+        "searchTerm": "romaine lettuce",
+        "normalizedName": "Romaine Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly and drain excess fat before adding seasonings",
+      "Warm lettuce leaves slightly to improve pliability"
+    ],
+    "coachingPrompt": "How can you prevent the lettuce from cracking when you fold these tacos?"
+  },
+  "timestamp": "2026-02-06T11:22:27.684Z"
+}

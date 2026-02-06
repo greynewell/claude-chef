@@ -1,0 +1,44 @@
+{
+  "contentHash": "2dd6e3974f246605",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 ounces elbow macaroni",
+        "searchTerm": "elbow macaroni",
+        "normalizedName": "Elbow Macaroni"
+      },
+      {
+        "ingredient": "4 ounces cubed processed cheese food",
+        "searchTerm": "processed cheese food",
+        "normalizedName": "Processed Cheese Food"
+      },
+      {
+        "ingredient": "2 fluid ounces milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta according to package directions, drain but don't rinse to keep starch for creaminess",
+      "Return pasta to hot pot and add cheese and milk off heat so cheese melts smoothly",
+      "Stir constantly as cheese melts for uniform color and texture"
+    ],
+    "coachingPrompt": "Why keep heat low when adding cheese? What does pasta starch contribute?"
+  },
+  "timestamp": "2026-02-06T05:27:03.257Z"
+}

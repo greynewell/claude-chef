@@ -1,0 +1,62 @@
+{
+  "contentHash": "94500a3a402783e9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 ½ cups pumpkin puree",
+        "searchTerm": "pumpkin puree",
+        "normalizedName": "Pumpkin Puree"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ cup butter, melted and cooled",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 (0.6 ounce) cake compressed fresh yeast",
+        "searchTerm": "fresh yeast",
+        "normalizedName": "Fresh Yeast"
+      },
+      {
+        "ingredient": "5 cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "dough hook",
+        "searchTerm": "dough hook"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Fresh yeast requires different hydration than dry yeast—measure carefully",
+      "Pumpkin adds moisture, so you may need slightly less liquid than traditional rolls"
+    ],
+    "coachingPrompt": "How do I work with fresh yeast instead of dry, and how does pumpkin change the dough?"
+  },
+  "timestamp": "2026-02-06T15:30:26.098Z"
+}

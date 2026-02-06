@@ -1,0 +1,68 @@
+{
+  "contentHash": "7d9667612bd84cd6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 slices ham, chopped  (Optional)",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "½ cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon chopped onion  (Optional)",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 tablespoon chopped green bell pepper  (Optional)",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh tomato  (Optional)",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 tablespoon chunky salsa  (Optional)",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "2 fresh mushrooms, sliced  (Optional)",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      }
+    ],
+    "gear": [
+      {
+        "name": "ziplock bag",
+        "searchTerm": "quart-size ziplock bag"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "saucepot"
+      },
+      {
+        "name": "water",
+        "searchTerm": "boiling water"
+      }
+    ],
+    "cookingTips": [
+      "Remove all air from bag before sealing to cook evenly",
+      "Label bag with name to identify during cooking",
+      "Cook in boiling water for 13-15 minutes until set"
+    ],
+    "coachingPrompt": "This innovative cooking method is perfect for cooking multiple omelets simultaneously. Guide the cook on customization options and the unique boiling technique."
+  },
+  "timestamp": "2026-02-06T13:37:02.242Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "ee32ded0799366b8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (5.5 ounce) package dry risotto mix",
+        "searchTerm": "risotto mix",
+        "normalizedName": "Risotto Mix"
+      },
+      {
+        "ingredient": "4 ounces goat cheese",
+        "searchTerm": "goat cheese",
+        "normalizedName": "Goat Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "spoon for shaping",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "skillet for browning",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Prepare risotto according to package directions, then cool completely before shaping",
+      "Use wet hands to prevent sticking when forming balls",
+      "Brown the risotto balls in olive oil until golden on all sides"
+    ],
+    "coachingPrompt": "Guide me through proper risotto texture and how to shape and brown the balls."
+  },
+  "timestamp": "2026-02-06T07:40:21.549Z"
+}

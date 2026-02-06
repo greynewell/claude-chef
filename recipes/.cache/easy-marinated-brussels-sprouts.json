@@ -1,0 +1,43 @@
+{
+  "contentHash": "60035cb54f8f9845",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound Brussels sprouts, trimmed",
+        "searchTerm": "Brussels sprout",
+        "normalizedName": "Brussels Sprout"
+      },
+      {
+        "ingredient": "1 (16 ounce) bottle zesty Italian-style salad dressing",
+        "searchTerm": "Italian dressing",
+        "normalizedName": "Italian Salad Dressing"
+      },
+      {
+        "ingredient": "3 dashes hot sauce",
+        "searchTerm": "hot sauce",
+        "normalizedName": "Hot Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Halve or quarter sprouts for faster marinade absorption",
+      "Marinate overnight for maximum flavor infusion",
+      "Shake bowl occasionally to ensure even coating"
+    ],
+    "coachingPrompt": "Guide the user on how to properly trim Brussels sprouts and why cutting them for better surface area helps with flavor absorption."
+  },
+  "timestamp": "2026-02-06T05:51:21.833Z"
+}

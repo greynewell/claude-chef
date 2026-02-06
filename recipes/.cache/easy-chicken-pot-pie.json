@@ -1,0 +1,53 @@
+{
+  "contentHash": "e0701fed0165c678",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (9 inch) deep dish frozen pie crusts, thawed",
+        "searchTerm": "frozen pie crust",
+        "normalizedName": "Frozen Pie Crust"
+      },
+      {
+        "ingredient": "1 (15 ounce) can mixed vegetables, drained",
+        "searchTerm": "canned mixed vegetables",
+        "normalizedName": "Mixed Vegetable"
+      },
+      {
+        "ingredient": "2 cups cooked, diced chicken breast",
+        "searchTerm": "cooked chicken",
+        "normalizedName": "Cooked Chicken"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of chicken soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream of Chicken Soup"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pie dish",
+        "searchTerm": "pie dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Thaw pie crusts at room temperature for 30 minutes before using",
+      "Mix filling ingredients gently to avoid breaking up chicken",
+      "Place pie on a baking sheet in case filling bubbles over"
+    ],
+    "coachingPrompt": "Help the cook assemble a quick, satisfying pot pie using convenience ingredients without sacrificing flavor."
+  },
+  "timestamp": "2026-02-06T05:38:57.933Z"
+}

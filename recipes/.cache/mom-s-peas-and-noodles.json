@@ -1,0 +1,57 @@
+{
+  "contentHash": "7efe16e7ec1c5463",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup uncooked whole-wheat pasta shells",
+        "searchTerm": "whole-wheat pasta",
+        "normalizedName": "Whole-Wheat Pasta"
+      },
+      {
+        "ingredient": "⅓ cup frozen peas",
+        "searchTerm": "frozen pea",
+        "normalizedName": "Frozen Pea"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta just until al dente so it maintains texture when combined with eggs",
+      "Mix beaten eggs into the hot pasta off-heat to create a light, creamy coating without scrambling"
+    ],
+    "coachingPrompt": "Explain how to avoid scrambling eggs by mixing into hot pasta off heat, creating a silky carbonara-style dish."
+  },
+  "timestamp": "2026-02-06T12:44:10.877Z"
+}

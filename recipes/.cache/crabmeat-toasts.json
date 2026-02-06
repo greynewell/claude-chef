@@ -1,0 +1,57 @@
+{
+  "contentHash": "c7076c0449e59d61",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (6 ounce) can crab meat, drained",
+        "searchTerm": "crabmeat",
+        "normalizedName": "Crabmeat"
+      },
+      {
+        "ingredient": "⅜ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "½ teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "½ teaspoon seasoning salt",
+        "searchTerm": "seasoning salt",
+        "normalizedName": "Seasoning Salt"
+      },
+      {
+        "ingredient": "1 (12 ounce) package English muffins",
+        "searchTerm": "English muffins",
+        "normalizedName": "English Muffin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "toaster oven or broiler",
+        "searchTerm": "toaster oven"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "spreader or knife",
+        "searchTerm": "spreader"
+      }
+    ],
+    "cookingTips": [
+      "Toast English muffins lightly first, then top with crab mixture to prevent soggy bottoms",
+      "Broil just until tops are golden brown and mixture is heated through, about 2-3 minutes"
+    ],
+    "coachingPrompt": "Should I toast the muffins first, and how do I prevent the topping from drying out under the broiler?"
+  },
+  "timestamp": "2026-02-06T04:05:54.807Z"
+}

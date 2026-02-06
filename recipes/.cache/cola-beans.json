@@ -1,0 +1,48 @@
+{
+  "contentHash": "c89c56b462c10916",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 (28 ounce) cans baked beans",
+        "searchTerm": "canned baked beans",
+        "normalizedName": "Canned Baked Bean"
+      },
+      {
+        "ingredient": "½ pound bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 (12 fluid ounce) can cola soft drink",
+        "searchTerm": "cola",
+        "normalizedName": "Cola"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy for maximum flavor contrast with the sweet beans",
+      "Drain the canned beans to prevent the dish from becoming too watery",
+      "The cola adds caramel notes that complement the bacon and brown sugar"
+    ],
+    "coachingPrompt": "Help the user understand how cola replaces traditional tomato-based sauce and adds depth to baked beans."
+  },
+  "timestamp": "2026-02-06T03:43:38.255Z"
+}

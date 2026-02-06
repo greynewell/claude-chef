@@ -1,0 +1,73 @@
+{
+  "contentHash": "61bb4c80b83fbd42",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 teaspoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ cup chopped green bell pepper",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "½ cup chopped red bell pepper",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 pound vegetarian ground beef substitute",
+        "searchTerm": "plant-based meat",
+        "normalizedName": "Plant-Based Meat"
+      },
+      {
+        "ingredient": "1 (15 ounce) can chili beans",
+        "searchTerm": "chili beans",
+        "normalizedName": "Chili Bean"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can diced tomatoes",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "2 tablespoons chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Instant Pot",
+        "searchTerm": "instant pot pressure cooker"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Can Opener",
+        "searchTerm": "can opener"
+      }
+    ],
+    "cookingTips": [
+      "Brown the plant-based meat to develop texture and prevent a mushy chili",
+      "Add beans at the end to prevent them from breaking down too much during pressure cooking",
+      "Toast chili powder briefly in the oil to bloom its flavors before adding other ingredients"
+    ],
+    "coachingPrompt": "Guide the user on working with plant-based meat to create a satisfying, protein-rich vegetarian chili. Explain how proper browning and timing of ingredient additions ensures the best texture."
+  },
+  "timestamp": "2026-02-06T09:55:00.664Z"
+}

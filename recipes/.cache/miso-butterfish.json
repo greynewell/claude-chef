@@ -1,0 +1,53 @@
+{
+  "contentHash": "99fac685553b360f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "miso",
+        "searchTerm": "miso paste",
+        "normalizedName": "Miso"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "sake",
+        "searchTerm": "sake",
+        "normalizedName": "Sake"
+      },
+      {
+        "ingredient": "mirin",
+        "searchTerm": "mirin",
+        "normalizedName": "Mirin"
+      },
+      {
+        "ingredient": "butterfish fillets",
+        "searchTerm": "black cod",
+        "normalizedName": "Black Cod"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Make the miso glaze ahead and let flavors meld for better taste",
+      "Apply glaze in the last few minutes of cooking to prevent burning",
+      "Butterfish has high oil content, so a light touch with fat is needed"
+    ],
+    "coachingPrompt": "What techniques ensure the glaze caramelizes without charring the delicate fish?"
+  },
+  "timestamp": "2026-02-06T12:35:23.086Z"
+}

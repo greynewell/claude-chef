@@ -1,0 +1,63 @@
+{
+  "contentHash": "2d4bf36ed9f48569",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 slice bacon, cut into small pieces",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 mushrooms, sliced",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "¼ cup cooked butternut squash cubes",
+        "searchTerm": "butternut squash",
+        "normalizedName": "Butternut Squash"
+      },
+      {
+        "ingredient": "2 cups arugula",
+        "searchTerm": "arugula",
+        "normalizedName": "Arugula"
+      },
+      {
+        "ingredient": "1 ounce crumbled goat cheese",
+        "searchTerm": "goat cheese",
+        "normalizedName": "Goat Cheese"
+      },
+      {
+        "ingredient": "1 teaspoon pine nuts",
+        "searchTerm": "pine nuts",
+        "normalizedName": "Pine Nut"
+      },
+      {
+        "ingredient": "¼ teaspoon cracked black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Salad Bowl",
+        "searchTerm": "salad bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "cutting knife"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy and drain on paper towels to remove excess fat",
+      "Roast butternut squash until caramelized at the edges for enhanced sweetness",
+      "Assemble salad just before serving to keep arugula fresh and crisp"
+    ],
+    "coachingPrompt": "How will you balance the rich, salty bacon with the sweet butternut squash?"
+  },
+  "timestamp": "2026-02-05T22:24:33.101Z"
+}

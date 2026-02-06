@@ -1,0 +1,72 @@
+{
+  "contentHash": "813f1aef36f53df5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "7 eggs, divided",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅓ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "½ teaspoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "½ cup fine bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "canola oil for frying",
+        "searchTerm": "canola oil",
+        "normalizedName": "Canola Oil"
+      },
+      {
+        "ingredient": "1 tablespoon lemon zest (Optional)",
+        "searchTerm": "lemon zest",
+        "normalizedName": "Lemon Zest"
+      },
+      {
+        "ingredient": "1 teaspoon black truffle salt",
+        "searchTerm": "truffle salt",
+        "normalizedName": "Truffle Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sous vide machine or water bath",
+        "searchTerm": "sous vide machine"
+      },
+      {
+        "name": "Deep fryer or large pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "cooking thermometer"
+      },
+      {
+        "name": "Slotted spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Sous vide egg yolks at 65°C for 15 minutes to create a custard-like center before chilling thoroughly",
+      "Use the three-step breading method with baking powder in the flour for extra lightness",
+      "Fry at 350°F for 45-60 seconds; timing is critical to maintain the creamy center while crisping the outside"
+    ],
+    "coachingPrompt": "Coach the cook through sous vide preparation, proper breading, and the brief frying window to achieve a runny, luxurious center."
+  },
+  "timestamp": "2026-02-06T05:06:05.290Z"
+}

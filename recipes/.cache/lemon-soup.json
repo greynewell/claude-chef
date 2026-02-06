@@ -1,0 +1,63 @@
+{
+  "contentHash": "f81437868465e4a6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (48 fluid ounce) can chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Stock"
+      },
+      {
+        "ingredient": "2 egg yolks",
+        "searchTerm": "egg yolks",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "2 egg whites",
+        "searchTerm": "egg whites",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "1 lemon, juiced",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 cup uncooked orzo pasta",
+        "searchTerm": "orzo pasta",
+        "normalizedName": "Orzo Pasta"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Temper eggs by slowly adding hot broth while whisking to prevent scrambling",
+      "Cook orzo separately and add to bowls before pouring soup to prevent it from becoming mushy",
+      "Adjust lemon juice to taste—this soup should be bright and tangy"
+    ],
+    "coachingPrompt": "This Greek-style egg-lemon soup (avgolemono) requires careful egg tempering—add broth slowly while whisking constantly."
+  },
+  "timestamp": "2026-02-06T11:17:07.594Z"
+}

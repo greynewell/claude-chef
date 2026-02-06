@@ -1,0 +1,53 @@
+{
+  "contentHash": "2a6aa0a16946260d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound fresh green beans, trimmed",
+        "searchTerm": "green bean",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "¼ cup extra-virgin olive oil",
+        "searchTerm": "extra-virgin olive oil",
+        "normalizedName": "Extra-Virgin Olive Oil"
+      },
+      {
+        "ingredient": "sea salt and freshly ground black pepper to taste",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "sea salt and freshly ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ large lemon, juiced",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Ensure beans are completely dry before tossing with oil to promote browning",
+      "Spread beans in single layer and roast at high heat to achieve caramelization",
+      "Toss beans halfway through cooking for even browning on all sides"
+    ],
+    "coachingPrompt": "Help create caramelized roasted green beans by ensuring proper drying and using high heat for browning."
+  },
+  "timestamp": "2026-02-05T22:06:42.284Z"
+}

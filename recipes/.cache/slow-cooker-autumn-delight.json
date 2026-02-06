@@ -1,0 +1,68 @@
+{
+  "contentHash": "5e488d0ffef434f8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (10.75 ounce) cans cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can cream of mushroom soup with garlic",
+        "searchTerm": "cream of mushroom soup with garlic",
+        "normalizedName": "Cream of Mushroom Soup with Garlic"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (1 ounce) package dry onion soup mix (such as Lipton®)",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      },
+      {
+        "ingredient": "2 teaspoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 yellow onion, sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Yellow Onion"
+      },
+      {
+        "ingredient": "4 (4 ounce) beef cube steaks",
+        "searchTerm": "beef cube steaks",
+        "normalizedName": "Beef Cube Steak"
+      },
+      {
+        "ingredient": "⅔ (12 ounce) package egg noodles",
+        "searchTerm": "egg noodles",
+        "normalizedName": "Egg Noodle"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown the cube steaks briefly before adding to slow cooker for color",
+      "Cook on low for 6-8 hours until beef is tender",
+      "Cook noodles separately and add just before serving to prevent mushiness"
+    ],
+    "coachingPrompt": "Help the cook understand how canned soups create a creamy sauce while maintaining tender meat texture."
+  },
+  "timestamp": "2026-02-06T18:04:11.979Z"
+}

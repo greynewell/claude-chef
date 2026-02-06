@@ -1,0 +1,63 @@
+{
+  "contentHash": "ad29a7077719ec31",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound beef stew meat, cut into 1 inch cubes",
+        "searchTerm": "beef stew meat",
+        "normalizedName": "Beef Stew Meat"
+      },
+      {
+        "ingredient": "2 cups cubed potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "2 cups chopped carrots",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 (10.5 ounce) can condensed French onion soup",
+        "searchTerm": "french onion soup",
+        "normalizedName": "French Onion Soup"
+      },
+      {
+        "ingredient": "1 ¾ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup frozen green peas",
+        "searchTerm": "green peas",
+        "normalizedName": "Green Pea"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Dutch Oven",
+        "searchTerm": "dutch oven"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "The two soups create a rich, savory base without additional seasoning",
+      "Don't skip browning the beef to enhance the stew's depth of flavor",
+      "Add frozen peas in the last 10 minutes so they stay tender-crisp"
+    ],
+    "coachingPrompt": "Help the user understand how canned soups simplify seasoning while maintaining delicious flavor."
+  },
+  "timestamp": "2026-02-06T13:52:23.547Z"
+}

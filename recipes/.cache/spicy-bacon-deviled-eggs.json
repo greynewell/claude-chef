@@ -1,0 +1,48 @@
+{
+  "contentHash": "07782d0bc49b581c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "4 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 tablespoons finely shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon spicy mustard",
+        "searchTerm": "spicy mustard",
+        "normalizedName": "Spicy Mustard"
+      },
+      {
+        "ingredient": "1 tablespoon wasabi paste",
+        "searchTerm": "wasabi paste",
+        "normalizedName": "Wasabi Paste"
+      }
+    ],
+    "gear": [
+      "Pot",
+      "Piping Bag",
+      "Knife"
+    ],
+    "cookingTips": [
+      "Cook eggs just until hard-boiled (10-12 minutes) to avoid gray yolk ring",
+      "Chill filling mixture before piping for easier handling"
+    ],
+    "coachingPrompt": "How can you balance the heat from wasabi without overwhelming the other flavors?"
+  },
+  "timestamp": "2026-02-06T18:54:15.863Z"
+}

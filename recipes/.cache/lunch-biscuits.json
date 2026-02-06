@@ -1,0 +1,53 @@
+{
+  "contentHash": "d3f8a692463a64c7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "½ cup chopped ham",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "1 (10 ounce) can refrigerated buttermilk biscuit dough, each cut into small pieces",
+        "searchTerm": "biscuit dough",
+        "normalizedName": "Biscuit Dough"
+      },
+      {
+        "ingredient": "2 tablespoons pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "small mixing bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cut biscuit dough into small pieces while it's still cold for easier handling",
+      "Toss dough pieces with cheese and ham before baking for even distribution",
+      "Don't overmix or handle the dough excessively or biscuits will be tough"
+    ],
+    "coachingPrompt": "What variations could you create by swapping proteins or cheese types?"
+  },
+  "timestamp": "2026-02-06T11:40:17.602Z"
+}

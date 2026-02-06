@@ -1,0 +1,62 @@
+{
+  "contentHash": "0a066a79985f964f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 large onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 pound thinly sliced rib-eye steak, chopped",
+        "searchTerm": "rib-eye steak",
+        "normalizedName": "Rib-Eye Steak"
+      },
+      {
+        "ingredient": "½ (4 ounce) jar diced jalapeno peppers (Optional)",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "½ (4 ounce) jar diced pimento peppers (Optional)",
+        "searchTerm": "pimento peppers",
+        "normalizedName": "Pimento Pepper"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese (such as Philadelphia®), softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (15 ounce) jar processed cheese sauce (such as Cheez Whiz®)",
+        "searchTerm": "processed cheese sauce",
+        "normalizedName": "Processed Cheese Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook the steak and onions until caramelized to develop deep flavor before adding cheeses",
+      "Keep dip warm in a slow cooker on low to maintain creamy texture and prevent burning"
+    ],
+    "coachingPrompt": "Guide on properly browning the steak and caramelizing onions. Explain how to melt cheeses smoothly without separation."
+  },
+  "timestamp": "2026-02-06T20:44:49.672Z"
+}

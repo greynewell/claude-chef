@@ -1,0 +1,68 @@
+{
+  "contentHash": "6ebea744390115cb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "4 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup uncooked white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "½ cup raisins (Optional)",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "water bath pan",
+        "searchTerm": "roasting pan"
+      }
+    ],
+    "cookingTips": [
+      "Rice does not need to be precooked; it will cook in the milk during baking",
+      "A water bath ensures the custard sets without curdling or overcooking at edges",
+      "Stir once halfway through baking to distribute rice evenly"
+    ],
+    "coachingPrompt": "Guide the user through setting up a proper water bath and help them understand when the pudding is set but still creamy, not overcooked."
+  },
+  "timestamp": "2026-02-06T13:33:59.132Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "c94da09bb52ec913",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (4 pound) whole chicken, rinsed",
+        "searchTerm": "whole chicken",
+        "normalizedName": "Whole Chicken"
+      },
+      {
+        "ingredient": "1 lemon, halved",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "kitchen twine",
+        "searchTerm": "kitchen twine"
+      }
+    ],
+    "cookingTips": [
+      "Pat the chicken completely dry before roasting for crispy skin",
+      "Let the chicken rest at room temperature for 20 minutes before cooking for even cooking",
+      "Check doneness at the thickest thigh joint; juices should run clear and temperature reach 165°F"
+    ],
+    "coachingPrompt": "Teach me the fundamentals of roasting a perfect whole chicken with minimal ingredients and maximum flavor."
+  },
+  "timestamp": "2026-02-06T19:43:19.509Z"
+}

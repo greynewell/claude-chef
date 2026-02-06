@@ -1,0 +1,58 @@
+{
+  "contentHash": "815e885dce439450",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pie crust baked",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      },
+      {
+        "ingredient": "4 pink grapefruit",
+        "searchTerm": "pink grapefruit",
+        "normalizedName": "Pink Grapefruit"
+      },
+      {
+        "ingredient": "1/2 cup sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "3/4 cup grapefruit juice",
+        "searchTerm": "grapefruit juice",
+        "normalizedName": "Grapefruit Juice"
+      },
+      {
+        "ingredient": "1 package strawberry Jell-O",
+        "searchTerm": "strawberry jello",
+        "normalizedName": "Strawberry Jello"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pie dish",
+        "searchTerm": "pie dish"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Segment the grapefruit carefully to avoid bitter pith and get clean pieces",
+      "Cook the grapefruit juice with cornstarch to create a glossy glaze without cloudiness",
+      "Allow the Jell-O layer to set partially before adding grapefruit segments so they don't float to the bottom"
+    ],
+    "coachingPrompt": "How do I layer the grapefruit and Jell-O filling so the pie sets properly and looks beautiful?"
+  },
+  "timestamp": "2026-02-06T18:50:22.355Z"
+}

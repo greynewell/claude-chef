@@ -1,0 +1,53 @@
+{
+  "contentHash": "e001a077c9e14b32",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 hot dogs",
+        "searchTerm": "hot dogs",
+        "normalizedName": "Hot Dog"
+      },
+      {
+        "ingredient": "4 hot dog buns, split",
+        "searchTerm": "hot dog buns",
+        "normalizedName": "Hot Dog Bun"
+      },
+      {
+        "ingredient": "1 cup prepared creamy coleslaw",
+        "searchTerm": "coleslaw",
+        "normalizedName": "Coleslaw"
+      },
+      {
+        "ingredient": "¼ cup Carolina-style barbeque sauce",
+        "searchTerm": "barbeque sauce",
+        "normalizedName": "Barbeque Sauce"
+      },
+      {
+        "ingredient": "2 teaspoons Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "serving plate",
+        "searchTerm": "serving plate"
+      }
+    ],
+    "cookingTips": [
+      "Heat hot dogs gently to preserve juiciness without splits",
+      "Toast buns lightly for better texture and to hold toppings",
+      "Mix barbecue sauce and mustard for balanced flavor on each dog"
+    ],
+    "coachingPrompt": "What makes a great slaw topping for hot dogs, and how does it compare to traditional chili dogs?"
+  },
+  "timestamp": "2026-02-06T18:00:08.958Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "9252d09f9f068ce2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound penne pasta",
+        "searchTerm": "penne pasta",
+        "normalizedName": "Penne Pasta"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 red onions, cut into strips",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "2 cloves garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "3 red bell peppers, chopped",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "2 yellow bell pepper, chopped",
+        "searchTerm": "yellow bell pepper",
+        "normalizedName": "Yellow Bell Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Slice peppers uniformly for even cooking",
+      "Sauté peppers slowly over medium heat to develop sweetness",
+      "Reserve pasta water to adjust sauce consistency if needed"
+    ],
+    "coachingPrompt": "What's the best technique for achieving sweet, tender peppers in this pasta?"
+  },
+  "timestamp": "2026-02-06T14:31:00.374Z"
+}

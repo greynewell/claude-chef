@@ -1,0 +1,53 @@
+{
+  "contentHash": "c9c48c81ae791d61",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons prepared pesto",
+        "searchTerm": "prepared pesto",
+        "normalizedName": "Prepared Pesto"
+      },
+      {
+        "ingredient": "2 (6 inch) Greek pita flatbreads",
+        "searchTerm": "Greek pita flatbreads",
+        "normalizedName": "Greek Pita Flatbread"
+      },
+      {
+        "ingredient": "½ cup feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "2 small tomatoes, chopped",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "8 pitted Kalamata olives",
+        "searchTerm": "Kalamata olives",
+        "normalizedName": "Kalamata Olive"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Spread pesto thinly to avoid overpowering the other toppings",
+      "Add fresh toppings after baking to preserve texture and flavor",
+      "Bake at 400°F for 8-10 minutes until pita is crispy and cheese melts"
+    ],
+    "coachingPrompt": "How can I prevent the pita from becoming too soggy while ensuring the cheese melts properly?"
+  },
+  "timestamp": "2026-02-06T12:11:34.467Z"
+}

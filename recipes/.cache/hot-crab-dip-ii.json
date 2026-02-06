@@ -1,0 +1,57 @@
+{
+  "contentHash": "c2069d39e14764fa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "⅓ cup salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "3 (8 ounce) packages cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 pound imitation crabmeat, flaked",
+        "searchTerm": "imitation crabmeat",
+        "normalizedName": "Imitation Crabmeat"
+      },
+      {
+        "ingredient": "1 cup chopped green onions",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 (4 ounce) can diced green chiles",
+        "searchTerm": "green chiles",
+        "normalizedName": "Diced Green Chile"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow cooker or baking dish",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Mixing spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Oven or heat source",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Imitation crab works well and is more budget-friendly than real crab",
+      "Green chiles add flavor without excessive heat"
+    ],
+    "coachingPrompt": "Should I use a slow cooker or bake this, and how long should I heat it for?"
+  },
+  "timestamp": "2026-02-06T09:29:09.840Z"
+}

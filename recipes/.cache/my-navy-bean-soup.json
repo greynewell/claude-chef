@@ -1,0 +1,63 @@
+{
+  "contentHash": "24ec0b038155a12a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package dried navy beans",
+        "searchTerm": "dried navy beans",
+        "normalizedName": "Navy Bean"
+      },
+      {
+        "ingredient": "water to cover",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "7 cups chicken stock",
+        "searchTerm": "chicken stock",
+        "normalizedName": "Chicken Stock"
+      },
+      {
+        "ingredient": "½ cup margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "4 carrots, chopped",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ pound bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Soak beans overnight or use quick-soak method before cooking",
+      "Simmer beans for 1.5-2 hours until tender but not mushy",
+      "Cook bacon until crispy, then crumble and add at the end for texture"
+    ],
+    "coachingPrompt": "Bean soups require proper bean preparation. Do you have experience soaking dried beans? Would you like guidance on the cooking time needed to achieve proper tenderness?"
+  },
+  "timestamp": "2026-02-06T13:05:48.693Z"
+}

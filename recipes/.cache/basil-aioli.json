@@ -1,0 +1,52 @@
+{
+  "contentHash": "b06c1961d53fc137",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "⅔ cup chopped fresh basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 ½ teaspoons lemon zest",
+        "searchTerm": "lemon zest",
+        "normalizedName": "Lemon Zest"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "microplane",
+        "searchTerm": "zester microplane"
+      }
+    ],
+    "cookingTips": [
+      "Pulse basil gently in food processor to avoid bruising and darkening",
+      "Add lemon juice just before serving to prevent browning of basil"
+    ],
+    "coachingPrompt": "Will you serve this immediately or store it? This affects how you handle the basil."
+  },
+  "timestamp": "2026-02-05T23:34:21.977Z"
+}

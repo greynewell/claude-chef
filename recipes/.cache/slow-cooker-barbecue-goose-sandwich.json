@@ -1,0 +1,58 @@
+{
+  "contentHash": "61bdb88987830260",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 small yellow onion, sliced",
+        "searchTerm": "yellow onion",
+        "normalizedName": "Yellow Onion"
+      },
+      {
+        "ingredient": "1 goose breast",
+        "searchTerm": "goose breast",
+        "normalizedName": "Goose Breast"
+      },
+      {
+        "ingredient": "1 ½ tablespoons Worcestershire sauce",
+        "searchTerm": "worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "2 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Meat Fork",
+        "searchTerm": "meat fork"
+      }
+    ],
+    "cookingTips": [
+      "Goose is leaner than chicken; cook slowly to prevent drying out",
+      "Cook on low for 6-8 hours until meat shreds easily",
+      "Shred the meat and serve on toasted buns with the cooking liquid as sauce"
+    ],
+    "coachingPrompt": "Guide the cook on handling gamey poultry like goose and how worcestershire sauce complements its strong flavors."
+  },
+  "timestamp": "2026-02-06T18:04:11.981Z"
+}

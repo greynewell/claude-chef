@@ -1,0 +1,39 @@
+{
+  "contentHash": "08237ea58958f64e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 hot dogs",
+        "searchTerm": "hot dogs",
+        "normalizedName": "Hot Dog"
+      },
+      {
+        "ingredient": "1 (8 ounce) package refrigerated crescent rolls (such as Pillsbury® Grands! Big and Flaky)",
+        "searchTerm": "crescent rolls",
+        "normalizedName": "Crescent Roll"
+      },
+      {
+        "ingredient": "1 teaspoon yellow mustard, or as needed (Optional)",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Unroll crescent dough and cut into thin strips for authentic 'mummy' wrapping appearance",
+      "Leave a small unwrapped portion at the top for the hot dog to peek through",
+      "Bake at 375°F for 12-15 minutes until golden brown and dough is fully cooked"
+    ],
+    "coachingPrompt": "Guide the user to wrap dough strips creatively and suggest using mustard dots for eyes to enhance the fun presentation."
+  },
+  "timestamp": "2026-02-06T09:30:05.078Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "eb1d51e8e98d41dd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (12 ounce) package bacon, chopped",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 head cabbage, cored and chopped",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "1 (8 ounce) package egg noodles",
+        "searchTerm": "egg noodles",
+        "normalizedName": "Egg Noodle"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      "Large Pot",
+      "Skillet",
+      "Colander"
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy first, then use rendered fat to sauté cabbage",
+      "Don't overcook noodles; they continue cooking when mixed with hot cabbage"
+    ],
+    "coachingPrompt": "Help the user develop layers of flavor by properly rendering bacon and caramelizing cabbage edges before combining."
+  },
+  "timestamp": "2026-02-06T13:04:41.924Z"
+}

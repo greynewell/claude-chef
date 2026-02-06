@@ -1,0 +1,73 @@
+{
+  "contentHash": "1ab7837d5cce5621",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 ounce uncooked elbow macaroni",
+        "searchTerm": "elbow macaroni",
+        "normalizedName": "Elbow Macaroni"
+      },
+      {
+        "ingredient": "2 cup shredded sharp Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Sharp Cheddar Cheese"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "3 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 ½ tablespoon all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup bread crumb",
+        "searchTerm": "bread crumb",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "1 pinch paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "stock pot"
+      },
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Make a smooth roux by cooking flour and butter together before adding milk slowly",
+      "Shred cheese fresh and add off heat to prevent stringiness",
+      "Toss bread crumb topping with melted butter for even golden browning"
+    ],
+    "coachingPrompt": "Do you prefer creamy stovetop mac and cheese, or baked with a crunchy topping?"
+  },
+  "timestamp": "2026-02-06T09:15:21.146Z"
+}

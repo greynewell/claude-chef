@@ -1,0 +1,63 @@
+{
+  "contentHash": "9cd6c3615a4ccaea",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 large apples",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "3 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "¼ teaspoon ground cloves",
+        "searchTerm": "cloves",
+        "normalizedName": "Clove"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 egg white",
+        "searchTerm": "egg white",
+        "normalizedName": "Egg White"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "serving dishes",
+        "searchTerm": "bowls"
+      }
+    ],
+    "cookingTips": [
+      "Cook apples until very soft and easily mashed",
+      "Beat egg white to stiff peaks before folding in",
+      "Serve immediately or chill for later"
+    ],
+    "coachingPrompt": "Explain this as a light, fluffy historic dessert and help the user understand the technique of folding whipped egg white into warm apple puree."
+  },
+  "timestamp": "2026-02-05T22:16:31.407Z"
+}

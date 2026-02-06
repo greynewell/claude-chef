@@ -1,0 +1,67 @@
+{
+  "contentHash": "718c1e1f8f55c12c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ¼ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 tablespoon powdered buttermilk",
+        "searchTerm": "powdered buttermilk",
+        "normalizedName": "Powdered Buttermilk"
+      },
+      {
+        "ingredient": "1 ½ teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "3 cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "3 tablespoons wheat bran",
+        "searchTerm": "wheat bran",
+        "normalizedName": "Wheat Bran"
+      },
+      {
+        "ingredient": "½ cup sesame seeds, toasted",
+        "searchTerm": "sesame seeds",
+        "normalizedName": "Sesame Seed"
+      },
+      {
+        "ingredient": "2 ¼ teaspoons active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bread machine",
+        "searchTerm": "bread machine"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Toast sesame seeds before adding to develop deeper, nuttier flavor",
+      "Powdered buttermilk adds tangy flavor without adding liquid to dough"
+    ],
+    "coachingPrompt": "Guide the user through the bread machine process with proper ingredient ordering for best results"
+  },
+  "timestamp": "2026-02-06T00:50:44.593Z"
+}

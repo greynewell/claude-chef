@@ -1,0 +1,63 @@
+{
+  "contentHash": "3a1b706c6eb9f455",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 chicken drumsticks",
+        "searchTerm": "chicken drumsticks",
+        "normalizedName": "Chicken Drumstick"
+      },
+      {
+        "ingredient": "4 small ears corn",
+        "searchTerm": "corn on the cob",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup barbeque sauce",
+        "searchTerm": "BBQ sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "1 (15 ounce) can pinto beans, rinsed and drained",
+        "searchTerm": "pinto beans",
+        "normalizedName": "Pinto Bean"
+      }
+    ],
+    "gear": [
+      {
+        "name": "aluminum foil",
+        "searchTerm": "aluminum foil"
+      },
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Create individual foil packets for each portion with chicken, corn, and beans for even cooking",
+      "Add barbecue sauce to the packets 5 minutes before they're done to prevent burning",
+      "Use medium heat and rotate packets occasionally for uniform cooking"
+    ],
+    "coachingPrompt": "This one-packet meal combines protein, vegetables, and carbs for complete grilling. Would you like guidance on coordinating different cooking times in a single packet?"
+  },
+  "timestamp": "2026-02-06T06:49:37.399Z"
+}

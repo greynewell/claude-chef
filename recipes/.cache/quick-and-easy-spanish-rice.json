@@ -1,0 +1,63 @@
+{
+  "contentHash": "d8f14f8b184c3dd7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic cloves",
+        "normalizedName": "Garlic Clove"
+      },
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "3 cups uncooked instant rice",
+        "searchTerm": "instant rice",
+        "normalizedName": "Instant Rice"
+      },
+      {
+        "ingredient": "2 ¼ cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 cup vegetable juice",
+        "searchTerm": "vegetable juice",
+        "normalizedName": "Vegetable Juice"
+      },
+      {
+        "ingredient": "1 ½ teaspoons taco seasoning",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "medium saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "lid",
+        "searchTerm": "pot lid"
+      }
+    ],
+    "cookingTips": [
+      "Toast rice briefly in oil before adding liquid for better texture",
+      "Use vegetable juice for authentic Spanish rice color",
+      "Don't stir after adding liquid - let rice steam undisturbed"
+    ],
+    "coachingPrompt": "Why toast instant rice in oil? What's the liquid-to-rice ratio? How long should it cook covered?"
+  },
+  "timestamp": "2026-02-06T15:38:36.244Z"
+}

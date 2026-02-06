@@ -1,0 +1,58 @@
+{
+  "contentHash": "aef395408595285c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "7 jalapeno peppers, stemmed and halved lengthwise",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "5 ounces soy chorizo (such as Trader Joe's®)",
+        "searchTerm": "soy chorizo",
+        "normalizedName": "Soy Chorizo"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "¼ cup shredded sharp Cheddar cheese",
+        "searchTerm": "sharp cheddar cheese",
+        "normalizedName": "Sharp Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 (16 ounce) package sliced bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Small Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Parchment Paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Wear gloves when handling jalapenos to prevent skin irritation",
+      "Brown chorizo completely to render fat and deepen flavor",
+      "Wrap bacon tightly around stuffed peppers to hold during baking"
+    ],
+    "coachingPrompt": "How do you ensure the cream cheese filling doesn't spill out during baking?"
+  },
+  "timestamp": "2026-02-06T19:02:12.222Z"
+}

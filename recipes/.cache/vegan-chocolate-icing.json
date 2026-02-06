@@ -1,0 +1,67 @@
+{
+  "contentHash": "5d20e9c63834505f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "6 tablespoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "4 tablespoons unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 cup strongly brewed coffee",
+        "searchTerm": "coffee",
+        "normalizedName": "Coffee"
+      },
+      {
+        "ingredient": "4 teaspoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "¼ teaspoon ground cinnamon (Optional)",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Use freshly brewed hot coffee for deeper chocolate flavor",
+      "Whisk mixture on low heat to avoid lumps and achieve silky consistency"
+    ],
+    "coachingPrompt": "Guide them on tempering technique to prevent lumping. Help them understand how cornstarch creates the proper thickness without dairy."
+  },
+  "timestamp": "2026-02-06T21:36:16.112Z"
+}

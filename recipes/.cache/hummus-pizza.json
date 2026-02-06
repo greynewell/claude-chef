@@ -1,0 +1,49 @@
+{
+  "contentHash": "b0cf4fb073e91643",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10 ounce) can refrigerated pizza crust dough",
+        "searchTerm": "pizza crust dough",
+        "normalizedName": "Pizza Crust Dough"
+      },
+      {
+        "ingredient": "1 cup hummus spread",
+        "searchTerm": "hummus",
+        "normalizedName": "Hummus"
+      },
+      {
+        "ingredient": "1 ½ cups sliced bell peppers, any color",
+        "searchTerm": "bell peppers",
+        "normalizedName": "Bell Pepper"
+      },
+      {
+        "ingredient": "1 cup broccoli florets",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "2 cups shredded Monterey Jack cheese",
+        "searchTerm": "Monterey Jack cheese",
+        "normalizedName": "Monterey Jack Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pizza Pan",
+        "searchTerm": "pizza pan"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Spread hummus evenly as the base sauce",
+      "Chop vegetables into bite-sized pieces for even distribution",
+      "Shred cheese yourself for better melting results"
+    ],
+    "coachingPrompt": "Using hummus as pizza sauce is unconventional. What flavors would pair well with hummus on a pizza?"
+  },
+  "timestamp": "2026-02-06T09:35:18.082Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "cf0728535ca7cb41",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "18 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "6 ounces smoked salmon cream cheese spread",
+        "searchTerm": "smoked salmon cream cheese",
+        "normalizedName": "Smoked Salmon Cream Cheese Spread"
+      },
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "paprika to taste",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "cutting knife"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cool hard-boiled eggs immediately in ice water for easier peeling and firmer whites",
+      "Use a piping bag for elegant presentation of the smoked salmon filling",
+      "Prepare filling up to 2 hours ahead and fill eggs just before serving to maintain texture"
+    ],
+    "coachingPrompt": "Guide the user through proper hard-boiling, peeling technique, and elegant plating to create impressive appetizers."
+  },
+  "timestamp": "2026-02-06T15:45:17.897Z"
+}

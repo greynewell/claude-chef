@@ -1,0 +1,53 @@
+{
+  "contentHash": "c51660d89e614a09",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 Tyson® Fresh Chicken Drumsticks",
+        "searchTerm": "chicken drumsticks",
+        "normalizedName": "Chicken Drumstick"
+      },
+      {
+        "ingredient": "⅓ cup flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¼ cup fat-free egg product",
+        "searchTerm": "egg product",
+        "normalizedName": "Egg Product"
+      },
+      {
+        "ingredient": "1 tablespoon water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup baked potato chips, coarsely crushed",
+        "searchTerm": "baked potato chips",
+        "normalizedName": "Baked Potato Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "shallow dishes",
+        "searchTerm": "shallow bowls"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Crush potato chips into varied sizes for textured coating",
+      "Arrange drumsticks on parchment-lined baking sheet for easy cleanup",
+      "Bake at 375°F for 35-40 minutes until crispy and internal temperature reaches 165°F"
+    ],
+    "coachingPrompt": "Guide the user through the triple-dredging process to achieve maximum crispiness and suggest checking doneness with a meat thermometer."
+  },
+  "timestamp": "2026-02-06T04:37:42.866Z"
+}

@@ -1,0 +1,64 @@
+{
+  "contentHash": "f8b1570ba02dd624",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 pound frozen okra, thawed and sliced",
+        "searchTerm": "okra",
+        "normalizedName": "Okra"
+      },
+      {
+        "ingredient": "1 small onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ green bell pepper, chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "2 celery, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can stewed tomatoes",
+        "searchTerm": "stewed tomatoes",
+        "normalizedName": "Stewed Tomato"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, reserve fat for cooking vegetables",
+      "Don't overcook okra to maintain tender-crisp texture",
+      "Add tomatoes near the end to preserve brightness"
+    ],
+    "coachingPrompt": "Help me prepare a simple okra side dish with smoky bacon and fresh tomato flavor."
+  },
+  "timestamp": "2026-02-06T13:29:49.680Z"
+}

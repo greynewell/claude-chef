@@ -1,0 +1,58 @@
+{
+  "contentHash": "e78f8dbeaf1a0c02",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups uncooked long-grain white rice",
+        "searchTerm": "long-grain white rice",
+        "normalizedName": "Long-Grain White Rice"
+      },
+      {
+        "ingredient": "1 (14 ounce) can beef broth",
+        "searchTerm": "beef broth",
+        "normalizedName": "Beef Broth"
+      },
+      {
+        "ingredient": "1 (10.5 ounce) can condensed French onion soup",
+        "searchTerm": "French onion soup",
+        "normalizedName": "French Onion Soup"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "1 tablespoon dried basil leaves",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "9x13 baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Mix liquid ingredients and seasonings together before adding rice for even distribution",
+      "Cover baking dish with foil to trap steam and cook rice evenly",
+      "Bake at 350°F for 50-60 minutes until liquid is absorbed and rice is tender"
+    ],
+    "coachingPrompt": "Guide the user through this hands-off baking method and explain how French onion soup adds umami depth to simple rice."
+  },
+  "timestamp": "2026-02-06T00:48:07.758Z"
+}

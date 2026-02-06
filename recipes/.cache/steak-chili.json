@@ -1,0 +1,78 @@
+{
+  "contentHash": "3e272faab592f52d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "steak, cut into 1 inch cubes",
+        "searchTerm": "steak",
+        "normalizedName": "Steak"
+      },
+      {
+        "ingredient": "onions, chopped",
+        "searchTerm": "onions",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "green chile pepper",
+        "searchTerm": "green chile pepper",
+        "normalizedName": "Green Chile Pepper"
+      },
+      {
+        "ingredient": "chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "ground cumin",
+        "searchTerm": "cumin",
+        "normalizedName": "Cumin"
+      },
+      {
+        "ingredient": "ground cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "diced tomatoes",
+        "searchTerm": "canned tomatoes",
+        "normalizedName": "Canned Tomato"
+      },
+      {
+        "ingredient": "kidney beans, drained",
+        "searchTerm": "kidney beans",
+        "normalizedName": "Kidney Bean"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cut steak into uniform cubes for even cooking throughout",
+      "Brown meat in batches to avoid steaming and promote color",
+      "Simmer gently for 1-2 hours to tenderize the meat and meld flavors"
+    ],
+    "coachingPrompt": "How would you balance the heat from cayenne with the earthiness of cumin?"
+  },
+  "timestamp": "2026-02-06T19:23:56.693Z"
+}

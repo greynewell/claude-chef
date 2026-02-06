@@ -1,0 +1,48 @@
+{
+  "contentHash": "29686e1b7c6849db",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (5 ounce) goat cheese, softened",
+        "searchTerm": "goat cheese",
+        "normalizedName": "Goat Cheese"
+      },
+      {
+        "ingredient": "½ cup basil pesto",
+        "searchTerm": "basil pesto",
+        "normalizedName": "Basil Pesto"
+      },
+      {
+        "ingredient": "¾ cup sun-dried tomatoes, softened and chopped",
+        "searchTerm": "sun-dried tomato",
+        "normalizedName": "Sun-Dried Tomato"
+      },
+      {
+        "ingredient": "2 pita breads, cut in half",
+        "searchTerm": "pita bread",
+        "normalizedName": "Pita Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "toaster oven",
+        "searchTerm": "toaster oven"
+      },
+      {
+        "name": "spreading knife",
+        "searchTerm": "spreading knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Soften goat cheese at room temperature for easier spreading",
+      "Toast pita bread lightly before assembling to add crunch and warmth",
+      "Layer pesto, goat cheese, and tomatoes evenly for balanced flavor in each bite"
+    ],
+    "coachingPrompt": "I want to make warm goat cheese sandwiches. Should I toast them after assembling or toast the pita first?"
+  },
+  "timestamp": "2026-02-06T21:56:30.558Z"
+}

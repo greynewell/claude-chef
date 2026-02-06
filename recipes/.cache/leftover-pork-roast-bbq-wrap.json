@@ -1,0 +1,63 @@
+{
+  "contentHash": "50be76275968c08a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound cooked pork roast, shredded",
+        "searchTerm": "cooked pork",
+        "normalizedName": "Pork Roast"
+      },
+      {
+        "ingredient": "2 (10 inch) flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "¼ cup barbeque sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "4 slices Cheddar cheese, halved",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "½ small onion, thinly sliced into rings",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Warm the pork and barbecue sauce together before assembling the wraps",
+      "Toast the tortillas lightly to make them more pliable and flavorful",
+      "Place cheese on the warm pork so it melts slightly before rolling"
+    ],
+    "coachingPrompt": "How would you warm and season the pork to maximize the barbecue flavor in these wraps?"
+  },
+  "timestamp": "2026-02-06T11:06:18.591Z"
+}

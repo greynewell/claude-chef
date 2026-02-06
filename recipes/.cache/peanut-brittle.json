@@ -1,0 +1,53 @@
+{
+  "contentHash": "c064a275a04322af",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup raw Spanish peanuts",
+        "searchTerm": "spanish peanut",
+        "normalizedName": "Spanish Peanut"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup light corn syrup",
+        "searchTerm": "light corn syrup",
+        "normalizedName": "Light Corn Syrup"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Candy thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Use a candy thermometer to monitor temperature and avoid burning the mixture",
+      "Stir constantly over medium heat until mixture reaches hard-crack stage (300°F)",
+      "Work quickly when spreading on the baking sheet as the mixture hardens rapidly"
+    ],
+    "coachingPrompt": "Teach the user how to use a candy thermometer properly and explain the importance of not stirring after adding baking soda to avoid crystallization."
+  },
+  "timestamp": "2026-02-06T14:21:59.702Z"
+}

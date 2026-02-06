@@ -1,0 +1,88 @@
+{
+  "contentHash": "0df347879423c158",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups cold cooked sushi rice",
+        "searchTerm": "sushi rice",
+        "normalizedName": "Sushi Rice"
+      },
+      {
+        "ingredient": "1 ½ tablespoons unseasoned rice vinegar",
+        "searchTerm": "rice vinegar",
+        "normalizedName": "Rice Vinegar"
+      },
+      {
+        "ingredient": "1 teaspoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ teaspoon kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 sheets toasted nori",
+        "searchTerm": "nori seaweed sheets",
+        "normalizedName": "Nori"
+      },
+      {
+        "ingredient": "3 tablespoons sriracha mayonnaise",
+        "searchTerm": "sriracha mayonnaise",
+        "normalizedName": "Sriracha Mayonnaise"
+      },
+      {
+        "ingredient": "½ small avocado, thinly sliced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 cucumber, cut into matchsticks",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "¼ cup matchstick carrots",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 tablespoons radish matchsticks",
+        "searchTerm": "radish",
+        "normalizedName": "Radish"
+      },
+      {
+        "ingredient": "1 ounce smoked salmon, thinly sliced",
+        "searchTerm": "smoked salmon",
+        "normalizedName": "Smoked Salmon"
+      },
+      {
+        "ingredient": "1 ounce cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sushi rolling mat",
+        "searchTerm": "sushi mat"
+      },
+      {
+        "name": "Sharp knife",
+        "searchTerm": "chef knife"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Keep nori sheets moist with a damp towel to prevent cracking",
+      "Roll burrito tightly to prevent filling from spilling",
+      "Slice with a wet knife for clean cuts"
+    ],
+    "coachingPrompt": "What rolling technique keeps all fillings contained within the nori?"
+  },
+  "timestamp": "2026-02-06T19:55:06.202Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "636c561d08aed2ee",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "½ cup whole milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "2 large eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 tablespoon maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "4 pieces 1/2-inch thick pieces brioche",
+        "searchTerm": "brioche",
+        "normalizedName": "Brioche"
+      }
+    ],
+    "gear": [
+      {
+        "name": "waffle maker",
+        "searchTerm": "waffle maker"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Preheat waffle maker thoroughly so brioche cooks evenly and gets crispy edges",
+      "Soak brioche pieces thoroughly in custard mixture for best flavor absorption",
+      "Don't open waffle maker too early; wait until steam stops before checking for doneness"
+    ],
+    "coachingPrompt": "How do I make crispy-outside, custardy-inside French toast waffles?"
+  },
+  "timestamp": "2026-02-06T05:44:19.737Z"
+}

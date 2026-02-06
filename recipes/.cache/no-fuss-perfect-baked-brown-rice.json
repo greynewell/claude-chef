@@ -1,0 +1,44 @@
+{
+  "contentHash": "24e683a359679e0d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ⅔ cups uncooked brown rice",
+        "searchTerm": "brown rice",
+        "normalizedName": "Brown Rice"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 ½ cups boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 teaspoons canola oil",
+        "searchTerm": "canola oil",
+        "normalizedName": "Canola Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "oven-safe pot with lid",
+        "searchTerm": "pot with lid"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Use boiling water to maintain consistent cooking temperature",
+      "Keep the lid on throughout cooking to trap steam",
+      "Let rice rest 5 minutes after removing from oven for fluffy texture"
+    ],
+    "coachingPrompt": "Explain how oven-baking brown rice ensures even cooking and fluffy results without stovetop monitoring."
+  },
+  "timestamp": "2026-02-06T13:18:04.386Z"
+}

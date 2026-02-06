@@ -1,0 +1,57 @@
+{
+  "contentHash": "685f9ebe03d9dbdd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "3 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 tablespoons whole-grain Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "4 (4 ounce) fillets swai fish",
+        "searchTerm": "swai fish",
+        "normalizedName": "Swai Fish"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "basting brush",
+        "searchTerm": "brush"
+      }
+    ],
+    "cookingTips": [
+      "Mix glaze ingredients in advance and brush on fish halfway through cooking",
+      "Bake at 400°F for 12-15 minutes until fish flakes easily"
+    ],
+    "coachingPrompt": "Guide the user on baking temperature and time, and suggest alternative white fish options if swai is unavailable."
+  },
+  "timestamp": "2026-02-06T20:03:15.694Z"
+}

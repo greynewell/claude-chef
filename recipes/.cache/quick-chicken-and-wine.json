@@ -1,0 +1,63 @@
+{
+  "contentHash": "d4dca1d7e10fc8d6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves - cut into strips",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ cup white wine",
+        "searchTerm": "white wine",
+        "normalizedName": "White Wine"
+      },
+      {
+        "ingredient": "4 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Shallow Dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken breasts to even thickness before cutting into strips for uniform cooking",
+      "Let wine reduce slightly to concentrate flavor and mellow alcohol",
+      "Parmesan coating provides both flavor and a crispy exterior"
+    ],
+    "coachingPrompt": "Guide the user through breading and browning techniques and how wine reduction enhances the pan sauce."
+  },
+  "timestamp": "2026-02-06T15:41:12.349Z"
+}

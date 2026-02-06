@@ -1,0 +1,57 @@
+{
+  "contentHash": "88ab6617208b6298",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) can pineapple chunks, drained",
+        "searchTerm": "canned pineapple chunks",
+        "normalizedName": "Pineapple"
+      },
+      {
+        "ingredient": "12 jumbo shrimp, peeled and deveined",
+        "searchTerm": "jumbo shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "6 slices bacon, halved crosswise",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "12 toothpicks",
+        "searchTerm": "toothpicks",
+        "normalizedName": "Toothpick"
+      },
+      {
+        "ingredient": "½ cup lime vinaigrette dressing",
+        "searchTerm": "lime vinaigrette dressing",
+        "normalizedName": "Lime Vinaigrette Dressing"
+      },
+      {
+        "ingredient": "¼ cup chopped green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skewers or toothpicks",
+        "searchTerm": "skewers"
+      },
+      {
+        "name": "grill or broiler",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Alternate pineapple and shrimp on skewers for even cooking and visual appeal",
+      "Don't overcook shrimp or it will become tough; bacon takes longer so start it first if broiling"
+    ],
+    "coachingPrompt": "How will you cook both the bacon and shrimp evenly when they have different cooking times?"
+  },
+  "timestamp": "2026-02-05T22:53:49.046Z"
+}

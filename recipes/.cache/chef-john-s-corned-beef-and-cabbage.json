@@ -1,0 +1,68 @@
+{
+  "contentHash": "42465c91ff7a40b2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (4 pound) corned beef brisket with spice packet",
+        "searchTerm": "corned beef brisket",
+        "normalizedName": "Corned Beef Brisket"
+      },
+      {
+        "ingredient": "3 quarts water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 onion, quartered",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 carrots, cut into large chunks",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "3 stalks celery, cut into 2-inch pieces",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 pounds red potatoes, halved",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "1 small head cabbage, cut into eighths",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Rinse corned beef to remove excess salt before cooking",
+      "Simmer gently at 200°F for tender, juicy meat",
+      "Add vegetables in stages based on cooking time: potatoes first, then cabbage last"
+    ],
+    "coachingPrompt": "Explain the proper simmering technique to ensure tender meat and the importance of adding vegetables at the right time."
+  },
+  "timestamp": "2026-02-06T02:01:41.070Z"
+}

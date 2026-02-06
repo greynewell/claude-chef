@@ -1,0 +1,43 @@
+{
+  "contentHash": "750b567c58e88f20",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "⅛ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "microwave-safe bowl",
+        "searchTerm": "microwave bowl"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "microwave",
+        "searchTerm": "microwave"
+      }
+    ],
+    "cookingTips": [
+      "Whisk eggs and milk thoroughly before microwaving for uniform texture",
+      "Microwave in 30-second intervals, stirring between each, to prevent overcooking",
+      "Remove when still slightly wet—residual heat will finish cooking"
+    ],
+    "coachingPrompt": "Microwave scrambled eggs are quick but require careful timing. Would you like guidance on preventing rubbery, overcooked eggs?"
+  },
+  "timestamp": "2026-02-06T06:49:37.394Z"
+}

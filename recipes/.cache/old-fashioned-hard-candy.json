@@ -1,0 +1,58 @@
+{
+  "contentHash": "9373142b28eed06c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "⅔ cup light corn syrup",
+        "searchTerm": "corn syrup",
+        "normalizedName": "Corn Syrup"
+      },
+      {
+        "ingredient": "1 teaspoon peppermint oil",
+        "searchTerm": "peppermint oil",
+        "normalizedName": "Peppermint Oil"
+      },
+      {
+        "ingredient": "1 teaspoon food coloring",
+        "searchTerm": "food coloring",
+        "normalizedName": "Food Coloring"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Candy thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "Heavy-bottomed saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Parchment paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Use a candy thermometer to reach 300°F for hard crack stage",
+      "Work quickly once mixture reaches temperature as it hardens fast",
+      "Oil or butter your hands before handling hot candy"
+    ],
+    "coachingPrompt": "Guide the user through temperature management to achieve proper hard candy consistency without crystallization."
+  },
+  "timestamp": "2026-02-06T13:33:01.126Z"
+}

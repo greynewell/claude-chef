@@ -1,0 +1,48 @@
+{
+  "contentHash": "02cc92c382cee3ba",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 banana, sliced",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "½ cup skim milk",
+        "searchTerm": "skim milk",
+        "normalizedName": "Skim Milk"
+      },
+      {
+        "ingredient": "2 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "2 tablespoons chocolate syrup",
+        "searchTerm": "chocolate syrup",
+        "normalizedName": "Chocolate Syrup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "measuring spoons",
+        "searchTerm": "measuring spoon"
+      },
+      {
+        "name": "tall glass",
+        "searchTerm": "drinking glass"
+      }
+    ],
+    "cookingTips": [
+      "Slice banana before blending for smoother texture",
+      "Freeze banana slices beforehand for a thicker, colder smoothie",
+      "Blend in this order: milk, peanut butter, chocolate syrup, then banana"
+    ],
+    "coachingPrompt": "Would you prefer a thicker smoothie (freeze the banana) or a thinner drinkable version?"
+  },
+  "timestamp": "2026-02-06T03:14:36.018Z"
+}

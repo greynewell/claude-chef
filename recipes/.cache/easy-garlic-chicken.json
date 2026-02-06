@@ -1,0 +1,48 @@
+{
+  "contentHash": "f899fbcddfcf3691",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breasts",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "6 cloves crushed garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 cups seasoned dry bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "shallow dish",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken breasts thin for faster, even cooking",
+      "Coat thoroughly in seasoned bread crumbs for better crust",
+      "Don't move chicken while cooking; let it develop a golden crust before flipping"
+    ],
+    "coachingPrompt": "Help the user create a golden, crispy crust by teaching proper coating technique and heat management."
+  },
+  "timestamp": "2026-02-06T05:45:16.338Z"
+}

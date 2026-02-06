@@ -1,0 +1,47 @@
+{
+  "contentHash": "fbe3eefd828bce52",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 lemons",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "1 ¼ cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 ¼ quarts water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Juicer or citrus press",
+        "searchTerm": "juicer"
+      },
+      {
+        "name": "Large pitcher",
+        "searchTerm": "pitcher"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Strainer",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Roll lemons on the counter before juicing to release more juice",
+      "Dissolve sugar in warm water first for easier mixing",
+      "Strain lemon juice to remove seeds and pulp for a clear beverage"
+    ],
+    "coachingPrompt": "Guide the user through making fresh lemonade with proper juice extraction and sweetening."
+  },
+  "timestamp": "2026-02-06T21:52:16.103Z"
+}

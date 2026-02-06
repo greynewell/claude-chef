@@ -1,0 +1,63 @@
+{
+  "contentHash": "c049e5cd6f2a8765",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "6 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 stalks celery, chopped (Optional)",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (12 ounce) package frozen egg noodles",
+        "searchTerm": "egg noodle",
+        "normalizedName": "Egg Noodle"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Add noodles in the last 20-30 minutes to prevent them from becoming mushy",
+      "Shred chicken when done cooking and return to slow cooker",
+      "Save some cooking liquid to keep noodles moist"
+    ],
+    "coachingPrompt": "Timing egg noodles in a slow cooker is crucial to avoid mushiness. Do you prefer thin or thick broth?"
+  },
+  "timestamp": "2026-02-06T18:07:36.714Z"
+}

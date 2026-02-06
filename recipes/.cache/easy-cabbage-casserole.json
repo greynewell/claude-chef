@@ -1,0 +1,58 @@
+{
+  "contentHash": "04b38d21a22c356f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 small head cabbage, shredded",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 large onion, thinly sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of celery soup",
+        "searchTerm": "cream of celery soup",
+        "normalizedName": "Cream Of Celery Soup"
+      },
+      {
+        "ingredient": "2 tablespoons butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 ½ cups Italian-seasoned bread crumbs",
+        "searchTerm": "Italian bread crumbs",
+        "normalizedName": "Italian Bread Crumb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Casserole Dish",
+        "searchTerm": "9x13 casserole dish"
+      },
+      {
+        "name": "Large Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Shred cabbage thinly for even cooking throughout the casserole",
+      "Mix bread crumbs with butter before topping for even browning",
+      "Don't skip layering onions with cabbage for better flavor distribution"
+    ],
+    "coachingPrompt": "Help the user layer the cabbage and onion mixture with soup, then top with cheese and bread crumbs for a golden finish."
+  },
+  "timestamp": "2026-02-06T05:36:11.504Z"
+}

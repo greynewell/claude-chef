@@ -1,0 +1,63 @@
+{
+  "contentHash": "051cb9f274065227",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 red apples, cored and sliced",
+        "searchTerm": "red apples",
+        "normalizedName": "Red Apple"
+      },
+      {
+        "ingredient": "2 green apples, cored and sliced",
+        "searchTerm": "green apples",
+        "normalizedName": "Green Apple"
+      },
+      {
+        "ingredient": "2 (11 ounce) cans mandarin oranges, drained",
+        "searchTerm": "mandarin oranges",
+        "normalizedName": "Mandarin Orange"
+      },
+      {
+        "ingredient": "1 cup seedless grapes",
+        "searchTerm": "seedless grapes",
+        "normalizedName": "Seedless Grape"
+      },
+      {
+        "ingredient": "6 slices turkey bacon, cooked and crumbled",
+        "searchTerm": "turkey bacon",
+        "normalizedName": "Turkey Bacon"
+      },
+      {
+        "ingredient": "1 cup shredded carrot",
+        "searchTerm": "shredded carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 (10 ounce) package mixed salad greens",
+        "searchTerm": "mixed salad greens",
+        "normalizedName": "Mixed Salad Green"
+      },
+      {
+        "ingredient": "½ cup honey Dijon salad dressing",
+        "searchTerm": "honey Dijon dressing",
+        "normalizedName": "Honey Dijon Salad Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large salad bowl",
+        "searchTerm": "salad bowl"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Slice apples close to serving time to prevent browning; toss with lemon juice if needed",
+      "Cook bacon until crispy for better texture contrast with soft fruits"
+    ],
+    "coachingPrompt": "Would you like suggestions for other protein options or dressing alternatives?"
+  },
+  "timestamp": "2026-02-06T07:09:25.657Z"
+}

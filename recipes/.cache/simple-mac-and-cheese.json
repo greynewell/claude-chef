@@ -1,0 +1,48 @@
+{
+  "contentHash": "5c6c0160b2024794",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream Of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 ¼ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 ½ cups macaroni",
+        "searchTerm": "macaroni",
+        "normalizedName": "Macaroni"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pasta pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta until just tender to avoid mushiness when combined with sauce",
+      "Heat the soup mixture gently over medium heat to prevent scorching",
+      "Stir cheese in off heat for a smoother, creamier sauce"
+    ],
+    "coachingPrompt": "Should I cook the pasta separately from the sauce, and how do I get a smooth, creamy texture?"
+  },
+  "timestamp": "2026-02-06T17:50:43.466Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "79a3c39341b19295",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup pearl onions",
+        "searchTerm": "pearl onions",
+        "normalizedName": "Pearl Onion"
+      },
+      {
+        "ingredient": "4 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "6 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "6 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "3 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Blanch pearl onions in boiling water for 2 minutes, then peel for easier handling",
+      "Make a roux by cooking flour and butter together before gradually adding milk",
+      "Simmer sauce gently after adding milk to avoid scorching on the bottom"
+    ],
+    "coachingPrompt": "Creamed onions are a classic side dish. How will you prevent lumps in the sauce when adding milk?"
+  },
+  "timestamp": "2026-02-06T12:46:06.789Z"
+}

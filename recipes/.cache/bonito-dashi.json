@@ -1,0 +1,43 @@
+{
+  "contentHash": "932305b9f470df61",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (4 inch) pieces dashi kombu (dried kelp)",
+        "searchTerm": "dashi kombu",
+        "normalizedName": "Dashi Kombu"
+      },
+      {
+        "ingredient": "4 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ ounce bonito shavings (dry fish flakes)",
+        "searchTerm": "bonito flake",
+        "normalizedName": "Bonito Flake"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Medium pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Strainer or fine-mesh sieve",
+        "searchTerm": "strainer"
+      },
+      {
+        "name": "Cheesecloth (optional)",
+        "searchTerm": "cheesecloth"
+      }
+    ],
+    "cookingTips": [
+      "Wipe kombu gently with a damp cloth before adding to water—don't wash vigorously as this removes flavor compounds",
+      "Heat water slowly with kombu; remove just before boiling to avoid bitterness",
+      "Steep bonito flakes for only 3-5 minutes to prevent excessive fishiness; strain immediately"
+    ],
+    "coachingPrompt": "This fundamental Japanese stock is the foundation of many dishes. Help the user understand the delicate balance between extracting umami and avoiding overly strong, bitter flavors."
+  },
+  "timestamp": "2026-02-06T00:28:57.361Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "421c99e8c3005ede",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup semolina flour",
+        "searchTerm": "semolina flour",
+        "normalizedName": "Semolina Flour"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Pasta machine",
+        "searchTerm": "pasta machine"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Mix dough gradually, adding water by the teaspoon as needed",
+      "Knead dough until smooth and elastic before resting",
+      "Rest dough for 20-30 minutes before rolling for better elasticity"
+    ],
+    "coachingPrompt": "What is the difference between fresh egg pasta and dried pasta in terms of taste and texture?"
+  },
+  "timestamp": "2026-02-06T15:36:46.626Z"
+}

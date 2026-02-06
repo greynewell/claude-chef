@@ -1,0 +1,53 @@
+{
+  "contentHash": "1c7c86fba3ec4556",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 cloves garlic, finely minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 (8 ounce) package crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "2 (10 ounce) boxes frozen chopped spinach, thawed and squeezed dry",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Frozen Spinach"
+      },
+      {
+        "ingredient": "3 (2.1 ounce) packages pre-baked mini phyllo dough shells",
+        "searchTerm": "phyllo dough cups",
+        "normalizedName": "Phyllo Dough Shell"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Squeeze spinach extremely dry in a kitchen towel to remove excess moisture and prevent soggy cups",
+      "Mix filling ingredients at room temperature for easier handling and even distribution",
+      "Fill cups just before baking to maintain crispness of the phyllo shells"
+    ],
+    "coachingPrompt": "Coach the user on the critical importance of removing spinach moisture and timing the assembly and baking for maximum crispness and presentation."
+  },
+  "timestamp": "2026-02-06T19:16:45.205Z"
+}

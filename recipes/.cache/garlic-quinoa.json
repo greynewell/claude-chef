@@ -1,0 +1,44 @@
+{
+  "contentHash": "3628fa0a15b2db21",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 cup quinoa",
+        "searchTerm": "quinoa",
+        "normalizedName": "Quinoa"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Rinse quinoa under cold water before cooking to remove the bitter saponin coating",
+      "Toast the quinoa in butter for 1-2 minutes before adding broth to enhance nutty flavor",
+      "Quinoa is done when the broth is absorbed and the germ (spiral tail) is visible"
+    ],
+    "coachingPrompt": "What flavor variations could you add to this base recipe using different broths or herbs?"
+  },
+  "timestamp": "2026-02-06T07:20:51.747Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "4c8c2c7e32b15860",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 sweet potatoes",
+        "searchTerm": "sweet potato",
+        "normalizedName": "Sweet Potato"
+      },
+      {
+        "ingredient": "2 teaspoons vegetable oil, or as needed",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "6 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "6 teaspoons salted butter",
+        "searchTerm": "salted butter",
+        "normalizedName": "Salted Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Poke holes in potatoes before baking to prevent bursting",
+      "Rub with oil before baking for better browning and texture",
+      "Add brown sugar and butter immediately after removing from oven while still hot"
+    ],
+    "coachingPrompt": "Guide the cook on basic sweet potato preparation and timing for a perfect soft interior, and suggest topping application for best flavor."
+  },
+  "timestamp": "2026-02-05T23:14:35.551Z"
+}

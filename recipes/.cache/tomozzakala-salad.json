@@ -1,0 +1,63 @@
+{
+  "contentHash": "c920d0829b6ff132",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 large ripe red tomatoes, sliced",
+        "searchTerm": "ripe tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "10 thin slices fresh mozzarella cheese",
+        "searchTerm": "fresh mozzarella",
+        "normalizedName": "Fresh Mozzarella"
+      },
+      {
+        "ingredient": "10 fresh basil leaves, chopped",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "10 kalamata olives",
+        "searchTerm": "kalamata olives",
+        "normalizedName": "Kalamata Olive"
+      },
+      {
+        "ingredient": "extra virgin olive oil",
+        "searchTerm": "extra virgin olive oil",
+        "normalizedName": "Extra Virgin Olive Oil"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "cracked black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's Knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "Plate",
+        "searchTerm": "serving plate"
+      }
+    ],
+    "cookingTips": [
+      "Use room temperature tomatoes and mozzarella for best flavor",
+      "Slice tomatoes just before serving to prevent water release",
+      "Drizzle olive oil and season just before serving to maintain texture"
+    ],
+    "coachingPrompt": "How would you layer this salad to create visual appeal while maintaining proper seasoning throughout?"
+  },
+  "timestamp": "2026-02-06T20:58:21.138Z"
+}

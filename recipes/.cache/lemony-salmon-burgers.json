@@ -1,0 +1,73 @@
+{
+  "contentHash": "7fbc0e3da9d1f98d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds salmon fillet, cut into chunks",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "⅓ cup chopped fresh parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "2 tablespoons dry bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "2 tablespoons chopped green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "2 teaspoons seafood seasoning",
+        "searchTerm": "seafood seasoning",
+        "normalizedName": "Seafood Seasoning"
+      },
+      {
+        "ingredient": "1 lemon, juiced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food Processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Pulse salmon briefly to avoid over-processing and maintain texture",
+      "Chill burger mixture for 30 minutes before cooking for better shape retention",
+      "Don't flip burgers too early; let them develop a golden crust"
+    ],
+    "coachingPrompt": "Guide the cook to balance the delicate salmon texture with proper binding and seasoning."
+  },
+  "timestamp": "2026-02-06T11:20:24.532Z"
+}

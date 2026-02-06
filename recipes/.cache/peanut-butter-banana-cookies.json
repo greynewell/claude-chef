@@ -1,0 +1,67 @@
+{
+  "contentHash": "6a0d5a8d65ad1910",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "½ cup plain instant oatmeal",
+        "searchTerm": "instant oatmeal",
+        "normalizedName": "Instant Oatmeal"
+      },
+      {
+        "ingredient": "1 medium banana",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ cup semisweet chocolate chips",
+        "searchTerm": "semisweet chocolate chips",
+        "normalizedName": "Semisweet Chocolate Chip"
+      },
+      {
+        "ingredient": "1 tablespoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Mash banana very well to ensure even texture in cookies",
+      "Mix all ingredients thoroughly before spooning onto baking sheet",
+      "Cookies will be soft when warm but firm up as they cool"
+    ],
+    "coachingPrompt": "This recipe uses banana as a binder instead of flour. Explain that cookies will be soft and cake-like rather than crispy, and shouldn't spread much during baking."
+  },
+  "timestamp": "2026-02-06T14:23:07.955Z"
+}

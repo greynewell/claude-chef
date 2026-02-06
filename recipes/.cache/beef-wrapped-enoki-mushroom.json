@@ -1,0 +1,53 @@
+{
+  "contentHash": "04c8d03bc33af444",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 ounces enoki mushrooms, roots removed",
+        "searchTerm": "enoki mushrooms",
+        "normalizedName": "Enoki Mushroom"
+      },
+      {
+        "ingredient": "20 slices thinly sliced deli roast beef",
+        "searchTerm": "deli roast beef",
+        "normalizedName": "Deli Roast Beef"
+      },
+      {
+        "ingredient": "½ tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 pinch salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Toothpicks",
+        "searchTerm": "toothpicks"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Keep enoki mushroom bundles intact by wrapping loosely with thin beef slices rather than single strands",
+      "Use toothpicks to secure the beef wrapping if needed, removing before serving",
+      "Cook on medium heat to gently warm the mushrooms while crisping the beef edges slightly"
+    ],
+    "coachingPrompt": "Explain how to wrap delicate mushroom bundles with thin beef slices and the importance of gentle cooking to maintain texture."
+  },
+  "timestamp": "2026-02-05T23:47:25.790Z"
+}

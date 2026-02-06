@@ -1,0 +1,53 @@
+{
+  "contentHash": "9eeba6d84add53f5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 pounds potato",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "3 hard-cooked egg",
+        "searchTerm": "hard-cooked eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup finely chopped dill pickle",
+        "searchTerm": "dill pickle",
+        "normalizedName": "Dill Pickle"
+      },
+      {
+        "ingredient": "2 cups mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes into uniform 2-inch chunks for even cooking",
+      "Add salt to cooking water for better potato flavor",
+      "Dice eggs and pickles finely for consistent texture throughout the salad"
+    ],
+    "coachingPrompt": "I want a creamy potato salad with good flavor. What's the best technique for combining ingredients?"
+  },
+  "timestamp": "2026-02-06T07:54:16.415Z"
+}

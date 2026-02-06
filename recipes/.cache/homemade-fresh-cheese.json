@@ -1,0 +1,43 @@
+{
+  "contentHash": "b599e8fbe35f0350",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 gallon whole milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "¼ cup white or cider vinegar",
+        "searchTerm": "vinegar",
+        "normalizedName": "Vinegar"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "stainless steel pot"
+      },
+      {
+        "name": "Cheesecloth",
+        "searchTerm": "cheesecloth"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "dairy thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Heat milk slowly to 86°F and maintain temperature for proper curdling",
+      "Use fresh, high-quality milk for best results",
+      "Drain curds thoroughly through cheesecloth for desired cheese consistency"
+    ],
+    "coachingPrompt": "Guide the cheesemaker through temperature control and the curdling process to achieve fresh cheese with ideal texture and flavor."
+  },
+  "timestamp": "2026-02-06T09:14:19.397Z"
+}

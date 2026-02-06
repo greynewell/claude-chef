@@ -1,0 +1,48 @@
+{
+  "contentHash": "032343d1ea089712",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups frozen cherry-berry fruit blend",
+        "searchTerm": "frozen cherry-berry blend",
+        "normalizedName": "Frozen Cherry-Berry Blend"
+      },
+      {
+        "ingredient": "1 cup rosé wine, or as needed",
+        "searchTerm": "rosé wine",
+        "normalizedName": "Rosé Wine"
+      },
+      {
+        "ingredient": "½ cup white sugar, or to taste",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ medium lemon, juiced",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "ice cream scoop",
+        "searchTerm": "ice cream scoop"
+      }
+    ],
+    "cookingTips": [
+      "Use frozen fruit directly from the freezer for the best sorbet consistency",
+      "Add wine and sugar gradually while processing to achieve desired sweetness and texture",
+      "Serve immediately for a slushier consistency, or refreeze in an ice cream maker for firmer texture"
+    ],
+    "coachingPrompt": "Help the user understand the difference between blended and churned sorbet and how to adjust ingredients for taste preferences."
+  },
+  "timestamp": "2026-02-06T02:14:54.350Z"
+}

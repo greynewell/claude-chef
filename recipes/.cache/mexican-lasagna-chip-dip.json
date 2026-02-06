@@ -1,0 +1,68 @@
+{
+  "contentHash": "5d6557e9ed80b82b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 cup diced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "2 (16 ounce) cans refried beans",
+        "searchTerm": "refried beans",
+        "normalizedName": "Refried Bean"
+      },
+      {
+        "ingredient": "2 (4 ounce) cans chopped green chile peppers",
+        "searchTerm": "green chile peppers",
+        "normalizedName": "Green Chile Pepper"
+      },
+      {
+        "ingredient": "1 (2 ounce) can sliced black olives, drained",
+        "searchTerm": "black olives",
+        "normalizedName": "Black Olive"
+      },
+      {
+        "ingredient": "2 (8 ounce) packages cream cheese, sliced",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly and drain excess fat before layering",
+      "Layer ingredients evenly for consistent flavor in each serving",
+      "Cover with foil while baking and uncover last 5 minutes to brown cheese"
+    ],
+    "coachingPrompt": "Walk the user through browning beef with onion, layering in baking dish with beans, salsa, chiles, and cheeses in a lasagna-style format, then baking."
+  },
+  "timestamp": "2026-02-06T12:19:44.978Z"
+}

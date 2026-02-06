@@ -1,0 +1,53 @@
+{
+  "contentHash": "a7b901265b6f1f96",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 romaine lettuce hearts, halved lengthwise",
+        "searchTerm": "romaine lettuce",
+        "normalizedName": "Romaine Lettuce"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil, divided, or as needed",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 tablespoons freshly grated Parmigiano-Reggiano cheese, or to taste",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmigiano-Reggiano Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons balsamic vinegar, or to taste",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "2 tablespoons sherry vinegar, or to taste",
+        "searchTerm": "sherry vinegar",
+        "normalizedName": "Sherry Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "microplane grater",
+        "searchTerm": "microplane"
+      }
+    ],
+    "cookingTips": [
+      "Leave lettuce halves intact to hold together while grilling",
+      "Oil the grill grates well to prevent sticking",
+      "Grill cut-side down first for char marks and caramelization"
+    ],
+    "coachingPrompt": "How can you achieve nice char marks on lettuce while keeping it tender inside?"
+  },
+  "timestamp": "2026-02-06T08:18:25.698Z"
+}

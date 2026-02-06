@@ -1,0 +1,58 @@
+{
+  "contentHash": "147d35eda36b3ffc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 cups buttermilk",
+        "searchTerm": "buttermilk",
+        "normalizedName": "Buttermilk"
+      },
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ tablespoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ tablespoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "12 large fresh scallops",
+        "searchTerm": "scallops",
+        "normalizedName": "Scallop"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep skillet",
+        "searchTerm": "deep frying pan"
+      },
+      {
+        "name": "shallow dishes",
+        "searchTerm": "bowls"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Pat scallops dry to remove excess moisture for better browning",
+      "Don't move scallops while frying; let them develop a golden crust",
+      "Scallops cook quickly; 2-3 minutes per side is usually enough"
+    ],
+    "coachingPrompt": "Coach the user on the importance of dry scallops and proper oil temperature for achieving a golden, crispy exterior while maintaining tender interiors."
+  },
+  "timestamp": "2026-02-06T05:45:16.336Z"
+}

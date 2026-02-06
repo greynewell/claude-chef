@@ -1,0 +1,43 @@
+{
+  "contentHash": "35dc0688317ed4cc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 eggs, separated",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ teaspoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Electric Mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Use room temperature eggs for easier separation and better volume",
+      "Beat egg whites until stiff peaks form for the signature fluffy texture",
+      "Bake immediately after folding to capture the airiness"
+    ],
+    "coachingPrompt": "Coach the user on achieving stiff peaks in egg whites and understanding why this simple technique creates bread without traditional flour."
+  },
+  "timestamp": "2026-02-06T03:35:59.938Z"
+}

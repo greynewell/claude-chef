@@ -1,0 +1,63 @@
+{
+  "contentHash": "f81c63fbf0480bfd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "¼ cup dry bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "1 tablespoon granular no-calorie sucralose sweetener",
+        "searchTerm": "sucralose sweetener",
+        "normalizedName": "Sucralose Sweetener"
+      },
+      {
+        "ingredient": "¼ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "¼ teaspoon ground ginger",
+        "searchTerm": "ginger",
+        "normalizedName": "Ginger"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 large banana, cut into slices",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Shallow Dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use bread crumbs instead of batter for a lighter, crispy texture",
+      "Coat bananas evenly so seasoning doesn't settle unevenly",
+      "Serve immediately after baking while bread crumb coating is still crispy"
+    ],
+    "coachingPrompt": "Guide the user through making a healthy dessert version of fried food with strategic seasoning."
+  },
+  "timestamp": "2026-02-06T13:52:23.548Z"
+}

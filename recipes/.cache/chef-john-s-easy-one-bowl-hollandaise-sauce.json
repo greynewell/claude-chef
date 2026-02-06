@@ -1,0 +1,57 @@
+{
+  "contentHash": "4bf35c637601fbc2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 large egg yolk",
+        "searchTerm": "egg yolk",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "2 tablespoons cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon fresh lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "Salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "4 tablespoons cold unsalted butter, cubed",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "small saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "measuring spoon",
+        "searchTerm": "measuring spoon"
+      }
+    ],
+    "cookingTips": [
+      "Keep all ingredients cold before blending for emulsion stability",
+      "Add butter slowly while blending to ensure proper emulsification"
+    ],
+    "coachingPrompt": "Explain the emulsification process and why temperature control is critical for hollandaise. Guide through adding butter gradually and using this sauce immediately while warm."
+  },
+  "timestamp": "2026-02-06T02:02:41.065Z"
+}

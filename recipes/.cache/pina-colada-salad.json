@@ -1,0 +1,53 @@
+{
+  "contentHash": "cf3496d4aac99162",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) container vanilla yogurt",
+        "searchTerm": "vanilla yogurt",
+        "normalizedName": "Vanilla Yogurt"
+      },
+      {
+        "ingredient": "1 cup sweetened, flaked coconut",
+        "searchTerm": "flaked coconut",
+        "normalizedName": "Flaked Coconut"
+      },
+      {
+        "ingredient": "¼ cup coconut milk",
+        "searchTerm": "coconut milk",
+        "normalizedName": "Coconut Milk"
+      },
+      {
+        "ingredient": "2  pineapples, peeled, cored, and cut into 1-inch chunks",
+        "searchTerm": "pineapple",
+        "normalizedName": "Pineapple"
+      },
+      {
+        "ingredient": "3  bananas, peeled and sliced",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cut all fruit into uniform 1-inch pieces for consistent eating experience",
+      "Slice bananas just before serving to prevent discoloration",
+      "Combine yogurt and coconut milk dressing just before serving to prevent watering down"
+    ],
+    "coachingPrompt": "Guide the user on proper fruit cutting technique and timing assembly to prevent oxidation."
+  },
+  "timestamp": "2026-02-06T14:47:12.497Z"
+}

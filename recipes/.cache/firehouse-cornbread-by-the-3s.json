@@ -1,0 +1,67 @@
+{
+  "contentHash": "e809f041df32ef61",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "3 cups cornmeal",
+        "searchTerm": "cornmeal",
+        "normalizedName": "Cornmeal"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 tablespoons baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "3 cups whole milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "1 cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Mix dry and wet ingredients separately before combining to avoid overmixing",
+      "Bake at 400°F for 25-30 minutes until a toothpick inserted in the center comes out clean"
+    ],
+    "coachingPrompt": "Remind the user that the 'by the 3s' formula makes this recipe easy to scale and that a slightly lumpy batter produces the best texture."
+  },
+  "timestamp": "2026-02-06T06:41:36.109Z"
+}

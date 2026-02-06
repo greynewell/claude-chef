@@ -1,0 +1,58 @@
+{
+  "contentHash": "d487511764479381",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 potatoes, peeled and cubed",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "water to cover",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 (12 fluid ounce) cans evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      },
+      {
+        "ingredient": "4 tablespoons unsalted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Immersion Blender",
+        "searchTerm": "immersion blender"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Boil potatoes until fork-tender for easier mashing and smooth texture",
+      "Use evaporated milk instead of cream for a lighter, less rich soup",
+      "Partially blend soup to maintain some texture while creating creaminess"
+    ],
+    "coachingPrompt": "Guide the cook on achieving the right consistency and how to season gradually to taste."
+  },
+  "timestamp": "2026-02-06T14:56:14.058Z"
+}

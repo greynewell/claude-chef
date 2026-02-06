@@ -1,0 +1,53 @@
+{
+  "contentHash": "0bff3cadbfdedd11",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "5 cups apple cider vinegar",
+        "searchTerm": "apple cider vinegar",
+        "normalizedName": "Apple Cider Vinegar"
+      },
+      {
+        "ingredient": "2 tablespoons Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "¼ cup salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "4 bone-in chicken breast halves, with skin",
+        "searchTerm": "bone-in chicken breast",
+        "normalizedName": "Bone-In Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "basting brush",
+        "searchTerm": "basting brush"
+      }
+    ],
+    "cookingTips": [
+      "Place chicken skin-side up in baking dish and pour marinade over top",
+      "Baste chicken every 15-20 minutes with the vinegar mixture during baking",
+      "Bake at 375°F for 45-60 minutes until internal temperature reaches 165°F"
+    ],
+    "coachingPrompt": "Are you comfortable with a strong vinegar flavor, and do you have time to baste the chicken regularly?"
+  },
+  "timestamp": "2026-02-06T14:08:48.913Z"
+}

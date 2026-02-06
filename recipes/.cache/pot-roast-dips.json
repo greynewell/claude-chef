@@ -1,0 +1,57 @@
+{
+  "contentHash": "2a8e58e37083cb89",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup water, or as needed",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (.9 ounce) package dry onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      },
+      {
+        "ingredient": "1 (1 ounce) packet dry au jus mix",
+        "searchTerm": "au jus mix",
+        "normalizedName": "Au Jus Mix"
+      },
+      {
+        "ingredient": "1 (2 pound) beef chuck roast",
+        "searchTerm": "beef chuck roast",
+        "normalizedName": "Beef Chuck Roast"
+      },
+      {
+        "ingredient": "12 hoagie rolls, split lengthwise",
+        "searchTerm": "hoagie rolls",
+        "normalizedName": "Hoagie Roll"
+      },
+      {
+        "ingredient": "1 (8 ounce) package shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "shredding fork",
+        "searchTerm": "shredding fork"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Cook roast on low for 8+ hours to allow flavors to meld and meat to shred easily",
+      "Toast rolls lightly before assembling to prevent sogginess from the au jus"
+    ],
+    "coachingPrompt": "Explain how slow cooking transforms tough cuts into tender, flavorful sandwiches"
+  },
+  "timestamp": "2026-02-06T15:11:38.065Z"
+}

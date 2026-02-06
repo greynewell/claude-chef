@@ -1,0 +1,62 @@
+{
+  "contentHash": "a793688a3bf5ca01",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup ice cubes",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      },
+      {
+        "ingredient": "4 fluid ounces cola",
+        "searchTerm": "cola",
+        "normalizedName": "Cola"
+      },
+      {
+        "ingredient": "1 fluid ounce coffee flavored liqueur",
+        "searchTerm": "coffee liqueur",
+        "normalizedName": "Coffee Liqueur"
+      },
+      {
+        "ingredient": "1 (1.5 fluid ounce) jigger vodka",
+        "searchTerm": "vodka",
+        "normalizedName": "Vodka"
+      },
+      {
+        "ingredient": "2 fluid ounces milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 maraschino cherry (Optional)",
+        "searchTerm": "maraschino cherry",
+        "normalizedName": "Maraschino Cherry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Highball glass",
+        "searchTerm": "highball glass"
+      },
+      {
+        "name": "Jigger",
+        "searchTerm": "jigger"
+      },
+      {
+        "name": "Straw",
+        "searchTerm": "drinking straw"
+      },
+      {
+        "name": "Bar spoon",
+        "searchTerm": "bar spoon"
+      }
+    ],
+    "cookingTips": [
+      "Fill the glass with fresh ice to ensure proper chilling",
+      "Pour ingredients in order: cola, coffee liqueur, vodka, then milk for visual appeal",
+      "Stir gently to combine while preserving the layered effect"
+    ],
+    "coachingPrompt": "Help the user layer a vodka paralyzer cocktail with proper proportions and visual presentation."
+  },
+  "timestamp": "2026-02-06T21:52:16.105Z"
+}

@@ -1,0 +1,78 @@
+{
+  "contentHash": "e6314720b528a3b5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "uncooked white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "large green bell peppers, halved and seeded",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "finely shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Measuring Cups",
+        "searchTerm": "measuring cup"
+      }
+    ],
+    "cookingTips": [
+      "Blanch pepper halves for 3-4 minutes before stuffing for tenderness",
+      "Mix cooked rice with filling ingredients for better texture distribution",
+      "Cover with foil for first 25 minutes of baking, then uncover to melt cheese"
+    ],
+    "coachingPrompt": "Ask if the user prefers firmer or softer peppers and adjust blanching time accordingly. Suggest variations with ground turkey or vegetarian options."
+  },
+  "timestamp": "2026-02-06T10:39:09.365Z"
+}

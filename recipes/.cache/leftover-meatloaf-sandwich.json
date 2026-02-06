@@ -1,0 +1,58 @@
+{
+  "contentHash": "fea0d9eb74c12aaa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices leftover meatloaf",
+        "searchTerm": "cooked meatloaf",
+        "normalizedName": "Meatloaf"
+      },
+      {
+        "ingredient": "4 thin slices Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 teaspoon mayonnaise, or to taste",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon ketchup, or to taste",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "1 teaspoon mustard, or to taste",
+        "searchTerm": "mustard",
+        "normalizedName": "Mustard"
+      },
+      {
+        "ingredient": "2 slices bread, toasted",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread until crispy to prevent sogginess from condiments",
+      "Layer condiments on both bread slices for balanced flavor",
+      "Heat meatloaf slices gently in a skillet with cheese on top until cheese melts"
+    ],
+    "coachingPrompt": "What's the best assembly order to maximize flavor and prevent the bread from getting soggy?"
+  },
+  "timestamp": "2026-02-06T11:06:18.590Z"
+}

@@ -1,0 +1,72 @@
+{
+  "contentHash": "e8a3a1cb4a79a65c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package farfalle (bow tie) pasta",
+        "searchTerm": "farfalle pasta",
+        "normalizedName": "Farfalle Pasta"
+      },
+      {
+        "ingredient": "1 bunch fresh asparagus, trimmed and cut into 2 inch pieces",
+        "searchTerm": "asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 small red onion, chopped",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "1 red or green bell pepper, chopped",
+        "searchTerm": "bell pepper",
+        "normalizedName": "Bell Pepper"
+      },
+      {
+        "ingredient": "1 (8 ounce) package sliced fresh mushrooms",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "1 pint grape tomatoes, halved",
+        "searchTerm": "grape tomatoes",
+        "normalizedName": "Grape Tomato"
+      },
+      {
+        "ingredient": "1 pound peeled crawfish tails",
+        "searchTerm": "crawfish tails",
+        "normalizedName": "Crawfish Tail"
+      },
+      {
+        "ingredient": "¾ cup herbed vinaigrette salad dressing",
+        "searchTerm": "vinaigrette dressing",
+        "normalizedName": "Vinaigrette Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pasta pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta until al dente, then reserve 1 cup pasta water to adjust sauce consistency",
+      "Add crawfish tails at the end to prevent overcooking and maintain their tender texture"
+    ],
+    "coachingPrompt": "Help the user coordinate pasta cooking with vegetable sautéing to ensure everything finishes at the same time."
+  },
+  "timestamp": "2026-02-06T15:19:47.087Z"
+}

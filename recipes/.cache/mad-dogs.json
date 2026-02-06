@@ -1,0 +1,39 @@
+{
+  "contentHash": "ecd946ac621fb751",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 hot dog",
+        "searchTerm": "hot dog",
+        "normalizedName": "Hot Dog"
+      },
+      {
+        "ingredient": "1 slice Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 slice bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Toothpicks",
+        "searchTerm": "toothpicks"
+      }
+    ],
+    "cookingTips": [
+      "Wrap bacon around the hot dog and secure with toothpicks to keep it in place while cooking",
+      "Wrap cheese around the hot dog on top of or instead of bacon for a cheesy version",
+      "Cook on medium heat to allow the bacon to crisp and the cheese to melt without burning"
+    ],
+    "coachingPrompt": "Suggest simple variations and the best cooking method for this quick appetizer or snack."
+  },
+  "timestamp": "2026-02-06T11:43:13.919Z"
+}

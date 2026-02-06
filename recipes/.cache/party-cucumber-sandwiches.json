@@ -1,0 +1,53 @@
+{
+  "contentHash": "dcffc9b4e5953e54",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (1 pound) loaf cocktail rye bread",
+        "searchTerm": "cocktail rye bread",
+        "normalizedName": "Cocktail Rye Bread"
+      },
+      {
+        "ingredient": "1 (3 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 large cucumber, peeled and thinly sliced",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "1 onion, halved and thinly sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "6 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "mandoline slicer",
+        "searchTerm": "mandoline slicer"
+      },
+      {
+        "name": "butter knife",
+        "searchTerm": "butter knife"
+      }
+    ],
+    "cookingTips": [
+      "Slice cucumber very thin using mandoline for delicate texture",
+      "Mix cream cheese and mayonnaise for fluffier spread than either alone",
+      "Prepare sandwiches close to serving time to prevent bread from becoming soggy"
+    ],
+    "coachingPrompt": "Guide the user in layering thin vegetables on bread with a balanced spread for elegant, delicate tea sandwiches."
+  },
+  "timestamp": "2026-02-06T14:12:40.626Z"
+}

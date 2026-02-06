@@ -1,0 +1,58 @@
+{
+  "contentHash": "da8f0a895d1c58ca",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) bottle zesty Italian dressing",
+        "searchTerm": "Italian dressing",
+        "normalizedName": "Italian Salad Dressing"
+      },
+      {
+        "ingredient": "3  yellow squash, cut into 1/2-inch pieces",
+        "searchTerm": "yellow squash",
+        "normalizedName": "Yellow Squash"
+      },
+      {
+        "ingredient": "3  zucchini, cut into 1/2-inch pieces",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "2 cups cherry tomatoes",
+        "searchTerm": "cherry tomatoes",
+        "normalizedName": "Cherry Tomato"
+      },
+      {
+        "ingredient": "1 bunch spring onions, minced",
+        "searchTerm": "spring onions",
+        "normalizedName": "Spring Onion"
+      },
+      {
+        "ingredient": "wood chips, soaked",
+        "searchTerm": "wood chips",
+        "normalizedName": "Wood Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Smoker grates",
+        "searchTerm": "smoker grates"
+      },
+      {
+        "name": "Vegetable basket",
+        "searchTerm": "grill basket"
+      },
+      {
+        "name": "Metal skewers",
+        "searchTerm": "metal skewers"
+      }
+    ],
+    "cookingTips": [
+      "Cut vegetables to uniform size for even smoking and cooking",
+      "Marinate vegetables in dressing for 30 minutes before smoking to enhance flavor",
+      "Smoke at lower temperature (200-225°F) to prevent vegetables from becoming too soft"
+    ],
+    "coachingPrompt": "How can you prevent vegetables from becoming mushy during smoking? What size pieces work best for even cooking?"
+  },
+  "timestamp": "2026-02-06T18:25:38.940Z"
+}

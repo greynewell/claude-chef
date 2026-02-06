@@ -1,0 +1,53 @@
+{
+  "contentHash": "9ffd4e3acb6d3c1a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup basil leaves",
+        "searchTerm": "basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "4 cups 1/2-inch cubes watermelon",
+        "searchTerm": "watermelon",
+        "normalizedName": "Watermelon"
+      },
+      {
+        "ingredient": "2 teaspoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "¼ teaspoon kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Salad bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Tear basil by hand rather than cutting with a knife to prevent bruising and discoloration",
+      "Toss with lemon juice and salt just before serving to prevent watermelon from releasing excess liquid",
+      "Dust chili powder on top right before serving for spice and visual appeal"
+    ],
+    "coachingPrompt": "Why should you tear basil by hand instead of cutting it for this salad?"
+  },
+  "timestamp": "2026-02-06T21:58:22.732Z"
+}

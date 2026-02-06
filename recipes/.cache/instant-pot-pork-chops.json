@@ -1,0 +1,48 @@
+{
+  "contentHash": "858a6b974b554b13",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 pork chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "3 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (1 ounce) package dry onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      },
+      {
+        "ingredient": "1 cup apple juice",
+        "searchTerm": "apple juice",
+        "normalizedName": "Apple Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Instant Pot",
+        "searchTerm": "instant pot pressure cooker"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "kitchen tongs"
+      }
+    ],
+    "cookingTips": [
+      "Butter helps create a flavorful fond on the bottom of the pot for deglazing",
+      "Apple juice adds natural sweetness that complements pork beautifully",
+      "Quick release pressure after cooking to prevent the meat from overcooking"
+    ],
+    "coachingPrompt": "Help the user understand how onion soup mix provides seasoning depth while apple juice adds sweetness. Suggest this as a simple weeknight meal."
+  },
+  "timestamp": "2026-02-06T09:55:00.662Z"
+}

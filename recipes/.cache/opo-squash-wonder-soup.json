@@ -1,0 +1,73 @@
+{
+  "contentHash": "4f2ae7e6273e9ce0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ teaspoons cooking oil",
+        "searchTerm": "cooking oil",
+        "normalizedName": "Cooking Oil"
+      },
+      {
+        "ingredient": "½ pound ground pork",
+        "searchTerm": "ground pork",
+        "normalizedName": "Ground Pork"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "4 cups peeled, seeded, and diced opo squash",
+        "searchTerm": "opo squash",
+        "normalizedName": "Opo Squash"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 (15 ounce) cans chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 cubes chicken bouillon",
+        "searchTerm": "chicken bouillon",
+        "normalizedName": "Chicken Bouillon"
+      },
+      {
+        "ingredient": "1 ½ teaspoons chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Peel and seed the opo squash before dicing for easier preparation",
+      "Brown the ground pork thoroughly before adding other ingredients to develop flavor",
+      "Simmer soup for at least 20 minutes to allow squash to become tender"
+    ],
+    "coachingPrompt": "Help the user understand how to properly prepare opo squash and build a flavorful pork broth base"
+  },
+  "timestamp": "2026-02-06T13:42:28.845Z"
+}

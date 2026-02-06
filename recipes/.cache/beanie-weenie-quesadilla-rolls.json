@@ -1,0 +1,41 @@
+{
+  "contentHash": "82c04de74a96c024",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup condensed bean with bacon soup",
+        "searchTerm": "bean with bacon soup",
+        "normalizedName": "Bean With Bacon Soup"
+      },
+      {
+        "ingredient": "1 (8 inch) flour tortilla",
+        "searchTerm": "flour tortilla",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "1 turkey hot dog",
+        "searchTerm": "hot dog",
+        "normalizedName": "Hot Dog"
+      },
+      {
+        "ingredient": "¼ cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet"
+      },
+      {
+        "name": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Spread soup mixture evenly on tortilla before rolling for consistent flavor",
+      "Cook seam-side down first to seal the roll"
+    ],
+    "coachingPrompt": "What's the best way to prevent the filling from leaking out of a tortilla roll?"
+  },
+  "timestamp": "2026-02-05T23:39:16.896Z"
+}

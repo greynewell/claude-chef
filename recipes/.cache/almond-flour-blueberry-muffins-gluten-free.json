@@ -1,0 +1,63 @@
+{
+  "contentHash": "4f6c407560b27c2c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "almond flour",
+        "searchTerm": "almond flour",
+        "normalizedName": "Almond Flour"
+      },
+      {
+        "ingredient": "baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "fresh blueberries",
+        "searchTerm": "blueberries",
+        "normalizedName": "Blueberry"
+      },
+      {
+        "ingredient": "eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "lemon zest",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Muffin tin",
+        "searchTerm": "muffin pan"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Fold blueberries in gently to prevent breaking and staining the batter",
+      "Use fresh lemon zest for bright flavor that complements blueberries",
+      "Don't overmix almond flour batter or muffins will be tough"
+    ],
+    "coachingPrompt": "Guide the user on how lemon brightens blueberry flavor and why proper mixing is crucial for tender muffins."
+  },
+  "timestamp": "2026-02-05T21:53:34.912Z"
+}

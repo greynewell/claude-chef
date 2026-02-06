@@ -1,0 +1,58 @@
+{
+  "contentHash": "cc5c29eaa43e06fb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "thick cut pork chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "whipping cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "blue cheese",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Crumble blue cheese into small pieces so it melts smoothly into the cream sauce",
+      "Keep heat at medium to avoid curdling the cream",
+      "Taste before serving and adjust seasoning as blue cheese is already quite salty"
+    ],
+    "coachingPrompt": "Guide the user on how to create a luxurious sauce by emulsifying butter and cream with cheese."
+  },
+  "timestamp": "2026-02-06T15:06:24.089Z"
+}

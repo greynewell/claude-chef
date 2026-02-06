@@ -1,0 +1,43 @@
+{
+  "contentHash": "b7eff99ed89fa083",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 pounds potatoes, peeled and chopped",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "10 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 large onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (24 ounce) jar sweet pickles, drained and chopped",
+        "searchTerm": "sweet pickles",
+        "normalizedName": "Sweet Pickle"
+      },
+      {
+        "ingredient": "2 cups mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      }
+    ],
+    "gear": [
+      "Large Pot",
+      "Mixing Bowl",
+      "Colander"
+    ],
+    "cookingTips": [
+      "Cook potatoes until just tender; avoid overcooking which makes them mushy",
+      "Chop pickles finely to distribute sweet pickle flavor throughout"
+    ],
+    "coachingPrompt": "Guide the user through creating a balanced potato salad where mayonnaise binds ingredients without overwhelming the dish."
+  },
+  "timestamp": "2026-02-06T13:04:41.928Z"
+}

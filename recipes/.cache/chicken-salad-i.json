@@ -1,0 +1,68 @@
+{
+  "contentHash": "dc445ef0fd72d0a8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 potatoes",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 ½ pounds skinless, boneless, roasted chicken",
+        "searchTerm": "roasted chicken",
+        "normalizedName": "Roasted Chicken"
+      },
+      {
+        "ingredient": "1 (15 ounce) can peas, drained",
+        "searchTerm": "peas",
+        "normalizedName": "Pea"
+      },
+      {
+        "ingredient": "1 (15 ounce) can whole kernel corn, drained",
+        "searchTerm": "corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar creamy salad dressing",
+        "searchTerm": "creamy salad dressing",
+        "normalizedName": "Creamy Salad Dressing"
+      },
+      {
+        "ingredient": "3 large tomatoes, sliced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "stockpot"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Serving bowl",
+        "searchTerm": "salad bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes into uniform cubes before cooking to ensure even tenderness",
+      "Drain canned vegetables thoroughly to prevent excess liquid from diluting the dressing",
+      "Serve warm or at room temperature to highlight the vegetable and chicken flavors"
+    ],
+    "coachingPrompt": "Will you serve this hearty salad warm, chilled, or at room temperature, and why?"
+  },
+  "timestamp": "2026-02-06T02:39:54.004Z"
+}

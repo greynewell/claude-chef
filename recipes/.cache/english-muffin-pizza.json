@@ -1,0 +1,53 @@
+{
+  "contentHash": "ce873641024db5fe",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) package English muffins, split",
+        "searchTerm": "English muffins",
+        "normalizedName": "English Muffin"
+      },
+      {
+        "ingredient": "1 (14 ounce) can pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "1 (8 ounce) package shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 (8 ounce) package sliced pepperoni",
+        "searchTerm": "pepperoni",
+        "normalizedName": "Pepperoni"
+      },
+      {
+        "ingredient": "1 (4 ounce) link cooked Italian sausage, sliced",
+        "searchTerm": "Italian sausage",
+        "normalizedName": "Italian Sausage"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Use pre-cooked sausage to save time and ensure even cooking",
+      "Don't overload toppings or muffins will become soggy",
+      "Bake at 400°F until cheese is melted and edges are crispy, about 10 minutes"
+    ],
+    "coachingPrompt": "Quick pizza pizzas for kids or parties. How much sauce and toppings should you use per muffin to maintain texture and what's the ideal oven temperature?"
+  },
+  "timestamp": "2026-02-06T06:21:09.557Z"
+}

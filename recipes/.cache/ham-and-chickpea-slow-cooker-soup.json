@@ -1,0 +1,58 @@
+{
+  "contentHash": "4868ab77255a517c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound dry garbanzo beans",
+        "searchTerm": "garbanzo beans",
+        "normalizedName": "Garbanzo Bean"
+      },
+      {
+        "ingredient": "1 meaty ham bone",
+        "searchTerm": "ham bone",
+        "normalizedName": "Ham Bone"
+      },
+      {
+        "ingredient": "10 new potatoes, halved",
+        "searchTerm": "new potatoes",
+        "normalizedName": "New Potato"
+      },
+      {
+        "ingredient": "5 carrots, chopped",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "½ cup frozen corn",
+        "searchTerm": "frozen corn",
+        "normalizedName": "Frozen Corn"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Strainer",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Soak dried beans overnight or use quick-soak method before adding to slow cooker",
+      "Use a meaty ham bone with good flavor for rich, satisfying broth",
+      "Cook on low for 8-10 hours for tender beans and melded flavors"
+    ],
+    "coachingPrompt": "Why is soaking beans before slow cooking important for texture and digestion?"
+  },
+  "timestamp": "2026-02-06T08:40:28.530Z"
+}

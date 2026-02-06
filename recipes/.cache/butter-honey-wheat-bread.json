@@ -1,0 +1,68 @@
+{
+  "contentHash": "f078f8da68110927",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 tablespoons margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "2 tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "2 cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "½ cup whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "⅓ cup dry milk powder",
+        "searchTerm": "dry milk powder",
+        "normalizedName": "Dry Milk Powder"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 (.25 ounce) package active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Bread Machine",
+        "searchTerm": "bread machine"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Kitchen Scale",
+        "searchTerm": "kitchen scale"
+      }
+    ],
+    "cookingTips": [
+      "Ensure water is lukewarm (110°F) to activate yeast properly",
+      "Let dough rise in a warm, draft-free location for best results",
+      "Whole wheat flour adds nutrition but may require slightly more liquid for proper hydration"
+    ],
+    "coachingPrompt": "What is the optimal water temperature for activating yeast, and how do you know when dough has risen sufficiently?"
+  },
+  "timestamp": "2026-02-06T00:59:42.653Z"
+}

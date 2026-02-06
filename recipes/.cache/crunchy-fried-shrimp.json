@@ -1,0 +1,63 @@
+{
+  "contentHash": "e532d1d5ba90a849",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound uncooked jumbo shrimp",
+        "searchTerm": "jumbo shrimp",
+        "normalizedName": "Jumbo Shrimp"
+      },
+      {
+        "ingredient": "⅓ cup flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¾ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "3 large eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 ½ cups Kikkoman Panko Bread Crumbs",
+        "searchTerm": "panko breadcrumbs",
+        "normalizedName": "Panko Bread Crumb"
+      },
+      {
+        "ingredient": "1 cup Vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep frying pan",
+        "searchTerm": "deep skillet"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "cooking thermometer"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "spider strainer"
+      }
+    ],
+    "cookingTips": [
+      "Pat shrimp dry before breading to ensure coating adheres properly",
+      "Heat oil to 350°F before frying for a crispy exterior without greasiness",
+      "Fry shrimp in batches to maintain oil temperature and prevent crowding"
+    ],
+    "coachingPrompt": "Deep frying requires precision. Help the cook understand oil temperature control and why it's critical for achieving that perfect golden crust. What's the right internal temperature?"
+  },
+  "timestamp": "2026-02-06T04:44:41.394Z"
+}

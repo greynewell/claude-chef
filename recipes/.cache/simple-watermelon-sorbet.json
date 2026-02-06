@@ -1,0 +1,47 @@
+{
+  "contentHash": "a19dbfa46af8934b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "3 cups cubed seeded watermelon",
+        "searchTerm": "watermelon",
+        "normalizedName": "Watermelon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      }
+    ],
+    "cookingTips": [
+      "Chill syrup completely before adding to watermelon base",
+      "Use frozen watermelon for smoother texture if making without an ice cream maker"
+    ],
+    "coachingPrompt": "How does the acid from lemon juice balance the sweetness and enhance the watermelon flavor?"
+  },
+  "timestamp": "2026-02-06T17:54:03.128Z"
+}

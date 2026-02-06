@@ -1,0 +1,63 @@
+{
+  "contentHash": "42941da5edc77663",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 large tomatoes",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "½ cup chopped fresh basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "¼ cup red wine vinegar",
+        "searchTerm": "red wine vinegar",
+        "normalizedName": "Red Wine Vinegar"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh oregano",
+        "searchTerm": "fresh oregano",
+        "normalizedName": "Oregano"
+      },
+      {
+        "ingredient": "½ pound dry tagliatelle or wide fettucine pasta",
+        "searchTerm": "tagliatelle pasta",
+        "normalizedName": "Tagliatelle Pasta"
+      },
+      {
+        "ingredient": "1 tablespoon shredded Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Dice tomatoes uniformly for even distribution throughout the dish",
+      "Let the tomato sauce sit for 15 minutes to allow flavors to meld",
+      "Toss pasta with sauce while still warm to help it cling to the noodles"
+    ],
+    "coachingPrompt": "Guide the user on building fresh tomato sauce without cooking and proper pasta water usage."
+  },
+  "timestamp": "2026-02-06T20:55:14.264Z"
+}

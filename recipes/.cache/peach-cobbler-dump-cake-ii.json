@@ -1,0 +1,49 @@
+{
+  "contentHash": "aaa2057517fb1230",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (29 ounce) can sliced peaches, drained, juice reserved",
+        "searchTerm": "canned peaches",
+        "normalizedName": "Peach"
+      },
+      {
+        "ingredient": "1 (6 ounce) package peach flavored Jell-O mix",
+        "searchTerm": "Jell-O mix",
+        "normalizedName": "Jell-O Mix"
+      },
+      {
+        "ingredient": "1 (18.25 ounce) package yellow cake mix",
+        "searchTerm": "yellow cake mix",
+        "normalizedName": "Yellow Cake Mix"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "measuring cup",
+        "searchTerm": "measuring cup"
+      }
+    ],
+    "cookingTips": [
+      "Reserve peach juice and mix with water to create a flavorful liquid that hydrates the cake mix",
+      "Jell-O adds a fruity gel layer that keeps the cake moist as it bakes",
+      "Distribute butter pats evenly across the top for consistent browning"
+    ],
+    "coachingPrompt": "This dump cake uses gelatin for moisture. What other flavor pairings could work with this technique?"
+  },
+  "timestamp": "2026-02-06T14:20:56.396Z"
+}

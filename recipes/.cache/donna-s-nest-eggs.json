@@ -1,0 +1,48 @@
+{
+  "contentHash": "f5ec52bbc5e405fe",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 (3 ounce) package seasoned coating mix (such as SHAKE-N-BAKE®)",
+        "searchTerm": "seasoned coating mix",
+        "normalizedName": "Seasoned Coating Mix"
+      },
+      {
+        "ingredient": "1 pound bulk pork sausage",
+        "searchTerm": "bulk pork sausage",
+        "normalizedName": "Bulk Pork Sausage"
+      },
+      {
+        "ingredient": "6 hard-boiled eggs, peeled",
+        "searchTerm": "hard-boiled eggs",
+        "normalizedName": "Hard-Boiled Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "shallow dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Wrap sausage evenly around each egg for consistent cooking",
+      "Dip in milk before coating with seasoned mix for better adhesion",
+      "Bake at 350°F for 20-25 minutes until sausage is cooked through"
+    ],
+    "coachingPrompt": "These make excellent appetizers or brunch additions. Will you serve them hot or at room temperature?"
+  },
+  "timestamp": "2026-02-06T05:19:00.094Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "ab031a1f7a5a0542",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¾ cup hot water or as needed",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Rolling pin",
+        "searchTerm": "rolling pin"
+      },
+      {
+        "name": "Skillet or griddle",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Knead the dough until smooth and elastic, about 5-10 minutes",
+      "Let dough rest for 15-20 minutes before rolling for easier shaping",
+      "Cook on a hot griddle until light brown spots appear, flipping frequently"
+    ],
+    "coachingPrompt": "Chapati is an unleavened flatbread that requires basic dough skills. Do you have a rolling pin and a skillet or griddle available?"
+  },
+  "timestamp": "2026-02-06T09:40:34.102Z"
+}

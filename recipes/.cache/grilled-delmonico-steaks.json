@@ -1,0 +1,83 @@
+{
+  "contentHash": "be7e41065ddb02b5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ cup Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "6 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "¼ cup minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ medium onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 tablespoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon crushed dried rosemary",
+        "searchTerm": "rosemary",
+        "normalizedName": "Rosemary"
+      },
+      {
+        "ingredient": "3 tablespoons steak seasoning",
+        "searchTerm": "steak seasoning",
+        "normalizedName": "Steak Seasoning"
+      },
+      {
+        "ingredient": "3 tablespoons steak sauce (e.g. A-1)",
+        "searchTerm": "steak sauce",
+        "normalizedName": "Steak Sauce"
+      },
+      {
+        "ingredient": "4 (10 ounce) Delmonico (rib-eye) steaks",
+        "searchTerm": "Delmonico steak",
+        "normalizedName": "Delmonico Steak"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "grill tongs"
+      }
+    ],
+    "cookingTips": [
+      "Marinate steaks for 4-6 hours in refrigerator before grilling",
+      "Remove steaks from marinade 30 minutes before grilling to allow even cooking",
+      "Do not flip steaks more than once; flip only when you see juices pooling on top"
+    ],
+    "coachingPrompt": "Guide the user through proper steak temperature management and the importance of resting meat after grilling."
+  },
+  "timestamp": "2026-02-06T08:15:36.944Z"
+}

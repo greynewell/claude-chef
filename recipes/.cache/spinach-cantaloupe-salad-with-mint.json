@@ -1,0 +1,73 @@
+{
+  "contentHash": "09122d2670214a8c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "spinach",
+        "searchTerm": "fresh spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "cantaloupe",
+        "searchTerm": "cantaloupe",
+        "normalizedName": "Cantaloupe"
+      },
+      {
+        "ingredient": "avocado",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "red bell pepper",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "mint",
+        "searchTerm": "fresh mint",
+        "normalizedName": "Mint"
+      },
+      {
+        "ingredient": "mint apple jelly",
+        "searchTerm": "mint apple jelly",
+        "normalizedName": "Mint Apple Jelly"
+      },
+      {
+        "ingredient": "white wine vinegar",
+        "searchTerm": "white wine vinegar",
+        "normalizedName": "White Wine Vinegar"
+      },
+      {
+        "ingredient": "vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      }
+    ],
+    "gear": [
+      {
+        "name": "salad bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "salad knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "salad tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Cut avocado just before serving to prevent browning",
+      "Whisk mint jelly with vinegar and oil for homemade dressing",
+      "Serve salad immediately after dressing to maintain crispness"
+    ],
+    "coachingPrompt": "Do you have fresh mint available, and would you prefer a lighter vinaigrette dressing?"
+  },
+  "timestamp": "2026-02-06T19:14:40.647Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "4f929fd92f27d663",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 ounces sliced bacon, cut in half",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "4 teaspoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ cup dark soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "2 cloves garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 (8 ounce) can oysters, drained",
+        "searchTerm": "oysters",
+        "normalizedName": "Oyster"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Paper towels",
+        "searchTerm": "paper towels"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then set aside before adding other ingredients",
+      "Drain oysters thoroughly to prevent excess moisture",
+      "Cook mixture until sauce thickens and coats oysters"
+    ],
+    "coachingPrompt": "Is this for an appetizer or main dish? Portion size will help guide preparation."
+  },
+  "timestamp": "2026-02-06T13:56:47.925Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "2836a4369d8aff5f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 fluid ounces lemon-lime soda",
+        "searchTerm": "lemon-lime soda",
+        "normalizedName": "Lemon-Lime Soda"
+      },
+      {
+        "ingredient": "1 (1.5 fluid ounce) jigger grenadine syrup",
+        "searchTerm": "grenadine syrup",
+        "normalizedName": "Grenadine Syrup"
+      },
+      {
+        "ingredient": "1 scoop vanilla ice cream",
+        "searchTerm": "vanilla ice cream",
+        "normalizedName": "Vanilla Ice Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Tall glass",
+        "searchTerm": "tall glass"
+      },
+      {
+        "name": "Jigger",
+        "searchTerm": "jigger"
+      },
+      {
+        "name": "Long spoon",
+        "searchTerm": "long spoon"
+      }
+    ],
+    "cookingTips": [
+      "Chill glass before serving to keep float cold longer",
+      "Pour grenadine first, then soda for visual layering effect",
+      "Add ice cream just before serving to prevent melting"
+    ],
+    "coachingPrompt": "Help the cook create an appealing presentation and suggest complementary flavor variations."
+  },
+  "timestamp": "2026-02-06T17:27:39.367Z"
+}

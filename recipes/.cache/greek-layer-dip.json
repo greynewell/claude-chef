@@ -1,0 +1,63 @@
+{
+  "contentHash": "def39cbe01f87bd4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (10 ounce) containers red pepper hummus",
+        "searchTerm": "red pepper hummus",
+        "normalizedName": "Red Pepper Hummus"
+      },
+      {
+        "ingredient": "¾ cup crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "¾ cup peeled and diced cucumber",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "½ cup diced fresh tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "½ cup finely chopped Kalamata olives",
+        "searchTerm": "Kalamata olive",
+        "normalizedName": "Kalamata Olive"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon dried oregano",
+        "searchTerm": "oregano",
+        "normalizedName": "Oregano"
+      }
+    ],
+    "gear": [
+      {
+        "name": "shallow serving bowl or platter",
+        "searchTerm": "serving bowl"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Layer ingredients in order from hummus to oregano for visual appeal",
+      "Pat cucumber and tomato dry with paper towels to prevent excess moisture",
+      "Drizzle olive oil just before serving to keep toppings from getting soggy"
+    ],
+    "coachingPrompt": "Help the user layer ingredients evenly and explain why moisture control is essential for a layered dip."
+  },
+  "timestamp": "2026-02-06T08:01:18.202Z"
+}

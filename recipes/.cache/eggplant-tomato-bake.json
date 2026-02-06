@@ -1,0 +1,43 @@
+{
+  "contentHash": "8d78679fcddfe228",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 eggplant, sliced into 1/2 inch rounds",
+        "searchTerm": "eggplant",
+        "normalizedName": "Eggplant"
+      },
+      {
+        "ingredient": "1 tomato, sliced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "¼ cup grated fat-free Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Arrange eggplant and tomato in alternating overlapping slices for presentation",
+      "Season between layers with salt and pepper for better flavor distribution",
+      "Bake at 375°F for 25-30 minutes until eggplant is tender and cheese is golden"
+    ],
+    "coachingPrompt": "Would you like guidance on layering vegetables attractively or adjusting bake time?"
+  },
+  "timestamp": "2026-02-06T06:14:17.690Z"
+}

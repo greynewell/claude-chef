@@ -1,0 +1,73 @@
+{
+  "contentHash": "272b082c3daf9046",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 jalapeno peppers, seeded",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 lime, zested and juiced",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "2 garlic cloves",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "⅓ cup chopped fresh cilantro",
+        "searchTerm": "fresh cilantro",
+        "normalizedName": "Fresh Cilantro"
+      },
+      {
+        "ingredient": "⅓ cup shredded coconut",
+        "searchTerm": "shredded coconut",
+        "normalizedName": "Shredded Coconut"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 pound uncooked medium shrimp, peeled and deveined",
+        "searchTerm": "medium shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "skewers",
+        "searchTerm": "wooden or metal skewers",
+        "normalizedName": "Skewer"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor or blender",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "skewers",
+        "searchTerm": "skewers"
+      }
+    ],
+    "cookingTips": [
+      "Soak wooden skewers in water for 30 minutes before using to prevent burning",
+      "Make marinade in food processor for smooth consistency and better coating",
+      "Don't marinate shrimp longer than 30 minutes or the acid will cook the proteins"
+    ],
+    "coachingPrompt": "Guide the user through making a coconut-lime marinade and explain how to grill shrimp without overcooking them (they only need 2-3 minutes per side)."
+  },
+  "timestamp": "2026-02-06T18:58:56.515Z"
+}

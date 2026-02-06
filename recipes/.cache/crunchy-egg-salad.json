@@ -1,0 +1,68 @@
+{
+  "contentHash": "3dc66eacfcdc8724",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (4 ounce) can sliced water chestnuts",
+        "searchTerm": "canned water chestnuts",
+        "normalizedName": "Water Chestnut"
+      },
+      {
+        "ingredient": "⅓ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "⅓ cup sweet pickle relish",
+        "searchTerm": "sweet pickle relish",
+        "normalizedName": "Sweet Pickle Relish"
+      },
+      {
+        "ingredient": "1 teaspoon dry mustard",
+        "searchTerm": "dry mustard powder",
+        "normalizedName": "Dry Mustard"
+      },
+      {
+        "ingredient": "1 teaspoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "chopping board"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Boil eggs for 10-12 minutes, then cool immediately in ice water for easier peeling",
+      "Chop water chestnuts finely to distribute crunch evenly throughout the salad",
+      "Chill the finished salad for at least 30 minutes before serving to meld flavors"
+    ],
+    "coachingPrompt": "This salad relies on texture contrast. Guide the cook to understand how water chestnuts provide the crunch. What would be good serving options?"
+  },
+  "timestamp": "2026-02-06T04:44:41.393Z"
+}

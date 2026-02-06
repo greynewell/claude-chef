@@ -1,0 +1,57 @@
+{
+  "contentHash": "adc2f25dfd894e09",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 ½ teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅓ cup semolina flour",
+        "searchTerm": "semolina flour",
+        "normalizedName": "Semolina Flour"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Whisk semolina gradually into liquid to avoid lumps forming",
+      "Stir frequently while cooking to prevent sticking and ensure even texture"
+    ],
+    "coachingPrompt": "What technique helps you incorporate semolina flour smoothly without creating lumps?"
+  },
+  "timestamp": "2026-02-06T04:19:02.254Z"
+}

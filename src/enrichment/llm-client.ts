@@ -13,7 +13,7 @@ export class ClaudeClient implements LlmClient {
   async complete(prompt: string): Promise<string> {
     const message = await this.client.messages.create({
       model: this.model,
-      max_tokens: 2048,
+      max_tokens: 16384,
       messages: [{ role: 'user', content: prompt }],
     });
 

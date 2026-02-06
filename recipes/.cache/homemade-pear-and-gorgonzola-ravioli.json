@@ -1,0 +1,53 @@
+{
+  "contentHash": "4eedb0339ff4a098",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 ripe pears - peeled, cored, and cubed",
+        "searchTerm": "pear",
+        "normalizedName": "Pear"
+      },
+      {
+        "ingredient": "3 sprigs fresh thyme",
+        "searchTerm": "thyme",
+        "normalizedName": "Thyme"
+      },
+      {
+        "ingredient": "7 ounces Gorgonzola cheese, crumbled",
+        "searchTerm": "Gorgonzola cheese",
+        "normalizedName": "Gorgonzola Cheese"
+      },
+      {
+        "ingredient": "1 pound fresh pasta dough",
+        "searchTerm": "pasta dough",
+        "normalizedName": "Fresh Pasta Dough"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Ravioli cutter or mold",
+        "searchTerm": "ravioli maker"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "Large pot for boiling",
+        "searchTerm": "pasta pot"
+      }
+    ],
+    "cookingTips": [
+      "Cook pears gently with thyme to infuse flavor without breaking down fruit structure",
+      "Cool pear mixture completely before filling ravioli to prevent pasta from becoming too moist",
+      "Use less filling than you think; overfilled ravioli burst during cooking"
+    ],
+    "coachingPrompt": "Help the user balance delicate pear filling with assertive Gorgonzola flavor and maintain pasta integrity during assembly and cooking."
+  },
+  "timestamp": "2026-02-06T09:16:20.190Z"
+}

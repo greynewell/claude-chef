@@ -1,0 +1,58 @@
+{
+  "contentHash": "095b0b40f6c6ced4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 leek, diced",
+        "searchTerm": "leek",
+        "normalizedName": "Leek"
+      },
+      {
+        "ingredient": "2 (6.5 ounce) jars marinated artichoke hearts, drained and chopped",
+        "searchTerm": "marinated artichoke hearts",
+        "normalizedName": "Marinated Artichoke Heart"
+      },
+      {
+        "ingredient": "1 (7 ounce) jar roasted red peppers, drained and chopped",
+        "searchTerm": "roasted red peppers",
+        "normalizedName": "Roasted Red Pepper"
+      },
+      {
+        "ingredient": "¾ cup freshly grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "3 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Dice leeks finely so they soften evenly when sautéed",
+      "Marinated artichokes provide extra flavor compared to canned",
+      "Freshly grate Parmesan for better melting and texture"
+    ],
+    "coachingPrompt": "What advantage does sautéing the leek provide over raw ingredients?"
+  },
+  "timestamp": "2026-02-05T22:22:37.831Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "97f652768c6cd422",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 fresh jalapeno peppers, halved lengthwise and seeded",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 (8 ounce) package whipped cream cheese",
+        "searchTerm": "whipped cream cheese",
+        "normalizedName": "Whipped Cream Cheese"
+      },
+      {
+        "ingredient": "12 slices bacon, cut in half",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "small spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "kitchen knife",
+        "searchTerm": "kitchen knife"
+      }
+    ],
+    "cookingTips": [
+      "Remove seeds carefully to create a deeper pocket for the filling",
+      "Pre-cook bacon until just starting to crisp before wrapping for better control",
+      "Line baking sheet with foil for easy cleanup"
+    ],
+    "coachingPrompt": "Should I bake or broil these stuffed jalapenos, and for how long?"
+  },
+  "timestamp": "2026-02-06T19:40:26.785Z"
+}

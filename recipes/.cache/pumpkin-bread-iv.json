@@ -1,0 +1,83 @@
+{
+  "contentHash": "15111e2852f28219",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups canned pumpkin puree",
+        "searchTerm": "pumpkin puree",
+        "normalizedName": "Pumpkin Puree"
+      },
+      {
+        "ingredient": "1 ½ cups vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "4 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "6 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "4 ¾ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 ½ teaspoons baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "1 ½ teaspoons baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "1 ½ teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ½ teaspoons ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "1 ½ teaspoons ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      },
+      {
+        "ingredient": "1 ½ teaspoons ground cloves",
+        "searchTerm": "cloves",
+        "normalizedName": "Clove"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Loaf Pans",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "Large Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Electric Mixer",
+        "searchTerm": "electric mixer"
+      }
+    ],
+    "cookingTips": [
+      "This recipe yields two large loaves; divide batter evenly",
+      "Use room temperature eggs for better incorporation",
+      "Bake at 350°F for 60-70 minutes, covering with foil if browning too quickly"
+    ],
+    "coachingPrompt": "Help the user understand this is a double-batch recipe and manage expectations for baking time across multiple loaves."
+  },
+  "timestamp": "2026-02-06T15:26:01.945Z"
+}

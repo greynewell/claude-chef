@@ -1,0 +1,78 @@
+{
+  "contentHash": "06b252d092a38b78",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 pita breads",
+        "searchTerm": "pita bread",
+        "normalizedName": "Pita Bread"
+      },
+      {
+        "ingredient": "1 (6.5 ounce) can tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "1 (4 ounce) can sliced black olives, drained",
+        "searchTerm": "black olives",
+        "normalizedName": "Black Olive"
+      },
+      {
+        "ingredient": "1 ounce diced pimento peppers, drained",
+        "searchTerm": "pimento peppers",
+        "normalizedName": "Pimento Pepper"
+      },
+      {
+        "ingredient": "2 small tomatoes, thinly sliced",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "4 ounces shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "4 ounces blue cheese, crumbled",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      },
+      {
+        "ingredient": "1 pinch dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "1 pinch dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      },
+      {
+        "ingredient": "1 pinch crushed coriander seed",
+        "searchTerm": "coriander seed",
+        "normalizedName": "Coriander Seed"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Drain canned vegetables well to prevent soggy pita bases",
+      "Spread tomato sauce thinly to keep pita from becoming waterlogged",
+      "Use a combination of cheeses for complex flavor depth"
+    ],
+    "coachingPrompt": "Help the user create individual pizzas on pita bread by properly distributing toppings and managing moisture to achieve a crispy base."
+  },
+  "timestamp": "2026-02-06T14:53:14.573Z"
+}

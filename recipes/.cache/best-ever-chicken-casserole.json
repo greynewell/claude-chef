@@ -1,0 +1,57 @@
+{
+  "contentHash": "49b671f1ed4db3b1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 skinless, boneless chicken breasts",
+        "searchTerm": "chicken breasts",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 (8 ounce) can water chestnuts",
+        "searchTerm": "water chestnuts canned",
+        "normalizedName": "Water Chestnut"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of chicken soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream of Chicken Soup"
+      },
+      {
+        "ingredient": "1 cup cornflakes cereal crumbs",
+        "searchTerm": "cornflakes cereal",
+        "normalizedName": "Cornflake Cereal"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Casserole Dish",
+        "searchTerm": "9x13 casserole dish"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken breasts to even thickness for uniform cooking",
+      "Mix ingredients gently to avoid breaking water chestnuts"
+    ],
+    "coachingPrompt": "Guide the user through assembling this creamy chicken casserole and suggest baking temperature and time."
+  },
+  "timestamp": "2026-02-05T23:58:35.591Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "f0d1e93df559e596",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¾ cup whole milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 cup coconut milk",
+        "searchTerm": "coconut milk",
+        "normalizedName": "Coconut Milk"
+      },
+      {
+        "ingredient": "½ (12 fluid ounce) can evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      },
+      {
+        "ingredient": "½ (14 ounce) can sweetened condensed milk",
+        "searchTerm": "condensed milk",
+        "normalizedName": "Sweetened Condensed Milk"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Flan pan",
+        "searchTerm": "flan pan"
+      },
+      {
+        "name": "Baking dish",
+        "searchTerm": "water bath baking dish"
+      },
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      }
+    ],
+    "cookingTips": [
+      "Make caramel by heating sugar until golden, then quickly add to flan pan",
+      "Blend all ingredients until completely smooth before pouring",
+      "Use a water bath to ensure gentle, even cooking"
+    ],
+    "coachingPrompt": "Flan requires caramel work and careful water bath baking. Are you comfortable with both techniques?"
+  },
+  "timestamp": "2026-02-06T03:39:37.003Z"
+}

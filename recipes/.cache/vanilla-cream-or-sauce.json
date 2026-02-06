@@ -1,0 +1,52 @@
+{
+  "contentHash": "9b61abe9820171ad",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ½ cups whole milk, divided",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 tablespoon cornstarch, or more as desired",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "⅓ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 egg yolks",
+        "searchTerm": "egg yolks",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "candy thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Temper egg yolks by slowly whisking in hot milk to prevent scrambling",
+      "Cook until mixture coats the back of a spoon for proper thickness"
+    ],
+    "coachingPrompt": "How do you safely incorporate hot liquid into egg yolks without cooking them?"
+  },
+  "timestamp": "2026-02-06T21:32:14.898Z"
+}

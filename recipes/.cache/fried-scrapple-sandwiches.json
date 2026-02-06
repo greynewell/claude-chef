@@ -1,0 +1,48 @@
+{
+  "contentHash": "0515613918ddd1af",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "4 (1/4 inch thick) slices fresh scrapple",
+        "searchTerm": "scrapple",
+        "normalizedName": "Scrapple"
+      },
+      {
+        "ingredient": "8 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "2 teaspoons prepared spicy mustard",
+        "searchTerm": "spicy mustard",
+        "normalizedName": "Spicy Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread while scrapple fries for warm, crispy texture",
+      "Keep heat at medium to avoid burning the exterior before center cooks",
+      "Scrapple will develop a golden crust in about 2-3 minutes per side"
+    ],
+    "coachingPrompt": "Scrapple is a traditional breakfast meat. Have you tried it before or is this your first time?"
+  },
+  "timestamp": "2026-02-06T07:06:48.969Z"
+}

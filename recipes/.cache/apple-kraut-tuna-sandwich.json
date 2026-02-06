@@ -1,0 +1,54 @@
+{
+  "contentHash": "9f722a4cbde4a28d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (5 ounce) can tuna in water, drained",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Canned Tuna"
+      },
+      {
+        "ingredient": "¼ cup sauerkraut",
+        "searchTerm": "sauerkraut",
+        "normalizedName": "Sauerkraut"
+      },
+      {
+        "ingredient": "¼ cup finely chopped apple",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "2 tablespoons Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "1 tablespoon red wine vinegar",
+        "searchTerm": "red wine vinegar",
+        "normalizedName": "Red Wine Vinegar"
+      },
+      {
+        "ingredient": "4 slices whole wheat bread, toasted",
+        "searchTerm": "whole wheat bread",
+        "normalizedName": "Whole Wheat Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "small mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      }
+    ],
+    "cookingTips": [
+      "Chop apple finely so it distributes evenly and doesn't make sandwich chunky",
+      "Toast bread lightly to add crunch and prevent sogginess from tuna moisture",
+      "Dijon mustard and vinegar brighten the flavors of tuna and sauerkraut"
+    ],
+    "coachingPrompt": "Guide the user through building an interesting sandwich that balances briny sauerkraut, tangy mustard, and sweet apple with savory tuna."
+  },
+  "timestamp": "2026-02-05T22:13:41.945Z"
+}

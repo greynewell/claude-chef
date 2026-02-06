@@ -1,6 +1,7 @@
 import * as path from 'path';
 import { marked } from 'marked';
-import { ParsedRecipe, RecipeJsonLd, BreadcrumbJsonLd, WebSiteJsonLd, ItemListJsonLd, CollectionPageJsonLd, Taxonomy, TaxonomyDescriptions, TaxonomyEntry, TaxonomyType } from '../types';
+import { ParsedRecipe, RecipeJsonLd, BreadcrumbJsonLd, WebSiteJsonLd, ItemListJsonLd, CollectionPageJsonLd, Taxonomy, TaxonomyDescriptions, TaxonomyEntry, TaxonomyType, FAQ } from '../types';
+import { generateFAQPageJsonLd } from './structured-data';
 import { EnrichmentResult } from '../enrichment/types';
 import { AffiliateLink } from '../affiliates/types';
 import { sanitizeContent } from './sanitizer';
@@ -45,6 +46,11 @@ export function computePagination(totalRecipes: number, currentPage: number, typ
     prevUrl: currentPage > 1 ? pageUrl(currentPage - 1) : null,
     nextUrl: currentPage < totalPages ? pageUrl(currentPage + 1) : null,
   };
+}
+
+/** Escape a string for safe use inside HTML attribute values (double-quoted). */
+function escapeAttr(str: string): string {
+  return str.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
 
 function chefHatSvg(size: number = 28): string {
@@ -514,11 +520,26 @@ export function baseStyles(): string {
       transition: all 0.15s ease;
     }
     .git-btn:hover { border-color: var(--color-primary); color: var(--color-primary); }
+    .recipe-source {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid var(--color-border);
+      font-size: 0.75rem;
+      color: var(--color-text-light);
+    }
+    .recipe-source sup { color: var(--color-primary); font-weight: 600; margin-right: 0.25rem; }
+    .recipe-source a { color: var(--color-text-light); word-break: break-all; }
+    .recipe-source a:hover { color: var(--color-primary); }
 
     /* Index page */
     .hero {
       text-align: center;
-      padding: 2rem 0 3rem;
+      padding: 2rem;
+      background: var(--color-surface);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow-sm);
+      margin-bottom: 2rem;
     }
     .hero h1 { font-size: 2.75rem; margin-bottom: 1rem; }
     .hero-tagline {
@@ -529,17 +550,20 @@ export function baseStyles(): string {
       line-height: 1.7;
     }
     .hero-cta {
-      margin-top: 1rem;
-      font-size: 1rem;
+      margin-top: 1.5rem;
     }
     .hero-cta a {
-      color: var(--color-primary);
+      display: inline-block;
+      background: var(--color-primary);
+      color: #fff;
       font-weight: 600;
+      font-size: 1rem;
+      padding: 0.75rem 1.5rem;
+      border-radius: var(--radius);
       text-decoration: none;
-      border-bottom: 1px solid transparent;
-      transition: border-color 0.15s ease;
+      transition: background 0.15s ease, transform 0.15s ease;
     }
-    .hero-cta a:hover { border-bottom-color: var(--color-primary); }
+    .hero-cta a:hover { background: #4a6a4d; transform: translateY(-1px); }
 
     .recipe-grid {
       list-style: none;
@@ -600,6 +624,18 @@ export function baseStyles(): string {
 
     .favorites-section { margin-bottom: 2.5rem; }
     .favorites-section h2 { text-align: center; margin-bottom: 1rem; }
+
+    .category-showcase { margin-bottom: 3rem; }
+    .category-showcase h2 { margin-bottom: 1rem; }
+    .category-showcase h2 a { color: var(--color-heading); text-decoration: none; }
+    .category-showcase h2 a:hover { color: var(--color-primary); }
+    .category-count { font-size: 0.85rem; color: var(--color-text-secondary); font-weight: 400; font-family: var(--font-body); }
+    .section-link { text-align: right; margin-top: 0.5rem; }
+    .section-link a { color: var(--color-primary); text-decoration: none; font-weight: 500; }
+    .section-link a:hover { text-decoration: underline; }
+    .cuisine-highlights { margin-bottom: 2.5rem; }
+    .cuisine-highlights h2 { text-align: center; margin-bottom: 1rem; }
+    .cuisine-count { font-size: 0.8rem; opacity: 0.7; }
 
     /* Footer CTA */
     .cta {
@@ -720,6 +756,57 @@ export function baseStyles(): string {
       border-radius: 100px;
     }
 
+    /* Large taxonomy index (alphabetical directory) */
+    .popular-section { margin-bottom: 3rem; }
+    .popular-section h2 { margin-bottom: 1rem; }
+    .alpha-directory h2 { margin-bottom: 1rem; }
+    .letter-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.375rem;
+      margin-bottom: 1.5rem;
+      padding: 0.75rem;
+      background: var(--color-surface);
+      border-radius: var(--radius);
+      border: 1px solid var(--color-border);
+    }
+    .letter-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0.4rem 0.75rem;
+      font-weight: 600;
+      font-size: 0.875rem;
+      color: var(--color-text);
+      text-decoration: none;
+      border-radius: 4px;
+      transition: background 0.15s ease, color 0.15s ease;
+      white-space: nowrap;
+    }
+    .letter-link:hover { background: var(--color-primary); color: #fff; }
+    .letter-link.current { background: var(--color-primary); color: #fff; }
+    .letter-count { font-size: 0.75rem; opacity: 0.7; margin-left: 0.25rem; font-weight: 400; }
+    .alpha-group { margin-bottom: 1.5rem; }
+    .alpha-letter {
+      font-size: 1.25rem;
+      color: var(--color-primary);
+      border-bottom: 2px solid var(--color-primary);
+      padding-bottom: 0.25rem;
+      margin-bottom: 0.75rem;
+      display: inline-block;
+    }
+    .alpha-list {
+      list-style: none;
+      padding: 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 0.375rem 1rem;
+    }
+    .alpha-list li { font-size: 0.9375rem; }
+    .alpha-list a { color: var(--color-text); text-decoration: none; }
+    .alpha-list a:hover { color: var(--color-primary); text-decoration: underline; }
+    .alpha-count { color: var(--color-text-secondary); font-size: 0.8125rem; }
+
     /* Browse section on index */
     .browse-section {
       margin-bottom: 2.5rem;
@@ -758,6 +845,58 @@ export function baseStyles(): string {
     .breadcrumb a { color: var(--color-primary); text-decoration: none; }
     .breadcrumb a:hover { color: var(--color-primary-hover); }
     .breadcrumb-sep { color: var(--color-text-light); }
+
+    /* FAQ Section */
+    .faq-section {
+      margin-top: 2.5rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--color-border);
+    }
+    .faq-section h2 {
+      font-family: var(--font-heading);
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+    }
+    .faq-item {
+      border: 1px solid var(--color-border);
+      border-radius: 8px;
+      margin-bottom: 0.5rem;
+      overflow: hidden;
+    }
+    .faq-item[open] {
+      border-color: var(--color-primary);
+    }
+    .faq-question {
+      padding: 1rem 1.25rem;
+      font-weight: 600;
+      cursor: pointer;
+      list-style: none;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.95rem;
+      color: var(--color-text-primary);
+    }
+    .faq-question::-webkit-details-marker { display: none; }
+    .faq-question::after {
+      content: '+';
+      font-size: 1.25rem;
+      font-weight: 400;
+      color: var(--color-text-light);
+      transition: transform 0.2s;
+      flex-shrink: 0;
+      margin-left: 1rem;
+    }
+    .faq-item[open] .faq-question::after {
+      content: '\\2212';
+      color: var(--color-primary);
+    }
+    .faq-answer {
+      padding: 0 1.25rem 1rem;
+      font-size: 0.9rem;
+      line-height: 1.6;
+      color: var(--color-text-secondary);
+    }
 
     /* Share bar */
     .share-bar {
@@ -849,13 +988,144 @@ export function baseStyles(): string {
   `;
 }
 
+/**
+ * Shared JavaScript for all pages. Written to /main.js by the build pipeline.
+ * Contains: share/copy-link handlers, servings slider, copy-list & buy-all handlers.
+ * Each block uses querySelector on data attributes so it safely no-ops on pages
+ * that don't have the relevant DOM elements.
+ */
+export function mainScript(): string {
+  return `
+// --- Share & Copy-link handlers ---
+document.querySelectorAll('[data-share]').forEach(function(btn){
+  if(!navigator.share){btn.style.display='none';return}
+  btn.addEventListener('click',function(){
+    navigator.share({title:btn.dataset.title,text:btn.dataset.text,url:btn.dataset.url}).catch(function(){})
+  })
+});
+document.querySelectorAll('[data-copy-link]').forEach(function(btn){
+  btn.addEventListener('click',function(){
+    navigator.clipboard.writeText(btn.dataset.url).then(function(){
+      var s=btn.querySelector('span');var o=s.textContent;s.textContent='Copied!';setTimeout(function(){s.textContent=o},2000)
+    })
+  })
+});
+
+// --- Servings slider ---
+(function(){
+  var article = document.querySelector('article[data-base-servings]');
+  if (!article) return;
+  var baseServings = parseInt(article.dataset.baseServings, 10);
+  var currentServings = baseServings;
+  var slider = document.querySelector('.servings-range');
+  var numInput = document.querySelector('.servings-input');
+  var ingredients = article.querySelectorAll('.ingredient[data-base-qty]');
+  var FRAC = {
+    '0.125':'\\u215B','0.2':'\\u2155','0.25':'\\u00BC',
+    '0.333':'\\u2153','0.5':'\\u00BD','0.667':'\\u2154','0.75':'\\u00BE'
+  };
+  function snapFraction(f) {
+    if (f < 0.0625) return 0;
+    var targets = [0.125,0.2,0.25,0.333,0.5,0.667,0.75,1];
+    var best = 0, bestDist = Math.abs(f);
+    for (var i = 0; i < targets.length; i++) {
+      var d = Math.abs(f - targets[i]);
+      if (d < bestDist) { bestDist = d; best = targets[i]; }
+    }
+    return bestDist < 0.05 ? best : f;
+  }
+  function formatQty(n) {
+    if (n === 0) return '0';
+    var whole = Math.floor(n);
+    var frac = snapFraction(n - whole);
+    var key = frac.toFixed(3).replace(/0+$/,'').replace(/\\.$/,'');
+    var sym = FRAC[key] || '';
+    if (whole === 0 && sym) return sym;
+    if (whole > 0 && sym) return whole + sym;
+    if (frac === 0) return '' + whole;
+    var r = Math.round(n * 10) / 10;
+    return r === Math.floor(r) ? '' + r : r.toFixed(1);
+  }
+  function setServings(n) {
+    n = Math.max(1, Math.min(99, Math.round(n)));
+    currentServings = n;
+    slider.value = Math.min(n, parseInt(slider.max, 10));
+    numInput.value = n;
+    var pct = ((n - 1) / (parseInt(slider.max, 10) - 1)) * 100;
+    slider.style.background = 'linear-gradient(to right, var(--color-primary) ' + pct + '%, var(--color-border) ' + pct + '%)';
+    var ratio = n / baseServings;
+    // Note: calories per serving stays constant (it's a unit rate)
+    for (var i = 0; i < ingredients.length; i++) {
+      var el = ingredients[i];
+      el.querySelector('.ingredient-qty').textContent = formatQty(parseFloat(el.dataset.baseQty) * ratio);
+    }
+  }
+  slider.addEventListener('input', function() { setServings(parseInt(slider.value, 10)); });
+  numInput.addEventListener('input', function() {
+    var v = parseInt(numInput.value, 10);
+    if (!isNaN(v) && v >= 1) setServings(v);
+  });
+  numInput.addEventListener('blur', function() { numInput.value = currentServings; });
+  document.querySelectorAll('.servings-btn').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      if (btn.dataset.dir === '+') setServings(currentServings + 1);
+      else setServings(currentServings - 1);
+    });
+  });
+  setServings(baseServings);
+})();
+
+// --- Copy-list & Buy-all handlers ---
+document.querySelectorAll('[data-copy-list]').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    var card = btn.closest('.card');
+    if (!card) return;
+    var names = Array.from(card.querySelectorAll('.ingredient-name, .gear-name'))
+      .map(function(el) { return el.textContent.trim(); });
+    if (names.length === 0) return;
+    navigator.clipboard.writeText(names.join('\\n')).then(function() {
+      var s = btn.querySelector('span');
+      var o = s.textContent;
+      s.textContent = 'Copied!';
+      setTimeout(function() { s.textContent = o; }, 2000);
+    });
+  });
+});
+document.querySelectorAll('[data-buy-all]').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    var urls;
+    try { urls = JSON.parse(btn.dataset.urls); } catch(e) { return; }
+    if (!urls || urls.length === 0) return;
+    var provider = btn.dataset.provider || 'this store';
+    if (urls.length > 5) {
+      if (!confirm('This will open ' + urls.length + ' tabs on ' + provider + '. Continue?')) return;
+    }
+    var blocked = 0;
+    for (var i = 0; i < urls.length; i++) {
+      var w = window.open(urls[i], '_blank', 'noopener');
+      if (!w) blocked++;
+    }
+    var s = btn.querySelector('span');
+    var o = s.textContent;
+    if (blocked > 0) {
+      s.textContent = blocked + ' blocked \\u2014 allow popups';
+      setTimeout(function() { s.textContent = o; }, 4000);
+    } else {
+      s.textContent = 'Opened!';
+      setTimeout(function() { s.textContent = o; }, 2000);
+    }
+  });
+});
+`;
+}
+
 export function footerCta(): string {
   return `
 <footer class="cta">
   <div class="cta-box">
     <p class="cta-title">Your AI Sous Chef, Ready When You Are</p>
     <p class="cta-body">Get real-time cooking guidance, ingredient swaps, and step-by-step coaching from Claude Chef.</p>
-    <pre><code>claude plugin install claude-chef</code></pre>
+    <pre><code>/plugin marketplace add greynewell/claude-chef</code></pre>
     <p class="cta-body">Have a recipe to share? <a href="/contribute.html">Contribute to Claude Chef</a></p>
   </div>
   <p class="created-by"><a href="/changelog.html">v${VERSION}</a> · <a href="https://github.com/greynewell/claude-chef/blob/main/LICENSE">Public Domain (CC0)</a> · Created by <a href="https://greynewell.com">Grey Newell</a> · <a href="/docs.html">Developer Docs</a> · <a href="https://github.com/greynewell/claude-chef/issues/new?template=bug_report.md">Report a bug</a> · <a href="https://github.com/greynewell/claude-chef/issues/new?template=feature_request.md">Request a feature</a></p>
@@ -910,8 +1180,28 @@ function renderIngredientsHtml(ingredients: string[]): string {
 }
 
 function renderBodyWithoutIngredients(body: string): string {
-  const stripped = body.replace(/##\s+Ingredients\s*\n[\s\S]*?(?=\n##\s|$)/, '');
+  let stripped = body.replace(/##\s+Ingredients\s*\n[\s\S]*?(?=\n##\s|$)/, '');
+  // Also strip FAQ section — it's rendered separately with structured data
+  stripped = stripped.replace(/##\s+Frequently Asked Questions\s*\n[\s\S]*?(?=\n##\s(?!#)|$)/, '');
   return marked.parse(sanitizeContent(stripped)) as string;
+}
+
+/**
+ * Render FAQ section with accordion-style Q&A pairs.
+ */
+function renderFAQSection(faqs: FAQ[]): string {
+  if (!faqs || faqs.length === 0) return '';
+
+  const items = faqs.map(faq => `
+      <details class="faq-item">
+        <summary class="faq-question">${faq.question}</summary>
+        <div class="faq-answer">${faq.answer}</div>
+      </details>`).join('');
+
+  return `
+    <section class="faq-section" aria-label="Frequently Asked Questions">
+      <h2>Frequently Asked Questions</h2>${items}
+    </section>`;
 }
 
 /**
@@ -932,12 +1222,17 @@ export function renderRecipePage(
   const gearSection = renderGearSection(enrichment, affiliateLinks);
   const cookModeSection = renderCookModeSection(cookModePrompt);
   const pairingsSection = renderPairingsSection(pairings);
+  const faqSection = renderFAQSection(recipe.faqs);
+  const faqJsonLd = generateFAQPageJsonLd(recipe.faqs);
 
   const canonicalUrl = `${BASE_URL}/${recipe.slug}.html`;
   const ogImage = recipe.frontmatter.image || DEFAULT_OG_IMAGE;
 
   const breadcrumbScript = breadcrumbJsonLd
     ? `\n  <script type="application/ld+json">${JSON.stringify(breadcrumbJsonLd)}</script>`
+    : '';
+  const faqScript = faqJsonLd
+    ? `\n  <script type="application/ld+json">${JSON.stringify(faqJsonLd)}</script>`
     : '';
 
   const prepDisplay = formatDuration(recipe.frontmatter.prep_time);
@@ -985,25 +1280,25 @@ export function renderRecipePage(
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>${recipe.frontmatter.title} | Claude Chef</title>
-  <meta name="description" content="${recipe.frontmatter.description}">
+  <title>${escapeAttr(recipe.frontmatter.title)} | Claude Chef</title>
+  <meta name="description" content="${escapeAttr(recipe.frontmatter.description)}">
   <meta name="robots" content="index, follow">
-  <meta name="author" content="${recipe.frontmatter.author}">
+  <meta name="author" content="${escapeAttr(recipe.frontmatter.author)}">
   <meta name="theme-color" content="#5B7B5E">
   <link rel="canonical" href="${canonicalUrl}">
   <meta property="og:site_name" content="Claude Chef">
-  <meta property="og:title" content="${recipe.frontmatter.title}">
-  <meta property="og:description" content="${recipe.frontmatter.description}">
+  <meta property="og:title" content="${escapeAttr(recipe.frontmatter.title)}">
+  <meta property="og:description" content="${escapeAttr(recipe.frontmatter.description)}">
   <meta property="og:type" content="article">
   <meta property="og:url" content="${canonicalUrl}">
   <meta property="og:image" content="${ogImage}">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="${recipe.frontmatter.title}">
-  <meta name="twitter:description" content="${recipe.frontmatter.description}">
+  <meta name="twitter:title" content="${escapeAttr(recipe.frontmatter.title)}">
+  <meta name="twitter:description" content="${escapeAttr(recipe.frontmatter.description)}">
   <meta name="twitter:image" content="${ogImage}">
   ${googleFonts()}
-  <script type="application/ld+json">${jsonLdString}</script>${breadcrumbScript}
-  <style>${baseStyles()}</style>
+  <script type="application/ld+json">${jsonLdString}</script>${breadcrumbScript}${faqScript}
+  <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
   <a class="skip-link" href="#main-content">Skip to recipe</a>
@@ -1019,141 +1314,22 @@ export function renderRecipePage(
     </div>
     <article data-base-servings="${recipe.frontmatter.servings}" data-base-calories="${recipe.frontmatter.calories}">
   ${ingredientsHtml}
-  ${restBodyHtml}</article>${shopSection}${gearSection}${cookModeSection}${pairingsSection}
+  ${restBodyHtml}</article>${shopSection}${gearSection}${cookModeSection}${pairingsSection}${faqSection}
     <div class="share-bar">
       <span class="share-label">Share this recipe</span>
-      <button class="share-btn" data-share aria-label="Share recipe" data-url="${canonicalUrl}" data-title="${recipe.frontmatter.title}" data-text="${recipe.frontmatter.description}"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg><span>Share</span></button>
+      <button class="share-btn" data-share aria-label="Share recipe" data-url="${canonicalUrl}" data-title="${escapeAttr(recipe.frontmatter.title)}" data-text="${escapeAttr(recipe.frontmatter.description)}"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg><span>Share</span></button>
       <button class="share-btn" data-copy-link aria-label="Copy link to recipe" data-url="${canonicalUrl}"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg><span>Copy link</span></button>
     </div>
     <div class="git-meta">
       <a class="git-btn" href="${REPO_URL}">git clone</a>
       <span>${commitHash}</span>
-    </div>
+    </div>${recipe.frontmatter.source_url ? `
+    <footer class="recipe-source">
+      <sup>[1]</sup> Original recipe: <a href="${escapeAttr(recipe.frontmatter.source_url)}" rel="noopener" target="_blank">${escapeAttr(recipe.frontmatter.source_url)}</a>
+    </footer>` : ''}
   </main>
 ${footerCta()}
-<script>
-document.querySelectorAll('[data-share]').forEach(function(btn){
-  if(!navigator.share){btn.style.display='none';return}
-  btn.addEventListener('click',function(){
-    navigator.share({title:btn.dataset.title,text:btn.dataset.text,url:btn.dataset.url}).catch(function(){})
-  })
-});
-document.querySelectorAll('[data-copy-link]').forEach(function(btn){
-  btn.addEventListener('click',function(){
-    navigator.clipboard.writeText(btn.dataset.url).then(function(){
-      var s=btn.querySelector('span');var o=s.textContent;s.textContent='Copied!';setTimeout(function(){s.textContent=o},2000)
-    })
-  })
-});
-</script>
-<script>
-(function(){
-  var article = document.querySelector('article[data-base-servings]');
-  if (!article) return;
-  var baseServings = parseInt(article.dataset.baseServings, 10);
-  var baseCalories = parseInt(article.dataset.baseCalories, 10);
-  var currentServings = baseServings;
-  var slider = document.querySelector('.servings-range');
-  var numInput = document.querySelector('.servings-input');
-  var caloriesDisplay = document.querySelector('.calories-value');
-  var ingredients = article.querySelectorAll('.ingredient[data-base-qty]');
-  var FRAC = {
-    '0.125':'\u215B','0.2':'\u2155','0.25':'\u00BC',
-    '0.333':'\u2153','0.5':'\u00BD','0.667':'\u2154','0.75':'\u00BE'
-  };
-  function snapFraction(f) {
-    if (f < 0.0625) return 0;
-    var targets = [0.125,0.2,0.25,0.333,0.5,0.667,0.75,1];
-    var best = 0, bestDist = Math.abs(f);
-    for (var i = 0; i < targets.length; i++) {
-      var d = Math.abs(f - targets[i]);
-      if (d < bestDist) { bestDist = d; best = targets[i]; }
-    }
-    return bestDist < 0.05 ? best : f;
-  }
-  function formatQty(n) {
-    if (n === 0) return '0';
-    var whole = Math.floor(n);
-    var frac = snapFraction(n - whole);
-    var key = frac.toFixed(3).replace(/0+$/,'').replace(/\.$/,'');
-    var sym = FRAC[key] || '';
-    if (whole === 0 && sym) return sym;
-    if (whole > 0 && sym) return whole + sym;
-    if (frac === 0) return '' + whole;
-    var r = Math.round(n * 10) / 10;
-    return r === Math.floor(r) ? '' + r : r.toFixed(1);
-  }
-  function setServings(n) {
-    n = Math.max(1, Math.min(99, Math.round(n)));
-    currentServings = n;
-    slider.value = Math.min(n, parseInt(slider.max, 10));
-    numInput.value = n;
-    var pct = ((n - 1) / (parseInt(slider.max, 10) - 1)) * 100;
-    slider.style.background = 'linear-gradient(to right, var(--color-primary) ' + pct + '%, var(--color-border) ' + pct + '%)';
-    var ratio = n / baseServings;
-    if (caloriesDisplay) caloriesDisplay.textContent = Math.round(baseCalories * ratio);
-    for (var i = 0; i < ingredients.length; i++) {
-      var el = ingredients[i];
-      el.querySelector('.ingredient-qty').textContent = formatQty(parseFloat(el.dataset.baseQty) * ratio);
-    }
-  }
-  slider.addEventListener('input', function() { setServings(parseInt(slider.value, 10)); });
-  numInput.addEventListener('input', function() {
-    var v = parseInt(numInput.value, 10);
-    if (!isNaN(v) && v >= 1) setServings(v);
-  });
-  numInput.addEventListener('blur', function() { numInput.value = currentServings; });
-  document.querySelectorAll('.servings-btn').forEach(function(btn) {
-    btn.addEventListener('click', function() {
-      if (btn.dataset.dir === '+') setServings(currentServings + 1);
-      else setServings(currentServings - 1);
-    });
-  });
-  setServings(baseServings);
-})();
-</script>${shopSection || gearSection ? `
-<script>
-document.querySelectorAll('[data-copy-list]').forEach(function(btn) {
-  btn.addEventListener('click', function() {
-    var card = btn.closest('.card');
-    if (!card) return;
-    var names = Array.from(card.querySelectorAll('.ingredient-name, .gear-name'))
-      .map(function(el) { return el.textContent.trim(); });
-    if (names.length === 0) return;
-    navigator.clipboard.writeText(names.join('\\n')).then(function() {
-      var s = btn.querySelector('span');
-      var o = s.textContent;
-      s.textContent = 'Copied!';
-      setTimeout(function() { s.textContent = o; }, 2000);
-    });
-  });
-});
-document.querySelectorAll('[data-buy-all]').forEach(function(btn) {
-  btn.addEventListener('click', function() {
-    var urls;
-    try { urls = JSON.parse(btn.dataset.urls); } catch(e) { return; }
-    if (!urls || urls.length === 0) return;
-    var provider = btn.dataset.provider || 'this store';
-    if (urls.length > 5) {
-      if (!confirm('This will open ' + urls.length + ' tabs on ' + provider + '. Continue?')) return;
-    }
-    var blocked = 0;
-    for (var i = 0; i < urls.length; i++) {
-      var w = window.open(urls[i], '_blank', 'noopener');
-      if (!w) blocked++;
-    }
-    var s = btn.querySelector('span');
-    var o = s.textContent;
-    if (blocked > 0) {
-      s.textContent = blocked + ' blocked — allow popups';
-      setTimeout(function() { s.textContent = o; }, 4000);
-    } else {
-      s.textContent = 'Opened!';
-      setTimeout(function() { s.textContent = o; }, 2000);
-    }
-  });
-});
-</script>` : ''}
+<script src="/main.js"></script>
 </body>
 </html>`;
 }
@@ -1376,10 +1552,7 @@ export function renderIndexPage(recipes: ParsedRecipe[], options: IndexPageOptio
   const { webSiteJsonLd = null, itemListJsonLd = null, taxonomies = null, favoriteSlugs = null } = options;
 
   const favoriteSet = new Set(favoriteSlugs || []);
-
-  const recipeItems = recipes
-    .map(r => renderRecipeCard(r, { favorite: favoriteSet.has(r.slug) }))
-    .join('\n    ');
+  const CARDS_PER_CATEGORY = 4;
 
   const indexDescription = 'Delicious recipes with AI-powered cooking guidance. Step-by-step technique, smart substitutions, and real-time coaching from Claude Chef.';
   const canonicalUrl = `${BASE_URL}/index.html`;
@@ -1392,6 +1565,7 @@ export function renderIndexPage(recipes: ParsedRecipe[], options: IndexPageOptio
     structuredDataScripts += `\n  <script type="application/ld+json">${JSON.stringify(itemListJsonLd)}</script>`;
   }
 
+  // Build "Browse by" pill section for all taxonomy types
   let browseSection = '';
   if (taxonomies && taxonomies.length > 0) {
     const browseOrder = ['category', 'cuisine', 'ingredient', 'allergy', 'flavor', 'sauce', 'tool', 'skill_level', 'author'];
@@ -1418,19 +1592,64 @@ export function renderIndexPage(recipes: ParsedRecipe[], options: IndexPageOptio
   // Build favorites section
   const favoriteRecipes = recipes.filter(r => favoriteSet.has(r.slug));
   let favoritesSection = '';
-  let allRecipesHeading = '';
   if (favoriteRecipes.length > 0) {
     const favItems = favoriteRecipes
       .map(r => renderRecipeCard(r, { favorite: true }))
       .join('\n      ');
     favoritesSection = `
-    <div class="favorites-section">
+    <section class="favorites-section">
       <h2>Our Favorites</h2>
       <ul class="recipe-grid">
         ${favItems}
       </ul>
-    </div>`;
-    allRecipesHeading = '\n    <h2 style="text-align:center;margin-bottom:1rem">All Recipes</h2>';
+      <p class="section-link"><a href="/favorites.html">View all favorites &rarr;</a></p>
+    </section>`;
+  }
+
+  // Build category showcase sections — show top N recipes per category
+  let categorySections = '';
+  if (taxonomies) {
+    const categoryTax = taxonomies.find(t => t.type === 'category');
+    if (categoryTax) {
+      // Sort categories by recipe count descending
+      const sortedEntries = [...categoryTax.entries].sort((a, b) => b.recipes.length - a.recipes.length);
+      categorySections = sortedEntries.map(entry => {
+        const preview = entry.recipes.slice(0, CARDS_PER_CATEGORY);
+        const cards = preview
+          .map(r => renderRecipeCard(r, { absoluteHref: true, favorite: favoriteSet.has(r.slug) }))
+          .join('\n        ');
+        return `
+    <section class="category-showcase">
+      <h2><a href="/category/${entry.slug}.html">${entry.name}</a> <span class="category-count">${entry.recipes.length} recipes</span></h2>
+      <ul class="recipe-grid">
+        ${cards}
+      </ul>
+      <p class="section-link"><a href="/category/${entry.slug}.html">See all ${entry.name} recipes &rarr;</a></p>
+    </section>`;
+      }).join('\n');
+    }
+  }
+
+  // Build cuisine highlights — top 6 cuisines as pills with counts
+  let cuisineHighlights = '';
+  if (taxonomies) {
+    const cuisineTax = taxonomies.find(t => t.type === 'cuisine');
+    if (cuisineTax && cuisineTax.entries.length > 0) {
+      const topCuisines = [...cuisineTax.entries]
+        .sort((a, b) => b.recipes.length - a.recipes.length)
+        .slice(0, 8);
+      const cuisinePills = topCuisines
+        .map(e => `<a class="browse-pill tax-cuisine" href="/cuisine/${e.slug}.html">${e.name} <span class="cuisine-count">(${e.recipes.length})</span></a>`)
+        .join('\n        ');
+      cuisineHighlights = `
+    <section class="cuisine-highlights">
+      <h2>Popular Cuisines</h2>
+      <div class="browse-pills">
+        ${cuisinePills}
+      </div>
+      <p class="section-link"><a href="/cuisine/index.html">View all cuisines &rarr;</a></p>
+    </section>`;
+    }
   }
 
   return `<!DOCTYPE html>
@@ -1438,38 +1657,35 @@ export function renderIndexPage(recipes: ParsedRecipe[], options: IndexPageOptio
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>${recipes.length} Recipes with AI-Powered Cooking Guidance | Claude Chef</title>
+  <title>${recipes.length.toLocaleString()} Recipes with AI-Powered Cooking Guidance | Claude Chef</title>
   <meta name="description" content="${indexDescription}">
   <meta name="robots" content="index, follow">
   <meta name="author" content="Claude Chef Community">
   <meta name="theme-color" content="#5B7B5E">
   <link rel="canonical" href="${canonicalUrl}">
   <meta property="og:site_name" content="Claude Chef">
-  <meta property="og:title" content="${recipes.length} Recipes with AI-Powered Cooking Guidance | Claude Chef">
+  <meta property="og:title" content="${recipes.length.toLocaleString()} Recipes with AI-Powered Cooking Guidance | Claude Chef">
   <meta property="og:description" content="${indexDescription}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="${canonicalUrl}">
   <meta property="og:image" content="${DEFAULT_OG_IMAGE}">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="${recipes.length} Recipes with AI-Powered Cooking Guidance | Claude Chef">
+  <meta name="twitter:title" content="${recipes.length.toLocaleString()} Recipes with AI-Powered Cooking Guidance | Claude Chef">
   <meta name="twitter:description" content="${indexDescription}">
   <meta name="twitter:image" content="${DEFAULT_OG_IMAGE}">${structuredDataScripts}
   ${googleFonts()}
-  <style>${baseStyles()}</style>
+  <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
   <a class="skip-link" href="#main-content">Skip to content</a>
   ${renderHeader('index')}
   <main id="main-content">
     <div class="hero">
-      <h1>${recipes.length} Recipes &amp; Counting</h1>
-      <p class="hero-tagline">Explore ${recipes.length} delicious, tested recipes with AI-powered cooking guidance. Every dish comes with step-by-step coaching so your next meal is your best one yet.</p>
+      <h1>${recipes.length.toLocaleString()} Recipes &amp; Counting</h1>
+      <p class="hero-tagline">Explore ${recipes.length.toLocaleString()} delicious, tested recipes with AI-powered cooking guidance. Every dish comes with step-by-step coaching so your next meal is your best one yet.</p>
       <p class="hero-cta"><a href="/contribute.html">Contribute a recipe!</a></p>
-    </div>${browseSection}${favoritesSection}${allRecipesHeading}
-    <ul class="recipe-grid">
-      ${recipeItems}
-    </ul>
-    <p style="text-align:center;margin-top:2rem;color:var(--color-text-secondary)">Have a favorite recipe? Help us grow beyond ${recipes.length}! <a href="/contribute.html">Share it with the community</a></p>
+    </div>${browseSection}${favoritesSection}${categorySections}${cuisineHighlights}
+    <p style="text-align:center;margin-top:2rem;color:var(--color-text-secondary)">Have a favorite recipe? Help us grow beyond ${recipes.length.toLocaleString()}! <a href="/contribute.html">Share it with the community</a></p>
   </main>
 ${footerCta()}
 </body>
@@ -1579,7 +1795,7 @@ export function renderHubPage(
   <meta name="theme-color" content="#5B7B5E">
   <link rel="canonical" href="${canonicalUrl}">${structuredDataScripts}
   ${googleFonts()}
-  <style>${baseStyles()}</style>
+  <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
   <a class="skip-link" href="#main-content">Skip to content</a>
@@ -1628,14 +1844,67 @@ export function renderTaxonomyIndexPage(
     structuredDataScripts += `\n  <script type="application/ld+json">${JSON.stringify(breadcrumbJsonLd)}</script>`;
   }
 
-  const entryItems = taxonomy.entries
-    .map(
-      e => `<li class="taxonomy-card">
-        <a href="/${taxonomy.type}/${e.slug}.html">${e.name}</a>
-        <span class="taxonomy-count">${e.recipes.length}</span>
-      </li>`
-    )
-    .join('\n    ');
+  // For large taxonomies (100+ entries), use alphabetical directory layout
+  const LARGE_THRESHOLD = 50;
+  const isLarge = totalEntries > LARGE_THRESHOLD;
+
+  let bodyContent: string;
+
+  if (isLarge) {
+    // Sort entries by recipe count for "popular" section
+    const byCount = [...taxonomy.entries].sort((a, b) => b.recipes.length - a.recipes.length);
+    const popular = byCount.slice(0, 12);
+    const popularItems = popular
+      .map(e => `<li class="taxonomy-card">
+          <a href="/${taxonomy.type}/${e.slug}.html">${e.name}</a>
+          <span class="taxonomy-count">${e.recipes.length}</span>
+        </li>`)
+      .join('\n      ');
+
+    // Group entries by letter to get counts
+    const byLetter = new Map<string, number>();
+    for (const e of taxonomy.entries) {
+      const letter = (e.name[0] || '#').toUpperCase();
+      const key = /[A-Z]/.test(letter) ? letter : '#';
+      byLetter.set(key, (byLetter.get(key) || 0) + 1);
+    }
+    const sortedLetters = [...byLetter.keys()].sort((a, b) => a === '#' ? 1 : b === '#' ? -1 : a.localeCompare(b));
+
+    // Letter nav linking to separate letter pages
+    const letterNav = sortedLetters
+      .map(l => {
+        const slug = l === '#' ? 'other' : l.toLowerCase();
+        const count = byLetter.get(l) || 0;
+        return `<a href="/${taxonomy.type}/letter-${slug}.html" class="letter-link">${l} <span class="letter-count">(${count})</span></a>`;
+      })
+      .join('');
+
+    bodyContent = `
+    <section class="popular-section">
+      <h2>Most Popular</h2>
+      <ul class="taxonomy-grid">
+        ${popularItems}
+      </ul>
+    </section>
+    <section class="alpha-directory">
+      <h2>Browse by Letter</h2>
+      <nav class="letter-nav" aria-label="Browse by letter">${letterNav}</nav>
+    </section>`;
+  } else {
+    // Small taxonomy: use the original card grid
+    const entryItems = taxonomy.entries
+      .map(
+        e => `<li class="taxonomy-card">
+          <a href="/${taxonomy.type}/${e.slug}.html">${e.name}</a>
+          <span class="taxonomy-count">${e.recipes.length}</span>
+        </li>`
+      )
+      .join('\n      ');
+    bodyContent = `
+    <ul class="taxonomy-grid">
+      ${entryItems}
+    </ul>`;
+  }
 
   return `<!DOCTYPE html>
 <html lang="en">
@@ -1648,7 +1917,7 @@ export function renderTaxonomyIndexPage(
   <meta name="theme-color" content="#5B7B5E">
   <link rel="canonical" href="${canonicalUrl}">${structuredDataScripts}
   ${googleFonts()}
-  <style>${baseStyles()}</style>
+  <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
   <a class="skip-link" href="#main-content">Skip to content</a>
@@ -1656,9 +1925,96 @@ export function renderTaxonomyIndexPage(
   <main id="main-content">
     <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/index.html">Home</a> <span class="breadcrumb-sep">/</span> <span>${taxonomy.label}</span></nav>
     <div class="taxonomy-header">
-      <h1>${totalEntries} ${taxonomy.label}</h1>
+      <h1>${totalEntries.toLocaleString()} ${taxonomy.label}</h1>
       <p>${pageDescription}</p>
+    </div>${bodyContent}
+  </main>
+${footerCta()}
+</body>
+</html>`;
+}
+
+/** Group taxonomy entries by first letter. Returns sorted Map. */
+export function groupEntriesByLetter(entries: TaxonomyEntry[]): Map<string, TaxonomyEntry[]> {
+  const byLetter = new Map<string, TaxonomyEntry[]>();
+  for (const e of entries) {
+    const letter = (e.name[0] || '#').toUpperCase();
+    const key = /[A-Z]/.test(letter) ? letter : '#';
+    if (!byLetter.has(key)) byLetter.set(key, []);
+    byLetter.get(key)!.push(e);
+  }
+  // Sort each group by name
+  for (const group of byLetter.values()) {
+    group.sort((a, b) => a.name.localeCompare(b.name));
+  }
+  return byLetter;
+}
+
+export interface LetterPageOptions {
+  favoriteSlugs?: string[] | null;
+}
+
+/**
+ * Render a letter page for a large taxonomy (e.g., /ingredient/letter-a.html).
+ * Shows all entries starting with that letter as taxonomy cards.
+ */
+export function renderLetterPage(
+  taxonomy: Taxonomy,
+  letter: string,
+  entries: TaxonomyEntry[],
+  allLetters: string[],
+  options: LetterPageOptions = {}
+): string {
+  const { favoriteSlugs = null } = options;
+  const favoriteSet = new Set(favoriteSlugs || []);
+
+  const letterSlug = letter === '#' ? 'other' : letter.toLowerCase();
+  const letterDisplay = letter === '#' ? 'Other' : letter;
+  const canonicalUrl = `${BASE_URL}/${taxonomy.type}/letter-${letterSlug}.html`;
+  const pageTitle = `${taxonomy.labelSingular} starting with ${letterDisplay} | Claude Chef`;
+  const pageDescription = `Browse ${entries.length} ${taxonomy.label.toLowerCase()} starting with "${letterDisplay}" on Claude Chef.`;
+
+  // Letter nav
+  const letterNav = allLetters
+    .map(l => {
+      const slug = l === '#' ? 'other' : l.toLowerCase();
+      const isCurrent = l === letter;
+      const cls = isCurrent ? 'letter-link current' : 'letter-link';
+      return `<a href="/${taxonomy.type}/letter-${slug}.html" class="${cls}">${l}</a>`;
+    })
+    .join('');
+
+  // Entry cards
+  const entryItems = entries
+    .map(e => `<li class="taxonomy-card">
+        <a href="/${taxonomy.type}/${e.slug}.html">${e.name}</a>
+        <span class="taxonomy-count">${e.recipes.length}</span>
+      </li>`)
+    .join('\n      ');
+
+  return `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>${pageTitle}</title>
+  <meta name="description" content="${pageDescription}">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#5B7B5E">
+  <link rel="canonical" href="${canonicalUrl}">
+  ${googleFonts()}
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  ${renderHeader('hub')}
+  <main id="main-content">
+    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/index.html">Home</a> <span class="breadcrumb-sep">/</span> <a href="/${taxonomy.type}/index.html">${taxonomy.label}</a> <span class="breadcrumb-sep">/</span> <span>${letterDisplay}</span></nav>
+    <div class="taxonomy-header">
+      <h1>${taxonomy.label}: ${letterDisplay}</h1>
+      <p>${entries.length} ${taxonomy.label.toLowerCase()} starting with "${letterDisplay}"</p>
     </div>
+    <nav class="letter-nav" aria-label="Browse by letter">${letterNav}</nav>
     <ul class="taxonomy-grid">
       ${entryItems}
     </ul>
@@ -1760,7 +2116,8 @@ export function renderAboutPage(): string {
   <script type="application/ld+json">${JSON.stringify(aboutPageJsonLd)}</script>
   <script type="application/ld+json">${JSON.stringify(breadcrumbJsonLd)}</script>
   ${googleFonts()}
-  <style>${baseStyles()}${aboutStyles()}</style>
+  <link rel="stylesheet" href="/styles.css">
+  <style>${aboutStyles()}</style>
 </head>
 <body>
   <a class="skip-link" href="#main-content">Skip to content</a>
@@ -1796,9 +2153,10 @@ export function renderAboutPage(): string {
     </div>
     <div class="about-section">
       <h2>CLI Plugin</h2>
-      <p>Install Claude Chef as a Claude CLI plugin for AI-powered cooking assistance right in your terminal.</p>
+      <p>Install Claude Chef as a Claude Code plugin for AI-powered cooking assistance right in your terminal.</p>
       <div class="about-install">
-        <pre><code>claude plugin install claude-chef</code></pre>
+        <pre><code>/plugin marketplace add greynewell/claude-chef
+/plugin install claude-chef</code></pre>
       </div>
     </div>
     <div class="about-section">
@@ -1811,6 +2169,10 @@ export function renderAboutPage(): string {
         <a class="git-btn" href="/docs.html">Developer Docs</a>
         <a class="git-btn" href="/changelog.html">Changelog</a>
       </div>
+    </div>
+    <div class="about-section">
+      <h2>Recipe Data Attribution</h2>
+      <p>A portion of the recipes on Claude Chef are sourced from the <a href="https://huggingface.co/datasets/Shengtao/recipe">Shengtao/recipe</a> dataset on HuggingFace, available under the <a href="https://opensource.org/licenses/MIT">MIT License</a>. We are grateful for open datasets that make projects like this possible.</p>
     </div>
   </main>
 ${footerCta()}
@@ -2230,7 +2592,8 @@ export function renderContributePage(): string {
   <script type="application/ld+json">${JSON.stringify(webPageJsonLd)}</script>
   <script type="application/ld+json">${JSON.stringify(breadcrumbJsonLd)}</script>
   ${googleFonts()}
-  <style>${baseStyles()}${contributeStyles()}</style>
+  <link rel="stylesheet" href="/styles.css">
+  <style>${contributeStyles()}</style>
 </head>
 <body>
   <a class="skip-link" href="#main-content">Skip to content</a>
@@ -2404,21 +2767,7 @@ export function renderContributePage(): string {
   </main>
 ${footerCta()}
   <script>${formScript}</script>
-<script>
-document.querySelectorAll('[data-share]').forEach(function(btn){
-  if(!navigator.share){btn.style.display='none';return}
-  btn.addEventListener('click',function(){
-    navigator.share({title:btn.dataset.title,text:btn.dataset.text,url:btn.dataset.url}).catch(function(){})
-  })
-});
-document.querySelectorAll('[data-copy-link]').forEach(function(btn){
-  btn.addEventListener('click',function(){
-    navigator.clipboard.writeText(btn.dataset.url).then(function(){
-      var s=btn.querySelector('span');var o=s.textContent;s.textContent='Copied!';setTimeout(function(){s.textContent=o},2000)
-    })
-  })
-});
-</script>
+<script src="/main.js"></script>
 </body>
 </html>`;
 }
@@ -2529,7 +2878,8 @@ export function renderInstallPage(): string {
   <meta name="twitter:image" content="${DEFAULT_OG_IMAGE}">
   <script type="application/ld+json">${JSON.stringify(breadcrumbJsonLd)}</script>
   ${googleFonts()}
-  <style>${baseStyles()}${installStyles()}</style>
+  <link rel="stylesheet" href="/styles.css">
+  <style>${installStyles()}</style>
 </head>
 <body>
   <a class="skip-link" href="#main-content">Skip to content</a>
@@ -2584,16 +2934,20 @@ export function renderInstallPage(): string {
 
       <div class="install-card">
         <h3>Installation</h3>
-        <pre><code>claude plugin install claude-chef</code></pre>
-        <p>Once installed, Claude Code gains access to recipe commands:</p>
-        <pre><code># Create a new recipe from a template
+        <pre><code># Add the Claude Chef marketplace
+/plugin marketplace add greynewell/claude-chef
+
+# Install the plugin
+/plugin install claude-chef</code></pre>
+        <p>Once installed, use the <code>/chef</code> command:</p>
+        <pre><code># Create a new recipe interactively
 /chef create "Teriyaki Chicken"
 
-# Enrich recipes with AI-generated shopping data and tips
-npm run enrich
+# Enrich a recipe with AI-generated tips and shopping data
+/chef enrich teriyaki-chicken
 
-# Validate a recipe file
-npm run lint-recipe</code></pre>
+# Submit/validate a recipe for contribution
+/chef submit</code></pre>
       </div>
 
       <div class="install-card">
@@ -2687,7 +3041,8 @@ export function renderFavoritesPage(recipes: ParsedRecipe[], options: FavoritesP
   <meta name="twitter:description" content="${pageDescription}">
   <meta name="twitter:image" content="${DEFAULT_OG_IMAGE}">
   ${googleFonts()}
-  <style>${baseStyles()}${favoritesStyles()}</style>
+  <link rel="stylesheet" href="/styles.css">
+  <style>${favoritesStyles()}</style>
 </head>
 <body>
   <a class="skip-link" href="#main-content">Skip to content</a>

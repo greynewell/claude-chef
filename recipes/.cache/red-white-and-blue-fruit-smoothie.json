@@ -1,0 +1,63 @@
+{
+  "contentHash": "8f301fef767929d2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ large banana, cut into pieces and frozen",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "2 large fresh strawberries, rinsed and sliced",
+        "searchTerm": "strawberry",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "¼ cup blueberries",
+        "searchTerm": "blueberries",
+        "normalizedName": "Blueberry"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 tablespoons vanilla yogurt",
+        "searchTerm": "vanilla yogurt",
+        "normalizedName": "Vanilla Yogurt"
+      },
+      {
+        "ingredient": "2 ice cubes",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "smoothie maker"
+      },
+      {
+        "name": "measuring cup",
+        "searchTerm": "measuring tool"
+      },
+      {
+        "name": "glass",
+        "searchTerm": "drinking glass"
+      }
+    ],
+    "cookingTips": [
+      "Freeze banana beforehand for thicker, creamier smoothie",
+      "Blend in stages if blender is small to ensure smooth consistency",
+      "Add milk gradually to reach desired thickness"
+    ],
+    "coachingPrompt": "Guide the user through blending technique to achieve smooth consistency while maintaining fruit texture, and explain how frozen banana acts as natural thickener."
+  },
+  "timestamp": "2026-02-06T16:05:21.057Z"
+}

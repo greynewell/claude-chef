@@ -1,0 +1,48 @@
+{
+  "contentHash": "40fa65eb4939841b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 tablespoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "2 ½ cups frozen strawberries",
+        "searchTerm": "frozen strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Whisk cornstarch with cold water to prevent lumps",
+      "Cook over medium heat until thickened and clear",
+      "Cool completely before using as cake filling"
+    ],
+    "coachingPrompt": "How does cornstarch thicken strawberry juice into smooth, glossy filling?"
+  },
+  "timestamp": "2026-02-06T19:30:30.248Z"
+}

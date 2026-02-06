@@ -1,0 +1,43 @@
+{
+  "contentHash": "df7ad01786d0e444",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 sweet potato, thinly sliced",
+        "searchTerm": "sweet potato",
+        "normalizedName": "Sweet Potato"
+      },
+      {
+        "ingredient": "2 teaspoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "coarse sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "microwave",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "mandoline slicer",
+        "searchTerm": "mandoline slicer"
+      },
+      {
+        "name": "microwave-safe plate",
+        "searchTerm": "microwave safe plate"
+      }
+    ],
+    "cookingTips": [
+      "Slice sweet potatoes uniformly thin for even cooking",
+      "Pat slices dry before oiling to reduce moisture and improve crispiness",
+      "Monitor closely as cooking time varies by microwave power; edges will crisp as they cool"
+    ],
+    "coachingPrompt": "What's the key to achieving crispy chips in a microwave rather than chewy ones?"
+  },
+  "timestamp": "2026-02-06T12:26:40.268Z"
+}

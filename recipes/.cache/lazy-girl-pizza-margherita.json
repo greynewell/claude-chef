@@ -1,0 +1,43 @@
+{
+  "contentHash": "557bc4efe4c2a13e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pocketless Greek pita breads",
+        "searchTerm": "Greek pita bread",
+        "normalizedName": "Greek Pita Bread"
+      },
+      {
+        "ingredient": "¼ cup basil pesto",
+        "searchTerm": "basil pesto",
+        "normalizedName": "Basil Pesto"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "2 Roma tomatoes, sliced",
+        "searchTerm": "Roma tomatoes",
+        "normalizedName": "Roma Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Spread pesto thinly to avoid overpowering the fresh tomato flavor",
+      "Add tomatoes after baking to preserve their freshness and prevent excess moisture"
+    ],
+    "coachingPrompt": "What's the ideal oven temperature and timing to melt the cheese without drying out the pita?"
+  },
+  "timestamp": "2026-02-06T11:04:10.767Z"
+}

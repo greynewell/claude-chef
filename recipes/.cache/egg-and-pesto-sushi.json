@@ -1,0 +1,63 @@
+{
+  "contentHash": "63d0a0c7b04dca99",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups uncooked glutinous white rice",
+        "searchTerm": "glutinous white rice",
+        "normalizedName": "Glutinous White Rice"
+      },
+      {
+        "ingredient": "4 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "6 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "6 sheets nori (dry seaweed)",
+        "searchTerm": "nori seaweed sheets",
+        "normalizedName": "Nori"
+      },
+      {
+        "ingredient": "¼ cup basil pesto",
+        "searchTerm": "basil pesto",
+        "normalizedName": "Basil Pesto"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sushi Mat",
+        "searchTerm": "bamboo sushi rolling mat"
+      },
+      {
+        "name": "Rice Cooker",
+        "searchTerm": "rice cooker"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "non-stick skillet"
+      }
+    ],
+    "cookingTips": [
+      "Cook rice until sticky, then cool to room temperature before assembling sushi",
+      "Make thin egg crepes by cooking beaten eggs in a skillet and slicing into strips",
+      "Keep the sushi mat damp to prevent sticking and ensure smooth rolling"
+    ],
+    "coachingPrompt": "Walk me through rolling sushi correctly to ensure the filling stays intact."
+  },
+  "timestamp": "2026-02-06T06:09:11.305Z"
+}

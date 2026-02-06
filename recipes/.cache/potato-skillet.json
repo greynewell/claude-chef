@@ -1,0 +1,63 @@
+{
+  "contentHash": "dde14a1ad8203360",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 peeled and diced potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "⅛ teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "⅛ teaspoon seasoning salt",
+        "searchTerm": "seasoning salt",
+        "normalizedName": "Seasoning Salt"
+      },
+      {
+        "ingredient": "⅛ teaspoon black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "3 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon first and use the fat to cook potatoes for extra flavor",
+      "Dice potatoes small so they cook quickly with eggs",
+      "Add eggs when potatoes are just beginning to soften"
+    ],
+    "coachingPrompt": "Help me master one-skillet breakfast potato and egg cooking with proper layering of flavors."
+  },
+  "timestamp": "2026-02-06T15:14:45.863Z"
+}

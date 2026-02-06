@@ -1,0 +1,68 @@
+{
+  "contentHash": "7d3e373d4c351dd8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 head garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 cans chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 can chipotle peppers in adobo sauce",
+        "searchTerm": "chipotle peppers",
+        "normalizedName": "Chipotle Pepper"
+      },
+      {
+        "ingredient": "2 tomatoes",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 bunch fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Dutch oven",
+        "searchTerm": "Dutch oven"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "Chop chipotles finely and add adobo sauce gradually to control heat level",
+      "Simmer chicken until it shreds easily, about 15-20 minutes",
+      "Add cilantro at the end to preserve its fresh flavor"
+    ],
+    "coachingPrompt": "Guide the user on how to build layers of flavor by sautéing aromatics first, and help them adjust spice level to taste."
+  },
+  "timestamp": "2026-02-06T02:57:29.764Z"
+}

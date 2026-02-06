@@ -1,0 +1,54 @@
+{
+  "contentHash": "3ab91c10f91f02fd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon Dijon mustard",
+        "searchTerm": "dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "2 ciabatta rolls, sliced in half",
+        "searchTerm": "ciabatta rolls",
+        "normalizedName": "Ciabatta Roll"
+      },
+      {
+        "ingredient": "½ pound cooked turkey, sliced",
+        "searchTerm": "cooked turkey",
+        "normalizedName": "Cooked Turkey"
+      },
+      {
+        "ingredient": "4 ounces Brie cheese, sliced",
+        "searchTerm": "brie cheese",
+        "normalizedName": "Brie Cheese"
+      },
+      {
+        "ingredient": "3 tablespoons cranberry sauce",
+        "searchTerm": "cranberry sauce",
+        "normalizedName": "Cranberry Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "panini press or skillet",
+        "searchTerm": "panini press"
+      },
+      {
+        "name": "butter knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Toast the rolls lightly before assembling for better structure and flavor",
+      "Layer ingredients evenly so each bite has all components",
+      "Press gently to avoid squeezing out the filling before the cheese melts"
+    ],
+    "coachingPrompt": "This is a perfect lunch for two. Do you have a panini press, or will you use a skillet with a heavy lid?"
+  },
+  "timestamp": "2026-02-06T00:39:32.892Z"
+}

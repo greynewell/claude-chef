@@ -1,0 +1,68 @@
+{
+  "contentHash": "aaeb37dd94a1042d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (15.5 ounce) can Sloppy Joe sauce",
+        "searchTerm": "sloppy joe sauce",
+        "normalizedName": "Sloppy Joe Sauce"
+      },
+      {
+        "ingredient": "1 (30 ounce) can refried beans",
+        "searchTerm": "refried beans",
+        "normalizedName": "Refried Bean"
+      },
+      {
+        "ingredient": "6 (10 inch) flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "1 ½ cups shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 cup diced black olives, drained",
+        "searchTerm": "black olives",
+        "normalizedName": "Black Olive"
+      },
+      {
+        "ingredient": "1 cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 medium red onion, diced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Microwave or stovetop",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Warm tortillas in a damp towel or microwave to make them pliable and easier to roll",
+      "Brown ground beef and combine with sloppy joe sauce, then let cool slightly before filling",
+      "Warm refried beans separately and spread evenly on tortillas as a base layer"
+    ],
+    "coachingPrompt": "Guide the cook through assembling and rolling burritos with the right amount of filling to prevent overstuffing, and the best serving order."
+  },
+  "timestamp": "2026-02-06T18:01:12.359Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "d73a3ee6b702c000",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound sliced bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 large Vidalia onion",
+        "searchTerm": "Vidalia onion",
+        "normalizedName": "Vidalia Onion"
+      },
+      {
+        "ingredient": "4 red snapper fillets",
+        "searchTerm": "red snapper fillet",
+        "normalizedName": "Red Snapper Fillet"
+      },
+      {
+        "ingredient": "1 dash soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "plate",
+        "searchTerm": "plate"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then remove and crumble before cooking fish in the bacon fat",
+      "Sauté onion rings until caramelized for sweet flavor contrast",
+      "Pat fish dry before cooking to achieve better browning and crust"
+    ],
+    "coachingPrompt": "How should I layer the bacon, onions, and red snapper for the best flavors?"
+  },
+  "timestamp": "2026-02-06T19:54:02.410Z"
+}

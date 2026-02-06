@@ -1,0 +1,83 @@
+{
+  "contentHash": "7eaa8fb7606cc857",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ½ pounds smoked sausage",
+        "searchTerm": "smoked sausage",
+        "normalizedName": "Smoked Sausage"
+      },
+      {
+        "ingredient": "2 pounds ham hocks",
+        "searchTerm": "ham hocks",
+        "normalizedName": "Ham Hock"
+      },
+      {
+        "ingredient": "4 large potatoes, peeled and cut into large chunks",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 rutabaga, peeled and cut into large chunks",
+        "searchTerm": "rutabaga",
+        "normalizedName": "Rutabaga"
+      },
+      {
+        "ingredient": "6 turnips, peeled and cut into large chunks",
+        "searchTerm": "turnip",
+        "normalizedName": "Turnip"
+      },
+      {
+        "ingredient": "6 carrots, peeled and cut into large chunks",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 onions, cut into large chunks",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 large head cabbage, quartered",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "1 teaspoon salt, or to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper, or to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 quart water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "steamer insert or colander",
+        "searchTerm": "steamer insert"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Cut vegetables into uniform sizes so they cook evenly",
+      "Add harder vegetables like potatoes and carrots before softer ones to ensure even doneness",
+      "The ham hocks add rich flavor; let them simmer for at least 30 minutes before adding other ingredients"
+    ],
+    "coachingPrompt": "Help the cook understand steaming times for different vegetables and how to layer them properly for even cooking."
+  },
+  "timestamp": "2026-02-06T17:01:37.062Z"
+}

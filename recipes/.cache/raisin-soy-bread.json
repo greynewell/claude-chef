@@ -1,0 +1,78 @@
+{
+  "contentHash": "b723a4fec6188cfe",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ¼ cups soy milk",
+        "searchTerm": "soy milk",
+        "normalizedName": "Soy Milk"
+      },
+      {
+        "ingredient": "1 ½ teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "2 tablespoons butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "1 cup whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "1 cup soy flour",
+        "searchTerm": "soy flour",
+        "normalizedName": "Soy Flour"
+      },
+      {
+        "ingredient": "2 teaspoons ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "2 ¼ teaspoons active dry yeast",
+        "searchTerm": "yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "1 cup raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bread machine",
+        "searchTerm": "bread maker"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "loaf pan",
+        "searchTerm": "bread pan"
+      }
+    ],
+    "cookingTips": [
+      "Add raisins in the last 5 minutes of mixing to prevent breaking",
+      "Use warm soy milk to activate yeast properly",
+      "Allow proper rising time for an airy crumb structure"
+    ],
+    "coachingPrompt": "Guide the user through yeast activation and rising times for this multi-flour bread."
+  },
+  "timestamp": "2026-02-06T15:53:47.039Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "8c54250bdedb07bb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package farfalle (bow tie) pasta",
+        "searchTerm": "farfalle pasta",
+        "normalizedName": "Farfalle Pasta"
+      },
+      {
+        "ingredient": "1 cup prepared ranch dressing",
+        "searchTerm": "ranch dressing",
+        "normalizedName": "Ranch Dressing"
+      },
+      {
+        "ingredient": "6 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "½ cup shredded Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 carrot, peeled and diced",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 stalk celery, diced",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 red onion, diced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "cooking pot"
+      },
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "board"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta until al dente, then cool completely before mixing",
+      "Cook bacon until crispy and drain well before chopping",
+      "Toss all ingredients together just before serving to prevent sogginess"
+    ],
+    "coachingPrompt": "Would you prepare this salad ahead for a picnic, and if so, how?"
+  },
+  "timestamp": "2026-02-06T15:54:36.134Z"
+}

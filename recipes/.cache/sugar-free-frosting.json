@@ -1,0 +1,47 @@
+{
+  "contentHash": "8f8ab719960a61d6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (1.4 ounce) package sugar-free instant pudding mix",
+        "searchTerm": "instant pudding mix",
+        "normalizedName": "Instant Pudding Mix"
+      },
+      {
+        "ingredient": "1 ¾ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (8 ounce) container lite frozen whipped topping, thawed",
+        "searchTerm": "whipped topping",
+        "normalizedName": "Whipped Topping"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Let cream cheese soften to room temperature for smooth, lump-free frosting",
+      "The pudding mix flavor determines the frosting flavor - choose to complement your cake"
+    ],
+    "coachingPrompt": "What cake flavor are you frosting, and which pudding flavor will complement it best?"
+  },
+  "timestamp": "2026-02-06T19:44:10.588Z"
+}

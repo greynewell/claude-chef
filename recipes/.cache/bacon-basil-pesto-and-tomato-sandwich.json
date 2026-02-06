@@ -1,0 +1,63 @@
+{
+  "contentHash": "2f2e4d114c5e2b73",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices center-cut bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "4 slices lightly toasted bread, divided",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "2 tablespoons basil pesto",
+        "searchTerm": "basil pesto",
+        "normalizedName": "Basil Pesto"
+      },
+      {
+        "ingredient": "1 tomato, sliced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 teaspoons light mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread to provide structure and prevent sogginess from pesto and tomato",
+      "Pat tomato slices dry to minimize moisture release",
+      "Assemble just before serving to maintain texture contrast"
+    ],
+    "coachingPrompt": "How do pesto and mayo work together, and why is light mayo a good choice here?"
+  },
+  "timestamp": "2026-02-05T22:49:20.390Z"
+}

@@ -1,0 +1,52 @@
+{
+  "contentHash": "de94eb7a6c24291e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 large potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "2 (8 ounce) packages cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 pinch garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Potato masher",
+        "searchTerm": "masher"
+      },
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      }
+    ],
+    "cookingTips": [
+      "Cube potatoes before cooking for faster, more even cooking",
+      "Reserve some starchy cooking water to adjust consistency if needed"
+    ],
+    "coachingPrompt": "Help the cook achieve creamy, rich mashed potatoes. Discuss texture preferences and reheating methods."
+  },
+  "timestamp": "2026-02-06T06:29:22.514Z"
+}

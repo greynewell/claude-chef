@@ -1,0 +1,68 @@
+{
+  "contentHash": "da61db27cc883cc4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 package bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "½ onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 pounds large cooked shrimp",
+        "searchTerm": "large shrimp",
+        "normalizedName": "Large Shrimp"
+      },
+      {
+        "ingredient": "3 chipotle peppers in adobo sauce",
+        "searchTerm": "chipotle peppers",
+        "normalizedName": "Chipotle Pepper"
+      },
+      {
+        "ingredient": "12 corn tortillas",
+        "searchTerm": "corn tortillas",
+        "normalizedName": "Corn Tortilla"
+      },
+      {
+        "ingredient": "1 cup chopped fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "1 lime",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Paper towels",
+        "searchTerm": "paper towels"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then crumble and set aside before using the rendered fat for aromatics",
+      "Mince chipotles finely and add adobo sauce to create a sauce for shrimp",
+      "Warm tortillas over direct flame or in a dry skillet just before serving"
+    ],
+    "coachingPrompt": "Help the user understand how to layer smoky chipotle-shrimp with crispy bacon and fresh cilantro, and suggest timing for assembling tacos."
+  },
+  "timestamp": "2026-02-06T02:57:29.766Z"
+}

@@ -1,0 +1,69 @@
+{
+  "contentHash": "6afaeb9bbf378e32",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "Cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "2 slices Butterball® Turkey bacon",
+        "searchTerm": "turkey bacon",
+        "normalizedName": "Turkey Bacon"
+      },
+      {
+        "ingredient": "2 ounces Butterball® Smoked Turkey Dinner Sausage",
+        "searchTerm": "smoked turkey sausage",
+        "normalizedName": "Smoked Turkey Sausage"
+      },
+      {
+        "ingredient": "1  Flatout® Light Original Flatbread",
+        "searchTerm": "flatbread",
+        "normalizedName": "Flatbread"
+      },
+      {
+        "ingredient": "¼ cup salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "½ cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "10 thin slices  fresh jalapeno pepper, seeds removed",
+        "searchTerm": "fresh jalapeno",
+        "normalizedName": "Fresh Jalapeno"
+      },
+      {
+        "ingredient": "8 thin slices  ripe pitted peeled avocado",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 tablespoon Ranch dressing",
+        "searchTerm": "ranch dressing",
+        "normalizedName": "Ranch Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cook turkey bacon and sausage separately before adding to flatbread to avoid sogginess",
+      "Add avocado after cooking to prevent browning",
+      "Assemble pizza just before baking to keep ingredients fresh"
+    ],
+    "coachingPrompt": "How would you prevent a flatbread pizza from becoming soggy? When should you add delicate ingredients like avocado?"
+  },
+  "timestamp": "2026-02-06T18:25:38.939Z"
+}

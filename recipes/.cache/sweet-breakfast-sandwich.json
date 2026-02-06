@@ -1,0 +1,48 @@
+{
+  "contentHash": "f3f77f6613be389b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons chocolate-hazelnut spread (such as Nutella®)",
+        "searchTerm": "chocolate-hazelnut spread",
+        "normalizedName": "Chocolate-Hazelnut Spread"
+      },
+      {
+        "ingredient": "2 English muffins, split and toasted",
+        "searchTerm": "English muffins",
+        "normalizedName": "English Muffin"
+      },
+      {
+        "ingredient": "1 banana, sliced",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "2 tablespoons marshmallow cream",
+        "searchTerm": "marshmallow cream",
+        "normalizedName": "Marshmallow Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Toast English muffins until crispy to prevent sogginess from spreads",
+      "Slice banana just before assembly to prevent browning",
+      "Spread chocolate-hazelnut and marshmallow while muffins are still warm"
+    ],
+    "coachingPrompt": "Help the cook understand timing to keep the sandwich warm while preventing sogginess from moist ingredients."
+  },
+  "timestamp": "2026-02-06T20:02:26.433Z"
+}

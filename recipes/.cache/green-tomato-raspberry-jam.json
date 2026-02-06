@@ -1,0 +1,43 @@
+{
+  "contentHash": "53f61739f25decc3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups shredded green tomatoes",
+        "searchTerm": "green tomatoes",
+        "normalizedName": "Green Tomato"
+      },
+      {
+        "ingredient": "4 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 (6 ounce) package raspberry flavored Jell-O® mix",
+        "searchTerm": "raspberry Jello",
+        "normalizedName": "Raspberry Jello"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "mason jars",
+        "searchTerm": "mason jars"
+      }
+    ],
+    "cookingTips": [
+      "Shred green tomatoes finely so they cook down quickly and create a smooth jam texture",
+      "Bring the mixture to a rolling boil and maintain a vigorous boil while stirring often to avoid sticking",
+      "The Jell-O mix provides both flavor and pectin; add it near the end and stir in completely before testing for doneness"
+    ],
+    "coachingPrompt": "Guide the user to recognize the gel stage by dropping a spoonful on a cool plate and checking for wrinkles when pushed. Canning safety is important."
+  },
+  "timestamp": "2026-02-06T08:08:33.011Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "1ef004c4d58a6268",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups heavy whipping cream",
+        "searchTerm": "heavy whipping cream",
+        "normalizedName": "Heavy Whipping Cream"
+      },
+      {
+        "ingredient": "½ cup confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "4 glazed doughnuts, halved horizontally",
+        "searchTerm": "glazed doughnut",
+        "normalizedName": "Glazed Doughnut"
+      },
+      {
+        "ingredient": "1 quart strawberries, hulled and sliced",
+        "searchTerm": "strawberry",
+        "normalizedName": "Strawberry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "whipped cream maker or mixer",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "serving plate",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Chill the bowl and beaters before whipping cream for faster, stable peaks",
+      "Assemble the shortcake just before serving to prevent the doughnuts from becoming soggy",
+      "Use fresh strawberries at peak ripeness for the best flavor"
+    ],
+    "coachingPrompt": "This is a no-bake shortcake using store-bought glazed doughnuts. Do you feel confident whipping cream to stiff peaks?"
+  },
+  "timestamp": "2026-02-06T07:32:06.745Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "45f407b0995a9f88",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "8 all-beef hot dogs",
+        "searchTerm": "hot dogs",
+        "normalizedName": "Hot Dog"
+      },
+      {
+        "ingredient": "8 hot dog buns",
+        "searchTerm": "hot dog buns",
+        "normalizedName": "Hot Dog Bun"
+      },
+      {
+        "ingredient": "8 slices Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "½ cup barbeque sauce, or amount to taste",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "1 small red onion, diced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Grill or Griddle",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Wrap bacon around hot dogs before cooking for even heat distribution and cheese melting",
+      "Toast the buns lightly to prevent sogginess from sauce"
+    ],
+    "coachingPrompt": "Would you like guidance on wrapping bacon around hot dogs securely, or tips for achieving crispy bacon while cooking the hot dogs through?"
+  },
+  "timestamp": "2026-02-06T10:49:37.064Z"
+}

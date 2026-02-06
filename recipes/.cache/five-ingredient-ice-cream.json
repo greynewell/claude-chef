@@ -1,0 +1,52 @@
+{
+  "contentHash": "ac85977eb85ce204",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup cold milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 tablespoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 (14 ounce) can sweetened condensed milk",
+        "searchTerm": "sweetened condensed milk",
+        "normalizedName": "Sweetened Condensed Milk"
+      },
+      {
+        "ingredient": "⅛ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pint heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "ice cream maker",
+        "searchTerm": "ice cream maker"
+      }
+    ],
+    "cookingTips": [
+      "Chill all ingredients before mixing",
+      "Follow ice cream maker instructions for proper consistency"
+    ],
+    "coachingPrompt": "Why does this recipe use sweetened condensed milk instead of just sugar and cream?"
+  },
+  "timestamp": "2026-02-06T06:44:59.890Z"
+}

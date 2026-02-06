@@ -1,0 +1,78 @@
+{
+  "contentHash": "cde83fb2f647950e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 quart water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "4 carrots, sliced",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 small potatoes, peeled and diced",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 medium onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 ½ cups salsa, medium or hot",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "2 beef bouillon cubes",
+        "searchTerm": "beef bouillon",
+        "normalizedName": "Beef Bouillon"
+      },
+      {
+        "ingredient": "1 ½ pounds ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "⅓ cup seasoned dry bread crumbs",
+        "searchTerm": "seasoned bread crumbs",
+        "normalizedName": "Seasoned Bread Crumb"
+      },
+      {
+        "ingredient": "⅓ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh cilantro",
+        "searchTerm": "fresh cilantro",
+        "normalizedName": "Fresh Cilantro"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Form smaller meatballs so they cook evenly in the broth",
+      "Bring broth to a simmer before gently dropping in meatballs to prevent them from sticking",
+      "Cook for 15-20 minutes until potatoes and carrots are tender"
+    ],
+    "coachingPrompt": "Help the user create flavorful, tender meatballs and explain how salsa adds both flavor and moisture to the final dish."
+  },
+  "timestamp": "2026-02-05T21:49:27.925Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "b76f4d819551c6b2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ cup cool water, divided",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1/4 teaspoon liquid rennet",
+        "searchTerm": "liquid rennet",
+        "normalizedName": "Liquid Rennet"
+      },
+      {
+        "ingredient": "1 ½ teaspoons citric acid",
+        "searchTerm": "citric acid",
+        "normalizedName": "Citric Acid"
+      },
+      {
+        "ingredient": "1 gallon raw milk",
+        "searchTerm": "raw milk",
+        "normalizedName": "Raw Milk"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large stainless steel pot",
+        "searchTerm": "stainless steel pot"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "Cheesecloth",
+        "searchTerm": "cheesecloth"
+      }
+    ],
+    "cookingTips": [
+      "Use raw milk for best results; pasteurized milk may not set properly due to heat treatment",
+      "Maintain precise temperature control throughout the process; use a quality thermometer",
+      "Stretch curds gently when they reach the right temperature to develop proper texture"
+    ],
+    "coachingPrompt": "Guide the user through proper temperature control and the importance of using quality raw milk for successful cheese making."
+  },
+  "timestamp": "2026-02-06T09:16:20.189Z"
+}

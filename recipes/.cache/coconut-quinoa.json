@@ -1,0 +1,48 @@
+{
+  "contentHash": "ee1b250313475489",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup quinoa",
+        "searchTerm": "quinoa",
+        "normalizedName": "Quinoa"
+      },
+      {
+        "ingredient": "2 cups coconut milk",
+        "searchTerm": "coconut milk",
+        "normalizedName": "Coconut Milk"
+      },
+      {
+        "ingredient": "2 tablespoons flaked coconut",
+        "searchTerm": "coconut flakes",
+        "normalizedName": "Coconut Flake"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan with lid",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "measuring cup",
+        "searchTerm": "measuring cup"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Rinse quinoa under running water to remove bitter saponin coating",
+      "Toast quinoa lightly in pot before adding liquid for nuttier flavor",
+      "Fluff with fork after cooking and let rest 5 minutes"
+    ],
+    "coachingPrompt": "This is a simple, healthy side dish. Do you usually rinse quinoa before cooking?"
+  },
+  "timestamp": "2026-02-06T03:40:37.005Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "d70dca6a3404bcac",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 potatoes",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Ricer or Food Mill",
+        "searchTerm": "ricer"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Use starchy potatoes like russets for better gnocchi texture",
+      "Rice potatoes while still warm for fluffier gnocchi",
+      "Don't overwork the dough or gnocchi will be tough"
+    ],
+    "coachingPrompt": "How do I achieve light and fluffy homemade gnocchi without overmixing?"
+  },
+  "timestamp": "2026-02-06T07:39:23.185Z"
+}

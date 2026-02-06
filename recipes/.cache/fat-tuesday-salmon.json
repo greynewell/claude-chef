@@ -1,0 +1,72 @@
+{
+  "contentHash": "e79755f1a7c9962e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 potato, peeled",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "2 (14.75 ounce) cans salmon, drained",
+        "searchTerm": "canned salmon",
+        "normalizedName": "Salmon"
+      },
+      {
+        "ingredient": "½ cup diced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ cup diced green bell pepper",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 jalapeno pepper, seeded and minced",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ cup cracker crumbs",
+        "searchTerm": "cracker crumb",
+        "normalizedName": "Cracker Crumb"
+      },
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Grate raw potato for moisture and binding without additional binders",
+      "Pan-fry patties until golden brown on both sides for crispy exterior"
+    ],
+    "coachingPrompt": "Show the user how to make salmon cakes from canned salmon by mixing with potato, vegetables, and seasonings, then pan-frying to achieve golden-brown cakes."
+  },
+  "timestamp": "2026-02-06T06:32:15.783Z"
+}

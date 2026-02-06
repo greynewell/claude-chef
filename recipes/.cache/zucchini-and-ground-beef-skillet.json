@@ -1,0 +1,83 @@
+{
+  "contentHash": "91e66d5de20e99ed",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 medium sweet onion, finely diced",
+        "searchTerm": "sweet onion",
+        "normalizedName": "Sweet Onion"
+      },
+      {
+        "ingredient": "1 (8 ounce) package sliced white mushrooms",
+        "searchTerm": "mushrooms",
+        "normalizedName": "White Mushroom"
+      },
+      {
+        "ingredient": "1 (6.5 ounce) can tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "1 (6 ounce) can sliced black olives",
+        "searchTerm": "black olives",
+        "normalizedName": "Black Olive"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can Italian-style stewed tomatoes",
+        "searchTerm": "stewed tomatoes",
+        "normalizedName": "Stewed Tomato"
+      },
+      {
+        "ingredient": "salt and ground white pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground white pepper to taste",
+        "searchTerm": "white pepper",
+        "normalizedName": "White Pepper"
+      },
+      {
+        "ingredient": "4 medium zucchini",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "1 (8 ounce) package shredded sharp Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Brown the beef completely and drain excess fat before adding vegetables",
+      "Add zucchini near the end to prevent mushiness",
+      "Top with cheese and cover until melted"
+    ],
+    "coachingPrompt": "Describe the order of adding ingredients to build flavor. When should zucchini go in relative to the tomatoes?"
+  },
+  "timestamp": "2026-02-06T22:25:19.777Z"
+}

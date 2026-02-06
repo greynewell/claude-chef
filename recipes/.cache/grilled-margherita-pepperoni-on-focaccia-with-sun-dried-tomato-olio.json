@@ -1,0 +1,63 @@
+{
+  "contentHash": "e4e3ad54e27fc01f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 tablespoons sun-dried tomato pesto",
+        "searchTerm": "sun-dried tomato pesto",
+        "normalizedName": "Sun-Dried Tomato Pesto"
+      },
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 tablespoon extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "8 ounces sliced Margherita® Sandwich Pepperoni",
+        "searchTerm": "pepperoni",
+        "normalizedName": "Pepperoni"
+      },
+      {
+        "ingredient": "4 focaccia rolls",
+        "searchTerm": "focaccia rolls",
+        "normalizedName": "Focaccia Roll"
+      },
+      {
+        "ingredient": "6 ounces sliced aged provolone cheese",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      },
+      {
+        "ingredient": "2 cups baby arugula",
+        "searchTerm": "arugula",
+        "normalizedName": "Arugula"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "grill spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Toast focaccia rolls cut-side down directly on grill grates for char and crispness",
+      "Mix pesto and mayo together before spreading for even flavor distribution",
+      "Add arugula after grilling while bread is still warm so leaves soften slightly"
+    ],
+    "coachingPrompt": "Guide the user through creating a gourmet grilled sandwich with proper cheese melting and bread toasting."
+  },
+  "timestamp": "2026-02-06T08:20:21.772Z"
+}

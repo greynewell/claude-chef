@@ -1,0 +1,72 @@
+{
+  "contentHash": "0d3a6818a510bdf6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 tablespoons minced fresh rosemary",
+        "searchTerm": "fresh rosemary",
+        "normalizedName": "Fresh Rosemary"
+      },
+      {
+        "ingredient": "2 tablespoons minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon good quality balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "1 tablespoon Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "1 (1 pound) flank steak, cut in half",
+        "searchTerm": "flank steak",
+        "normalizedName": "Flank Steak"
+      },
+      {
+        "ingredient": "salt and freshly ground black pepper",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sous Vide Machine",
+        "searchTerm": "immersion circulator"
+      },
+      {
+        "name": "Vacuum Bags",
+        "searchTerm": "vacuum sealer bags"
+      },
+      {
+        "name": "Cast Iron Skillet",
+        "searchTerm": "cast iron skillet"
+      }
+    ],
+    "cookingTips": [
+      "Marinate flank steak at least 2 hours before bagging to develop flavor",
+      "Cook at 135°F (57°C) for medium-rare, then sear briefly for crust development"
+    ],
+    "coachingPrompt": "Guide the user on how sous vide transforms lean flank steak into tender, juicy results while the marinade infuses deep flavor throughout."
+  },
+  "timestamp": "2026-02-06T18:38:23.425Z"
+}

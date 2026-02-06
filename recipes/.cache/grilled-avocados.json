@@ -1,0 +1,48 @@
+{
+  "contentHash": "b9d41e0afe3882d4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup olive oil, or as needed",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 pinch ground chipotle pepper, or more to taste",
+        "searchTerm": "chipotle pepper",
+        "normalizedName": "Chipotle Pepper"
+      },
+      {
+        "ingredient": "1 pinch chili powder, or more to taste",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "4 avocados, halved and pitted",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill brush",
+        "searchTerm": "grill brush"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Oil the grill grates well to prevent sticking",
+      "Grill avocado halves flesh-side down for 2-3 minutes until golden",
+      "Brush with oil and season just before grilling"
+    ],
+    "coachingPrompt": "Advise on proper grill temperature and timing to achieve a slight char without mushiness."
+  },
+  "timestamp": "2026-02-06T08:10:19.108Z"
+}

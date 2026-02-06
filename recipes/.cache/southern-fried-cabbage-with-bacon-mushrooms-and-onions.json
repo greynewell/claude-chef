@@ -1,0 +1,58 @@
+{
+  "contentHash": "39eafe133a965ba7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 large head cabbage, chopped",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "1 large onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (8 ounce) package sliced fresh mushrooms",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then crumble and set aside; use bacon fat for cooking vegetables",
+      "Cook onions first to develop sweetness, then add mushrooms and cabbage",
+      "Keep heat medium-high and cook until cabbage is tender but still has slight bite"
+    ],
+    "coachingPrompt": "Guide the cook through the technique of rendering bacon fat and building layers of flavor through vegetable cooking order."
+  },
+  "timestamp": "2026-02-06T18:40:16.300Z"
+}

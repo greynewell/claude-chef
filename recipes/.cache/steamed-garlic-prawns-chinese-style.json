@@ -1,0 +1,43 @@
+{
+  "contentHash": "b56194b5b6142b6c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "20 large tiger prawns with shell",
+        "searchTerm": "tiger prawns",
+        "normalizedName": "Tiger Prawn"
+      },
+      {
+        "ingredient": "2 tablespoons light soy sauce",
+        "searchTerm": "light soy sauce",
+        "normalizedName": "Light Soy Sauce"
+      },
+      {
+        "ingredient": "5 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon brandy",
+        "searchTerm": "brandy",
+        "normalizedName": "Brandy"
+      }
+    ],
+    "gear": [
+      {
+        "name": "steamer basket",
+        "searchTerm": "steamer basket"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      }
+    ],
+    "cookingTips": [
+      "Leave shells on prawns to protect delicate meat during steaming",
+      "Garlic should be minced fine for even distribution and cooking"
+    ],
+    "coachingPrompt": "Why is keeping prawn shells on important for steaming?"
+  },
+  "timestamp": "2026-02-06T19:25:43.233Z"
+}

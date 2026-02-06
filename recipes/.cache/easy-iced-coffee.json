@@ -1,0 +1,43 @@
+{
+  "contentHash": "117e49348c5b4b3b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 teaspoons instant coffee granules",
+        "searchTerm": "instant coffee",
+        "normalizedName": "Instant Coffee"
+      },
+      {
+        "ingredient": "1 teaspoon sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 tablespoons warm water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "6 fluid ounces cold milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Glass or Mug",
+        "searchTerm": "drinking glass"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "stirring spoon"
+      }
+    ],
+    "cookingTips": [
+      "Dissolve instant coffee in warm water first for even distribution",
+      "Add extra ice if you prefer a more diluted drink"
+    ],
+    "coachingPrompt": "Do you prefer your iced coffee with cream, sweetener, or flavored additions?"
+  },
+  "timestamp": "2026-02-06T05:48:45.980Z"
+}

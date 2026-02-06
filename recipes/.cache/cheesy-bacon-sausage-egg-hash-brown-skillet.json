@@ -1,0 +1,89 @@
+{
+  "contentHash": "1d1c5e88bdbb86a4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 link smoked pineapple-bacon chicken sausage",
+        "searchTerm": "chicken sausage",
+        "normalizedName": "Chicken Sausage"
+      },
+      {
+        "ingredient": "1 tablespoon canola oil",
+        "searchTerm": "canola oil",
+        "normalizedName": "Canola Oil"
+      },
+      {
+        "ingredient": "1 teaspoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 ½ cups frozen hash brown potatoes",
+        "searchTerm": "hash brown potatoes",
+        "normalizedName": "Hash Brown Potato"
+      },
+      {
+        "ingredient": "½ onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "¾ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "½ teaspoon onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "6 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 tablespoon milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Brown hash browns thoroughly before adding other ingredients",
+      "Cook bacon and sausage first to render fat for flavor",
+      "Add eggs last and gently stir to create soft curds"
+    ],
+    "coachingPrompt": "How will you layer flavors when cooking multiple proteins together?"
+  },
+  "timestamp": "2026-02-06T01:48:50.554Z"
+}

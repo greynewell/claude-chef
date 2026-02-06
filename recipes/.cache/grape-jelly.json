@@ -1,0 +1,43 @@
+{
+  "contentHash": "9060c3a07962d706",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups grape juice",
+        "searchTerm": "grape juice",
+        "normalizedName": "Grape Juice"
+      },
+      {
+        "ingredient": "5 ¼ cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 (2 ounce) package powdered fruit pectin",
+        "searchTerm": "fruit pectin",
+        "normalizedName": "Fruit Pectin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "candy thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "mason jars",
+        "searchTerm": "mason jars"
+      }
+    ],
+    "cookingTips": [
+      "Bring mixture to rolling boil before adding pectin for proper setting",
+      "Use candy thermometer to achieve 220°F for proper gel stage",
+      "Skim foam from surface for clearer, more attractive jelly"
+    ],
+    "coachingPrompt": "How do I make homemade jelly that sets perfectly without over-cooking?"
+  },
+  "timestamp": "2026-02-06T07:57:04.048Z"
+}

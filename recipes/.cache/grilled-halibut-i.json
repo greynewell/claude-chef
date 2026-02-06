@@ -1,0 +1,63 @@
+{
+  "contentHash": "d44446dcae4cd597",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 (8 ounce) steaks halibut",
+        "searchTerm": "halibut steak",
+        "normalizedName": "Halibut Steak"
+      },
+      {
+        "ingredient": "½ cup fresh grapefruit juice",
+        "searchTerm": "grapefruit juice",
+        "normalizedName": "Grapefruit Juice"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 teaspoons chopped fresh marjoram",
+        "searchTerm": "marjoram",
+        "normalizedName": "Marjoram"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 sprigs fresh marjoram, for garnish",
+        "searchTerm": "marjoram",
+        "normalizedName": "Marjoram"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "shallow dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Marinate halibut for at least 2 hours to allow grapefruit acidity to flavor the fish",
+      "Grill over medium heat for 4-5 minutes per side to avoid drying out",
+      "Let fish rest 2-3 minutes after grilling before serving"
+    ],
+    "coachingPrompt": "What role does grapefruit juice play in this marinade, and how long is optimal marinating time?"
+  },
+  "timestamp": "2026-02-06T08:17:29.797Z"
+}

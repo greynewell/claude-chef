@@ -1,0 +1,53 @@
+{
+  "contentHash": "c07aa8b3c7cbbd60",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound thin asparagus",
+        "searchTerm": "asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon everything bagel seasoning",
+        "searchTerm": "everything bagel seasoning",
+        "normalizedName": "Everything Bagel Seasoning"
+      },
+      {
+        "ingredient": "1 pinch salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "4 lemon wedges",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "small bowl"
+      },
+      {
+        "name": "Paper Towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Snap off woody ends of asparagus by bending until they break naturally",
+      "Toss asparagus lightly with oil to coat evenly, not too much or they'll be greasy",
+      "Air fry at 380°F for 8-10 minutes, shaking basket halfway through"
+    ],
+    "coachingPrompt": "What's the best way to prepare asparagus for air frying?"
+  },
+  "timestamp": "2026-02-06T06:24:33.743Z"
+}

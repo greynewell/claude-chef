@@ -1,0 +1,47 @@
+{
+  "contentHash": "6f517e91c8d203d0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ cup lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "4 cups peeled, cored and chopped apple",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "4 cups peeled, cored and chopped pears",
+        "searchTerm": "pears",
+        "normalizedName": "Pear"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Blender or food processor",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Cook fruit until very soft, then blend until completely smooth",
+      "Spread mixture thin and evenly on parchment-lined baking sheet for faster drying"
+    ],
+    "coachingPrompt": "Fruit leather requires low-temperature drying—do you have an oven or dehydrator?"
+  },
+  "timestamp": "2026-02-06T07:09:25.661Z"
+}

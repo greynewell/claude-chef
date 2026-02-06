@@ -1,0 +1,43 @@
+{
+  "contentHash": "94248336f42d28fe",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups whole milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "¼ cup powdered milk",
+        "searchTerm": "powdered milk",
+        "normalizedName": "Powdered Milk"
+      },
+      {
+        "ingredient": "¼ cup plain yogurt with active cultures, at room temperature",
+        "searchTerm": "plain yogurt with active cultures",
+        "normalizedName": "Plain Yogurt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Bring milk to 180°F, cool to 110°F, then add yogurt culture for proper fermentation",
+      "Keep the slow cooker on warm setting with towel wrapped around it to maintain temperature",
+      "Don't disturb the slow cooker for 8-10 hours to allow yogurt to set properly"
+    ],
+    "coachingPrompt": "Why is it important to cool the milk before adding the yogurt culture?"
+  },
+  "timestamp": "2026-02-06T18:20:27.595Z"
+}

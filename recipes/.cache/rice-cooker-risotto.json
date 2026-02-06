@@ -1,0 +1,43 @@
+{
+  "contentHash": "454251683053c8ec",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups Arborio rice",
+        "searchTerm": "Arborio rice",
+        "normalizedName": "Arborio Rice"
+      },
+      {
+        "ingredient": "4 ½ cups hot chicken stock",
+        "searchTerm": "chicken stock",
+        "normalizedName": "Chicken Stock"
+      },
+      {
+        "ingredient": "1 cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Rice cooker",
+        "searchTerm": "rice cooker"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Measuring cup",
+        "searchTerm": "measuring cup"
+      }
+    ],
+    "cookingTips": [
+      "Keep chicken stock hot to maintain consistent cooking temperature",
+      "Add Parmesan cheese at the very end and stir vigorously for creamy texture",
+      "Rice cooker method reduces stirring but monitor toward the end to prevent overcoking"
+    ],
+    "coachingPrompt": "How does risotto cook differently in a rice cooker versus on the stovetop? What trade-offs exist?"
+  },
+  "timestamp": "2026-02-06T16:13:04.058Z"
+}

@@ -1,0 +1,54 @@
+{
+  "contentHash": "12f14cd02b0a24b8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup unsweetened vanilla almond milk",
+        "searchTerm": "almond milk",
+        "normalizedName": "Almond Milk"
+      },
+      {
+        "ingredient": "1 cup fresh cherries, pitted",
+        "searchTerm": "cherries",
+        "normalizedName": "Cherry"
+      },
+      {
+        "ingredient": "¾ cup fresh strawberries",
+        "searchTerm": "strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "¾ cup seedless red grapes",
+        "searchTerm": "red grapes",
+        "normalizedName": "Red Grape"
+      },
+      {
+        "ingredient": "½ cup frozen blueberries",
+        "searchTerm": "blueberries",
+        "normalizedName": "Blueberry"
+      },
+      {
+        "ingredient": "½ teaspoon ground turmeric (Optional)",
+        "searchTerm": "turmeric",
+        "normalizedName": "Turmeric"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Measuring cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Pit cherries fresh or use frozen pitted for convenience",
+      "Frozen blueberries create thick, creamy texture without diluting with ice",
+      "Add turmeric gradually—start with ¼ teaspoon for earthy flavor without overwhelming"
+    ],
+    "coachingPrompt": "What anti-inflammatory compounds are you getting from each berry, and does turmeric enhance them?"
+  },
+  "timestamp": "2026-02-06T21:49:18.086Z"
+}

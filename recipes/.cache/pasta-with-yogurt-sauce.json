@@ -1,0 +1,63 @@
+{
+  "contentHash": "0b60f5833cff19f6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "pasta",
+        "searchTerm": "pasta",
+        "normalizedName": "Pasta"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "plain yogurt",
+        "searchTerm": "yogurt",
+        "normalizedName": "Yogurt"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "fresh parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Fresh Parsley"
+      },
+      {
+        "ingredient": "pine nuts",
+        "searchTerm": "pine nut",
+        "normalizedName": "Pine Nut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Temper yogurt to prevent curdling when heating",
+      "Toast pine nuts before serving for enhanced flavor",
+      "Add pasta water to lighten the sauce if needed"
+    ],
+    "coachingPrompt": "This is a lighter sauce option. Are you looking for vegetarian pasta ideas or exploring Mediterranean flavors?"
+  },
+  "timestamp": "2026-02-06T14:17:55.575Z"
+}

@@ -1,0 +1,44 @@
+{
+  "contentHash": "d4280af71b198067",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ounces Baileys® Original Irish Cream",
+        "searchTerm": "Irish cream liqueur",
+        "normalizedName": "Irish Cream Liqueur"
+      },
+      {
+        "ingredient": "1 cup prepared hot chocolate",
+        "searchTerm": "hot chocolate",
+        "normalizedName": "Hot Chocolate"
+      },
+      {
+        "ingredient": "Whipped cream",
+        "searchTerm": "whipped cream",
+        "normalizedName": "Whipped Cream"
+      },
+      {
+        "ingredient": "Chocolate topping",
+        "searchTerm": "chocolate topping",
+        "normalizedName": "Chocolate Topping"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mug",
+        "searchTerm": "mug"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Warm the mug before pouring to keep the drink hot longer",
+      "Stir the Baileys in thoroughly to blend the flavors evenly",
+      "Add whipped cream and chocolate topping just before serving"
+    ],
+    "coachingPrompt": "What variations of hot chocolate would pair well with Irish cream?"
+  },
+  "timestamp": "2026-02-05T22:56:35.878Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "93bb702958fc2403",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (18.25 ounce) package yellow cake mix",
+        "searchTerm": "cake mix",
+        "normalizedName": "Cake Mix"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, room temperature",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "½ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 ¼ cups blueberries",
+        "searchTerm": "blueberries",
+        "normalizedName": "Blueberry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x5 inch loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "Electric mixer",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Bring cream cheese to room temperature for smooth, lump-free incorporation",
+      "Fold blueberries in gently at the end to prevent color bleeding into batter",
+      "Check for doneness with a toothpick inserted in center coming out clean"
+    ],
+    "coachingPrompt": "Why is room temperature cream cheese important for this cake mix recipe?"
+  },
+  "timestamp": "2026-02-06T00:22:50.341Z"
+}

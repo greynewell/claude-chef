@@ -1,0 +1,73 @@
+{
+  "contentHash": "55e1a1a86c37564f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅓ cup freshly squeezed lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 tablespoon pomegranate molasses",
+        "searchTerm": "pomegranate molasses",
+        "normalizedName": "Pomegranate Molasses"
+      },
+      {
+        "ingredient": "1 tablespoon white vinegar",
+        "searchTerm": "white vinegar",
+        "normalizedName": "White Vinegar"
+      },
+      {
+        "ingredient": "1 teaspoon sumac powder",
+        "searchTerm": "sumac powder",
+        "normalizedName": "Sumac"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 cup halved cherry tomatoes",
+        "searchTerm": "cherry tomatoes",
+        "normalizedName": "Cherry Tomato"
+      },
+      {
+        "ingredient": "2 cups arugula leaves",
+        "searchTerm": "arugula",
+        "normalizedName": "Arugula"
+      },
+      {
+        "ingredient": "¼ cup walnut halves",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Salad Bowl",
+        "searchTerm": "salad bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "cutting knife"
+      }
+    ],
+    "cookingTips": [
+      "Toast walnuts lightly to enhance their depth and prevent rancidity",
+      "Pomegranate molasses adds tang; taste before adding more salt",
+      "Sumac brings citrusy notes; use sparingly as flavors are concentrated"
+    ],
+    "coachingPrompt": "How will you balance the tartness of pomegranate molasses with the other acidic components?"
+  },
+  "timestamp": "2026-02-05T22:24:33.102Z"
+}

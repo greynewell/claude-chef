@@ -1,0 +1,73 @@
+{
+  "contentHash": "f7a9d5460b6064fe",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (3 ounce) packages Oriental flavored ramen noodles",
+        "searchTerm": "ramen noodles",
+        "normalizedName": "Ramen Noodles"
+      },
+      {
+        "ingredient": "3 eggs, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "4 green onions, thinly sliced",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 small carrot, peeled and grated",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "½ cup green peas",
+        "searchTerm": "green pea",
+        "normalizedName": "Green Pea"
+      },
+      {
+        "ingredient": "¼ cup red bell pepper, minced",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons sesame oil",
+        "searchTerm": "sesame oil",
+        "normalizedName": "Sesame Oil"
+      },
+      {
+        "ingredient": "soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "wok",
+        "searchTerm": "wok"
+      },
+      {
+        "name": "cooking chopsticks",
+        "searchTerm": "chopsticks"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      }
+    ],
+    "cookingTips": [
+      "Cook noodles al dente, then cool before frying to prevent sticking",
+      "Push cooked egg to the side before adding noodles to prevent overcooking",
+      "Use high heat and keep ingredients moving to achieve wok hei (wok breath)"
+    ],
+    "coachingPrompt": "What's the key technique to keep fried noodles separate and achieve that restaurant-style texture?"
+  },
+  "timestamp": "2026-02-06T02:54:11.690Z"
+}

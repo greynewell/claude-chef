@@ -1,0 +1,54 @@
+{
+  "contentHash": "6420f90ff05086a0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 teaspoons baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "1 teaspoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Mix wet and dry ingredients separately then combine gently",
+      "Dough should be thick but spoonable, not too stiff",
+      "Drop by spoonfuls directly into simmering broth or stew"
+    ],
+    "coachingPrompt": "These are simple drop dumplings meant to be added to soups or stews. Emphasize not overmixing to keep them light and fluffy."
+  },
+  "timestamp": "2026-02-06T05:25:06.900Z"
+}

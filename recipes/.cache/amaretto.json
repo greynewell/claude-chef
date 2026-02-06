@@ -1,0 +1,58 @@
+{
+  "contentHash": "c8c9d3802fc3562e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "2 cups vodka",
+        "searchTerm": "vodka",
+        "normalizedName": "Vodka"
+      },
+      {
+        "ingredient": "2 tablespoons almond extract",
+        "searchTerm": "almond extract",
+        "normalizedName": "Almond Extract"
+      },
+      {
+        "ingredient": "2 teaspoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "glass jar",
+        "searchTerm": "glass jar"
+      },
+      {
+        "name": "strainer",
+        "searchTerm": "strainer"
+      },
+      {
+        "name": "bottles",
+        "searchTerm": "bottles"
+      }
+    ],
+    "cookingTips": [
+      "Heat water and both sugars, then cool completely before adding vodka and extracts",
+      "Let infuse in a sealed jar for 1-2 weeks, shaking occasionally for flavor development",
+      "Strain through cheesecloth and bottle for storage; flavors improve over time"
+    ],
+    "coachingPrompt": "What infusion time produces the best almond flavor balance, and how do I know when it's ready to bottle?"
+  },
+  "timestamp": "2026-02-05T21:57:19.791Z"
+}

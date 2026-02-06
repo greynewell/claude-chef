@@ -1,0 +1,72 @@
+{
+  "contentHash": "95ba512c04cc1ded",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ pound turkey bacon",
+        "searchTerm": "turkey bacon",
+        "normalizedName": "Turkey Bacon"
+      },
+      {
+        "ingredient": "¼ pound angel hair pasta",
+        "searchTerm": "angel hair pasta",
+        "normalizedName": "Angel Hair Pasta"
+      },
+      {
+        "ingredient": "¼ cup plain Greek yogurt",
+        "searchTerm": "Greek yogurt",
+        "normalizedName": "Greek Yogurt"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ teaspoon Italian seasoning",
+        "searchTerm": "Italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      },
+      {
+        "ingredient": "¼ teaspoon crushed red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "1 pinch garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "1 pinch onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pasta pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Remove pasta from heat before adding yogurt mixture to prevent scrambling the egg",
+      "Reserve pasta water to adjust sauce consistency as needed"
+    ],
+    "coachingPrompt": "Guide the user on the proper technique for tempering the egg and yogurt mixture to create a creamy sauce without cooking the egg."
+  },
+  "timestamp": "2026-02-06T08:04:32.983Z"
+}

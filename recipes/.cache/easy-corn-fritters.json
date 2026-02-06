@@ -1,0 +1,62 @@
+{
+  "contentHash": "1d90a253350555da",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (6 ounce) package potato pancake mix",
+        "searchTerm": "potato pancake mix",
+        "normalizedName": "Potato Pancake Mix"
+      },
+      {
+        "ingredient": "¼ cup milk (Optional)",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 (11 ounce) can whole kernel corn",
+        "searchTerm": "whole kernel corn",
+        "normalizedName": "Whole Kernel Corn"
+      },
+      {
+        "ingredient": "1 quart vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep fryer or heavy-bottomed pot",
+        "searchTerm": "fryer"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Keep oil temperature at 350°F for crispy fritters that aren't greasy",
+      "Drain corn well and pat dry to reduce splattering and achieve crispness"
+    ],
+    "coachingPrompt": "Guide the user through achieving golden, crispy fritters with proper oil temperature control."
+  },
+  "timestamp": "2026-02-06T05:41:38.387Z"
+}

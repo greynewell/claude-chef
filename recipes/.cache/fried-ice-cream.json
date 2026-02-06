@@ -1,0 +1,52 @@
+{
+  "contentHash": "4f66277f79dbffda",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 quart vanilla ice cream",
+        "searchTerm": "vanilla ice cream",
+        "normalizedName": "Vanilla Ice Cream"
+      },
+      {
+        "ingredient": "3 cups crushed cornflakes cereal",
+        "searchTerm": "cornflakes",
+        "normalizedName": "Cornflake"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "3 egg whites",
+        "searchTerm": "egg whites",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "2 quarts oil for frying",
+        "searchTerm": "oil",
+        "normalizedName": "Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep fryer or pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "ice cream scoop",
+        "searchTerm": "ice cream scoop"
+      }
+    ],
+    "cookingTips": [
+      "Keep ice cream scoops in freezer between uses to maintain firmness",
+      "Oil must be extremely hot (375°F) to crisp exterior before melting interior"
+    ],
+    "coachingPrompt": "What's the critical temperature balance needed, and how will you keep ice cream frozen during coating?"
+  },
+  "timestamp": "2026-02-06T07:04:45.288Z"
+}

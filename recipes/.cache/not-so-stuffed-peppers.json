@@ -1,0 +1,73 @@
+{
+  "contentHash": "884bd9a945a54bfc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 large green bell pepper",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "½ cup white rice",
+        "searchTerm": "rice",
+        "normalizedName": "Rice"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "⅓ onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can diced tomatoes with garlic",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "1 teaspoon Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "2 (10.75 ounce) cans creamy tomato soup",
+        "searchTerm": "tomato soup",
+        "normalizedName": "Tomato Soup"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook rice separately or in the pepper for texture preference",
+      "Brown ground beef with onion before mixing with other components",
+      "Cover with foil while baking to prevent excess browning on top"
+    ],
+    "coachingPrompt": "Help user coordinate rice cooking time with meat filling preparation for seamless assembly."
+  },
+  "timestamp": "2026-02-06T13:23:13.180Z"
+}

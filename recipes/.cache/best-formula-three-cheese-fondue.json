@@ -1,0 +1,62 @@
+{
+  "contentHash": "15a3deef1115e6aa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup white wine",
+        "searchTerm": "white wine",
+        "normalizedName": "White Wine"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon all-purpose flour",
+        "searchTerm": "flour all-purpose",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "7 ounces Gruyere cheese, cubed",
+        "searchTerm": "gruyere cheese",
+        "normalizedName": "Gruyere Cheese"
+      },
+      {
+        "ingredient": "7 ounces sharp Cheddar cheese, cubed",
+        "searchTerm": "cheddar cheese sharp",
+        "normalizedName": "Sharp Cheddar Cheese"
+      },
+      {
+        "ingredient": "7 ounces Emmentaler cheese, cubed",
+        "searchTerm": "emmentaler cheese",
+        "normalizedName": "Emmentaler Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Fondue Pot",
+        "searchTerm": "fondue pot"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cube cheeses evenly for consistent melting and smooth texture",
+      "Create a roux with butter and flour before adding wine to prevent lumps",
+      "Stir constantly and keep temperature moderate to prevent cheese from breaking"
+    ],
+    "coachingPrompt": "What happens to cheese when it gets too hot in fondue, and how do you prevent it?"
+  },
+  "timestamp": "2026-02-06T00:00:31.857Z"
+}

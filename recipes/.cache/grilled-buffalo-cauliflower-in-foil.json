@@ -1,0 +1,53 @@
+{
+  "contentHash": "35599f5d9ff85798",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds cauliflower, broken into florets",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      },
+      {
+        "ingredient": "¼ cup Buffalo wing sauce",
+        "searchTerm": "Buffalo sauce",
+        "normalizedName": "Buffalo Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon dry ranch dressing mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Ranch Dressing Mix"
+      },
+      {
+        "ingredient": "1 teaspoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "aluminum foil",
+        "searchTerm": "aluminum foil",
+        "normalizedName": "Aluminum Foil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "aluminum foil",
+        "searchTerm": "foil"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Create a foil packet with sealed edges to trap steam and cook cauliflower evenly",
+      "Mix Buffalo sauce and ranch dressing for a creamy, tangy coating",
+      "Shake foil packet occasionally to ensure even coating and cooking"
+    ],
+    "coachingPrompt": "How does cooking in foil packets differ from direct grilling? What are the advantages for delicate vegetables?"
+  },
+  "timestamp": "2026-02-06T08:11:12.957Z"
+}

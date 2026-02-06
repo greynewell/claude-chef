@@ -1,0 +1,72 @@
+{
+  "contentHash": "b3d484e33ad497ae",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 large eggs, room temperature",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup whole milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 cup white chocolate chips",
+        "searchTerm": "white chocolate chips",
+        "normalizedName": "White Chocolate Chip"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour, sifted",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "½ cup unsalted butter, melted",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cupcake pan",
+        "searchTerm": "cupcake pan"
+      },
+      {
+        "name": "cupcake liners",
+        "searchTerm": "cupcake liners"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "sifter",
+        "searchTerm": "flour sifter"
+      }
+    ],
+    "cookingTips": [
+      "Sifting flour aerates it, resulting in lighter, more tender cupcakes",
+      "Room-temperature eggs emulsify better with butter, creating better texture",
+      "Fold in white chocolate chips gently to distribute evenly"
+    ],
+    "coachingPrompt": "Teach the user why sifting matters for cupcakes and how melted butter creates a different crumb structure than creamed butter."
+  },
+  "timestamp": "2026-02-06T22:05:24.615Z"
+}

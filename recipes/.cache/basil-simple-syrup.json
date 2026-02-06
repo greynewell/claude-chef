@@ -1,0 +1,43 @@
+{
+  "contentHash": "1c454bd89b4a6e8b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup fresh basil leaves",
+        "searchTerm": "basil",
+        "normalizedName": "Basil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "small pot"
+      },
+      {
+        "name": "Strainer",
+        "searchTerm": "fine mesh strainer"
+      },
+      {
+        "name": "Glass jars",
+        "searchTerm": "storage bottles"
+      }
+    ],
+    "cookingTips": [
+      "Bring water and sugar to boil, then remove from heat before adding basil",
+      "Steep basil 15-20 minutes then strain out leaves immediately to prevent browning",
+      "Cool completely before storing in refrigerator"
+    ],
+    "coachingPrompt": "How can we extract the basil's delicate flavor without browning it or creating a bitter taste?"
+  },
+  "timestamp": "2026-02-05T23:35:17.689Z"
+}

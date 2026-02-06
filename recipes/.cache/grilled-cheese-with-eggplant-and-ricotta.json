@@ -1,0 +1,78 @@
+{
+  "contentHash": "14250682c0d3057b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 loaf Italian bread",
+        "searchTerm": "italian bread",
+        "normalizedName": "Italian Bread"
+      },
+      {
+        "ingredient": "2 medium tomatoes",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 large eggplant",
+        "searchTerm": "eggplant",
+        "normalizedName": "Eggplant"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil, or as needed",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 cup ricotta cheese",
+        "searchTerm": "ricotta cheese",
+        "normalizedName": "Ricotta Cheese"
+      },
+      {
+        "ingredient": "8 leaves fresh basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      },
+      {
+        "ingredient": "16 slices fontina cheese",
+        "searchTerm": "fontina cheese",
+        "normalizedName": "Fontina Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons salted butter, or to taste",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Grill Pan",
+        "searchTerm": "grill pan"
+      }
+    ],
+    "cookingTips": [
+      "Slice eggplant and salt it before grilling to remove excess moisture and bitter flavors",
+      "Grill eggplant until tender before assembling sandwich",
+      "Layer ingredients evenly for consistent flavor and melting"
+    ],
+    "coachingPrompt": "Explain eggplant preparation and why salting is important, then guide on building layers with ricotta, tomato, basil, and fontina for best flavor integration."
+  },
+  "timestamp": "2026-02-06T08:12:09.122Z"
+}

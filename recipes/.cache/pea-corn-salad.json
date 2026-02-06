@@ -1,0 +1,78 @@
+{
+  "contentHash": "1a411fc1f9634151",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15 ounce) can peas, drained",
+        "searchTerm": "canned peas",
+        "normalizedName": "Canned Pea"
+      },
+      {
+        "ingredient": "1 (15.25 ounce) can whole kernel corn, drained",
+        "searchTerm": "canned corn",
+        "normalizedName": "Canned Corn"
+      },
+      {
+        "ingredient": "1 (4.5 ounce) can sliced mushrooms, drained",
+        "searchTerm": "canned mushrooms",
+        "normalizedName": "Canned Mushroom"
+      },
+      {
+        "ingredient": "1 hard-cooked egg, chopped",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅓ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "⅓ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¼ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "2 tablespoons chopped pickled pimento peppers",
+        "searchTerm": "pimento peppers",
+        "normalizedName": "Pimento Pepper"
+      },
+      {
+        "ingredient": "1 pinch salt and ground black pepper",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch salt and ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "can opener",
+        "searchTerm": "can opener"
+      }
+    ],
+    "cookingTips": [
+      "Drain canned vegetables thoroughly and pat with paper towels to remove excess moisture",
+      "Chop hard-cooked eggs into similar sized pieces for even distribution",
+      "Combine mayonnaise and sour cream for a lighter, tangier dressing"
+    ],
+    "coachingPrompt": "This pantry-friendly salad uses mostly canned ingredients. Help the cook understand proper draining techniques to avoid a watery result."
+  },
+  "timestamp": "2026-02-06T14:19:55.140Z"
+}

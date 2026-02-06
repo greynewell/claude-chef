@@ -1,0 +1,53 @@
+{
+  "contentHash": "e8d502b13b22e8f9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 (6 ounce) containers fresh red raspberries",
+        "searchTerm": "fresh raspberries",
+        "normalizedName": "Raspberry"
+      },
+      {
+        "ingredient": "½ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "4 cups water, divided",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup light corn syrup",
+        "searchTerm": "corn syrup",
+        "normalizedName": "Corn Syrup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender or food processor",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "Freezer-safe container",
+        "searchTerm": "container"
+      }
+    ],
+    "cookingTips": [
+      "Strain puree to remove seeds for smoother texture",
+      "Chill mixture before churning for best results",
+      "For granita, scrape with fork every 30 minutes while freezing"
+    ],
+    "coachingPrompt": "Do you have an ice cream maker, or would you prefer the no-churn granita method?"
+  },
+  "timestamp": "2026-02-06T15:57:15.731Z"
+}

@@ -1,0 +1,68 @@
+{
+  "contentHash": "b4aa7f70bd0019c4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons lemon pepper seasoning",
+        "searchTerm": "lemon pepper seasoning",
+        "normalizedName": "Lemon Pepper Seasoning"
+      },
+      {
+        "ingredient": "1 tablespoon minced fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "2 tablespoons finely minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon oyster sauce",
+        "searchTerm": "oyster sauce",
+        "normalizedName": "Oyster Sauce"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 pounds extra large shrimp (16-20), peeled and deveined, tail left on",
+        "searchTerm": "extra large shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "12 (10 inch) wooden skewers",
+        "searchTerm": "wooden skewers",
+        "normalizedName": "Wooden Skewer"
+      }
+    ],
+    "gear": [
+      {
+        "name": "wooden skewers",
+        "searchTerm": "wooden skewers"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "grill or broiler",
+        "searchTerm": "grill"
+      }
+    ],
+    "cookingTips": [
+      "Soak wooden skewers in water for 30 minutes before grilling",
+      "Don't coat shrimp too heavily—a light brush of mayo mixture is enough",
+      "Grill 2-3 minutes per side until shrimp turns opaque pink"
+    ],
+    "coachingPrompt": "Will you be grilling or broiling? Either method works beautifully with these shrimp."
+  },
+  "timestamp": "2026-02-06T08:48:36.620Z"
+}

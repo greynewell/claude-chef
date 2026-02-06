@@ -1,0 +1,63 @@
+{
+  "contentHash": "c7884bbd708cb42d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup coconut butter",
+        "searchTerm": "coconut butter",
+        "normalizedName": "Coconut Butter"
+      },
+      {
+        "ingredient": "1 cup chopped macadamia nuts",
+        "searchTerm": "macadamia nuts",
+        "normalizedName": "Macadamia Nut"
+      },
+      {
+        "ingredient": "5 eggs, room temperature",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 tablespoon stevia sugar substitute",
+        "searchTerm": "stevia",
+        "normalizedName": "Stevia"
+      },
+      {
+        "ingredient": "2 teaspoons baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "¾ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 ½ tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "electric mixer"
+      }
+    ],
+    "cookingTips": [
+      "Use room temperature eggs for better emulsification with coconut butter",
+      "Lemon juice activates baking soda and adds tanginess to offset richness",
+      "Don't overmix batter to keep bread tender despite high fat content"
+    ],
+    "coachingPrompt": "Guide the user through creating a low-carb, fat-forward bread that uses acidic lemon juice to balance flavors and activate leavening."
+  },
+  "timestamp": "2026-02-06T11:42:13.871Z"
+}

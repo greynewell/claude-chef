@@ -1,0 +1,47 @@
+{
+  "contentHash": "be11584a6304fa6c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 ½ gallons peanut oil for frying",
+        "searchTerm": "peanut oil",
+        "normalizedName": "Peanut Oil"
+      },
+      {
+        "ingredient": "1 (10 pound) whole turkey, neck and giblets removed",
+        "searchTerm": "whole turkey",
+        "normalizedName": "Whole Turkey"
+      },
+      {
+        "ingredient": "1 tablespoon salt, or to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon ground black pepper, or to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep fryer",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Ensure turkey is completely dry before frying to prevent oil splattering",
+      "Monitor oil temperature carefully to maintain 350°F for crispy results"
+    ],
+    "coachingPrompt": "Guide me through safely deep frying a turkey with proper oil temperature and timing"
+  },
+  "timestamp": "2026-02-06T17:49:04.653Z"
+}

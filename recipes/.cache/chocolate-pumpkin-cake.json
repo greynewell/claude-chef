@@ -1,0 +1,53 @@
+{
+  "contentHash": "47a0ff633142dcfa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (18.25 ounce) package chocolate cake mix",
+        "searchTerm": "chocolate cake mix",
+        "normalizedName": "Chocolate Cake Mix"
+      },
+      {
+        "ingredient": "1 (15 ounce) can pumpkin",
+        "searchTerm": "pumpkin puree",
+        "normalizedName": "Pumpkin Puree"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 (16 ounce) container cream cheese frosting",
+        "searchTerm": "cream cheese frosting",
+        "normalizedName": "Cream Cheese Frosting"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 inch baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "electric mixer"
+      }
+    ],
+    "cookingTips": [
+      "Substitute pumpkin puree for oil and some liquid called for in cake mix for more flavor",
+      "Pumpkin adds moisture, so check cake doneness at minimum bake time",
+      "Cool cake completely before frosting to prevent frosting from melting"
+    ],
+    "coachingPrompt": "This simplified cake uses mix as a base, enhanced by pumpkin. How does pumpkin's moisture content change the bake compared to the box directions?"
+  },
+  "timestamp": "2026-02-06T03:11:41.500Z"
+}

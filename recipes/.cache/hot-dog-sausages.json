@@ -1,0 +1,78 @@
+{
+  "contentHash": "29e64f3cdaf796e1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ¼ pounds lean ground beef",
+        "searchTerm": "lean ground beef",
+        "normalizedName": "Lean Ground Beef"
+      },
+      {
+        "ingredient": "¼ pound ground pork",
+        "searchTerm": "ground pork",
+        "normalizedName": "Ground Pork"
+      },
+      {
+        "ingredient": "4 teaspoons kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "1 tablespoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "2 teaspoons ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon granulated onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      },
+      {
+        "ingredient": "1 teaspoon granulated garlic",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "½ teaspoon smoked paprika",
+        "searchTerm": "smoked paprika",
+        "normalizedName": "Smoked Paprika"
+      },
+      {
+        "ingredient": "⅓ cup ice water",
+        "searchTerm": "ice water",
+        "normalizedName": "Ice Water"
+      },
+      {
+        "ingredient": "4 hot dog buns, split and toasted",
+        "searchTerm": "hot dog buns",
+        "normalizedName": "Hot Dog Bun"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Sausage stuffer",
+        "searchTerm": "sausage stuffer"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Keep all ingredients very cold for proper emulsification of the meat mixture",
+      "Use ice water instead of regular water to maintain low temperature during mixing",
+      "Cook to internal temperature of 160°F for food safety"
+    ],
+    "coachingPrompt": "Guide the user through the food processor method if they lack a sausage stuffer and explain why temperature control matters for texture."
+  },
+  "timestamp": "2026-02-06T09:30:05.079Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "a44ef9322da0ef06",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (.25 ounce) package active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "1 ½ cups warm water (100 to 110 degrees F)",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 ½ teaspoons fine salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "19 ounces bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Stand Mixer",
+        "searchTerm": "stand mixer"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Dutch Oven",
+        "searchTerm": "dutch oven"
+      }
+    ],
+    "cookingTips": [
+      "Use water temperature between 100-110°F to activate yeast properly",
+      "Knead dough until smooth and elastic, about 8-10 minutes",
+      "Allow dough to rise until doubled in size for best texture and flavor"
+    ],
+    "coachingPrompt": "What indicators show your dough has completed bulk fermentation, and how does this affect roll texture?"
+  },
+  "timestamp": "2026-02-06T16:54:41.816Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "c0427e90830ab633",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 tablespoons instant coffee",
+        "searchTerm": "instant coffee",
+        "normalizedName": "Instant Coffee"
+      },
+      {
+        "ingredient": "2 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup whole milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Electric mixer or milk frother",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "Tall glass",
+        "searchTerm": "tall glass"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use instant coffee and hot water - regular ground coffee won't whip properly",
+      "Whip mixture for 8-10 minutes until stiff peaks form and color becomes lighter",
+      "Pour cold or hot milk into glass first, then top with whipped coffee mixture"
+    ],
+    "coachingPrompt": "Would you prefer your dalgona coffee hot or iced, and do you want it very sweet or less so?"
+  },
+  "timestamp": "2026-02-06T04:58:05.050Z"
+}

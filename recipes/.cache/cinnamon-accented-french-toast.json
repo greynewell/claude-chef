@@ -1,0 +1,58 @@
+{
+  "contentHash": "aaba4dadad115163",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 teaspoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "6 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Shallow dish for egg mixture",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "Griddle or skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Use day-old bread which absorbs the egg mixture better than fresh bread",
+      "Don't oversoak the bread; dip quickly on both sides to avoid sogginess",
+      "Cook on a well-greased griddle or skillet over medium heat for even browning"
+    ],
+    "coachingPrompt": "Guide the user through making a simple but flavorful egg custard for dipping, explain the importance of bread selection and timing, and teach proper griddle technique for golden brown results."
+  },
+  "timestamp": "2026-02-06T03:21:52.129Z"
+}

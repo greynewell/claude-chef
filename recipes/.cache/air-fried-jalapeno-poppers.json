@@ -1,0 +1,53 @@
+{
+  "contentHash": "c38c177335e8aade",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "jalapeno peppers",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "salami",
+        "searchTerm": "salami",
+        "normalizedName": "Salami"
+      },
+      {
+        "ingredient": "bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "small spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Wear gloves when handling jalapeños to protect hands from oils",
+      "Remove seeds and white membranes to reduce heat level",
+      "Don't overfill peppers or cheese will leak during cooking"
+    ],
+    "coachingPrompt": "Walk me through prepping the jalapeños, filling them with cheese and meat, wrapping with bacon, and air frying."
+  },
+  "timestamp": "2026-02-05T21:37:13.643Z"
+}

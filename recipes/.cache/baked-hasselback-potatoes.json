@@ -1,0 +1,63 @@
+{
+  "contentHash": "1c74b65790b63aae",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 medium potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "3 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "4 cloves garlic, thinly sliced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 pinch smoked paprika",
+        "searchTerm": "smoked paprika",
+        "normalizedName": "Smoked Paprika"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 tablespoons grated Parmesan cheese, or more to taste",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "2 teaspoons chopped fresh chives, or to taste",
+        "searchTerm": "fresh chives",
+        "normalizedName": "Fresh Chive"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mandoline slicer",
+        "searchTerm": "mandoline"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Use a mandoline slicer for even, thin slices that cook uniformly",
+      "Don't cut all the way through the potato; stop about ¼ inch from the bottom",
+      "Brush oil between slices for maximum crispiness"
+    ],
+    "coachingPrompt": "Help the user safely use a mandoline, understand proper potato cutting depth, and layer seasonings effectively between slices."
+  },
+  "timestamp": "2026-02-05T23:07:02.911Z"
+}

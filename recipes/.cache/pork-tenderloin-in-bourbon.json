@@ -1,0 +1,53 @@
+{
+  "contentHash": "19aed654f5699871",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "¼ cup bourbon",
+        "searchTerm": "bourbon",
+        "normalizedName": "Bourbon"
+      },
+      {
+        "ingredient": "2 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "2 cloves garlic, halved",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "3 pounds pork tenderloin",
+        "searchTerm": "pork tenderloin",
+        "normalizedName": "Pork Tenderloin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Container for marinating",
+        "searchTerm": "marinating container"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Marinate at least 4 hours, preferably overnight for full flavor",
+      "Reserve some marinade to use as a finishing glaze",
+      "Cook to 145°F internal temperature and let rest 10 minutes before slicing"
+    ],
+    "coachingPrompt": "Explain how bourbon's sweetness balances soy's saltiness and guide the user through marinating and searing techniques."
+  },
+  "timestamp": "2026-02-06T15:08:37.305Z"
+}

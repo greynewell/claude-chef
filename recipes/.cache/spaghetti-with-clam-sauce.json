@@ -1,0 +1,83 @@
+{
+  "contentHash": "ab050b43f60e26f3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound spaghetti",
+        "searchTerm": "spaghetti",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "1 pint heavy whipping cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "2 cups jarred baby clams with juice",
+        "searchTerm": "canned clams",
+        "normalizedName": "Clam"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 ½ anchovy fillets",
+        "searchTerm": "anchovies",
+        "normalizedName": "Anchovy"
+      },
+      {
+        "ingredient": "½ teaspoon red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "1 egg yolk",
+        "searchTerm": "egg yolk",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ cup crushed croutons",
+        "searchTerm": "croutons",
+        "normalizedName": "Crouton"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Basil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "pasta pot"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "sauce pan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Temper the egg yolk before adding to hot cream to avoid scrambling",
+      "Use reserved clam juice to adjust sauce consistency",
+      "Add basil at the end to preserve its fresh flavor"
+    ],
+    "coachingPrompt": "What technique will you use to safely incorporate the egg yolk into the hot sauce?"
+  },
+  "timestamp": "2026-02-06T18:48:30.877Z"
+}

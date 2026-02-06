@@ -1,0 +1,53 @@
+{
+  "contentHash": "b998a85e93ed88db",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "¼ teaspoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "2 tablespoons chopped pimento-stuffed green olives",
+        "searchTerm": "green olives",
+        "normalizedName": "Green Olive"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Keep coarse pepper texture for visual appeal and bite",
+      "Add olives last to maintain their texture",
+      "This simple version lets quality eggs shine"
+    ],
+    "coachingPrompt": "How does the minimalist approach of this egg salad enhance the main ingredient?"
+  },
+  "timestamp": "2026-02-06T06:10:03.527Z"
+}

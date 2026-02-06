@@ -1,0 +1,48 @@
+{
+  "contentHash": "df2802a6453543eb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) package bacon, strips cut in half",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 (16 ounce) package frozen cut green beans",
+        "searchTerm": "frozen green beans",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "2 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Bundle green beans in small handfuls with bacon strips to keep them together",
+      "The brown sugar will caramelize, adding sweetness that balances the salty bacon"
+    ],
+    "coachingPrompt": "Should you thaw the green beans first or cook them frozen?"
+  },
+  "timestamp": "2026-02-05T22:53:49.046Z"
+}

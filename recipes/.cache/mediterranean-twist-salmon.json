@@ -1,0 +1,63 @@
+{
+  "contentHash": "f00a65f555df3018",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 teaspoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 (4 ounce) fillets salmon",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ cup chopped tomatoes, or more to taste",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 tablespoon balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "6 fresh basil leaves, chopped",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Cook salmon skin-side down first for crispy skin and moist flesh",
+      "Add tomato mixture in the last few minutes to avoid overcooking salmon",
+      "Use fresh basil at the end for bright, aromatic flavor"
+    ],
+    "coachingPrompt": "How would you time the cooking so the salmon stays moist while the tomato sauce develops flavor?"
+  },
+  "timestamp": "2026-02-06T12:13:41.163Z"
+}

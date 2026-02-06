@@ -1,0 +1,54 @@
+{
+  "contentHash": "f179bf85d7f1cb0e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 whole fryer chicken, 3 to 4 pounds",
+        "searchTerm": "whole chicken",
+        "normalizedName": "Whole Chicken"
+      },
+      {
+        "ingredient": "1 tablespoon dried sage, crumbled",
+        "searchTerm": "dried sage",
+        "normalizedName": "Dried Sage"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "large oven-safe skillet"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Pat chicken dry before cooking to achieve crispy skin",
+      "Sear chicken skin-side down first to render fat and create golden color",
+      "Transfer to oven to finish cooking evenly throughout"
+    ],
+    "coachingPrompt": "Guide through searing a whole chicken for crispy skin and finishing in the oven for juicy, fully cooked meat."
+  },
+  "timestamp": "2026-02-06T22:07:31.112Z"
+}

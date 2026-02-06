@@ -1,0 +1,54 @@
+{
+  "contentHash": "ccafead23c12b313",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 cup fresh basil, chopped",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "3 teaspoons minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 (8 ounce) loaf Calabrese bread (crusty Italian bread), cut into 1/2-inch slices",
+        "searchTerm": "Italian bread",
+        "normalizedName": "Italian Bread"
+      },
+      {
+        "ingredient": "salt and coarsely ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and coarsely ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill or grill pan",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Pastry brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Infuse the oil with garlic and basil ahead of time for deeper flavor",
+      "Grill bread quickly over high heat to prevent burning while achieving char marks",
+      "Don't brush oil on until just before grilling to prevent it from burning"
+    ],
+    "coachingPrompt": "Guide the user on creating a flavorful infused oil and managing grill temperature to achieve crispy exteriors with charred flavor without burning the fresh basil."
+  },
+  "timestamp": "2026-02-06T07:58:08.358Z"
+}

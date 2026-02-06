@@ -1,0 +1,73 @@
+{
+  "contentHash": "59e8449f46722e12",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "9 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 onion, finely diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "7 potatoes, peeled and cubed",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "3 cups vegetable broth",
+        "searchTerm": "vegetable broth",
+        "normalizedName": "Vegetable Broth"
+      },
+      {
+        "ingredient": "2 cups half-and-half",
+        "searchTerm": "half-and-half",
+        "normalizedName": "Half-and-Half"
+      },
+      {
+        "ingredient": "3 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "3 ¼ cups shredded Cheddar-Monterey Jack cheese blend",
+        "searchTerm": "Cheddar Monterey Jack cheese blend",
+        "normalizedName": "Cheddar-Monterey Jack Cheese Blend"
+      },
+      {
+        "ingredient": "1 teaspoon finely chopped fresh chives",
+        "searchTerm": "fresh chives",
+        "normalizedName": "Fresh Chive"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon separately and crumble it before adding to preserve its texture and prevent sogginess",
+      "Mix flour with a small amount of cold broth to create a slurry before adding to prevent lumps",
+      "Stir in cheese gradually at the end on low heat to prevent it from breaking or separating"
+    ],
+    "coachingPrompt": "Guide the user through achieving a creamy, restaurant-quality soup with proper technique for dairy and cheese incorporation."
+  },
+  "timestamp": "2026-02-06T18:16:02.962Z"
+}

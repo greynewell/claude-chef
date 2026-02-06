@@ -1,0 +1,53 @@
+{
+  "contentHash": "866073de07c052d0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "whole kernel corn",
+        "searchTerm": "canned corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "creamed corn",
+        "searchTerm": "creamed corn",
+        "normalizedName": "Creamed Corn"
+      },
+      {
+        "ingredient": "corn bread mix",
+        "searchTerm": "cornbread mix",
+        "normalizedName": "Cornbread Mix"
+      },
+      {
+        "ingredient": "sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "casserole dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Combine creamed corn and whole kernel corn for textural variety",
+      "Use melted butter to ensure smooth incorporation with other ingredients",
+      "Don't overmix batter to keep cornbread light and tender"
+    ],
+    "coachingPrompt": "How could you add protein or vegetables to make this a more complete side dish?"
+  },
+  "timestamp": "2026-02-06T03:53:30.138Z"
+}

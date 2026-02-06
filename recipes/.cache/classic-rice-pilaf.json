@@ -1,0 +1,68 @@
+{
+  "contentHash": "2f3f08148bbd6d48",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cups long-grain white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "Long-Grain White Rice"
+      },
+      {
+        "ingredient": "3 cups chicken stock",
+        "searchTerm": "chicken stock",
+        "normalizedName": "Chicken Stock"
+      },
+      {
+        "ingredient": "1 ½ teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch saffron",
+        "searchTerm": "saffron",
+        "normalizedName": "Saffron"
+      },
+      {
+        "ingredient": "¼ teaspoon cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan with lid",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Toast rice briefly in butter and oil before adding liquid to enhance nutty flavor",
+      "Use the absorption method and don't stir after liquid is added to get fluffy grains",
+      "Let rice rest covered for 5 minutes after cooking"
+    ],
+    "coachingPrompt": "Help the user understand why toasting the rice is important and how to achieve fluffy, separate grains through proper liquid ratio and resting."
+  },
+  "timestamp": "2026-02-06T03:33:52.723Z"
+}

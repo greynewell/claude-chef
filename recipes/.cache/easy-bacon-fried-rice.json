@@ -1,0 +1,68 @@
+{
+  "contentHash": "0fb1407a65095bff",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices bacon, cut into 1/2-inch pieces",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 cup frozen French-cut green beans, thawed",
+        "searchTerm": "frozen green bean",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "½ onion, roughly chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 teaspoons sesame oil",
+        "searchTerm": "sesame oil",
+        "normalizedName": "Sesame Oil"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "3 cups cold cooked rice",
+        "searchTerm": "cooked rice",
+        "normalizedName": "Cooked Rice"
+      },
+      {
+        "ingredient": "1 tablespoon soy sauce, or more to taste",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "wok or large skillet",
+        "searchTerm": "wok"
+      },
+      {
+        "name": "wooden spoon or spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "high heat source",
+        "searchTerm": "stove"
+      }
+    ],
+    "cookingTips": [
+      "Use cold, day-old cooked rice to prevent clumping and achieve better texture",
+      "Cook bacon until crispy, then remove before cooking other ingredients to maintain its texture",
+      "Cook over high heat and keep ingredients moving for proper fried rice texture"
+    ],
+    "coachingPrompt": "Why does my fried rice always come out mushy instead of fluffy and separated? What's the secret to great fried rice?"
+  },
+  "timestamp": "2026-02-06T05:31:36.084Z"
+}

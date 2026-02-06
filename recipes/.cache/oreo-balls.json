@@ -1,0 +1,43 @@
+{
+  "contentHash": "60ff3799f223813a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (14 ounce) package chocolate sandwich cookies (such as Oreo®), crushed",
+        "searchTerm": "oreo cookies",
+        "normalizedName": "Oreo Cookie"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, at room temperature",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (12 ounce) package vanilla-flavored almond bark, or as needed",
+        "searchTerm": "almond bark",
+        "normalizedName": "Almond Bark"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Dipping fork",
+        "searchTerm": "dipping fork"
+      }
+    ],
+    "cookingTips": [
+      "Freeze balls for at least 2 hours before dipping for easier handling",
+      "Keep almond bark at proper temperature for smooth coating",
+      "Work quickly when dipping to prevent melting"
+    ],
+    "coachingPrompt": "Guide the user through creating perfectly coated no-bake truffles with the right consistency and presentation."
+  },
+  "timestamp": "2026-02-06T13:47:11.232Z"
+}

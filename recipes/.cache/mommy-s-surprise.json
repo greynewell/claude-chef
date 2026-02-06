@@ -1,0 +1,63 @@
+{
+  "contentHash": "33f274aabb129d88",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 small onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 green bell pepper, diced",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 (4 ounce) can chopped mushrooms, drained (Optional)",
+        "searchTerm": "canned mushroom",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream Of Mushroom Soup"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "6 Kaiser rolls, split",
+        "searchTerm": "Kaiser rolls",
+        "normalizedName": "Kaiser Roll"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly before adding vegetables to develop flavor",
+      "Cook vegetables until softened before adding soup and cheese",
+      "Spoon mixture onto rolls and bake at 350°F for 10-15 minutes until heated through"
+    ],
+    "coachingPrompt": "How do I assemble this surprise sandwich so the filling stays on the roll and doesn't get soggy?"
+  },
+  "timestamp": "2026-02-06T12:47:07.813Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "400d22fe31c5e492",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 packages active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "7 cups spelt flour",
+        "searchTerm": "spelt flour",
+        "normalizedName": "Spelt Flour"
+      },
+      {
+        "ingredient": "2 cups warm water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large bowl",
+        "searchTerm": "large mixing bowl"
+      },
+      {
+        "name": "bread loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Activate yeast in warm water with sugar for 5-10 minutes until foamy",
+      "Spelt dough will be stickier than wheat dough; avoid adding excess flour",
+      "Allow two rises of 1-2 hours each before shaping and final proof in loaf pan"
+    ],
+    "coachingPrompt": "Guide the user through yeast activation and explain how spelt bread doughs behave differently from traditional wheat breads."
+  },
+  "timestamp": "2026-02-06T18:51:18.164Z"
+}

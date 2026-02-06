@@ -1,0 +1,63 @@
+{
+  "contentHash": "06bf01a6c207047f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "½ (25 ounce) package frozen cheese ravioli",
+        "searchTerm": "frozen cheese ravioli",
+        "normalizedName": "Frozen Cheese Ravioli"
+      },
+      {
+        "ingredient": "1 (14 ounce) jar spaghetti sauce",
+        "searchTerm": "spaghetti sauce",
+        "normalizedName": "Spaghetti Sauce"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can diced tomatoes, drained",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 cup shredded Monterey Jack cheese",
+        "searchTerm": "Monterey Jack cheese",
+        "normalizedName": "Monterey Jack Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef before layering with ravioli and sauce to distribute flavors throughout",
+      "Drain diced tomatoes to prevent the dish from becoming too watery",
+      "Mix the three cheeses together to create a more complex, balanced flavor for the topping"
+    ],
+    "coachingPrompt": "Explain the layering technique and why combining multiple cheeses creates better melting and flavor complexity than using one cheese alone."
+  },
+  "timestamp": "2026-02-05T23:47:25.791Z"
+}

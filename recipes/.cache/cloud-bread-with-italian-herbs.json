@@ -1,0 +1,53 @@
+{
+  "contentHash": "9a42e95b6495d56f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs, separated",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ teaspoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "2 tablespoons cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 teaspoons Italian herb blend",
+        "searchTerm": "Italian seasoning",
+        "normalizedName": "Italian Herb Blend"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Electric Mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Separate eggs carefully with no yolk in egg whites for maximum volume when whipping",
+      "Fold gently to maintain the airy texture that makes cloud bread unique",
+      "Bake until golden and set but still slightly tender for the lightest result"
+    ],
+    "coachingPrompt": "Help the baker understand why separating eggs and whipping egg whites creates the cloud-like texture that makes this a keto-friendly bread alternative."
+  },
+  "timestamp": "2026-02-06T03:35:59.938Z"
+}

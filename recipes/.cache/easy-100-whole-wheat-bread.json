@@ -1,0 +1,58 @@
+{
+  "contentHash": "3ba7b8fa2f07c236",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "warm water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "active dry yeast",
+        "searchTerm": "yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "sea salt",
+        "searchTerm": "salt",
+        "normalizedName": "Sea Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Bread Pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Kitchen Scale",
+        "searchTerm": "kitchen scale"
+      }
+    ],
+    "cookingTips": [
+      "Whole wheat flour requires slightly more water than white flour for proper hydration",
+      "Allow longer rise times than white bread as whole wheat ferments more slowly",
+      "Score the top before baking for controlled expansion"
+    ],
+    "coachingPrompt": "Help the baker understand the unique properties of whole wheat flour and guide them on achieving good rise despite the denser grain."
+  },
+  "timestamp": "2026-02-06T05:28:59.760Z"
+}

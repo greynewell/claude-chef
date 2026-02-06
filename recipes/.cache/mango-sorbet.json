@@ -1,0 +1,43 @@
+{
+  "contentHash": "dc7d044094cd353e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 mangos - peeled, seeded, and cubed",
+        "searchTerm": "mango",
+        "normalizedName": "Mango"
+      },
+      {
+        "ingredient": "1 cup simple syrup",
+        "searchTerm": "simple syrup",
+        "normalizedName": "Simple Syrup"
+      },
+      {
+        "ingredient": "3 tablespoons fresh lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Use ripe mangos for maximum sweetness and flavor intensity",
+      "Chill mango mixture before churning for better texture",
+      "Freeze sorbet in airtight container if ice cream maker unavailable"
+    ],
+    "coachingPrompt": "I'm making mango sorbet from scratch. Can I make it without an ice cream maker?"
+  },
+  "timestamp": "2026-02-06T11:52:41.833Z"
+}

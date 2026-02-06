@@ -1,0 +1,44 @@
+{
+  "contentHash": "046a61ad3c6afd89",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "20 green grapes",
+        "searchTerm": "green grape",
+        "normalizedName": "Green Grape"
+      },
+      {
+        "ingredient": "1 tablespoon cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "10 miniature semisweet chocolate chips",
+        "searchTerm": "chocolate chip",
+        "normalizedName": "Chocolate Chip"
+      },
+      {
+        "ingredient": "skewers",
+        "searchTerm": "skewer",
+        "normalizedName": "Skewer"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Small Plate",
+        "searchTerm": "plate"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Use toothpicks if skewers are too large for grapes",
+      "Soften cream cheese to room temperature for easier spreading",
+      "Press chocolate chips gently to embed in cream cheese"
+    ],
+    "coachingPrompt": "Help the user create an engaging, no-cook treat perfect for involving children in food preparation."
+  },
+  "timestamp": "2026-02-06T04:54:54.112Z"
+}

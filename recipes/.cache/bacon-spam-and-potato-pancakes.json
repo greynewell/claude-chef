@@ -1,0 +1,52 @@
+{
+  "contentHash": "c175711350066771",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups mashed potatoes",
+        "searchTerm": "mashed potatoes",
+        "normalizedName": "Mashed Potato"
+      },
+      {
+        "ingredient": "1 (12 ounce) can fully cooked luncheon meat with bacon (such as SPAM® with Bacon), diced",
+        "searchTerm": "SPAM with bacon",
+        "normalizedName": "SPAM with Bacon"
+      },
+      {
+        "ingredient": "1 cup buttermilk pancake mix",
+        "searchTerm": "pancake mix",
+        "normalizedName": "Pancake Mix"
+      },
+      {
+        "ingredient": "2 eggs, lightly beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Use cooled mashed potatoes for easier mixing with other ingredients",
+      "Cook on medium heat and flip once until golden brown on both sides"
+    ],
+    "coachingPrompt": "These hearty pancakes combine comfort food elements. How would you keep them from falling apart during flipping?"
+  },
+  "timestamp": "2026-02-05T22:53:03.673Z"
+}

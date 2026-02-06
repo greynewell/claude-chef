@@ -1,0 +1,95 @@
+{
+  "contentHash": "98dcc842cd6ef49a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 tablespoons butter or margarine",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 carrot, diced",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 celery rib, diced",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 teaspoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "1 teaspoon dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      },
+      {
+        "ingredient": "1 bunch green onions, chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "2 tablespoons flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "2 (12 fluid ounce) cans or bottles domestic beer",
+        "searchTerm": "domestic beer",
+        "normalizedName": "Beer"
+      },
+      {
+        "ingredient": "1 pound processed cheese food, cubed",
+        "searchTerm": "processed cheese",
+        "normalizedName": "Processed Cheese Food"
+      },
+      {
+        "ingredient": "½ pound sharp Cheddar cheese, grated",
+        "searchTerm": "sharp cheddar cheese",
+        "normalizedName": "Sharp Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 teaspoons garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot"
+      },
+      {
+        "name": "skillet"
+      },
+      {
+        "name": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, crumble, and reserve, using bacon fat as base for soffritto",
+      "Create roux with flour and fat before adding liquid to prevent lumps",
+      "Add cheese gradually while stirring constantly to ensure smooth texture"
+    ],
+    "coachingPrompt": "Help the user understand how to properly thicken soup with a roux and incorporate cheese without curdling"
+  },
+  "timestamp": "2026-02-05T23:54:28.045Z"
+}

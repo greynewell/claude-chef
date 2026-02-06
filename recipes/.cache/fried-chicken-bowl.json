@@ -1,0 +1,53 @@
+{
+  "contentHash": "d3c51f0feeabeaf2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "4 pieces frozen, breaded pre-cooked chicken strips",
+        "searchTerm": "breaded chicken strips",
+        "normalizedName": "Breaded Chicken Strip"
+      },
+      {
+        "ingredient": "2 cups prepared mashed potatoes",
+        "searchTerm": "mashed potatoes",
+        "normalizedName": "Mashed Potato"
+      },
+      {
+        "ingredient": "6 ounces shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 (14 ounce) can whole kernel corn, drained",
+        "searchTerm": "corn",
+        "normalizedName": "Corn"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Bowls",
+        "searchTerm": "bowls"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Fry pre-cooked chicken strips briefly just to heat through and re-crisp the coating",
+      "Layer mashed potatoes first as the base for structural support",
+      "Top with warm cheese and corn so they meld together with the warm chicken"
+    ],
+    "coachingPrompt": "This is an assembly dish. How can you ensure all components are warm and flavors complement?"
+  },
+  "timestamp": "2026-02-06T07:03:51.650Z"
+}

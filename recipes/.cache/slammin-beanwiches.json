@@ -1,0 +1,58 @@
+{
+  "contentHash": "2cd57b5cdd2ab07f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "1 (15 ounce) can baked beans with pork",
+        "searchTerm": "baked beans",
+        "normalizedName": "Baked Bean"
+      },
+      {
+        "ingredient": "1 (12 ounce) container fully cooked luncheon meat",
+        "searchTerm": "luncheon meat",
+        "normalizedName": "Luncheon Meat"
+      },
+      {
+        "ingredient": "8 slices American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      },
+      {
+        "ingredient": "3 tablespoons ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "3 tablespoons prepared yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Warm baked beans gently to release flavors without breaking them down",
+      "Slice luncheon meat thin for even distribution across the sandwich",
+      "Toast bread lightly for structure that won't fall apart from the fillings"
+    ],
+    "coachingPrompt": "How would you modernize this classic sandwich by adding fresh vegetables and lighter proteins?"
+  },
+  "timestamp": "2026-02-06T18:00:08.958Z"
+}

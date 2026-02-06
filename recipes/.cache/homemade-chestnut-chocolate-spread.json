@@ -1,0 +1,58 @@
+{
+  "contentHash": "5de267d8a040e909",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "2 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 cups roasted and peeled chestnuts",
+        "searchTerm": "chestnuts",
+        "normalizedName": "Chestnut"
+      },
+      {
+        "ingredient": "½ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food Processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Blend chestnuts thoroughly until smooth and creamy",
+      "Heat milk and cocoa together before combining to avoid clumping",
+      "Add milk gradually while processing to reach desired consistency"
+    ],
+    "coachingPrompt": "Why should you combine milk and cocoa before adding to nuts? How can you adjust thickness if needed?"
+  },
+  "timestamp": "2026-02-06T09:11:17.022Z"
+}

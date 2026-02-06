@@ -1,0 +1,62 @@
+{
+  "contentHash": "2894dc3f39db5f3d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "hot sauce",
+        "searchTerm": "hot sauce",
+        "normalizedName": "Hot Sauce"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "duck breast halves",
+        "searchTerm": "duck breast",
+        "normalizedName": "Duck Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "basting brush",
+        "searchTerm": "basting brush"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "grill tongs"
+      }
+    ],
+    "cookingTips": [
+      "Score skin of duck breast in crosshatch pattern to allow marinade penetration and fat rendering",
+      "Let duck rest 5-10 minutes after grilling to retain juices for maximum tenderness",
+      "Grill skin-side down first to render fat and crisp the exterior"
+    ],
+    "coachingPrompt": "Why is resting duck breast after cooking important compared to cooking it through?"
+  },
+  "timestamp": "2026-02-06T08:31:06.341Z"
+}

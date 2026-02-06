@@ -1,0 +1,53 @@
+{
+  "contentHash": "3b768194373bb177",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1  onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic cloves",
+        "normalizedName": "Garlic Clove"
+      },
+      {
+        "ingredient": "1 cup bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "3 bunches kale - washed, dried, and shredded",
+        "searchTerm": "kale",
+        "normalizedName": "Kale"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Wok or large skillet",
+        "searchTerm": "wok"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Dry kale thoroughly after washing to prevent excessive moisture and splattering",
+      "Toast bread crumbs separately for crunch before combining",
+      "Cook kale in batches if necessary to avoid overcrowding the pan"
+    ],
+    "coachingPrompt": "Do you know how to select fresh kale and prepare it for stir-frying? Would you like tips on removing tough stems?"
+  },
+  "timestamp": "2026-02-06T19:28:45.473Z"
+}

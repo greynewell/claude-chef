@@ -1,0 +1,73 @@
+{
+  "contentHash": "f3b344dfaa75df59",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 red bell pepper, sliced into thin strips",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 green bell pepper, sliced into thin strips",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 large onion, sliced into thin strips",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 large fresh jalapeno pepper, sliced",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "2 ½ teaspoons fajita seasoning mix, divided",
+        "searchTerm": "fajita seasoning mix",
+        "normalizedName": "Fajita Seasoning Mix"
+      },
+      {
+        "ingredient": "1 teaspoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "12 ounces raw large shrimp, peeled and deveined",
+        "searchTerm": "large shrimp",
+        "normalizedName": "Large Shrimp"
+      },
+      {
+        "ingredient": "1 tablespoon lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "8 (6 inch) fajita-size flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "metal skewers",
+        "searchTerm": "skewers"
+      },
+      {
+        "name": "grill pan or basket",
+        "searchTerm": "grill basket"
+      }
+    ],
+    "cookingTips": [
+      "Soak skewers in water for 30 minutes if using wood to prevent burning",
+      "Cook shrimp and vegetables on high heat, keeping shrimp and veggies moving",
+      "Warm tortillas on the grill briefly to add smoky flavor and pliability"
+    ],
+    "coachingPrompt": "Are you comfortable with skewer assembly? Would you like tips on preventing shrimp from overcooking or vegetable timing?"
+  },
+  "timestamp": "2026-02-06T05:46:57.023Z"
+}

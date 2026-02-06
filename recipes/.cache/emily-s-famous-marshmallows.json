@@ -1,0 +1,63 @@
+{
+  "contentHash": "e1472911df831bee",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup confectioners' sugar for dusting",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon light corn syrup",
+        "searchTerm": "corn syrup",
+        "normalizedName": "Corn Syrup"
+      },
+      {
+        "ingredient": "1 ¼ cups water, divided",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "4 tablespoons unflavored gelatin",
+        "searchTerm": "gelatin",
+        "normalizedName": "Gelatin"
+      },
+      {
+        "ingredient": "2 egg whites",
+        "searchTerm": "egg white",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "candy thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "sheet pan"
+      }
+    ],
+    "cookingTips": [
+      "Use a candy thermometer to ensure syrup reaches 240°F for proper texture",
+      "Beat egg whites until stiff peaks form before folding in syrup",
+      "Allow marshmallows to set overnight before cutting"
+    ],
+    "coachingPrompt": "Guide the user through making homemade marshmallows, explaining how gelatin creates the signature fluffy texture."
+  },
+  "timestamp": "2026-02-06T06:18:17.928Z"
+}

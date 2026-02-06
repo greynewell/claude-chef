@@ -1,0 +1,53 @@
+{
+  "contentHash": "3c9cfa3827e791d9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups white sugar",
+        "searchTerm": "white sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "4 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¾ cup instant coffee granules",
+        "searchTerm": "instant coffee",
+        "normalizedName": "Instant Coffee"
+      },
+      {
+        "ingredient": "2 tablespoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "4 cups vodka",
+        "searchTerm": "vodka",
+        "normalizedName": "Vodka"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "glass jar",
+        "searchTerm": "glass jar"
+      },
+      {
+        "name": "strainer",
+        "searchTerm": "fine mesh strainer"
+      }
+    ],
+    "cookingTips": [
+      "Create a simple syrup first by dissolving sugar in water, then cool before adding alcohol",
+      "Dissolve instant coffee in the hot simple syrup for maximum flavor extraction",
+      "Store in a cool, dark place for at least 2 weeks to allow flavors to meld"
+    ],
+    "coachingPrompt": "Guide me through making homemade coffee liqueur with balanced sweetness and coffee intensity."
+  },
+  "timestamp": "2026-02-06T03:42:41.936Z"
+}

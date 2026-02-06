@@ -1,0 +1,63 @@
+{
+  "contentHash": "da81965a04b49164",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package rotini pasta",
+        "searchTerm": "rotini pasta",
+        "normalizedName": "Rotini Pasta"
+      },
+      {
+        "ingredient": "1 cup Italian-style salad dressing",
+        "searchTerm": "Italian salad dressing",
+        "normalizedName": "Italian Salad Dressing"
+      },
+      {
+        "ingredient": "1 cup creamy Caesar salad dressing",
+        "searchTerm": "Caesar dressing",
+        "normalizedName": "Caesar Dressing"
+      },
+      {
+        "ingredient": "1 cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 red bell pepper, diced",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 green bell pepper, chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 red onion, diced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Rinse pasta with cold water after cooking to stop cooking process",
+      "Toss salad well to distribute dressings evenly",
+      "Make ahead and refrigerate for flavors to develop"
+    ],
+    "coachingPrompt": "Help the user understand how to balance multiple dressings and the importance of proper pasta preparation."
+  },
+  "timestamp": "2026-02-06T10:08:24.311Z"
+}

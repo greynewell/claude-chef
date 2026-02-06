@@ -1,0 +1,53 @@
+{
+  "contentHash": "9d7158fcd048691c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (1 ounce) package ranch dressing mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Ranch Dressing Mix"
+      },
+      {
+        "ingredient": "1 egg, lightly beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¾ cup crushed saltine crackers",
+        "searchTerm": "saltine crackers",
+        "normalizedName": "Saltine Cracker"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "grill or skillet",
+        "searchTerm": "grill pan"
+      },
+      {
+        "name": "burger mold",
+        "searchTerm": "patty maker"
+      }
+    ],
+    "cookingTips": [
+      "Mix ingredients gently to avoid overworking the meat",
+      "Form patties slightly larger than your bun as they shrink while cooking",
+      "Cook over medium-high heat for 4-5 minutes per side for medium doneness"
+    ],
+    "coachingPrompt": "What burger toppings and sides would complement the ranch flavor?"
+  },
+  "timestamp": "2026-02-06T15:54:36.134Z"
+}

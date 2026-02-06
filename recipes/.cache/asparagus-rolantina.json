@@ -1,0 +1,63 @@
+{
+  "contentHash": "1acc5aa258cc1f20",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound fresh green asparagus spears, trimmed",
+        "searchTerm": "fresh asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "4 slices Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "5 (1/2 ounce) slices prosciutto",
+        "searchTerm": "prosciutto",
+        "normalizedName": "Prosciutto"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 tablespoons butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup Italian-style dried bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Shallow Baking Dish",
+        "searchTerm": "shallow baking dish"
+      },
+      {
+        "name": "Brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Blanch asparagus briefly before rolling to ensure tenderness",
+      "Pat asparagus dry before wrapping to prevent sogginess",
+      "Melt butter and mix with bread crumbs for even coating"
+    ],
+    "coachingPrompt": "Guide the user on proper asparagus blanching time and how to tightly roll the prosciutto around cheese-wrapped spears for presentation."
+  },
+  "timestamp": "2026-02-05T22:32:34.568Z"
+}

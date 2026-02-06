@@ -1,0 +1,52 @@
+{
+  "contentHash": "32c435afee7e92b2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (8 ounce) boneless duck breast halves, skin on",
+        "searchTerm": "duck breast",
+        "normalizedName": "Duck Breast"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 teaspoons fresh thyme leaves",
+        "searchTerm": "fresh thyme",
+        "normalizedName": "Fresh Thyme"
+      },
+      {
+        "ingredient": "1 teaspoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sous Vide Machine",
+        "searchTerm": "immersion circulator"
+      },
+      {
+        "name": "Vacuum Bags",
+        "searchTerm": "vacuum sealer bags"
+      },
+      {
+        "name": "Heavy Skillet",
+        "searchTerm": "cast iron skillet"
+      }
+    ],
+    "cookingTips": [
+      "Cook duck at 167°F (75°C) for medium-rare, maintaining its rich flavor and tender texture",
+      "Sear skin-side down to render fat and achieve crispy, golden skin"
+    ],
+    "coachingPrompt": "Educate the user on the luxury of perfectly cooked duck breast using sous vide and why the high-heat skin sear is crucial for textural contrast."
+  },
+  "timestamp": "2026-02-06T18:38:23.425Z"
+}

@@ -1,0 +1,73 @@
+{
+  "contentHash": "c6d3c24f0e03f3fd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 cup cooked crabmeat",
+        "searchTerm": "crabmeat",
+        "normalizedName": "Crabmeat"
+      },
+      {
+        "ingredient": "1 clove garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "hot pepper sauce to taste",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      },
+      {
+        "ingredient": "4 thick slices Italian bread, cut in half",
+        "searchTerm": "Italian bread",
+        "normalizedName": "Italian Bread"
+      },
+      {
+        "ingredient": "1 ½ cups shredded Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh parsley for garnish",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Broiler",
+        "searchTerm": "broiler"
+      }
+    ],
+    "cookingTips": [
+      "Soften cream cheese at room temperature for smooth mixing without lumps",
+      "Broil until cheese is bubbly and lightly golden to achieve optimal melt without burning bread",
+      "Assemble just before cooking to prevent bread from becoming soggy"
+    ],
+    "coachingPrompt": "How would you ensure the cheese melts evenly while keeping the bread toasted rather than burnt?"
+  },
+  "timestamp": "2026-02-06T04:00:38.164Z"
+}

@@ -1,0 +1,78 @@
+{
+  "contentHash": "747389c06a9442ba",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 loaf day-old Italian bread",
+        "searchTerm": "Italian bread",
+        "normalizedName": "Italian Bread"
+      },
+      {
+        "ingredient": "2 cups fresh strawberries, sliced",
+        "searchTerm": "strawberry",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "8 large eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "2 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon fresh lemon zest",
+        "searchTerm": "lemon zest",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "¼ teaspoon almond extract",
+        "searchTerm": "almond extract",
+        "normalizedName": "Almond Extract"
+      },
+      {
+        "ingredient": "⅛ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "Shallow Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "bread knife"
+      }
+    ],
+    "cookingTips": [
+      "Use day-old bread which is drier and absorbs custard better than fresh bread",
+      "Layer strawberries between bread slices before pouring custard to distribute fruit evenly",
+      "Refrigerate assembled casserole overnight to allow bread to fully soak in custard"
+    ],
+    "coachingPrompt": "Guide the user through building a make-ahead breakfast casserole with strawberries and proper custard absorption."
+  },
+  "timestamp": "2026-02-05T23:13:41.445Z"
+}

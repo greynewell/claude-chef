@@ -1,0 +1,62 @@
+{
+  "contentHash": "424c2cfd6d5c1d96",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup butter, at room temperature",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (3 ounce) package cream cheese, at room temperature",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "8 drops green food coloring, or as desired (Optional)",
+        "searchTerm": "food coloring",
+        "normalizedName": "Food Coloring"
+      },
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "electric mixer",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "cookie press",
+        "searchTerm": "cookie press"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Butter and cream cheese must be at room temperature for the dough to work properly in a cookie press",
+      "Work in small batches to keep dough from becoming too warm, which prevents clean press patterns",
+      "Bake for just 8-10 minutes until edges are set but centers remain slightly soft"
+    ],
+    "coachingPrompt": "Help the user understand the importance of proper dough temperature and technique for successful spritz cookies with defined patterns."
+  },
+  "timestamp": "2026-02-06T04:16:17.048Z"
+}

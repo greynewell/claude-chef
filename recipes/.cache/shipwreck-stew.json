@@ -1,0 +1,53 @@
+{
+  "contentHash": "613b4090e9fae531",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "2 (10.75 ounce) cans condensed tomato soup",
+        "searchTerm": "tomato soup",
+        "normalizedName": "Tomato Soup"
+      },
+      {
+        "ingredient": "2 medium onions, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "5 large potatoes, cubed",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "2 (15.25 ounce) cans kidney beans, undrained",
+        "searchTerm": "kidney bean",
+        "normalizedName": "Kidney Bean"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly before adding other ingredients for deeper flavor",
+      "Potatoes should be cubed uniformly for even cooking time",
+      "Simmer until potatoes are tender, approximately 30-40 minutes"
+    ],
+    "coachingPrompt": "Explain how condensed soup provides quick binding and flavor, and guide on vegetable doneness timing."
+  },
+  "timestamp": "2026-02-06T17:27:39.367Z"
+}

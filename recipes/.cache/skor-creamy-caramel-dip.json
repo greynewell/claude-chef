@@ -1,0 +1,53 @@
+{
+  "contentHash": "821e92c200565399",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "¾ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 cup caramel sauce",
+        "searchTerm": "caramel sauce",
+        "normalizedName": "Caramel Sauce"
+      },
+      {
+        "ingredient": "1 (8 ounce) package toffee baking bits",
+        "searchTerm": "toffee bits",
+        "normalizedName": "Toffee Baking Bit"
+      },
+      {
+        "ingredient": "2 apples, sliced",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "hand mixer",
+        "searchTerm": "hand mixer"
+      },
+      {
+        "name": "serving dish",
+        "searchTerm": "serving dish"
+      }
+    ],
+    "cookingTips": [
+      "Soften cream cheese at room temperature for smooth mixing",
+      "Fold in toffee bits gently at the end to keep them intact",
+      "Slice apples just before serving to prevent browning"
+    ],
+    "coachingPrompt": "How would you modify this dip to reduce sugar content while maintaining the caramel-toffee flavor?"
+  },
+  "timestamp": "2026-02-06T18:00:08.956Z"
+}

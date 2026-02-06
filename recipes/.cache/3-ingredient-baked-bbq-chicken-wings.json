@@ -1,0 +1,43 @@
+{
+  "contentHash": "be34385c2f1a0f4c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 pounds frozen chicken wings, thawed",
+        "searchTerm": "chicken wings",
+        "normalizedName": "Chicken Wing"
+      },
+      {
+        "ingredient": "10 fluid ounces barbeque sauce",
+        "searchTerm": "BBQ sauce",
+        "normalizedName": "Barbeque Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons maple-flavored syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Ensure wings are fully thawed for even cooking throughout",
+      "Toss wings halfway through baking for crispy coating on all sides",
+      "The maple syrup adds caramelization and slight sweetness to balance the BBQ sauce"
+    ],
+    "coachingPrompt": "Walk me through preparing and baking BBQ chicken wings with maple syrup glaze."
+  },
+  "timestamp": "2026-02-05T21:26:23.871Z"
+}

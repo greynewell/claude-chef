@@ -1,0 +1,73 @@
+{
+  "contentHash": "11acec5f574fe4ad",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon cream of tartar",
+        "searchTerm": "cream of tartar",
+        "normalizedName": "Cream of Tartar"
+      },
+      {
+        "ingredient": "½ teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 tablespoons applesauce",
+        "searchTerm": "applesauce",
+        "normalizedName": "Applesauce"
+      },
+      {
+        "ingredient": "2 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 cup chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "biscuit cutter",
+        "searchTerm": "biscuit cutter"
+      }
+    ],
+    "cookingTips": [
+      "Keep all ingredients cold for flakiest scones",
+      "Handle dough minimally to avoid toughness",
+      "Applesauce replaces some fat for lighter, healthier scones"
+    ],
+    "coachingPrompt": "Guide the user on proper scone technique and how applesauce affects texture while maintaining moisture."
+  },
+  "timestamp": "2026-02-06T03:03:08.882Z"
+}

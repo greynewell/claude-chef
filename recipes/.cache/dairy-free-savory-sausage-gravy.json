@@ -1,0 +1,64 @@
+{
+  "contentHash": "e46477ca783ce5c1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds breakfast sausage",
+        "searchTerm": "breakfast sausage",
+        "normalizedName": "Breakfast Sausage"
+      },
+      {
+        "ingredient": "2 ½ tablespoons Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "1 cube beef bouillon",
+        "searchTerm": "beef bouillon",
+        "normalizedName": "Beef Bouillon"
+      },
+      {
+        "ingredient": "1 teaspoon ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "4 cups almond milk",
+        "searchTerm": "almond milk",
+        "normalizedName": "Almond Milk"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "3 teaspoons ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausage completely and break into small pieces before making roux",
+      "Whisk flour into sausage fat to create roux, cooking for 1-2 minutes to remove raw flour taste",
+      "Add almond milk gradually while whisking constantly to achieve smooth consistency"
+    ],
+    "coachingPrompt": "Are you planning to serve this gravy on biscuits, hash browns, or something else?"
+  },
+  "timestamp": "2026-02-06T04:58:05.048Z"
+}

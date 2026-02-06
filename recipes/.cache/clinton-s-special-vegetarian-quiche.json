@@ -1,0 +1,88 @@
+{
+  "contentHash": "34c14be8adaae1da",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (17.5 ounce) package frozen puff pastry, thawed",
+        "searchTerm": "puff pastry",
+        "normalizedName": "Frozen Puff Pastry"
+      },
+      {
+        "ingredient": "1 cup fresh spinach, cleaned and stemmed",
+        "searchTerm": "spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "4 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ teaspoon ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Ground Nutmeg"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "5 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup cottage cheese",
+        "searchTerm": "cottage cheese",
+        "normalizedName": "Cottage Cheese"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 tomatoes, thinly sliced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pie pan",
+        "searchTerm": "pie pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Thaw puff pastry completely before handling to prevent cracking",
+      "Sauté spinach and onions before adding to reduce excess moisture in filling",
+      "Arrange tomato slices on top after pouring filling for attractive presentation"
+    ],
+    "coachingPrompt": "Help the user balance flavors and manage moisture in a vegetable quiche with puff pastry crust."
+  },
+  "timestamp": "2026-02-06T03:34:47.162Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "7cac5aade86017e4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pint strawberries, hulled and quartered",
+        "searchTerm": "strawberry",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "1 pint blueberries",
+        "searchTerm": "blueberries",
+        "normalizedName": "Blueberry"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "4 bananas",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "cutting knife"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "stirring utensil"
+      }
+    ],
+    "cookingTips": [
+      "Prepare berries before bananas to prevent browning",
+      "Toss gently to combine without crushing delicate berries",
+      "Add bananas just before serving to prevent discoloration"
+    ],
+    "coachingPrompt": "Guide the user through preparing fruit properly and explain how lemon juice prevents banana browning while enhancing natural fruit flavors."
+  },
+  "timestamp": "2026-02-06T16:05:21.057Z"
+}

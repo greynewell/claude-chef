@@ -1,0 +1,48 @@
+{
+  "contentHash": "f7a6eff6d5a9e208",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 head cauliflower, cut into large florets",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      },
+      {
+        "ingredient": "2 tablespoons butter, melted, or more to taste",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Roasting Pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "Pastry Brush",
+        "searchTerm": "pastry brush"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Pat cauliflower dry before roasting to achieve golden browning",
+      "Toss florets with melted butter for even coating and color development",
+      "Roast at high temperature to create caramelized, crispy edges"
+    ],
+    "coachingPrompt": "What is the key to achieving golden, caramelized edges on roasted cauliflower?"
+  },
+  "timestamp": "2026-02-06T00:59:42.655Z"
+}

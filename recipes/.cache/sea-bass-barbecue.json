@@ -1,0 +1,58 @@
+{
+  "contentHash": "f419b24bc3ce0647",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 teaspoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 bay leaf",
+        "searchTerm": "bay leaf",
+        "normalizedName": "Bay Leaf"
+      },
+      {
+        "ingredient": "1 pound fresh sea bass",
+        "searchTerm": "fresh sea bass",
+        "normalizedName": "Sea Bass"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill grate or basket",
+        "searchTerm": "grill basket"
+      },
+      {
+        "name": "Grill",
+        "searchTerm": "barbecue grill"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "grill tongs"
+      }
+    ],
+    "cookingTips": [
+      "Oil the grill grate well to prevent delicate fish from sticking",
+      "Grill sea bass skin-side up first, then flip gently once",
+      "Keep total cooking time to 8-10 minutes to avoid drying out the fish"
+    ],
+    "coachingPrompt": "Simple grilled fish relies on minimal seasoning and proper heat control. What temperature and positioning do you recommend for perfectly cooked sea bass?"
+  },
+  "timestamp": "2026-02-06T17:13:07.540Z"
+}

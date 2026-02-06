@@ -1,0 +1,63 @@
+{
+  "contentHash": "6e0d5f08b3b6f1e9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 potatoes, peeled and cubed",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "½ cup creamy salad dressing, e.g. Miracle Whip ™",
+        "searchTerm": "salad dressing",
+        "normalizedName": "Creamy Salad Dressing"
+      },
+      {
+        "ingredient": "½ cup shredded Monterey Jack cheese",
+        "searchTerm": "Monterey Jack cheese",
+        "normalizedName": "Monterey Jack Cheese"
+      },
+      {
+        "ingredient": "2 hard-cooked eggs, peeled and chopped",
+        "searchTerm": "hard-cooked eggs",
+        "normalizedName": "Hard-Cooked Egg"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes into uniform sizes so they cook evenly and at the same rate",
+      "Toss warm potatoes with dressing so they absorb flavors better than cold ones",
+      "Hard-cook eggs in the same pot of water before potatoes to save time"
+    ],
+    "coachingPrompt": "Why does dressing warm potatoes versus cold potatoes change the final flavor?"
+  },
+  "timestamp": "2026-02-06T06:23:30.068Z"
+}

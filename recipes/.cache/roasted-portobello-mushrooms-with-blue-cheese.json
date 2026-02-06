@@ -1,0 +1,43 @@
+{
+  "contentHash": "c2722c592bdb7a6f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 portobello mushrooms, stems removed",
+        "searchTerm": "portobello mushrooms",
+        "normalizedName": "Portobello Mushroom"
+      },
+      {
+        "ingredient": "1 tablespoon soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "3 tablespoons crumbled blue cheese",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Remove gills from mushroom caps with a spoon for better texture and to prevent sogginess",
+      "Roast at 400°F for 15-20 minutes until mushrooms release their moisture and edges brown"
+    ],
+    "coachingPrompt": "How would you prepare the mushroom caps to prevent them from becoming watery during roasting?"
+  },
+  "timestamp": "2026-02-06T16:33:32.130Z"
+}

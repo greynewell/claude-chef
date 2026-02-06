@@ -1,0 +1,63 @@
+{
+  "contentHash": "8c6e5d7ba5eded9a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 ounces dry fettuccine pasta",
+        "searchTerm": "fettuccine pasta",
+        "normalizedName": "Fettuccine Pasta"
+      },
+      {
+        "ingredient": "1 can tuna, drained",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Canned Tuna"
+      },
+      {
+        "ingredient": "1 can peas, drained",
+        "searchTerm": "canned peas",
+        "normalizedName": "Canned Pea"
+      },
+      {
+        "ingredient": "½ jar Alfredo-style pasta sauce",
+        "searchTerm": "alfredo sauce",
+        "normalizedName": "Alfredo Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 teaspoon dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      },
+      {
+        "ingredient": "1 teaspoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Cook fettuccine to al dente texture, then drain well",
+      "Warm Alfredo sauce gently to avoid breaking the emulsion",
+      "Add tuna and peas near the end to keep them from breaking apart"
+    ],
+    "coachingPrompt": "Why is it important not to overcook pasta when making a creamy pasta dish?"
+  },
+  "timestamp": "2026-02-06T20:21:31.198Z"
+}

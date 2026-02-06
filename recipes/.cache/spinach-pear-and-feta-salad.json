@@ -1,0 +1,63 @@
+{
+  "contentHash": "32b0e0521551dfcc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pears, cored and thinly sliced",
+        "searchTerm": "pear",
+        "normalizedName": "Pear"
+      },
+      {
+        "ingredient": "1 cup diet lemon-lime soda",
+        "searchTerm": "lemon-lime soda",
+        "normalizedName": "Lemon-Lime Soda"
+      },
+      {
+        "ingredient": "4 cups baby spinach leaves",
+        "searchTerm": "baby spinach",
+        "normalizedName": "Baby Spinach"
+      },
+      {
+        "ingredient": "1 shallot, finely chopped",
+        "searchTerm": "shallot",
+        "normalizedName": "Shallot"
+      },
+      {
+        "ingredient": "½ cup crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "½ cup toasted pine nuts",
+        "searchTerm": "pine nuts",
+        "normalizedName": "Pine Nut"
+      },
+      {
+        "ingredient": "½ cup raspberry vinaigrette salad dressing",
+        "searchTerm": "raspberry vinaigrette",
+        "normalizedName": "Raspberry Vinaigrette"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Salad bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Soak pear slices in the soda to prevent browning and add subtle sweetness",
+      "Toast pine nuts yourself for better flavor, or use them fresh if time-constrained",
+      "Assemble just before serving to keep the spinach crisp and pears from oxidizing"
+    ],
+    "coachingPrompt": "Guide the user through pear preparation and timing, emphasizing the importance of the soda soak and last-minute assembly for optimal texture."
+  },
+  "timestamp": "2026-02-06T19:16:45.205Z"
+}

@@ -1,0 +1,38 @@
+{
+  "contentHash": "af160e0b59a70b2a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "1 cup fully cooked luncheon meat (such as SPAM®), grated",
+        "searchTerm": "SPAM",
+        "normalizedName": "SPAM"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "broiler pan",
+        "searchTerm": "broiler pan"
+      },
+      {
+        "name": "grater",
+        "searchTerm": "box grater"
+      }
+    ],
+    "cookingTips": [
+      "Grate SPAM finely so it distributes evenly",
+      "Broil until cheese bubbles and bread is toasted, 2-3 minutes"
+    ],
+    "coachingPrompt": "How can you prevent the bread from becoming too dark before the cheese melts?"
+  },
+  "timestamp": "2026-02-06T00:46:15.324Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "7796f2fd061afd25",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups vegetable broth",
+        "searchTerm": "vegetable broth",
+        "normalizedName": "Vegetable Broth"
+      },
+      {
+        "ingredient": "2 ½ ounces rice",
+        "searchTerm": "rice",
+        "normalizedName": "Rice"
+      },
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 lemons, juiced",
+        "searchTerm": "lemons",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Medium saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "Whisk eggs thoroughly before tempering with hot broth to create silky strands",
+      "Add lemon juice slowly to avoid curdling the eggs"
+    ],
+    "coachingPrompt": "This simple soup relies on technique. What temperature broth will create a creamy texture without scrambling the eggs?"
+  },
+  "timestamp": "2026-02-06T21:44:10.404Z"
+}

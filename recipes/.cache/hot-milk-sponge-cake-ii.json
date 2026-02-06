@@ -1,0 +1,71 @@
+{
+  "contentHash": "8ec3a289977fd5a2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 tablespoon unsalted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup sifted cake flour",
+        "searchTerm": "cake flour",
+        "normalizedName": "Cake Flour"
+      },
+      {
+        "ingredient": "1 teaspoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¾ cup super fine sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Cake Pan",
+        "searchTerm": "cake pan"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Sift cake flour before measuring to ensure light, fluffy texture in the final cake",
+      "Heat milk and butter together before adding to batter to create proper moisture and crumb structure"
+    ],
+    "coachingPrompt": "Why is heating the milk important in this sponge cake recipe, and what temperature should you achieve?"
+  },
+  "timestamp": "2026-02-06T09:31:01.255Z"
+}

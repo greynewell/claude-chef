@@ -1,0 +1,73 @@
+{
+  "contentHash": "3b03eba65cd7256f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "kosher salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "dried thyme",
+        "searchTerm": "thyme",
+        "normalizedName": "Thyme"
+      },
+      {
+        "ingredient": "garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "beef eye of round roast",
+        "searchTerm": "beef roast",
+        "normalizedName": "Beef Roast"
+      },
+      {
+        "ingredient": "dry red wine",
+        "searchTerm": "red wine",
+        "normalizedName": "Red Wine"
+      },
+      {
+        "ingredient": "beef broth",
+        "searchTerm": "beef broth",
+        "normalizedName": "Beef Broth"
+      },
+      {
+        "ingredient": "cold butter, cubed",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Sear roast on all sides in a hot skillet before roasting for a flavorful crust",
+      "Use a meat thermometer and remove at 130-135°F for medium-rare, then rest for 10 minutes",
+      "Finish pan sauce with cold butter for richness and shine"
+    ],
+    "coachingPrompt": "Guide the user through the importance of searing, resting, and carryover cooking for a tender, juicy roast."
+  },
+  "timestamp": "2026-02-06T20:23:26.337Z"
+}

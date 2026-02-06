@@ -1,0 +1,63 @@
+{
+  "contentHash": "f3fb4687cf74cd24",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 large head lettuce, chopped",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "1 ½ cups diced tomatoes",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 large onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 ½ cups diced sharp Cheddar cheese",
+        "searchTerm": "sharp cheddar cheese",
+        "normalizedName": "Sharp Cheddar Cheese"
+      },
+      {
+        "ingredient": "½ cup diced Monterey Jack cheese",
+        "searchTerm": "monterey jack cheese",
+        "normalizedName": "Monterey Jack Cheese"
+      },
+      {
+        "ingredient": "8 ounces thousand island salad dressing",
+        "searchTerm": "thousand island dressing",
+        "normalizedName": "Thousand Island Salad Dressing"
+      },
+      {
+        "ingredient": "2 (15 ounce) cans kidney beans, drained",
+        "searchTerm": "kidney beans",
+        "normalizedName": "Kidney Bean"
+      },
+      {
+        "ingredient": "1 (16 ounce) package corn chips",
+        "searchTerm": "corn chips",
+        "normalizedName": "Corn Chip"
+      }
+    ],
+    "gear": [
+      "large bowl",
+      "skillet",
+      "cutting board"
+    ],
+    "cookingTips": [
+      "Brown the ground beef and let it cool before adding to the salad",
+      "Add corn chips just before serving to keep them crispy"
+    ],
+    "coachingPrompt": "What's the best way to prepare this salad so the corn chips stay crunchy and all ingredients are evenly distributed?"
+  },
+  "timestamp": "2026-02-06T03:51:48.993Z"
+}

@@ -1,0 +1,67 @@
+{
+  "contentHash": "f3a9f3de4871ff4e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "large portobello mushrooms",
+        "searchTerm": "portobello mushroom",
+        "normalizedName": "Portobello Mushroom"
+      },
+      {
+        "ingredient": "eggplant",
+        "searchTerm": "eggplant",
+        "normalizedName": "Eggplant"
+      },
+      {
+        "ingredient": "yellow squash",
+        "searchTerm": "yellow squash",
+        "normalizedName": "Yellow Squash"
+      },
+      {
+        "ingredient": "zucchini",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "balsamic vinaigrette",
+        "searchTerm": "balsamic vinaigrette",
+        "normalizedName": "Balsamic Vinaigrette"
+      },
+      {
+        "ingredient": "crumbled blue cheese",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      },
+      {
+        "ingredient": "hamburger buns",
+        "searchTerm": "hamburger buns",
+        "normalizedName": "Hamburger Bun"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "grill tongs"
+      },
+      {
+        "name": "grill brush",
+        "searchTerm": "grill brush"
+      },
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      }
+    ],
+    "cookingTips": [
+      "Remove mushroom stems and gently scrape out gills to prevent excess moisture during grilling",
+      "Slice vegetables uniformly so they cook at the same rate as the mushrooms",
+      "Toast buns lightly on the grill to add texture and prevent sogginess from marinade"
+    ],
+    "coachingPrompt": "Why would portobello mushrooms work well as a burger base compared to traditional patties?"
+  },
+  "timestamp": "2026-02-06T08:31:06.340Z"
+}

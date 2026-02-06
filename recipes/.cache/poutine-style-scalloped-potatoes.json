@@ -1,0 +1,47 @@
+{
+  "contentHash": "c072f09473275615",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 potatoes, sliced",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 teaspoon salt-free seasoning blend",
+        "searchTerm": "seasoning blend salt-free",
+        "normalizedName": "Seasoning Blend"
+      },
+      {
+        "ingredient": "3 cups shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese shredded",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "3 cups beef gravy",
+        "searchTerm": "beef gravy",
+        "normalizedName": "Beef Gravy"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Mandoline slicer",
+        "searchTerm": "mandoline slicer"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Slice potatoes uniformly for even cooking",
+      "Layer potatoes and cheese alternately for best distribution"
+    ],
+    "coachingPrompt": "What temperature and time should I bake this for perfect tender potatoes?"
+  },
+  "timestamp": "2026-02-06T15:16:44.239Z"
+}

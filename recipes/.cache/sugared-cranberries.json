@@ -1,0 +1,42 @@
+{
+  "contentHash": "08d319717dcf5d9d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup sugar, plus extra for coating",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 fluid ounce water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "7 ounces fresh cranberries",
+        "searchTerm": "fresh cranberries",
+        "normalizedName": "Cranberry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "fine mesh strainer",
+        "searchTerm": "strainer"
+      },
+      {
+        "name": "shallow bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Simmer syrup gently to avoid crystallizing sugar",
+      "Coat berries while warm and let dry on parchment 2 hours minimum"
+    ],
+    "coachingPrompt": "What other fruits could you candy using this same method for holiday garnishes?"
+  },
+  "timestamp": "2026-02-06T19:45:10.027Z"
+}

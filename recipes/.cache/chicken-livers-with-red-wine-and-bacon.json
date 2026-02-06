@@ -1,0 +1,53 @@
+{
+  "contentHash": "c6ccd9cb5d0f5154",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 slices bacon, chopped",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 sweet onion, finely chopped",
+        "searchTerm": "sweet onion",
+        "normalizedName": "Sweet Onion"
+      },
+      {
+        "ingredient": "1 pound chicken livers, rinsed and trimmed",
+        "searchTerm": "chicken livers",
+        "normalizedName": "Chicken Liver"
+      },
+      {
+        "ingredient": "1 ½ cups Burgundy or other dry red wine",
+        "searchTerm": "red wine",
+        "normalizedName": "Red Wine"
+      },
+      {
+        "ingredient": "¼ cup chopped pitted green olives",
+        "searchTerm": "green olives",
+        "normalizedName": "Green Olive"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Dutch oven or heavy skillet",
+        "searchTerm": "Dutch oven"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Render bacon fat first; it becomes the cooking base for livers",
+      "Remove livers from pan once cooked to prevent overcooking while building sauce",
+      "Let wine reduce by half to concentrate flavors and mellow the acidity"
+    ],
+    "coachingPrompt": "Help the user balance rich bacon and wine flavors while keeping chicken livers tender and not gamey."
+  },
+  "timestamp": "2026-02-06T02:34:27.690Z"
+}

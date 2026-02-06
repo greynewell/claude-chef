@@ -1,0 +1,73 @@
+{
+  "contentHash": "af8dd2836ac01d74",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pinch salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 (8 fluid ounce) bottle liquid shrimp and crab boil seasoning",
+        "searchTerm": "shrimp crab boil seasoning",
+        "normalizedName": "Shrimp Crab Boil Seasoning"
+      },
+      {
+        "ingredient": "3 pounds kielbasa sausage, cut into 1 inch pieces",
+        "searchTerm": "kielbasa sausage",
+        "normalizedName": "Kielbasa Sausage"
+      },
+      {
+        "ingredient": "5 pounds new red potatoes",
+        "searchTerm": "new red potatoes",
+        "normalizedName": "New Red Potato"
+      },
+      {
+        "ingredient": "4 lemons, halved",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "1 tablespoon diced green chile pepper, or to taste",
+        "searchTerm": "green chile pepper",
+        "normalizedName": "Green Chile Pepper"
+      },
+      {
+        "ingredient": "12 ears fresh corn",
+        "searchTerm": "fresh corn",
+        "normalizedName": "Fresh Corn"
+      },
+      {
+        "ingredient": "10 pounds medium shrimp - peeled and deveined",
+        "searchTerm": "medium shrimp",
+        "normalizedName": "Medium Shrimp"
+      },
+      {
+        "ingredient": "12 blue crabs, cleaned",
+        "searchTerm": "blue crabs",
+        "normalizedName": "Blue Crab"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Very Large Pot",
+        "searchTerm": "very large pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Serving Platter",
+        "searchTerm": "serving platter"
+      }
+    ],
+    "cookingTips": [
+      "Add ingredients in order of cooking time: potatoes first, corn and sausage next, seafood last",
+      "Use a boil bag to keep spices contained for easy cleanup",
+      "Prepare an ice bath to stop cooking once seafood is done"
+    ],
+    "coachingPrompt": "Help the cook manage timing of multiple ingredients cooking at different rates in one large pot."
+  },
+  "timestamp": "2026-02-06T17:14:45.809Z"
+}

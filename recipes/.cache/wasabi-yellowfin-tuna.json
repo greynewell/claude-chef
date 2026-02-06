@@ -1,0 +1,63 @@
+{
+  "contentHash": "3c0d023b675b4957",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons reduced-fat mayonnaise",
+        "searchTerm": "reduced-fat mayo",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 ½ teaspoons wasabi paste",
+        "searchTerm": "wasabi paste",
+        "normalizedName": "Wasabi Paste"
+      },
+      {
+        "ingredient": "1 teaspoon Chinese five-spice powder",
+        "searchTerm": "five spice powder",
+        "normalizedName": "Five-Spice Powder"
+      },
+      {
+        "ingredient": "1 tablespoon low-sodium soy sauce",
+        "searchTerm": "low-sodium soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "4 (6 ounce) yellowfin tuna fillets",
+        "searchTerm": "yellowfin tuna fillet",
+        "normalizedName": "Yellowfin Tuna"
+      },
+      {
+        "ingredient": "1 tablespoon rice vinegar",
+        "searchTerm": "rice vinegar",
+        "normalizedName": "Rice Vinegar"
+      },
+      {
+        "ingredient": "2 tablespoons toasted sesame seeds",
+        "searchTerm": "sesame seed",
+        "normalizedName": "Sesame Seed"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Toast sesame seeds in a dry pan just before serving for maximum flavor",
+      "Sear tuna fillets on high heat for only 1-2 minutes per side to keep centers rare",
+      "Prepare wasabi-mayo mixture ahead and refrigerate until ready to plate"
+    ],
+    "coachingPrompt": "How will you prevent the tuna from overcooking while achieving a proper sear?"
+  },
+  "timestamp": "2026-02-06T21:58:22.730Z"
+}

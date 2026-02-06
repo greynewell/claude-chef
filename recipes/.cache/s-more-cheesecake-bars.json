@@ -1,0 +1,73 @@
+{
+  "contentHash": "76461535b15ebf38",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "18 honey graham crackers, crushed",
+        "searchTerm": "honey graham crackers",
+        "normalizedName": "Graham Cracker"
+      },
+      {
+        "ingredient": "1 ¼ cups white sugar, divided",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "⅓ cup melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 (8 ounce) packages cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 teaspoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "6 (1.5 ounce) milk chocolate candy bars, chopped",
+        "searchTerm": "milk chocolate bars",
+        "normalizedName": "Milk Chocolate"
+      },
+      {
+        "ingredient": "1 cup miniature marshmallows",
+        "searchTerm": "mini marshmallows",
+        "normalizedName": "Marshmallow"
+      },
+      {
+        "ingredient": "1 tablespoon caramel topping",
+        "searchTerm": "caramel topping",
+        "normalizedName": "Caramel Topping"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Ensure cream cheese is fully softened for smooth cheesecake layer",
+      "Do not overbake; center should be slightly jiggly when done",
+      "Cool completely before adding marshmallow layer to prevent melting"
+    ],
+    "coachingPrompt": "How should I handle the baking time and temperature for layered cheesecake to prevent cracks?"
+  },
+  "timestamp": "2026-02-06T16:41:06.395Z"
+}

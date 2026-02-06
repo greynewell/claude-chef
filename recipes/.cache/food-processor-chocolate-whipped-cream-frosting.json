@@ -1,0 +1,48 @@
+{
+  "contentHash": "5eb10fffa87bca1d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup heavy whipping cream",
+        "searchTerm": "heavy whipping cream",
+        "normalizedName": "Heavy Whipping Cream"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 ½ tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 ½ tablespoons unsweetened cocoa powder",
+        "searchTerm": "unsweetened cocoa powder",
+        "normalizedName": "Unsweetened Cocoa Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "rubber spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "measuring spoon",
+        "searchTerm": "measuring spoon"
+      }
+    ],
+    "cookingTips": [
+      "Chill the food processor bowl and blade to keep cream cold while whipping",
+      "Sift cocoa powder first to remove lumps and prevent streaks in the frosting",
+      "Stop processing before overwhipping turns the cream into butter"
+    ],
+    "coachingPrompt": "Explain how to use a food processor for quick whipped cream frosting while avoiding overwhipping and achieving the right consistency."
+  },
+  "timestamp": "2026-02-06T06:50:39.451Z"
+}

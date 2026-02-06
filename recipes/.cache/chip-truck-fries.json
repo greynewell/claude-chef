@@ -1,0 +1,43 @@
+{
+  "contentHash": "eadac5a0ba4546b1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 baking potatoes, cut into 1/4 inch slices",
+        "searchTerm": "baking potato",
+        "normalizedName": "Baking Potato"
+      },
+      {
+        "ingredient": "¼ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 teaspoons seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep fryer or large pot",
+        "searchTerm": "fryer"
+      },
+      {
+        "name": "Slotted spoon",
+        "searchTerm": "slotted spoon"
+      },
+      {
+        "name": "Paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes into uniform thickness for even cooking",
+      "Pat potatoes dry before frying to minimize oil splatter",
+      "Fry in two batches to maintain oil temperature"
+    ],
+    "coachingPrompt": "Help the user understand the importance of oil temperature for crispy fries and proper drying techniques to reduce moisture content."
+  },
+  "timestamp": "2026-02-06T02:56:28.955Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "8ac22d8b3a34e28a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups self-rising flour",
+        "searchTerm": "self-rising flour",
+        "normalizedName": "Self-Rising Flour"
+      },
+      {
+        "ingredient": "1 cup butter at room temperature",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 eggs at room temperature",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 ½ teaspoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Use room temperature butter and eggs for smooth, well-combined dough",
+      "Chill dough before rolling and cutting for easier handling and less spreading"
+    ],
+    "coachingPrompt": "Will you be decorating these cookies? That might affect baking time and thickness."
+  },
+  "timestamp": "2026-02-05T23:34:21.976Z"
+}

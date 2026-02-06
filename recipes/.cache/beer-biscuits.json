@@ -1,0 +1,52 @@
+{
+  "contentHash": "4f55ec4391985828",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "3 teaspoons baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ cup shortening",
+        "searchTerm": "shortening",
+        "normalizedName": "Shortening"
+      },
+      {
+        "ingredient": "¾ cup beer",
+        "searchTerm": "beer",
+        "normalizedName": "Beer"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Biscuit cutter",
+        "searchTerm": "biscuit cutter"
+      }
+    ],
+    "cookingTips": [
+      "Keep all ingredients cold and work quickly to avoid activating gluten",
+      "Cut biscuits cleanly without twisting the cutter to ensure even rise"
+    ],
+    "coachingPrompt": "How does beer add lift and subtle flavor to simple biscuits?"
+  },
+  "timestamp": "2026-02-05T23:48:23.514Z"
+}

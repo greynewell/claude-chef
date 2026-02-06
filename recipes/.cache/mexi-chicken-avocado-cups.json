@@ -1,0 +1,53 @@
+{
+  "contentHash": "9cdaff67dcbcc509",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 (6 ounce) cans canned chicken, drained",
+        "searchTerm": "canned chicken",
+        "normalizedName": "Canned Chicken"
+      },
+      {
+        "ingredient": "1 tablespoon cilantro, finely chopped",
+        "searchTerm": "fresh cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "½ teaspoon chili powder, or more to taste",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "3 avocados, halved lengthwise and pitted",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 teaspoon lime juice, or to taste",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "sharp knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Drain canned chicken thoroughly and flake into bite-sized pieces for better texture",
+      "Halve avocados just before serving to prevent browning, or toss with lime juice immediately",
+      "Taste and adjust chili powder and lime juice to your preferred heat and acidity level"
+    ],
+    "coachingPrompt": "Help me assemble these avocado cups efficiently. What's the best order to prepare each component so nothing oxidizes?"
+  },
+  "timestamp": "2026-02-06T12:16:37.287Z"
+}

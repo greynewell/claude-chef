@@ -1,0 +1,53 @@
+{
+  "contentHash": "ca3ece079255ed20",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "asparagus",
+        "searchTerm": "fresh asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "lemon juice",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "wok or large skillet",
+        "searchTerm": "wok"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Cut asparagus on a diagonal to increase surface area and cook faster",
+      "Cook over high heat and keep the asparagus moving to achieve tender-crisp texture",
+      "Add lemon juice at the very end to brighten flavors"
+    ],
+    "coachingPrompt": "How do I get perfectly tender-crisp asparagus every time without overcooking it?"
+  },
+  "timestamp": "2026-02-06T15:40:18.488Z"
+}

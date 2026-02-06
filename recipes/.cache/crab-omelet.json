@@ -1,0 +1,88 @@
+{
+  "contentHash": "43ff5cc2fa0bc717",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 small potato, peeled and diced",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "¼ pound fresh crabmeat, drained and flaked",
+        "searchTerm": "fresh crabmeat",
+        "normalizedName": "Crabmeat"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 small tomato, diced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 (1.5 ounce) box raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      },
+      {
+        "ingredient": "¼ cup peas",
+        "searchTerm": "peas",
+        "normalizedName": "Pea"
+      },
+      {
+        "ingredient": "1 red bell pepper, chopped",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "3 eggs, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Omelet spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Precook diced potato until nearly tender before adding other vegetables",
+      "Build omelet filling by cooking vegetables and adding crab at the end",
+      "Use medium-high heat and fold omelet carefully to keep filling intact"
+    ],
+    "coachingPrompt": "Guide the user through building a hearty omelet with properly cooked vegetables and the delicate technique of folding."
+  },
+  "timestamp": "2026-02-06T04:02:47.145Z"
+}

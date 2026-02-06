@@ -1,0 +1,63 @@
+{
+  "contentHash": "133382183f70842c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 cups natural cream of chicken soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream of Chicken Soup"
+      },
+      {
+        "ingredient": "1 onion, finely diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 carrots, sliced",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "10 ounces refrigerated reduced-fat biscuit dough",
+        "searchTerm": "biscuit dough",
+        "normalizedName": "Biscuit Dough"
+      },
+      {
+        "ingredient": "1 cup frozen peas",
+        "searchTerm": "frozen peas",
+        "normalizedName": "Pea"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's Knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Layer ingredients in slow cooker with chicken on bottom for even cooking",
+      "Tear biscuit dough into uniform pieces for consistent cooking",
+      "Add peas in the last 30 minutes to maintain texture"
+    ],
+    "coachingPrompt": "Guide the user through layering ingredients and explain when to add the biscuit dough for optimal texture."
+  },
+  "timestamp": "2026-02-06T08:55:52.214Z"
+}

@@ -1,0 +1,88 @@
+{
+  "contentHash": "4051ecff3d6adf9b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 cups iced water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 pound small red potatoes",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "½ pound fresh green beans, cut into 1-inch pieces",
+        "searchTerm": "green beans",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "4 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "¼ cup white wine vinegar",
+        "searchTerm": "white wine vinegar",
+        "normalizedName": "White Wine Vinegar"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 tablespoon stone-ground mustard",
+        "searchTerm": "stone-ground mustard",
+        "normalizedName": "Stone-Ground Mustard"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 ounces crumbled blue cheese",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      },
+      {
+        "ingredient": "4 green onions, thinly sliced",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes into bite-sized pieces after cooking for even distribution in salad",
+      "Dress the warm potatoes with vinaigrette while still warm so they absorb flavor better",
+      "Add blue cheese just before serving to prevent it from crumbling too much"
+    ],
+    "coachingPrompt": "Why is it beneficial to dress the potatoes while they're still warm?"
+  },
+  "timestamp": "2026-02-06T00:18:58.189Z"
+}

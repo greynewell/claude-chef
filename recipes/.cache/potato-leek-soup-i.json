@@ -1,0 +1,63 @@
+{
+  "contentHash": "1d03b4f50e050a27",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 pounds white potatoes, peeled and quartered",
+        "searchTerm": "white potato",
+        "normalizedName": "White Potato"
+      },
+      {
+        "ingredient": "6 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "2 leeks, bulb only",
+        "searchTerm": "leek",
+        "normalizedName": "Leek"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup white wine",
+        "searchTerm": "white wine",
+        "normalizedName": "White Wine"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon freshly ground white pepper",
+        "searchTerm": "white pepper",
+        "normalizedName": "White Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Immersion Blender",
+        "searchTerm": "immersion blender"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use white pepper instead of black to maintain the soup's pale appearance",
+      "White wine adds acidity and complexity to balance rich butter",
+      "Blend until smooth or leave slightly chunky depending on preference"
+    ],
+    "coachingPrompt": "Guide the user in achieving a silky, elegant potato leek soup. How should they balance richness with acidity?"
+  },
+  "timestamp": "2026-02-06T15:13:50.725Z"
+}

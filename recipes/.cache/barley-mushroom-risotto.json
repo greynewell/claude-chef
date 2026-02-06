@@ -1,0 +1,78 @@
+{
+  "contentHash": "4c6e8f02a3f6968b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cup pearl barley",
+        "searchTerm": "pearl barley",
+        "normalizedName": "Pearl Barley"
+      },
+      {
+        "ingredient": "¾ teaspoon dried thyme",
+        "searchTerm": "dried thyme",
+        "normalizedName": "Dried Thyme"
+      },
+      {
+        "ingredient": "1 bay leaf",
+        "searchTerm": "bay leaf",
+        "normalizedName": "Bay Leaf"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 pound mushrooms, sliced",
+        "searchTerm": "mushroom",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "2 garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Dutch Oven",
+        "searchTerm": "dutch oven"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Chef's Knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Keep broth simmering separately and add warm to barley for even cooking",
+      "Sauté mushrooms separately and add at the end to prevent them from becoming mushy",
+      "Stir frequently to release barley's starches and create a creamy consistency"
+    ],
+    "coachingPrompt": "Guide the user through the technique of gradual liquid addition and constant stirring to achieve creamy risotto texture."
+  },
+  "timestamp": "2026-02-05T23:31:47.045Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "27b9adc8c569d15b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ cup barbecue sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "¾ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "½ cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Arrange chicken in single layer for even cooking",
+      "Baste chicken with sauce halfway through baking",
+      "Check internal temperature reaches 165°F for food safety"
+    ],
+    "coachingPrompt": "What baking temperature and time ensures moist, tender chicken?"
+  },
+  "timestamp": "2026-02-06T05:33:17.116Z"
+}

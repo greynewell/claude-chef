@@ -1,0 +1,48 @@
+{
+  "contentHash": "3ad7bdcd20c68156",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups oil for frying",
+        "searchTerm": "oil for frying",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "5 medium potatoes, cut into small cubes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "garlic salt to taste",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "1 tablespoon dried parsley",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep skillet or Dutch oven",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "slotted spoon"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Dry potatoes thoroughly before frying to achieve maximum browning",
+      "Don't stir constantly; let potatoes sit briefly between stirring for crispy edges",
+      "Drain on paper towels and season immediately while hot"
+    ],
+    "coachingPrompt": "Guide the cook on achieving golden, crispy potatoes and proper oil temperature management."
+  },
+  "timestamp": "2026-02-06T12:42:16.974Z"
+}

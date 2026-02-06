@@ -1,0 +1,83 @@
+{
+  "contentHash": "adb63d1c9494dfdb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 ½ teaspoons reduced-fat sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "¼ cup shredded reduced-fat Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons finely chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 ½ teaspoons prepared pesto sauce",
+        "searchTerm": "pesto",
+        "normalizedName": "Pesto"
+      },
+      {
+        "ingredient": "3 grape tomatoes",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 slice turkey bacon",
+        "searchTerm": "turkey bacon",
+        "normalizedName": "Turkey Bacon"
+      },
+      {
+        "ingredient": "½ ounce marinated artichoke hearts",
+        "searchTerm": "artichoke hearts",
+        "normalizedName": "Artichoke Heart"
+      },
+      {
+        "ingredient": "1 10-inch flour tortilla",
+        "searchTerm": "flour tortilla",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "microwave or toaster",
+        "searchTerm": "microwave or toaster"
+      }
+    ],
+    "cookingTips": [
+      "Scramble eggs gently over low heat for a tender texture",
+      "Warm tortilla before filling for easier rolling",
+      "Layer ingredients in order: pesto, eggs, cheese, vegetables"
+    ],
+    "coachingPrompt": "How would you modify this wrap for different flavor profiles?"
+  },
+  "timestamp": "2026-02-06T06:10:03.525Z"
+}

@@ -15,14 +15,15 @@ const mockRecipe: ParsedRecipe = {
   ingredients: ['200g spaghetti', '150g guanciale', '4 egg yolks', '80g Pecorino Romano'],
   instructions: ['Boil pasta.', 'Render guanciale.', 'Mix eggs and cheese.', 'Combine off heat.'],
   body: '## Ingredients\n\n- 200g spaghetti\n- 150g guanciale\n\n## Instructions\n\n1. Boil pasta.',
+  faqs: [],
   slug: 'test-carbonara',
   sourceFile: 'test-carbonara.md',
 };
 
 const validLlmResponse = JSON.stringify({
   ingredients: [
-    { ingredient: '200g spaghetti', searchTerm: 'spaghetti pasta' },
-    { ingredient: '150g guanciale', searchTerm: 'guanciale Italian cured pork' },
+    { ingredient: '200g spaghetti', searchTerm: 'spaghetti pasta', normalizedName: 'Spaghetti' },
+    { ingredient: '150g guanciale', searchTerm: 'guanciale Italian cured pork', normalizedName: 'Guanciale' },
   ],
   gear: [
     { name: 'Large pot', searchTerm: 'large stock pot' },

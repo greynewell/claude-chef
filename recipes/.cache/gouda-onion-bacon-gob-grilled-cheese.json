@@ -1,0 +1,48 @@
+{
+  "contentHash": "6d0d9ece7bdd15bd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices bacon, cut in half",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 teaspoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 slices sourdough bread",
+        "searchTerm": "sourdough bread",
+        "normalizedName": "Sourdough Bread"
+      },
+      {
+        "ingredient": "2 ounces Gouda cheese, or to taste",
+        "searchTerm": "Gouda cheese",
+        "normalizedName": "Gouda Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon caramelized onions",
+        "searchTerm": "caramelized onions",
+        "normalizedName": "Caramelized Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Caramelize onions ahead of time for deepest flavor and convenience",
+      "Toast bread slices in butter until edges are golden before adding cheese for better texture"
+    ],
+    "coachingPrompt": "How can you balance smoky bacon, sweet caramelized onions, and rich Gouda in a perfectly toasted sandwich?"
+  },
+  "timestamp": "2026-02-06T07:43:27.074Z"
+}

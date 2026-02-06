@@ -1,0 +1,62 @@
+{
+  "contentHash": "39a2ff7de4fda99b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "4 salmon fillets",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "¼ cup Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "2 tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "4 teaspoons dried marjoram",
+        "searchTerm": "dried marjoram",
+        "normalizedName": "Dried Marjoram"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Brush glaze on salmon during cooking to develop a caramelized exterior while keeping flesh moist",
+      "Check for doneness when salmon flakes easily with a fork; avoid overcooking"
+    ],
+    "coachingPrompt": "Why does marjoram work well with Dijon mustard on salmon?"
+  },
+  "timestamp": "2026-02-06T09:23:39.306Z"
+}

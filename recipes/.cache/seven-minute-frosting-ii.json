@@ -1,0 +1,53 @@
+{
+  "contentHash": "bb82993d3f4e97f7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 egg whites",
+        "searchTerm": "egg whites",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "3 tablespoons light corn syrup",
+        "searchTerm": "light corn syrup",
+        "normalizedName": "Light Corn Syrup"
+      },
+      {
+        "ingredient": "3 tablespoons cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "double boiler",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "candy thermometer",
+        "searchTerm": "candy thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Beat mixture over hot water for exactly 7 minutes to achieve proper consistency",
+      "Ensure bowl is completely free of grease for meringue to whip properly",
+      "Use immediately as frosting sets quickly"
+    ],
+    "coachingPrompt": "Why is timing so critical when making seven-minute frosting, and what happens if I over-beat it?"
+  },
+  "timestamp": "2026-02-06T17:23:06.563Z"
+}

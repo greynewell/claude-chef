@@ -1,0 +1,54 @@
+{
+  "contentHash": "5e6b4a56d7d503a6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup chopped roasted red peppers",
+        "searchTerm": "roasted red peppers",
+        "normalizedName": "Roasted Red Pepper"
+      },
+      {
+        "ingredient": "¼ cup low-fat mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 clove garlic, crushed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "⅛ teaspoon cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Use roasted peppers for deeper flavor than raw peppers",
+      "Pulse ingredients until desired consistency is reached",
+      "Refrigerate spread for at least 1 hour before serving for flavors to meld"
+    ],
+    "coachingPrompt": "How can you adjust the heat level of this spread?"
+  },
+  "timestamp": "2026-02-06T05:57:41.952Z"
+}

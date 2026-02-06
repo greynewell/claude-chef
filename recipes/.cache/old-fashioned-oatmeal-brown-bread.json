@@ -1,0 +1,63 @@
+{
+  "contentHash": "fd29407003d70ed8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup old-fashioned oatmeal",
+        "searchTerm": "oatmeal",
+        "normalizedName": "Oatmeal"
+      },
+      {
+        "ingredient": "2 ⅓ cups boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "⅓ cup molasses",
+        "searchTerm": "molasses",
+        "normalizedName": "Molasses"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "6 cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "2 teaspoons active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Bread pans",
+        "searchTerm": "bread pans"
+      },
+      {
+        "name": "Dough hook or wooden spoon",
+        "searchTerm": "dough hook"
+      }
+    ],
+    "cookingTips": [
+      "Pour boiling water over oatmeal to soften, then cool before adding yeast",
+      "Knead until dough is smooth and elastic, about 8-10 minutes",
+      "Bake at 375°F for 40-50 minutes until golden brown"
+    ],
+    "coachingPrompt": "Explain the importance of cooling the oatmeal mixture before adding yeast to prevent killing it."
+  },
+  "timestamp": "2026-02-06T13:33:01.127Z"
+}

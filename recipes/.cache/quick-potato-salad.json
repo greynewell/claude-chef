@@ -1,0 +1,83 @@
+{
+  "contentHash": "9a51aeda3dcf914f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 potatoes, peeled and diced",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "3 hard-cooked eggs, peeled and diced",
+        "searchTerm": "hard-cooked eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cucumber, peeled and diced",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "1 tomato, diced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 celery stalk, diced",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "¼ onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "¼ cup chopped green onion",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "¾ cup low-fat mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 tablespoon prepared yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "cutting knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cook potatoes until just tender; overcooking creates mushy salad",
+      "Chill all vegetables and eggs before mixing for best texture",
+      "Fold ingredients gently to avoid crushing potatoes and eggs"
+    ],
+    "coachingPrompt": "Guide the user through proper potato cooking and ingredient preparation to create a fresh, crispy salad with great texture contrast."
+  },
+  "timestamp": "2026-02-06T15:45:17.897Z"
+}

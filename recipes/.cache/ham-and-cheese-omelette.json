@@ -1,0 +1,63 @@
+{
+  "contentHash": "6f06f3bf06507c4f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 teaspoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "4 slices deli ham, chopped into small pieces",
+        "searchTerm": "deli ham",
+        "normalizedName": "Deli Ham"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 teaspoons chopped fresh chives, divided",
+        "searchTerm": "chives",
+        "normalizedName": "Chive"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "freshly ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "¼ cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Heat pan over medium heat and add oil before beating eggs for perfect timing",
+      "Pour beaten eggs into pan once oil is shimmering but not smoking",
+      "Fold omelette in half when cheese is melted but top is still slightly wet"
+    ],
+    "coachingPrompt": "What temperature and timing produces the fluffiest omelette?"
+  },
+  "timestamp": "2026-02-06T08:40:28.529Z"
+}

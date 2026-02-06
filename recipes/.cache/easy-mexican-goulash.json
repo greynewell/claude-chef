@@ -1,0 +1,73 @@
+{
+  "contentHash": "67783761ba98039f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 small onion, chopped fine",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "¼ cup finely chopped green bell pepper",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "1 (10 ounce) can diced tomatoes with green chile peppers",
+        "searchTerm": "diced tomatoes with green chiles",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "1 (9 ounce) package frozen corn",
+        "searchTerm": "frozen corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "½ cup medium salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "2 tablespoons taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning Mix"
+      },
+      {
+        "ingredient": "1 (8 ounce) package elbow macaroni",
+        "searchTerm": "elbow macaroni",
+        "normalizedName": "Elbow Macaroni"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly before adding vegetables to develop deeper flavor",
+      "Cook pasta slightly al dente before mixing with sauce as it will continue softening",
+      "Taste and adjust seasoning after combining all ingredients"
+    ],
+    "coachingPrompt": "Guide the user through browning meat properly and explain how combining pasta with sauce in the final stage creates better texture integration."
+  },
+  "timestamp": "2026-02-06T05:52:19.794Z"
+}

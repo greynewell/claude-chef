@@ -1,0 +1,73 @@
+{
+  "contentHash": "45765ac5c57cf482",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 pounds white potatoes, cut into 1 inch cubes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "¾ cup bottled French salad dressing",
+        "searchTerm": "French dressing",
+        "normalizedName": "French Dressing"
+      },
+      {
+        "ingredient": "1 cup chopped celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "6 green onions, chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 ¼ cups mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 tablespoon coarse grained mustard",
+        "searchTerm": "mustard",
+        "normalizedName": "Coarse Grained Mustard"
+      },
+      {
+        "ingredient": "½ cup chopped fresh mint leaves",
+        "searchTerm": "mint",
+        "normalizedName": "Mint"
+      },
+      {
+        "ingredient": "½ cup chopped fresh dill weed",
+        "searchTerm": "fresh dill",
+        "normalizedName": "Fresh Dill"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Toss potatoes with French dressing while still warm to absorb maximum flavor",
+      "Chill for at least 2 hours before serving to allow flavors to meld"
+    ],
+    "coachingPrompt": "Explain why dressing warm potatoes matters and help them understand how to balance the fresh herb flavors"
+  },
+  "timestamp": "2026-02-05T22:35:36.349Z"
+}

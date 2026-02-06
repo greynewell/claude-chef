@@ -1,0 +1,64 @@
+{
+  "contentHash": "c645a759a83a1a0d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices ham, chopped",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "1 small apple - peeled, cored and finely chopped",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "1 tablespoon mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 slices Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "4 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "4 tablespoons milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Chop apple finely so it distributes evenly throughout the sandwich",
+      "Spread butter on outside of bread for golden crust, mayo on inside for flavor",
+      "Cook over medium heat to allow cheese time to melt before bread burns"
+    ],
+    "coachingPrompt": "Guide the user through building a balanced sandwich where apple sweetness complements salty ham and rich Cheddar."
+  },
+  "timestamp": "2026-02-05T22:13:41.944Z"
+}

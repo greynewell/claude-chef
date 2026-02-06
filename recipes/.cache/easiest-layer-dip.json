@@ -1,0 +1,49 @@
+{
+  "contentHash": "07b78da7a9c2f825",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) can refried beans",
+        "searchTerm": "refried beans",
+        "normalizedName": "Refried Bean"
+      },
+      {
+        "ingredient": "1 (1 ounce) package taco seasoning",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning"
+      },
+      {
+        "ingredient": "1 (16 ounce) container sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar salsa (such as Newman's Own® medium or hot)",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "2 cups shredded Mexican-style cheese blend, or more to taste",
+        "searchTerm": "Mexican cheese blend",
+        "normalizedName": "Mexican Cheese Blend"
+      }
+    ],
+    "gear": [
+      {
+        "name": "shallow dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Warm refried beans and taco seasoning before layering for easier spreading",
+      "Layer in order: beans, sour cream, salsa, cheese for best presentation and flavors",
+      "Serve with tortilla chips at room temperature or warm in 350°F oven for 15 minutes"
+    ],
+    "coachingPrompt": "Why layer in this specific order? Should the dip be served warm or cold?"
+  },
+  "timestamp": "2026-02-06T05:27:03.256Z"
+}

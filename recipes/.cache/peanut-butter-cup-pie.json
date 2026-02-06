@@ -1,0 +1,63 @@
+{
+  "contentHash": "8f798940e4aae3c8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (3 ounce) package non-instant vanilla pudding mix",
+        "searchTerm": "vanilla pudding mix",
+        "normalizedName": "Vanilla Pudding Mix"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 (9 inch) pie crust, baked",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      },
+      {
+        "ingredient": "1 (3.9 ounce) package instant chocolate pudding mix",
+        "searchTerm": "chocolate pudding mix",
+        "normalizedName": "Chocolate Pudding Mix"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 cup frozen whipped topping, thawed",
+        "searchTerm": "whipped topping",
+        "normalizedName": "Whipped Topping"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pie dish",
+        "searchTerm": "pie dish"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Layer vanilla pudding mixed with peanut butter first for best stability",
+      "Use non-instant pudding for vanilla layer to allow proper setting",
+      "Prepare chocolate pudding just before assembling top layer to prevent weeping"
+    ],
+    "coachingPrompt": "Help the user understand the importance of layering order and timing for a structured, beautiful dessert pie."
+  },
+  "timestamp": "2026-02-06T14:24:52.101Z"
+}

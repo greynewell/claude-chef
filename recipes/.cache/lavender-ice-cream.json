@@ -1,0 +1,52 @@
+{
+  "contentHash": "1fc87d8501198c23",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 stems of fresh lavender flowers",
+        "searchTerm": "fresh lavender",
+        "normalizedName": "Fresh Lavender"
+      },
+      {
+        "ingredient": "8 egg yolks",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "1 ½ cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 cups heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Infuse milk with fresh lavender stems before heating to maximize flavor",
+      "Temper egg yolks slowly by whisking in hot milk gradually to prevent scrambling"
+    ],
+    "coachingPrompt": "What's the best method to infuse fresh herbs into custard-based ice cream?"
+  },
+  "timestamp": "2026-02-06T11:02:08.911Z"
+}

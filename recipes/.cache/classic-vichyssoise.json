@@ -1,0 +1,83 @@
+{
+  "contentHash": "ee6ca8883ac10c9b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 leeks, bulb only, sliced into rings",
+        "searchTerm": "leeks",
+        "normalizedName": "Leek"
+      },
+      {
+        "ingredient": "1 onion, sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "5 potatoes, peeled and thinly sliced",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "¼ teaspoon dried thyme",
+        "searchTerm": "thyme",
+        "normalizedName": "Thyme"
+      },
+      {
+        "ingredient": "½ teaspoon dried marjoram",
+        "searchTerm": "marjoram",
+        "normalizedName": "Marjoram"
+      },
+      {
+        "ingredient": "1 bay leaf",
+        "searchTerm": "bay leaf",
+        "normalizedName": "Bay Leaf"
+      },
+      {
+        "ingredient": "5 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "¼ cup heavy whipping cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Whipping Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "fine mesh strainer",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Leeks require careful cleaning between layers to remove sand",
+      "Blend soup until completely smooth for classic vichyssoise texture",
+      "Serve chilled with a drizzle of cream and fresh chives"
+    ],
+    "coachingPrompt": "Guide the user through proper leek cleaning and achieving silky smooth soup consistency."
+  },
+  "timestamp": "2026-02-06T03:34:47.160Z"
+}

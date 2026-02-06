@@ -1,0 +1,43 @@
+{
+  "contentHash": "c00704b80ed34021",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "self-rising flour",
+        "searchTerm": "self-rising flour",
+        "normalizedName": "Self-Rising Flour"
+      },
+      {
+        "ingredient": "milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      }
+    ],
+    "gear": [
+      {
+        "name": "muffin tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Don't overmix the batter; just combine until ingredients come together",
+      "Fill muffin cups only halfway to allow rolls to rise properly",
+      "Bake at 400°F for 10-12 minutes until golden brown on top"
+    ],
+    "coachingPrompt": "How does mayonnaise replace butter in this shortcut dough for tender, moist rolls?"
+  },
+  "timestamp": "2026-02-06T12:35:23.089Z"
+}

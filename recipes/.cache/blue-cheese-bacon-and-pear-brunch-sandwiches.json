@@ -1,0 +1,53 @@
+{
+  "contentHash": "2fcdd4ba738864b9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 Bosc pear, thinly sliced",
+        "searchTerm": "Bosc pear",
+        "normalizedName": "Bosc Pear"
+      },
+      {
+        "ingredient": "1 ½ cups apple juice",
+        "searchTerm": "apple juice",
+        "normalizedName": "Apple Juice"
+      },
+      {
+        "ingredient": "6 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 rosemary focaccia bread, or other square rolls, split",
+        "searchTerm": "rosemary focaccia",
+        "normalizedName": "Rosemary Focaccia"
+      },
+      {
+        "ingredient": "6 ounces blue cheese, crumbled",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Poach pear slices in apple juice for 5-7 minutes to soften slightly and enhance sweetness",
+      "Cook bacon until crispy for textural contrast with soft pear and creamy cheese",
+      "Assemble sandwiches just before serving to prevent bread from becoming soggy"
+    ],
+    "coachingPrompt": "Why would you poach pear slices in apple juice before assembling the sandwich?"
+  },
+  "timestamp": "2026-02-06T00:18:58.190Z"
+}

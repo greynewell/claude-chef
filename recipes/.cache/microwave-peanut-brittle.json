@@ -1,0 +1,58 @@
+{
+  "contentHash": "28bcd31325861c5f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup light corn syrup",
+        "searchTerm": "corn syrup",
+        "normalizedName": "Corn Syrup"
+      },
+      {
+        "ingredient": "1 cup salted peanuts",
+        "searchTerm": "peanuts",
+        "normalizedName": "Peanut"
+      },
+      {
+        "ingredient": "1 teaspoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Microwave",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "Microwave-Safe Bowl",
+        "searchTerm": "microwave bowl"
+      },
+      {
+        "name": "Buttered Baking Sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Heat sugar and syrup in short intervals to prevent burning and achieve proper hard-crack stage",
+      "Add peanuts partway through cooking so they don't scorch",
+      "Pour onto buttered sheet immediately and work quickly before the mixture hardens"
+    ],
+    "coachingPrompt": "Explain proper microwave intervals for candy-making and how to recognize the hard-crack stage."
+  },
+  "timestamp": "2026-02-06T12:25:46.981Z"
+}

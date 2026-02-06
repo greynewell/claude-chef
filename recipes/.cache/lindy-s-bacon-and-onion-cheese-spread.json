@@ -1,0 +1,53 @@
+{
+  "contentHash": "d3c73d70b7b279c6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 (8 ounce) packages cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "½ cup freshly shredded Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "½ bunch green onions, finely chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then crumble finely for even distribution",
+      "Let cream cheese come to room temperature for smooth mixing",
+      "Fold in bacon gently at the end to maintain texture"
+    ],
+    "coachingPrompt": "Guide me through creating a smooth, spreadable dip that combines smoky bacon with creamy cheese."
+  },
+  "timestamp": "2026-02-06T11:26:38.160Z"
+}

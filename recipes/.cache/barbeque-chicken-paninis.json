@@ -1,0 +1,53 @@
+{
+  "contentHash": "b45b09de9cc681ca",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (2 pound) rotisserie chicken, boned and shredded",
+        "searchTerm": "rotisserie chicken",
+        "normalizedName": "Rotisserie Chicken"
+      },
+      {
+        "ingredient": "4 slices Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "8 slices crispy cooked bacon, halved",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "½ cup barbeque sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "4 Kaiser rolls, halved",
+        "searchTerm": "kaiser rolls",
+        "normalizedName": "Kaiser Roll"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Panini press",
+        "searchTerm": "panini press"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Use rotisserie chicken for convenience and good flavor",
+      "Spread barbecue sauce on both roll halves before assembling",
+      "Press sandwich until cheese melts and bread is golden"
+    ],
+    "coachingPrompt": "This is a quick panini using convenient rotisserie chicken. Do you have a panini press, or would you like tips on making paninis in a regular skillet?"
+  },
+  "timestamp": "2026-02-05T23:29:31.577Z"
+}

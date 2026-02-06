@@ -1,0 +1,43 @@
+{
+  "contentHash": "0b38668d04f35455",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (4 ounce) package Idahoan® Four Cheese Mashed Potatoes",
+        "searchTerm": "instant mashed potatoes",
+        "normalizedName": "Instant Mashed Potato"
+      },
+      {
+        "ingredient": "16 fresh jalapenos",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "32 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Small Bowl",
+        "searchTerm": "small bowl"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Prepare instant mashed potatoes according to package directions and let cool slightly before filling",
+      "Wrap each stuffed jalapeno with two bacon slices, crisscrossing for secure cooking",
+      "Bake at 400°F for 20-25 minutes until bacon is crispy and jalapenos are tender"
+    ],
+    "coachingPrompt": "Should the bacon be pre-cooked or cooked together with the jalapenos, and why?"
+  },
+  "timestamp": "2026-02-06T10:15:43.198Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "e51f269f0b8aa43e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (14 ounce) package Hillshire Farm® Smoked Sausage, diagonally cut into 1/4-inch slices",
+        "searchTerm": "smoked sausage",
+        "normalizedName": "Smoked Sausage"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 cup onion, cut into 1-inch pieces",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cups red and green peppers, cut into 1-inch pieces",
+        "searchTerm": "bell peppers",
+        "normalizedName": "Bell Pepper"
+      },
+      {
+        "ingredient": "½ teaspoon dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Slice sausage diagonally to increase surface area for browning",
+      "Cook sausage first, then set aside and cook vegetables to maintain texture",
+      "Combine at the end with oregano to meld flavors"
+    ],
+    "coachingPrompt": "Help the user understand the importance of cooking components separately to maintain proper texture and combining them strategically for flavor."
+  },
+  "timestamp": "2026-02-06T03:33:52.724Z"
+}

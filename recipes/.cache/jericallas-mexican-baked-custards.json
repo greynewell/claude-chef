@@ -1,0 +1,53 @@
+{
+  "contentHash": "f4cc00c7c2854c2f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 quart whole milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 (3 inch) pieces cinnamon sticks",
+        "searchTerm": "cinnamon sticks",
+        "normalizedName": "Cinnamon Stick"
+      },
+      {
+        "ingredient": "5 large eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Water bath/roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Heat milk with cinnamon sticks before mixing to infuse flavor",
+      "Use a water bath to ensure creamy, even custard texture",
+      "Let custard cool completely before serving for best flavor development"
+    ],
+    "coachingPrompt": "Guide the user through creating silky custards using proper water bath technique and cinnamon infusion."
+  },
+  "timestamp": "2026-02-06T10:25:32.838Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "d6ed60ab8444d108",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cucumbers - peeled, quartered, and seeded",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 cup chopped tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "¼ cup fresh lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "⅛ teaspoon cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Chill the soup before serving for best flavor",
+      "Blend until smooth for a refined texture",
+      "Taste and adjust lime juice for desired acidity"
+    ],
+    "coachingPrompt": "Help the user blend the soup to their preferred consistency and suggest garnish options like fresh basil or crème fraîche."
+  },
+  "timestamp": "2026-02-06T04:49:39.525Z"
+}

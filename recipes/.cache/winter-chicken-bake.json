@@ -1,0 +1,62 @@
+{
+  "contentHash": "05ee47a977ad0267",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 sweet potato",
+        "searchTerm": "sweet potato",
+        "normalizedName": "Sweet Potato"
+      },
+      {
+        "ingredient": "½ medium sweet onion, chopped",
+        "searchTerm": "sweet onion",
+        "normalizedName": "Sweet Onion"
+      },
+      {
+        "ingredient": "1 medium apple - peeled, cored, and chopped",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "3 carrots, peeled and chopped",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 tablespoons barbecue sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "1 cup cranberries",
+        "searchTerm": "cranberry",
+        "normalizedName": "Cranberry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "instant read thermometer"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cut vegetables into similar sizes for even cooking",
+      "Chicken is done at 165°F internal temperature; don't overcook"
+    ],
+    "coachingPrompt": "Guide the user through layering vegetables and chicken to create a one-pan meal with complementary flavors."
+  },
+  "timestamp": "2026-02-06T22:14:50.500Z"
+}

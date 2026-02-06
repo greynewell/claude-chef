@@ -1,0 +1,53 @@
+{
+  "contentHash": "593b267080485ece",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "1 ½ cups warm water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "4 cups shortening for frying",
+        "searchTerm": "vegetable shortening",
+        "normalizedName": "Vegetable Shortening"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Deep skillet or deep fryer",
+        "searchTerm": "deep skillet"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Don't overwork the dough - mix just until combined",
+      "Maintain oil temperature at 350°F for even browning",
+      "Test oil temperature by dropping a small piece of dough - it should sizzle immediately"
+    ],
+    "coachingPrompt": "This is a traditional fried bread that requires proper oil temperature management. Help the cook understand dough handling and how to achieve golden, crispy results without burning."
+  },
+  "timestamp": "2026-02-06T07:10:27.238Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "a28e40d9c4a7dd71",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "large zucchini",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "basting brush",
+        "searchTerm": "basting brush"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "grill tongs"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Slice zucchini lengthwise to create flat pizza bases that won't roll on the grill",
+      "Melt butter with garlic and brush on zucchini before adding sauce and cheese",
+      "Grill with lid closed after adding toppings to allow cheese to melt evenly"
+    ],
+    "coachingPrompt": "What's the advantage of using zucchini slices as a pizza base instead of dough?"
+  },
+  "timestamp": "2026-02-06T08:31:06.343Z"
+}

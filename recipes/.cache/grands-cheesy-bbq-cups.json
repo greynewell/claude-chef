@@ -1,0 +1,48 @@
+{
+  "contentHash": "6743bb3e3f606e87",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound lean (at least 80%) ground beef, cooked, drained",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "¾ cup barbeque sauce",
+        "searchTerm": "bbq sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "1 (10.2 ounce) can Pillsbury® Grands!® Flaky Layers refrigerated biscuits",
+        "searchTerm": "grands biscuits",
+        "normalizedName": "Refrigerated Biscuit"
+      },
+      {
+        "ingredient": "¾ cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Muffin tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Press biscuits into muffin cups to create cup shape",
+      "Drain ground beef thoroughly to prevent soggy cups",
+      "Bake at 375°F for 12-15 minutes until biscuits are golden"
+    ],
+    "coachingPrompt": "How can you ensure these cups are crispy on the outside while keeping the filling warm?"
+  },
+  "timestamp": "2026-02-06T07:56:07.930Z"
+}

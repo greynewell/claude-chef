@@ -1,0 +1,73 @@
+{
+  "contentHash": "f3c71095d5e5ec99",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup instant oatmeal",
+        "searchTerm": "instant oatmeal",
+        "normalizedName": "Instant Oatmeal"
+      },
+      {
+        "ingredient": "½ cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "2 tablespoons prepared mustard",
+        "searchTerm": "prepared mustard",
+        "normalizedName": "Prepared Mustard"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "6 hot dog buns",
+        "searchTerm": "hot dog buns",
+        "normalizedName": "Hot Dog Bun"
+      },
+      {
+        "ingredient": "6 slices American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "skillet or grill",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Mix ingredients gently to avoid compacting the meat and making tough patties",
+      "Use oatmeal as a binder to keep burgers moist",
+      "Don't press down on burgers while cooking to maintain juiciness"
+    ],
+    "coachingPrompt": "Show me how to make tender, flavorful burgers with oatmeal that stay juicy and topped with melted cheese."
+  },
+  "timestamp": "2026-02-06T00:26:38.118Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "c84b69e8bfa93a12",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "8 all-beef hot dogs",
+        "searchTerm": "hot dog",
+        "normalizedName": "Hot Dog"
+      },
+      {
+        "ingredient": "8 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "16 toothpicks",
+        "searchTerm": "toothpicks",
+        "normalizedName": "Toothpick"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar pushcart-style onions in sauce",
+        "searchTerm": "onions in sauce",
+        "normalizedName": "Onion In Sauce"
+      },
+      {
+        "ingredient": "8 hot dog rolls",
+        "searchTerm": "hot dog roll",
+        "normalizedName": "Hot Dog Roll"
+      },
+      {
+        "ingredient": "1 (8 ounce) package corn chips, crushed",
+        "searchTerm": "corn chips",
+        "normalizedName": "Corn Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep fryer or deep pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "slotted spoon"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Wrap bacon tightly around hot dogs and secure with toothpicks before frying",
+      "Fry at 375°F until bacon is crispy, about 3-4 minutes",
+      "Top with onions and crushed corn chips for the signature Jersey ripper crunch"
+    ],
+    "coachingPrompt": "How do I fry bacon-wrapped hot dogs without having the bacon unravel, and what temperature should the oil be?"
+  },
+  "timestamp": "2026-02-06T21:27:53.160Z"
+}

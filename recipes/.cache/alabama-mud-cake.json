@@ -1,0 +1,58 @@
+{
+  "contentHash": "80ad86c5f9382aa3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (20 ounce) can crushed pineapple, with juice",
+        "searchTerm": "crushed pineapple",
+        "normalizedName": "Crushed Pineapple"
+      },
+      {
+        "ingredient": "1 (21 ounce) can cherry pie filling",
+        "searchTerm": "cherry pie filling",
+        "normalizedName": "Cherry Pie Filling"
+      },
+      {
+        "ingredient": "1 (18.25 ounce) package devil's food cake mix",
+        "searchTerm": "devil's food cake mix",
+        "normalizedName": "Devil's Food Cake Mix"
+      },
+      {
+        "ingredient": "1 cup chopped pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      },
+      {
+        "ingredient": "½ cup mint chocolate chips",
+        "searchTerm": "mint chocolate chips",
+        "normalizedName": "Mint Chocolate Chip"
+      },
+      {
+        "ingredient": "½ cup butter, sliced",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 inch baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "The pineapple and cherry filling provide moisture, eliminating need for eggs or oil typically in cake mixes",
+      "Sprinkle toppings after batter goes in pan to ensure even distribution",
+      "Bake at 350°F for 45-50 minutes until a toothpick comes out clean"
+    ],
+    "coachingPrompt": "Explain why this dump-and-bake method works and how canned fruit maintains moisture in the finished cake."
+  },
+  "timestamp": "2026-02-05T21:49:27.923Z"
+}

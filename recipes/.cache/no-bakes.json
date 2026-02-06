@@ -1,0 +1,63 @@
+{
+  "contentHash": "f4b44f33eb3b23e2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 cups quick cooking oats",
+        "searchTerm": "oats",
+        "normalizedName": "Quick-Cooking Oat"
+      },
+      {
+        "ingredient": "½ cup crunchy peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 tablespoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Bring mixture to a rolling boil and cook for exactly 1 minute for perfect setting",
+      "Drop spoonfuls onto parchment paper immediately as mixture hardens quickly",
+      "Allow cookies to cool at room temperature without moving for best texture"
+    ],
+    "coachingPrompt": "Emphasize timing precision and quick execution when dropping cookies onto parchment paper."
+  },
+  "timestamp": "2026-02-06T13:17:09.210Z"
+}

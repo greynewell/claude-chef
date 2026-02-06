@@ -1,0 +1,63 @@
+{
+  "contentHash": "ee10295dc330682e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 package Duncan Hines® Moist Deluxe® Swiss Chocolate Cake Mix",
+        "searchTerm": "Swiss chocolate cake mix",
+        "normalizedName": "Swiss Chocolate Cake Mix"
+      },
+      {
+        "ingredient": "½ cup butter or margarine",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 large egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup semi-sweet chocolate chips",
+        "searchTerm": "semi-sweet chocolate chips",
+        "normalizedName": "Semi-Sweet Chocolate Chip"
+      },
+      {
+        "ingredient": "½ cup milk chocolate chips",
+        "searchTerm": "milk chocolate chips",
+        "normalizedName": "Milk Chocolate Chip"
+      },
+      {
+        "ingredient": "½ cup coarsely chopped white chocolate",
+        "searchTerm": "white chocolate",
+        "normalizedName": "White Chocolate"
+      },
+      {
+        "ingredient": "½ cup chopped pecans",
+        "searchTerm": "pecan",
+        "normalizedName": "Pecan"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cake mix already contains sweeteners and structure, so don't overmix the batter",
+      "Distribute chocolate chips evenly by folding them in at the end",
+      "Cookies will bake quickly due to cake mix base—watch closely to avoid overbaking"
+    ],
+    "coachingPrompt": "Why would using cake mix as a base be a shortcut for achieving chocolate cookie complexity?"
+  },
+  "timestamp": "2026-02-06T21:08:16.585Z"
+}

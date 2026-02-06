@@ -1,0 +1,52 @@
+{
+  "contentHash": "f0ea7cae950e110d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ½ cups buttermilk baking mix",
+        "searchTerm": "buttermilk baking mix",
+        "normalizedName": "Buttermilk Baking Mix"
+      },
+      {
+        "ingredient": "1 teaspoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅔ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ tablespoon malt vinegar",
+        "searchTerm": "malt vinegar",
+        "normalizedName": "Malt Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Don't overmix the dough to maintain flakiness",
+      "Use malt vinegar to activate leavening and add tang"
+    ],
+    "coachingPrompt": "Help the user understand how minimal mixing and acidic vinegar create light, flaky biscuits"
+  },
+  "timestamp": "2026-02-06T06:45:51.098Z"
+}

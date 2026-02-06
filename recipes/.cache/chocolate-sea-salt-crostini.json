@@ -1,0 +1,47 @@
+{
+  "contentHash": "64edf9f9061fbaff",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 French baguette, cut into diagonal 1/2 inch slices",
+        "searchTerm": "french baguette",
+        "normalizedName": "French Baguette"
+      },
+      {
+        "ingredient": "extra virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Extra Virgin Olive Oil"
+      },
+      {
+        "ingredient": "4 ounces high-quality dark chocolate, broken into 1-inch pieces",
+        "searchTerm": "dark chocolate",
+        "normalizedName": "Dark Chocolate"
+      },
+      {
+        "ingredient": "1 tablespoon flaked sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt Flake"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "double boiler",
+        "searchTerm": "double boiler"
+      }
+    ],
+    "cookingTips": [
+      "Toast baguette slices until crispy for better textural contrast with melted chocolate",
+      "Use high-quality dark chocolate for superior flavor and smooth melting"
+    ],
+    "coachingPrompt": "Guide me through creating an elegant appetizer with crispy crostini topped with dark chocolate and sea salt."
+  },
+  "timestamp": "2026-02-06T03:12:35.578Z"
+}

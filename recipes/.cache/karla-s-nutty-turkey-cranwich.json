@@ -1,0 +1,58 @@
+{
+  "contentHash": "68640fd6776ebd75",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices honey whole wheat bread, toasted",
+        "searchTerm": "honey whole wheat bread",
+        "normalizedName": "Honey Whole Wheat Bread"
+      },
+      {
+        "ingredient": "1 tablespoon mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 slices of smoked turkey breast",
+        "searchTerm": "smoked turkey breast",
+        "normalizedName": "Smoked Turkey Breast"
+      },
+      {
+        "ingredient": "1 tablespoon whole berry cranberry sauce",
+        "searchTerm": "cranberry sauce",
+        "normalizedName": "Cranberry Sauce"
+      },
+      {
+        "ingredient": "1 tablespoon chopped walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "1 lettuce leaf",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Butter Knife",
+        "searchTerm": "butter knife"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread just before assembly to keep it warm and prevent sogginess",
+      "Spread mayonnaise on both slices to create a moisture barrier against cranberry sauce",
+      "Layer components in order: bread, mayo, turkey, cranberry sauce, walnuts, lettuce for best texture"
+    ],
+    "coachingPrompt": "How can the cook prevent this sandwich from becoming soggy while maintaining flavor balance?"
+  },
+  "timestamp": "2026-02-06T10:37:15.723Z"
+}

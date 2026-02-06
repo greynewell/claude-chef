@@ -1,0 +1,72 @@
+---
+title: "Fortune Cookies I"
+description: "Built around egg white, this main course is . Yields 6 servings."
+author: "Aleta"
+prep_time: PT0M
+cook_time: PT0M
+servings: 6
+calories: 54
+recipe_category: Main Course
+keywords:
+  - cookies
+  - course
+  - fortune
+  - main
+recipe_ingredients:
+  - "Egg White"
+  - "Vanilla Extract"
+  - "Salt"
+  - "Unbleached All-Purpose Flour"
+  - "White Sugar"
+allergies:
+  - Gluten
+  - Eggs
+flavors:
+  - Sweet
+tools:
+  - Oven
+  - Mixing Bowl
+  - Baking Sheet
+  - Blender
+  - Muffin Tin
+skill_level: Easy
+source_url: "https://www.allrecipes.com/recipe/9684/fortune-cookies-i/"
+---
+
+## Ingredients
+
+- 1  egg white
+- ⅛ teaspoon vanilla extract
+- 1 pinch salt
+- ¼ cup unbleached all-purpose flour
+- ¼ cup white sugar
+
+## Instructions
+
+1. Preheat oven to 400 degrees F. Butter a cookie sheet. Write fortunes on strips of paper about 4 inches long and 1/2 inch wide. Generously grease 2 cookie sheets.
+2. Mix the egg white and vanilla until foamy but not stiff. Sift the flour, salt, and sugar and blend into the egg white mixture.
+3. Place teaspoonfuls of the batter at least 4 inches apart on one of the prepared cookie sheets. Tilt the sheet to move the batter into round shapes about 3 inches in diameter. Be careful to make batter as round and even as possible. Do not make too many, because the cookie have to be really hot to form them and once they cool it is too late. Start with 2 or 3 to a sheet and see how many you can do.
+4. Bake for 5 minutes or until cookie has turned a golden color 1/2 inch wide around the outer edge of the circle. The center will remain pale. While one sheet is baking, prepare the other.
+5. Remove from oven and quickly move cookie with a wide spatula and place upside down on a wooden board. Quickly place the fortune on the cookie, close to the middle and fold the cookie in half. Place the folded edge across the rim of a measuring cup and pull the pointed edges down, one on the inside of the cup and one on the outside. Place folded cookies into the cups of a muffin tin or egg carton to hold their shape until firm.
+
+## Frequently Asked Questions
+
+### How difficult is Fortune Cookies I to make?
+
+This recipe is rated easy difficulty.
+
+### How many servings does this Fortune Cookies I recipe make?
+
+This recipe yields 6 servings. You can adjust the serving size using the servings slider above the ingredient list.
+
+### Can I make Fortune Cookies I ahead of time? How should I store leftovers?
+
+Store leftovers in an airtight container in the refrigerator for up to 3-4 days.
+
+### How many calories are in Fortune Cookies I?
+
+Each serving contains approximately 54 calories. The recipe serves 6.
+
+### What temperature should I use for Fortune Cookies I?
+
+Follow the temperature specified in the recipe instructions. Make sure to preheat your oven fully.

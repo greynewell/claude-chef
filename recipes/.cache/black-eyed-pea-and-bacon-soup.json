@@ -1,0 +1,68 @@
+{
+  "contentHash": "4808e51048a628d0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound bacon, diced",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 quarts water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "4 cubes chicken bouillon",
+        "searchTerm": "chicken bouillon",
+        "normalizedName": "Chicken Bouillon"
+      },
+      {
+        "ingredient": "2 ½ cups dry black-eyed peas",
+        "searchTerm": "dried black-eyed peas",
+        "normalizedName": "Black-Eyed Pea"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "6 small potatoes, diced",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, remove and set aside, use rendered fat to sauté onions",
+      "Sort and rinse dried peas; optionally soak overnight to reduce cooking time",
+      "Simmer gently for 1.5-2 hours until peas are tender; add potatoes in last 20 minutes"
+    ],
+    "coachingPrompt": "How would you balance the smokiness of bacon with the earthiness of black-eyed peas?"
+  },
+  "timestamp": "2026-02-06T00:13:06.082Z"
+}

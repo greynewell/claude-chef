@@ -1,0 +1,63 @@
+{
+  "contentHash": "c97809f0e6349c17",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¼ cup cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "6 cube steaks",
+        "searchTerm": "cube steaks",
+        "normalizedName": "Cube Steak"
+      },
+      {
+        "ingredient": "2 tablespoons butter, or as needed",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup milk, or to taste",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Shallow Dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "The cornstarch in the coating helps create a richer, silkier gravy",
+      "Brown the steaks in batches to avoid steaming and ensure proper crust development",
+      "Use the drippings from the steaks as the base for a flavorful milk gravy"
+    ],
+    "coachingPrompt": "Guide the user through creating a silky, flavorful gravy from the pan drippings after searing the cube steaks."
+  },
+  "timestamp": "2026-02-06T04:47:54.528Z"
+}

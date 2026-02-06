@@ -1,0 +1,73 @@
+{
+  "contentHash": "04fe4decda4ae607",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups uncooked white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "4 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "3 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "½ cup dry-roasted, unsalted peanuts",
+        "searchTerm": "peanuts",
+        "normalizedName": "Peanut"
+      },
+      {
+        "ingredient": "4 large leaves of iceberg lettuce",
+        "searchTerm": "iceberg lettuce",
+        "normalizedName": "Iceberg Lettuce"
+      },
+      {
+        "ingredient": "1 (11 ounce) can mandarin oranges",
+        "searchTerm": "mandarin oranges",
+        "normalizedName": "Mandarin Orange"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Rice cooker",
+        "searchTerm": "rice cooker"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cut chicken into bite-sized pieces before cooking for faster, even cooking",
+      "Toast the peanuts lightly before serving to enhance their flavor",
+      "Serve on lettuce leaves for a fresh, textural contrast to the warm rice and protein"
+    ],
+    "coachingPrompt": "How do Vietnamese flavors combine rice, chicken, and peanuts? What's the role of assembly and fresh ingredients?"
+  },
+  "timestamp": "2026-02-06T11:45:11.268Z"
+}

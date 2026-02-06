@@ -1,0 +1,63 @@
+{
+  "contentHash": "e86c2f591213b32e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 links vegetarian bratwurst sausage",
+        "searchTerm": "vegan bratwurst",
+        "normalizedName": "Bratwurst Sausage"
+      },
+      {
+        "ingredient": "1 medium onion, sliced into petals",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ green bell pepper, sliced into thin strips",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "½ red bell pepper, sliced into thin strips",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "2 teaspoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 pinch salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "air fryer tray or basket",
+        "searchTerm": "air fryer tray"
+      },
+      {
+        "name": "sharp knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Slice vegetables uniformly so they cook at the same rate as the sausage",
+      "Toss vegetables and sausage halfway through cooking for even browning",
+      "Use vegan bratwurst straight from the package; thawing is unnecessary for air frying"
+    ],
+    "coachingPrompt": "Show me how to slice and arrange the vegetables with the bratwurst for even cooking, then guide me through air frying for caramelized peppers and onions."
+  },
+  "timestamp": "2026-02-05T21:40:04.006Z"
+}

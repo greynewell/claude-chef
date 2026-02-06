@@ -1,0 +1,63 @@
+{
+  "contentHash": "2e2523db7d2c7d77",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups dry sherry",
+        "searchTerm": "dry sherry",
+        "normalizedName": "Dry Sherry"
+      },
+      {
+        "ingredient": "3 cloves garlic, crushed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 cube chicken bouillon",
+        "searchTerm": "chicken bouillon",
+        "normalizedName": "Chicken Bouillon"
+      },
+      {
+        "ingredient": "6 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon Italian seasoning",
+        "searchTerm": "Italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      },
+      {
+        "ingredient": "3 slices fresh lemon",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "3 quarts fresh mussels, scrubbed and debearded",
+        "searchTerm": "fresh mussels",
+        "normalizedName": "Fresh Mussel"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot with Lid",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      },
+      {
+        "name": "Serving Bowl",
+        "searchTerm": "serving bowl"
+      }
+    ],
+    "cookingTips": [
+      "Clean mussels under cold water and discard any with cracked shells",
+      "Cook only until shells open (3-5 minutes), discard any that don't open",
+      "Strain cooking liquid through cheesecloth to remove sediment, serve as sauce"
+    ],
+    "coachingPrompt": "Help the user properly clean and cook mussels quickly to preserve their tender texture and delicate flavor."
+  },
+  "timestamp": "2026-02-06T12:28:41.770Z"
+}

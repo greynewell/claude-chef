@@ -1,0 +1,73 @@
+{
+  "contentHash": "652cde79e05af87f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (16 ounce) package frozen chopped broccoli",
+        "searchTerm": "frozen broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "4 (14.5 ounce) cans chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 (1 pound) loaf processed cheese food, cubed",
+        "searchTerm": "processed cheese",
+        "normalizedName": "Processed Cheese Food"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 tablespoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "⅔ cup cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "soup pot"
+      },
+      {
+        "name": "Small Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Cornstarch slurry prevents lumping; mix with cold water before adding to soup",
+      "Sauté onion in butter for aromatics before adding liquids",
+      "Stir constantly when adding cornstarch slurry to prevent lumps"
+    ],
+    "coachingPrompt": "Cornstarch thickens this soup instead of flour. What advantage does this offer for texture?"
+  },
+  "timestamp": "2026-02-06T00:42:37.300Z"
+}

@@ -3,3 +3,8 @@ dist/
 *.js.map
 *.d.ts
 !jest.config.js
+docs/
+.DS_Store
+.test-output/
+*.parquet
+*.log

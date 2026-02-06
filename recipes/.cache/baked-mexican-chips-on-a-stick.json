@@ -1,0 +1,58 @@
+{
+  "contentHash": "f0fc1f269afe3c96",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "nonfat cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "2 russet potatoes, unpeeled",
+        "searchTerm": "russet potatoes",
+        "normalizedName": "Russet Potato"
+      },
+      {
+        "ingredient": "2 teaspoons taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning"
+      },
+      {
+        "ingredient": "6 bamboo skewers",
+        "searchTerm": "bamboo skewers",
+        "normalizedName": "Bamboo Skewer"
+      },
+      {
+        "ingredient": "2 teaspoons sriracha sauce",
+        "searchTerm": "sriracha sauce",
+        "normalizedName": "Sriracha Sauce"
+      },
+      {
+        "ingredient": "1 pinch sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "mandoline slicer",
+        "searchTerm": "mandoline slicer"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Soak bamboo skewers in water for 30 minutes before using to prevent burning",
+      "Slice potatoes evenly for consistent cooking time",
+      "Spray skewers with cooking spray before and during baking to prevent sticking"
+    ],
+    "coachingPrompt": "How can you ensure even cooking of these potato chips on skewers? What temperature and timing would work best?"
+  },
+  "timestamp": "2026-02-05T23:08:41.735Z"
+}

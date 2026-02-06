@@ -1,0 +1,63 @@
+{
+  "contentHash": "a5177917d8057f8a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (21 ounce) can apple pie filling",
+        "searchTerm": "apple pie filling",
+        "normalizedName": "Apple Pie Filling"
+      },
+      {
+        "ingredient": "6 (8 inch) flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "⅓ cup margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Spoon apple pie filling onto tortillas before rolling to keep filling contained",
+      "Mix margarine, sugars and water into a sauce to pour over enchiladas",
+      "Bake covered to prevent drying out, then uncover for final browning"
+    ],
+    "coachingPrompt": "Guide the user through converting a sweet apple filling into a dessert enchilada by wrapping it in tortillas and baking with a cinnamon-sugar sauce."
+  },
+  "timestamp": "2026-02-05T22:13:41.944Z"
+}

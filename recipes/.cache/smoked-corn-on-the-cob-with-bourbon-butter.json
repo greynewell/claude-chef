@@ -1,0 +1,58 @@
+{
+  "contentHash": "f9ef5424f1e5689b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 ears fresh corn",
+        "searchTerm": "corn on the cob",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "1 stick butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 fluid ounce bourbon whiskey",
+        "searchTerm": "bourbon whiskey",
+        "normalizedName": "Bourbon Whiskey"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "wood chips, soaked",
+        "searchTerm": "wood chips",
+        "normalizedName": "Wood Chip"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Smoker",
+        "searchTerm": "smoker"
+      },
+      {
+        "name": "Corn Holders",
+        "searchTerm": "corn holders"
+      },
+      {
+        "name": "Pastry Brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Soak corn unhusked in water for 30 minutes before smoking to prevent charring",
+      "Prepare bourbon butter ahead and brush on corn during last 5 minutes of smoking",
+      "Corn is done when kernels are tender, approximately 30-45 minutes at 225°F"
+    ],
+    "coachingPrompt": "How does the bourbon flavor integrate with corn? Would you infuse the butter or apply it after smoking?"
+  },
+  "timestamp": "2026-02-06T18:22:25.288Z"
+}

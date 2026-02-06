@@ -1,0 +1,53 @@
+{
+  "contentHash": "c242f2207d7e07fe",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 large center-cut bone-in pork chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "2 tablespoons kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "¼ teaspoon cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "Vegetable oil for grilling",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill or Grill Pan",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Dry-brine pork chops for at least 40 minutes before cooking",
+      "Pat dry before grilling to achieve better crust",
+      "Cook to internal temperature of 145°F for juicy, tender chops"
+    ],
+    "coachingPrompt": "Guide me through dry-brining pork chops and grilling them to perfect doneness."
+  },
+  "timestamp": "2026-02-06T09:31:54.539Z"
+}

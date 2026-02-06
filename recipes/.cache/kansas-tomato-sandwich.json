@@ -1,0 +1,63 @@
+{
+  "contentHash": "b24126d0dc42eaca",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "1 medium tomato, thickly sliced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 slice white American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      },
+      {
+        "ingredient": "2 teaspoons butter or margarine",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 lettuce leaf",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Use thick tomato slices and salt them lightly to reduce excess moisture",
+      "Butter both bread slices and toast in skillet until golden for added flavor and crunch",
+      "Add cheese while bread is hot so it melts slightly before assembling"
+    ],
+    "coachingPrompt": "This is a simple classic. How do you elevate a basic tomato sandwich to make it memorable and prevent it from becoming soggy?"
+  },
+  "timestamp": "2026-02-06T10:35:55.419Z"
+}

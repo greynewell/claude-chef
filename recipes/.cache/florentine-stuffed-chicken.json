@@ -1,0 +1,58 @@
+{
+  "contentHash": "c6db5312946253bf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "½ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "4 bone-in chicken breast halves, with skin",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 cups spaghetti sauce",
+        "searchTerm": "spaghetti sauce",
+        "normalizedName": "Spaghetti Sauce"
+      },
+      {
+        "ingredient": "¼ cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Meat Mallet",
+        "searchTerm": "meat mallet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken breasts evenly for consistent cooking",
+      "Pack filling firmly to prevent leaking during cooking",
+      "Bake skin-side up for crispier skin"
+    ],
+    "coachingPrompt": "How would you secure the filling to prevent it from escaping during cooking?"
+  },
+  "timestamp": "2026-02-06T06:47:46.392Z"
+}

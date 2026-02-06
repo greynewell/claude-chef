@@ -1,0 +1,58 @@
+{
+  "contentHash": "6560223f292339b9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 cups puffed wheat cereal",
+        "searchTerm": "puffed wheat cereal",
+        "normalizedName": "Puffed Wheat Cereal"
+      },
+      {
+        "ingredient": "⅓ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "½ cup corn syrup",
+        "searchTerm": "corn syrup",
+        "normalizedName": "Corn Syrup"
+      },
+      {
+        "ingredient": "2 tablespoons cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "baking pan",
+        "searchTerm": "baking pan"
+      }
+    ],
+    "cookingTips": [
+      "Work quickly after mixing - the coating hardens fast",
+      "Butter your hands before handling the mixture to prevent sticking",
+      "Press firmly into the pan but be gentle with cereal to avoid crushing"
+    ],
+    "coachingPrompt": "Help the user understand the technique of melting the binding agent and working with the cereal mixture before it sets."
+  },
+  "timestamp": "2026-02-06T05:56:03.395Z"
+}

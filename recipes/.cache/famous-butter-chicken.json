@@ -1,0 +1,57 @@
+{
+  "contentHash": "e6af5225a11784b4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup crushed buttery round cracker crumbs",
+        "searchTerm": "buttery crackers",
+        "normalizedName": "Buttery Cracker"
+      },
+      {
+        "ingredient": "½ teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "½ cup butter, cut into pieces",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Shallow bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Meat mallet",
+        "searchTerm": "meat mallet"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken breasts to even thickness for uniform cooking",
+      "Use low to medium heat to prevent crackers from burning while cooking"
+    ],
+    "coachingPrompt": "Help the cook achieve a golden, crispy coating while keeping chicken moist inside. Suggest internal temperature checks."
+  },
+  "timestamp": "2026-02-06T06:29:22.510Z"
+}

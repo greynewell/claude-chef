@@ -1,0 +1,63 @@
+{
+  "contentHash": "f09ac050cc10e883",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups chopped carrots",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "3 cups fat-free chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "½ onion, sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "water to cover",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "4 cloves garlic, smashed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon dried thyme",
+        "searchTerm": "thyme",
+        "normalizedName": "Thyme"
+      },
+      {
+        "ingredient": "½ teaspoon dried tarragon",
+        "searchTerm": "tarragon",
+        "normalizedName": "Tarragon"
+      },
+      {
+        "ingredient": "2 tablespoons heavy whipping cream (Optional)",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "immersion blender",
+        "searchTerm": "immersion blender"
+      }
+    ],
+    "cookingTips": [
+      "Simmer carrots until completely tender, about 20-25 minutes",
+      "Blend until smooth using an immersion blender for silky texture, then stir in cream if desired"
+    ],
+    "coachingPrompt": "Would you like a completely smooth soup or one with some carrot texture remaining?"
+  },
+  "timestamp": "2026-02-06T17:48:18.604Z"
+}

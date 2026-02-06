@@ -1,0 +1,43 @@
+{
+  "contentHash": "a2bf0d0d49fc78a8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Condensed Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 pound processed cheese food",
+        "searchTerm": "processed cheese",
+        "normalizedName": "Processed Cheese Food"
+      },
+      {
+        "ingredient": "15 slices pickled jalapeno pepper",
+        "searchTerm": "pickled jalapeno",
+        "normalizedName": "Pickled Jalapeno Pepper"
+      }
+    ],
+    "gear": [
+      "Large skillet",
+      "Slow cooker",
+      "Serving spoon"
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly before adding other ingredients",
+      "Keep warm in slow cooker for serving"
+    ],
+    "coachingPrompt": "How can I prevent this dip from separating during extended warming?"
+  },
+  "timestamp": "2026-02-06T05:18:03.573Z"
+}

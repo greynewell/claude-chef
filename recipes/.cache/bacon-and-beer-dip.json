@@ -1,0 +1,48 @@
+{
+  "contentHash": "d047a214796c0953",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅓ pound white American cheese",
+        "searchTerm": "white American cheese",
+        "normalizedName": "White American Cheese"
+      },
+      {
+        "ingredient": "3 ounces light beer",
+        "searchTerm": "light beer",
+        "normalizedName": "Light Beer"
+      },
+      {
+        "ingredient": "3 slices cooked bacon, crumbled",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 stalk green onion, thinly sliced",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "small saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Serving dish",
+        "searchTerm": "dip bowl"
+      }
+    ],
+    "cookingTips": [
+      "Melt cheese over low heat to prevent scorching and maintain smooth texture",
+      "Add beer gradually to achieve desired consistency, as too much liquid will thin the dip",
+      "Stir in bacon and green onions last to preserve their flavors and textures"
+    ],
+    "coachingPrompt": "How does beer interact with melted cheese to create a smooth dip, and what temperature prevents separation?"
+  },
+  "timestamp": "2026-02-05T22:48:30.241Z"
+}

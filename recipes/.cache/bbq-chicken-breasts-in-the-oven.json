@@ -1,0 +1,48 @@
+{
+  "contentHash": "1038122c0ce23fb3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 whole skin-on, bone-in chicken breasts",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 cup barbecue sauce (such as Sweet Baby Ray's®)",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "kosher salt and coarsely ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "kosher salt and coarsely ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Skin-on, bone-in chicken stays juicier than boneless cuts during baking",
+      "Brush barbecue sauce during last 10-15 minutes of cooking to prevent burning",
+      "Use meat thermometer to ensure internal temperature reaches 165°F"
+    ],
+    "coachingPrompt": "This is a simple weeknight recipe. Are you comfortable judging doneness with a thermometer, or would you prefer a time-based approach?"
+  },
+  "timestamp": "2026-02-05T23:37:23.221Z"
+}

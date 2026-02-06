@@ -1,0 +1,65 @@
+{
+  "contentHash": "0f099a25563cd58e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "⅓ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "⅓ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "4 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "loaf pan"
+      },
+      {
+        "name": "oven"
+      },
+      {
+        "name": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Heat milk to 110°F before adding yeast to activate properly",
+      "Knead dough for 8-10 minutes until smooth and elastic",
+      "Allow dough to rise in warm place until doubled, then shape and let rise again before baking"
+    ],
+    "coachingPrompt": "Guide the user through proper yeast activation and dough handling for light, fluffy bread"
+  },
+  "timestamp": "2026-02-05T23:54:28.045Z"
+}

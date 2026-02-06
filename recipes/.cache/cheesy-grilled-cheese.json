@@ -1,0 +1,53 @@
+{
+  "contentHash": "cc1762c57d920352",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 slice Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 slice Muenster cheese",
+        "searchTerm": "Muenster cheese",
+        "normalizedName": "Muenster Cheese"
+      },
+      {
+        "ingredient": "1 slice provolone cheese",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      },
+      {
+        "ingredient": "2 slices rye bread",
+        "searchTerm": "rye bread",
+        "normalizedName": "Rye Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Butter the outside of bread, not the inside, for better browning",
+      "Toast bread over medium heat for even melting without burning",
+      "Use three cheeses with different flavors for a complex taste"
+    ],
+    "coachingPrompt": "The perfect comfort classic! Would you like creative add-in suggestions?"
+  },
+  "timestamp": "2026-02-06T01:51:00.656Z"
+}

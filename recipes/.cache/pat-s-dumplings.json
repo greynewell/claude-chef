@@ -1,0 +1,48 @@
+{
+  "contentHash": "5f3155535fb78339",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "shortening",
+        "searchTerm": "shortening",
+        "normalizedName": "Shortening"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "rolling pin",
+        "searchTerm": "rolling pin"
+      }
+    ],
+    "cookingTips": [
+      "Keep ingredients cold for tender, flaky dumplings",
+      "Add water gradually until dough just comes together",
+      "Roll thin for delicate dumplings that cook quickly"
+    ],
+    "coachingPrompt": "This is a simple dumpling dough for drop dumplings or hand-rolled varieties. What filling are you planning?"
+  },
+  "timestamp": "2026-02-06T14:17:55.581Z"
+}

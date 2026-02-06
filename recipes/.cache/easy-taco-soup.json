@@ -1,0 +1,88 @@
+{
+  "contentHash": "8a05e714df7fd86e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds lean ground beef",
+        "searchTerm": "ground beef lean",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 large onion, minced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 (1 ounce) packets taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning Mix"
+      },
+      {
+        "ingredient": "1 (15 ounce) can black beans, rinsed and drained",
+        "searchTerm": "canned black beans",
+        "normalizedName": "Black Bean"
+      },
+      {
+        "ingredient": "1 (11 ounce) can Mexican-style corn, drained",
+        "searchTerm": "Mexican corn canned",
+        "normalizedName": "Canned Corn"
+      },
+      {
+        "ingredient": "1 (10 ounce) can diced tomatoes and green chiles",
+        "searchTerm": "diced tomatoes green chiles",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "1 quart tomato juice",
+        "searchTerm": "tomato juice",
+        "normalizedName": "Tomato Juice"
+      },
+      {
+        "ingredient": "1 bunch cilantro, minced",
+        "searchTerm": "fresh cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "1 large lime, halved",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Brown beef thoroughly and break into small chunks for even distribution",
+      "Add lime juice just before serving to brighten flavors",
+      "Simmer for 20+ minutes to let spices meld together"
+    ],
+    "coachingPrompt": "Guide the user on balancing spice level and suggest optional toppings like sour cream and tortilla strips."
+  },
+  "timestamp": "2026-02-06T06:04:24.992Z"
+}

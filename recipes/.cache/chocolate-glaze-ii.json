@@ -1,0 +1,53 @@
+{
+  "contentHash": "8f1bac9bc1dd46c1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups sifted confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "1 tablespoon butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "4 tablespoons milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "sifter",
+        "searchTerm": "sifter"
+      }
+    ],
+    "cookingTips": [
+      "Sift powdered sugar and cocoa powder together to prevent lumps",
+      "Add milk gradually to achieve desired glaze consistency",
+      "Use immediately while glaze has optimal spreadability"
+    ],
+    "coachingPrompt": "Guide the user in achieving the perfect glaze thickness for smooth coverage without dripping or pooling."
+  },
+  "timestamp": "2026-02-06T03:08:01.748Z"
+}

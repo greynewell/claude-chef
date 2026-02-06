@@ -1,0 +1,53 @@
+{
+  "contentHash": "23b23c28243b3a3c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 quart milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon freshly grated nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Make a blonde roux by cooking butter and flour together for 1-2 minutes before adding milk",
+      "Warm milk before adding to roux to prevent lumps and ensure smooth sauce",
+      "Whisk constantly while adding milk in a slow stream to achieve a silky consistency"
+    ],
+    "coachingPrompt": "Teach the user the French mother sauce technique with proper roux-making and tempering of milk."
+  },
+  "timestamp": "2026-02-05T23:31:47.048Z"
+}

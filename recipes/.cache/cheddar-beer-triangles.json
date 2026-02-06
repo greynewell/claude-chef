@@ -1,0 +1,43 @@
+{
+  "contentHash": "fc8af332d0b40af0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups baking mix",
+        "searchTerm": "baking mix",
+        "normalizedName": "Baking Mix"
+      },
+      {
+        "ingredient": "½ cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "½ cup beer",
+        "searchTerm": "beer",
+        "normalizedName": "Beer"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Mix wet and dry ingredients until just combined",
+      "Cut into triangles for even baking",
+      "Beer adds flavor depth and slight tang to the dough"
+    ],
+    "coachingPrompt": "This is a minimal ingredient recipe. How would you troubleshoot if the dough seems too wet or dry?"
+  },
+  "timestamp": "2026-02-06T01:43:28.838Z"
+}

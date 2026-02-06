@@ -1,0 +1,42 @@
+{
+  "contentHash": "c6cb24096e329920",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups smooth natural peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "2 cups granular no-calorie sucralose sweetener (e.g., Splenda ®)",
+        "searchTerm": "sucralose sweetener",
+        "normalizedName": "Sucralose Sweetener"
+      },
+      {
+        "ingredient": "2 large eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Use natural peanut butter without added sugars for best results",
+      "Press cookies with a fork in a crosshatch pattern before baking for visual appeal"
+    ],
+    "coachingPrompt": "Do you want crispy cookies or soft and chewy - and how will you adjust baking time accordingly?"
+  },
+  "timestamp": "2026-02-06T19:44:10.589Z"
+}

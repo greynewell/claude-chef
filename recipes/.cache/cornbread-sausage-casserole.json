@@ -1,0 +1,63 @@
+{
+  "contentHash": "ae92e17092611a4f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "ground pork breakfast sausage",
+        "searchTerm": "ground sausage",
+        "normalizedName": "Ground Sausage"
+      },
+      {
+        "ingredient": "dry corn bread mix",
+        "searchTerm": "cornbread mix",
+        "normalizedName": "Cornbread Mix"
+      },
+      {
+        "ingredient": "cream style corn",
+        "searchTerm": "creamed corn",
+        "normalizedName": "Creamed Corn"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "medium onion",
+        "searchTerm": "onion",
+        "normalizedName": "Yellow Onion"
+      },
+      {
+        "ingredient": "fresh jalapeno peppers",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "shredded Cheddar-Monterey Jack cheese blend",
+        "searchTerm": "cheddar monterey jack cheese",
+        "normalizedName": "Cheddar-Monterey Jack Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "casserole dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausage thoroughly and drain excess fat before mixing",
+      "Seed jalapeños for milder heat or leave seeds for spicier casserole",
+      "Don't overmix cornbread batter to keep topping light and tender"
+    ],
+    "coachingPrompt": "How does browning sausage before adding improve the overall dish flavor?"
+  },
+  "timestamp": "2026-02-06T03:53:30.139Z"
+}

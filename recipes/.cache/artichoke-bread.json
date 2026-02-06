@@ -1,0 +1,53 @@
+{
+  "contentHash": "67c1c5cfe8f9c633",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (14 ounce) can artichoke hearts, drained and chopped",
+        "searchTerm": "artichoke hearts",
+        "normalizedName": "Artichoke Heart"
+      },
+      {
+        "ingredient": "1 cup freshly grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 clove garlic, finely chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 loaf French bread, cut lengthwise in half",
+        "searchTerm": "french bread",
+        "normalizedName": "French Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "bread knife"
+      }
+    ],
+    "cookingTips": [
+      "Drain artichokes well to prevent soggy bread",
+      "Freshly grate Parmesan for better flavor and melting",
+      "Spread mixture evenly to ensure consistent cooking"
+    ],
+    "coachingPrompt": "What methods ensure the topping stays on the bread while baking?"
+  },
+  "timestamp": "2026-02-05T22:22:37.832Z"
+}

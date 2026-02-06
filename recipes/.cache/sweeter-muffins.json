@@ -1,0 +1,63 @@
+{
+  "contentHash": "89cce5ed81976774",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 ½ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 teaspoons baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Muffin Tin",
+        "searchTerm": "muffin pan"
+      },
+      {
+        "name": "Mixing Bowls",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Muffin Cups",
+        "searchTerm": "paper liners"
+      }
+    ],
+    "cookingTips": [
+      "Don't overmix batter; stir just until ingredients are combined for tender muffins",
+      "Fill muffin cups about two-thirds full for even baking",
+      "Use room temperature ingredients for better mixing and more uniform results"
+    ],
+    "coachingPrompt": "Do you want to customize these muffins? What mix-ins or flavors interest you?"
+  },
+  "timestamp": "2026-02-06T20:10:33.503Z"
+}

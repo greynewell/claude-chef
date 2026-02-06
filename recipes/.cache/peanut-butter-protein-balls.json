@@ -1,0 +1,53 @@
+{
+  "contentHash": "f79c7d9453cda142",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅔ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "½ cup oats",
+        "searchTerm": "oats",
+        "normalizedName": "Oat"
+      },
+      {
+        "ingredient": "¼ cup chocolate chips, or to taste",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Chocolate Chip"
+      },
+      {
+        "ingredient": "2 scoops protein powder",
+        "searchTerm": "protein powder",
+        "normalizedName": "Protein Powder"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Measuring spoons",
+        "searchTerm": "measuring spoons"
+      }
+    ],
+    "cookingTips": [
+      "Chill mixture for at least 1 hour before rolling into balls for easier handling",
+      "Use a small ice cream scoop for uniform ball size"
+    ],
+    "coachingPrompt": "Guide the cook to adjust protein powder amount based on desired flavor balance and texture consistency."
+  },
+  "timestamp": "2026-02-06T14:26:27.427Z"
+}

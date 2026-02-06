@@ -1,0 +1,52 @@
+{
+  "contentHash": "336b9446d868f6f3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¾ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 tablespoons warm water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Pasta machine",
+        "searchTerm": "pasta machine"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Create a well in the flour center and gradually incorporate dry ingredients into eggs",
+      "Knead dough for at least 10 minutes until smooth and elastic before rolling or cutting"
+    ],
+    "coachingPrompt": "Guide the cook through the well method for mixing pasta dough and explain why proper kneading develops gluten for the best texture."
+  },
+  "timestamp": "2026-02-06T12:44:10.876Z"
+}

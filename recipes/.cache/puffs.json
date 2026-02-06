@@ -1,0 +1,48 @@
+{
+  "contentHash": "d718c19703fbe190",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup all-purpose flour",
+        "searchTerm": "flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Heat butter and water to rolling boil before adding flour",
+      "Beat in eggs one at a time until dough is smooth and glossy",
+      "Bake at 400°F until puffs are golden and sound hollow when tapped"
+    ],
+    "coachingPrompt": "Teach me how to make classic choux pastry puffs for filling with sweet or savory toppings"
+  },
+  "timestamp": "2026-02-06T15:23:45.110Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "71860b950a4128ac",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "¾ cup bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "2 (10.75 ounce) cans golden mushroom soup, divided",
+        "searchTerm": "golden mushroom soup",
+        "normalizedName": "Golden Mushroom Soup"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 tablespoon dried minced onion",
+        "searchTerm": "dried minced onion",
+        "normalizedName": "Dried Minced Onion"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅓ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Mix ingredients gently—overworking creates a dense texture",
+      "The mushroom soup acts as both binder and topping for moisture",
+      "Bake at 350°F until internal temperature reaches 160°F, about 50-60 minutes"
+    ],
+    "coachingPrompt": "Help the user understand how soup acts as a binder and create a moist, flavorful meatloaf."
+  },
+  "timestamp": "2026-02-06T12:41:18.143Z"
+}

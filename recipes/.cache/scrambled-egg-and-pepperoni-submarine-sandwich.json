@@ -1,0 +1,63 @@
+{
+  "contentHash": "5187e3c98ab7a42a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 submarine sandwich roll, split",
+        "searchTerm": "submarine roll hoagie",
+        "normalizedName": "Submarine Roll"
+      },
+      {
+        "ingredient": "1 slice American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons butter or margarine, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "12 slices pepperoni sausage",
+        "searchTerm": "pepperoni sausage",
+        "normalizedName": "Pepperoni Sausage"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "toaster oven or broiler",
+        "searchTerm": "toaster oven"
+      }
+    ],
+    "cookingTips": [
+      "Toast the submarine roll lightly to add texture and prevent sogginess",
+      "Cook pepperoni until slightly crispy before adding eggs",
+      "Scramble eggs until just cooked through for best texture in the sandwich"
+    ],
+    "coachingPrompt": "This is a hearty breakfast sandwich. Do you want to cook all components together or assemble them separately?"
+  },
+  "timestamp": "2026-02-06T17:11:01.340Z"
+}

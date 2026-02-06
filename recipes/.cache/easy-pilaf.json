@@ -1,0 +1,49 @@
+{
+  "contentHash": "fa4b0dc5ee81ad29",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cup uncooked white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "2 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan with lid",
+        "searchTerm": "saucepan with lid"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Toast rice in butter and onions briefly before adding liquid for nutty flavor",
+      "Don't stir rice after adding liquid to prevent mushiness",
+      "Let rice rest off heat for 5 minutes after cooking"
+    ],
+    "coachingPrompt": "This is a simple side that pairs with any protein. Do you want to add vegetables to it?"
+  },
+  "timestamp": "2026-02-06T05:55:06.303Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "8ddc7d2b45d2bc4f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon Chinese hot prepared mustard",
+        "searchTerm": "hot mustard",
+        "normalizedName": "Hot Mustard"
+      },
+      {
+        "ingredient": "2 teaspoons yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "paprika, for garnish",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Combine two types of mustard for layered heat and flavor",
+      "Chinese hot mustard is spicier than yellow—adjust to taste",
+      "Reserve paprika for garnish to add color and mild spice"
+    ],
+    "coachingPrompt": "Why combine two types of mustard instead of using one?"
+  },
+  "timestamp": "2026-02-06T05:12:59.433Z"
+}

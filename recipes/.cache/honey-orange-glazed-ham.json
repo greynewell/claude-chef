@@ -1,0 +1,57 @@
+{
+  "contentHash": "071d1a9ef50df900",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons orange juice",
+        "searchTerm": "orange juice",
+        "normalizedName": "Orange Juice"
+      },
+      {
+        "ingredient": "¼ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "¼ teaspoon ground cloves",
+        "searchTerm": "cloves",
+        "normalizedName": "Clove"
+      },
+      {
+        "ingredient": "1 cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "¼ teaspoon almond extract",
+        "searchTerm": "almond extract",
+        "normalizedName": "Almond Extract"
+      },
+      {
+        "ingredient": "1 (8 pound) fully cooked whole ham",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      }
+    ],
+    "gear": [
+      {
+        "name": "roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Score the ham skin in a crosshatch pattern before glazing",
+      "Baste with glaze every 20 minutes for a glossy finish"
+    ],
+    "coachingPrompt": "Help the user understand that a fully cooked ham needs gentle reheating while glazing, not high heat cooking."
+  },
+  "timestamp": "2026-02-06T09:24:29.253Z"
+}

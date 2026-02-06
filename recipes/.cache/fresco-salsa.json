@@ -1,0 +1,63 @@
+{
+  "contentHash": "4a123df96cb983da",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 roma (plum) tomatoes, diced",
+        "searchTerm": "roma tomatoes",
+        "normalizedName": "Roma Tomato"
+      },
+      {
+        "ingredient": "1 sweet onion, diced",
+        "searchTerm": "sweet onion",
+        "normalizedName": "Sweet Onion"
+      },
+      {
+        "ingredient": "1 medium red bell pepper, diced",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 medium yellow bell pepper, diced",
+        "searchTerm": "yellow bell pepper",
+        "normalizedName": "Yellow Bell Pepper"
+      },
+      {
+        "ingredient": "1 bunch cilantro, finely minced",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "1 lime, juiced",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "1 teaspoon salt, or to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Seed tomatoes to prevent watery salsa",
+      "Prepare just before serving to maintain freshness",
+      "Adjust lime juice to balance sweetness of onions"
+    ],
+    "coachingPrompt": "What techniques ensure this salsa maintains its fresh texture and bright flavor?"
+  },
+  "timestamp": "2026-02-06T06:56:41.131Z"
+}

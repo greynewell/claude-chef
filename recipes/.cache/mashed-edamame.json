@@ -1,0 +1,58 @@
+{
+  "contentHash": "183d675a25aef952",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) package frozen shelled edamame (green soybeans)",
+        "searchTerm": "edamame",
+        "normalizedName": "Edamame"
+      },
+      {
+        "ingredient": "2 cloves garlic, smashed and peeled",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ teaspoon kosher salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "water to cover",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ teaspoon freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "3 tablespoons extra-virgin olive oil, or more as needed",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Food Processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Boil edamame with garlic until very tender, about 5-7 minutes",
+      "Drain well and allow to cool slightly before pulsing",
+      "Drizzle olive oil while processing for creamy, hummus-like consistency"
+    ],
+    "coachingPrompt": "Guide the user through boiling edamame with garlic until soft, then pulsing with olive oil for a creamy dip or spread."
+  },
+  "timestamp": "2026-02-06T12:05:02.253Z"
+}

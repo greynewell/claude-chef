@@ -1,0 +1,43 @@
+{
+  "contentHash": "4be96aca92062cb2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (8 ounce) cans water chestnuts, drained",
+        "searchTerm": "water chestnut",
+        "normalizedName": "Water Chestnut"
+      },
+      {
+        "ingredient": "10 ounces soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 pound sliced bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Shallow dish",
+        "searchTerm": "dish"
+      },
+      {
+        "name": "Toothpicks",
+        "searchTerm": "toothpicks"
+      }
+    ],
+    "cookingTips": [
+      "Marinate water chestnuts in soy sauce for 30 minutes before wrapping",
+      "Cut bacon strips to appropriate length for wrapping (not full length)",
+      "Secure with toothpicks and bake at 400°F for 20-25 minutes until bacon is crispy"
+    ],
+    "coachingPrompt": "Should you marinate the water chestnuts before or after wrapping in bacon, and why?"
+  },
+  "timestamp": "2026-02-06T21:58:22.731Z"
+}

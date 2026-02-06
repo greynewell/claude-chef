@@ -1,0 +1,62 @@
+{
+  "contentHash": "bfe9965188ade793",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (18.25 ounce) package chocolate cake mix",
+        "searchTerm": "chocolate cake mix",
+        "normalizedName": "Chocolate Cake Mix"
+      },
+      {
+        "ingredient": "1 (21 ounce) can cherry pie filling",
+        "searchTerm": "cherry pie filling",
+        "normalizedName": "Cherry Pie Filling"
+      },
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "5 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "⅓ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 cup semisweet chocolate chips",
+        "searchTerm": "semisweet chocolate chips",
+        "normalizedName": "Semisweet Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 baking pan",
+        "searchTerm": "9x13 pan"
+      },
+      {
+        "name": "mixing bowls",
+        "searchTerm": "mixing bowls"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Use cherry pie filling as part of the wet ingredients for moisture and flavor",
+      "Layer chocolate chips on top before baking so they melt slightly into the cake"
+    ],
+    "coachingPrompt": "This is a simple dump cake using pie filling. The filling provides moisture, so don't add extra liquid."
+  },
+  "timestamp": "2026-02-06T03:00:25.674Z"
+}

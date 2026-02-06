@@ -1,0 +1,58 @@
+{
+  "contentHash": "333b4d53da2cbcbc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "olive oil cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "¾ pound fresh green beans",
+        "searchTerm": "green beans",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "sea salt and freshly ground black pepper to taste",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "sea salt and freshly ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pinch garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "3 tablespoons shredded Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Trim green beans and pat dry with paper towels to remove excess moisture",
+      "Toss with minimal oil and seasoning to keep beans crispy",
+      "Roast at 425°F for 15-20 minutes, shaking pan halfway through, then top with cheese"
+    ],
+    "coachingPrompt": "What side dishes would complement these roasted green beans well?"
+  },
+  "timestamp": "2026-02-06T14:11:26.288Z"
+}

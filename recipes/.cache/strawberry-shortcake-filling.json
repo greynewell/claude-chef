@@ -1,0 +1,43 @@
+{
+  "contentHash": "54bd508fbe01cc54",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pint strawberries, cleaned and stemmed",
+        "searchTerm": "strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "⅓ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Macerate strawberries at least 30 minutes before using to release natural juices",
+      "Slice berries uniformly for even sweetness distribution",
+      "Reserve some whole berries for garnish before cutting"
+    ],
+    "coachingPrompt": "What happens chemically when you macerate berries with sugar, and why does this matter for a filling?"
+  },
+  "timestamp": "2026-02-06T19:36:23.950Z"
+}

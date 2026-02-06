@@ -1,0 +1,44 @@
+{
+  "contentHash": "d6ab855624449984",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 quart milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 pinch ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      }
+    ],
+    "gear": [
+      "Large Pot",
+      "Whisk",
+      "Cheesecloth"
+    ],
+    "cookingTips": [
+      "Heat milk and eggs slowly to prevent curdling",
+      "Strain through cheesecloth for smooth texture",
+      "The mixture will separate into curds and whey"
+    ],
+    "coachingPrompt": "Help the user understand this traditional Easter cheese recipe by explaining the delicate heating process needed to achieve the right curd consistency."
+  },
+  "timestamp": "2026-02-06T17:57:19.167Z"
+}

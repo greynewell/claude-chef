@@ -1,0 +1,78 @@
+{
+  "contentHash": "478165e610083e9e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "Italian eggplants",
+        "searchTerm": "eggplant Italian large",
+        "normalizedName": "Eggplant"
+      },
+      {
+        "ingredient": "crushed garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "kosher salt",
+        "searchTerm": "salt kosher",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "lemon",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "tahini",
+        "searchTerm": "tahini",
+        "normalizedName": "Tahini"
+      },
+      {
+        "ingredient": "extra-virgin olive oil",
+        "searchTerm": "olive oil extra virgin",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "plain Greek yogurt",
+        "searchTerm": "yogurt Greek plain",
+        "normalizedName": "Greek Yogurt"
+      },
+      {
+        "ingredient": "cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "fresh mint",
+        "searchTerm": "mint fresh",
+        "normalizedName": "Mint"
+      },
+      {
+        "ingredient": "Italian parsley",
+        "searchTerm": "parsley Italian fresh",
+        "normalizedName": "Italian Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill or open flame",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Char eggplants over open flame until skin blackens for smoky flavor",
+      "Scoop flesh away from skin while still warm for easier handling",
+      "Blend briefly to maintain slightly chunky texture rather than smooth paste"
+    ],
+    "coachingPrompt": "How does charring the eggplant affect the final flavor, and how will you know when it's properly cooked?"
+  },
+  "timestamp": "2026-02-06T01:55:55.347Z"
+}

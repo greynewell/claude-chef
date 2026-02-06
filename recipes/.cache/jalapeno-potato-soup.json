@@ -1,0 +1,78 @@
+{
+  "contentHash": "ebf0abd6fd6570f6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "½ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 ½ pounds potatoes, peeled and chopped",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "½ teaspoon ground cumin",
+        "searchTerm": "cumin",
+        "normalizedName": "Cumin"
+      },
+      {
+        "ingredient": "4 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "2 tablespoons chopped pickled jalapeno peppers (with pickling liquid)",
+        "searchTerm": "pickled jalapeno",
+        "normalizedName": "Pickled Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 pinch baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "2 cups evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      },
+      {
+        "ingredient": "1 tablespoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "Sauté onions in margarine until softened before adding potatoes for better flavor development",
+      "Add baking soda slowly to prevent excessive foaming when adding acidic pickling liquid",
+      "Simmer for 20-25 minutes until potatoes are tender, then stir in evaporated milk without boiling"
+    ],
+    "coachingPrompt": "How would you achieve a creamy soup consistency while keeping the potatoes intact and not puréed?"
+  },
+  "timestamp": "2026-02-06T10:15:43.199Z"
+}

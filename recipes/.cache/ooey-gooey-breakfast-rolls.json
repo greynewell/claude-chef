@@ -1,0 +1,53 @@
+{
+  "contentHash": "d53926c169c0e6e8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup chopped pecans (Optional)",
+        "searchTerm": "pecan",
+        "normalizedName": "Pecan"
+      },
+      {
+        "ingredient": "1 (1 pound) loaf frozen bread dough, thawed",
+        "searchTerm": "bread dough",
+        "normalizedName": "Bread Dough"
+      },
+      {
+        "ingredient": "½ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 (3.5 ounce) package cook and serve butterscotch pudding mix",
+        "searchTerm": "butterscotch pudding mix",
+        "normalizedName": "Butterscotch Pudding Mix"
+      },
+      {
+        "ingredient": "2 teaspoons ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Thaw bread dough completely before working with it for easier handling",
+      "Arrange rolls in prepared pan, cover, and let rise 20-30 minutes before baking"
+    ],
+    "coachingPrompt": "Using frozen dough makes this convenient. Do you want tips on thawing and rising times for best results?"
+  },
+  "timestamp": "2026-02-06T13:41:08.022Z"
+}

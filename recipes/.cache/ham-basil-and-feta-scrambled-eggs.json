@@ -1,0 +1,63 @@
+{
+  "contentHash": "277a8b931dd84d5c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs, lightly beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup diced cooked ham",
+        "searchTerm": "cooked ham",
+        "normalizedName": "Cooked Ham"
+      },
+      {
+        "ingredient": "¼ cup crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 ½ teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "non-stick skillet",
+        "searchTerm": "non-stick skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "silicone spatula"
+      },
+      {
+        "name": "bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook eggs over medium heat and stir frequently for creamy, soft scrambled eggs",
+      "Add feta cheese at the very end to prevent it from melting completely",
+      "Use fresh basil if available, substituting 1 tablespoon fresh for the dried amount"
+    ],
+    "coachingPrompt": "Help the user master low and slow egg cooking technique while balancing the strong flavors of feta and basil."
+  },
+  "timestamp": "2026-02-06T08:42:32.642Z"
+}

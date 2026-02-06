@@ -1,0 +1,63 @@
+{
+  "contentHash": "7e9dd098e1ebf757",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 cups oatmeal",
+        "searchTerm": "oats",
+        "normalizedName": "Oat"
+      },
+      {
+        "ingredient": "1 cup flaked coconut",
+        "searchTerm": "flaked coconut",
+        "normalizedName": "Coconut Flake"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Boil mixture for exactly 1 minute for proper consistency",
+      "Work quickly after removal from heat before it hardens",
+      "Use parchment paper for easy cleanup and prevention of sticking"
+    ],
+    "coachingPrompt": "Explain the chemistry of the quick-set mixture and the importance of precise timing."
+  },
+  "timestamp": "2026-02-06T13:16:16.618Z"
+}

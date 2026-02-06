@@ -1,0 +1,43 @@
+{
+  "contentHash": "bf4b8f364ee61ed5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound fresh asparagus",
+        "searchTerm": "fresh asparagus",
+        "normalizedName": "Fresh Asparagus"
+      },
+      {
+        "ingredient": "½ cup hoisin sauce",
+        "searchTerm": "hoisin sauce",
+        "normalizedName": "Hoisin Sauce"
+      },
+      {
+        "ingredient": "sesame seeds",
+        "searchTerm": "sesame seeds",
+        "normalizedName": "Sesame Seed"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Grill Basket",
+        "searchTerm": "grill basket"
+      },
+      {
+        "name": "Brush",
+        "searchTerm": "brush"
+      }
+    ],
+    "cookingTips": [
+      "Trim woody ends from asparagus for tender results",
+      "Use a grill basket to prevent spears from falling through grates",
+      "Brush with hoisin and sprinkle sesame seeds at the end"
+    ],
+    "coachingPrompt": "This is a simple Asian-inspired side. Do you have a grill basket, or would you like tips for grilling asparagus without one?"
+  },
+  "timestamp": "2026-02-06T08:09:25.638Z"
+}

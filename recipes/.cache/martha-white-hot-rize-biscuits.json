@@ -1,0 +1,44 @@
+{
+  "contentHash": "77fc8c963a7d2528",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "Crisco® Original No-Stick Cooking Spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "2 cups Martha White® Self-Rising Flour",
+        "searchTerm": "self-rising flour",
+        "normalizedName": "Self-Rising Flour"
+      },
+      {
+        "ingredient": "¼ stick Crisco® Baking Sticks All-Vegetable Shortening",
+        "searchTerm": "vegetable shortening",
+        "normalizedName": "Vegetable Shortening"
+      },
+      {
+        "ingredient": "¾ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet"
+      },
+      {
+        "name": "mixing bowl"
+      },
+      {
+        "name": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Keep shortening cold for flakier biscuits",
+      "Handle dough minimally to avoid overdeveloping gluten"
+    ],
+    "coachingPrompt": "Explain how cold fat creates steam pockets in biscuits for that desirable light, fluffy crumb."
+  },
+  "timestamp": "2026-02-06T12:03:15.282Z"
+}

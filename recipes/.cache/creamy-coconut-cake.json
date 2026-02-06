@@ -1,0 +1,53 @@
+{
+  "contentHash": "25af63b15d250b1d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package white cake mix",
+        "searchTerm": "cake mix",
+        "normalizedName": "White Cake Mix"
+      },
+      {
+        "ingredient": "1 (14 ounce) can cream of coconut",
+        "searchTerm": "cream of coconut",
+        "normalizedName": "Cream of Coconut"
+      },
+      {
+        "ingredient": "1 (14 ounce) can sweetened condensed milk",
+        "searchTerm": "condensed milk",
+        "normalizedName": "Sweetened Condensed Milk"
+      },
+      {
+        "ingredient": "1 (16 ounce) container frozen whipped topping, thawed",
+        "searchTerm": "whipped topping",
+        "normalizedName": "Whipped Topping"
+      },
+      {
+        "ingredient": "1 (10 ounce) package flaked coconut",
+        "searchTerm": "coconut flakes",
+        "normalizedName": "Coconut Flake"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking pan",
+        "searchTerm": "9x13 pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Follow cake mix directions, then poke holes in the warm cake with a fork before pouring the cream of coconut mixture over it",
+      "Combine cream of coconut and sweetened condensed milk, then pour slowly over the entire cake for even absorption",
+      "Toast some of the flaked coconut in a dry skillet before sprinkling on top for added texture and flavor"
+    ],
+    "coachingPrompt": "This is a traditional tres leches-style cake. Would you like to add rum or coconut extract to enhance the coconut flavor?"
+  },
+  "timestamp": "2026-02-06T04:25:03.041Z"
+}

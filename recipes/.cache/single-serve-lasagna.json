@@ -1,0 +1,58 @@
+{
+  "contentHash": "790af01413aa8f7a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 lasagna noodles",
+        "searchTerm": "lasagna noodle",
+        "normalizedName": "Lasagna Noodle"
+      },
+      {
+        "ingredient": "1 ½ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup marinara sauce",
+        "searchTerm": "marinara sauce",
+        "normalizedName": "Marinara Sauce"
+      },
+      {
+        "ingredient": "¼ cup chopped cherry tomatoes",
+        "searchTerm": "cherry tomato",
+        "normalizedName": "Cherry Tomato"
+      },
+      {
+        "ingredient": "½ tablespoon chopped fresh basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      },
+      {
+        "ingredient": "½ cup shredded low-fat mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Small baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Pot for noodles",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Cook noodles separately to control texture",
+      "Layer noodles slightly overlapping in small dish",
+      "Cover with foil to prevent cheese from over-browning"
+    ],
+    "coachingPrompt": "Guide the user through downsizing a traditional lasagna recipe and explain how to balance flavors with smaller ingredient quantities while maintaining satisfying texture."
+  },
+  "timestamp": "2026-02-06T17:56:22.260Z"
+}

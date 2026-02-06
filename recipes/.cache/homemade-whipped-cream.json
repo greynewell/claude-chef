@@ -1,0 +1,43 @@
+{
+  "contentHash": "d1095226ca13401b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pint heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "electric mixer or whisk",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "chilled beaters",
+        "searchTerm": "mixer beaters"
+      }
+    ],
+    "cookingTips": [
+      "Chill bowl and beaters in freezer for 15 minutes before whipping for faster results",
+      "Whip on medium-high speed until stiff peaks form, about 2-3 minutes",
+      "Add sugar and vanilla near the end of whipping to avoid overbeating"
+    ],
+    "coachingPrompt": "What's the difference between soft peaks and stiff peaks, and how do I know when to stop whipping?"
+  },
+  "timestamp": "2026-02-06T09:19:09.786Z"
+}

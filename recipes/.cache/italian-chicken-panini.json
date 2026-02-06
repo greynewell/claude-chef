@@ -1,0 +1,52 @@
+{
+  "contentHash": "0964474da2dabc43",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 slices Italian bread",
+        "searchTerm": "Italian bread",
+        "normalizedName": "Italian Bread"
+      },
+      {
+        "ingredient": "1 tablespoon pesto",
+        "searchTerm": "pesto",
+        "normalizedName": "Pesto"
+      },
+      {
+        "ingredient": "2 slices mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "¼ pound sliced cooked chicken breast",
+        "searchTerm": "cooked chicken breast",
+        "normalizedName": "Cooked Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "panini press",
+        "searchTerm": "panini press"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Preheat panini press for even, golden browning",
+      "Layer ingredients from bottom: bread, pesto, cheese, chicken, cheese, pesto, bread for best flavor distribution"
+    ],
+    "coachingPrompt": "How do I make a crispy panini without drying out the chicken? What's the best cheese melt technique?"
+  },
+  "timestamp": "2026-02-06T10:05:26.552Z"
+}

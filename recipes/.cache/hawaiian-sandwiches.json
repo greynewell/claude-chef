@@ -1,0 +1,48 @@
+{
+  "contentHash": "abfc1c640418bbbf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "16 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "8 slices toasted white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "1 (20 ounce) can sliced pineapple, drained",
+        "searchTerm": "canned pineapple slices",
+        "normalizedName": "Pineapple"
+      },
+      {
+        "ingredient": "8 slices Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Paper towels",
+        "searchTerm": "paper towels"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy for best contrast with the sweet pineapple",
+      "Drain pineapple thoroughly to prevent soggy bread",
+      "Toast bread lightly to provide structure and prevent moisture absorption"
+    ],
+    "coachingPrompt": "Help the user create a classic sweet and savory sandwich by coordinating crispy bacon, melted cheese, and caramelized pineapple on toasted bread."
+  },
+  "timestamp": "2026-02-06T08:50:40.279Z"
+}

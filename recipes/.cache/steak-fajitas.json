@@ -1,0 +1,78 @@
+{
+  "contentHash": "d24e4b7b3fa94525",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "lean steak, cut into strips",
+        "searchTerm": "steak",
+        "normalizedName": "Steak"
+      },
+      {
+        "ingredient": "fresh lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "chopped fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "large onion, cut into thin strips",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "julienned green bell pepper",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "lemons, quartered",
+        "searchTerm": "lemons",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet or wok",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Marinate steak for at least 30 minutes to maximize tenderness and flavor",
+      "Cut vegetables into thin, uniform strips for even cooking",
+      "Cook steak and vegetables separately, then combine for optimal texture"
+    ],
+    "coachingPrompt": "What technique would ensure the steak remains tender while achieving a nice sear?"
+  },
+  "timestamp": "2026-02-06T19:23:56.693Z"
+}

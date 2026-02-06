@@ -1,0 +1,63 @@
+{
+  "contentHash": "5a287dd058168416",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 ¼ cups bread and butter pickles",
+        "searchTerm": "bread and butter pickles",
+        "normalizedName": "Bread And Butter Pickle"
+      },
+      {
+        "ingredient": "2 (5 ounce) cans tuna, drained",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Tuna"
+      },
+      {
+        "ingredient": "3 stalks celery, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon sweet pickle juice",
+        "searchTerm": "sweet pickle juice",
+        "normalizedName": "Sweet Pickle Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Hard boil eggs for 10-12 minutes for firm yolks that mix well with tuna",
+      "Drain pickles thoroughly to prevent excess moisture in salad",
+      "Chop all ingredients uniformly for even texture distribution"
+    ],
+    "coachingPrompt": "This salad works without mayo but still needs moisture - how does the pickle juice provide richness here?"
+  },
+  "timestamp": "2026-02-06T13:19:56.733Z"
+}

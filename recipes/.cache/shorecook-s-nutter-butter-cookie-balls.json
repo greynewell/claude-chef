@@ -1,0 +1,47 @@
+{
+  "contentHash": "14494a0a8cc3cc81",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "16 ounces peanut butter sandwich cookies (such as Nutter Butter®)",
+        "searchTerm": "Nutter Butter cookies",
+        "normalizedName": "Nutter Butter Cookie"
+      },
+      {
+        "ingredient": "½ (16 ounce) jar peanut butter (such as Jif®)",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "½ (24 ounce) package chocolate candy melts",
+        "searchTerm": "chocolate candy melts",
+        "normalizedName": "Chocolate Candy Melt"
+      },
+      {
+        "ingredient": "¼ cup multicolored candy sprinkles",
+        "searchTerm": "candy sprinkles",
+        "normalizedName": "Candy Sprinkle"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Microwave or double boiler",
+        "searchTerm": "melting chocolate"
+      },
+      {
+        "name": "Fork or dipping tool",
+        "searchTerm": "chocolate dipping fork"
+      }
+    ],
+    "cookingTips": [
+      "Pulse cookies and peanut butter until mixture holds together like wet sand",
+      "Melt chocolate slowly over low heat to prevent seizing and ensure smooth coating"
+    ],
+    "coachingPrompt": "What's your strategy for keeping the chocolate coating smooth and even across all balls?"
+  },
+  "timestamp": "2026-02-06T17:28:35.228Z"
+}

@@ -1,0 +1,52 @@
+{
+  "contentHash": "979cd69d859d79bc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (6 ounce) lobster tails",
+        "searchTerm": "lobster tails",
+        "normalizedName": "Lobster Tail"
+      },
+      {
+        "ingredient": "2 slices lemon",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "2 teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 pinch dried parsley",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley"
+      },
+      {
+        "ingredient": "1 pinch granulated garlic",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sous Vide Machine",
+        "searchTerm": "immersion circulator"
+      },
+      {
+        "name": "Vacuum Sealer",
+        "searchTerm": "vacuum sealer"
+      },
+      {
+        "name": "Water Bath Container",
+        "searchTerm": "large pot"
+      }
+    ],
+    "cookingTips": [
+      "Maintain precise water temperature of 140°F (60°C) for tender, buttery lobster",
+      "Seal bags with lemon slices to infuse flavor throughout cooking"
+    ],
+    "coachingPrompt": "Help the user understand how sous vide ensures perfectly cooked lobster by maintaining precise temperature control for even, delicate doneness."
+  },
+  "timestamp": "2026-02-06T18:38:23.424Z"
+}

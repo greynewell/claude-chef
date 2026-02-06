@@ -1,0 +1,52 @@
+{
+  "contentHash": "a6dc5b4bcd94045b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 pounds prime rib roast",
+        "searchTerm": "prime rib roast",
+        "normalizedName": "Prime Rib Roast"
+      },
+      {
+        "ingredient": "¼ cup unsalted butter",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      },
+      {
+        "ingredient": "1 tablespoon freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon herbes de Provence",
+        "searchTerm": "herbes de Provence",
+        "normalizedName": "Herbes de Provence"
+      },
+      {
+        "ingredient": "kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Roasting Pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "Kitchen Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Bring prime rib to room temperature before roasting for even cooking",
+      "Use a meat thermometer to achieve perfect doneness without guessing"
+    ],
+    "coachingPrompt": "What internal temperature should prime rib reach for medium-rare? How does resting time affect the final result?"
+  },
+  "timestamp": "2026-02-06T02:08:07.037Z"
+}

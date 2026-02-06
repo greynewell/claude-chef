@@ -1,0 +1,58 @@
+{
+  "contentHash": "6568736ad070ed28",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 red potatoes",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "8 andouille sausages, sliced",
+        "searchTerm": "andouille sausages",
+        "normalizedName": "Andouille Sausage"
+      },
+      {
+        "ingredient": "4 onions, quartered",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 ears fresh corn, cut into halves",
+        "searchTerm": "fresh corn",
+        "normalizedName": "Fresh Corn"
+      },
+      {
+        "ingredient": "½ cup seafood seasoning (such as Old Bay®), or to taste",
+        "searchTerm": "seafood seasoning",
+        "normalizedName": "Seafood Seasoning"
+      },
+      {
+        "ingredient": "4 whole Dungeness crabs",
+        "searchTerm": "Dungeness crabs",
+        "normalizedName": "Dungeness Crab"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Serving Platter",
+        "searchTerm": "serving platter"
+      }
+    ],
+    "cookingTips": [
+      "Start with potatoes and sausage as they require longer cooking time before adding delicate seafood",
+      "Add crabs last so they cook just until done without becoming tough and overcooked",
+      "Season the water generously so flavors penetrate all ingredients during cooking"
+    ],
+    "coachingPrompt": "This one-pot meal requires layering ingredients by cooking time. How would you sequence the additions to ensure everything finishes simultaneously?"
+  },
+  "timestamp": "2026-02-06T04:00:38.166Z"
+}

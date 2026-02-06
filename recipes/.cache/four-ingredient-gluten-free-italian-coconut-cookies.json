@@ -1,0 +1,52 @@
+{
+  "contentHash": "32fdbfa5c2672587",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 egg whites",
+        "searchTerm": "egg whites",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar granulated",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 ½ cups shredded coconut, divided",
+        "searchTerm": "shredded coconut unsweetened",
+        "normalizedName": "Shredded Coconut"
+      },
+      {
+        "ingredient": "¼ cup gluten-free all-purpose baking flour",
+        "searchTerm": "gluten-free flour",
+        "normalizedName": "Gluten-Free Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Whip egg whites until stiff peaks form to create an airy, light cookie texture",
+      "Fold in sugar, coconut, and flour gently to maintain airiness without deflating the egg whites",
+      "Bake at 325°F for 20-25 minutes until cookies are golden brown and crispy on edges"
+    ],
+    "coachingPrompt": "How do egg whites create structure in a gluten-free cookie without traditional flour?"
+  },
+  "timestamp": "2026-02-06T06:51:48.271Z"
+}

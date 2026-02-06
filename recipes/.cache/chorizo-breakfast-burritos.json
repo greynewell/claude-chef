@@ -1,0 +1,57 @@
+{
+  "contentHash": "d067b64822929efa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ pound chorizo sausage",
+        "searchTerm": "chorizo sausage",
+        "normalizedName": "Chorizo Sausage"
+      },
+      {
+        "ingredient": "½ cup chopped red onion",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "1 green chile pepper",
+        "searchTerm": "green chile pepper",
+        "normalizedName": "Green Chile Pepper"
+      },
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "4 flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "tortilla warmer",
+        "searchTerm": "tortilla warmer"
+      }
+    ],
+    "cookingTips": [
+      "Remove chorizo casings and cook until fully rendered before adding other ingredients",
+      "Warm tortillas before filling to make them pliable and prevent tearing"
+    ],
+    "coachingPrompt": "Why remove chorizo casings rather than slicing the cooked sausage?"
+  },
+  "timestamp": "2026-02-06T03:15:44.395Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "c96ea491affe0330",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 ounces uncooked spaghetti",
+        "searchTerm": "spaghetti",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 cups dry white wine",
+        "searchTerm": "dry white wine",
+        "normalizedName": "White Wine"
+      },
+      {
+        "ingredient": "2 pounds large shrimp, peeled and deveined",
+        "searchTerm": "large shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "1 teaspoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Basil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta al dente to maintain texture when tossed with sauce",
+      "Use a good quality dry white wine that you'd drink",
+      "Don't overcook shrimp; they'll continue cooking in the hot sauce"
+    ],
+    "coachingPrompt": "Guide the user through making a classic garlic butter sauce and coordinating pasta and shrimp timing."
+  },
+  "timestamp": "2026-02-06T15:46:17.035Z"
+}

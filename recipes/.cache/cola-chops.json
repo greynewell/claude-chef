@@ -1,0 +1,48 @@
+{
+  "contentHash": "b012c1643ea25fe2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 pork chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "1 cup cola-flavored carbonated beverage",
+        "searchTerm": "cola",
+        "normalizedName": "Cola"
+      },
+      {
+        "ingredient": "1 cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "4 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Lid",
+        "searchTerm": "skillet lid"
+      }
+    ],
+    "cookingTips": [
+      "Brown the pork chops first to develop a flavorful crust before adding the sauce",
+      "Simmer covered on low heat to keep chops tender and allow sauce to reduce",
+      "The combination of cola, ketchup, and brown sugar creates a tangy-sweet glaze"
+    ],
+    "coachingPrompt": "Guide the user through searing pork chops and explain how the cola sauce reduces to create a glossy finish."
+  },
+  "timestamp": "2026-02-06T03:43:38.257Z"
+}

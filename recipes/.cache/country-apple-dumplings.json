@@ -1,0 +1,58 @@
+{
+  "contentHash": "bbac3bf8b1620f61",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 large Granny Smith apples, peeled and cored",
+        "searchTerm": "granny smith apples",
+        "normalizedName": "Granny Smith Apple"
+      },
+      {
+        "ingredient": "2 (10 ounce) cans refrigerated crescent roll dough",
+        "searchTerm": "crescent roll dough",
+        "normalizedName": "Crescent Roll Dough"
+      },
+      {
+        "ingredient": "1 cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 ½ cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "1 (12 fluid ounce) can or bottle Mountain Dew ™",
+        "searchTerm": "mountain dew",
+        "normalizedName": "Mountain Dew"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Core apples completely without cutting through bottom for easy filling",
+      "Wrap dough evenly around apples and seal edges to prevent unraveling",
+      "Use the citrus beverage to create a unique sweet-tangy sauce as apples bake"
+    ],
+    "coachingPrompt": "Guide on wrapping crescent dough around apples smoothly and explain the role of the sugary beverage in creating sauce."
+  },
+  "timestamp": "2026-02-06T03:56:20.728Z"
+}

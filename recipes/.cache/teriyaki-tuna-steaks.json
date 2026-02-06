@@ -1,0 +1,63 @@
+{
+  "contentHash": "aa3a00e414c42e01",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 sheets (12x18-inches each) Reynolds Wrap® Non-Stick Foil",
+        "searchTerm": "non-stick foil",
+        "normalizedName": "Non-Stick Foil"
+      },
+      {
+        "ingredient": "2 (5 ounce) tuna or swordfish steaks",
+        "searchTerm": "tuna steak",
+        "normalizedName": "Tuna Steak"
+      },
+      {
+        "ingredient": "1 (8 ounce) can pineapple chunks in juice, drained",
+        "searchTerm": "canned pineapple",
+        "normalizedName": "Pineapple"
+      },
+      {
+        "ingredient": "2 tablespoons teriyaki sauce",
+        "searchTerm": "teriyaki sauce",
+        "normalizedName": "Teriyaki Sauce"
+      },
+      {
+        "ingredient": "½ teaspoon grated fresh ginger",
+        "searchTerm": "fresh ginger",
+        "normalizedName": "Fresh Ginger"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 cup frozen mixed vegetables for stir fry",
+        "searchTerm": "frozen mixed vegetables",
+        "normalizedName": "Frozen Mixed Vegetable"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "foil packets",
+        "searchTerm": "foil"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Seal foil packets tightly to trap steam and cook fish gently",
+      "Cook at 400°F for 12-15 minutes depending on steak thickness",
+      "Carefully open packets away from your face to avoid steam burns"
+    ],
+    "coachingPrompt": "Guide the cook through creating and sealing proper foil packets to ensure even steaming of tuna and vegetables."
+  },
+  "timestamp": "2026-02-06T20:26:19.808Z"
+}

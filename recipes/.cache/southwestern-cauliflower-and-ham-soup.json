@@ -1,0 +1,68 @@
+{
+  "contentHash": "afe3abad053a468b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 (14.5 ounce) cans chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "3 ½ cups cauliflower florets",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      },
+      {
+        "ingredient": "1 cup chopped cooked ham",
+        "searchTerm": "cooked ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "1 ½ cups shredded Pepper Jack cheese",
+        "searchTerm": "pepper jack cheese",
+        "normalizedName": "Pepper Jack Cheese"
+      },
+      {
+        "ingredient": "¼ cup potato flakes",
+        "searchTerm": "potato flakes",
+        "normalizedName": "Potato Flake"
+      },
+      {
+        "ingredient": "5 tablespoons chopped fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Cut cauliflower into similar-sized florets for even cooking",
+      "Stir in cheese at the end and keep heat low to prevent curdling",
+      "Potato flakes thicken the soup without requiring cream"
+    ],
+    "coachingPrompt": "What other vegetables could work well in this soup?"
+  },
+  "timestamp": "2026-02-06T18:44:36.933Z"
+}

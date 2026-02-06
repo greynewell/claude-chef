@@ -1,0 +1,68 @@
+{
+  "contentHash": "6af313dbb2edd802",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) can fully cooked luncheon meat (such as SPAM®), cubed",
+        "searchTerm": "spam luncheon meat",
+        "normalizedName": "Luncheon Meat"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar processed cheese sauce (such as Cheez Whiz®)",
+        "searchTerm": "cheese sauce",
+        "normalizedName": "Processed Cheese Sauce"
+      },
+      {
+        "ingredient": "1 (4 ounce) jar chopped pimiento peppers with liquid",
+        "searchTerm": "pimiento peppers",
+        "normalizedName": "Pimiento Pepper"
+      },
+      {
+        "ingredient": "¾ cup mayonnaise-style sandwich spread with chopped sweet pickle",
+        "searchTerm": "mayo spread",
+        "normalizedName": "Mayonnaise Spread"
+      },
+      {
+        "ingredient": "15 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "15 slices whole wheat bread",
+        "searchTerm": "whole wheat bread",
+        "normalizedName": "Whole Wheat Bread"
+      },
+      {
+        "ingredient": "1 teaspoon dried parsley, or to taste",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley"
+      },
+      {
+        "ingredient": "1 small cucumber, thinly sliced",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "serrated bread knife",
+        "searchTerm": "bread knife"
+      },
+      {
+        "name": "spreading knife",
+        "searchTerm": "butter knife"
+      }
+    ],
+    "cookingTips": [
+      "Mix cheese sauce and luncheon meat while warm for easier combination and spreading",
+      "Trim crusts from bread for an elegant presentation typical of tea sandwiches",
+      "Assemble sandwiches shortly before serving to prevent bread from becoming soggy"
+    ],
+    "coachingPrompt": "How can you prepare components ahead while keeping bread fresh and sandwiches easy to assemble?"
+  },
+  "timestamp": "2026-02-06T20:22:33.368Z"
+}

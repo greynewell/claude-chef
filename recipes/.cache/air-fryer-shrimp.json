@@ -1,0 +1,43 @@
+{
+  "contentHash": "2bcb78622fb3d4e3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup fish fry breading mix",
+        "searchTerm": "fish fry breading mix",
+        "normalizedName": "Fish Fry Breading Mix"
+      },
+      {
+        "ingredient": "1 pound large shrimp, peeled and deveined",
+        "searchTerm": "large shrimp",
+        "normalizedName": "Shrimp"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Shallow bowl for breading",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Pat shrimp completely dry before dipping to help breading adhere",
+      "Set up a quick breading station with eggs and breading mixture in separate bowls",
+      "Don't overcrowd the air fryer basket for maximum crispiness"
+    ],
+    "coachingPrompt": "Help me prepare and cook breaded shrimp in an air fryer with a simple coating."
+  },
+  "timestamp": "2026-02-05T21:47:01.123Z"
+}

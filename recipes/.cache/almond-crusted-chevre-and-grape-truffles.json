@@ -1,0 +1,68 @@
+{
+  "contentHash": "705f6a3d5ce47ba6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "chevre",
+        "searchTerm": "goat cheese",
+        "normalizedName": "Chevre"
+      },
+      {
+        "ingredient": "cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "port wine",
+        "searchTerm": "port wine",
+        "normalizedName": "Port Wine"
+      },
+      {
+        "ingredient": "salt and pepper",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper",
+        "searchTerm": "pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "grapes",
+        "searchTerm": "grapes",
+        "normalizedName": "Grape"
+      },
+      {
+        "ingredient": "whole almonds",
+        "searchTerm": "almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "sliced chives",
+        "searchTerm": "fresh chives",
+        "normalizedName": "Chive"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Shallow dish",
+        "searchTerm": "shallow bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "serving spoon"
+      }
+    ],
+    "cookingTips": [
+      "Chill cheese mixture before forming into balls for easier handling",
+      "Use room temperature ingredients to blend smoothly",
+      "Coat almonds and chives at the end for fresh presentation"
+    ],
+    "coachingPrompt": "Teach the user how to create elegant appetizers by combining creamy cheese with fruit and nut coatings."
+  },
+  "timestamp": "2026-02-05T21:53:34.911Z"
+}

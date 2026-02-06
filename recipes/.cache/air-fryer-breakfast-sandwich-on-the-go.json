@@ -1,0 +1,58 @@
+{
+  "contentHash": "abbd4434b5711207",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "nonstick cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 large egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "salt and freshly ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 (1.2 oz) patty fully cooked breakfast sausage",
+        "searchTerm": "breakfast sausage patty",
+        "normalizedName": "Breakfast Sausage Patty"
+      },
+      {
+        "ingredient": "1 medium English muffin, split",
+        "searchTerm": "english muffin",
+        "normalizedName": "English Muffin"
+      },
+      {
+        "ingredient": "1 slice American cheese",
+        "searchTerm": "american cheese",
+        "normalizedName": "American Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "small oven-safe bowl or ramekin for egg",
+        "searchTerm": "ramekin"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Spray the ramekin or bowl generously so the egg doesn't stick",
+      "Cook the egg first, then add other components at the end to prevent cheese from overcooking",
+      "Assemble the sandwich immediately after components are cooked for best temperature and texture"
+    ],
+    "coachingPrompt": "Walk me through cooking a quick egg in the air fryer, warming the sausage and English muffin, melting the cheese, and assembling a hot breakfast sandwich."
+  },
+  "timestamp": "2026-02-05T21:40:04.007Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "c07a7865debd1569",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 salmon steaks",
+        "searchTerm": "salmon steaks",
+        "normalizedName": "Salmon Steak"
+      },
+      {
+        "ingredient": "1 tablespoon Creole seasoning, or to taste",
+        "searchTerm": "Creole seasoning",
+        "normalizedName": "Creole Seasoning"
+      },
+      {
+        "ingredient": "1 orange, juiced",
+        "searchTerm": "orange juice",
+        "normalizedName": "Orange Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "Instant-Read Thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Pat salmon dry before cooking for better browning and crust development",
+      "Add orange juice at the end to create a pan sauce"
+    ],
+    "coachingPrompt": "Help me balance bold Creole spices with citrus brightness for salmon."
+  },
+  "timestamp": "2026-02-06T13:45:25.539Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "7831a742e762f7b2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 head cabbage, cored and shredded",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "⅛ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "2 teaspoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Whisk or fork",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Shred cabbage thinly for more delicate texture and better dressing absorption",
+      "Whisk the dressing ingredients together before tossing with cabbage",
+      "Let the salad sit for 5-10 minutes after dressing to allow flavors to meld"
+    ],
+    "coachingPrompt": "Do you prefer a more acidic dressing? I can help you balance the lemon juice and oil ratio to your taste."
+  },
+  "timestamp": "2026-02-06T01:07:24.078Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "7619ce821bf41e03",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (1 ounce) package onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      },
+      {
+        "ingredient": "1 (6 pound) turkey breast, thawed",
+        "searchTerm": "turkey breast",
+        "normalizedName": "Turkey Breast"
+      },
+      {
+        "ingredient": "2 ribs celery, cut into large chunks",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 onion, cut into large chunks",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cup chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "2 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Instant Pot",
+        "searchTerm": "Instant Pot"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Ensure turkey is fully thawed before cooking for even pressure cooking",
+      "Place turkey breast-side up on trivet with aromatics underneath",
+      "Use cornstarch slurry to thicken pan juices for a flavorful gravy"
+    ],
+    "coachingPrompt": "Guide the user through cooking a large turkey breast successfully by emphasizing proper thawing and using aromatics to flavor the meat."
+  },
+  "timestamp": "2026-02-06T09:59:32.827Z"
+}

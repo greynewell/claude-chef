@@ -1,0 +1,52 @@
+{
+  "contentHash": "0d004f8c8a189644",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 head cauliflower, cut into 2-inch chunks",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      },
+      {
+        "ingredient": "1 teaspoon soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon fish sauce",
+        "searchTerm": "fish sauce",
+        "normalizedName": "Fish Sauce"
+      },
+      {
+        "ingredient": "¼ teaspoon cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sous Vide Machine",
+        "searchTerm": "immersion circulator"
+      },
+      {
+        "name": "Vacuum Sealer",
+        "searchTerm": "vacuum sealer"
+      },
+      {
+        "name": "Water Bath Container",
+        "searchTerm": "large pot"
+      }
+    ],
+    "cookingTips": [
+      "Cook at 185°F (85°C) for tender-crisp texture while preserving nutrients",
+      "Umami from soy and fish sauce creates depth without heavy fats"
+    ],
+    "coachingPrompt": "Explain how umami seasonings elevate simple cauliflower and how sous vide prevents overcooking while maintaining texture."
+  },
+  "timestamp": "2026-02-06T18:38:23.425Z"
+}

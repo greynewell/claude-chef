@@ -1,0 +1,48 @@
+{
+  "contentHash": "f29d4ca45ac64365",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (14 ounce) round Brie cheese",
+        "searchTerm": "brie cheese",
+        "normalizedName": "Brie Cheese"
+      },
+      {
+        "ingredient": "1 cup chopped walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "2 cups real maple syrup (fine light grade)",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "1 18-inch French baguette, cut into 3/4-inch slices",
+        "searchTerm": "french baguette",
+        "normalizedName": "French Baguette"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "serrated knife"
+      }
+    ],
+    "cookingTips": [
+      "Bake at 350°F for 12-15 minutes until cheese is soft and gooey",
+      "Toast baguette slices lightly for better texture and to prevent sogginess",
+      "Warm maple syrup before drizzling for even coating"
+    ],
+    "coachingPrompt": "Guide the user through melting brie to the perfect creamy consistency while maintaining its shape."
+  },
+  "timestamp": "2026-02-05T23:00:03.767Z"
+}

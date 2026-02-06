@@ -1,0 +1,53 @@
+{
+  "contentHash": "51e7fbb58a174d40",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "refrigerated pie crusts",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      },
+      {
+        "ingredient": "apple pie filling",
+        "searchTerm": "apple pie filling",
+        "normalizedName": "Apple Pie Filling"
+      },
+      {
+        "ingredient": "egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "cinnamon sugar",
+        "searchTerm": "cinnamon sugar",
+        "normalizedName": "Cinnamon Sugar"
+      },
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Biscuit Cutter",
+        "searchTerm": "cutter"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Cut pie crusts into rounds or use muffin tins for individual hand pies",
+      "Seal edges with a fork for decorative detail and to prevent filling leakage",
+      "Brush with egg wash before air frying for a golden, shiny finish"
+    ],
+    "coachingPrompt": "Guide the baker through forming individual pies efficiently and explain how air frying provides crispy pastry with less oil than traditional frying."
+  },
+  "timestamp": "2026-02-06T05:28:59.762Z"
+}

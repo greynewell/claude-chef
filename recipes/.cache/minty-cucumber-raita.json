@@ -1,0 +1,63 @@
+{
+  "contentHash": "0f7c7ebcb7d06b5d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup plain yogurt",
+        "searchTerm": "yogurt",
+        "normalizedName": "Yogurt"
+      },
+      {
+        "ingredient": "2 cups diced cucumber",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh cilantro",
+        "searchTerm": "fresh cilantro",
+        "normalizedName": "Fresh Cilantro"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh mint",
+        "searchTerm": "fresh mint",
+        "normalizedName": "Fresh Mint Leaf"
+      },
+      {
+        "ingredient": "½ teaspoon ground cumin",
+        "searchTerm": "ground cumin",
+        "normalizedName": "Ground Cumin"
+      },
+      {
+        "ingredient": "salt and freshly ground black pepper",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and freshly ground black pepper",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "grater",
+        "searchTerm": "grater"
+      },
+      {
+        "name": "serving bowl",
+        "searchTerm": "serving bowl"
+      }
+    ],
+    "cookingTips": [
+      "Salt cucumber and let drain to remove excess moisture",
+      "Use full-fat yogurt for creamier texture",
+      "Chill before serving and adjust seasonings to taste"
+    ],
+    "coachingPrompt": "Why salt the cucumber first? How long should this chill before serving?"
+  },
+  "timestamp": "2026-02-06T12:34:30.455Z"
+}

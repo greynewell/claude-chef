@@ -1,0 +1,47 @@
+{
+  "contentHash": "d0443a073af8696f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package frozen bite-size potato nuggets",
+        "searchTerm": "tater tots",
+        "normalizedName": "Tater Tot"
+      },
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (15.5 ounce) can sloppy joe sauce",
+        "searchTerm": "sloppy joe sauce",
+        "normalizedName": "Sloppy Joe Sauce"
+      },
+      {
+        "ingredient": "½ cup shredded Cheddar cheese, or as desired",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown the beef first, then mix with sauce before topping with tater tots",
+      "Bake tater tots separately then top for maximum crispiness"
+    ],
+    "coachingPrompt": "Guide the user through assembling this fun comfort food dish with proper layering for best results."
+  },
+  "timestamp": "2026-02-06T18:02:14.170Z"
+}

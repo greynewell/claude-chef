@@ -1,0 +1,38 @@
+{
+  "contentHash": "70550e4f61003539",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound VELVEETA®, cut into 1/2-inch cubes",
+        "searchTerm": "Velveeta cheese",
+        "normalizedName": "Velveeta Cheese"
+      },
+      {
+        "ingredient": "½ pound breakfast pork sausage, cooked, drained",
+        "searchTerm": "breakfast sausage",
+        "normalizedName": "Breakfast Sausage"
+      },
+      {
+        "ingredient": "1 (10 ounce) can RO*TEL Diced Tomatoes and Green Chilies, undrained",
+        "searchTerm": "diced tomatoes with green chilies",
+        "normalizedName": "Diced Tomato With Green Chile"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausage thoroughly and drain excess fat before adding to dip",
+      "Keep dip warm in a slow cooker on low setting for serving"
+    ],
+    "coachingPrompt": "What's the quickest way to make a crowd-pleasing dip that combines three simple ingredients into something flavorful?"
+  },
+  "timestamp": "2026-02-06T21:47:19.801Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "aedeb6aaac496b3f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "2 cups finely chopped pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      },
+      {
+        "ingredient": "1 ½ cups self-rising flour",
+        "searchTerm": "self-rising flour",
+        "normalizedName": "Self-Rising Flour"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Finely chop pecans to distribute evenly throughout the cake",
+      "Mix wet and dry ingredients separately before combining to avoid overmixing",
+      "Bake at 350°F for 35-40 minutes until a toothpick comes out clean"
+    ],
+    "coachingPrompt": "How does the combination of white and brown sugar affect the texture and flavor of this cake?"
+  },
+  "timestamp": "2026-02-06T07:23:57.061Z"
+}

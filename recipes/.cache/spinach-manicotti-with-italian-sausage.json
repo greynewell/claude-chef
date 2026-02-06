@@ -1,0 +1,57 @@
+{
+  "contentHash": "106124866b8245f3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (9 ounce) bag fresh spinach",
+        "searchTerm": "fresh spinach",
+        "normalizedName": "Fresh Spinach"
+      },
+      {
+        "ingredient": "1 pound bulk Italian sausage",
+        "searchTerm": "italian sausage",
+        "normalizedName": "Italian Sausage"
+      },
+      {
+        "ingredient": "1 (24 ounce) carton small curd cottage cheese",
+        "searchTerm": "cottage cheese",
+        "normalizedName": "Cottage Cheese"
+      },
+      {
+        "ingredient": "1 (12 ounce) package shredded mozzarella cheese, divided",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "12  manicotti shells",
+        "searchTerm": "manicotti shells",
+        "normalizedName": "Manicotti Shell"
+      },
+      {
+        "ingredient": "2 (24 ounce) jars spaghetti sauce",
+        "searchTerm": "spaghetti sauce",
+        "normalizedName": "Spaghetti Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "piping bag",
+        "searchTerm": "piping bag"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausage thoroughly and drain excess fat before mixing with other filling ingredients",
+      "Use a piping bag to fill manicotti shells neatly without tearing"
+    ],
+    "coachingPrompt": "How will you distribute the sausage filling evenly among the pasta shells?"
+  },
+  "timestamp": "2026-02-06T19:15:35.648Z"
+}

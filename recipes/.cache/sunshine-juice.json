@@ -1,0 +1,48 @@
+{
+  "contentHash": "fe98ca6182a690fb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 oranges, peeled and segmented",
+        "searchTerm": "oranges",
+        "normalizedName": "Orange"
+      },
+      {
+        "ingredient": "½ cup fresh raspberries",
+        "searchTerm": "raspberries",
+        "normalizedName": "Raspberry"
+      },
+      {
+        "ingredient": "1 medium banana, peeled",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "3 fresh mint leaves",
+        "searchTerm": "fresh mint",
+        "normalizedName": "Fresh Mint"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Blend ingredients on high speed until completely smooth",
+      "Add mint at the very end to preserve its delicate flavor",
+      "Serve immediately after blending for maximum freshness and nutrition"
+    ],
+    "coachingPrompt": "Why would you add mint at the end, and how does the order of ingredients matter when blending?"
+  },
+  "timestamp": "2026-02-06T19:50:31.440Z"
+}

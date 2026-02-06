@@ -1,0 +1,52 @@
+{
+  "contentHash": "8b608c8a3ee93ce7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "2 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "2 cherries",
+        "searchTerm": "cherry",
+        "normalizedName": "Cherry"
+      },
+      {
+        "ingredient": "4 raisins",
+        "searchTerm": "raisin",
+        "normalizedName": "Raisin"
+      },
+      {
+        "ingredient": "4 pretzel sticks",
+        "searchTerm": "pretzel",
+        "normalizedName": "Pretzel"
+      }
+    ],
+    "gear": [
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "plate",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Use soft bread for easier spreading of peanut butter",
+      "Arrange decorations immediately after spreading peanut butter for best adhesion"
+    ],
+    "coachingPrompt": "Help the user create this fun children's craft sandwich by guiding them through the decorative assembly process with care."
+  },
+  "timestamp": "2026-02-06T16:07:17.147Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "d413781c61ad4e4d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 beef tamales",
+        "searchTerm": "beef tamales",
+        "normalizedName": "Beef Tamale"
+      },
+      {
+        "ingredient": "1 (15 ounce) can chili without beans",
+        "searchTerm": "chili without beans",
+        "normalizedName": "Chili Without Beans"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can diced tomatoes and green chiles",
+        "searchTerm": "diced tomatoes and green chiles",
+        "normalizedName": "Diced Tomato and Green Chile"
+      },
+      {
+        "ingredient": "1 (1 pound) loaf processed cheese",
+        "searchTerm": "processed cheese loaf",
+        "normalizedName": "Processed Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Remove husks from tamales before mashing",
+      "Layer tamale mixture, chili, tomato mixture, then cheese",
+      "Bake at 350°F for 20-25 minutes until heated through and cheese is melted"
+    ],
+    "coachingPrompt": "How should I layer these ingredients for even heating? What temperature and time should I use?"
+  },
+  "timestamp": "2026-02-06T03:58:26.483Z"
+}

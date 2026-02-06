@@ -1,0 +1,53 @@
+{
+  "contentHash": "151e90c3787aba1e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) container frozen whipped topping, thawed",
+        "searchTerm": "whipped topping",
+        "normalizedName": "Whipped Topping"
+      },
+      {
+        "ingredient": "1 (3.5 ounce) package instant French vanilla pudding",
+        "searchTerm": "vanilla pudding mix",
+        "normalizedName": "Vanilla Pudding Mix"
+      },
+      {
+        "ingredient": "2 Granny Smith apples, cored and chopped",
+        "searchTerm": "Granny Smith apples",
+        "normalizedName": "Granny Smith Apple"
+      },
+      {
+        "ingredient": "2 bananas, sliced",
+        "searchTerm": "bananas",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "2 (2.16 ounce) bars chocolate-coated caramel-peanut nougat candy bars, chopped",
+        "searchTerm": "candy bars",
+        "normalizedName": "Candy Bar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large bowl",
+        "searchTerm": "large bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Chop candy bars into bite-sized pieces for distribution",
+      "Toss apples in lemon juice to prevent browning",
+      "Assemble just before serving to maintain fruit texture"
+    ],
+    "coachingPrompt": "Help prepare and time assembly to prevent fruit oxidation."
+  },
+  "timestamp": "2026-02-06T01:18:28.875Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "cf82ead548f84597",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups peeled garlic cloves",
+        "searchTerm": "garlic cloves",
+        "normalizedName": "Garlic Clove"
+      },
+      {
+        "ingredient": "½ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "3 tablespoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Jar with lid",
+        "searchTerm": "glass jar"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Use fresh garlic cloves for best texture and flavor",
+      "Add olive oil slowly while processing to create smooth paste",
+      "Store in glass jar in refrigerator for up to 2 weeks"
+    ],
+    "coachingPrompt": "Guide the user through achieving the right consistency for whipped garlic and proper storage methods."
+  },
+  "timestamp": "2026-02-06T22:02:06.177Z"
+}

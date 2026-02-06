@@ -1,0 +1,63 @@
+{
+  "contentHash": "d76de44b91c85877",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 yellow squash, sliced",
+        "searchTerm": "yellow squash",
+        "normalizedName": "Yellow Squash"
+      },
+      {
+        "ingredient": "1 zucchini, sliced",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "1 lemon, zested and juiced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "1 tablespoon unsalted butter, cut into chunks",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      },
+      {
+        "ingredient": "1 teaspoon kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon ground black pepper, or to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon cayenne pepper, or to taste",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill pan",
+        "searchTerm": "grill pan"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "grill tongs"
+      }
+    ],
+    "cookingTips": [
+      "Cut squash and zucchini lengthwise into thin planks for better grilling surface",
+      "Don't move vegetables immediately - let them char for 2-3 minutes per side",
+      "The lemon butter goes on after grilling to preserve bright flavor"
+    ],
+    "coachingPrompt": "How can you build depth with butter and citrus while using cayenne to add intrigue?"
+  },
+  "timestamp": "2026-02-06T08:27:19.808Z"
+}

@@ -1,0 +1,83 @@
+{
+  "contentHash": "f133b1340633804e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (16 ounce) packages refrigerated pizza crust dough",
+        "searchTerm": "pizza crust dough",
+        "normalizedName": "Pizza Crust Dough"
+      },
+      {
+        "ingredient": "1 (28 ounce) jar spaghetti sauce",
+        "searchTerm": "spaghetti sauce",
+        "normalizedName": "Spaghetti Sauce"
+      },
+      {
+        "ingredient": "¼ pound cooked ham, sliced",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "¼ pound Capacola sausage, sliced",
+        "searchTerm": "capacola sausage",
+        "normalizedName": "Capacola Sausage"
+      },
+      {
+        "ingredient": "¼ pound salami, sliced",
+        "searchTerm": "salami",
+        "normalizedName": "Salami"
+      },
+      {
+        "ingredient": "¼ pound pepperoni sausage, sliced",
+        "searchTerm": "pepperoni sausage",
+        "normalizedName": "Pepperoni Sausage"
+      },
+      {
+        "ingredient": "garlic powder to taste",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "¼ pound mozzarella cheese, shredded",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 onion, sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "6 mushrooms, sliced",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "1 green bell pepper, sliced",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Layer fillings evenly across dough and leave border for sealing",
+      "Roll tightly from one end and seal edges well to prevent filling leakage",
+      "Score top with knife before baking to allow steam to escape"
+    ],
+    "coachingPrompt": "What's the best technique to prevent fillings from leaking out during baking?"
+  },
+  "timestamp": "2026-02-06T08:40:28.530Z"
+}

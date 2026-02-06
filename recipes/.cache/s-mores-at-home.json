@@ -1,0 +1,49 @@
+{
+  "contentHash": "5c538ff7b187f7fb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "⅓ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 cups graham cracker crumbs",
+        "searchTerm": "graham cracker crumbs",
+        "normalizedName": "Graham Cracker"
+      },
+      {
+        "ingredient": "2 cups semisweet chocolate chips",
+        "searchTerm": "semisweet chocolate chips",
+        "normalizedName": "Semisweet Chocolate Chip"
+      },
+      {
+        "ingredient": "3 cups miniature marshmallows",
+        "searchTerm": "mini marshmallows",
+        "normalizedName": "Marshmallow"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Press graham cracker base firmly into pan for structural integrity",
+      "Layer chocolate and marshmallows while base is still warm for better adhesion",
+      "Keep oven temperature moderate to melt marshmallows without burning"
+    ],
+    "coachingPrompt": "What's the best way to layer and set this s'mores dessert so it holds together?"
+  },
+  "timestamp": "2026-02-06T16:41:06.395Z"
+}

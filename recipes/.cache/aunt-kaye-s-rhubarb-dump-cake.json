@@ -1,0 +1,54 @@
+{
+  "contentHash": "d526ca777603dcc1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound rhubarb, cut into 1/4 inch slices",
+        "searchTerm": "fresh rhubarb",
+        "normalizedName": "Rhubarb"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 (3 ounce) package strawberry flavored Jell-O® mix",
+        "searchTerm": "strawberry Jell-O",
+        "normalizedName": "Strawberry Gelatin"
+      },
+      {
+        "ingredient": "1 (18.25 ounce) package yellow cake mix",
+        "searchTerm": "yellow cake mix",
+        "normalizedName": "Yellow Cake Mix"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup margarine, melted",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 Baking Dish",
+        "searchTerm": "rectangular baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Layer ingredients without mixing for best texture contrast",
+      "Spread cake mix evenly as the top layer",
+      "Use fresh rhubarb for better flavor than frozen"
+    ],
+    "coachingPrompt": "Explain the 'dump cake' method and why layering without mixing creates the desired texture."
+  },
+  "timestamp": "2026-02-05T22:34:28.854Z"
+}

@@ -1,0 +1,47 @@
+{
+  "contentHash": "d64e010927177ea3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "¼ cup maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "2 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "6 ounces salmon fillet",
+        "searchTerm": "salmon",
+        "normalizedName": "Salmon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Small Bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Glaze the salmon in the last few minutes to prevent burning",
+      "Cook skin-side up for crispier skin"
+    ],
+    "coachingPrompt": "How does the combination of maple syrup and soy sauce create balance in this glaze?"
+  },
+  "timestamp": "2026-02-06T00:49:42.990Z"
+}

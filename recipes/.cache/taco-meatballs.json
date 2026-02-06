@@ -1,0 +1,63 @@
+{
+  "contentHash": "85ae7b3994853097",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "¼ cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "¼ cup crushed plain tortilla chips",
+        "searchTerm": "tortilla chips",
+        "normalizedName": "Tortilla Chip"
+      },
+      {
+        "ingredient": "¼ cup salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (1.25 ounce) package taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "sheet pan"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "cup set"
+      }
+    ],
+    "cookingTips": [
+      "Mix ingredients gently with hands just until combined to avoid dense meatballs",
+      "Use an ice cream scoop for uniform sizing and even cooking",
+      "Bake at 400°F for 12-15 minutes until cooked through with a meat thermometer reading 160°F"
+    ],
+    "coachingPrompt": "These are flavorful baked meatballs. How will you bind them without making them tough or dense?"
+  },
+  "timestamp": "2026-02-06T20:13:27.050Z"
+}

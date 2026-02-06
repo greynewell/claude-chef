@@ -1,0 +1,63 @@
+{
+  "contentHash": "6aeb545adedb6482",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 egg yolks",
+        "searchTerm": "egg yolks",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "6 egg whites",
+        "searchTerm": "egg whites",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "1 ¾ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (14 ounce) can low-fat sweetened condensed milk",
+        "searchTerm": "sweetened condensed milk",
+        "normalizedName": "Sweetened Condensed Milk"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "flan dish",
+        "searchTerm": "flan dish"
+      },
+      {
+        "name": "water bath pan",
+        "searchTerm": "water bath"
+      },
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      }
+    ],
+    "cookingTips": [
+      "Create a water bath (bain-marie) to ensure even gentle cooking",
+      "Chill flan overnight for best texture and caramel distribution",
+      "Separate eggs carefully to prevent yolk in whites"
+    ],
+    "coachingPrompt": "Explain the importance of a water bath in custard desserts and how to properly caramelize the sugar"
+  },
+  "timestamp": "2026-02-06T01:23:29.720Z"
+}

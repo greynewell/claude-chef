@@ -1,0 +1,63 @@
+{
+  "contentHash": "db59bcb64d005ec8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds pork belly, cut into small pieces",
+        "searchTerm": "pork belly",
+        "normalizedName": "Pork Belly"
+      },
+      {
+        "ingredient": "3 cloves garlic, crushed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 bay leaves",
+        "searchTerm": "bay leaves",
+        "normalizedName": "Bay Leaf"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "water to cover",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "oil for frying",
+        "searchTerm": "oil",
+        "normalizedName": "Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Deep frying pan or wok",
+        "searchTerm": "wok"
+      },
+      {
+        "name": "Slotted spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Boil pork until fork-tender before frying - this ensures crispy outside, tender inside",
+      "Fry at high temperature to quickly crisp the exterior and render fat",
+      "The browned, crunchy bits are the best part - don't skip the frying step"
+    ],
+    "coachingPrompt": "Lechon Kawali is about achieving contrast - tender inside, crispy outside. Is your pork fully cooked before frying? How's that crust developing?"
+  },
+  "timestamp": "2026-02-06T06:39:34.271Z"
+}

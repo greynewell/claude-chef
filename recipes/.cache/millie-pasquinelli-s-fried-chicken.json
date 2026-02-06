@@ -1,0 +1,72 @@
+{
+  "contentHash": "0f3c79227b32fd9b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (2 to 3 pound) whole chickens, cut into pieces",
+        "searchTerm": "whole chicken",
+        "normalizedName": "Chicken"
+      },
+      {
+        "ingredient": "3 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "5 tablespoons seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      },
+      {
+        "ingredient": "3 tablespoons garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 quart vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep Frying Pan",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "Shallow Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Paper Towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Maintain oil temperature at 350°F for crispy coating without burning",
+      "Pat chicken dry before dredging to help flour coating adhere",
+      "Let coated chicken rest 5 minutes before frying for better crust"
+    ],
+    "coachingPrompt": "Help the user achieve restaurant-quality fried chicken by monitoring oil temperature and coating technique."
+  },
+  "timestamp": "2026-02-06T12:28:41.769Z"
+}

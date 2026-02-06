@@ -1,0 +1,43 @@
+{
+  "contentHash": "2aa3b47c89106221",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups apple cider vinegar",
+        "searchTerm": "apple cider vinegar",
+        "normalizedName": "Apple Cider Vinegar"
+      },
+      {
+        "ingredient": "1 pound red potatoes, thinly sliced on a mandoline",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "sea salt to taste",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Mandoline slicer",
+        "searchTerm": "mandoline"
+      },
+      {
+        "name": "Paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Use a mandoline for consistent chip thickness to ensure even cooking",
+      "Soak sliced potatoes in vinegar for 15-20 minutes, then pat completely dry",
+      "Work in batches to avoid overcrowding the air fryer basket"
+    ],
+    "coachingPrompt": "Guide me through making homemade salt and vinegar potato chips in an air fryer."
+  },
+  "timestamp": "2026-02-05T21:47:01.122Z"
+}

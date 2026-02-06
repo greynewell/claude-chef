@@ -1,0 +1,63 @@
+{
+  "contentHash": "c72b2e797bf8d70a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups all-purpose flour, plus more for kneading",
+        "searchTerm": "flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "5 teaspoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ teaspoon fine salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 teaspoons white wine vinegar",
+        "searchTerm": "white wine vinegar",
+        "normalizedName": "White Wine Vinegar"
+      },
+      {
+        "ingredient": "¾ cup warm water (110 degrees F (43 degrees C))",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "2 tablespoons all-purpose flour",
+        "searchTerm": "flour",
+        "normalizedName": "All-Purpose Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Work surface",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Rolling pin",
+        "searchTerm": "rolling pin"
+      },
+      {
+        "name": "Kitchen towel",
+        "searchTerm": "kitchen towel"
+      }
+    ],
+    "cookingTips": [
+      "Knead dough until very smooth and elastic; this develops gluten needed for thin, stretchy sheets",
+      "Rest dough for at least 30 minutes before rolling to relax gluten",
+      "Use cornstarch-flour mixture to dust work surface; it won't incorporate into dough like regular flour"
+    ],
+    "coachingPrompt": "Help the user understand the importance of proper gluten development and rest time for achieving authentic, delicate phyllo sheets."
+  },
+  "timestamp": "2026-02-06T09:16:20.190Z"
+}

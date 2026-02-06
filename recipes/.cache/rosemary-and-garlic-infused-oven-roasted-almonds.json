@@ -1,0 +1,53 @@
+{
+  "contentHash": "1aeb36bbc872f8b9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound raw almonds",
+        "searchTerm": "raw almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "1 cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "4 cloves garlic, crushed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "4 sprigs fresh rosemary",
+        "searchTerm": "rosemary",
+        "normalizedName": "Rosemary"
+      },
+      {
+        "ingredient": "¼ teaspoon red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "sea salt to taste",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Infuse olive oil with garlic and rosemary for 15-20 minutes before coating almonds for deeper flavor",
+      "Roast at 300°F for 20-25 minutes, stirring halfway through, until fragrant but not darkened"
+    ],
+    "coachingPrompt": "How does slow roasting at lower temperature preserve the delicate infusions while developing the almonds' natural flavors?"
+  },
+  "timestamp": "2026-02-06T16:33:32.135Z"
+}

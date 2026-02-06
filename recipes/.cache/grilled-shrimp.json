@@ -1,0 +1,73 @@
+{
+  "contentHash": "3f2c56cc114d4c85",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 tablespoons lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "2 tablespoons tequila",
+        "searchTerm": "tequila",
+        "normalizedName": "Tequila"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 teaspoon Cajun seasoning",
+        "searchTerm": "Cajun seasoning",
+        "normalizedName": "Cajun Seasoning"
+      },
+      {
+        "ingredient": "1 teaspoon seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "15 large tiger shrimp, peeled and deveined",
+        "searchTerm": "tiger shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "4 wooden skewers",
+        "searchTerm": "wooden skewers",
+        "normalizedName": "Wooden Skewer"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill skewers",
+        "searchTerm": "skewers"
+      },
+      {
+        "name": "bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Soak wooden skewers in water for 30 minutes before grilling",
+      "The tequila adds subtle depth - don't skip it for flavor complexity",
+      "Space shrimp evenly on skewers for consistent cooking"
+    ],
+    "coachingPrompt": "What's the role of tequila in this marinade and how does it enhance the Cajun profile?"
+  },
+  "timestamp": "2026-02-06T08:27:19.806Z"
+}

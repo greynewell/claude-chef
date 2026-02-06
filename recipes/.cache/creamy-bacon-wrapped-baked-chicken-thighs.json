@@ -1,0 +1,47 @@
+{
+  "contentHash": "7702d7e07cae2acf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound skinless, boneless chicken thighs",
+        "searchTerm": "chicken thighs",
+        "normalizedName": "Chicken Thigh"
+      },
+      {
+        "ingredient": "½ (8 ounce) package cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "6 slices bacon, or as needed",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can  condensed cream of chicken soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream of Chicken Soup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Soften cream cheese before using so it spreads easily into chicken",
+      "Wrap bacon tightly and bake until crispy, not just cooked through"
+    ],
+    "coachingPrompt": "How do I stuff chicken thighs with cream cheese while keeping bacon crispy?"
+  },
+  "timestamp": "2026-02-06T04:20:45.474Z"
+}

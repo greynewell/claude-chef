@@ -1,0 +1,53 @@
+{
+  "contentHash": "1ec158a712700199",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 skinless, boneless chicken breasts",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 cup dried bread crumbs, seasoned",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "¼ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (7 ounce) package garlic cheese spread",
+        "searchTerm": "garlic cheese spread",
+        "normalizedName": "Garlic Cheese Spread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "meat mallet",
+        "searchTerm": "meat mallet"
+      },
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken breasts thin before filling to ensure even cooking",
+      "Apply cheese spread before rolling to prevent leakage during cooking",
+      "Secure rollups with toothpicks if needed and bake until internal temperature reaches 165°F"
+    ],
+    "coachingPrompt": "How do I prevent the filling from leaking out of the chicken during cooking?"
+  },
+  "timestamp": "2026-02-06T07:17:37.592Z"
+}

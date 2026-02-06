@@ -1,0 +1,73 @@
+{
+  "contentHash": "bf8750c411a88258",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 bananas",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 cup cooked short-grain white rice",
+        "searchTerm": "short-grain rice",
+        "normalizedName": "Short-Grain Rice"
+      },
+      {
+        "ingredient": "2 egg yolks",
+        "searchTerm": "egg yolk",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "3 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ cup whipped cream",
+        "searchTerm": "whipped cream",
+        "normalizedName": "Whipped Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Use ripe bananas and slice just before serving to prevent browning",
+      "Cook egg yolks gently over low heat to create a custard-like texture",
+      "Fold in whipped cream at the end for a light, airy pudding"
+    ],
+    "coachingPrompt": "Should I cook the egg yolks over direct heat or double boiler, and when do I add the bananas?"
+  },
+  "timestamp": "2026-02-06T10:20:07.380Z"
+}

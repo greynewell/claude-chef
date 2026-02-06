@@ -1,0 +1,63 @@
+{
+  "contentHash": "9cc511e831007ce6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 skinless, boneless chicken breasts",
+        "searchTerm": "chicken breasts",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "6 potatoes, quartered",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "2 green bell peppers, diced",
+        "searchTerm": "green bell peppers",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 medium onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 ¼ teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon lemon-pepper seasoning",
+        "searchTerm": "lemon pepper seasoning",
+        "normalizedName": "Lemon Pepper Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot or slow cooker",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes evenly so they cook at the same rate",
+      "Layer ingredients in pot for even cooking and flavor distribution",
+      "This recipe works great in a slow cooker for hands-off cooking"
+    ],
+    "coachingPrompt": "Would you prefer to cook this on stovetop, in the oven, or in a slow cooker?"
+  },
+  "timestamp": "2026-02-06T11:14:27.638Z"
+}

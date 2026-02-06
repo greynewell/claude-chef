@@ -1,0 +1,57 @@
+{
+  "contentHash": "9f3eaf48b6331e60",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 egg yolks, beaten",
+        "searchTerm": "egg yolks",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 cups heavy whipping cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "¾ cup white cake mix, sifted",
+        "searchTerm": "cake mix",
+        "normalizedName": "Cake Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Ice cream maker",
+        "searchTerm": "ice cream machine"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Mixing bowls",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Temper egg yolks carefully with warm milk to avoid scrambling when making custard base",
+      "Chill custard completely before churning for best texture and flavor development"
+    ],
+    "coachingPrompt": "Teach proper ice cream base preparation and the importance of chilling before churning."
+  },
+  "timestamp": "2026-02-06T01:12:42.137Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "f60eaf8885a894c1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooked octopus",
+        "searchTerm": "octopus",
+        "normalizedName": "Octopus"
+      },
+      {
+        "ingredient": "green onions",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "sesame oil",
+        "searchTerm": "sesame oil",
+        "normalizedName": "Sesame Oil"
+      },
+      {
+        "ingredient": "kosher salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Sharp Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Ensure octopus is properly cooked and tender before cutting",
+      "Let poki marinate for at least 30 minutes for best flavor absorption",
+      "Slice green onions just before serving to maintain freshness"
+    ],
+    "coachingPrompt": "This is a simple Hawaiian-inspired dish. Would you like guidance on how to cook fresh octopus if you can't find pre-cooked?"
+  },
+  "timestamp": "2026-02-06T20:16:19.233Z"
+}

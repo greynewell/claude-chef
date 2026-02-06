@@ -1,0 +1,53 @@
+{
+  "contentHash": "0caef183b0481347",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 ears corn, husked and cleaned",
+        "searchTerm": "corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "Cajun seasoning to taste",
+        "searchTerm": "Cajun seasoning",
+        "normalizedName": "Cajun Seasoning"
+      },
+      {
+        "ingredient": "salt and black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (1 pound) package sliced bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "aluminum foil",
+        "searchTerm": "aluminum foil"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Wrap each corn ear with bacon strip before sealing in foil",
+      "Grill for 20-25 minutes, turning foil packets every 5 minutes for even cooking",
+      "Cajun seasoning adds great heat; adjust to taste preference"
+    ],
+    "coachingPrompt": "Guide the user on proper foil wrapping techniques and rotating packets for even heat distribution."
+  },
+  "timestamp": "2026-02-06T08:10:19.109Z"
+}

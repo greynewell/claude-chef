@@ -1,0 +1,73 @@
+{
+  "contentHash": "92eb9a3ca667145c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "portobello mushrooms",
+        "searchTerm": "portobello mushrooms",
+        "normalizedName": "Portobello Mushroom"
+      },
+      {
+        "ingredient": "low-sodium chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "miso paste",
+        "searchTerm": "miso paste",
+        "normalizedName": "Miso"
+      },
+      {
+        "ingredient": "sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "cooked chicken",
+        "searchTerm": "chicken",
+        "normalizedName": "Chicken"
+      },
+      {
+        "ingredient": "green onions",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "stock pot"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Dissolve miso in a ladle of hot broth before adding to prevent clumping",
+      "Add green onions just before serving to preserve their fresh flavor",
+      "Use pre-cooked chicken to keep soup quick and weeknight-friendly"
+    ],
+    "coachingPrompt": "How can you extract maximum umami from miso while maintaining its probiotic benefits?"
+  },
+  "timestamp": "2026-02-06T12:35:23.087Z"
+}

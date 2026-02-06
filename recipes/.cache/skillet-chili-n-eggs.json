@@ -1,0 +1,48 @@
+{
+  "contentHash": "60dbf1a39647a828",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "canned chili with beans",
+        "searchTerm": "canned chili",
+        "normalizedName": "Chili"
+      },
+      {
+        "ingredient": "whole-kernel corn",
+        "searchTerm": "canned corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Warm chili and corn together before adding eggs so they cook through properly",
+      "Create small wells in the chili mixture for eggs to nestle into and cook evenly",
+      "Add cheese after eggs set slightly for even melting without overheating the eggs"
+    ],
+    "coachingPrompt": "How do I cook eggs in the chili so they don't break and cook through evenly?"
+  },
+  "timestamp": "2026-02-06T17:58:09.396Z"
+}

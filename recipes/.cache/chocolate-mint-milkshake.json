@@ -1,0 +1,43 @@
+{
+  "contentHash": "aa285ca81e5f527d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 scoops vanilla ice cream",
+        "searchTerm": "vanilla ice cream",
+        "normalizedName": "Vanilla Ice Cream"
+      },
+      {
+        "ingredient": "¼ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ cup chocolate syrup",
+        "searchTerm": "chocolate syrup",
+        "normalizedName": "Chocolate Syrup"
+      },
+      {
+        "ingredient": "1 drop peppermint extract",
+        "searchTerm": "peppermint extract",
+        "normalizedName": "Peppermint Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "milkshake glass",
+        "searchTerm": "tall glass"
+      }
+    ],
+    "cookingTips": [
+      "Use just one drop of peppermint extract—it's potent and can quickly become overpowering",
+      "Blend until smooth but not over-liquefied"
+    ],
+    "coachingPrompt": "A classic combination. The key is balancing the peppermint so it enhances rather than dominates the chocolate flavor."
+  },
+  "timestamp": "2026-02-06T03:08:56.022Z"
+}

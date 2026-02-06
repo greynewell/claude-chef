@@ -1,0 +1,63 @@
+{
+  "contentHash": "6c4f96640ef42bc5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 heads fresh broccoli, cut into florets",
+        "searchTerm": "fresh broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "½ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 ½ pounds cavatelli pasta",
+        "searchTerm": "cavatelli pasta",
+        "normalizedName": "Cavatelli Pasta"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon crushed red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "2 tablespoons grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "large skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Cook broccoli separately until tender-crisp, then add to garlic oil to finish",
+      "Reserve pasta water to adjust sauce consistency if needed",
+      "Toast garlic gently in oil to avoid burning and add bitterness"
+    ],
+    "coachingPrompt": "Walk me through how to properly cook broccoli so it stays vibrant green and not mushy."
+  },
+  "timestamp": "2026-02-06T01:38:32.429Z"
+}

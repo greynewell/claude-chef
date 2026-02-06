@@ -1,0 +1,67 @@
+{
+  "contentHash": "103dde1a61301923",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup shortening",
+        "searchTerm": "shortening",
+        "normalizedName": "Shortening"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 ½ teaspoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "3 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "⅓ cup colored sugar for decoration",
+        "searchTerm": "colored sugar",
+        "normalizedName": "Colored Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "plastic wrap",
+        "searchTerm": "plastic wrap"
+      }
+    ],
+    "cookingTips": [
+      "Dough can be stored in the refrigerator for up to 2 weeks, allowing you to slice and bake fresh cookies as desired",
+      "Chill dough before slicing for clean cuts"
+    ],
+    "coachingPrompt": "Guide the user through forming cookie dough into logs for storage and explain how to slice and bake individual cookies from the refrigerated dough."
+  },
+  "timestamp": "2026-02-06T16:07:17.146Z"
+}

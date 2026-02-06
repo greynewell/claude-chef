@@ -1,0 +1,43 @@
+{
+  "contentHash": "7e16a6affa8d6dc3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "beef tenderloin roast",
+        "searchTerm": "beef tenderloin",
+        "normalizedName": "Beef Tenderloin"
+      },
+      {
+        "ingredient": "soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Roasting Pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Basting Brush",
+        "searchTerm": "basting brush"
+      }
+    ],
+    "cookingTips": [
+      "Bring beef to room temperature before roasting for even cooking throughout",
+      "Use a meat thermometer to achieve your desired doneness—135°F for medium-rare",
+      "Let roast rest for 10 minutes after cooking to allow juices to redistribute"
+    ],
+    "coachingPrompt": "What's your target doneness for beef tenderloin? I can help you achieve perfect results."
+  },
+  "timestamp": "2026-02-06T06:26:26.177Z"
+}

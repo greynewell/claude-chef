@@ -1,0 +1,62 @@
+{
+  "contentHash": "0b97dbf6c587f12d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 ½ tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ cup unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Unsweetened Cocoa Powder"
+      },
+      {
+        "ingredient": "1 ¼ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 tiny pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Measuring spoons",
+        "searchTerm": "measuring spoons"
+      }
+    ],
+    "cookingTips": [
+      "Whisk the sugar, flour, and cocoa powder together before adding milk to prevent lumps",
+      "Heat the sauce gently and stir constantly to avoid scorching the chocolate"
+    ],
+    "coachingPrompt": "Explain the technique for combining dry ingredients and gradually adding milk to create a smooth, lump-free chocolate sauce."
+  },
+  "timestamp": "2026-02-06T05:47:51.328Z"
+}

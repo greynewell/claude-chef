@@ -1,0 +1,63 @@
+{
+  "contentHash": "4e82105f7dd7554c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "hickory and apple wood chips",
+        "searchTerm": "wood chips",
+        "normalizedName": "Wood Chip"
+      },
+      {
+        "ingredient": "1 (2 pound) head cauliflower",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ teaspoon seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 tablespoon barbeque sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Smoker or grill",
+        "searchTerm": "smoker"
+      },
+      {
+        "name": "Wood chips soaker",
+        "searchTerm": "wood chips"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Soak wood chips 30 minutes before using",
+      "Start at low temperature and increase gradually",
+      "Drizzle mayo and BBQ sauce in last 10 minutes"
+    ],
+    "coachingPrompt": "Smoking vegetables is less common - would you like guidance on temperature control and smoke timing?"
+  },
+  "timestamp": "2026-02-06T22:08:25.477Z"
+}

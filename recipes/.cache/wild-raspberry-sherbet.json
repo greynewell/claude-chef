@@ -1,0 +1,53 @@
+{
+  "contentHash": "d2ecaad439ddee30",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups wild raspberries",
+        "searchTerm": "wild raspberries",
+        "normalizedName": "Raspberry"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 ½ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ teaspoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Ice Cream Maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Strain raspberry puree through fine mesh to remove seeds for smoother texture",
+      "Chill mixture thoroughly before churning for best results",
+      "Churn according to ice cream maker instructions for proper texture"
+    ],
+    "coachingPrompt": "Sherbet requires balancing fruit flavor, dairy, and freezing. How will you achieve the right consistency and keep the vibrant raspberry flavor prominent?"
+  },
+  "timestamp": "2026-02-06T22:12:32.220Z"
+}

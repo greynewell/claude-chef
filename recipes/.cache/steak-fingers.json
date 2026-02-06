@@ -1,0 +1,63 @@
+{
+  "contentHash": "a3754c09356131a6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "round steak",
+        "searchTerm": "round steak",
+        "normalizedName": "Round Steak"
+      },
+      {
+        "ingredient": "eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "shallow dish for breading",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Pound steak to uniform thickness for even cooking",
+      "Create a three-station breading setup: flour, egg mixture, flour again",
+      "Fry at 350°F until golden brown and cooked through"
+    ],
+    "coachingPrompt": "How would you achieve a crispy coating while keeping the steak tender inside?"
+  },
+  "timestamp": "2026-02-06T19:23:56.693Z"
+}

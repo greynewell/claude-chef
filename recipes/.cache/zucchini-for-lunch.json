@@ -1,0 +1,57 @@
+{
+  "contentHash": "d9e566716ed4d1b5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 large zucchini, cubed",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "1 medium onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 red bell pepper, seeded and chopped",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup canned tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "measuring spoons",
+        "searchTerm": "measuring spoons"
+      }
+    ],
+    "cookingTips": [
+      "Cook vegetables until slightly tender before adding eggs for even cooking",
+      "Stir eggs gently to create soft scrambled texture"
+    ],
+    "coachingPrompt": "How would you transform this simple dish into a more substantial meal?"
+  },
+  "timestamp": "2026-02-06T22:27:19.643Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "3450f1f9700ad214",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds fresh strawberries, hulled",
+        "searchTerm": "fresh strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "5 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons vinegar",
+        "searchTerm": "vinegar",
+        "normalizedName": "Vinegar"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "candy thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "jar",
+        "searchTerm": "glass jar"
+      }
+    ],
+    "cookingTips": [
+      "Use a candy thermometer to reach the gel point of 220°F for proper setting",
+      "Stir frequently to prevent sticking and ensure even cooking",
+      "Skim foam from surface regularly for clearer, more appealing preserves"
+    ],
+    "coachingPrompt": "Homemade preserves require reaching proper gel stage. What's the best way to test for doneness without a thermometer?"
+  },
+  "timestamp": "2026-02-06T19:35:26.813Z"
+}

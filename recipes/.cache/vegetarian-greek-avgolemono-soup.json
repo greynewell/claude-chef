@@ -1,0 +1,62 @@
+{
+  "contentHash": "a0d6bc329018d255",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 pound leeks, white and light green parts only, chopped",
+        "searchTerm": "leeks",
+        "normalizedName": "Leek"
+      },
+      {
+        "ingredient": "2 ½ tablespoons vegetable base",
+        "searchTerm": "vegetable base",
+        "normalizedName": "Vegetable Base"
+      },
+      {
+        "ingredient": "⅔ cup uncooked jasmine rice",
+        "searchTerm": "jasmine rice",
+        "normalizedName": "Jasmine Rice"
+      },
+      {
+        "ingredient": "4 large eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "6 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh dill",
+        "searchTerm": "dill",
+        "normalizedName": "Dill"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "Temper the eggs by slowly adding hot broth while whisking to prevent scrambling",
+      "Add lemon juice at the end to preserve its brightness and prevent curdling"
+    ],
+    "coachingPrompt": "This delicate soup requires careful egg tempering. How will you slowly incorporate the hot broth to create a creamy texture?"
+  },
+  "timestamp": "2026-02-06T21:44:10.402Z"
+}

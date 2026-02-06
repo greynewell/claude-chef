@@ -1,0 +1,73 @@
+{
+  "contentHash": "99b40fc2e593511e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "½ cup peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 ½ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 cups miniature marshmallows",
+        "searchTerm": "marshmallows",
+        "normalizedName": "Marshmallow"
+      },
+      {
+        "ingredient": "1 cup chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pizza pan",
+        "searchTerm": "pizza pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Press dough into pizza pan and pre-bake for 8-10 minutes before adding toppings",
+      "Add marshmallows and chocolate chips in final minutes of baking so they soften without burning",
+      "Cool slightly before slicing to allow marshmallows to set"
+    ],
+    "coachingPrompt": "Help the user understand the technique of par-baking and why it's important for this recipe to avoid raw dough with melted toppings."
+  },
+  "timestamp": "2026-02-06T14:24:52.099Z"
+}

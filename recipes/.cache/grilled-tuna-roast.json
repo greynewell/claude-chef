@@ -1,0 +1,63 @@
+{
+  "contentHash": "5e09b0bb037dae26",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup white wine",
+        "searchTerm": "white wine",
+        "normalizedName": "White Wine"
+      },
+      {
+        "ingredient": "½ cup balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "1 cup crumbled dried thyme",
+        "searchTerm": "dried thyme",
+        "normalizedName": "Dried Thyme"
+      },
+      {
+        "ingredient": "1 cup dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      },
+      {
+        "ingredient": "1 tablespoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 teaspoons ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 pounds fresh tuna roast",
+        "searchTerm": "tuna roast",
+        "normalizedName": "Fresh Tuna Roast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Shallow Dish",
+        "searchTerm": "shallow baking dish"
+      }
+    ],
+    "cookingTips": [
+      "Marinate the roast in the wine-vinegar mixture for 2-4 hours before grilling",
+      "Cook tuna roast to 120-125°F internal temperature for medium-rare; it continues cooking while resting",
+      "Let roast rest 10 minutes before slicing to maintain moisture"
+    ],
+    "coachingPrompt": "This herb marinade is aromatic and flavorful. Are you familiar with cooking large tuna cuts, or would step-by-step guidance be helpful?"
+  },
+  "timestamp": "2026-02-06T08:30:16.357Z"
+}

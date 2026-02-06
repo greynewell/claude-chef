@@ -1,0 +1,93 @@
+{
+  "contentHash": "ec85ed554c6f26c1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 quarts vegetable broth",
+        "searchTerm": "vegetable broth",
+        "normalizedName": "Vegetable Broth"
+      },
+      {
+        "ingredient": "1 cup uncooked barley",
+        "searchTerm": "uncooked barley",
+        "normalizedName": "Uncooked Barley"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can canned diced tomatoes",
+        "searchTerm": "canned diced tomatoes",
+        "normalizedName": "Canned Diced Tomato"
+      },
+      {
+        "ingredient": "2 carrots, chopped",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 stalks celery, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 zucchini, chopped",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cup frozen corn kernels",
+        "searchTerm": "frozen corn kernels",
+        "normalizedName": "Frozen Corn Kernel"
+      },
+      {
+        "ingredient": "2 bay leaves",
+        "searchTerm": "bay leaf",
+        "normalizedName": "Bay Leaf"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Instant Pot",
+        "searchTerm": "Instant Pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "Barley absorbs liquid as it cooks; add extra broth if you prefer a brothier soup",
+      "Add zucchini and corn near the end to prevent overcooking",
+      "Remove bay leaves before serving"
+    ],
+    "coachingPrompt": "Guide the user through making a hearty barley and vegetable soup by managing cooking times and achieving the desired broth consistency."
+  },
+  "timestamp": "2026-02-06T09:59:32.828Z"
+}

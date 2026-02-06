@@ -1,0 +1,63 @@
+{
+  "contentHash": "c86f0a2c283b5f16",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 (16 ounce) packages baby carrots",
+        "searchTerm": "baby carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "3 tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "⅓ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "measuring spoons",
+        "searchTerm": "measuring spoons"
+      },
+      {
+        "name": "lid",
+        "searchTerm": "skillet lid"
+      }
+    ],
+    "cookingTips": [
+      "Cover skillet to trap steam and cook carrots through quickly",
+      "Uncover at the end to allow liquid to evaporate and carrots to glaze",
+      "Cook until carrots are fork-tender but still slightly firm"
+    ],
+    "coachingPrompt": "Should I cut the carrots or use them whole? How do I get that nice glaze on the carrots?"
+  },
+  "timestamp": "2026-02-06T09:20:56.005Z"
+}

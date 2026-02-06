@@ -1,0 +1,58 @@
+{
+  "contentHash": "b100fdb60c774466",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 fresh jalapeno peppers, quartered and seeded",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "2 skinless, boneless chicken breast halves - pounded to about 3/4-inch thickness and cut into 8 strips each",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 slices pepperjack cheese, each sliced into 8 strips",
+        "searchTerm": "pepperjack cheese",
+        "normalizedName": "Pepperjack Cheese"
+      },
+      {
+        "ingredient": "8 slices bacon, cut in half",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "toothpicks",
+        "searchTerm": "toothpicks",
+        "normalizedName": "Toothpick"
+      },
+      {
+        "ingredient": "1 cup buffalo wing sauce",
+        "searchTerm": "buffalo wing sauce",
+        "normalizedName": "Buffalo Wing Sauce"
+      },
+      {
+        "ingredient": "1 cup blue cheese salad dressing",
+        "searchTerm": "blue cheese dressing",
+        "normalizedName": "Blue Cheese Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Soak toothpicks in water before using to prevent burning",
+      "Wrap bacon tightly around filling to hold it in place during cooking"
+    ],
+    "coachingPrompt": "Help them understand proper assembly and spacing on the pan, and explain how to judge doneness by bacon texture"
+  },
+  "timestamp": "2026-02-05T22:35:36.349Z"
+}

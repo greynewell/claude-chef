@@ -1,0 +1,48 @@
+{
+  "contentHash": "5fd3b5aed4789814",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound mild pork sausage",
+        "searchTerm": "pork sausage",
+        "normalizedName": "Pork Sausage"
+      },
+      {
+        "ingredient": "1 (8 ounce) package Neufchatel cheese, cubed",
+        "searchTerm": "neufchatel cheese",
+        "normalizedName": "Neufchatel Cheese"
+      },
+      {
+        "ingredient": "15 fresh jalapeno peppers, halved lengthwise and seeded",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "sheet pan"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "small spoon"
+      }
+    ],
+    "cookingTips": [
+      "Remove jalapeno seeds to reduce heat, but leave some ribs for subtle spice",
+      "Cook sausage until browned, breaking it into small pieces for easier stuffing",
+      "Chill filled peppers before baking so they hold their shape better"
+    ],
+    "coachingPrompt": "Stuffed peppers are about balancing heat and flavor. Do you prefer milder peppers, or would you like guidance on heat control?"
+  },
+  "timestamp": "2026-02-06T10:47:30.938Z"
+}

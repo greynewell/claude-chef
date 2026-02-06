@@ -1,0 +1,73 @@
+{
+  "contentHash": "305e10eca698e901",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 medium potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "2 (10 ounce) packages frozen chopped spinach, thawed and drained",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "3 green onions, chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "8 ounces ricotta cheese",
+        "searchTerm": "ricotta cheese",
+        "normalizedName": "Ricotta Cheese"
+      },
+      {
+        "ingredient": "½ lemon, juiced",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 pinch salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "4 matzo sheets",
+        "searchTerm": "matzo sheets",
+        "normalizedName": "Matzo Sheet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Large Mixing Bowl",
+        "searchTerm": "large mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Boil potatoes until very tender for easier blending with ricotta",
+      "Squeeze spinach thoroughly to prevent watery filling",
+      "Layer matzo sheets carefully, brushing with mixture between layers"
+    ],
+    "coachingPrompt": "This pie uses matzo as crust. Are you familiar with how matzo sheets absorb moisture?"
+  },
+  "timestamp": "2026-02-06T19:13:54.854Z"
+}

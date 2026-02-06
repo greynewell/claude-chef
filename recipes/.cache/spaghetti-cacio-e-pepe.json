@@ -1,0 +1,53 @@
+{
+  "contentHash": "94b9ec3c7df0ffdd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound spaghetti",
+        "searchTerm": "spaghetti",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "6 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 teaspoons ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 ¾ cups grated Pecorino Romano cheese",
+        "searchTerm": "Pecorino Romano",
+        "normalizedName": "Pecorino Romano Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pasta pot",
+        "searchTerm": "pasta pot"
+      },
+      {
+        "name": "Large skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "Microplane grater",
+        "searchTerm": "grater"
+      }
+    ],
+    "cookingTips": [
+      "Toast black pepper in oil to amplify its flavor",
+      "Reserve abundant pasta water to create a creamy emulsion with cheese",
+      "Toss pasta continuously to prevent cheese from clumping"
+    ],
+    "coachingPrompt": "How does an emulsion form between cheese, oil, and starchy pasta water to create creaminess without cream?"
+  },
+  "timestamp": "2026-02-06T18:46:34.755Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "15cef5a241e8f0e1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "4 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "4 teaspoons any flavor fruit jelly",
+        "searchTerm": "fruit jelly",
+        "normalizedName": "Fruit Jelly"
+      },
+      {
+        "ingredient": "1 teaspoon confectioners' sugar, for dusting",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep Fryer or Large Pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Pastry Sealer or Fork",
+        "searchTerm": "pastry sealer"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cut crusts off bread to create uniform square cakes",
+      "Seal edges tightly with fork or pastry crimper to prevent jelly from leaking during frying",
+      "Fry at 350°F until golden brown on both sides, about 1 minute per batch total"
+    ],
+    "coachingPrompt": "My fried PB&J pastries are leaking jelly while frying. How can I seal them better and what's the best frying technique?"
+  },
+  "timestamp": "2026-02-06T07:05:48.774Z"
+}

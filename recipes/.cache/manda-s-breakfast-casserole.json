@@ -1,0 +1,93 @@
+{
+  "contentHash": "2100fe4f329535d6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "5 red potatoes, diced",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "1 red bell pepper, diced",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 orange bell pepper, diced",
+        "searchTerm": "orange bell pepper",
+        "normalizedName": "Orange Bell Pepper"
+      },
+      {
+        "ingredient": "½ red onion, diced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "1 jalapeno pepper, diced",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese, divided",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "6 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¾ cup skim milk",
+        "searchTerm": "skim milk",
+        "normalizedName": "Skim Milk"
+      },
+      {
+        "ingredient": "1 tablespoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 tablespoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "mixing whisk"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy and potatoes until tender before combining",
+      "Whisk eggs and milk thoroughly for even distribution throughout casserole",
+      "Allow assembled casserole to rest 15 minutes before baking for better texture"
+    ],
+    "coachingPrompt": "Help the user understand make-ahead options and explain how to adjust baking time based on casserole depth."
+  },
+  "timestamp": "2026-02-06T11:50:51.892Z"
+}

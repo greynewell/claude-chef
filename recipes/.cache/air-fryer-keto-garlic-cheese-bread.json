@@ -1,0 +1,48 @@
+{
+  "contentHash": "24c9a51d13fdba1b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 large egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Heat the mozzarella and Parmesan mixture gently before adding the egg to avoid cooking the egg too quickly",
+      "Use parchment paper in the air fryer basket to prevent sticking",
+      "The mixture will spread and form a flatbread-like texture as it cooks"
+    ],
+    "coachingPrompt": "Help me make keto cheese bread in the air fryer using mozzarella, Parmesan, and garlic"
+  },
+  "timestamp": "2026-02-05T21:43:38.978Z"
+}

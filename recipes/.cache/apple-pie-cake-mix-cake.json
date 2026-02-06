@@ -1,0 +1,38 @@
+{
+  "contentHash": "781d6ab5a31bdd5b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (21 ounce) cans apple pie filling",
+        "searchTerm": "apple pie filling",
+        "normalizedName": "Apple Pie Filling"
+      },
+      {
+        "ingredient": "1 (15.25 ounce) package yellow cake mix",
+        "searchTerm": "yellow cake mix",
+        "normalizedName": "Yellow Cake Mix"
+      },
+      {
+        "ingredient": "½ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Spread pie filling evenly before topping with cake mix",
+      "Melted butter helps cake mix distribute evenly and creates even browning"
+    ],
+    "coachingPrompt": "How does the moisture from canned pie filling affect the texture of the cake layer?"
+  },
+  "timestamp": "2026-02-05T22:14:36.331Z"
+}

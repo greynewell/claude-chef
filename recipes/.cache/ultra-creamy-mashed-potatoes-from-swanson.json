@@ -1,0 +1,48 @@
+{
+  "contentHash": "b14ae7c4ab096a78",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "Yukon Gold potatoes",
+        "searchTerm": "yukon gold potatoes",
+        "normalizedName": "Yukon Gold Potato"
+      },
+      {
+        "ingredient": "light cream",
+        "searchTerm": "light cream",
+        "normalizedName": "Light Cream"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "potato masher",
+        "searchTerm": "potato masher"
+      }
+    ],
+    "cookingTips": [
+      "Keep potatoes warm throughout the process to prevent lumps",
+      "Add cream and butter while hot for better incorporation",
+      "Don't overmix once you reach desired consistency"
+    ],
+    "coachingPrompt": "What's the best way to achieve that ultra-creamy texture without making them gluey?"
+  },
+  "timestamp": "2026-02-06T21:28:38.623Z"
+}

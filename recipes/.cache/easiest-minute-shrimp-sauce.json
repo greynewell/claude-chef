@@ -1,0 +1,49 @@
+{
+  "contentHash": "234dd01dd7e59bae",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of shrimp soup",
+        "searchTerm": "cream of shrimp soup",
+        "normalizedName": "Cream Of Shrimp Soup"
+      },
+      {
+        "ingredient": "10 ¾ fluid ounces milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup Cheddar cheese, shredded",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Create roux by cooking butter and flour together for 2 minutes to eliminate flour taste",
+      "Whisk in cream of shrimp soup and milk gradually to prevent lumps",
+      "Stir in cheese at the end off heat to prevent it from becoming stringy"
+    ],
+    "coachingPrompt": "How do you build a smooth sauce from canned soup? Why add cheese last?"
+  },
+  "timestamp": "2026-02-06T05:27:03.257Z"
+}

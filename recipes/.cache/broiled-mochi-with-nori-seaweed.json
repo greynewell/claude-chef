@@ -1,0 +1,38 @@
+{
+  "contentHash": "32c4802e3d338480",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 frozen mochi squares",
+        "searchTerm": "mochi",
+        "normalizedName": "Mochi"
+      },
+      {
+        "ingredient": "½ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 sheet nori (dry seaweed)",
+        "searchTerm": "nori seaweed",
+        "normalizedName": "Nori"
+      }
+    ],
+    "gear": [
+      {
+        "name": "broiler pan",
+        "searchTerm": "broiler pan"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "kitchen tongs"
+      }
+    ],
+    "cookingTips": [
+      "Watch mochi carefully as it broils quickly and can burst",
+      "Brush nori with soy sauce for enhanced flavor"
+    ],
+    "coachingPrompt": "How can you prevent the mochi from sticking to the pan while broiling?"
+  },
+  "timestamp": "2026-02-06T00:46:15.319Z"
+}

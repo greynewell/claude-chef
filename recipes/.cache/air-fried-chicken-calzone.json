@@ -1,0 +1,68 @@
+{
+  "contentHash": "9f46ab98d1d62632",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "red onion",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "baby spinach",
+        "searchTerm": "spinach",
+        "normalizedName": "Baby Spinach"
+      },
+      {
+        "ingredient": "marinara sauce",
+        "searchTerm": "marinara sauce",
+        "normalizedName": "Marinara Sauce"
+      },
+      {
+        "ingredient": "cooked chicken breast",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Cooked Chicken Breast"
+      },
+      {
+        "ingredient": "pizza dough",
+        "searchTerm": "pizza dough",
+        "normalizedName": "Pizza Dough"
+      },
+      {
+        "ingredient": "mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      }
+    ],
+    "gear": [
+      {
+        "name": "air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Sauté spinach and onions first to remove excess moisture for a less soggy calzone",
+      "Don't overfill the calzone or it will leak during air frying",
+      "Seal edges well using a damp finger to prevent filling from escaping"
+    ],
+    "coachingPrompt": "Guide me through assembling and air frying a chicken calzone with proper sealing and even cooking."
+  },
+  "timestamp": "2026-02-05T21:36:41.924Z"
+}

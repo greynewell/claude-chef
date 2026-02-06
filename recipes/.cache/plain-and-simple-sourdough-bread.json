@@ -1,0 +1,53 @@
+{
+  "contentHash": "3093cd436e440629",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ cup warm water (110 degrees F/45 degrees C)",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup sourdough starter",
+        "searchTerm": "sourdough starter",
+        "normalizedName": "Sourdough Starter"
+      },
+      {
+        "ingredient": "1 ½ teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 ⅔ cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "1 ½ teaspoons active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Dutch Oven",
+        "searchTerm": "dutch oven"
+      },
+      {
+        "name": "Kitchen Scale",
+        "searchTerm": "kitchen scale"
+      }
+    ],
+    "cookingTips": [
+      "Keep water temperature between 105-110°F to activate yeast properly",
+      "Let dough rise in a warm, draft-free location for optimal fermentation",
+      "Score the top of loaf before baking for better crust development"
+    ],
+    "coachingPrompt": "Guide the baker through proper fermentation timing and how to assess dough readiness by touch and appearance rather than exact time."
+  },
+  "timestamp": "2026-02-06T14:56:14.057Z"
+}

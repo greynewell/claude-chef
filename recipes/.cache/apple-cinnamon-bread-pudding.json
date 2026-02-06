@@ -1,0 +1,63 @@
+{
+  "contentHash": "30942a7fc9c744ab",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons butter, softened, or more as needed",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "8 slices brioche bread",
+        "searchTerm": "brioche bread",
+        "normalizedName": "Brioche Bread"
+      },
+      {
+        "ingredient": "2 apples - peeled, cored, and shredded",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Tear bread into chunks for better custard absorption",
+      "Let assembled pudding soak for 15-20 minutes before baking",
+      "Bake at 350°F for 45-50 minutes until set but slightly jiggly in center"
+    ],
+    "coachingPrompt": "Guide the baker through making the custard mixture and assembling the bread pudding for optimal texture."
+  },
+  "timestamp": "2026-02-05T22:11:47.469Z"
+}

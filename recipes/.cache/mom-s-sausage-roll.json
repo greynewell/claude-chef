@@ -1,0 +1,58 @@
+{
+  "contentHash": "416280b6e0c4f4b3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 (1 pound) loaves frozen bread dough",
+        "searchTerm": "frozen bread dough",
+        "normalizedName": "Frozen Bread Dough"
+      },
+      {
+        "ingredient": "2 pounds pork sausage",
+        "searchTerm": "pork sausage",
+        "normalizedName": "Pork Sausage"
+      },
+      {
+        "ingredient": "12 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 pound pepperoni sausage, diced",
+        "searchTerm": "pepperoni sausage",
+        "normalizedName": "Pepperoni Sausage"
+      },
+      {
+        "ingredient": "2 pounds provolone cheese, shredded",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      },
+      {
+        "ingredient": "5 eggs, well beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausages before adding to dough to render fat and develop flavor",
+      "Scramble eggs before assembling to ensure even distribution",
+      "Allow dough to thaw slightly for easier handling and rolling"
+    ],
+    "coachingPrompt": "Guide the user through assembling a hearty breakfast roll with properly cooked meats and eggs."
+  },
+  "timestamp": "2026-02-06T12:45:08.412Z"
+}

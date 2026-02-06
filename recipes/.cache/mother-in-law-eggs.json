@@ -1,0 +1,73 @@
+{
+  "contentHash": "2a7638c9db29f7f9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 tablespoon spicy brown mustard (such as Gulden's®)",
+        "searchTerm": "brown mustard",
+        "normalizedName": "Brown Mustard"
+      },
+      {
+        "ingredient": "1 teaspoon hot mustard (such as Sweet Hot Mister Mustard®)",
+        "searchTerm": "hot mustard",
+        "normalizedName": "Hot Mustard"
+      },
+      {
+        "ingredient": "1 teaspoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pinch paprika for garnish",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "6 pimento-stuffed green olives, cut in half",
+        "searchTerm": "green olives",
+        "normalizedName": "Green Olive"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Boil eggs for 10-12 minutes, then cool in ice water for easy peeling",
+      "Cut eggs lengthwise for elegant presentation",
+      "Prepare filling just before serving to prevent oxidation and browning"
+    ],
+    "coachingPrompt": "Guide the user through the deviled egg technique and explain how mustard and mayo create a balanced, creamy filling."
+  },
+  "timestamp": "2026-02-06T12:52:50.045Z"
+}

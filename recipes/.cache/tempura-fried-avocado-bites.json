@@ -1,0 +1,68 @@
+{
+  "contentHash": "5691722458870ad5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "avocados, cut into 1-inch pieces",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "cold club soda",
+        "searchTerm": "club soda",
+        "normalizedName": "Club Soda"
+      },
+      {
+        "ingredient": "ice water",
+        "searchTerm": "ice water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep fryer or heavy pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use club soda in batter for extra carbonation creating extra-light texture",
+      "Chill avocado pieces before battering to prevent them from falling apart",
+      "Serve immediately after frying while coating is still crispy"
+    ],
+    "coachingPrompt": "Guide the user through the contrast between crispy exterior and creamy interior, and explain how club soda improves the tempura coating."
+  },
+  "timestamp": "2026-02-06T20:23:26.336Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "c75fbff64163ffaa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices dark rye bread",
+        "searchTerm": "rye bread",
+        "normalizedName": "Rye Bread"
+      },
+      {
+        "ingredient": "¼ pound thinly sliced corned beef",
+        "searchTerm": "corned beef",
+        "normalizedName": "Corned Beef"
+      },
+      {
+        "ingredient": "3 ounces sauerkraut",
+        "searchTerm": "sauerkraut",
+        "normalizedName": "Sauerkraut"
+      },
+      {
+        "ingredient": "2 slices Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "¼ cup thousand island dressing",
+        "searchTerm": "thousand island dressing",
+        "normalizedName": "Thousand Island Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet or griddle",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Butter spreader",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Meat slicer or sharp knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread first to prevent sogginess from sauerkraut and dressing",
+      "Layer ingredients in order: bread, dressing, corned beef, sauerkraut, cheese, bread",
+      "Grill low and slow until bread is golden and cheese melts completely"
+    ],
+    "coachingPrompt": "How do you prefer your Reuben—traditional proportions or do you have personal variations? Any tips for keeping it from getting too soggy?"
+  },
+  "timestamp": "2026-02-06T20:43:49.320Z"
+}

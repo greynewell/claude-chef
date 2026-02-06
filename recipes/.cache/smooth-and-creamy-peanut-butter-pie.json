@@ -1,0 +1,52 @@
+{
+  "contentHash": "5b3980428330fb7b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ cup creamy peanut butter",
+        "searchTerm": "creamy peanut butter",
+        "normalizedName": "Creamy Peanut Butter"
+      },
+      {
+        "ingredient": "1 (3 ounce) package cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 ¼ cups confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "1 (12 ounce) container frozen whipped topping, thawed",
+        "searchTerm": "whipped topping",
+        "normalizedName": "Whipped Topping"
+      },
+      {
+        "ingredient": "1 (9 inch) prepared chocolate cookie crumb crust",
+        "searchTerm": "chocolate cookie crust",
+        "normalizedName": "Chocolate Cookie Crust"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "rubber spatula"
+      }
+    ],
+    "cookingTips": [
+      "Let cream cheese soften to room temperature before beating",
+      "Fold whipped topping gently to preserve airiness"
+    ],
+    "coachingPrompt": "Advise on proper folding technique to maintain the creamy, airy texture"
+  },
+  "timestamp": "2026-02-06T18:26:30.031Z"
+}

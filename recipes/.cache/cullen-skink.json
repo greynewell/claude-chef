@@ -1,0 +1,58 @@
+{
+  "contentHash": "db61e543581c563b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds smoked haddock fillets, undyed",
+        "searchTerm": "smoked haddock",
+        "normalizedName": "Smoked Haddock"
+      },
+      {
+        "ingredient": "2 ½ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 large baking potatoes, peeled and diced",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 large onion, finely chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh parsley for garnish",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Use undyed smoked haddock to avoid artificial colors in the soup",
+      "Dice potatoes uniformly so they cook evenly",
+      "Simmer gently to prevent the fish from becoming tough"
+    ],
+    "coachingPrompt": "Help the user create this traditional Scottish soup with proper technique for cooking the fish and potatoes together."
+  },
+  "timestamp": "2026-02-06T04:49:39.528Z"
+}

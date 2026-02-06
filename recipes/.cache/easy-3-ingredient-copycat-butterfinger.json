@@ -1,0 +1,43 @@
+{
+  "contentHash": "c3ce5f38ec161171",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "candy corn",
+        "searchTerm": "candy corn",
+        "normalizedName": "Candy Corn"
+      },
+      {
+        "ingredient": "creamy peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Parchment Paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "Food Processor",
+        "searchTerm": "food processor"
+      }
+    ],
+    "cookingTips": [
+      "Process candy corn until it becomes a fine crumb like cornflake texture",
+      "Melt chocolate over low heat or using a double boiler to prevent burning",
+      "Set candy in the refrigerator for faster hardening"
+    ],
+    "coachingPrompt": "Explain the chemistry of how candy corn pulverizes into a flaky texture and guide proper tempering of chocolate for a snap."
+  },
+  "timestamp": "2026-02-06T05:28:59.761Z"
+}

@@ -1,0 +1,68 @@
+{
+  "contentHash": "bd2aa33803d88754",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pita bread round",
+        "searchTerm": "pita bread",
+        "normalizedName": "Pita Bread"
+      },
+      {
+        "ingredient": "¼ cup tuna, drained",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Tuna"
+      },
+      {
+        "ingredient": "½ dill pickle spear, diced",
+        "searchTerm": "dill pickle",
+        "normalizedName": "Dill Pickle"
+      },
+      {
+        "ingredient": "1 ½ teaspoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 ½ teaspoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 pinch dried rosemary",
+        "searchTerm": "dried rosemary",
+        "normalizedName": "Dried Rosemary"
+      },
+      {
+        "ingredient": "1 slice Swiss cheese",
+        "searchTerm": "swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Toaster oven",
+        "searchTerm": "toaster oven"
+      },
+      {
+        "name": "Small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Toast the pita lightly before filling to provide structure and prevent sogginess",
+      "Mix the tuna filling ahead and refrigerate until ready to assemble",
+      "Watch carefully while melting cheese to avoid burning the bread"
+    ],
+    "coachingPrompt": "This is a quick single-serving lunch. How can you prevent the pita from becoming too soft while still melting the cheese inside?"
+  },
+  "timestamp": "2026-02-06T21:15:49.795Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "197fcd57d6c09b55",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 cucumbers, peeled and sliced",
+        "searchTerm": "cucumbers",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "1 cup cornmeal",
+        "searchTerm": "cornmeal",
+        "normalizedName": "Cornmeal"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Paper Towels",
+        "searchTerm": "paper towels"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Pat cucumber slices dry thoroughly before breading to minimize water release and oil splattering",
+      "Use medium-high heat and fry briefly, about 2-3 minutes, until coating is golden but cucumber stays tender",
+      "Cornmeal coating provides a delightfully crispy Southern-style crust"
+    ],
+    "coachingPrompt": "Cucumbers are high-water vegetables. How do you achieve crispiness without releasing excess moisture?"
+  },
+  "timestamp": "2026-02-06T07:03:51.651Z"
+}

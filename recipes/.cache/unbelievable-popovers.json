@@ -1,0 +1,48 @@
+{
+  "contentHash": "94c0f7cfe18f7109",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "egg",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "flour all-purpose",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "popover pan or muffin tin",
+        "searchTerm": "popover pan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "measuring cups and spoons",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Preheat oven and pan to high temperature for best rise",
+      "Don't open oven door during baking",
+      "Serve immediately while still hot for maximum puff"
+    ],
+    "coachingPrompt": "What temperature and technique will give me the best popover rise?"
+  },
+  "timestamp": "2026-02-06T21:28:38.624Z"
+}

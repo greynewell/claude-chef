@@ -1,0 +1,48 @@
+{
+  "contentHash": "52d2120b25c20411",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "¼ cup lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "⅓ cup prepared horseradish",
+        "searchTerm": "prepared horseradish",
+        "normalizedName": "Prepared Horseradish"
+      },
+      {
+        "ingredient": "2 slices ham",
+        "searchTerm": "ham slices",
+        "normalizedName": "Ham"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "brush",
+        "searchTerm": "basting brush"
+      }
+    ],
+    "cookingTips": [
+      "Mix glaze ingredients thoroughly until brown sugar dissolves",
+      "Brush glaze on ham several times during grilling for caramelized coating",
+      "Grill over medium heat for 8-10 minutes per side, watching for flare-ups"
+    ],
+    "coachingPrompt": "The horseradish adds unexpected heat to this sweet-savory glaze. Will you adjust the ratio to your preference?"
+  },
+  "timestamp": "2026-02-06T05:19:00.095Z"
+}

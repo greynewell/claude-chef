@@ -1,0 +1,59 @@
+{
+  "contentHash": "994fc0b07e1ca103",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound beef flank steak",
+        "searchTerm": "beef flank steak",
+        "normalizedName": "Beef Flank Steak"
+      },
+      {
+        "ingredient": "2 cups coconut milk, divided",
+        "searchTerm": "coconut milk",
+        "normalizedName": "Coconut Milk"
+      },
+      {
+        "ingredient": "3 tablespoons green curry paste",
+        "searchTerm": "green curry paste",
+        "normalizedName": "Green Curry Paste"
+      },
+      {
+        "ingredient": "4 teaspoons Vietnamese hot chile paste (such as sambal oelek)",
+        "searchTerm": "sambal oelek",
+        "normalizedName": "Sambal Oelek"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      },
+      {
+        "ingredient": "½ teaspoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 cups cooked rice",
+        "searchTerm": "cooked rice",
+        "normalizedName": "Cooked Rice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Slice beef thinly against the grain for tender pieces in curry",
+      "Bloom curry paste in coconut milk before adding meat for better flavor distribution",
+      "Add basil at the very end to preserve its fresh, aromatic qualities"
+    ],
+    "coachingPrompt": "Help the user understand the balance between curry paste heat and coconut milk creaminess, and guide proper beef slicing technique."
+  },
+  "timestamp": "2026-02-06T03:18:52.195Z"
+}

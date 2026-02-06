@@ -1,0 +1,88 @@
+{
+  "contentHash": "f8aa9a45a089d740",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ cup chopped celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "4 (14.5 ounce) cans chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can vegetable broth",
+        "searchTerm": "vegetable broth",
+        "normalizedName": "Vegetable Broth"
+      },
+      {
+        "ingredient": "½ pound chopped cooked chicken breast",
+        "searchTerm": "cooked chicken breast",
+        "normalizedName": "Cooked Chicken Breast"
+      },
+      {
+        "ingredient": "1 ½ cups egg noodles",
+        "searchTerm": "egg noodles",
+        "normalizedName": "Egg Noodle"
+      },
+      {
+        "ingredient": "1 cup sliced carrots",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "½ teaspoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "½ teaspoon dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Add noodles near the end of cooking to prevent mushiness",
+      "Use rotisserie chicken for faster preparation",
+      "Adjust broth ratio for desired soup consistency"
+    ],
+    "coachingPrompt": "How can you customize this soup with vegetables you have on hand?"
+  },
+  "timestamp": "2026-02-06T15:36:46.625Z"
+}

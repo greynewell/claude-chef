@@ -1,0 +1,47 @@
+{
+  "contentHash": "039d387badc86cf8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 (28 ounce) package frozen French fries",
+        "searchTerm": "frozen French fries",
+        "normalizedName": "French Fry"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "Ranch dressing",
+        "searchTerm": "ranch dressing",
+        "normalizedName": "Ranch Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towel"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy and drain on paper towels before crumbling",
+      "Add cheese while fries are still hot so it melts evenly"
+    ],
+    "coachingPrompt": "How do I keep the fries crispy while topping with cheese and bacon?"
+  },
+  "timestamp": "2026-02-06T22:20:13.231Z"
+}

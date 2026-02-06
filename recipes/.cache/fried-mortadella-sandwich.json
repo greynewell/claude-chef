@@ -1,0 +1,83 @@
+{
+  "contentHash": "b19f97737144ddfd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons olive oil, divided",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "4 cups diced potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 onion, sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cup diced pimiento peppers",
+        "searchTerm": "pimiento peppers",
+        "normalizedName": "Pimiento Pepper"
+      },
+      {
+        "ingredient": "1 pound sliced mortadella sausage",
+        "searchTerm": "mortadella",
+        "normalizedName": "Mortadella"
+      },
+      {
+        "ingredient": "4 Italian-style hoagie buns, split lengthwise",
+        "searchTerm": "hoagie buns",
+        "normalizedName": "Hoagie Bun"
+      },
+      {
+        "ingredient": "¼ cup spicy brown mustard",
+        "searchTerm": "spicy brown mustard",
+        "normalizedName": "Spicy Brown Mustard"
+      },
+      {
+        "ingredient": "8 slices Swiss cheese",
+        "searchTerm": "swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "8 slices Asiago cheese",
+        "searchTerm": "asiago cheese",
+        "normalizedName": "Asiago Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "8 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Dice potatoes into small pieces to ensure they cook through before sandwich assembly",
+      "Sauté potatoes and onions separately from mortadella to control flavors",
+      "Toast buns lightly before assembling to prevent sogginess from eggs"
+    ],
+    "coachingPrompt": "I want to build layers of flavor in this mortadella sandwich. What order should I cook the components for the best taste?"
+  },
+  "timestamp": "2026-02-06T07:05:48.772Z"
+}

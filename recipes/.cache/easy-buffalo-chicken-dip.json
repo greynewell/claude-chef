@@ -1,0 +1,53 @@
+{
+  "contentHash": "1e0e4a8a66da5257",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15 ounce) jar chunky-style blue cheese salad dressing",
+        "searchTerm": "blue cheese dressing",
+        "normalizedName": "Blue Cheese Dressing"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "3 cooked chicken breasts, shredded",
+        "searchTerm": "cooked chicken",
+        "normalizedName": "Cooked Chicken Breast"
+      },
+      {
+        "ingredient": "1 (12 ounce) bottle Buffalo wings sauce",
+        "searchTerm": "Buffalo wing sauce",
+        "normalizedName": "Buffalo Wing Sauce"
+      },
+      {
+        "ingredient": "1 (4 ounce) package blue cheese crumbles",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "mixing spoon"
+      }
+    ],
+    "cookingTips": [
+      "Shred chicken finely for creamy, even texture throughout dip",
+      "Mix cold ingredients before baking for easier combination",
+      "Heat just until bubbly around edges; don't overheat to maintain creamy consistency"
+    ],
+    "coachingPrompt": "What flavor variations would appeal to different spice tolerance levels?"
+  },
+  "timestamp": "2026-02-06T05:35:00.000Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "d827b7d430723a53",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "miso",
+        "searchTerm": "miso paste",
+        "normalizedName": "Miso"
+      },
+      {
+        "ingredient": "mirin",
+        "searchTerm": "mirin",
+        "normalizedName": "Mirin"
+      },
+      {
+        "ingredient": "sake",
+        "searchTerm": "sake",
+        "normalizedName": "Sake"
+      },
+      {
+        "ingredient": "brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "salmon fillets",
+        "searchTerm": "salmon fillets",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "baby bok choy",
+        "searchTerm": "bok choy",
+        "normalizedName": "Bok Choy"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Whisk all glaze ingredients and apply generously to salmon in the last 5 minutes of cooking",
+      "Halve bok choy lengthwise and place cut-side down for caramelized edges",
+      "Roast at 425°F for about 15 minutes total for perfectly cooked salmon"
+    ],
+    "coachingPrompt": "What technique ensures the glaze sets into a beautiful glaze without overshadowing the salmon?"
+  },
+  "timestamp": "2026-02-06T12:35:23.089Z"
+}

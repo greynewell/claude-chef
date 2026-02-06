@@ -1,0 +1,53 @@
+{
+  "contentHash": "7a15c07a7a1c0721",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 ½ pounds apples, cored and diced",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "3 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "7 ½ cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon butter (Optional)",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (2 ounce) package powdered fruit pectin",
+        "searchTerm": "powdered fruit pectin",
+        "normalizedName": "Powdered Fruit Pectin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "jars and lids",
+        "searchTerm": "canning jars"
+      },
+      {
+        "name": "candy thermometer",
+        "searchTerm": "candy thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Simmer apples and water until soft, then strain through cheesecloth for clear jelly",
+      "Pectin helps jelly set properly, follow package directions for timing",
+      "Cook mixture to 220°F for proper gel consistency"
+    ],
+    "coachingPrompt": "Guide the user through the jelly-making process including straining, pectin addition, and proper bottling for preservation."
+  },
+  "timestamp": "2026-02-05T22:13:41.945Z"
+}

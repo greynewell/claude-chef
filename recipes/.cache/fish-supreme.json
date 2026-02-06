@@ -1,0 +1,53 @@
+{
+  "contentHash": "3db09ed5ef71b411",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (6 ounce) fillets cod",
+        "searchTerm": "cod fillets",
+        "normalizedName": "Cod Fillet"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 cup tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "3 potatoes, peeled and sliced paper-thin",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Knife and Mandoline",
+        "searchTerm": "mandoline slicer"
+      }
+    ],
+    "cookingTips": [
+      "Slice potatoes as thin as possible using a mandoline for even, quick cooking",
+      "Layer potatoes first to allow them time to soften before the fish is added",
+      "Cover with foil while baking to keep fish moist, then uncover briefly at the end"
+    ],
+    "coachingPrompt": "Help the user understand layering techniques and timing for cooking potatoes and fish together."
+  },
+  "timestamp": "2026-02-06T06:44:08.098Z"
+}

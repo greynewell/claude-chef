@@ -1,0 +1,63 @@
+{
+  "contentHash": "0803fcac39eafcf5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup Karo Light or Dark Corn Syrup",
+        "searchTerm": "corn syrup",
+        "normalizedName": "Corn Syrup"
+      },
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon pure vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 ½ cups (6 ounces) pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      },
+      {
+        "ingredient": "1 (9 inch) unbaked deep dish pie crust",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9-inch pie dish",
+        "searchTerm": "pie dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Do not pre-bake the crust; place it in the oven when filling is ready",
+      "Arrange pecans evenly in the crust before pouring filling for uniform distribution",
+      "The pie is done when the filling is set but slightly jiggles in the center"
+    ],
+    "coachingPrompt": "Guide the user on how to prevent a soggy crust and recognize when the custard filling is perfectly baked without over-setting."
+  },
+  "timestamp": "2026-02-06T03:33:52.722Z"
+}

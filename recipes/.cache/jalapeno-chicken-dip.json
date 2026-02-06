@@ -1,0 +1,52 @@
+{
+  "contentHash": "320e877e252c0dbb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10 ounce) can chunk white chicken in water, thoroughly drained",
+        "searchTerm": "canned chicken",
+        "normalizedName": "Canned Chicken"
+      },
+      {
+        "ingredient": "1 pinch seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      },
+      {
+        "ingredient": "2 (8 ounce) packages cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of chicken soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream of Chicken Soup"
+      },
+      {
+        "ingredient": "3 tablespoons chopped jalapeno",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "slow cooker or baking dish",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "mixing spoon"
+      }
+    ],
+    "cookingTips": [
+      "Soften cream cheese at room temperature for 30 minutes to blend smoothly",
+      "Drain chicken thoroughly to avoid excess liquid in the dip"
+    ],
+    "coachingPrompt": "Help the user create a smooth, creamy dip by ensuring all ingredients are properly combined and heated through."
+  },
+  "timestamp": "2026-02-06T10:14:39.290Z"
+}

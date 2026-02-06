@@ -1,0 +1,43 @@
+{
+  "contentHash": "5388473050415e83",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 tablespoon milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mug",
+        "searchTerm": "mug"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "microwave",
+        "searchTerm": "microwave"
+      }
+    ],
+    "cookingTips": [
+      "Beat egg and milk thoroughly before microwaving for fluffiness",
+      "Stir halfway through microwave cooking to ensure even results",
+      "Start with 30-second intervals to prevent overheating"
+    ],
+    "coachingPrompt": "Guide the user through quick microwave cooking with proper stirring intervals to achieve soft scrambled eggs in a single serving."
+  },
+  "timestamp": "2026-02-06T17:11:57.703Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "e5bd3e22f0ba57bb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 (6 ounce) chicken breasts",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 (15.25 ounce) can whole kernel corn, drained",
+        "searchTerm": "canned corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "1 (15 ounce) can black beans, drained",
+        "searchTerm": "black beans",
+        "normalizedName": "Black Bean"
+      },
+      {
+        "ingredient": "1 (8 ounce) jar salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "1 (1.25 ounce) package taco seasoning",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "shredding tools or forks",
+        "searchTerm": "forks"
+      },
+      {
+        "name": "serving spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Shred chicken while still warm for best texture",
+      "Drain canned vegetables to avoid excess liquid",
+      "Serve in warm tortillas with desired toppings"
+    ],
+    "coachingPrompt": "How can I make slow cooker fajitas that taste fresh and vibrant despite being cooked low and slow?"
+  },
+  "timestamp": "2026-02-06T06:00:35.833Z"
+}

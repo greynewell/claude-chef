@@ -1,0 +1,59 @@
+{
+  "contentHash": "798572e5cd359a11",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "32 ounces processed cheese food (such as Velveeta®), cut into 1/2-inch cubes",
+        "searchTerm": "Velveeta cheese",
+        "normalizedName": "Processed Cheese Food"
+      },
+      {
+        "ingredient": "1 cup Irish stout beer (such as Guinness®)",
+        "searchTerm": "Guinness beer",
+        "normalizedName": "Irish Stout Beer"
+      },
+      {
+        "ingredient": "½ cup salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "2 tablespoons Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "½ teaspoon onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      },
+      {
+        "ingredient": "¼ teaspoon cayenne pepper (Optional)",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker or fondue pot"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Keep dip on low heat in a slow cooker to maintain smooth consistency and prevent scorching",
+      "Cube the processed cheese beforehand to ensure even melting",
+      "Stir occasionally and add more beer if dip becomes too thick"
+    ],
+    "coachingPrompt": "This party dip is quite forgiving. Are you planning to serve it hot? Would you like suggestions for pairing drinks with the Guinness flavor?"
+  },
+  "timestamp": "2026-02-06T08:35:32.583Z"
+}

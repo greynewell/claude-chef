@@ -1,0 +1,53 @@
+{
+  "contentHash": "c6a774b1042da30b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "6 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "3 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "2 teaspoons minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "6 pork chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Basting brush",
+        "searchTerm": "basting brush"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Marinate pork chops in glaze for 30 minutes before grilling for deeper flavor",
+      "Grill over medium heat to prevent outside from burning before inside cooks",
+      "Rest pork chops 5 minutes after grilling to retain juices"
+    ],
+    "coachingPrompt": "How long should I marinate and grill pork chops for the best honey-soy flavor?"
+  },
+  "timestamp": "2026-02-06T09:22:33.552Z"
+}

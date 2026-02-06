@@ -1,0 +1,62 @@
+{
+  "contentHash": "25b6a41b3e769605",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 ¼ cups yellow cornmeal",
+        "searchTerm": "yellow cornmeal",
+        "normalizedName": "Yellow Cornmeal"
+      },
+      {
+        "ingredient": "3 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ¾ teaspoons baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "2 tablespoons butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "baking dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Heat milk and slowly whisk in cornmeal to avoid lumps forming",
+      "Cool cornmeal mixture slightly before adding beaten eggs to prevent scrambling",
+      "Fold in baking powder gently just before baking for light, airy texture"
+    ],
+    "coachingPrompt": "Guide me through making a light, spoon-bread soufflé with proper cornmeal technique."
+  },
+  "timestamp": "2026-02-06T13:35:03.230Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "edbc46683b2bdd91",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 tablespoons chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 loaf Italian bread",
+        "searchTerm": "italian bread",
+        "normalizedName": "Italian Bread"
+      },
+      {
+        "ingredient": "12 ounces shredded Italian cheese blend",
+        "searchTerm": "italian cheese blend",
+        "normalizedName": "Italian Cheese Blend"
+      }
+    ],
+    "gear": [
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Hollow out bread gently using a serrated knife to maintain structural integrity",
+      "Toast the hollowed bread halves before filling to prevent sogginess from cheese"
+    ],
+    "coachingPrompt": "How will you achieve melted cheese and toasted bread simultaneously? What's your filling distribution strategy?"
+  },
+  "timestamp": "2026-02-06T19:39:25.375Z"
+}

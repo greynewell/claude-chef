@@ -1,0 +1,57 @@
+{
+  "contentHash": "0cc740c276c6b1a0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "12 ounces sliced fresh mushrooms",
+        "searchTerm": "fresh mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "1 (8 ounce) wedge Brie cheese, rind removed, cubed",
+        "searchTerm": "Brie cheese",
+        "normalizedName": "Brie Cheese"
+      },
+      {
+        "ingredient": "1 (1 pound) loaf round sourdough bread",
+        "searchTerm": "sourdough bread",
+        "normalizedName": "Sourdough Bread"
+      },
+      {
+        "ingredient": "2 ½ tablespoons grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Bread knife",
+        "searchTerm": "serrated knife"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Sauté mushrooms until golden to remove excess moisture",
+      "Hollow out bread carefully to maintain structural integrity"
+    ],
+    "coachingPrompt": "What's the best way to hollow out round sourdough bread?"
+  },
+  "timestamp": "2026-02-05T22:59:09.362Z"
+}

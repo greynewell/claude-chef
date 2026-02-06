@@ -1,0 +1,53 @@
+{
+  "contentHash": "817cc9048a43e30e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 individual packages graham crackers",
+        "searchTerm": "graham crackers",
+        "normalizedName": "Graham Cracker"
+      },
+      {
+        "ingredient": "2 (3 ounce) packages instant vanilla pudding mix",
+        "searchTerm": "vanilla pudding mix",
+        "normalizedName": "Vanilla Pudding Mix"
+      },
+      {
+        "ingredient": "3 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 (8 ounce) container frozen whipped topping, thawed",
+        "searchTerm": "whipped topping",
+        "normalizedName": "Whipped Topping"
+      },
+      {
+        "ingredient": "1 (16 ounce) package prepared chocolate frosting",
+        "searchTerm": "chocolate frosting",
+        "normalizedName": "Chocolate Frosting"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Arrange graham crackers in even rows for consistent portions",
+      "Mix pudding to proper thickness before folding in whipped topping",
+      "Spread frosting to edges to seal in moisture and maintain freshness"
+    ],
+    "coachingPrompt": "Help me create this simplified eclair dessert with the right consistency for each layer."
+  },
+  "timestamp": "2026-02-06T03:07:05.277Z"
+}

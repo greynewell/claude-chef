@@ -1,0 +1,63 @@
+{
+  "contentHash": "8c4bfa30152231bf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package penne pasta",
+        "searchTerm": "penne pasta",
+        "normalizedName": "Penne Pasta"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ pound thinly sliced pancetta bacon, chopped",
+        "searchTerm": "pancetta",
+        "normalizedName": "Pancetta"
+      },
+      {
+        "ingredient": "⅓ cup vodka",
+        "searchTerm": "vodka",
+        "normalizedName": "Vodka"
+      },
+      {
+        "ingredient": "½ cup heavy whipping cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "1 ½ cups tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Let vodka simmer for 1-2 minutes to allow alcohol to cook off and flavors to mellow",
+      "Add cream slowly to prevent curdling; keep heat moderate",
+      "Finish with Parmesan just before serving for best texture"
+    ],
+    "coachingPrompt": "What does the vodka contribute to this sauce beyond flavor?"
+  },
+  "timestamp": "2026-02-06T14:31:00.373Z"
+}

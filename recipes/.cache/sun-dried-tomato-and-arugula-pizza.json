@@ -1,0 +1,52 @@
+{
+  "contentHash": "95e6228b4fa82152",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "1 (12 inch) pre-baked pizza crust",
+        "searchTerm": "pizza crust",
+        "normalizedName": "Pizza Crust"
+      },
+      {
+        "ingredient": "2 cups shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 cup chopped sun-dried tomatoes",
+        "searchTerm": "sun-dried tomatoes",
+        "normalizedName": "Sun-Dried Tomato"
+      },
+      {
+        "ingredient": "2 cups chopped arugula",
+        "searchTerm": "arugula",
+        "normalizedName": "Arugula"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pizza Pan",
+        "searchTerm": "pizza pan"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Pizza Cutter",
+        "searchTerm": "pizza cutter"
+      }
+    ],
+    "cookingTips": [
+      "Add arugula after baking for a fresh, peppery bite that won't wilt",
+      "Use a pre-baked crust to ensure crispy base with minimal preparation time"
+    ],
+    "coachingPrompt": "How can I top a pizza while keeping fresh greens crisp and not wilted?"
+  },
+  "timestamp": "2026-02-06T19:48:32.185Z"
+}

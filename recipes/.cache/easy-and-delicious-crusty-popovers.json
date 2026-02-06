@@ -1,0 +1,53 @@
+{
+  "contentHash": "92e15b3b5fc87727",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "3 tablespoons butter, melted - divided",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Popover Pan",
+        "searchTerm": "popover pan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Bring ingredients to room temperature",
+      "Preheat pan in oven for 5 minutes",
+      "Don't open oven door while baking"
+    ],
+    "coachingPrompt": "What's the key to achieving the perfect rise and crispy exterior on these popovers?"
+  },
+  "timestamp": "2026-02-06T05:29:48.088Z"
+}

@@ -1,0 +1,72 @@
+{
+  "contentHash": "0e0dea70ea6ef588",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 tablespoon all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 tablespoon Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "¾ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¾ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "3 ½ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 (32 ounce) jar sliced dill pickles, drained",
+        "searchTerm": "dill pickles",
+        "normalizedName": "Dill Pickle"
+      },
+      {
+        "ingredient": "1 quart vegetable oil for deep-frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep fryer or heavy pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Drain pickles thoroughly on paper towels to prevent excess moisture in batter",
+      "Oil should reach 350°F for crispy exterior and hot interior"
+    ],
+    "coachingPrompt": "What temperature will you maintain for optimal crispiness, and how will you prevent the batter from becoming soggy?"
+  },
+  "timestamp": "2026-02-06T07:04:45.285Z"
+}

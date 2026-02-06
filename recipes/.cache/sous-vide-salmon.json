@@ -1,0 +1,52 @@
+{
+  "contentHash": "c4c92fbc61038156",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) salmon fillet",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon"
+      },
+      {
+        "ingredient": "1 shallot, finely chopped",
+        "searchTerm": "shallot",
+        "normalizedName": "Shallot"
+      },
+      {
+        "ingredient": "1 pinch salt and pepper",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch salt and pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sous Vide Machine",
+        "searchTerm": "immersion circulator"
+      },
+      {
+        "name": "Vacuum Bags",
+        "searchTerm": "vacuum sealer bags"
+      },
+      {
+        "name": "Cooking Thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Cook salmon at 152°F (67°C) for moist, flaky flesh without overcooking",
+      "Shallots infuse delicate flavor without overwhelming the fish"
+    ],
+    "coachingPrompt": "Educate the user on how sous vide locks in salmon's moisture and omega-3 benefits while achieving perfect doneness every time."
+  },
+  "timestamp": "2026-02-06T18:38:23.426Z"
+}

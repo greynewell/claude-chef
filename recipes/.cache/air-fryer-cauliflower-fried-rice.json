@@ -1,0 +1,53 @@
+{
+  "contentHash": "258b7f6425e857e9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) package frozen cauliflower rice",
+        "searchTerm": "frozen cauliflower rice",
+        "normalizedName": "Frozen Cauliflower Rice"
+      },
+      {
+        "ingredient": "2 large eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 slices ham, sliced, regular",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "¼ cup chopped green onions",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "2 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Air Fryer Basket",
+        "searchTerm": "air fryer basket"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Thaw cauliflower rice slightly and squeeze out excess moisture before cooking",
+      "Dice ham into small pieces and scramble eggs first for easier mixing",
+      "Cook at 350°F for 8-10 minutes, stirring halfway through until heated through and eggs are cooked"
+    ],
+    "coachingPrompt": "Guide me through preparing the ingredients, combining them with the cauliflower rice, and air frying until cooked through."
+  },
+  "timestamp": "2026-02-05T21:40:54.285Z"
+}

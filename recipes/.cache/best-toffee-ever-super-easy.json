@@ -1,0 +1,57 @@
+{
+  "contentHash": "af3eba55dc8fa45d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 cups semisweet chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Semisweet Chocolate Chip"
+      },
+      {
+        "ingredient": "1 cup finely chopped almonds",
+        "searchTerm": "almonds",
+        "normalizedName": "Almond"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Candy Thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "Heavy-Bottomed Saucepan",
+        "searchTerm": "heavy-bottomed saucepan"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Parchment Paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Use a candy thermometer and cook butter and sugar to the hard-crack stage (300-310°F) for proper toffee texture",
+      "Spread hot toffee quickly on parchment before it cools and hardens",
+      "Sprinkle chocolate chips on hot toffee immediately, wait 1 minute, spread, then top with almonds"
+    ],
+    "coachingPrompt": "Guide the user through proper candy-making temperature control. Help them understand the hard-crack stage and manage the timing for chocolate coating."
+  },
+  "timestamp": "2026-02-06T00:03:47.585Z"
+}

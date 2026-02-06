@@ -1,0 +1,58 @@
+{
+  "contentHash": "2888964f9c02d31d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 teaspoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "5 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 ¼ pounds large shrimp, peeled and deveined",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      }
+    ],
+    "gear": [
+      {
+        "name": "wok or skillet",
+        "searchTerm": "wok"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "serving plate",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Shrimp cooks very quickly; watch carefully to avoid overcooking",
+      "Get the oil very hot before adding garlic to prevent burning",
+      "Serve immediately while shrimp are still warm"
+    ],
+    "coachingPrompt": "Guide the user on proper timing and high heat management to achieve tender shrimp with aromatic garlic sauce."
+  },
+  "timestamp": "2026-02-06T05:45:16.338Z"
+}

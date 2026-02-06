@@ -1,0 +1,53 @@
+{
+  "contentHash": "9459eca03cc94fe3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "8 crimini mushrooms",
+        "searchTerm": "crimini mushroom",
+        "normalizedName": "Crimini Mushroom"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "¾ cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "melon baller or spoon"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Remove mushroom stems and gently scrape out the gills to create more room for stuffing",
+      "Cook bacon until crispy before crumbling to add to the filling mixture",
+      "Bake at 375°F for 15-20 minutes until mushrooms are tender and cheese is melted"
+    ],
+    "coachingPrompt": "How do you prepare mushroom caps to hold stuffing without releasing excess moisture, and what's the best baking temperature?"
+  },
+  "timestamp": "2026-02-05T22:48:30.242Z"
+}

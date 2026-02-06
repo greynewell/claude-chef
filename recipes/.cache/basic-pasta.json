@@ -1,0 +1,52 @@
+{
+  "contentHash": "076c42bc41fac93d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "pasta machine",
+        "searchTerm": "pasta machine"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      }
+    ],
+    "cookingTips": [
+      "Let dough rest for 30 minutes before rolling for easier handling",
+      "Roll pasta thin for tender noodles",
+      "Cook in salted boiling water for 2-3 minutes until al dente"
+    ],
+    "coachingPrompt": "What's the secret to achieving the right pasta dough consistency and how do I know when it's properly kneaded?"
+  },
+  "timestamp": "2026-02-05T23:33:33.024Z"
+}

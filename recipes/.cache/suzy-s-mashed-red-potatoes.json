@@ -1,0 +1,58 @@
+{
+  "contentHash": "6f6010be607374b3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds small red potatoes, quartered",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Potato masher",
+        "searchTerm": "masher"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Leave skins on red potatoes for texture and nutrition",
+      "Heat milk and butter together before mixing to keep potatoes warm",
+      "Don't overmix or potatoes become gluey"
+    ],
+    "coachingPrompt": "Why is it important to warm the liquid before adding to hot potatoes?"
+  },
+  "timestamp": "2026-02-06T19:55:06.203Z"
+}

@@ -1,0 +1,52 @@
+{
+  "contentHash": "2b6befd30a385389",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 leaves basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "2 slices prosciutto",
+        "searchTerm": "prosciutto",
+        "normalizedName": "Prosciutto"
+      },
+      {
+        "ingredient": "2 (4 ounce) fillets halibut",
+        "searchTerm": "halibut fillet",
+        "normalizedName": "Halibut"
+      },
+      {
+        "ingredient": "½ teaspoon adobo seasoning",
+        "searchTerm": "adobo seasoning",
+        "normalizedName": "Adobo Seasoning"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "cooking thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Wrap basil around fish before wrapping with prosciutto to keep it in place",
+      "Cook just until fish reaches 145°F internal temperature to keep it moist and tender"
+    ],
+    "coachingPrompt": "Do you prefer finishing this in the oven or on the stovetop only?"
+  },
+  "timestamp": "2026-02-05T23:34:21.977Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "b8ccad36f2697019",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 ¼ cups grape jelly",
+        "searchTerm": "grape jelly",
+        "normalizedName": "Grape Jelly"
+      },
+      {
+        "ingredient": "1 cup chili sauce",
+        "searchTerm": "chili sauce",
+        "normalizedName": "Chili Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons fresh lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Form meatballs into uniform sizes for even cooking",
+      "Stir the jelly-chili sauce mixture until smooth before adding meatballs",
+      "Keep on warm setting in slow cooker throughout the event for optimal texture"
+    ],
+    "coachingPrompt": "Help the user understand the simple ratio that makes these meatballs so popular and why lemon juice brightens the sweet-savory sauce."
+  },
+  "timestamp": "2026-02-06T03:35:59.940Z"
+}

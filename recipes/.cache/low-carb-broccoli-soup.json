@@ -1,0 +1,73 @@
+{
+  "contentHash": "383099815ce50a83",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 large onion, finely chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 pounds broccoli, chopped",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "5 cups vegetable broth",
+        "searchTerm": "vegetable broth",
+        "normalizedName": "Vegetable Broth"
+      },
+      {
+        "ingredient": "¼ cup freshly squeezed lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "¼ cup shredded Cheddar cheese, or as desired  (Optional)",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "cooking pot"
+      },
+      {
+        "name": "Immersion Blender",
+        "searchTerm": "stick blender"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "cutting knife"
+      }
+    ],
+    "cookingTips": [
+      "Blend soup for creamy texture or leave chunky for heartier consistency",
+      "Fresh lemon juice brightens the broccoli flavor",
+      "Add cheese for extra richness if desired"
+    ],
+    "coachingPrompt": "Help the user make a vibrant, creamy broccoli soup that's filling and naturally low in carbs."
+  },
+  "timestamp": "2026-02-06T11:35:12.627Z"
+}

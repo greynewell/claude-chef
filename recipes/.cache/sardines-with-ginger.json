@@ -1,0 +1,62 @@
+{
+  "contentHash": "aa5c23f631a1e90a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 teaspoon sesame oil",
+        "searchTerm": "sesame oil",
+        "normalizedName": "Sesame Oil"
+      },
+      {
+        "ingredient": "4 fresh sardines",
+        "searchTerm": "fresh sardines",
+        "normalizedName": "Fresh Sardine"
+      },
+      {
+        "ingredient": "3 tablespoons sake",
+        "searchTerm": "sake",
+        "normalizedName": "Sake"
+      },
+      {
+        "ingredient": "2 spring onions",
+        "searchTerm": "spring onions",
+        "normalizedName": "Spring Onion"
+      },
+      {
+        "ingredient": "1 ½ tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 ½ tablespoons mirin",
+        "searchTerm": "mirin",
+        "normalizedName": "Mirin"
+      },
+      {
+        "ingredient": "2 teaspoons chopped ginger",
+        "searchTerm": "ginger",
+        "normalizedName": "Ginger"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet or wok",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "cooking spoon"
+      }
+    ],
+    "cookingTips": [
+      "Fresh sardines should be cleaned and gutted just before cooking for best flavor and food safety",
+      "Combine sake, soy sauce, and mirin before adding to create a balanced glaze"
+    ],
+    "coachingPrompt": "Guide the user through Japanese cooking techniques and how ginger and sake work together to eliminate fishiness."
+  },
+  "timestamp": "2026-02-06T16:56:40.395Z"
+}

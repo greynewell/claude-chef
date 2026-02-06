@@ -1,0 +1,48 @@
+{
+  "contentHash": "e80db99f0bda1b62",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "1 cup buttermilk",
+        "searchTerm": "buttermilk",
+        "normalizedName": "Buttermilk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "knife for cross scoring",
+        "searchTerm": "serrated knife"
+      }
+    ],
+    "cookingTips": [
+      "Work quickly after combining ingredients to avoid overworking the dough",
+      "Score the top with a deep cross before baking to help it rise evenly",
+      "Bake at 425°F for 30-35 minutes until golden and hollow-sounding when tapped"
+    ],
+    "coachingPrompt": "This traditional recipe relies on the chemical reaction between baking soda and buttermilk. Help the user understand why speed matters and why the cross scoring is traditional and functional."
+  },
+  "timestamp": "2026-02-06T16:00:32.949Z"
+}

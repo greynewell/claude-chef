@@ -1,0 +1,53 @@
+{
+  "contentHash": "f66f5f2de6af6d4b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup vegetable oil, plus more if needed",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 (15 ounce) container ricotta cheese",
+        "searchTerm": "ricotta cheese",
+        "normalizedName": "Ricotta Cheese"
+      },
+      {
+        "ingredient": "1 (15 ounce) can unsweetened crushed pineapple, drained",
+        "searchTerm": "crushed pineapple",
+        "normalizedName": "Pineapple"
+      },
+      {
+        "ingredient": "1 (18.25 ounce) package white cake mix",
+        "searchTerm": "cake mix",
+        "normalizedName": "Cake Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Muffin Tin",
+        "searchTerm": "muffin pan"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Drain the pineapple well to prevent overly wet batter",
+      "Ricotta adds richness and moisture to these muffins",
+      "Bake at 350°F for 18-22 minutes until a toothpick inserted in the center comes out clean"
+    ],
+    "coachingPrompt": "What does ricotta do in the muffins and how does it affect the texture?"
+  },
+  "timestamp": "2026-02-06T14:49:02.569Z"
+}

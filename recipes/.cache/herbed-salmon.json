@@ -1,0 +1,53 @@
+{
+  "contentHash": "e141e474e5a80ff7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds salmon",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon"
+      },
+      {
+        "ingredient": "5 dried sage leaves",
+        "searchTerm": "dried sage",
+        "normalizedName": "Dried Sage"
+      },
+      {
+        "ingredient": "1 tablespoon dried thyme",
+        "searchTerm": "dried thyme",
+        "normalizedName": "Dried Thyme"
+      },
+      {
+        "ingredient": "1 pinch ground paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "1 pinch ground cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Place salmon skin-side down on parchment paper for easy cleanup",
+      "Bake at 400°F for 12-15 minutes until salmon flakes easily with a fork",
+      "Let salmon rest 5 minutes after cooking for best texture"
+    ],
+    "coachingPrompt": "What simple side dishes would pair well with this minimalist herb-crusted salmon?"
+  },
+  "timestamp": "2026-02-06T09:05:35.273Z"
+}

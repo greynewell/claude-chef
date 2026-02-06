@@ -1,0 +1,48 @@
+{
+  "contentHash": "bcc9146b4843d8a5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds minced chicken meat",
+        "searchTerm": "ground chicken",
+        "normalizedName": "Ground Chicken"
+      },
+      {
+        "ingredient": "2 ½ cups frozen vegetable blend (no garlic or onions), minced",
+        "searchTerm": "frozen vegetables",
+        "normalizedName": "Frozen Vegetable"
+      },
+      {
+        "ingredient": "4 cups rice",
+        "searchTerm": "rice",
+        "normalizedName": "Rice"
+      },
+      {
+        "ingredient": "6 ½ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Food processor",
+        "searchTerm": "food processor"
+      }
+    ],
+    "cookingTips": [
+      "Always verify vegetables contain no garlic or onions as they are toxic to dogs",
+      "Cool the mixture completely before serving to pets",
+      "Store in airtight containers in the refrigerator for up to 5 days"
+    ],
+    "coachingPrompt": "How would you modify this recipe to accommodate a dog with specific dietary restrictions or allergies?"
+  },
+  "timestamp": "2026-02-06T11:40:17.600Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "24123a30d7424b39",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "3 tablespoons vegetable oil, divided",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "5 potatoes, thinly sliced",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cooked and cubed ham, or to taste",
+        "searchTerm": "cooked ham",
+        "normalizedName": "Cooked Ham"
+      },
+      {
+        "ingredient": "1 pound thick-cut maple-cured bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 (12 ounce) bottle barbeque sauce, or to taste",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "1 (8 ounce) bottle ranch dressing, or to taste",
+        "searchTerm": "ranch dressing",
+        "normalizedName": "Ranch Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "Salad Bowl",
+        "searchTerm": "salad bowl"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Slice potatoes thinly and cook them until crispy on the edges for better texture contrast",
+      "Cook bacon and beef separately to manage timing and prevent overcrowding",
+      "Toss warm potatoes with barbecue sauce before combining with other ingredients for better flavor absorption"
+    ],
+    "coachingPrompt": "This warm salad has multiple meat components. How would you ensure all elements finish cooking at the same time?"
+  },
+  "timestamp": "2026-02-06T06:31:13.519Z"
+}

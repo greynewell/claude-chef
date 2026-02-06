@@ -1,0 +1,53 @@
+{
+  "contentHash": "f29a5d40066cf418",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 cup ranch salad dressing",
+        "searchTerm": "ranch salad dressing",
+        "normalizedName": "Ranch Salad Dressing"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "½ cup hot pepper sauce",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "mixing spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Poach chicken breast until cooked through, then shred finely for consistent texture",
+      "Mix cream cheese, ranch, and hot sauce before adding chicken and Cheddar",
+      "Keep warm in slow cooker on low setting for 2-3 hours, stirring occasionally"
+    ],
+    "coachingPrompt": "What's the best way to cook and shred chicken for a creamy hot wing dip that stays warm?"
+  },
+  "timestamp": "2026-02-06T12:47:07.813Z"
+}

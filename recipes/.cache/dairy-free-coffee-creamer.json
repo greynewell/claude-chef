@@ -1,0 +1,44 @@
+{
+  "contentHash": "99a98109fb7afb5c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup unsweetened almond milk",
+        "searchTerm": "almond milk",
+        "normalizedName": "Almond Milk"
+      },
+      {
+        "ingredient": "2 tablespoons maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "½ teaspoon cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "2 teaspoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Small jar with lid",
+        "searchTerm": "jar"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Mix cornstarch with a small amount of almond milk before combining with rest",
+      "Shake well before each use as cornstarch may settle",
+      "Store in refrigerator for up to 2 weeks"
+    ],
+    "coachingPrompt": "Do you prefer your creamer at a specific creaminess level, and would you like to adjust the sweetness?"
+  },
+  "timestamp": "2026-02-06T04:58:05.047Z"
+}

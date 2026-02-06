@@ -1,0 +1,49 @@
+{
+  "contentHash": "40e1f8533825ee9e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (6.5 ounce) can minced clams, drained with juice reserved",
+        "searchTerm": "canned clams",
+        "normalizedName": "Clam"
+      },
+      {
+        "ingredient": "2 dashes hot pepper sauce",
+        "searchTerm": "hot sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      },
+      {
+        "ingredient": "3 dashes Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl"
+      },
+      {
+        "name": "rubber spatula"
+      },
+      {
+        "name": "serving spoon"
+      }
+    ],
+    "cookingTips": [
+      "Reserve clam juice to add moisture if the dip becomes too thick",
+      "Ensure cream cheese is fully softened for smooth blending"
+    ],
+    "coachingPrompt": "Guide the cook to balance the umami flavors of clams and Worcestershire sauce with appropriate heat levels."
+  },
+  "timestamp": "2026-02-06T12:03:15.281Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "ff9354e83615f597",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¾ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Let batter rest for 15 minutes before cooking",
+      "Use medium-low heat to prevent burning the bottoms",
+      "Flip gently to avoid deflating the pancakes"
+    ],
+    "coachingPrompt": "German pancakes are delicate and require gentle handling. Are you comfortable with thin pancake cooking, or would you like tips on achieving the right consistency?"
+  },
+  "timestamp": "2026-02-05T23:29:31.575Z"
+}

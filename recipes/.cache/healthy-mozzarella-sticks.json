@@ -1,0 +1,58 @@
+{
+  "contentHash": "e78f46f2e0024ee5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "5 tablespoons dry bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "2 tablespoons grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "12 (1 ounce) sticks string cheese, halved and frozen",
+        "searchTerm": "string cheese",
+        "normalizedName": "String Cheese"
+      },
+      {
+        "ingredient": "olive oil, or as needed",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "shallow bowl",
+        "searchTerm": "shallow bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "deep fryer or heavy pot",
+        "searchTerm": "deep fryer"
+      }
+    ],
+    "cookingTips": [
+      "Freeze cheese sticks for at least 2 hours before breading for best results",
+      "Keep oil temperature at 350°F to achieve golden coating without melting cheese",
+      "Bread just before frying to prevent soggy coating"
+    ],
+    "coachingPrompt": "Help the user understand how to prevent the cheese from leaking out during cooking and suggest serving options like marinara sauce."
+  },
+  "timestamp": "2026-02-06T08:58:01.836Z"
+}

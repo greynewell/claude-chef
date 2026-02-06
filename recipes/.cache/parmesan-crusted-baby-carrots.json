@@ -1,0 +1,38 @@
+{
+  "contentHash": "39205ffece50f940",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound carrots, chopped",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Toss carrots in melted butter before adding Parmesan to ensure even coating",
+      "Roast at 400°F for 20-25 minutes until carrots are tender and cheese is golden"
+    ],
+    "coachingPrompt": "How can you ensure the Parmesan cheese doesn't burn while roasting these carrots?"
+  },
+  "timestamp": "2026-02-06T14:10:37.095Z"
+}

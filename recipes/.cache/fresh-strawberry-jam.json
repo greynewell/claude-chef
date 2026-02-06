@@ -1,0 +1,63 @@
+{
+  "contentHash": "cadcbf0182a2f686",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 apples, stemmed, coarsely chopped (including core and seeds)",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "1 lemon, chopped (including rind and seeds)",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 pounds fresh strawberries, hulled",
+        "searchTerm": "fresh strawberry",
+        "normalizedName": "Fresh Strawberry"
+      },
+      {
+        "ingredient": "1 1/2 cups pectin puree",
+        "searchTerm": "pectin puree",
+        "normalizedName": "Pectin Puree"
+      },
+      {
+        "ingredient": "2 ¼ cups white sugar, divided",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon fresh lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "jar sterilizer",
+        "searchTerm": "jar sterilizer"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Use apples for natural pectin to achieve proper gel without commercial pectin",
+      "Cook strawberries with lemon to enhance flavor and add natural acidity",
+      "Test jam setting by dropping small amount on cold plate to check consistency"
+    ],
+    "coachingPrompt": "Guide the user through making jam with natural pectin sources, proper cooking temperatures, and safe jar sterilization techniques."
+  },
+  "timestamp": "2026-02-06T07:00:40.743Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "61e8c506a52ece67",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 head cauliflower, broken into florets",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 ⅔ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "3 ½ ounces grated sharp Cheddar cheese",
+        "searchTerm": "sharp cheddar cheese",
+        "normalizedName": "Sharp Cheddar Cheese"
+      },
+      {
+        "ingredient": "salt and ground white pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground white pepper to taste",
+        "searchTerm": "white pepper",
+        "normalizedName": "White Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Steam or boil cauliflower until just tender to maintain texture",
+      "Use white pepper to keep the sauce visually uniform",
+      "Reserve some cheese to sprinkle on top before baking for a golden finish"
+    ],
+    "coachingPrompt": "What temperature and time would you use to bake this dish until golden?"
+  },
+  "timestamp": "2026-02-06T01:36:35.339Z"
+}

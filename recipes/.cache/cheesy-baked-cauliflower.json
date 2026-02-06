@@ -1,0 +1,49 @@
+{
+  "contentHash": "93d06a43195d6b81",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 head cauliflower",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon prepared mustard",
+        "searchTerm": "prepared mustard",
+        "normalizedName": "Prepared Mustard"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cut cauliflower florets to uniform size for even cooking",
+      "Mix mayonnaise and mustard into butter before applying to vegetables",
+      "Bake until cauliflower is tender and cheese is golden"
+    ],
+    "coachingPrompt": "How will you distribute the butter mixture evenly over all cauliflower florets?"
+  },
+  "timestamp": "2026-02-06T01:48:50.554Z"
+}

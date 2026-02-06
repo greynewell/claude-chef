@@ -1,0 +1,53 @@
+{
+  "contentHash": "0f39fad02c4e7769",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup baby spinach leaves",
+        "searchTerm": "baby spinach",
+        "normalizedName": "Baby Spinach"
+      },
+      {
+        "ingredient": "½ cup arugula",
+        "searchTerm": "arugula",
+        "normalizedName": "Arugula"
+      },
+      {
+        "ingredient": "1 clove garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 bone-in chicken thigh with skin",
+        "searchTerm": "chicken thighs",
+        "normalizedName": "Chicken Thigh"
+      },
+      {
+        "ingredient": "¼ teaspoon seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "kitchen knife"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Stuff greens under the skin for maximum flavor integration",
+      "Skin-on thighs keep meat moist during cooking",
+      "Cook skin-side down first to render fat and crisp skin"
+    ],
+    "coachingPrompt": "How do I stuff greens under chicken skin and cook it so the chicken stays moist and the skin gets crispy?"
+  },
+  "timestamp": "2026-02-06T06:02:24.538Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "3142d4174c51d32a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 ½ teaspoons kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "1 teaspoon cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "2 ½ cups whole almonds",
+        "searchTerm": "almond",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "1 tablespoon water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 teaspoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Toss almonds with wet ingredients first to help dry spices adhere",
+      "Spread almonds in single layer on baking sheet to ensure even roasting",
+      "Stir halfway through baking and watch closely toward end to prevent burning"
+    ],
+    "coachingPrompt": "How would you ensure the spice coating adheres properly to the almonds during roasting?"
+  },
+  "timestamp": "2026-02-06T19:59:40.999Z"
+}

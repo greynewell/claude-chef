@@ -1,0 +1,77 @@
+{
+  "contentHash": "61e2a86a6fec0ec2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup shortening",
+        "searchTerm": "shortening",
+        "normalizedName": "Shortening"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "4 teaspoons baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "¼ teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "2 (.25 ounce) packages active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "¾ cup warm water",
+        "searchTerm": "warm water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 cups lukewarm buttermilk",
+        "searchTerm": "buttermilk",
+        "normalizedName": "Buttermilk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Dough Hook",
+        "searchTerm": "dough hook"
+      }
+    ],
+    "cookingTips": [
+      "Ensure water and buttermilk are truly lukewarm to activate yeast without killing it",
+      "Allow dough to rise for 1-2 hours until doubled in size for developed flavor",
+      "Bake until golden brown on top, about 15-20 minutes"
+    ],
+    "coachingPrompt": "Help the user understand how yeast fermentation creates tangy flavor despite using shortening instead of traditional sourdough method."
+  },
+  "timestamp": "2026-02-06T06:27:30.687Z"
+}

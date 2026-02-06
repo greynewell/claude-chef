@@ -1,0 +1,63 @@
+{
+  "contentHash": "47fa0c6f38c6892f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "unsweetened applesauce",
+        "searchTerm": "applesauce",
+        "normalizedName": "Unsweetened Applesauce"
+      },
+      {
+        "ingredient": "steel cut oats",
+        "searchTerm": "steel cut oats",
+        "normalizedName": "Steel Cut Oat"
+      },
+      {
+        "ingredient": "Granny Smith apples",
+        "searchTerm": "granny smith apples",
+        "normalizedName": "Granny Smith Apple"
+      },
+      {
+        "ingredient": "ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "granular no-calorie sucralose sweetener",
+        "searchTerm": "sucralose sweetener",
+        "normalizedName": "Sucralose Sweetener"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "peeler",
+        "searchTerm": "peeler"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Use cooking spray to prevent sticking; do not grease with oil or butter",
+      "Dice apples uniformly and add just before cooking to prevent browning",
+      "Stir oatmeal occasionally during cooking to prevent settling and ensure even texture"
+    ],
+    "coachingPrompt": "Help the user prepare overnight or all-day oatmeal with proper apple incorporation and sweetener balance."
+  },
+  "timestamp": "2026-02-06T18:08:28.916Z"
+}

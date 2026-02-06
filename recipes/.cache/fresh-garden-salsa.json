@@ -1,0 +1,73 @@
+{
+  "contentHash": "d198bfaf4b9eca23",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "7 cups tomatoes, diced, seeded, peeled, and cored",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "6 green onions, sliced",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "2 jalapeno peppers, diced",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "4 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ cup vinegar",
+        "searchTerm": "vinegar",
+        "normalizedName": "Vinegar"
+      },
+      {
+        "ingredient": "2 tablespoons lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "4 drops hot pepper sauce",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons minced cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "canning jars",
+        "searchTerm": "mason jars"
+      }
+    ],
+    "cookingTips": [
+      "Seed and peel tomatoes thoroughly to remove excess liquid and prevent watery salsa",
+      "Allow salsa to refrigerate for at least 2 hours before serving to let flavors meld",
+      "Wear gloves when handling jalapenos to protect skin from oils"
+    ],
+    "coachingPrompt": "Explain the canning process mentioned in ingredients and best practices for storing fresh salsa."
+  },
+  "timestamp": "2026-02-06T06:58:44.017Z"
+}

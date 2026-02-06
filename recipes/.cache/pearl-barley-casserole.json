@@ -1,0 +1,72 @@
+{
+  "contentHash": "1b8189beab0acfb9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "onion, large chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "celery rib, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "pearl barley",
+        "searchTerm": "pearl barley",
+        "normalizedName": "Pearl Barley"
+      },
+      {
+        "ingredient": "mushroom, fresh sliced",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "green bell pepper, chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "black pepper, ground",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Sauté vegetables first to develop deeper flavor before adding barley",
+      "Cover the casserole to retain moisture while barley cooks"
+    ],
+    "coachingPrompt": "How does sautéing the aromatics affect the overall depth of flavor in this casserole?"
+  },
+  "timestamp": "2026-02-06T14:28:16.120Z"
+}

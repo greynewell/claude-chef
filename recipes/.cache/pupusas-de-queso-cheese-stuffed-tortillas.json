@@ -1,0 +1,43 @@
+{
+  "contentHash": "9b928a48ab194cc1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups masa harina",
+        "searchTerm": "masa harina",
+        "normalizedName": "Masa Harina"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup queso fresco, crumbled",
+        "searchTerm": "queso fresco",
+        "normalizedName": "Queso Fresco"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Tortilla press",
+        "searchTerm": "tortilla press"
+      }
+    ],
+    "cookingTips": [
+      "Keep dough moist by covering with damp cloth between shaping",
+      "Fill generously with cheese but leave borders clear for sealing",
+      "Cook on medium heat until golden and slightly crispy on edges"
+    ],
+    "coachingPrompt": "Pupusas are thick stuffed tortillas. What texture changes occur during cooking that indicate they're done?"
+  },
+  "timestamp": "2026-02-06T15:33:59.436Z"
+}

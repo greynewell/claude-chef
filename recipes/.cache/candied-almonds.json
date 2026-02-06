@@ -1,0 +1,48 @@
+{
+  "contentHash": "22132566379679fe",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "2 cups whole almonds",
+        "searchTerm": "almonds",
+        "normalizedName": "Almond"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "candy thermometer",
+        "searchTerm": "candy thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Watch the mixture carefully to prevent burning",
+      "Spread almonds on parchment paper immediately after coating",
+      "Let cool completely before breaking apart"
+    ],
+    "coachingPrompt": "Guide the user through achieving the right syrup consistency and preventing crystallization."
+  },
+  "timestamp": "2026-02-06T01:18:28.872Z"
+}

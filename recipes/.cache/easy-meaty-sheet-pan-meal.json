@@ -1,0 +1,68 @@
+{
+  "contentHash": "cc20099de7474a5b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds boneless, skinless chicken thighs",
+        "searchTerm": "chicken thigh",
+        "normalizedName": "Chicken Thigh"
+      },
+      {
+        "ingredient": "1 pound tiny new potatoes",
+        "searchTerm": "new potato",
+        "normalizedName": "New Potato"
+      },
+      {
+        "ingredient": "2 cups cherry tomatoes",
+        "searchTerm": "cherry tomato",
+        "normalizedName": "Cherry Tomato"
+      },
+      {
+        "ingredient": "2 teaspoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ cup pesto",
+        "searchTerm": "pesto",
+        "normalizedName": "Pesto"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh basil",
+        "searchTerm": "basil",
+        "normalizedName": "Basil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sheet pan",
+        "searchTerm": "sheet pan"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes into uniform pieces for even cooking",
+      "Toss vegetables with oil and salt before adding chicken",
+      "Bake at 425°F for 25-30 minutes until chicken reaches 165°F internally"
+    ],
+    "coachingPrompt": "Teach the user how to arrange ingredients on a sheet pan so everything cooks at the same rate with proper spacing for heat circulation."
+  },
+  "timestamp": "2026-02-06T05:51:21.836Z"
+}

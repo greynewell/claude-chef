@@ -1,0 +1,43 @@
+{
+  "contentHash": "4acb6f36500f04c0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ripe bananas",
+        "searchTerm": "ripe bananas",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "½ cup oats",
+        "searchTerm": "rolled oats",
+        "normalizedName": "Oat"
+      },
+      {
+        "ingredient": "¼ cup chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Use very ripe bananas for natural sweetness and easier mashing",
+      "Mash bananas thoroughly to avoid chunks in the cookie dough",
+      "Don't overbake; cookies will continue cooking on the hot sheet after removal"
+    ],
+    "coachingPrompt": "Walk me through making 3-ingredient banana oat cookies from start to finish."
+  },
+  "timestamp": "2026-02-05T21:25:21.009Z"
+}

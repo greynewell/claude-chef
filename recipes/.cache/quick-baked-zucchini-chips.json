@@ -1,0 +1,53 @@
+{
+  "contentHash": "e1ec8c190a52cec7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "medium zucchini",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "seasoned dry bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "egg whites",
+        "searchTerm": "egg whites",
+        "normalizedName": "Egg White"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "rimmed baking sheet"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "shallow bowl",
+        "searchTerm": "shallow bowl for breading"
+      }
+    ],
+    "cookingTips": [
+      "Pat zucchini slices dry before breading to prevent sogginess",
+      "Use parchment paper to prevent sticking and make cleanup easier",
+      "Bake on the middle rack at 400°F for 15-20 minutes until golden and crispy"
+    ],
+    "coachingPrompt": "What's the best way to make baked zucchini chips crispy instead of soft and mushy?"
+  },
+  "timestamp": "2026-02-06T15:40:18.489Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "4c9b133e286d0089",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 teaspoons butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 slices cinnamon-raisin bread",
+        "searchTerm": "cinnamon raisin bread",
+        "normalizedName": "Cinnamon-Raisin Bread"
+      },
+      {
+        "ingredient": "½ Granny Smith apple - peeled, cored, and thinly sliced",
+        "searchTerm": "granny smith apple",
+        "normalizedName": "Granny Smith Apple"
+      },
+      {
+        "ingredient": "⅔ cup shredded Gruyere cheese",
+        "searchTerm": "gruyere cheese",
+        "normalizedName": "Gruyere Cheese"
+      },
+      {
+        "ingredient": "6 sprigs fresh thyme, leaves removed",
+        "searchTerm": "fresh thyme",
+        "normalizedName": "Fresh Thyme"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Slice the apple thinly and immediately to prevent browning",
+      "Butter the outside of bread for even golden-brown crust",
+      "Use low to medium heat to allow cheese to melt before bread burns"
+    ],
+    "coachingPrompt": "Guide the user through achieving a crispy exterior while ensuring the cheese melts completely, and suggest the best way to incorporate fresh thyme for optimal flavor."
+  },
+  "timestamp": "2026-02-06T08:12:09.119Z"
+}

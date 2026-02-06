@@ -1,0 +1,68 @@
+{
+  "contentHash": "07952b99ade651be",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon white vinegar",
+        "searchTerm": "white vinegar",
+        "normalizedName": "White Vinegar"
+      },
+      {
+        "ingredient": "1 tablespoon mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¼ teaspoon prepared mustard",
+        "searchTerm": "prepared mustard",
+        "normalizedName": "Prepared Mustard"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "2 leaves of lettuce",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Serving platter",
+        "searchTerm": "platter"
+      }
+    ],
+    "cookingTips": [
+      "Vinegar adds tang to balance the richness of mayo",
+      "Use lettuce leaves as a base to prevent eggs from sliding",
+      "Add paprika just before serving for visual appeal"
+    ],
+    "coachingPrompt": "Why would you choose vinegar as a flavor component in deviled eggs?"
+  },
+  "timestamp": "2026-02-06T05:12:59.432Z"
+}

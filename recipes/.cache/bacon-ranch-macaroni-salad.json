@@ -1,0 +1,53 @@
+{
+  "contentHash": "16b724d819e586c6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 pound elbow macaroni",
+        "searchTerm": "elbow macaroni",
+        "normalizedName": "Elbow Macaroni"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "½ small red onion, diced very small",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "½ small green bell pepper, diced very small",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 (1 ounce) package ranch salad dressing mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Ranch Dressing Mix"
+      },
+      {
+        "ingredient": "1 (8 ounce) package Cheddar cheese, cut into small cubes",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      "large pot",
+      "mixing bowl",
+      "cutting board"
+    ],
+    "cookingTips": [
+      "Cool pasta completely before mixing with dressing to prevent mushiness",
+      "Make dressing just before serving and stir well to distribute evenly"
+    ],
+    "coachingPrompt": "Do you prefer this salad fresh or does it taste better the next day? Storage tips would help."
+  },
+  "timestamp": "2026-02-05T22:51:53.689Z"
+}

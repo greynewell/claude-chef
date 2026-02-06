@@ -1,0 +1,43 @@
+{
+  "contentHash": "b44c80f10699e44f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup chopped almonds",
+        "searchTerm": "chopped almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "2 cups milk chocolate chips",
+        "searchTerm": "milk chocolate chips",
+        "normalizedName": "Milk Chocolate Chip"
+      },
+      {
+        "ingredient": "1 tablespoon shortening",
+        "searchTerm": "shortening",
+        "normalizedName": "Shortening"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Double boiler",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Use a double boiler or microwave in 30-second intervals to melt chocolate gently without burning",
+      "Add shortening to thin the chocolate slightly for easier spreading",
+      "Spread on parchment-lined baking sheet and scatter almonds while chocolate is still warm"
+    ],
+    "coachingPrompt": "Explain the importance of gentle melting to avoid seized chocolate, and guide setting and breaking into pieces."
+  },
+  "timestamp": "2026-02-06T02:57:29.769Z"
+}

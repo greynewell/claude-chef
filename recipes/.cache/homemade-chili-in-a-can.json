@@ -1,0 +1,68 @@
+{
+  "contentHash": "0d24e1667b2a457e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 tablespoon minced garlic, or to taste",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ teaspoon taco seasoning mix, or more to taste",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning"
+      },
+      {
+        "ingredient": "2 (14.5 ounce) cans diced stewed tomatoes with chili seasonings",
+        "searchTerm": "diced stewed tomatoes canned",
+        "normalizedName": "Stewed Tomato"
+      },
+      {
+        "ingredient": "3 (16 ounce) cans chili beans, undrained",
+        "searchTerm": "chili beans canned",
+        "normalizedName": "Chili Bean"
+      },
+      {
+        "ingredient": "1 (15 ounce) can tomato sauce",
+        "searchTerm": "tomato sauce canned",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "1 (4 ounce) can diced green chilies",
+        "searchTerm": "diced green chilies canned",
+        "normalizedName": "Green Chile"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Can Opener",
+        "searchTerm": "can opener"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly before adding aromatics to render fat and develop flavor",
+      "Simmer uncovered for 30-45 minutes to allow flavors to meld and thicken slightly",
+      "Use seasoning-included canned tomatoes to reduce sodium adjustments needed"
+    ],
+    "coachingPrompt": "Help the user understand how to build depth of flavor using quality canned ingredients and proper browning technique."
+  },
+  "timestamp": "2026-02-06T09:12:20.784Z"
+}

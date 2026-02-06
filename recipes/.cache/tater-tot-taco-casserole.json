@@ -1,0 +1,73 @@
+{
+  "contentHash": "135518434f84fc49",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 small onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 packet taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning Mix"
+      },
+      {
+        "ingredient": "1 bag frozen Mexican-style corn",
+        "searchTerm": "mexican corn",
+        "normalizedName": "Mexican-Style Corn"
+      },
+      {
+        "ingredient": "1 can black beans, rinsed and drained",
+        "searchTerm": "black beans",
+        "normalizedName": "Black Bean"
+      },
+      {
+        "ingredient": "1 bag shredded Mexican cheese blend",
+        "searchTerm": "mexican cheese blend",
+        "normalizedName": "Mexican Cheese Blend"
+      },
+      {
+        "ingredient": "1 package frozen tater tots",
+        "searchTerm": "tater tots",
+        "normalizedName": "Tater Tot"
+      },
+      {
+        "ingredient": "1 can enchilada sauce",
+        "searchTerm": "enchilada sauce",
+        "normalizedName": "Enchilada Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef with onion and garlic before adding taco seasoning",
+      "Add water to taco seasoning according to package directions",
+      "Layer enchilada sauce on bottom of dish before adding other ingredients"
+    ],
+    "coachingPrompt": "How can you layer casserole ingredients for optimal flavor distribution?"
+  },
+  "timestamp": "2026-02-06T20:21:31.199Z"
+}

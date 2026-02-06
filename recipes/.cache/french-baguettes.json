@@ -1,0 +1,63 @@
+{
+  "contentHash": "0be6de9b9cbc7c44",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 ½ cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ½ teaspoons bread machine yeast",
+        "searchTerm": "bread machine yeast",
+        "normalizedName": "Bread Machine Yeast"
+      },
+      {
+        "ingredient": "1 egg yolk",
+        "searchTerm": "egg yolk",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "1 tablespoon water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bread machine",
+        "searchTerm": "bread machine"
+      },
+      {
+        "name": "baguette pan",
+        "searchTerm": "baguette pan"
+      },
+      {
+        "name": "kitchen scale",
+        "searchTerm": "kitchen scale"
+      }
+    ],
+    "cookingTips": [
+      "Use bread machine for dough cycle only, then shape and bake manually for authentic crust",
+      "Create steam in oven by placing water pan on lower rack for crispy exterior",
+      "Score loaves with sharp knife before baking to control expansion"
+    ],
+    "coachingPrompt": "Help the baker use the bread machine efficiently and explain how to achieve proper baguette shape and crust."
+  },
+  "timestamp": "2026-02-06T06:52:48.682Z"
+}

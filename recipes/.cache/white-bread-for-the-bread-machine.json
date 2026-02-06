@@ -1,0 +1,58 @@
+{
+  "contentHash": "6ef0253bf976ce42",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup warm water (110 degrees F/45 degrees C)",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 ½ teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "3 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "3 cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "2 ¼ teaspoons active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Bread machine",
+        "searchTerm": "bread machine"
+      },
+      {
+        "name": "Measuring cups",
+        "searchTerm": "measuring cup"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Water temperature is critical; use 110°F (43°C) for optimal yeast activation",
+      "Add ingredients in the order specified by your bread machine manual",
+      "Use bread flour rather than all-purpose for better structure"
+    ],
+    "coachingPrompt": "Guide the user through water temperature importance, ingredient ordering for bread machines, and explain the role of each component in successful bread making."
+  },
+  "timestamp": "2026-02-06T22:03:10.860Z"
+}

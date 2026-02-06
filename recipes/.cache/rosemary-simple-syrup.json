@@ -1,0 +1,42 @@
+{
+  "contentHash": "046c58ef8861c7d1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ cup rosemary leaves",
+        "searchTerm": "rosemary",
+        "normalizedName": "Rosemary"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Jar",
+        "searchTerm": "glass jar"
+      },
+      {
+        "name": "Strainer",
+        "searchTerm": "fine mesh strainer"
+      }
+    ],
+    "cookingTips": [
+      "Heat until sugar dissolves, then remove from heat and let rosemary steep",
+      "Strain before storing to remove herb solids for clarity"
+    ],
+    "coachingPrompt": "How long should I steep rosemary in the syrup for best flavor?"
+  },
+  "timestamp": "2026-02-06T16:35:07.583Z"
+}

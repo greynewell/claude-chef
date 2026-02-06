@@ -1,0 +1,78 @@
+{
+  "contentHash": "0ff94f3f5de91b49",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 slices white bread, cut into cubes",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "¼ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "½ cup raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      },
+      {
+        "ingredient": "6 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 teaspoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "3 cups hot milk (160 degrees F/71 degrees C)",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 pinch ground nutmeg",
+        "searchTerm": "ground nutmeg",
+        "normalizedName": "Ground Nutmeg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Water Bath Pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Hot milk speeds up cooking and ensures even custard setting throughout the pudding",
+      "Layer bread cubes with raisins before pouring custard for even distribution",
+      "Water bath prevents edges from overcooking while center remains creamy"
+    ],
+    "coachingPrompt": "This version specifies hot milk temperature. How does hot milk affect custard cook time and final texture compared to room temperature milk?"
+  },
+  "timestamp": "2026-02-06T00:35:57.449Z"
+}

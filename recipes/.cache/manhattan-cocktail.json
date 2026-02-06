@@ -1,0 +1,53 @@
+{
+  "contentHash": "88fba728d568d8ac",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 fluid ounces rye whiskey",
+        "searchTerm": "rye whiskey",
+        "normalizedName": "Rye Whiskey"
+      },
+      {
+        "ingredient": "½ fluid ounce sweet vermouth",
+        "searchTerm": "sweet vermouth",
+        "normalizedName": "Sweet Vermouth"
+      },
+      {
+        "ingredient": "1 dash Angostura bitters",
+        "searchTerm": "Angostura bitters",
+        "normalizedName": "Angostura Bitters"
+      },
+      {
+        "ingredient": "1 cup ice cubes",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      },
+      {
+        "ingredient": "1 maraschino cherry",
+        "searchTerm": "maraschino cherry",
+        "normalizedName": "Maraschino Cherry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing glass",
+        "searchTerm": "mixing glass"
+      },
+      {
+        "name": "bar spoon",
+        "searchTerm": "bar spoon"
+      },
+      {
+        "name": "cocktail strainer",
+        "searchTerm": "cocktail strainer"
+      }
+    ],
+    "cookingTips": [
+      "Stir rather than shake for proper dilution and temperature",
+      "Use quality ice that melts slowly to avoid over-watering the drink",
+      "Chill the glass beforehand for the perfect serving temperature"
+    ],
+    "coachingPrompt": "I'm making a classic Manhattan cocktail. Should I stir or shake it?"
+  },
+  "timestamp": "2026-02-06T11:52:41.835Z"
+}

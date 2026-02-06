@@ -1,0 +1,63 @@
+{
+  "contentHash": "64553252291afbe2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (10 ounce) cans diced tomatoes with green chile peppers",
+        "searchTerm": "diced tomatoes green chile",
+        "normalizedName": "Diced Tomato with Green Chile"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can petite diced tomatoes with chipotle",
+        "searchTerm": "diced tomatoes chipotle",
+        "normalizedName": "Diced Tomato with Chipotle"
+      },
+      {
+        "ingredient": "¼ onion, coarsely chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 clove garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 lime, juiced",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "3 slices pickled jalapeno peppers",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Pickled Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 bunch fresh cilantro leaves",
+        "searchTerm": "cilantro",
+        "normalizedName": "Fresh Cilantro"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Pulse ingredients to achieve restaurant-style chunky texture, not pureed",
+      "Use fresh lime juice rather than bottled for brighter flavor",
+      "Make salsa at least 1 hour ahead to allow flavors to meld"
+    ],
+    "coachingPrompt": "How can we balance the heat from chipotle and jalapeno with the freshness of cilantro and lime?"
+  },
+  "timestamp": "2026-02-06T16:09:17.995Z"
+}

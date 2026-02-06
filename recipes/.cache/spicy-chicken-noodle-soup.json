@@ -1,0 +1,73 @@
+{
+  "contentHash": "af5af14964245de8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 skinless, boneless chicken breast halves, diced",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "6 cups vegetable broth",
+        "searchTerm": "vegetable broth",
+        "normalizedName": "Vegetable Broth"
+      },
+      {
+        "ingredient": "3 carrots, sliced",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "½ cup frozen corn",
+        "searchTerm": "frozen corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "1 (8 ounce) package dried thin rice noodles",
+        "searchTerm": "rice noodles",
+        "normalizedName": "Rice Noodle"
+      },
+      {
+        "ingredient": "1 red bell pepper, diced",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon dried basil",
+        "searchTerm": "basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "½ teaspoon chili pepper flakes, or to taste",
+        "searchTerm": "chili pepper flakes",
+        "normalizedName": "Chili Pepper Flake"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large soup pot",
+        "searchTerm": "soup pot"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook noodles separately and add just before serving to prevent mushiness",
+      "Add delicate vegetables like bell pepper near the end",
+      "Taste and adjust seasoning after chicken is fully cooked"
+    ],
+    "coachingPrompt": "Guide the user through proper noodle cooking technique and building layers of flavor in the broth."
+  },
+  "timestamp": "2026-02-06T18:57:47.542Z"
+}

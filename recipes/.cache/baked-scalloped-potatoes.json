@@ -1,0 +1,53 @@
+{
+  "contentHash": "9a2206058b857900",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 large peeled, cubed potatoes",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 ¼ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "kitchen knife"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cube potatoes uniformly so they cook at the same rate",
+      "Thin milk with soup for a creamy sauce that distributes evenly",
+      "Cover with foil for first half of baking to prevent browning before potatoes soften"
+    ],
+    "coachingPrompt": "Explain how to layer potatoes and onions to ensure even cooking and creamy texture throughout."
+  },
+  "timestamp": "2026-02-05T23:12:38.644Z"
+}

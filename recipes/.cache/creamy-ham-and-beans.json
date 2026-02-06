@@ -1,0 +1,58 @@
+{
+  "contentHash": "aa10f17ae8d11cf1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 gallon boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 pounds dry great Northern beans",
+        "searchTerm": "dried great Northern bean",
+        "normalizedName": "Dried Great Northern Bean"
+      },
+      {
+        "ingredient": "2 onions, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "6 cups chopped ham",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "2 (10.75 ounce) cans condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "8 ounces processed cheese food (eg. Velveeta), sliced",
+        "searchTerm": "processed cheese",
+        "normalizedName": "Processed Cheese Food"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "Soak beans overnight or use quick-soak method for faster cooking",
+      "Discard foam that rises during initial boiling",
+      "Stir in cheese at the end and do not boil to prevent breaking"
+    ],
+    "coachingPrompt": "Help the cook create a comforting, soul-warming dish with perfectly cooked beans and creamy cheese."
+  },
+  "timestamp": "2026-02-06T04:27:12.896Z"
+}

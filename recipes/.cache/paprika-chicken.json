@@ -1,0 +1,53 @@
+{
+  "contentHash": "019f5b4adc6ab4b3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 skinless, boneless chicken breasts",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pinch garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 teaspoon poultry seasoning",
+        "searchTerm": "poultry seasoning",
+        "normalizedName": "Poultry Seasoning"
+      },
+      {
+        "ingredient": "2 teaspoons paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Mix all seasonings together and rub onto chicken breasts evenly",
+      "Bake at 375°F for 20-25 minutes until internal temperature reaches 165°F",
+      "Let chicken rest 5 minutes after cooking before serving"
+    ],
+    "coachingPrompt": "Do you prefer baked, grilled, or pan-seared preparation for this simple seasoned chicken?"
+  },
+  "timestamp": "2026-02-06T14:08:48.914Z"
+}

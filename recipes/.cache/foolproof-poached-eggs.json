@@ -1,0 +1,53 @@
+{
+  "contentHash": "9efa47072902a079",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 organic eggs",
+        "searchTerm": "organic egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 teaspoons white vinegar",
+        "searchTerm": "white vinegar",
+        "normalizedName": "White Vinegar"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pinch dried dill, or to taste",
+        "searchTerm": "dried dill",
+        "normalizedName": "Dried Dill"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan or pot",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "slotted spoon"
+      },
+      {
+        "name": "small cup or ramekin",
+        "searchTerm": "small cup"
+      }
+    ],
+    "cookingTips": [
+      "Use white vinegar in the water to help set the egg whites quickly without affecting flavor",
+      "Maintain a gentle simmer, not a rolling boil, to prevent eggs from breaking apart",
+      "Gently slide eggs into the water from a small cup for the cleanest results"
+    ],
+    "coachingPrompt": "Explain the vinegar trick and the importance of water temperature and gentle handling for foolproof poached eggs."
+  },
+  "timestamp": "2026-02-06T06:50:39.451Z"
+}

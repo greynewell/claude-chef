@@ -67,7 +67,8 @@ export function renderDocsPage(): string {
   <meta name="twitter:image" content="${DEFAULT_OG_IMAGE}">
   <script type="application/ld+json">${JSON.stringify(breadcrumbJsonLd)}</script>
   ${googleFonts()}
-  <style>${baseStyles()}${docsStyles()}</style>
+  <link rel="stylesheet" href="/styles.css">
+  <style>${docsStyles()}</style>
 </head>
 <body>
   <a class="skip-link" href="#main-content">Skip to content</a>
@@ -319,7 +320,8 @@ export function renderChangelogPage(): string {
   <meta name="twitter:image" content="${DEFAULT_OG_IMAGE}">
   <script type="application/ld+json">${JSON.stringify(breadcrumbJsonLd)}</script>
   ${googleFonts()}
-  <style>${baseStyles()}${docsStyles()}</style>
+  <link rel="stylesheet" href="/styles.css">
+  <style>${docsStyles()}</style>
 </head>
 <body>
   <a class="skip-link" href="#main-content">Skip to content</a>

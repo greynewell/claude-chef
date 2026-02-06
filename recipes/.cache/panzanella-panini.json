@@ -1,0 +1,58 @@
+{
+  "contentHash": "568902396ccf6631",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 French deli roll, split",
+        "searchTerm": "French deli roll",
+        "normalizedName": "French Deli Roll"
+      },
+      {
+        "ingredient": "1 teaspoon balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "2 slices mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 small tomato, sliced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "4 fresh basil leaves",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      },
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Panini press",
+        "searchTerm": "panini press"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Pat tomato slices dry to prevent soggy sandwich",
+      "Drizzle balsamic vinegar on bread before adding cheese",
+      "Press until cheese melts and bread is golden but not burnt"
+    ],
+    "coachingPrompt": "How will you ensure the mozzarella melts evenly while the bread achieves the perfect crispy exterior?"
+  },
+  "timestamp": "2026-02-06T14:07:43.224Z"
+}

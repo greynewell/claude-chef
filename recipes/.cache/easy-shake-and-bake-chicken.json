@@ -1,0 +1,62 @@
+{
+  "contentHash": "8ffd15841b624d21",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds chicken, cut into pieces",
+        "searchTerm": "chicken pieces",
+        "normalizedName": "Chicken"
+      },
+      {
+        "ingredient": "½ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "¼ teaspoon sage",
+        "searchTerm": "sage",
+        "normalizedName": "Sage"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Shallow dish",
+        "searchTerm": "shallow bowl"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Combine all dry ingredients in a shallow dish for easy coating",
+      "Brown chicken on both sides, then reduce heat and cover to finish cooking"
+    ],
+    "coachingPrompt": "Guide the user on proper coating technique and cooking temperatures to achieve a crispy exterior while keeping chicken moist inside."
+  },
+  "timestamp": "2026-02-06T05:59:34.206Z"
+}

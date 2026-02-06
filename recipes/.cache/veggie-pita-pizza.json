@@ -1,0 +1,53 @@
+{
+  "contentHash": "1baa8f61fa8c049c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pita bread round",
+        "searchTerm": "pita bread",
+        "normalizedName": "Pita Bread"
+      },
+      {
+        "ingredient": "1 teaspoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "3 tablespoons pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "½ cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "¼ cup sliced crimini mushrooms",
+        "searchTerm": "mushroom",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "⅛ teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Brush pita lightly with oil before topping to prevent it from becoming soggy",
+      "Bake at 400°F for 8-10 minutes until cheese is melted and pita edges are crispy"
+    ],
+    "coachingPrompt": "Help the user create a quick, customizable personal pizza on a crispy pita base."
+  },
+  "timestamp": "2026-02-06T21:46:17.530Z"
+}

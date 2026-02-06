@@ -1,0 +1,42 @@
+{
+  "contentHash": "d87b6a0a43ebb292",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (18.25 ounce) package chocolate cake mix",
+        "searchTerm": "cake mix",
+        "normalizedName": "Cake Mix"
+      },
+      {
+        "ingredient": "1 (16 ounce) container prepared chocolate frosting",
+        "searchTerm": "frosting",
+        "normalizedName": "Frosting"
+      },
+      {
+        "ingredient": "1 (3 ounce) bar chocolate flavored confectioners coating",
+        "searchTerm": "chocolate coating",
+        "normalizedName": "Chocolate Coating"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "Microwave or double boiler",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "Lollipop sticks",
+        "searchTerm": "sticks"
+      }
+    ],
+    "cookingTips": [
+      "Bake cake according to package directions, then cool completely before crumbling",
+      "Chill cake-frosting mixture before rolling and dipping for cleaner, more manageable balls"
+    ],
+    "coachingPrompt": "Guide the user through the process of making and coating cake balls properly."
+  },
+  "timestamp": "2026-02-06T01:12:42.136Z"
+}

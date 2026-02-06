@@ -1,0 +1,52 @@
+{
+  "contentHash": "71a0d53ed0aff8e1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¾ cup packed light brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "1 tablespoon pure vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "glass bottle",
+        "searchTerm": "glass bottle"
+      }
+    ],
+    "cookingTips": [
+      "Simmer gently to infuse cinnamon flavor without burning sugar",
+      "Cool completely before storing in airtight container"
+    ],
+    "coachingPrompt": "Teach proper syrup-making technique and storage guidelines for long shelf life."
+  },
+  "timestamp": "2026-02-06T03:23:43.038Z"
+}

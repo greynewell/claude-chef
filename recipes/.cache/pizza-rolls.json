@@ -1,0 +1,63 @@
+{
+  "contentHash": "4c450098dbf10f2e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 quarts canola oil for frying",
+        "searchTerm": "canola oil",
+        "normalizedName": "Canola Oil"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "3 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "1 (8 ounce) package sliced pepperoni",
+        "searchTerm": "pepperoni",
+        "normalizedName": "Pepperoni"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 (14 ounce) package egg roll wrappers",
+        "searchTerm": "egg roll wrappers",
+        "normalizedName": "Egg Roll Wrapper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep fryer or pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "Slotted spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Keep oil temperature at 350°F for crispy exteriors without burning the wrappers",
+      "Fill rolls tightly and seal edges well with egg wash to prevent leaking during frying",
+      "Fry in small batches to maintain oil temperature and ensure even cooking"
+    ],
+    "coachingPrompt": "Deep frying requires precision. How will you monitor oil temperature and avoid overcrowding the pan?"
+  },
+  "timestamp": "2026-02-06T14:55:14.337Z"
+}

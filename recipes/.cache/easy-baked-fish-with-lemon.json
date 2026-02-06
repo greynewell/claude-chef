@@ -1,0 +1,62 @@
+{
+  "contentHash": "1db7d294df420e64",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 serving cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "2 pounds tilapia fillets",
+        "searchTerm": "tilapia fillets",
+        "normalizedName": "Tilapia Fillet"
+      },
+      {
+        "ingredient": "1 cup dry seasoned bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "2 tablespoons dried parsley",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley"
+      },
+      {
+        "ingredient": "2 teaspoons lemon zest",
+        "searchTerm": "lemon zest",
+        "normalizedName": "Lemon Zest"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "¼ cup melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Shallow Dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Pat fish dry before breading to ensure coating adheres properly",
+      "Don't overbake delicate fish; check for flaking at minimum time"
+    ],
+    "coachingPrompt": "Help the user understand proper fish cooking times and how to maintain moisture while achieving crispy coating."
+  },
+  "timestamp": "2026-02-06T05:32:24.147Z"
+}

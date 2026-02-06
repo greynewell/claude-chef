@@ -1,0 +1,43 @@
+{
+  "contentHash": "5aa195b6f4e5d1c1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "sausage",
+        "searchTerm": "sausage",
+        "normalizedName": "Sausage"
+      },
+      {
+        "ingredient": "diced tomatoes with green chile peppers",
+        "searchTerm": "diced tomatoes with green chiles",
+        "normalizedName": "Diced Tomato with Green Chile"
+      },
+      {
+        "ingredient": "cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausage thoroughly and break it into small pieces for even distribution in the dip",
+      "Stir cream cheese and tomato mixture frequently while heating to ensure smooth consistency",
+      "Serve warm with tortilla chips or crackers for a classic game-day appetizer"
+    ],
+    "coachingPrompt": "Perfect for game day! Would you like suggestions for serving vessels and dippers?"
+  },
+  "timestamp": "2026-02-06T06:26:26.179Z"
+}

@@ -1,0 +1,73 @@
+{
+  "contentHash": "b46ba48b86c47ca4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup kasha (toasted buckwheat groats)",
+        "searchTerm": "kasha buckwheat",
+        "normalizedName": "Kasha"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 onions, peeled and chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 clove garlic, minced, or to taste",
+        "searchTerm": "garlic clove",
+        "normalizedName": "Garlic Clove"
+      },
+      {
+        "ingredient": "1 cucumber, peeled and diced",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "¾ cup chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      },
+      {
+        "ingredient": "6 tablespoons chopped fresh mint",
+        "searchTerm": "fresh mint",
+        "normalizedName": "Fresh Mint"
+      },
+      {
+        "ingredient": "1 lemon, juiced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "1 pinch dried mixed herbs",
+        "searchTerm": "dried mixed herbs",
+        "normalizedName": "Dried Mixed Herb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Cook kasha in water or broth until tender, then cool before mixing",
+      "Chop herbs and vegetables just before serving to preserve freshness and color",
+      "Allow salad to sit 30 minutes before serving for flavors to meld"
+    ],
+    "coachingPrompt": "Are you familiar with buckwheat groats? Would you like guidance on cooking times and ratios?"
+  },
+  "timestamp": "2026-02-06T20:51:17.457Z"
+}

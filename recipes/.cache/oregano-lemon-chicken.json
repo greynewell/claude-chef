@@ -1,0 +1,53 @@
+{
+  "contentHash": "161f84888c15f3af",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "3 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "2 tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 teaspoons dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Shallow baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Instant-read thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken to even thickness so it cooks uniformly",
+      "Let chicken rest 5 minutes after cooking before serving to retain juices"
+    ],
+    "coachingPrompt": "How does acid like lemon juice help tenderize and flavor chicken?"
+  },
+  "timestamp": "2026-02-06T13:46:17.987Z"
+}

@@ -1,0 +1,39 @@
+{
+  "contentHash": "032858ccac6e3287",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (2 pound) whole salami, casing removed",
+        "searchTerm": "whole salami",
+        "normalizedName": "Whole Salami"
+      },
+      {
+        "ingredient": "1 cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 (16 ounce) bottle prepared barbecue sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Score the top of salami in a crosshatch pattern to allow sauce to penetrate",
+      "Mix brown sugar and barbecue sauce to create a glaze",
+      "Bake at 350°F for 45-60 minutes, basting with glaze every 15 minutes until caramelized"
+    ],
+    "coachingPrompt": "Why score the salami surface, and how does the brown sugar caramelize during baking?"
+  },
+  "timestamp": "2026-02-05T23:11:39.014Z"
+}

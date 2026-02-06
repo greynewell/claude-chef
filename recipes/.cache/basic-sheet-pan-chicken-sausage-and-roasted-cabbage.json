@@ -1,0 +1,63 @@
+{
+  "contentHash": "5e8e64be0398f77d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 cups shredded cabbage",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "1 apple, sliced",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "1 white onion, sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 ½ tablespoons white vinegar",
+        "searchTerm": "white vinegar",
+        "normalizedName": "White Vinegar"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "8 links chicken sausage",
+        "searchTerm": "chicken sausage",
+        "normalizedName": "Chicken Sausage"
+      }
+    ],
+    "gear": [
+      {
+        "name": "sheet pan",
+        "searchTerm": "sheet pan baking"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Toss cabbage and apples with vinegar mixture first to soften slightly before roasting",
+      "Arrange sausages on top of vegetables in final cooking stage to prevent burning"
+    ],
+    "coachingPrompt": "Do you prefer your cabbage tender or with some crunch? This affects roasting time."
+  },
+  "timestamp": "2026-02-05T23:34:21.975Z"
+}

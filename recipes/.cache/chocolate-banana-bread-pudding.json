@@ -1,0 +1,63 @@
+{
+  "contentHash": "6c1c61c59ab29dc9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "4 cups cubed French bread",
+        "searchTerm": "french bread",
+        "normalizedName": "French Bread"
+      },
+      {
+        "ingredient": "2 bananas, sliced",
+        "searchTerm": "bananas",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "1 cup semisweet chocolate chips",
+        "searchTerm": "semisweet chocolate chips",
+        "normalizedName": "Semisweet Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Use day-old bread for better absorption of the custard mixture",
+      "Layer bread, bananas, and chocolate chips for even distribution",
+      "Let pudding sit for 15 minutes after baking to set before serving"
+    ],
+    "coachingPrompt": "Bread pudding is comfort food at its finest. Do you prefer a custardy center or a more cake-like texture?"
+  },
+  "timestamp": "2026-02-06T02:58:28.308Z"
+}

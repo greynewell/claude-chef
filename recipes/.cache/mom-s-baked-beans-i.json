@@ -1,0 +1,53 @@
+{
+  "contentHash": "4474407a7f0d083e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (28 ounce) cans baked beans",
+        "searchTerm": "baked beans",
+        "normalizedName": "Baked Bean"
+      },
+      {
+        "ingredient": "2 onions, cut into wedges",
+        "searchTerm": "onions",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "¼ cup molasses",
+        "searchTerm": "molasses",
+        "normalizedName": "Molasses"
+      },
+      {
+        "ingredient": "½ cup barbeque sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "1 tablespoon liquid smoke flavoring",
+        "searchTerm": "liquid smoke",
+        "normalizedName": "Liquid Smoke"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "mixing spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Mix all ingredients in the baking dish and bake uncovered at 350°F for 45 minutes",
+      "Stir occasionally to prevent sticking on the bottom",
+      "Molasses adds depth—don't skip it even though it's a small amount"
+    ],
+    "coachingPrompt": "Help the user elevate canned beans into a flavorful side dish with simple pantry additions."
+  },
+  "timestamp": "2026-02-06T12:41:18.142Z"
+}

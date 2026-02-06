@@ -1,0 +1,58 @@
+{
+  "contentHash": "428c957c55b5b245",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) container blended strawberry yogurt",
+        "searchTerm": "strawberry yogurt",
+        "normalizedName": "Strawberry Yogurt"
+      },
+      {
+        "ingredient": "1 (8 ounce) tub frozen whipped topping (such as Cool Whip®), thawed",
+        "searchTerm": "whipped topping",
+        "normalizedName": "Whipped Topping"
+      },
+      {
+        "ingredient": "5 teaspoons strawberry flavored Jell-O® mix",
+        "searchTerm": "strawberry jello",
+        "normalizedName": "Strawberry Gelatin"
+      },
+      {
+        "ingredient": "3 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons strawberry flavored cream cheese",
+        "searchTerm": "strawberry cream cheese",
+        "normalizedName": "Strawberry Cream Cheese"
+      },
+      {
+        "ingredient": "2 fresh strawberries",
+        "searchTerm": "strawberries",
+        "normalizedName": "Strawberry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Serving Bowl",
+        "searchTerm": "serving bowl"
+      }
+    ],
+    "cookingTips": [
+      "Fold ingredients gently to maintain the light texture of whipped topping",
+      "Prepare the dip shortly before serving to prevent separation",
+      "Use fresh strawberries as garnish for visual appeal"
+    ],
+    "coachingPrompt": "Guide the user through creating a light, fluffy dip using proper folding techniques to avoid deflating the whipped topping."
+  },
+  "timestamp": "2026-02-06T04:33:23.047Z"
+}

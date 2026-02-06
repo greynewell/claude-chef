@@ -1,0 +1,82 @@
+{
+  "contentHash": "e0972c3bfc8b8c66",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground lamb",
+        "searchTerm": "ground lamb",
+        "normalizedName": "Ground Lamb"
+      },
+      {
+        "ingredient": "½ large onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (28 ounce) can diced tomatoes",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 (10.5 ounce) cans beef consomme",
+        "searchTerm": "beef consomme",
+        "normalizedName": "Beef Consommé"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed tomato soup",
+        "searchTerm": "tomato soup",
+        "normalizedName": "Tomato Soup"
+      },
+      {
+        "ingredient": "4 medium carrots, chopped",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "3 stalks celery, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "½ cup barley",
+        "searchTerm": "barley",
+        "normalizedName": "Barley"
+      },
+      {
+        "ingredient": "½ teaspoon chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground lamb first to develop flavor before adding other ingredients",
+      "Add barley midway through cooking so it reaches tender without becoming mushy"
+    ],
+    "coachingPrompt": "Guide the user through browning techniques and explain how barley absorbs flavors as it cooks."
+  },
+  "timestamp": "2026-02-06T10:57:25.461Z"
+}

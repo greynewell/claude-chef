@@ -1,0 +1,53 @@
+{
+  "contentHash": "a2348bf9442b7fe6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (20 ounce) can pineapple chunks",
+        "searchTerm": "pineapple",
+        "normalizedName": "Pineapple"
+      },
+      {
+        "ingredient": "1 (5 ounce) package instant vanilla pudding mix",
+        "searchTerm": "vanilla pudding mix",
+        "normalizedName": "Vanilla Pudding Mix"
+      },
+      {
+        "ingredient": "1 (15 ounce) can mandarin oranges, drained",
+        "searchTerm": "mandarin oranges",
+        "normalizedName": "Mandarin Orange"
+      },
+      {
+        "ingredient": "1 (10 ounce) jar maraschino cherries, drained",
+        "searchTerm": "maraschino cherries",
+        "normalizedName": "Maraschino Cherry"
+      },
+      {
+        "ingredient": "3 bananas",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "rubber spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Use the pineapple liquid to prepare pudding mix for extra fruit flavor",
+      "Add bananas just before serving to prevent browning",
+      "Chill for at least 30 minutes before serving for best texture"
+    ],
+    "coachingPrompt": "How can I keep the fruit salad from becoming watery and the bananas from turning brown?"
+  },
+  "timestamp": "2026-02-06T12:47:07.812Z"
+}

@@ -1,0 +1,42 @@
+{
+  "contentHash": "6573302e5d80ae11",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups self-rising flour, plus more for kneading",
+        "searchTerm": "self-rising flour",
+        "normalizedName": "Self-Rising Flour"
+      },
+      {
+        "ingredient": "1 cup plain Greek yogurt",
+        "searchTerm": "Greek yogurt",
+        "normalizedName": "Greek Yogurt"
+      },
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "pizza stone",
+        "searchTerm": "pizza stone"
+      },
+      {
+        "name": "work surface",
+        "searchTerm": "work surface"
+      }
+    ],
+    "cookingTips": [
+      "Use full-fat Greek yogurt for best texture",
+      "Knead dough just until combined to avoid overworking"
+    ],
+    "coachingPrompt": "With only two ingredients, how will you achieve proper dough consistency and texture?"
+  },
+  "timestamp": "2026-02-06T21:25:46.592Z"
+}

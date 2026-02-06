@@ -1,0 +1,48 @@
+{
+  "contentHash": "f5d64c6913869523",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 large fresh mushrooms, sliced",
+        "searchTerm": "fresh mushrooms",
+        "normalizedName": "Fresh Mushroom"
+      },
+      {
+        "ingredient": "8 ounces spinach, rinsed and chopped",
+        "searchTerm": "fresh spinach",
+        "normalizedName": "Fresh Spinach"
+      },
+      {
+        "ingredient": "1 tablespoon crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "4 (4 ounce) fillets flounder",
+        "searchTerm": "flounder fillets",
+        "normalizedName": "Flounder Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Pat flounder fillets dry before filling to prevent excess moisture during baking",
+      "Lightly sauté mushrooms and spinach before stuffing to remove moisture and concentrate flavor",
+      "Bake at moderate temperature to prevent fish from becoming tough"
+    ],
+    "coachingPrompt": "How do you prevent delicate flounder from overcooking while the filling heats through?"
+  },
+  "timestamp": "2026-02-06T19:17:45.220Z"
+}

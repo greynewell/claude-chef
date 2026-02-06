@@ -1,0 +1,48 @@
+{
+  "contentHash": "91c72d8012b9c946",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon Dijon mustard",
+        "searchTerm": "dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "1 onion roll, split",
+        "searchTerm": "onion roll",
+        "normalizedName": "Onion Roll"
+      },
+      {
+        "ingredient": "¼ apple, thinly sliced",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "1 slice Buffalo sauce-flavored Monterey jack cheese",
+        "searchTerm": "monterey jack cheese",
+        "normalizedName": "Monterey Jack Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "sandwich press",
+        "searchTerm": "sandwich press"
+      }
+    ],
+    "cookingTips": [
+      "Slice apple thinly and immediately before assembly to prevent browning",
+      "Spread mustard evenly on both sides of roll for flavor distribution",
+      "Toast until cheese melts and roll is golden for best texture"
+    ],
+    "coachingPrompt": "How should you prepare the apple to prevent browning, and what's the best way to toast this sandwich?"
+  },
+  "timestamp": "2026-02-05T22:08:45.886Z"
+}

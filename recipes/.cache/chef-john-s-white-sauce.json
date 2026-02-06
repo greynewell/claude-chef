@@ -1,0 +1,63 @@
+{
+  "contentHash": "509c1aa6b3e508dc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 quart milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "4 sprigs fresh thyme, chopped",
+        "searchTerm": "thyme",
+        "normalizedName": "Thyme"
+      },
+      {
+        "ingredient": "⅛ teaspoon freshly grated nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch cayenne pepper, or more to taste",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Make a roux by cooking butter and flour together for 2-3 minutes over medium heat, stirring constantly",
+      "Gradually add milk while whisking to prevent lumps from forming",
+      "Cook until thickened, about 5-10 minutes; the sauce should coat the back of a spoon"
+    ],
+    "coachingPrompt": "Teach the user the béchamel technique and how proper roux preparation and gradual milk incorporation prevent lumps and create a silky sauce."
+  },
+  "timestamp": "2026-02-06T02:13:59.996Z"
+}

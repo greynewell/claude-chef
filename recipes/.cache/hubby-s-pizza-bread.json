@@ -1,0 +1,73 @@
+{
+  "contentHash": "51303be65ed5e497",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ¼ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 ½ tablespoons butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¾ cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "16 ounces sliced pepperoni sausage",
+        "searchTerm": "pepperoni sausage",
+        "normalizedName": "Pepperoni Sausage"
+      },
+      {
+        "ingredient": "1 ½ tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 (.25 ounce) package active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "3 ½ cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Bread machine",
+        "searchTerm": "bread machine"
+      },
+      {
+        "name": "Loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Add pepperoni and cheese at the appropriate bread machine cycle to prevent them from being overworked",
+      "Let dough rise fully before baking for best texture",
+      "Brush top with melted butter after baking for a golden crust"
+    ],
+    "coachingPrompt": "This savory bread uses a bread machine for convenience. Do you have a bread machine? Have you used the pepperoni addition feature before?"
+  },
+  "timestamp": "2026-02-06T09:34:12.746Z"
+}

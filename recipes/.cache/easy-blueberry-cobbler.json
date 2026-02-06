@@ -1,0 +1,53 @@
+{
+  "contentHash": "fd638be516f381f9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup self-rising flour",
+        "searchTerm": "self-rising flour",
+        "normalizedName": "Self-Rising Flour"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "4 cups fresh blueberries",
+        "searchTerm": "fresh blueberries",
+        "normalizedName": "Fresh Blueberry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Melt butter in baking dish, then pour batter on top without stirring",
+      "Sprinkle blueberries evenly over batter; they'll sink during baking",
+      "Bake at 350°F for 45-50 minutes until golden and bubbly at edges"
+    ],
+    "coachingPrompt": "Why don't you stir together the butter and batter? How does this technique create the cobbler texture?"
+  },
+  "timestamp": "2026-02-06T05:34:07.251Z"
+}

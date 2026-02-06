@@ -1,0 +1,78 @@
+{
+  "contentHash": "0e20e206462ddb12",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup wild rice",
+        "searchTerm": "wild rice",
+        "normalizedName": "Wild Rice"
+      },
+      {
+        "ingredient": "3 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "6 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon minced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "3 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "¾ cup minced cooked ham",
+        "searchTerm": "cooked ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "½ cup shredded carrots",
+        "searchTerm": "shredded carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "3 tablespoons slivered almonds",
+        "searchTerm": "slivered almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "1 cup half-and-half",
+        "searchTerm": "half-and-half",
+        "normalizedName": "Half-And-Half"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Cook wild rice separately in water first, as it has a longer cooking time than other components",
+      "Make a roux with butter and flour to thicken the soup and create a creamy base",
+      "Toast almonds lightly before adding to enhance their flavor and add textural contrast"
+    ],
+    "coachingPrompt": "How do you build layers of flavor with ham and ensure the wild rice is tender without becoming mushy?"
+  },
+  "timestamp": "2026-02-06T06:16:27.942Z"
+}

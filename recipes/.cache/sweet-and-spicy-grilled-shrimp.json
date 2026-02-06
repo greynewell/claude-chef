@@ -1,0 +1,47 @@
+{
+  "contentHash": "c20fcd4276a1dfc0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 bamboo skewers, soaked in water for 20 minutes",
+        "searchTerm": "bamboo skewers",
+        "normalizedName": "Bamboo Skewer"
+      },
+      {
+        "ingredient": "½ cup chile-garlic sauce",
+        "searchTerm": "chile garlic sauce",
+        "normalizedName": "Chile-Garlic Sauce"
+      },
+      {
+        "ingredient": "½ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 pound medium shrimp, peeled and deveined",
+        "searchTerm": "shrimp medium",
+        "normalizedName": "Shrimp"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Soak bamboo skewers at least 20 minutes to prevent burning on the grill",
+      "Watch shrimp carefully as they cook quickly; remove when just opaque to avoid rubbery texture"
+    ],
+    "coachingPrompt": "What's the optimal grill temperature and timing for shrimp to avoid overcooking?"
+  },
+  "timestamp": "2026-02-06T20:00:41.469Z"
+}

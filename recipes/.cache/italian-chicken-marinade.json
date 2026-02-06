@@ -1,0 +1,43 @@
+{
+  "contentHash": "328f881073d9e31d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) bottle Italian-style salad dressing",
+        "searchTerm": "Italian dressing",
+        "normalizedName": "Italian Dressing"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "zip-top bag",
+        "searchTerm": "zip-top bag"
+      },
+      {
+        "name": "shallow dish",
+        "searchTerm": "shallow dish"
+      }
+    ],
+    "cookingTips": [
+      "Marinate chicken for at least 2 hours, or overnight for deeper flavor",
+      "Reserve some marinade before adding raw chicken to use as finishing sauce"
+    ],
+    "coachingPrompt": "How long should I marinate chicken for best flavor? Can I use this marinade for other proteins?"
+  },
+  "timestamp": "2026-02-06T10:05:26.552Z"
+}

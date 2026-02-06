@@ -1,0 +1,83 @@
+{
+  "contentHash": "7111e53d21cd630b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "⅔ cup bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "2 eggs, whisked",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 teaspoons salt, divided",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ½ teaspoons ground black pepper, divided",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 cup grated Cheddar cheese (Optional)",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "3 jalapeno peppers, seeded and diced",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "3 tablespoons barbeque sauce, or as needed",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons grated Cheddar cheese, or to taste (Optional)",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Loaf Pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "Large Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Create a well in the center of the meatloaf mixture and fill with cream cheese and jalapeno mixture before closing",
+      "Mix ground beef gently with other ingredients to avoid overworking, which toughens the meatloaf",
+      "Bake at 350°F for 55-65 minutes until internal temperature reaches 160°F"
+    ],
+    "coachingPrompt": "How would you structure the meatloaf to keep the cream cheese filling centered and intact during cooking?"
+  },
+  "timestamp": "2026-02-06T10:15:43.198Z"
+}

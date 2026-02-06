@@ -1,0 +1,57 @@
+{
+  "contentHash": "23a53a136d9e27cb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 large strawberries, hulled",
+        "searchTerm": "strawberry",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "¾ cup chilled lemon-lime soda",
+        "searchTerm": "lemon-lime soda",
+        "normalizedName": "Lemon-Lime Soda"
+      },
+      {
+        "ingredient": "4 cubes ice",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Measuring cup",
+        "searchTerm": "measuring cup"
+      },
+      {
+        "name": "Glass",
+        "searchTerm": "glass"
+      },
+      {
+        "name": "Straw",
+        "searchTerm": "drinking straw"
+      }
+    ],
+    "cookingTips": [
+      "Use fresh, ripe strawberries for best flavor and natural sweetness",
+      "Chill all ingredients before blending for a properly cold beverage",
+      "Blend until slushy, not completely smooth, for the best daiquiri texture"
+    ],
+    "coachingPrompt": "Help the user blend a refreshing virgin strawberry daiquiri with proper texture and sweetness."
+  },
+  "timestamp": "2026-02-06T21:52:16.103Z"
+}

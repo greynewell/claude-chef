@@ -1,0 +1,53 @@
+{
+  "contentHash": "e47c74cdd4384487",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons oil",
+        "searchTerm": "oil",
+        "normalizedName": "Oil"
+      },
+      {
+        "ingredient": "2 tablespoons chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 ½ cups uncooked white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "2 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 cup chunky salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Lid",
+        "searchTerm": "pot lid"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Toast the uncooked rice briefly in oil before adding liquid for better texture and nutty flavor",
+      "Bring liquid to a boil, then reduce heat to low and cover tightly for even cooking",
+      "Avoid stirring once liquid is added to prevent mushiness and ensure fluffy rice"
+    ],
+    "coachingPrompt": "Guide the user through proper rice toasting and cooking without lifting the lid. Help them achieve fluffy, separate grains with vibrant flavor."
+  },
+  "timestamp": "2026-02-06T00:03:47.584Z"
+}

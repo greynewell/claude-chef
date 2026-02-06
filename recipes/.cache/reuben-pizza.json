@@ -1,0 +1,63 @@
+{
+  "contentHash": "1c04c27158b369ff",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (1 pound) loaf frozen whole wheat bread dough, thawed",
+        "searchTerm": "whole wheat bread dough",
+        "normalizedName": "Whole Wheat Bread Dough"
+      },
+      {
+        "ingredient": "½ cup thousand island dressing",
+        "searchTerm": "thousand island dressing",
+        "normalizedName": "Thousand Island Dressing"
+      },
+      {
+        "ingredient": "2 cups shredded Swiss cheese",
+        "searchTerm": "swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "6 ounces deli sliced corned beef, cut into strips",
+        "searchTerm": "corned beef",
+        "normalizedName": "Corned Beef"
+      },
+      {
+        "ingredient": "1 cup sauerkraut - rinsed and drained",
+        "searchTerm": "sauerkraut",
+        "normalizedName": "Sauerkraut"
+      },
+      {
+        "ingredient": "½ teaspoon caraway seed",
+        "searchTerm": "caraway seed",
+        "normalizedName": "Caraway Seed"
+      },
+      {
+        "ingredient": "¼ cup chopped dill pickles  (Optional)",
+        "searchTerm": "dill pickles",
+        "normalizedName": "Dill Pickle"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pizza pan or baking sheet",
+        "searchTerm": "pizza pan"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "brush"
+      }
+    ],
+    "cookingTips": [
+      "Let thawed dough come to room temperature and stretch gently for best results",
+      "Spread dressing as the sauce base before adding other toppings",
+      "Add cheese last so it melts over all other toppings for optimal coverage"
+    ],
+    "coachingPrompt": "How do we prevent a pizza crust from becoming soggy with sauerkraut while keeping Reuben flavors intact?"
+  },
+  "timestamp": "2026-02-06T16:09:17.998Z"
+}

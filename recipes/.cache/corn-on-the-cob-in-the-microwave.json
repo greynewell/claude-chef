@@ -1,0 +1,39 @@
+{
+  "contentHash": "d4859bfeab27f94f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 ears fresh corn, shucked",
+        "searchTerm": "fresh corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "4 dampened paper towels",
+        "searchTerm": "paper towels",
+        "normalizedName": "Paper Towel"
+      },
+      {
+        "ingredient": "1 storage bag",
+        "searchTerm": "storage bag",
+        "normalizedName": "Storage Bag"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Microwave",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "Microwave-safe dish",
+        "searchTerm": "dish"
+      }
+    ],
+    "cookingTips": [
+      "Keep corn moist by wrapping in damp paper towels to prevent drying out",
+      "Microwave on high for 1-2 minutes per ear, checking for tenderness",
+      "Corn will continue cooking slightly after removal from microwave"
+    ],
+    "coachingPrompt": "Microwave cooking is quick and keeps corn moist. Do you know the right power level and timing for your microwave, or would you like general guidance?"
+  },
+  "timestamp": "2026-02-06T03:52:43.844Z"
+}

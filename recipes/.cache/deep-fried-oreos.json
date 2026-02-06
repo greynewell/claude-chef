@@ -1,0 +1,62 @@
+{
+  "contentHash": "57a8971bf827c2ca",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 quarts vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 large egg",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 teaspoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 cup pancake mix",
+        "searchTerm": "pancake mix",
+        "normalizedName": "Pancake Mix"
+      },
+      {
+        "ingredient": "1 (18 ounce) package cream-filled chocolate sandwich cookies (such as Oreo®)",
+        "searchTerm": "Oreo cookies",
+        "normalizedName": "Oreo Cookie"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep fryer or large pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "cooking thermometer"
+      },
+      {
+        "name": "Shallow dish for batter",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "Skewers or tongs",
+        "searchTerm": "wooden skewer"
+      }
+    ],
+    "cookingTips": [
+      "Keep Oreos refrigerated or frozen until ready to fry to prevent filling from leaking",
+      "Use a skewer or fork to dip cookies to avoid burning fingers and to control immersion",
+      "Fry at 375°F for only 10-15 seconds per side; the cookies fry very quickly"
+    ],
+    "coachingPrompt": "Guide the cook on handling frozen cookies carefully to prevent filling loss during the very brief frying time."
+  },
+  "timestamp": "2026-02-06T05:06:05.288Z"
+}

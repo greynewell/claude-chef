@@ -1,0 +1,58 @@
+{
+  "contentHash": "29d9033a69b562d3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "½ teaspoon Cajun seasoning",
+        "searchTerm": "Cajun seasoning",
+        "normalizedName": "Cajun Seasoning"
+      },
+      {
+        "ingredient": "2 slices toasted whole wheat bread",
+        "searchTerm": "whole wheat bread",
+        "normalizedName": "Whole Wheat Bread"
+      },
+      {
+        "ingredient": "2 ounces andouille smoked sausage, cut in half lengthwise",
+        "searchTerm": "andouille sausage",
+        "normalizedName": "Andouille Sausage"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 large egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Heat oil until shimmering before cracking the egg to ensure crispy edges and runny yolk",
+      "Toast bread lightly while cooking the sausage and egg for even timing",
+      "Assemble while ingredients are warm for best flavor and texture"
+    ],
+    "coachingPrompt": "Guide the user through timing all components to finish simultaneously and assembly techniques for a balanced, flavorful sandwich."
+  },
+  "timestamp": "2026-02-06T01:10:31.781Z"
+}

@@ -1,0 +1,47 @@
+{
+  "contentHash": "f26ca4aa815a8f06",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups flour",
+        "searchTerm": "flour",
+        "normalizedName": "Flour"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "rolling pin",
+        "searchTerm": "rolling pin"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Work the dough gently to keep it tender",
+      "Roll thin for crispy flatbread"
+    ],
+    "coachingPrompt": "What dough consistency should you aim for, and how thin should you roll it?"
+  },
+  "timestamp": "2026-02-06T13:22:07.178Z"
+}

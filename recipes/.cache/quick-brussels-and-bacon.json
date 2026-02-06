@@ -1,0 +1,48 @@
+{
+  "contentHash": "40f1f8a73acb7ced",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "shallots",
+        "searchTerm": "shallots",
+        "normalizedName": "Shallot"
+      },
+      {
+        "ingredient": "frozen Brussels sprouts",
+        "searchTerm": "frozen Brussels sprouts",
+        "normalizedName": "Frozen Brussels Sprout"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then chop and set aside to add back at the end",
+      "Thaw and halve Brussels sprouts for faster, more even cooking",
+      "Don't stir too frequently - let them develop color and caramelization"
+    ],
+    "coachingPrompt": "What's the best technique for cooking Brussels sprouts so they get crispy and caramelized on the outside?"
+  },
+  "timestamp": "2026-02-06T15:40:18.489Z"
+}

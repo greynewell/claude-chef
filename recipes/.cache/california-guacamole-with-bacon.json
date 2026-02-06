@@ -1,0 +1,68 @@
+{
+  "contentHash": "656207a78eb56045",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 ripe avocados - peeled, pitted, and mashed",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "4 slices bacon, cooked until crisp, drained and crumbled",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 large tomato, seeded and finely chopped",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 onion, finely chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 dash hot pepper sauce to taste",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Mash avocados with a fork - leave it slightly chunky for better texture",
+      "Fold in tomato, onion, and garlic gently to avoid breaking down the avocado too much",
+      "Add bacon and hot sauce just before serving to maintain crispy texture"
+    ],
+    "coachingPrompt": "How do I prevent guacamole from browning and maintain its bright green color?"
+  },
+  "timestamp": "2026-02-06T01:14:52.191Z"
+}

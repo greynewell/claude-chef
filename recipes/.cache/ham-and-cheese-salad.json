@@ -1,0 +1,49 @@
+{
+  "contentHash": "04bfee69bec27637",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups chopped ham",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 stalks celery, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "⅓ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 ½ tablespoons prepared mustard",
+        "searchTerm": "prepared mustard",
+        "normalizedName": "Prepared Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Chop ingredients into uniform sizes for consistent texture and flavor distribution",
+      "Combine dressing gently to avoid breaking down delicate ingredients",
+      "Chill salad for at least 30 minutes before serving to allow flavors to meld"
+    ],
+    "coachingPrompt": "How would you adjust this recipe for a lighter, healthier version?"
+  },
+  "timestamp": "2026-02-06T08:40:28.529Z"
+}

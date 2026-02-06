@@ -1,0 +1,47 @@
+{
+  "contentHash": "c697c29bb386446d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 bratwurst",
+        "searchTerm": "bratwurst",
+        "normalizedName": "Bratwurst"
+      },
+      {
+        "ingredient": "2 (12 fluid ounce) cans or bottles beer",
+        "searchTerm": "beer",
+        "normalizedName": "Beer"
+      },
+      {
+        "ingredient": "1 onion, sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "¾ cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cook on low for 6-8 hours or high for 3-4 hours for tender brats",
+      "The beer adds flavor and keeps the brats moist during slow cooking"
+    ],
+    "coachingPrompt": "What heat setting and time should I use for the most flavorful slow cooker brats?"
+  },
+  "timestamp": "2026-02-06T22:15:40.827Z"
+}

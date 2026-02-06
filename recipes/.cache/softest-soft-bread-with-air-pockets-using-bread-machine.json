@@ -1,0 +1,54 @@
+{
+  "contentHash": "f3c8cb845fc4c5dd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup warm water (105 to115 degrees F/40 to 45 degrees C)",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "4 teaspoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "2 teaspoons active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "4 teaspoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bread machine",
+        "searchTerm": "bread machine"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "kitchen thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Water temperature is critical - use 105-115°F for proper yeast activation",
+      "Honey feeds the yeast and promotes rise and texture",
+      "Don't skip the rest cycles for maximum air pocket development"
+    ],
+    "coachingPrompt": "Explain the importance of water temperature for yeast activation and how the bread machine's cycles create air pockets."
+  },
+  "timestamp": "2026-02-06T18:32:31.203Z"
+}

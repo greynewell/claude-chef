@@ -1,0 +1,63 @@
+{
+  "contentHash": "6d52f00ee02a085f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package whole-wheat spaghetti",
+        "searchTerm": "whole-wheat spaghetti",
+        "normalizedName": "Whole-Wheat Spaghetti"
+      },
+      {
+        "ingredient": "2 (7 ounce) cans albacore tuna in water, drained and flaked",
+        "searchTerm": "albacore tuna",
+        "normalizedName": "Albacore Tuna"
+      },
+      {
+        "ingredient": "1 cup crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "¼ cup chopped red onion",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "¼ cup chopped fresh dill, or to taste",
+        "searchTerm": "fresh dill",
+        "normalizedName": "Fresh Dill"
+      },
+      {
+        "ingredient": "2 tablespoons red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "1 lemon, zested and juiced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pasta pot",
+        "searchTerm": "pasta pot"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "microplane or zester",
+        "searchTerm": "zester"
+      }
+    ],
+    "cookingTips": [
+      "Zest lemon before juicing to capture maximum citrus flavor",
+      "Reserve pasta water to create silky sauce if needed",
+      "Toss dill and feta in just before serving to preserve their fresh flavors and texture"
+    ],
+    "coachingPrompt": "How does lemon brighten tuna dishes? Consider acidity, zest, and juice separately."
+  },
+  "timestamp": "2026-02-06T21:11:37.927Z"
+}

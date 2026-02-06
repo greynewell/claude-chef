@@ -1,0 +1,77 @@
+{
+  "contentHash": "33b3539ec17deaae",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 (1 pound) fillet salmon, cut into 2 portions",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "⅓ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon dried dill weed",
+        "searchTerm": "dried dill",
+        "normalizedName": "Dill"
+      },
+      {
+        "ingredient": "1 teaspoon freshly grated lemon zest",
+        "searchTerm": "lemon zest",
+        "normalizedName": "Lemon Zest"
+      },
+      {
+        "ingredient": "4 slices country-style bread, toasted",
+        "searchTerm": "country bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "4 slices tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "2 green leaf lettuce leaves",
+        "searchTerm": "green leaf lettuce",
+        "normalizedName": "Green Leaf Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "fish spatula",
+        "searchTerm": "fish spatula"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy on the grill alongside salmon for efficient use of space",
+      "Toast bread on grill for a nice texture that won't get soggy",
+      "Apply dill sauce before assembling to ensure even distribution"
+    ],
+    "coachingPrompt": "How does dill complement salmon's richness? Why is toasted bread important for this sandwich?"
+  },
+  "timestamp": "2026-02-06T08:24:17.554Z"
+}

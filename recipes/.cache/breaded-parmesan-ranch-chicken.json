@@ -1,0 +1,53 @@
+{
+  "contentHash": "ec456c938795df02",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ cup crushed corn flakes",
+        "searchTerm": "corn flakes",
+        "normalizedName": "Corn Flake"
+      },
+      {
+        "ingredient": "¾ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 (1 ounce) envelope ranch salad dressing mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Ranch Dressing Mix"
+      },
+      {
+        "ingredient": "8 (4 ounce) skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "½ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Shallow Dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Crush corn flakes into fine crumbs for even coating",
+      "Dip chicken in melted butter for adherence of dry coating",
+      "Bake at 350°F for 25-30 minutes until golden and cooked through"
+    ],
+    "coachingPrompt": "Would you prefer a baked version for healthier preparation or pan-fried for extra crispness?"
+  },
+  "timestamp": "2026-02-06T00:36:51.357Z"
+}

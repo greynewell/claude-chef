@@ -1,0 +1,42 @@
+{
+  "contentHash": "264a283644f044fe",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "microwave-safe bowl",
+        "searchTerm": "microwave-safe bowl"
+      },
+      {
+        "name": "microwave",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Pierce eggshells gently before microwaving to prevent them from exploding",
+      "Let eggs rest in hot water for 30-60 seconds for desired doneness"
+    ],
+    "coachingPrompt": "Microwave egg cooking is quick but requires care. What precautions prevent overcooking?"
+  },
+  "timestamp": "2026-02-06T18:30:28.896Z"
+}

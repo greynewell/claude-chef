@@ -1,0 +1,53 @@
+{
+  "contentHash": "30ca8b97661db15f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package frozen cheese ravioli",
+        "searchTerm": "frozen cheese ravioli",
+        "normalizedName": "Frozen Cheese Ravioli"
+      },
+      {
+        "ingredient": "1 cup half-and-half cream",
+        "searchTerm": "half-and-half cream",
+        "normalizedName": "Half-and-Half Cream"
+      },
+      {
+        "ingredient": "1 cup shredded smoked Gouda cheese",
+        "searchTerm": "smoked Gouda cheese",
+        "normalizedName": "Smoked Gouda Cheese"
+      },
+      {
+        "ingredient": "1 teaspoon chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      },
+      {
+        "ingredient": "1 teaspoon white pepper",
+        "searchTerm": "white pepper",
+        "normalizedName": "White Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "cooking pot"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Don't boil ravioli too vigorously to prevent bursting",
+      "Reserve pasta water to thin sauce if needed",
+      "Add cheese off heat to prevent curdling"
+    ],
+    "coachingPrompt": "Help the baker understand timing for both pasta and sauce so they come together perfectly."
+  },
+  "timestamp": "2026-02-06T18:21:25.353Z"
+}

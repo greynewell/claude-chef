@@ -1,0 +1,68 @@
+{
+  "contentHash": "ff0e7065a07ee301",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds chicken",
+        "searchTerm": "chicken",
+        "normalizedName": "Chicken"
+      },
+      {
+        "ingredient": "1 veal knuckle",
+        "searchTerm": "veal knuckle",
+        "normalizedName": "Veal Knuckle"
+      },
+      {
+        "ingredient": "2 stalks celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 yellow onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 turnip",
+        "searchTerm": "turnip",
+        "normalizedName": "Turnip"
+      },
+      {
+        "ingredient": "1 carrot",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "4 quarts water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Stockpot",
+        "searchTerm": "8-quart stockpot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Fine Mesh Strainer",
+        "searchTerm": "fine mesh strainer"
+      }
+    ],
+    "cookingTips": [
+      "Skim foam and impurities from surface during first 30 minutes of simmering",
+      "Never boil stock vigorously; maintain gentle simmer for clear, clean broth",
+      "Strain carefully and cool before storing"
+    ],
+    "coachingPrompt": "Guide through creating a clear, flavorful stock by proper skimming, maintaining correct temperature, and careful straining."
+  },
+  "timestamp": "2026-02-06T22:07:31.111Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "12bdbb9bb2ae4130",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "1 teaspoon peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 teaspoon strawberry jelly",
+        "searchTerm": "jelly",
+        "normalizedName": "Jelly"
+      },
+      {
+        "ingredient": "2 miniature semisweet chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Semisweet Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Knife",
+        "searchTerm": "spreading knife"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Spread peanut butter and jelly evenly to avoid dry spots",
+      "Use chocolate chips for eyes placement before cutting sandwich diagonally"
+    ],
+    "coachingPrompt": "How can I make this festive Halloween sandwich more visually spooky?"
+  },
+  "timestamp": "2026-02-06T07:28:02.652Z"
+}

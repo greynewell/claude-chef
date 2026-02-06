@@ -1,0 +1,47 @@
+{
+  "contentHash": "c24c1ccce2fdb923",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 green (unripe) plantains",
+        "searchTerm": "green plantains",
+        "normalizedName": "Plantain"
+      },
+      {
+        "ingredient": "olive oil cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "3 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Tostonera or Flat Press",
+        "searchTerm": "tostonera press"
+      },
+      {
+        "name": "Paper Towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Tostones require two cooking stages: first fry until soft, then flatten and fry again until crispy",
+      "Keep plantains in warm saltwater between cooking stages to prevent sticking"
+    ],
+    "coachingPrompt": "Why is the two-stage cooking process essential for achieving the perfect tostones texture?"
+  },
+  "timestamp": "2026-02-05T21:48:26.744Z"
+}

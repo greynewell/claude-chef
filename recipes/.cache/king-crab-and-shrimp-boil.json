@@ -1,0 +1,78 @@
+{
+  "contentHash": "81c515c09dd7607e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 quarts water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup seafood seasoning (such as Old Bay®)",
+        "searchTerm": "seafood seasoning",
+        "normalizedName": "Seafood Seasoning"
+      },
+      {
+        "ingredient": "1 pound small red potatoes",
+        "searchTerm": "red potato",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "2 pounds king crab legs",
+        "searchTerm": "king crab legs",
+        "normalizedName": "King Crab Leg"
+      },
+      {
+        "ingredient": "2 cups chopped carrots",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 ½ cups chopped celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "12 pearl onions",
+        "searchTerm": "pearl onion",
+        "normalizedName": "Pearl Onion"
+      },
+      {
+        "ingredient": "1 pound spicy sausage links, cut into rounds",
+        "searchTerm": "spicy sausage",
+        "normalizedName": "Spicy Sausage"
+      },
+      {
+        "ingredient": "4 ears corn, husked",
+        "searchTerm": "corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "2 pounds unpeeled shrimp",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Add ingredients in stages based on cooking time: potatoes first, then sausage, then seafood last",
+      "Don't overcrowd the pot; if necessary, cook in batches to ensure even cooking",
+      "Keep water at a rolling boil throughout cooking to ensure ingredients cook properly"
+    ],
+    "coachingPrompt": "Guide the user through timing each ingredient so everything finishes at the same time, and explain how to avoid overcooking delicate seafood."
+  },
+  "timestamp": "2026-02-06T10:50:46.301Z"
+}

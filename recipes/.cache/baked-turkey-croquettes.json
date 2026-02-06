@@ -1,0 +1,49 @@
+{
+  "contentHash": "c67589da1eae045f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "panko bread crumbs",
+        "searchTerm": "panko breadcrumbs",
+        "normalizedName": "Panko Bread Crumb"
+      },
+      {
+        "ingredient": "melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "mashed potatoes",
+        "searchTerm": "mashed potatoes",
+        "normalizedName": "Mashed Potato"
+      },
+      {
+        "ingredient": "prepared stuffing",
+        "searchTerm": "stuffing mix",
+        "normalizedName": "Stuffing Mix"
+      },
+      {
+        "ingredient": "chopped cooked turkey",
+        "searchTerm": "cooked turkey",
+        "normalizedName": "Turkey"
+      },
+      {
+        "ingredient": "egg",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      "baking sheet",
+      "mixing bowl",
+      "spoon"
+    ],
+    "cookingTips": [
+      "Mix all filling ingredients while mashed potatoes are still warm so they bind better",
+      "Chill mixture for at least 1 hour before shaping for easier handling",
+      "Roll in panko before baking at 375°F for 15-20 minutes until golden brown"
+    ],
+    "coachingPrompt": "How do I form croquettes that stay intact during baking without becoming dry?"
+  },
+  "timestamp": "2026-02-05T23:15:22.646Z"
+}

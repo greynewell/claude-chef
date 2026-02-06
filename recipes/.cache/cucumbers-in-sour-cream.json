@@ -1,0 +1,58 @@
+{
+  "contentHash": "b08982dc77020a48",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cucumbers, thinly sliced",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "1 (8 ounce) container sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "¼ cup distilled white vinegar",
+        "searchTerm": "white vinegar",
+        "normalizedName": "White Vinegar"
+      },
+      {
+        "ingredient": "⅓ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "mandoline slicer",
+        "searchTerm": "mandoline"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Slice cucumbers uniformly thin for better flavor absorption",
+      "Mix the sour cream dressing until smooth before combining with cucumbers",
+      "Refrigerate for at least 2 hours for best results"
+    ],
+    "coachingPrompt": "Help the user achieve the right balance between sweetness and acidity in the dressing."
+  },
+  "timestamp": "2026-02-06T04:49:39.527Z"
+}

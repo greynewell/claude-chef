@@ -1,0 +1,63 @@
+{
+  "contentHash": "d03f2303f1ffbb8a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 large onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 head cabbage, shredded",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (2 pound) package frozen dinner rolls, thawed",
+        "searchTerm": "frozen dinner rolls",
+        "normalizedName": "Frozen Dinner Roll"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "wooden spatula"
+      }
+    ],
+    "cookingTips": [
+      "Cook ground beef and onions until beef is browned, then add cabbage to soften",
+      "Cool filling slightly before assembling pockets to prevent tearing dough",
+      "Wrap filling in thawed rolls and bake until golden brown"
+    ],
+    "coachingPrompt": "Guide the user through wrapping the cabbage-beef filling in dinner rolls for individual hand-held portions."
+  },
+  "timestamp": "2026-02-06T05:36:11.504Z"
+}

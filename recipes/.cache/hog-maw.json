@@ -1,0 +1,57 @@
+{
+  "contentHash": "e47857ab05aef23f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 baking potatoes, peeled and cubed",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 large pork stomach",
+        "searchTerm": "pork stomach",
+        "normalizedName": "Pork Stomach"
+      },
+      {
+        "ingredient": "1 ½ pounds bulk pork sausage",
+        "searchTerm": "bulk pork sausage",
+        "normalizedName": "Bulk Pork Sausage"
+      },
+      {
+        "ingredient": "1 medium head cabbage, separated into leaves and rinsed",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Blanch pork stomach briefly to tenderize before stuffing with filling",
+      "Layer stuffing ingredients so flavors distribute evenly throughout cooking"
+    ],
+    "coachingPrompt": "Coach the cook through preparing an unfamiliar ingredient: cleaning, tenderizing, and assembling this traditional dish."
+  },
+  "timestamp": "2026-02-06T09:08:34.069Z"
+}

@@ -1,0 +1,47 @@
+{
+  "contentHash": "331ad2a2fbff1843",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound thinly sliced cooked ham",
+        "searchTerm": "cooked ham",
+        "normalizedName": "Cooked Ham"
+      },
+      {
+        "ingredient": "3 (8 ounce) packages cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 (8 ounce) packages shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 bunch green onions",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Mix cheeses together while cream cheese is still soft for even distribution",
+      "Finely chop green onions to distribute flavor throughout each roll-up"
+    ],
+    "coachingPrompt": "What's the ideal cheese-to-ham ratio to ensure the filling stays intact when rolling?"
+  },
+  "timestamp": "2026-02-06T08:43:35.541Z"
+}

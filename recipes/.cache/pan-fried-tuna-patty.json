@@ -1,0 +1,73 @@
+{
+  "contentHash": "ded0a20779058ede",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (5 ounce) can tuna packed in water, drained",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Canned Tuna"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ stalk celery, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 tablespoons chopped walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      },
+      {
+        "ingredient": "1 teaspoon chopped fresh dill",
+        "searchTerm": "fresh dill",
+        "normalizedName": "Fresh Dill"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Drain tuna well and flake it finely for a cohesive patty texture",
+      "Add breadcrumbs or crushed crackers if needed to bind the mixture",
+      "Form patties ahead of time and refrigerate to help them hold together while cooking"
+    ],
+    "coachingPrompt": "Help me make a flavorful tuna patty that holds together and develops a golden crust."
+  },
+  "timestamp": "2026-02-06T14:03:22.281Z"
+}

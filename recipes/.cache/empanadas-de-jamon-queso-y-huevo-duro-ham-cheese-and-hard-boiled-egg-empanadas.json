@@ -1,0 +1,58 @@
+{
+  "contentHash": "6c8e37a806c07992",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "2 cups cubed ham",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "2 cups cubed Gouda cheese",
+        "searchTerm": "gouda cheese",
+        "normalizedName": "Gouda Cheese"
+      },
+      {
+        "ingredient": "3 hard-boiled eggs, chopped",
+        "searchTerm": "hard-boiled eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "12 empanada pastry discs",
+        "searchTerm": "empanada pastry",
+        "normalizedName": "Empanada Pastry"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Cube ham and cheese into uniform sizes for even distribution",
+      "Chop hard-boiled eggs coarsely to maintain texture",
+      "Seal edges firmly with fork to prevent filling from leaking"
+    ],
+    "coachingPrompt": "How do I balance the salty ham and Gouda with the eggs to prevent an oversalted filling?"
+  },
+  "timestamp": "2026-02-06T06:19:15.273Z"
+}

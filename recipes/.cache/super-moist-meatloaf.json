@@ -1,0 +1,77 @@
+{
+  "contentHash": "3453fa82038b05f7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "½ onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¾ cup small chunks of bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup chopped green bell pepper",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 ½ teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon sage",
+        "searchTerm": "sage",
+        "normalizedName": "Sage"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Mix ingredients gently to avoid compacting the meat and making it dense",
+      "Use a meat thermometer; target 160°F internal temperature for food safety"
+    ],
+    "coachingPrompt": "Remind the user to handle the meat mixture gently and use a thermometer for accuracy."
+  },
+  "timestamp": "2026-02-06T19:53:07.395Z"
+}

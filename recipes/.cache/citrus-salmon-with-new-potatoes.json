@@ -1,0 +1,83 @@
+{
+  "contentHash": "1e95f3ab744f710a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 new potatoes",
+        "searchTerm": "new potatoes",
+        "normalizedName": "New Potato"
+      },
+      {
+        "ingredient": "1 lemon, sliced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "2 teaspoons minced fresh ginger root",
+        "searchTerm": "fresh ginger",
+        "normalizedName": "Ginger"
+      },
+      {
+        "ingredient": "2 teaspoons minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "4 (4 ounce) fillets skinless salmon",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "salt and freshly ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and freshly ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 ½ cups freshly squeezed orange juice",
+        "searchTerm": "orange juice",
+        "normalizedName": "Orange Juice"
+      },
+      {
+        "ingredient": "1 cup finely chopped fresh mint, divided",
+        "searchTerm": "fresh mint",
+        "normalizedName": "Mint"
+      },
+      {
+        "ingredient": "12 broccolini",
+        "searchTerm": "broccolini",
+        "normalizedName": "Broccolini"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Cook potatoes separately until tender, then add to pan for final assembly",
+      "Fresh mint should be added at the end to preserve its bright flavor",
+      "Orange juice reduces to a glaze when simmered with the salmon"
+    ],
+    "coachingPrompt": "Help the user coordinate timing so potatoes, broccolini, and salmon are all ready simultaneously for plating."
+  },
+  "timestamp": "2026-02-06T03:28:40.810Z"
+}

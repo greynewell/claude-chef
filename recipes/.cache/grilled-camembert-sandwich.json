@@ -1,0 +1,53 @@
+{
+  "contentHash": "b9f870d8c491a18d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ounces Camembert cheese",
+        "searchTerm": "Camembert cheese",
+        "normalizedName": "Camembert Cheese"
+      },
+      {
+        "ingredient": "2 thick slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "1 tablespoon whole cranberry sauce",
+        "searchTerm": "cranberry sauce",
+        "normalizedName": "Cranberry Sauce"
+      },
+      {
+        "ingredient": "1 dash balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "1 tablespoon butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill or griddle",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Bring Camembert to room temperature for creamy melting",
+      "Cook on low to medium heat to allow cheese to melt without burning bread",
+      "The contrast of tart cranberry and balsamic balances the richness of Camembert"
+    ],
+    "coachingPrompt": "Why is Camembert an ideal choice for a grilled cheese sandwich? What texture changes occur as it melts?"
+  },
+  "timestamp": "2026-02-06T08:11:12.958Z"
+}

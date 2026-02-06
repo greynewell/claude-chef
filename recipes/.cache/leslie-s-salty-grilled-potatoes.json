@@ -1,0 +1,57 @@
+{
+  "contentHash": "ebad74c0ee982357",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 medium potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "4 tablespoons butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 tablespoons coarse salt",
+        "searchTerm": "coarse salt",
+        "normalizedName": "Coarse Salt"
+      },
+      {
+        "ingredient": "2 tablespoons garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 tablespoon pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons Italian seasoning  (Optional)",
+        "searchTerm": "italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "foil packets",
+        "searchTerm": "aluminum foil"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Slice potatoes evenly so they cook at the same rate",
+      "Wrapping in foil helps retain moisture and prevents charring"
+    ],
+    "coachingPrompt": "What's the best way to ensure potatoes cook through without drying out on the grill?"
+  },
+  "timestamp": "2026-02-06T11:22:27.683Z"
+}

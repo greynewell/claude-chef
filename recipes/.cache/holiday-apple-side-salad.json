@@ -1,0 +1,52 @@
+{
+  "contentHash": "43d28f3371b438a8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (16 ounce) cans dark red kidney beans, drained and rinsed",
+        "searchTerm": "kidney beans",
+        "normalizedName": "Kidney Bean"
+      },
+      {
+        "ingredient": "2 large Granny Smith apples - peeled, cored and diced",
+        "searchTerm": "granny smith apples",
+        "normalizedName": "Granny Smith Apple"
+      },
+      {
+        "ingredient": "2 stalks celery, diced",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 bunch red globe grapes, halved and seeded",
+        "searchTerm": "red globe grapes",
+        "normalizedName": "Red Globe Grape"
+      },
+      {
+        "ingredient": "1 ½ cups creamy salad dressing, e.g. Miracle Whip ™",
+        "searchTerm": "creamy salad dressing",
+        "normalizedName": "Creamy Salad Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Bowl",
+        "searchTerm": "large mixing bowl"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Toss diced apples with a little vinegar or lemon juice immediately after cutting to prevent browning",
+      "Combine all ingredients just before serving to prevent beans from softening too much"
+    ],
+    "coachingPrompt": "Coach the cook on preventing oxidation in salads and managing timing to maintain texture and freshness in composed salads."
+  },
+  "timestamp": "2026-02-06T09:08:34.071Z"
+}

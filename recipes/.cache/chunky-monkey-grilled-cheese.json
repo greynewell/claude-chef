@@ -1,0 +1,63 @@
+{
+  "contentHash": "2eb87d47e57dcb58",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices raisin bread",
+        "searchTerm": "raisin bread",
+        "normalizedName": "Raisin Bread"
+      },
+      {
+        "ingredient": "peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "½ banana, sliced",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "2 tablespoons chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Chocolate Chip"
+      },
+      {
+        "ingredient": "¼ cup ricotta cheese",
+        "searchTerm": "ricotta cheese",
+        "normalizedName": "Ricotta Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 dash ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Mix ricotta with sugar and cinnamon for a creamy, subtly spiced layer",
+      "Layer ingredients so flavors build: peanut butter, banana, ricotta, chocolate",
+      "Toast over medium heat to warm without burning the raisin bread"
+    ],
+    "coachingPrompt": "Help the user create a sweet and savory grilled sandwich with balanced chocolate, peanut, and banana flavors."
+  },
+  "timestamp": "2026-02-06T03:18:52.197Z"
+}

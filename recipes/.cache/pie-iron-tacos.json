@@ -1,0 +1,72 @@
+{
+  "contentHash": "02a4351bd9a06493",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (1 ounce) package taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning Mix"
+      },
+      {
+        "ingredient": "12 (5 inch) corn tortillas",
+        "searchTerm": "corn tortillas",
+        "normalizedName": "Corn Tortilla"
+      },
+      {
+        "ingredient": "1 cup shredded Monterey Jack cheese",
+        "searchTerm": "Monterey Jack cheese",
+        "normalizedName": "Monterey Jack Cheese"
+      },
+      {
+        "ingredient": "½ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cups shredded iceberg lettuce",
+        "searchTerm": "iceberg lettuce",
+        "normalizedName": "Iceberg Lettuce"
+      },
+      {
+        "ingredient": "1 large tomato, diced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 (8 ounce) jar salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "1 (8 ounce) container sour cream (Optional)",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Pie Iron",
+        "searchTerm": "pie iron"
+      },
+      {
+        "name": "Stove",
+        "searchTerm": "stove"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly and drain excess fat before seasoning",
+      "Assemble pie iron tacos with layers to prevent filling from spilling"
+    ],
+    "coachingPrompt": "How would you assemble and cook pie iron tacos to get a crispy exterior while keeping fillings intact?"
+  },
+  "timestamp": "2026-02-06T14:46:17.294Z"
+}

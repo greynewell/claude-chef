@@ -1,0 +1,42 @@
+{
+  "contentHash": "0e13905c0b491f35",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups almond milk, divided",
+        "searchTerm": "almond milk",
+        "normalizedName": "Almond Milk"
+      },
+      {
+        "ingredient": "1 (3.5 ounce) package instant vanilla pudding mix",
+        "searchTerm": "instant vanilla pudding mix",
+        "normalizedName": "Instant Vanilla Pudding Mix"
+      },
+      {
+        "ingredient": "2 teaspoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      }
+    ],
+    "gear": [
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Whisk the pudding mix with 1 cup of almond milk first to avoid lumps",
+      "Add cornstarch if you prefer a thicker pudding consistency"
+    ],
+    "coachingPrompt": "Guide the user through whisking techniques to prevent lumps in instant pudding."
+  },
+  "timestamp": "2026-02-05T21:55:19.468Z"
+}

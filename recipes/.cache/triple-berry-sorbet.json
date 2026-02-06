@@ -1,0 +1,62 @@
+{
+  "contentHash": "354b8a7717760922",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ¾ cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 ¾ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 cups fresh or frozen cranberries",
+        "searchTerm": "cranberries",
+        "normalizedName": "Cranberry"
+      },
+      {
+        "ingredient": "1 (12 ounce) package frozen unsweetened raspberries",
+        "searchTerm": "frozen raspberries",
+        "normalizedName": "Frozen Raspberry"
+      },
+      {
+        "ingredient": "1 ½ cups cherry juice",
+        "searchTerm": "cherry juice",
+        "normalizedName": "Cherry Juice"
+      },
+      {
+        "ingredient": "½ cup lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "2 tablespoons frozen orange juice concentrate",
+        "searchTerm": "frozen orange juice concentrate",
+        "normalizedName": "Frozen Orange Juice Concentrate"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "fine mesh strainer",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Create a simple syrup by dissolving sugar in hot water; cool completely before mixing with fruit",
+      "Strain the mixture to remove pulp and seeds for a smooth sorbet texture"
+    ],
+    "coachingPrompt": "Guide the user on making and cooling syrup properly, and explain ice cream maker operation."
+  },
+  "timestamp": "2026-02-06T21:07:08.725Z"
+}

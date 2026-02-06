@@ -1,0 +1,42 @@
+{
+  "contentHash": "47eee4924c59d230",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "16 cups plain yogurt",
+        "searchTerm": "plain yogurt",
+        "normalizedName": "Plain Yogurt"
+      },
+      {
+        "ingredient": "1 teaspoon salt, or to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cheesecloth",
+        "searchTerm": "cheesecloth"
+      },
+      {
+        "name": "strainer",
+        "searchTerm": "strainer"
+      },
+      {
+        "name": "bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Line strainer with cheesecloth and drain yogurt for 24-48 hours for thicker labneh",
+      "Squeeze cheesecloth gently to remove excess whey without losing texture"
+    ],
+    "coachingPrompt": "Guide the user through the straining process and suggest serving labneh as a dip or spread with herbs."
+  },
+  "timestamp": "2026-02-06T10:57:25.457Z"
+}

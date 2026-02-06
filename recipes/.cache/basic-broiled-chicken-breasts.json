@@ -1,0 +1,48 @@
+{
+  "contentHash": "06cbf2155fdd1f9c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons extra virgin olive oil",
+        "searchTerm": "extra virgin olive oil",
+        "normalizedName": "Extra Virgin Olive Oil"
+      },
+      {
+        "ingredient": "4 bone-in chicken breast halves with skin",
+        "searchTerm": "bone-in chicken breast",
+        "normalizedName": "Bone-In Chicken Breast"
+      },
+      {
+        "ingredient": "2 teaspoons kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "1 teaspoon freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "broiler pan",
+        "searchTerm": "broiler pan"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Pat chicken skin dry before oiling to promote browning and crispiness",
+      "Position broiler rack 6-8 inches from heat source and preheat thoroughly",
+      "Cook for 12-15 minutes until internal temperature reaches 165°F at thickest point"
+    ],
+    "coachingPrompt": "Guide the user to achieve crispy skin and juicy meat by properly drying the chicken and monitoring internal temperature with a thermometer."
+  },
+  "timestamp": "2026-02-05T23:32:42.645Z"
+}

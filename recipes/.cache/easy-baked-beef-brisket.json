@@ -1,0 +1,72 @@
+{
+  "contentHash": "eb70434941443464",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds first-cut brisket",
+        "searchTerm": "beef brisket",
+        "normalizedName": "Beef Brisket"
+      },
+      {
+        "ingredient": "4 teaspoons kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "2 teaspoons freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ teaspoon cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 large yellow onion",
+        "searchTerm": "yellow onion",
+        "normalizedName": "Yellow Onion"
+      },
+      {
+        "ingredient": "4 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon minced fresh rosemary",
+        "searchTerm": "rosemary",
+        "normalizedName": "Rosemary"
+      },
+      {
+        "ingredient": "1 cup apple juice",
+        "searchTerm": "apple juice",
+        "normalizedName": "Apple Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Dutch Oven",
+        "searchTerm": "dutch oven"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Allow brisket to rest 15 minutes before slicing to retain juices",
+      "Sear the brisket before braising to develop a flavorful crust"
+    ],
+    "coachingPrompt": "Help the user understand low-and-slow cooking technique and internal temperature targets for tender, juicy brisket."
+  },
+  "timestamp": "2026-02-06T05:32:24.145Z"
+}

@@ -1,0 +1,68 @@
+{
+  "contentHash": "ce250612699f100e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 small red onion, thinly sliced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¾ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 teaspoon Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "1 pound Brussels sprouts, trimmed, halved lengthwise, and thinly sliced",
+        "searchTerm": "Brussels sprouts",
+        "normalizedName": "Brussels Sprout"
+      },
+      {
+        "ingredient": "1 tablespoon cider vinegar",
+        "searchTerm": "cider vinegar",
+        "normalizedName": "Cider Vinegar"
+      },
+      {
+        "ingredient": "½ cup crumbled Gorgonzola cheese",
+        "searchTerm": "Gorgonzola cheese",
+        "normalizedName": "Gorgonzola Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "cooking spatula"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then use the rendered fat to sauté the Brussels sprouts for deep flavor",
+      "Slice Brussels sprouts thinly to ensure they cook evenly and develop caramelized edges",
+      "Add Gorgonzola cheese just before serving so it softens without melting completely"
+    ],
+    "coachingPrompt": "How does bacon fat enhance the cooking of Brussels sprouts, and what role does Gorgonzola play in balancing flavors?"
+  },
+  "timestamp": "2026-02-05T22:48:30.241Z"
+}

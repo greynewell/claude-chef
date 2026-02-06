@@ -1,0 +1,63 @@
+{
+  "contentHash": "a23a6cb5065e9472",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (29 ounce) can tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "3 ½ pounds chopped cabbage",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "1 cup uncooked white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "Rice"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 (14 ounce) cans beef broth",
+        "searchTerm": "beef broth",
+        "normalizedName": "Beef Broth"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Brown the ground beef and onion before layering to develop rich flavors",
+      "Layer ingredients in the order: meat mixture, cabbage, rice, then sauce",
+      "Cover with foil for first half of baking to retain moisture, then uncover to finish"
+    ],
+    "coachingPrompt": "Are you comfortable layering a casserole? I can walk you through the assembly process step-by-step."
+  },
+  "timestamp": "2026-02-06T01:07:24.077Z"
+}

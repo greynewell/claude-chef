@@ -1,0 +1,57 @@
+{
+  "contentHash": "08a10ed4677c6813",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 small onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Yellow Onion"
+      },
+      {
+        "ingredient": "2 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 small tomato, chopped",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "3 cups loosely packed chopped kale",
+        "searchTerm": "kale",
+        "normalizedName": "Kale"
+      },
+      {
+        "ingredient": "1 cup canned white beans, rinsed and drained",
+        "searchTerm": "white beans",
+        "normalizedName": "White Bean"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Sauté onion in butter until softened before adding broth and greens",
+      "Add kale in batches, allowing it to wilt slightly between additions for better texture"
+    ],
+    "coachingPrompt": "Help the cook understand how to balance tender kale with other ingredients while maintaining fresh flavor."
+  },
+  "timestamp": "2026-02-06T17:47:31.398Z"
+}

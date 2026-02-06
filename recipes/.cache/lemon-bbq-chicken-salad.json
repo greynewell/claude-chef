@@ -1,0 +1,72 @@
+{
+  "contentHash": "38d66e3fa07531ae",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups cubed cooked chicken",
+        "searchTerm": "cooked chicken",
+        "normalizedName": "Chicken"
+      },
+      {
+        "ingredient": "2 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "2 cups cold cooked rice",
+        "searchTerm": "cooked rice",
+        "normalizedName": "Rice"
+      },
+      {
+        "ingredient": "1 stalk celery, sliced",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "½ cup sliced pimiento-stuffed olives",
+        "searchTerm": "pimiento olives",
+        "normalizedName": "Olive"
+      },
+      {
+        "ingredient": "6 tablespoons crumbled cooked bacon, divided",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 tablespoons barbeque sauce",
+        "searchTerm": "bbq sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "½ teaspoon hickory-flavored liquid smoke",
+        "searchTerm": "liquid smoke",
+        "normalizedName": "Liquid Smoke"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Prepare all ingredients ahead of time and chill before serving for best flavor",
+      "Use freshly squeezed lemon juice for brighter taste than bottled"
+    ],
+    "coachingPrompt": "Guide the user on how to properly cube the chicken and explain why chilling salads improves flavor development."
+  },
+  "timestamp": "2026-02-06T11:08:27.614Z"
+}

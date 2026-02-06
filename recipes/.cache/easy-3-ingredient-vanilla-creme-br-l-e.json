@@ -1,0 +1,43 @@
+{
+  "contentHash": "c20f1affe259464a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "frozen desserts, ice cream, vanilla",
+        "searchTerm": "vanilla ice cream",
+        "normalizedName": "Vanilla Ice Cream"
+      },
+      {
+        "ingredient": "large egg yolks",
+        "searchTerm": "egg yolks",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "granulated sugars",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Ramekins",
+        "searchTerm": "ramekins"
+      },
+      {
+        "name": "Kitchen Torch",
+        "searchTerm": "kitchen torch"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Allow ice cream to soften slightly before mixing for smoother incorporation",
+      "Temper egg yolks by slowly adding hot mixture to prevent scrambling",
+      "Let crème brûlée chill fully before torching for best caramelization"
+    ],
+    "coachingPrompt": "Explain the shortcut of using ice cream instead of cream and guide proper torch technique for an even caramelized sugar shell."
+  },
+  "timestamp": "2026-02-06T05:28:59.761Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "68f8b321a1508d15",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup fresh lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "½ cup fat-free chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "4 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 tablespoons dried oregano",
+        "searchTerm": "oregano",
+        "normalizedName": "Oregano"
+      },
+      {
+        "ingredient": "1 ½ pounds skinless, boneless chicken thighs",
+        "searchTerm": "chicken thigh",
+        "normalizedName": "Chicken Thigh"
+      },
+      {
+        "ingredient": "1 pound small new potatoes, halved",
+        "searchTerm": "new potato",
+        "normalizedName": "New Potato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet or baking dish",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Marinate chicken and potatoes for at least 30 minutes for maximum flavor absorption",
+      "Cook until chicken reaches 165°F internal temperature",
+      "Reduce marinade on stovetop to create a concentrated sauce for serving"
+    ],
+    "coachingPrompt": "Help the user build a lean, flavorful dish using fat-free broth and explain how to concentrate liquid into sauce."
+  },
+  "timestamp": "2026-02-06T08:01:18.202Z"
+}

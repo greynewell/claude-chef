@@ -1,0 +1,48 @@
+{
+  "contentHash": "b5f35d8ac76762b5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 head broccoli, cut into florets",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "1 slice cooked bacon, chopped",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "steamer basket",
+        "searchTerm": "steamer basket"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy before chopping for better texture",
+      "Toss warm broccoli with butter and bacon for even coating"
+    ],
+    "coachingPrompt": "What cooking methods best retain broccoli's nutritional value?"
+  },
+  "timestamp": "2026-02-06T19:25:43.233Z"
+}

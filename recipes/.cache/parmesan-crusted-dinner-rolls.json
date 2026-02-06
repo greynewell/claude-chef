@@ -1,0 +1,38 @@
+{
+  "contentHash": "1b29910a90efd505",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 (1 pound) loaf frozen bread dough, thawed",
+        "searchTerm": "frozen bread dough",
+        "normalizedName": "Frozen Bread Dough"
+      },
+      {
+        "ingredient": "½ cup salted butter, melted",
+        "searchTerm": "salted butter",
+        "normalizedName": "Salted Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Brush melted butter on rolls before applying Parmesan for golden, crispy crust",
+      "Bake according to bread dough package directions, checking that Parmesan is lightly browned"
+    ],
+    "coachingPrompt": "What's the best timing to add the Parmesan coating to prevent it from falling off during baking?"
+  },
+  "timestamp": "2026-02-06T14:10:37.098Z"
+}

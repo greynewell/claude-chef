@@ -1,0 +1,57 @@
+{
+  "contentHash": "ef628952a6a59a20",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "1 teaspoon parsley flakes",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley Flake"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "½ teaspoon seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      },
+      {
+        "ingredient": "3 tablespoons unsalted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cut bread into uniform cubes for even cooking",
+      "Toss cubes with melted butter and seasonings for even coating",
+      "Air fry at 375°F for 8-10 minutes, shaking basket halfway through"
+    ],
+    "coachingPrompt": "How can I season these croutons for maximum flavor without making them soggy?"
+  },
+  "timestamp": "2026-02-06T09:13:13.844Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "5a0ef75b747fc1ca",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons salted butter, melted",
+        "searchTerm": "salted butter",
+        "normalizedName": "Salted Butter"
+      },
+      {
+        "ingredient": "1 egg white",
+        "searchTerm": "egg white",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "1 cup pecan halves",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Measuring Cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Whip egg white until foamy to create better adhesion for the sugar coating",
+      "Toss pecans thoroughly in the egg white mixture for even sugar distribution",
+      "Cool completely on a parchment-lined tray before storing to avoid sticking"
+    ],
+    "coachingPrompt": "Explain how the egg white acts as a binder and guide the user on achieving an even, crispy coating without clumping."
+  },
+  "timestamp": "2026-02-05T21:47:32.521Z"
+}

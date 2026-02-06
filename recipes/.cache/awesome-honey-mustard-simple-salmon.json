@@ -1,0 +1,43 @@
+{
+  "contentHash": "0fcc0ab3030d8d91",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (8 ounce) skinless, boneless salmon fillets",
+        "searchTerm": "salmon fillets",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "¼ cup Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "2 tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Mix mustard and honey together for even coating",
+      "Bake at 400°F for 12-15 minutes until salmon flakes easily",
+      "Don't overcook salmon as it dries out quickly"
+    ],
+    "coachingPrompt": "Guide the user on proper salmon doneness and explain how the honey-mustard glaze caramelizes during cooking."
+  },
+  "timestamp": "2026-02-05T22:45:20.655Z"
+}

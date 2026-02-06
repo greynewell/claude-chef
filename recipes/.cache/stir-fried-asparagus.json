@@ -1,0 +1,48 @@
+{
+  "contentHash": "9bd0415f59bcae30",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ sweet onion, chopped",
+        "searchTerm": "sweet onion",
+        "normalizedName": "Sweet Onion"
+      },
+      {
+        "ingredient": "1 pound fresh asparagus, trimmed",
+        "searchTerm": "fresh asparagus",
+        "normalizedName": "Fresh Asparagus"
+      },
+      {
+        "ingredient": "1 teaspoon chopped roasted garlic",
+        "searchTerm": "roasted garlic",
+        "normalizedName": "Roasted Garlic"
+      },
+      {
+        "ingredient": "2 teaspoons teriyaki sauce",
+        "searchTerm": "teriyaki sauce",
+        "normalizedName": "Teriyaki Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Wok or Large Skillet",
+        "searchTerm": "wok"
+      },
+      {
+        "name": "Wooden Spoon or Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Trim woody ends of asparagus before cooking for tender, edible spears",
+      "Keep heat high and cooking time short to preserve the bright green color and crisp texture"
+    ],
+    "coachingPrompt": "This is a quick, simple side dish. Do you prefer your asparagus tender-crisp or more cooked through?"
+  },
+  "timestamp": "2026-02-06T19:27:25.611Z"
+}

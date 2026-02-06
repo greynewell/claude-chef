@@ -1,0 +1,63 @@
+{
+  "contentHash": "b447cc242de22939",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground sirloin, or extra lean beef",
+        "searchTerm": "ground sirloin",
+        "normalizedName": "Ground Sirloin"
+      },
+      {
+        "ingredient": "1 tablespoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "⅛ teaspoon onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      },
+      {
+        "ingredient": "1 (4 ounce) container crumbled Gorgonzola cheese",
+        "searchTerm": "Gorgonzola cheese",
+        "normalizedName": "Gorgonzola Cheese"
+      },
+      {
+        "ingredient": "¼ cup fresh basil leaves, chopped",
+        "searchTerm": "basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "salt and black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "burger spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Mix cheese and basil gently into beef to avoid overworking the meat",
+      "Form patties with a slight depression in the center to prevent bulging",
+      "Grill to 160°F internal temperature for food safety"
+    ],
+    "coachingPrompt": "Guide the user on handling ground meat gently and distributing cheese and herbs evenly for consistent flavor."
+  },
+  "timestamp": "2026-02-06T08:16:33.678Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "89fef5c640e660fe",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 large sweet potatoes, peeled and cut into French fry-size pieces",
+        "searchTerm": "sweet potatoes",
+        "normalizedName": "Sweet Potato"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 tablespoons minced fresh rosemary",
+        "searchTerm": "fresh rosemary",
+        "normalizedName": "Fresh Rosemary"
+      },
+      {
+        "ingredient": "coarse sea salt and coarsely ground black pepper to taste",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "coarse sea salt and coarsely ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Cut fries to uniform thickness for even cooking",
+      "Pat dry with paper towels before seasoning to promote crispiness",
+      "Toss halfway through baking for even browning"
+    ],
+    "coachingPrompt": "What dipping sauces would complement these sweet potato fries?"
+  },
+  "timestamp": "2026-02-06T17:06:48.967Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "ec52736ca89402c4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds fresh tomatillos - husked, peeled, and halved",
+        "searchTerm": "tomatillos",
+        "normalizedName": "Tomatillo"
+      },
+      {
+        "ingredient": "½ cup cilantro leaves",
+        "searchTerm": "fresh cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "¼ cup chopped white onion",
+        "searchTerm": "white onion",
+        "normalizedName": "White Onion"
+      },
+      {
+        "ingredient": "1 jalapeno pepper, diced",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 serrano pepper, diced",
+        "searchTerm": "serrano pepper",
+        "normalizedName": "Serrano Pepper"
+      },
+      {
+        "ingredient": "1 lime, juiced",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "⅛ teaspoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "serving bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Char tomatillos in a dry skillet over medium-high heat for 2-3 minutes per side for deeper flavor",
+      "Pulse ingredients in food processor until desired consistency is reached, leaving some texture",
+      "Chill salsa for at least 30 minutes before serving to allow flavors to meld"
+    ],
+    "coachingPrompt": "Should I char the tomatillos and how chunky should the finished salsa be?"
+  },
+  "timestamp": "2026-02-06T05:07:12.925Z"
+}

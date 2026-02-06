@@ -1,0 +1,83 @@
+{
+  "contentHash": "1cc5b4da2d5e42d8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "tomatoes",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "avocados",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "fresh cilantro",
+        "searchTerm": "fresh cilantro",
+        "normalizedName": "Fresh Cilantro"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "lime",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "corn tortillas",
+        "searchTerm": "corn tortillas",
+        "normalizedName": "Corn Tortilla"
+      },
+      {
+        "ingredient": "black beans",
+        "searchTerm": "black beans",
+        "normalizedName": "Black Bean"
+      },
+      {
+        "ingredient": "white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "green pepper sauce",
+        "searchTerm": "green pepper sauce",
+        "normalizedName": "Green Pepper Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Serving platter",
+        "searchTerm": "serving platter"
+      }
+    ],
+    "cookingTips": [
+      "Make salsa just before serving to keep tomatoes fresh and prevent sogginess",
+      "Warm tortillas in a dry skillet or over a flame for best flavor and pliability",
+      "Prepare all components in advance but assemble tacos right before eating"
+    ],
+    "coachingPrompt": "How do you prevent the taco components from making the tortilla soggy while maintaining all the fresh flavors?"
+  },
+  "timestamp": "2026-02-06T01:15:44.021Z"
+}

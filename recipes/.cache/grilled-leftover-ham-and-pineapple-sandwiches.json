@@ -1,0 +1,53 @@
+{
+  "contentHash": "f1e562d1fba0d902",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 tablespoons cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "8 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "1 (8 ounce) can pineapple rings, drained",
+        "searchTerm": "canned pineapple rings",
+        "normalizedName": "Pineapple Ring"
+      },
+      {
+        "ingredient": "4 slices leftover baked ham",
+        "searchTerm": "baked ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Bread Knife",
+        "searchTerm": "bread knife"
+      }
+    ],
+    "cookingTips": [
+      "Spread cream cheese evenly on bread before assembling to prevent pineapple juice from making bread soggy",
+      "Grill sandwiches over medium heat until bread is golden and cheese begins to melt",
+      "Butter the outside of bread for extra crispiness when grilling"
+    ],
+    "coachingPrompt": "Are you looking for creative ways to use leftover ham? This recipe pairs sweet and savory beautifully."
+  },
+  "timestamp": "2026-02-06T08:19:21.206Z"
+}

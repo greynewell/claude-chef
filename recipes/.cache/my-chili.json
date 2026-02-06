@@ -1,0 +1,73 @@
+{
+  "contentHash": "788b9ec40bb4a11e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "2 onions, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "4 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 tablespoons chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 teaspoons dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      },
+      {
+        "ingredient": "4 (14.5 ounce) cans stewed tomatoes",
+        "searchTerm": "stewed tomatoes",
+        "normalizedName": "Stewed Tomato"
+      },
+      {
+        "ingredient": "1 (15 ounce) can tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "1 (15 ounce) can kidney beans with liquid",
+        "searchTerm": "kidney beans",
+        "normalizedName": "Kidney Bean"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Brown the meat well before adding other ingredients for deeper flavor",
+      "Let chili simmer low and slow for at least 30 minutes to meld flavors",
+      "Taste and adjust seasonings toward the end of cooking"
+    ],
+    "coachingPrompt": "What techniques can build rich, complex flavors in chili? How does simmering time affect the final dish?"
+  },
+  "timestamp": "2026-02-06T13:03:47.448Z"
+}

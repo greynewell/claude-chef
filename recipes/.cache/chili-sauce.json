@@ -1,0 +1,43 @@
+{
+  "contentHash": "e2eb554c412104c7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "¼ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons vinegar",
+        "searchTerm": "vinegar",
+        "normalizedName": "Vinegar"
+      },
+      {
+        "ingredient": "¼ teaspoon allspice",
+        "searchTerm": "allspice",
+        "normalizedName": "Allspice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Small saucepan",
+        "searchTerm": "small saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Simmer gently for 5-10 minutes to allow flavors to meld and sauce to thicken slightly",
+      "Taste and adjust sweetness with more brown sugar or tanginess with vinegar as needed"
+    ],
+    "coachingPrompt": "How do you balance the sweetness, acidity, and spice to create a well-rounded sauce?"
+  },
+  "timestamp": "2026-02-06T02:50:54.798Z"
+}

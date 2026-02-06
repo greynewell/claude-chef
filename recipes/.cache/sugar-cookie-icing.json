@@ -1,0 +1,52 @@
+{
+  "contentHash": "2e61f602284642c2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "2 teaspoons milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 teaspoons light corn syrup",
+        "searchTerm": "corn syrup",
+        "normalizedName": "Corn Syrup"
+      },
+      {
+        "ingredient": "¼ teaspoon almond extract",
+        "searchTerm": "almond extract",
+        "normalizedName": "Almond Extract"
+      },
+      {
+        "ingredient": "assorted food coloring",
+        "searchTerm": "food coloring",
+        "normalizedName": "Food Coloring"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "piping bag",
+        "searchTerm": "piping bag"
+      }
+    ],
+    "cookingTips": [
+      "Adjust milk gradually for desired consistency - thicker for piping, thinner for flooding",
+      "Add food coloring drop by drop to achieve vibrant colors without thinning the icing"
+    ],
+    "coachingPrompt": "How thick should your icing be for the decorating technique you're planning - piping details or flooding the cookies?"
+  },
+  "timestamp": "2026-02-06T19:44:10.585Z"
+}

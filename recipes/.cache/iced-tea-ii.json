@@ -1,0 +1,48 @@
+{
+  "contentHash": "802953fbd3e810c7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 orange pekoe tea bags",
+        "searchTerm": "orange pekoe tea",
+        "normalizedName": "Orange Pekoe Tea"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pitcher",
+        "searchTerm": "glass pitcher"
+      },
+      {
+        "name": "Kettle",
+        "searchTerm": "kettle"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Steep tea bags for 3-5 minutes, not longer, to avoid bitterness",
+      "Dissolve sugar while tea is hot for better incorporation",
+      "Chill completely before adding ice to prevent dilution"
+    ],
+    "coachingPrompt": "Guide the user through brewing the perfect balance of sweetness and tartness in iced tea without over-steeping."
+  },
+  "timestamp": "2026-02-06T09:38:28.183Z"
+}

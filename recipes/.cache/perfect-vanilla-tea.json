@@ -1,0 +1,58 @@
+{
+  "contentHash": "7915969b0ff32d03",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup boiling water",
+        "searchTerm": "boiling water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 orange pekoe tea bag",
+        "searchTerm": "orange pekoe tea",
+        "normalizedName": "Orange Pekoe Tea"
+      },
+      {
+        "ingredient": "2 tablespoons milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 teaspoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Tea Cup",
+        "searchTerm": "tea cup"
+      },
+      {
+        "name": "Tea Infuser",
+        "searchTerm": "tea infuser"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Steep tea for 3-5 minutes for proper flavor extraction",
+      "Add vanilla extract after brewing to preserve its aromatic qualities",
+      "Warm milk slightly before adding to prevent cooling the tea"
+    ],
+    "coachingPrompt": "Explain proper tea steeping time and why vanilla extract should be added after brewing rather than before."
+  },
+  "timestamp": "2026-02-06T14:37:03.420Z"
+}

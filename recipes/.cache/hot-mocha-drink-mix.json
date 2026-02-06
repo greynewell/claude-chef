@@ -1,0 +1,52 @@
+{
+  "contentHash": "3bf0135dc2d72562",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup dry milk powder",
+        "searchTerm": "milk powder",
+        "normalizedName": "Milk Powder"
+      },
+      {
+        "ingredient": "1 cup powdered non-dairy creamer",
+        "searchTerm": "non-dairy creamer",
+        "normalizedName": "Non-Dairy Creamer"
+      },
+      {
+        "ingredient": "½ cup unsweetened cocoa",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "¼ cup instant coffee granules",
+        "searchTerm": "instant coffee",
+        "normalizedName": "Instant Coffee"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Airtight Container",
+        "searchTerm": "container"
+      }
+    ],
+    "cookingTips": [
+      "Sift all dry ingredients together to break up lumps and ensure even distribution",
+      "Store in an airtight container in a cool, dry place for up to 3 months for best flavor"
+    ],
+    "coachingPrompt": "How much of this mix should one use per cup of hot water, and how would you package this as a gift?"
+  },
+  "timestamp": "2026-02-06T09:31:01.255Z"
+}

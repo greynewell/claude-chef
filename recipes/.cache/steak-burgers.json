@@ -1,0 +1,43 @@
+{
+  "contentHash": "3f9f2acbe30f5d1f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "Montreal steak seasoning",
+        "searchTerm": "montreal steak seasoning",
+        "normalizedName": "Montreal Steak Seasoning"
+      },
+      {
+        "ingredient": "hamburger buns",
+        "searchTerm": "hamburger buns",
+        "normalizedName": "Hamburger Bun"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill or skillet",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Form patties gently without overworking the meat",
+      "Make a small indent in the center of each patty to prevent bulging",
+      "Cook to 160°F internal temperature for food safety"
+    ],
+    "coachingPrompt": "What toppings and condiments would enhance the steak seasoning without competing with it?"
+  },
+  "timestamp": "2026-02-06T19:23:56.693Z"
+}

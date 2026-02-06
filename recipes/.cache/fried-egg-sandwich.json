@@ -1,0 +1,67 @@
+{
+  "contentHash": "45c25dec72cebe82",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "4 slices processed American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      },
+      {
+        "ingredient": "8 slices toasted white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 tablespoons ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      }
+    ],
+    "cookingTips": [
+      "Cook eggs over medium heat to avoid tough, rubbery whites",
+      "Apply condiments to warm toast for better absorption"
+    ],
+    "coachingPrompt": "How will you coordinate toasting bread with frying eggs to keep everything warm, and what's your technique for a perfect yolk?"
+  },
+  "timestamp": "2026-02-06T07:04:45.285Z"
+}

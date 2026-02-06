@@ -1,0 +1,63 @@
+{
+  "contentHash": "a23e1655056a79d9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "fresh spinach, rinsed and dried",
+        "searchTerm": "fresh spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "dried cranberries",
+        "searchTerm": "dried cranberries",
+        "normalizedName": "Dried Cranberry"
+      },
+      {
+        "ingredient": "walnut halves",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "tomato, sliced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "top round steak, thinly sliced",
+        "searchTerm": "top round steak",
+        "normalizedName": "Top Round Steak"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large bowl",
+        "searchTerm": "salad bowl"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "salad tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Slice steak very thinly for tender results and quicker cooking",
+      "Sear steak in a hot skillet just until medium-rare, then slice",
+      "Dress salad just before serving to keep greens crisp"
+    ],
+    "coachingPrompt": "What vinaigrette would best complement the sweet cranberries and earthy spinach?"
+  },
+  "timestamp": "2026-02-06T19:23:56.693Z"
+}

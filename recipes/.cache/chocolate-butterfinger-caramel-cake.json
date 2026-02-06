@@ -1,0 +1,53 @@
+{
+  "contentHash": "46a3418fc8909b33",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (18.25 ounce) package chocolate cake mix",
+        "searchTerm": "chocolate cake mix",
+        "normalizedName": "Chocolate Cake Mix"
+      },
+      {
+        "ingredient": "1 (14 ounce) can NESTLE® CARNATION® Sweetened Condensed Milk",
+        "searchTerm": "sweetened condensed milk",
+        "normalizedName": "Sweetened Condensed Milk"
+      },
+      {
+        "ingredient": "36 pieces NESTLE® BUTTERFINGER® Bites Candy, chopped, divided",
+        "searchTerm": "butterfinger candy",
+        "normalizedName": "Butterfinger Candy"
+      },
+      {
+        "ingredient": "1 (12.25 ounce) jar caramel ice cream topping",
+        "searchTerm": "caramel topping",
+        "normalizedName": "Caramel Topping"
+      },
+      {
+        "ingredient": "1 pint whipping cream, whipped",
+        "searchTerm": "whipping cream",
+        "normalizedName": "Whipping Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Pierce warm cake with fork before drizzling condensed milk for absorption",
+      "Reserve some Butterfinger pieces for topping before layering",
+      "Keep whipped cream chilled until serving to maintain structure"
+    ],
+    "coachingPrompt": "Why should you pierce a warm cake before adding liquid toppings?"
+  },
+  "timestamp": "2026-02-06T02:59:22.581Z"
+}

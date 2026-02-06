@@ -1,0 +1,67 @@
+{
+  "contentHash": "ae82c170642e42f8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 lemons, juiced",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 ½ cups soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 ½ cups white wine",
+        "searchTerm": "white wine",
+        "normalizedName": "White Wine"
+      },
+      {
+        "ingredient": "4 teaspoons prepared mustard",
+        "searchTerm": "mustard",
+        "normalizedName": "Mustard"
+      },
+      {
+        "ingredient": "2 teaspoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 (4 ounce) fillets salmon",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "shallow dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "citrus juicer",
+        "searchTerm": "juicer"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "The lemon juice's acidity will partially cure the salmon, creating a unique texture if marinated longer than 2 hours",
+      "Use fresh salmon fillets of similar thickness for even marinating"
+    ],
+    "coachingPrompt": "Guide the user on the balance between the citrus acidity and umami from soy sauce, and how honey provides subtle sweetness."
+  },
+  "timestamp": "2026-02-06T12:01:25.711Z"
+}

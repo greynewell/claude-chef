@@ -1,0 +1,63 @@
+{
+  "contentHash": "0ba8ca9a919c496f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "large baking potatoes, scrubbed",
+        "searchTerm": "baking potatoes",
+        "normalizedName": "Baking Potato"
+      },
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "coarse kosher salt",
+        "searchTerm": "salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "dried parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Dried Parsley"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "Small Dish",
+        "searchTerm": "small dish"
+      }
+    ],
+    "cookingTips": [
+      "Pierce potatoes multiple times to prevent steam buildup and explosion",
+      "Rub with oil and coarse salt for crispy skin",
+      "Let potatoes rest 5 minutes after cooking before serving for easier splitting"
+    ],
+    "coachingPrompt": "Guide the cook on selecting similarly-sized potatoes for even cooking and explain the advantages of air frying for faster baking with crispier skin."
+  },
+  "timestamp": "2026-02-06T05:28:59.762Z"
+}

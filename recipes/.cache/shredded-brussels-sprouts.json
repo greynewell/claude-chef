@@ -1,0 +1,63 @@
+{
+  "contentHash": "8ed03372ba23fb59",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound sliced bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "⅔ cup pine nuts",
+        "searchTerm": "pine nuts",
+        "normalizedName": "Pine Nut"
+      },
+      {
+        "ingredient": "2 pounds Brussels sprouts, cored and shredded",
+        "searchTerm": "brussels sprouts",
+        "normalizedName": "Brussels Sprout"
+      },
+      {
+        "ingredient": "3 green onions, minced",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "½ teaspoon seasoning salt",
+        "searchTerm": "seasoning salt",
+        "normalizedName": "Seasoning Salt"
+      },
+      {
+        "ingredient": "pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "box grater or food processor",
+        "searchTerm": "grater"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "cooking spoon"
+      }
+    ],
+    "cookingTips": [
+      "Core Brussels sprouts before shredding to remove tough center",
+      "Cook bacon until crispy, then use rendered fat to cook sprouts for extra flavor",
+      "Don't overcook shredded sprouts; they should retain some texture and bright color"
+    ],
+    "coachingPrompt": "Help the cook understand how to properly shred Brussels sprouts and balance the rich bacon with fresh vegetable flavors."
+  },
+  "timestamp": "2026-02-06T17:29:40.790Z"
+}

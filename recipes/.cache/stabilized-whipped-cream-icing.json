@@ -1,0 +1,53 @@
+{
+  "contentHash": "3c112ead4acd6312",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup cold water",
+        "searchTerm": "cold water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 teaspoon unflavored gelatin",
+        "searchTerm": "unflavored gelatin",
+        "normalizedName": "Unflavored Gelatin"
+      },
+      {
+        "ingredient": "1 cup heavy whipping cream",
+        "searchTerm": "heavy whipping cream",
+        "normalizedName": "Heavy Whipping Cream"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Bloom gelatin in cold water before adding to whipped cream to prevent lumps",
+      "Keep all equipment and cream cold for best whipping results",
+      "Use immediately or refrigerate until ready to use"
+    ],
+    "coachingPrompt": "Gelatin stabilizes whipped cream, preventing it from weeping. Properly bloom the gelatin and keep everything cold during whipping."
+  },
+  "timestamp": "2026-02-06T19:23:08.789Z"
+}

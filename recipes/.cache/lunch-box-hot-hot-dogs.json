@@ -1,0 +1,53 @@
+{
+  "contentHash": "05001c203729492c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 all-beef hot dog",
+        "searchTerm": "hot dog",
+        "normalizedName": "Hot Dog"
+      },
+      {
+        "ingredient": "1 hot dog bun",
+        "searchTerm": "hot dog bun",
+        "normalizedName": "Hot Dog Bun"
+      },
+      {
+        "ingredient": "1 packet ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "1 packet prepared yellow mustard",
+        "searchTerm": "prepared mustard",
+        "normalizedName": "Prepared Mustard"
+      },
+      {
+        "ingredient": "2 tablespoons shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "small skillet"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook hot dog in a skillet for even browning on all sides",
+      "Warm the bun lightly in the pan to prevent it from falling apart",
+      "Add cheese while the hot dog is still hot to melt it slightly"
+    ],
+    "coachingPrompt": "What topping combinations would elevate this simple hot dog for different taste preferences?"
+  },
+  "timestamp": "2026-02-06T11:40:17.602Z"
+}

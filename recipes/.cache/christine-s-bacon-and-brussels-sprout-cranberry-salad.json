@@ -1,0 +1,63 @@
+{
+  "contentHash": "82e3719610fa099f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound thick-cut bacon, cut into 1-inch chunks",
+        "searchTerm": "thick-cut bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 pound Brussels sprouts, cut into 1/4-inch slices",
+        "searchTerm": "Brussels sprouts",
+        "normalizedName": "Brussels Sprout"
+      },
+      {
+        "ingredient": "½ cup dried cranberries",
+        "searchTerm": "dried cranberries",
+        "normalizedName": "Dried Cranberry"
+      },
+      {
+        "ingredient": "½ gala apple, diced",
+        "searchTerm": "gala apple",
+        "normalizedName": "Gala Apple"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup chopped, unsalted, and roasted almonds",
+        "searchTerm": "roasted almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "¼ cup balsamic vinaigrette dressing, or to taste",
+        "searchTerm": "balsamic vinaigrette",
+        "normalizedName": "Balsamic Vinaigrette"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Salad Bowl",
+        "searchTerm": "salad bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then reserve the rendered fat to cook Brussels sprouts for extra flavor",
+      "Shred Brussels sprouts very thinly with a knife or mandoline for better integration with other ingredients",
+      "Toss warm salad with dressing while components are still slightly warm to allow better flavor absorption"
+    ],
+    "coachingPrompt": "This warm salad combines several textures. Would you like tips on timing components so everything is ready simultaneously?"
+  },
+  "timestamp": "2026-02-06T03:16:56.074Z"
+}

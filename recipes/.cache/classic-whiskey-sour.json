@@ -1,0 +1,53 @@
+{
+  "contentHash": "7307aeb9874f6184",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 fluid ounce simple syrup",
+        "searchTerm": "simple syrup",
+        "normalizedName": "Simple Syrup"
+      },
+      {
+        "ingredient": "2 fluid ounces fresh lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "5 fluid ounces whiskey",
+        "searchTerm": "whiskey",
+        "normalizedName": "Whiskey"
+      },
+      {
+        "ingredient": "ice cubes",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      },
+      {
+        "ingredient": "3 maraschino cherries for garnish",
+        "searchTerm": "maraschino cherries",
+        "normalizedName": "Maraschino Cherry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cocktail shaker",
+        "searchTerm": "cocktail shaker"
+      },
+      {
+        "name": "jigger",
+        "searchTerm": "jigger"
+      },
+      {
+        "name": "mixing glass",
+        "searchTerm": "mixing glass"
+      }
+    ],
+    "cookingTips": [
+      "Use fresh squeezed lemon juice for best flavor",
+      "Chill glass before serving for optimal temperature",
+      "Shake vigorously to properly chill and dilute cocktail"
+    ],
+    "coachingPrompt": "Help the user balance the citrus and sweetness in a classic whiskey sour."
+  },
+  "timestamp": "2026-02-06T03:34:47.161Z"
+}

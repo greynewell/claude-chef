@@ -1,0 +1,48 @@
+{
+  "contentHash": "1706adc3696d5556",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 pounds chicken wings",
+        "searchTerm": "chicken wings",
+        "normalizedName": "Chicken Wing"
+      },
+      {
+        "ingredient": "¾ cup buffalo wing sauce",
+        "searchTerm": "Buffalo sauce",
+        "normalizedName": "Buffalo Wing Sauce"
+      },
+      {
+        "ingredient": "2 teaspoons dry ranch dressing mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Dry Ranch Dressing Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Instant Pot",
+        "searchTerm": "instant pot pressure cooker"
+      },
+      {
+        "name": "Trivet",
+        "searchTerm": "steamer trivet"
+      },
+      {
+        "name": "Broiler Pan",
+        "searchTerm": "broiler pan"
+      }
+    ],
+    "cookingTips": [
+      "Use trivet to keep wings elevated above water for steaming",
+      "Pat wings dry before broiling for crispier exterior",
+      "Toss cooked wings in Buffalo sauce mixed with ranch seasoning for even coating"
+    ],
+    "coachingPrompt": "These wings need both pressure cooking and broiling for best results. Do you have time for the finishing step?"
+  },
+  "timestamp": "2026-02-06T09:46:13.339Z"
+}

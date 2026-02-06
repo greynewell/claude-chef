@@ -1,0 +1,53 @@
+{
+  "contentHash": "be1c9d172a65e49e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 head fresh broccoli, cut into florets",
+        "searchTerm": "fresh broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "¼ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 teaspoon lemon zest",
+        "searchTerm": "lemon zest",
+        "normalizedName": "Lemon Zest"
+      },
+      {
+        "ingredient": "¼ cup blanched slivered almonds",
+        "searchTerm": "slivered almonds",
+        "normalizedName": "Almond"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Steamer basket",
+        "searchTerm": "steamer basket"
+      },
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Microplane zester",
+        "searchTerm": "zester"
+      }
+    ],
+    "cookingTips": [
+      "Blanch almonds briefly in hot water for easier slicing",
+      "Zest lemon before juicing to capture fresh oils",
+      "Steam broccoli just until tender-crisp before adding butter mixture"
+    ],
+    "coachingPrompt": "What technique will ensure your almonds stay crunchy and don't become soggy in the butter sauce?"
+  },
+  "timestamp": "2026-02-06T00:45:33.132Z"
+}

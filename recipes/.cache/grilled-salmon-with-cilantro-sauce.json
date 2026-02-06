@@ -1,0 +1,53 @@
+{
+  "contentHash": "1a2de31fe207ff19",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds salmon",
+        "searchTerm": "salmon",
+        "normalizedName": "Salmon"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup chopped cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "1 fresh jalapeno pepper, seeded and chopped",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "Old Bay Seasoning",
+        "searchTerm": "Old Bay seasoning",
+        "normalizedName": "Old Bay Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Blend cilantro sauce until smooth and creamy",
+      "Warm the sauce gently without boiling to preserve cilantro flavor",
+      "Seed the jalapeno for milder heat or keep seeds for more spice"
+    ],
+    "coachingPrompt": "Help the user blend a vibrant cilantro sauce and time its preparation with the salmon grilling process."
+  },
+  "timestamp": "2026-02-06T08:25:10.178Z"
+}

@@ -1,0 +1,42 @@
+{
+  "contentHash": "9d7f47fc4b6539a0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup hot pepper sauce",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      },
+      {
+        "ingredient": "½ stick butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 pounds frozen chicken wings, or more to taste",
+        "searchTerm": "chicken wings",
+        "normalizedName": "Chicken Wing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Grill brush",
+        "searchTerm": "grill brush"
+      },
+      {
+        "name": "Basting brush",
+        "searchTerm": "basting brush"
+      }
+    ],
+    "cookingTips": [
+      "Thaw wings before grilling for even cooking throughout",
+      "Brush sauce on wings during the last few minutes of grilling to avoid charring"
+    ],
+    "coachingPrompt": "Help me grill wings until crispy and coat them evenly with sauce"
+  },
+  "timestamp": "2026-02-06T17:49:04.653Z"
+}

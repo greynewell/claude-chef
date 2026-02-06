@@ -1,0 +1,63 @@
+{
+  "contentHash": "dd4ac9effb29ff4c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "egg noodles",
+        "searchTerm": "egg noodles",
+        "normalizedName": "Egg Noodle"
+      },
+      {
+        "ingredient": "spaghetti sauce",
+        "searchTerm": "spaghetti sauce",
+        "normalizedName": "Spaghetti Sauce"
+      },
+      {
+        "ingredient": "black olives",
+        "searchTerm": "black olives",
+        "normalizedName": "Black Olive"
+      },
+      {
+        "ingredient": "canned mushrooms",
+        "searchTerm": "mushrooms canned",
+        "normalizedName": "Canned Mushroom"
+      },
+      {
+        "ingredient": "pepperoni",
+        "searchTerm": "pepperoni",
+        "normalizedName": "Pepperoni"
+      },
+      {
+        "ingredient": "mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 inch baking dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly and drain excess fat before mixing",
+      "Reserve some cheese to top casserole for melted finishing layer",
+      "Bake covered initially, then uncovered for final 10 minutes for crispy top"
+    ],
+    "coachingPrompt": "How can I prevent a casserole from becoming dry while ensuring the cheese melts properly?"
+  },
+  "timestamp": "2026-02-06T14:34:09.064Z"
+}

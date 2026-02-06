@@ -1,0 +1,53 @@
+{
+  "contentHash": "ca743e20fdb7b9b3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "1 (8 ounce) container sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "½ head iceberg lettuce - rinsed, dried, and shredded",
+        "searchTerm": "iceberg lettuce",
+        "normalizedName": "Iceberg Lettuce"
+      },
+      {
+        "ingredient": "½ pound shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese shredded",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Serving dish or dip bowl",
+        "searchTerm": "serving bowl"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown the ground beef completely and drain excess fat before adding salsa",
+      "Layer ingredients in order: meat mixture, then sour cream, lettuce, and cheese",
+      "Keep warm in a slow cooker if serving at a party"
+    ],
+    "coachingPrompt": "Teach the user how to layer flavors in this dip for visual appeal and how to manage heat when serving for gatherings."
+  },
+  "timestamp": "2026-02-05T23:41:38.111Z"
+}

@@ -1,0 +1,83 @@
+{
+  "contentHash": "6adba2be692aa02b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "8 onions, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 bunches celery, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 gallon milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "18 (16 ounce) cans minced clams, drained with juice reserved",
+        "searchTerm": "canned clams",
+        "normalizedName": "Clam"
+      },
+      {
+        "ingredient": "4 quarts chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "2 quarts heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh thyme",
+        "searchTerm": "thyme",
+        "normalizedName": "Thyme"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Very large stockpot",
+        "searchTerm": "stockpot"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "This batch-recipe ratio yields generous portions; make proper roux with butter and flour first",
+      "Build flavor systematically: aromatics first, then liquids, then dairy",
+      "Fresh thyme brightens a large pot of rich cream-based soup"
+    ],
+    "coachingPrompt": "Guide the user through scaling a commercial-style chowder recipe and managing large volumes while maintaining silky consistency and balanced seasoning."
+  },
+  "timestamp": "2026-02-06T13:11:04.092Z"
+}

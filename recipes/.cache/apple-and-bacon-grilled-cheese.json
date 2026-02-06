@@ -1,0 +1,48 @@
+{
+  "contentHash": "87c6abc8681479c9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices cracked wheat bread",
+        "searchTerm": "cracked wheat bread",
+        "normalizedName": "Cracked Wheat Bread"
+      },
+      {
+        "ingredient": "2 thin slices aged Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 slices Honeycrisp apple, or more to taste",
+        "searchTerm": "honeycrisp apple",
+        "normalizedName": "Honeycrisp Apple"
+      },
+      {
+        "ingredient": "2 cooked bacon strips",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Butter bread on outside for even golden-brown crust",
+      "Cook on medium heat to melt cheese without burning bread",
+      "Press gently with spatula while cooking to encourage cheese melting"
+    ],
+    "coachingPrompt": "How can you ensure the cheese melts evenly while keeping the bread from burning?"
+  },
+  "timestamp": "2026-02-05T22:08:45.885Z"
+}

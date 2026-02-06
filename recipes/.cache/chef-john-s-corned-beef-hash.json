@@ -1,0 +1,68 @@
+{
+  "contentHash": "dd734393ee2ec2fd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds potatoes, peeled and quartered",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 ½ pounds cooked corned beef, finely chopped",
+        "searchTerm": "cooked corned beef",
+        "normalizedName": "Corned Beef"
+      },
+      {
+        "ingredient": "1 bunch green onions, chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 cloves garlic, crushed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup roasted tomato salsa",
+        "searchTerm": "roasted tomato salsa",
+        "normalizedName": "Roasted Tomato Salsa"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Dice potatoes small and cook until crispy on outside but tender inside",
+      "Press hash down in skillet to create crispy crust",
+      "Don't stir too frequently to allow browning and crust formation"
+    ],
+    "coachingPrompt": "Help the user understand how to achieve a golden, crispy hash by managing heat and minimizing stirring."
+  },
+  "timestamp": "2026-02-06T02:01:41.070Z"
+}

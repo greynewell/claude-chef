@@ -1,0 +1,53 @@
+{
+  "contentHash": "7018f786c6bcdd99",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 ounces cooked pulled pork, chopped",
+        "searchTerm": "pulled pork",
+        "normalizedName": "Pulled Pork"
+      },
+      {
+        "ingredient": "½ white onion, minced",
+        "searchTerm": "white onion",
+        "normalizedName": "White Onion"
+      },
+      {
+        "ingredient": "1 (12 ounce) package wonton wrappers",
+        "searchTerm": "wonton wrappers",
+        "normalizedName": "Wonton Wrapper"
+      },
+      {
+        "ingredient": "2 quarts canola oil",
+        "searchTerm": "canola oil",
+        "normalizedName": "Canola Oil"
+      },
+      {
+        "ingredient": "1 cup barbeque sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep fryer or pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "slotted spoon"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Keep wonton wrappers covered with a damp towel while filling to prevent drying",
+      "Seal edges with water for a tight seal to prevent filling leakage",
+      "Fry at 350°F until golden brown, about 1-2 minutes per side"
+    ],
+    "coachingPrompt": "Are you experienced with deep frying? Would you like guidance on maintaining proper oil temperature and avoiding splatters?"
+  },
+  "timestamp": "2026-02-06T12:15:27.075Z"
+}

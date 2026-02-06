@@ -1,0 +1,58 @@
+{
+  "contentHash": "c712f40f81b1f6e8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 dash vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 tablespoons creamy peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "2 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "1 small banana, sliced",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Shallow bowl",
+        "searchTerm": "shallow bowl"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Spread peanut butter on one slice before dipping to prevent it from washing off",
+      "Use a medium heat to avoid burning the bread while the interior cooks",
+      "Layer banana slices between bread slices for even distribution"
+    ],
+    "coachingPrompt": "Explain how to efficiently assemble quick french toast for a single serving and suggest toppings that complement peanut butter and banana."
+  },
+  "timestamp": "2026-02-06T14:21:59.703Z"
+}

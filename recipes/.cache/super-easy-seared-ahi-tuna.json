@@ -1,0 +1,53 @@
+{
+  "contentHash": "11f9c6a6ca4cf4c2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound sashimi grade yellowfin tuna",
+        "searchTerm": "ahi tuna",
+        "normalizedName": "Ahi Tuna"
+      },
+      {
+        "ingredient": "kosher salt to taste",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "fresh ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ cup Italian seasoned bread crumbs",
+        "searchTerm": "Italian bread crumbs",
+        "normalizedName": "Italian Bread Crumb"
+      },
+      {
+        "ingredient": "3 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "heavy skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "shallow dish",
+        "searchTerm": "shallow dish"
+      }
+    ],
+    "cookingTips": [
+      "Use sashimi-grade tuna only and keep it cold until the last moment",
+      "Sear at very high heat for only 1-2 minutes per side to keep interior rare",
+      "Let the tuna rest 2-3 minutes before slicing"
+    ],
+    "coachingPrompt": "Why is it critical to use sashimi-grade tuna, and how do you know when to stop cooking?"
+  },
+  "timestamp": "2026-02-06T19:52:18.016Z"
+}

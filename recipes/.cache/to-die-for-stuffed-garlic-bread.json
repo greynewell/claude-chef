@@ -1,0 +1,68 @@
+{
+  "contentHash": "e9e2b05a3ffeb863",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 loaf French bread, halved lengthwise",
+        "searchTerm": "French bread",
+        "normalizedName": "French Bread"
+      },
+      {
+        "ingredient": "1 pound Monterey Jack cheese, cut into 1-inch cubes",
+        "searchTerm": "Monterey Jack cheese",
+        "normalizedName": "Monterey Jack Cheese"
+      },
+      {
+        "ingredient": "1 (16 ounce) container sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 (10 ounce) box frozen chopped spinach, thawed and drained",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Frozen Spinach"
+      },
+      {
+        "ingredient": "1 (4.5 ounce) can sliced mushrooms, drained",
+        "searchTerm": "canned mushrooms",
+        "normalizedName": "Canned Mushroom"
+      },
+      {
+        "ingredient": "1 tablespoon seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 garlic cloves, minced",
+        "searchTerm": "garlic cloves",
+        "normalizedName": "Garlic Clove"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Ensure spinach is thoroughly drained to prevent soggy bread",
+      "Hollow out bread slightly to hold filling and prevent overflow",
+      "Toast until cheese is melted and edges are golden brown"
+    ],
+    "coachingPrompt": "Do you prefer making appetizer-style bread or a main dish? Should we discuss different cheese options?"
+  },
+  "timestamp": "2026-02-06T20:51:17.456Z"
+}

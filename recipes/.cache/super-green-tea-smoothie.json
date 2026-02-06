@@ -1,0 +1,58 @@
+{
+  "contentHash": "0626cce33b6f0b72",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup brewed green tea",
+        "searchTerm": "green tea",
+        "normalizedName": "Green Tea"
+      },
+      {
+        "ingredient": "1 cup fresh spinach leaves",
+        "searchTerm": "spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "1 kiwi",
+        "searchTerm": "kiwi",
+        "normalizedName": "Kiwi"
+      },
+      {
+        "ingredient": "¼ avocado",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 banana",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "½ teaspoon grated fresh ginger",
+        "searchTerm": "fresh ginger",
+        "normalizedName": "Ginger"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "tall glass",
+        "searchTerm": "glass"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Chill green tea completely before blending to maintain refreshing temperature",
+      "Freeze banana chunks beforehand for a thicker, creamier smoothie",
+      "Add avocado at the very end to avoid oxidation and browning"
+    ],
+    "coachingPrompt": "How do the frozen banana and avocado contribute to texture and nutritional value?"
+  },
+  "timestamp": "2026-02-06T19:52:18.017Z"
+}

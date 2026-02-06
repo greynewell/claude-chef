@@ -1,0 +1,53 @@
+{
+  "contentHash": "2781c51355822a75",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon red wine vinegar",
+        "searchTerm": "red wine vinegar",
+        "normalizedName": "Red Wine Vinegar"
+      },
+      {
+        "ingredient": "½ cup extra light olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "3 cloves garlic, crushed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 head lettuce",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "1 ounce Gorgonzola cheese, crumbled",
+        "searchTerm": "Gorgonzola cheese",
+        "normalizedName": "Gorgonzola Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "salad bowl",
+        "searchTerm": "salad bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Infuse olive oil with crushed garlic for at least 30 minutes before whisking dressing",
+      "Toss lettuce gently just before serving to avoid bruising leaves"
+    ],
+    "coachingPrompt": "How can you ensure the garlic flavor is present without overpowering the delicate Gorgonzola?"
+  },
+  "timestamp": "2026-02-06T07:43:27.073Z"
+}

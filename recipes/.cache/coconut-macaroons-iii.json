@@ -1,0 +1,53 @@
+{
+  "contentHash": "20cbcc931eee0bfc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅔ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "5 ½ cups flaked coconut",
+        "searchTerm": "flaked coconut",
+        "normalizedName": "Flaked Coconut"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 (14 ounce) can sweetened condensed milk",
+        "searchTerm": "condensed milk",
+        "normalizedName": "Sweetened Condensed Milk"
+      },
+      {
+        "ingredient": "2 teaspoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "measuring spoon"
+      }
+    ],
+    "cookingTips": [
+      "The small amount of flour helps bind the macaroons and prevent spreading",
+      "Mix just until combined to avoid developing gluten",
+      "Cool on baking sheet for 5 minutes before transferring to wire rack"
+    ],
+    "coachingPrompt": "This version adds flour for structure. Are you comfortable with the slight texture difference from the all-coconut version?"
+  },
+  "timestamp": "2026-02-06T03:39:37.002Z"
+}

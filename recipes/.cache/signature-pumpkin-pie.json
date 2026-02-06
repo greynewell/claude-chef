@@ -1,0 +1,52 @@
+{
+  "contentHash": "546f2594af377579",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 frozen unbaked (9-inch) deep dish pie crust",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      },
+      {
+        "ingredient": "1 (15 ounce) can pumpkin",
+        "searchTerm": "canned pumpkin",
+        "normalizedName": "Pumpkin"
+      },
+      {
+        "ingredient": "1 (14 ounce) can sweetened condensed milk",
+        "searchTerm": "condensed milk",
+        "normalizedName": "Sweetened Condensed Milk"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 tablespoon McCormick® Pumpkin Pie Spice",
+        "searchTerm": "pumpkin pie spice",
+        "normalizedName": "Pumpkin Pie Spice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9-inch pie dish",
+        "searchTerm": "pie dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Mix ingredients until smooth before pouring into crust for even texture",
+      "Bake at 425°F for 15 minutes, then reduce to 350°F for 40-50 minutes until set"
+    ],
+    "coachingPrompt": "Help the cook understand why whipped cream is listed as an ingredient rather than a topping, and suggest standard pumpkin pie baking times."
+  },
+  "timestamp": "2026-02-06T17:47:31.395Z"
+}

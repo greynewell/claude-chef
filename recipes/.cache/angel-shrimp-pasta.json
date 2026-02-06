@@ -1,0 +1,63 @@
+{
+  "contentHash": "bbe753302d667dcb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 ½ cups sliced fresh mushrooms",
+        "searchTerm": "fresh mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "8 ounces jalapeno processed cheese spread",
+        "searchTerm": "jalapeno cheese spread",
+        "normalizedName": "Jalapeno Cheese Spread"
+      },
+      {
+        "ingredient": "1 pound fresh shrimp, peeled and deveined",
+        "searchTerm": "fresh shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "1 pound angel hair pasta",
+        "searchTerm": "angel hair pasta",
+        "normalizedName": "Angel Hair Pasta"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Sauté mushrooms and onions first to develop flavor before adding the soup",
+      "Add shrimp to the hot sauce and cook until pink, which only takes 2-3 minutes",
+      "Stir cheese spread in off-heat to prevent it from becoming grainy"
+    ],
+    "coachingPrompt": "How do I keep the shrimp from becoming rubbery in the creamy sauce? When should I add it?"
+  },
+  "timestamp": "2026-02-05T22:05:40.836Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "924e33dbe7a7335b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (4 pound) pork loin roast",
+        "searchTerm": "pork loin roast",
+        "normalizedName": "Pork Loin Roast"
+      },
+      {
+        "ingredient": "1 teaspoon caraway seeds",
+        "searchTerm": "caraway seeds",
+        "normalizedName": "Caraway Seed"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 cups sauerkraut with liquid",
+        "searchTerm": "sauerkraut",
+        "normalizedName": "Sauerkraut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Place sauerkraut on bottom of slow cooker to cradle the pork and prevent sticking",
+      "Check internal temperature at 145°F for perfectly cooked pork that's still juicy",
+      "Let pork rest 10 minutes before slicing to retain moisture"
+    ],
+    "coachingPrompt": "What's the ideal liquid-to-meat ratio when cooking this classic Pennsylvania Dutch dish?"
+  },
+  "timestamp": "2026-02-06T18:12:32.071Z"
+}

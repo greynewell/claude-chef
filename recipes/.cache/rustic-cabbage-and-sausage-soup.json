@@ -1,0 +1,78 @@
+{
+  "contentHash": "4691ee0c16b33eeb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound bulk Italian sausage",
+        "searchTerm": "Italian sausage",
+        "normalizedName": "Italian Sausage"
+      },
+      {
+        "ingredient": "2 medium carrots",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 small onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 stalk celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 large clove garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "6 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "3 (16 ounce) cans great northern beans",
+        "searchTerm": "canned white bean",
+        "normalizedName": "Great Northern Bean"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can diced tomatoes",
+        "searchTerm": "canned diced tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "½ medium head cabbage",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "1 ¼ teaspoons Italian seasoning",
+        "searchTerm": "Italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "stockpot"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausage thoroughly before adding vegetables to develop deep flavors and render fat",
+      "Add beans in the last 15 minutes of cooking to prevent them from becoming mushy",
+      "Taste and adjust seasonings at the end as sausage and broth already contain salt"
+    ],
+    "coachingPrompt": "Help the cook build a hearty soup by proper browning of meat and understanding vegetable cooking times for optimal texture."
+  },
+  "timestamp": "2026-02-06T16:39:14.375Z"
+}

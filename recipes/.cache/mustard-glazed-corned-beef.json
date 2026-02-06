@@ -1,0 +1,48 @@
+{
+  "contentHash": "b0675499b7fe7d90",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (5 1/2 pound) corned beef brisket",
+        "searchTerm": "corned beef brisket",
+        "normalizedName": "Corned Beef Brisket"
+      },
+      {
+        "ingredient": "2 tablespoons pickling spice",
+        "searchTerm": "pickling spice",
+        "normalizedName": "Pickling Spice"
+      },
+      {
+        "ingredient": "½ cup light corn syrup",
+        "searchTerm": "light corn syrup",
+        "normalizedName": "Light Corn Syrup"
+      },
+      {
+        "ingredient": "2 teaspoons prepared yellow mustard, or to taste",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Simmer the brisket low and slow until fork-tender, about 3 hours",
+      "Brush glaze during the last 30 minutes of cooking for caramelization",
+      "Let meat rest 10 minutes before slicing against the grain"
+    ],
+    "coachingPrompt": "What signs indicate the brisket is properly tender and ready for the final glaze?"
+  },
+  "timestamp": "2026-02-06T13:02:45.189Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "fbef5bcec1312c7e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound russet potatoes, peeled",
+        "searchTerm": "russet potatoes",
+        "normalizedName": "Russet Potato"
+      },
+      {
+        "ingredient": "2 teaspoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 pinch cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "½ teaspoon kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Parchment Paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Soak cut potatoes in water for 30 minutes to remove excess starch for crispier fries",
+      "Pat potatoes completely dry before tossing with oil",
+      "Shake the basket halfway through cooking to ensure even browning"
+    ],
+    "coachingPrompt": "Show me how to make crispy, golden French fries in the air fryer from fresh potatoes."
+  },
+  "timestamp": "2026-02-05T21:42:48.760Z"
+}

@@ -1,0 +1,47 @@
+{
+  "contentHash": "cb007f9224646853",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (18.25 ounce) package yellow cake mix",
+        "searchTerm": "yellow cake mix",
+        "normalizedName": "Yellow Cake Mix"
+      },
+      {
+        "ingredient": "1 tablespoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 Granny Smith apples - peeled, cored and finely diced",
+        "searchTerm": "Granny Smith apple",
+        "normalizedName": "Granny Smith Apple"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Dice apples finely so they distribute evenly throughout the cake",
+      "Don't overmix the batter once you add the apples to keep the cake tender"
+    ],
+    "coachingPrompt": "Guide the cook through adapting a boxed cake mix and explain how fresh fruit can enhance simple desserts."
+  },
+  "timestamp": "2026-02-06T19:51:28.146Z"
+}

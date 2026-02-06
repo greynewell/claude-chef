@@ -1,0 +1,62 @@
+{
+  "contentHash": "fb747b57c2f684e7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "⅔ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ pound skinless peanuts",
+        "searchTerm": "peanuts",
+        "normalizedName": "Peanut"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Simmer peanuts in the honey-sugar mixture until liquid is mostly absorbed",
+      "Spread on parchment to cool and dry before storing"
+    ],
+    "coachingPrompt": "Guide the user through simmering the peanuts gently rather than boiling, then roast until fully dried and crispy."
+  },
+  "timestamp": "2026-02-06T09:24:29.255Z"
+}

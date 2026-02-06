@@ -1,0 +1,43 @@
+{
+  "contentHash": "1dad40f6756cb718",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds chicken wings",
+        "searchTerm": "chicken wings",
+        "normalizedName": "Chicken Wing"
+      },
+      {
+        "ingredient": "1 tablespoon taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning"
+      },
+      {
+        "ingredient": "2 teaspoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "kitchen tongs"
+      }
+    ],
+    "cookingTips": [
+      "Pat chicken wings dry with paper towels before tossing with oil and seasoning for crispier results",
+      "Arrange wings in a single layer without overlapping for even cooking",
+      "Shake the basket halfway through cooking to ensure all sides cook evenly"
+    ],
+    "coachingPrompt": "Guide me through air-frying keto chicken wings with taco seasoning until crispy"
+  },
+  "timestamp": "2026-02-05T21:43:38.977Z"
+}

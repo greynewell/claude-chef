@@ -1,0 +1,63 @@
+{
+  "contentHash": "5f69593aa63207c9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "chicken",
+        "searchTerm": "cooked chicken",
+        "normalizedName": "Chicken"
+      },
+      {
+        "ingredient": "onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "spinach",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "artichoke hearts",
+        "searchTerm": "artichoke hearts",
+        "normalizedName": "Artichoke Heart"
+      },
+      {
+        "ingredient": "cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "immersion blender",
+        "searchTerm": "immersion blender"
+      },
+      {
+        "name": "ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "Bring broth to boil and add vegetables and chicken gradually",
+      "Use immersion blender for smooth texture or leave chunky as preferred",
+      "Stir in cream cheese off heat for smoothest consistency"
+    ],
+    "coachingPrompt": "Do you prefer a smooth or chunky soup texture, and do you have pre-cooked chicken available?"
+  },
+  "timestamp": "2026-02-06T19:14:40.646Z"
+}

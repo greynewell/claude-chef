@@ -1,0 +1,48 @@
+{
+  "contentHash": "e7d4fd133ddd55f4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 head romaine lettuce, cut in half lengthwise",
+        "searchTerm": "romaine lettuce",
+        "normalizedName": "Romaine Lettuce"
+      },
+      {
+        "ingredient": "1 tablespoon steak seasoning",
+        "searchTerm": "steak seasoning",
+        "normalizedName": "Steak Seasoning"
+      },
+      {
+        "ingredient": "1 lemon, juiced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill brush",
+        "searchTerm": "grill brush"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "kitchen tongs"
+      }
+    ],
+    "cookingTips": [
+      "Oil the grill grates well before cooking to prevent sticking",
+      "Keep the romaine halves intact to maintain structure on the grill",
+      "Grill cut-side down first for 2-3 minutes until charred"
+    ],
+    "coachingPrompt": "What's the key to keeping romaine lettuce together while grilling? Should you oil the lettuce or the grill?"
+  },
+  "timestamp": "2026-02-06T08:24:17.552Z"
+}

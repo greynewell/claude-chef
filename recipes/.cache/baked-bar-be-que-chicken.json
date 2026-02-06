@@ -1,0 +1,43 @@
+{
+  "contentHash": "9b4f309099446ab4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (2 to 3 pound) whole chicken, cut into pieces",
+        "searchTerm": "whole chicken",
+        "normalizedName": "Chicken"
+      },
+      {
+        "ingredient": "2 teaspoons garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 ½ cups prepared barbecue sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Season chicken with garlic powder before adding sauce for deeper flavor penetration",
+      "Add barbecue sauce in the last 20 minutes of baking to prevent charring and burning",
+      "Use a meat thermometer to check that thickest parts reach 165°F for food safety"
+    ],
+    "coachingPrompt": "When should you add barbecue sauce to chicken during baking to maximize flavor while preventing burning?"
+  },
+  "timestamp": "2026-02-05T22:58:19.111Z"
+}

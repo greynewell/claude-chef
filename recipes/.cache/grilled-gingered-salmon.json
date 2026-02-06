@@ -1,0 +1,63 @@
+{
+  "contentHash": "8cadead00d891838",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 cup muscovado (dark brown) sugar",
+        "searchTerm": "muscovado sugar",
+        "normalizedName": "Muscovado Sugar"
+      },
+      {
+        "ingredient": "1 (5 inch) piece of fresh ginger root, peeled and minced",
+        "searchTerm": "ginger",
+        "normalizedName": "Ginger"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 cloves garlic, smashed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 (3 pound) whole salmon fillet with skin",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "1 untreated cedar plank",
+        "searchTerm": "cedar plank",
+        "normalizedName": "Cedar Plank"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "cedar plank",
+        "searchTerm": "cedar plank"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Soak cedar plank in water for at least 2 hours before grilling",
+      "Marinate salmon for 2-4 hours for balanced sweetness and saltiness",
+      "Cook salmon on cedar plank skin-side down for added flavor and moisture"
+    ],
+    "coachingPrompt": "Guide the user through using a cedar plank and balancing the rich muscovado glaze with the delicate salmon."
+  },
+  "timestamp": "2026-02-06T08:16:33.678Z"
+}

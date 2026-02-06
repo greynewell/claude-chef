@@ -1,0 +1,48 @@
+{
+  "contentHash": "1a621e2b9c43c81c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups blanched slivered almonds",
+        "searchTerm": "blanched almonds",
+        "normalizedName": "Blanched Almond"
+      },
+      {
+        "ingredient": "1 ½ cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 egg whites",
+        "searchTerm": "egg whites",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "1 teaspoon almond extract",
+        "searchTerm": "almond extract",
+        "normalizedName": "Almond Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Pulse almonds and sugar until finely ground; do not overprocess or they'll become oily",
+      "Fold egg whites gently into almond mixture to maintain airiness",
+      "Bake until edges are golden but centers remain slightly soft for chewiness"
+    ],
+    "coachingPrompt": "How do I prevent the almond mixture from becoming oily when processing, and what consistency should I aim for?"
+  },
+  "timestamp": "2026-02-05T21:57:19.790Z"
+}

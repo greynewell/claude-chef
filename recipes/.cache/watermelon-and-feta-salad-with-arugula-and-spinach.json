@@ -1,0 +1,73 @@
+{
+  "contentHash": "f7dd0928cfed8527",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons extra-virgin olive oil",
+        "searchTerm": "extra virgin olive oil",
+        "normalizedName": "Extra Virgin Olive Oil"
+      },
+      {
+        "ingredient": "2 teaspoons white balsamic vinegar",
+        "searchTerm": "white balsamic vinegar",
+        "normalizedName": "White Balsamic Vinegar"
+      },
+      {
+        "ingredient": "½ teaspoon kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "2 cups arugula",
+        "searchTerm": "arugula",
+        "normalizedName": "Arugula"
+      },
+      {
+        "ingredient": "2 cups baby spinach leaves",
+        "searchTerm": "baby spinach",
+        "normalizedName": "Baby Spinach"
+      },
+      {
+        "ingredient": "1 cup thinly sliced red onion",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "1 cup grape tomatoes, halved",
+        "searchTerm": "grape tomato",
+        "normalizedName": "Grape Tomato"
+      },
+      {
+        "ingredient": "½ cup crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "2 cups bite sized watermelon chunks",
+        "searchTerm": "watermelon",
+        "normalizedName": "Watermelon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large salad bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Salad tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Keep greens separate from the dressing until just before serving to maintain crispness",
+      "Add watermelon and tomatoes last to prevent their juices from diluting the vinaigrette",
+      "Slice red onion very thin for better integration with other ingredients"
+    ],
+    "coachingPrompt": "In what order should you assemble this salad to maintain the best texture?"
+  },
+  "timestamp": "2026-02-06T21:58:22.732Z"
+}

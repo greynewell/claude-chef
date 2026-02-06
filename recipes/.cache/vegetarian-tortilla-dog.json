@@ -1,0 +1,43 @@
+{
+  "contentHash": "0a742fc4c7d164f3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 vegetarian hot dog",
+        "searchTerm": "vegetarian hot dog",
+        "normalizedName": "Vegetarian Hot Dog"
+      },
+      {
+        "ingredient": "1 (6 inch) flour tortilla",
+        "searchTerm": "flour tortilla",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "½ teaspoon margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "1 slice American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Warm the tortilla briefly to make it pliable",
+      "Toast the hot dog lightly for better texture"
+    ],
+    "coachingPrompt": "Help the user assemble this quick vegetarian hot dog wrap efficiently."
+  },
+  "timestamp": "2026-02-06T21:46:17.528Z"
+}

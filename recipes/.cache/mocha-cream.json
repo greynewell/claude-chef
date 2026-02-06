@@ -1,0 +1,43 @@
+{
+  "contentHash": "0d43a235e04c1278",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups heavy whipping cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Whipping Cream"
+      },
+      {
+        "ingredient": "2 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon instant coffee powder",
+        "searchTerm": "instant coffee",
+        "normalizedName": "Instant Coffee Powder"
+      },
+      {
+        "ingredient": "1 tablespoon boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Dissolve instant coffee in boiling water and cool before adding to cream to prevent curdling",
+      "Whip cream to stiff peaks for a mousse-like texture or soft peaks for a pourable cream"
+    ],
+    "coachingPrompt": "At what point in the whipping process should you add the coffee and sugar to achieve your desired consistency?"
+  },
+  "timestamp": "2026-02-06T12:37:15.937Z"
+}

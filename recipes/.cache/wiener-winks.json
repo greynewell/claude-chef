@@ -1,0 +1,48 @@
+{
+  "contentHash": "577073879db2cce3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package beef frankfurters",
+        "searchTerm": "beef hot dogs",
+        "normalizedName": "Beef Frankfurter"
+      },
+      {
+        "ingredient": "8 slices processed American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      },
+      {
+        "ingredient": "8 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "8 teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Warm butter in skillet over medium heat before toasting bread",
+      "Toast bread lightly to prevent sogginess from cheese and frankfurters",
+      "Cut frankfurters to fit bread size and warm through before assembling"
+    ],
+    "coachingPrompt": "This simple appetizer combines hot dogs and cheese on toast. What assembly order ensures even warming and prevents the bread from becoming soggy?"
+  },
+  "timestamp": "2026-02-06T22:12:32.220Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "9eec45bcfc37a620",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 potatoes, peeled and quartered",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "2 tablespoons butter, divided",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 tablespoon prepared horseradish",
+        "searchTerm": "horseradish",
+        "normalizedName": "Horseradish"
+      },
+      {
+        "ingredient": "2 teaspoons minced parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Potato Masher",
+        "searchTerm": "potato masher"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Boil potatoes until very tender, about 15-20 minutes",
+      "Drain well and return to warm pot to evaporate excess moisture",
+      "Fold in horseradish gently after mashing to preserve its sharp flavor"
+    ],
+    "coachingPrompt": "Guide the user through boiling potatoes until tender, then mashing with butter, sour cream, and horseradish for a zesty kick."
+  },
+  "timestamp": "2026-02-06T12:05:02.253Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "5a7007ae2dd0dc38",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 (15 ounce) cans tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "1 pound kielbasa",
+        "searchTerm": "kielbasa",
+        "normalizedName": "Kielbasa"
+      },
+      {
+        "ingredient": "2 tablespoons chili sauce",
+        "searchTerm": "chili sauce",
+        "normalizedName": "Chili Sauce"
+      },
+      {
+        "ingredient": "½ teaspoon onion salt",
+        "searchTerm": "onion salt",
+        "normalizedName": "Onion Salt"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pinch paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "Curry powder to taste",
+        "searchTerm": "curry powder",
+        "normalizedName": "Curry Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Slice kielbasa into coins or chunks for better sauce absorption",
+      "Simmer gently to allow flavors to meld without reducing sauce too much"
+    ],
+    "coachingPrompt": "How would you balance the curry powder flavor so it complements rather than overpowers the tomato sauce?"
+  },
+  "timestamp": "2026-02-06T07:24:52.182Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "4414bc2c8eef7884",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds ground beef sirloin",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 red onion, diced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "½ (1 ounce) package dry ranch salad dressing mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Ranch Dressing Mix"
+      },
+      {
+        "ingredient": "4 ounces crumbled blue cheese",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "grill",
+        "searchTerm": "grilling surface"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "grilling tool"
+      }
+    ],
+    "cookingTips": [
+      "Handle ground beef gently when mixing to avoid tough, dense burgers",
+      "Form patties slightly larger than burger buns as they shrink when cooking",
+      "Grill over medium-high heat and avoid pressing down on patties"
+    ],
+    "coachingPrompt": "Help the user understand how to mix ingredients without overworking the meat, and guide them through grilling to the right temperature while keeping them juicy."
+  },
+  "timestamp": "2026-02-06T16:05:21.056Z"
+}

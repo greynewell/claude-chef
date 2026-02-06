@@ -1,0 +1,42 @@
+{
+  "contentHash": "d6d5589a63c3b8e5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups uncooked sushi rice",
+        "searchTerm": "sushi rice",
+        "normalizedName": "Sushi Rice"
+      },
+      {
+        "ingredient": "2 ¼ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup seasoned rice vinegar",
+        "searchTerm": "rice vinegar",
+        "normalizedName": "Rice Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "rice cooker",
+        "searchTerm": "rice cooker"
+      },
+      {
+        "name": "sushi oke",
+        "searchTerm": "sushi oke"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Rinse sushi rice thoroughly before cooking to remove excess starch for perfect texture",
+      "Dress rice while still warm and fan constantly for proper cooling and glossy finish"
+    ],
+    "coachingPrompt": "Guide the user through proper rinsing technique and the importance of using seasoned vinegar for authentic flavor. Explain the role of fanning in achieving the correct temperature and texture."
+  },
+  "timestamp": "2026-02-06T02:02:41.065Z"
+}

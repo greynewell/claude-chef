@@ -1,0 +1,53 @@
+{
+  "contentHash": "137ee9b91262478c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "1 (4 ounce) beef hamburger patty",
+        "searchTerm": "ground beef patty",
+        "normalizedName": "Ground Beef Patty"
+      },
+      {
+        "ingredient": "1 teaspoon mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 slice American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Plate",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Cook the patty and egg separately to maintain control over doneness",
+      "Warm the bread lightly to improve texture and hold toppings better",
+      "Place cheese on the patty while still hot to allow it to melt properly"
+    ],
+    "coachingPrompt": "Walk through assembly order and suggest technique for cooking an egg to the desired doneness without breaking the yolk."
+  },
+  "timestamp": "2026-02-06T00:58:01.703Z"
+}

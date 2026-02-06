@@ -1,0 +1,47 @@
+{
+  "contentHash": "c0c39d656eaeb230",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 package Duncan Hines® Moist Deluxe® Swiss Chocolate Cake Mix",
+        "searchTerm": "chocolate cake mix",
+        "normalizedName": "Chocolate Cake Mix"
+      },
+      {
+        "ingredient": "1 tub Duncan Hines® Creamy Home-Style Classic Vanilla Frosting",
+        "searchTerm": "vanilla frosting",
+        "normalizedName": "Vanilla Frosting"
+      },
+      {
+        "ingredient": "½ cup creamy peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "15 miniature peanut butter cup candies, halved",
+        "searchTerm": "peanut butter cups",
+        "normalizedName": "Peanut Butter Cup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cupcake tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Swirl peanut butter into vanilla frosting rather than fully blending for marbled effect",
+      "Top cupcakes while frosting is still soft so peanut butter cups adhere better"
+    ],
+    "coachingPrompt": "Suggest ways to customize boxed mix for a more homemade taste with peanut butter filling."
+  },
+  "timestamp": "2026-02-06T03:09:46.608Z"
+}

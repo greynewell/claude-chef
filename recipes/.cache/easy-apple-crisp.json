@@ -1,0 +1,58 @@
+{
+  "contentHash": "2a12e895136df038",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 apples - peeled, cored and sliced",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (18.25 ounce) package white cake mix",
+        "searchTerm": "white cake mix",
+        "normalizedName": "White Cake Mix"
+      },
+      {
+        "ingredient": "1 cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "½ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Use dry cake mix directly without mixing - it creates textured topping",
+      "Layer apples evenly for consistent cooking",
+      "Drizzle melted butter over topping for browning and richness"
+    ],
+    "coachingPrompt": "This dessert uses cake mix as a shortcut. How would you explain why dry mix works better than prepared batter?"
+  },
+  "timestamp": "2026-02-06T05:30:41.748Z"
+}

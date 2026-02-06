@@ -1,0 +1,43 @@
+{
+  "contentHash": "4209ad3f5d9a233f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 chicken leg quarters, raw skin only",
+        "searchTerm": "chicken skin",
+        "normalizedName": "Chicken Skin"
+      },
+      {
+        "ingredient": "vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep fryer or heavy pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "cooking thermometer"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Pat chicken skin completely dry before frying for maximum crispiness",
+      "Maintain oil temperature between 325-350°F to avoid burning",
+      "Fry in small batches to prevent temperature drop"
+    ],
+    "coachingPrompt": "How will you ensure the chicken skin stays crispy after frying? Consider drainage and storage methods."
+  },
+  "timestamp": "2026-02-06T04:39:42.732Z"
+}

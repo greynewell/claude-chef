@@ -1,0 +1,62 @@
+{
+  "contentHash": "28228b1fe53b499e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 teaspoon smoked paprika",
+        "searchTerm": "smoked paprika",
+        "normalizedName": "Smoked Paprika"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      },
+      {
+        "ingredient": "12 chicken tenders",
+        "searchTerm": "chicken tenders",
+        "normalizedName": "Chicken Tender"
+      },
+      {
+        "ingredient": "12 slices turkey bacon, cut in half lengthwise",
+        "searchTerm": "turkey bacon",
+        "normalizedName": "Turkey Bacon"
+      },
+      {
+        "ingredient": "⅓ cup light brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Arrange bacon-wrapped tenders seam-side down to prevent unraveling",
+      "The brown sugar will caramelize, so monitor baking time to prevent burning"
+    ],
+    "coachingPrompt": "How will you ensure the chicken tenders cook through before the bacon and sugar burn?"
+  },
+  "timestamp": "2026-02-05T22:53:49.046Z"
+}

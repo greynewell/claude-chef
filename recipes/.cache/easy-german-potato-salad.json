@@ -1,0 +1,48 @@
+{
+  "contentHash": "a40f012cfdd35849",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 cucumber",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "cutting board and knife",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Dress potato salad while potatoes are still warm to absorb flavors better",
+      "Slice cucumbers thinly and salt them briefly to remove excess water"
+    ],
+    "coachingPrompt": "Explain how to achieve a balanced, creamy German potato salad with the right seasoning."
+  },
+  "timestamp": "2026-02-06T05:46:00.706Z"
+}

@@ -1,0 +1,42 @@
+{
+  "contentHash": "4f8c0d371b5112e4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 chipotle pepper in adobo sauce, minced",
+        "searchTerm": "chipotle peppers in adobo",
+        "normalizedName": "Chipotle Pepper"
+      },
+      {
+        "ingredient": "1 pound oysters on the half shell",
+        "searchTerm": "oysters on half shell",
+        "normalizedName": "Oyster"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill gloves",
+        "searchTerm": "grill gloves"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "small mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Make chipotle butter ahead and reheat just before serving for best flavor",
+      "Cook oysters until they just open and are heated through, about 3-4 minutes"
+    ],
+    "coachingPrompt": "Guide me through grilling oysters topped with smoky chipotle butter"
+  },
+  "timestamp": "2026-02-06T08:21:08.933Z"
+}

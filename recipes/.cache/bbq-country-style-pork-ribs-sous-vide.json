@@ -1,0 +1,68 @@
+{
+  "contentHash": "038f055588dd2496",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 pound pork spareribs",
+        "searchTerm": "pork spareribs",
+        "normalizedName": "Pork Sparerib"
+      },
+      {
+        "ingredient": "½ teaspoon red pepper flakes, or to taste (Optional)",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "¼ teaspoon five-spice powder, or to taste (Optional)",
+        "searchTerm": "five-spice powder",
+        "normalizedName": "Five-Spice Powder"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper, or to taste (Optional)",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 teaspoons liquid smoke flavoring, or to taste (Optional)",
+        "searchTerm": "liquid smoke",
+        "normalizedName": "Liquid Smoke"
+      },
+      {
+        "ingredient": "½ cup barbecue sauce, or to taste",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sous Vide Machine",
+        "searchTerm": "sous vide machine"
+      },
+      {
+        "name": "Vacuum Sealer Bags",
+        "searchTerm": "vacuum sealer bags"
+      },
+      {
+        "name": "Grill or Broiler",
+        "searchTerm": "grill"
+      }
+    ],
+    "cookingTips": [
+      "Sous vide cooking creates incredibly tender, juicy ribs impossible to achieve with traditional methods",
+      "Season and vacuum-seal ribs with dry rub; cook at 165°F for 24 hours",
+      "Quick sear on grill or under broiler after sous vide for caramelized exterior and barbecue sauce adhesion"
+    ],
+    "coachingPrompt": "This uses advanced sous vide technique. Do you have the equipment, and are you comfortable with precision temperature cooking?"
+  },
+  "timestamp": "2026-02-05T23:37:23.225Z"
+}

@@ -1,0 +1,52 @@
+{
+  "contentHash": "367b2579da00a686",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "¼ cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 (9 ounce) package white cake mix",
+        "searchTerm": "cake mix",
+        "normalizedName": "Cake Mix"
+      },
+      {
+        "ingredient": "1 teaspoon maple flavored extract",
+        "searchTerm": "maple extract",
+        "normalizedName": "Maple Extract"
+      },
+      {
+        "ingredient": "¼ cup maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9-inch cake pan",
+        "searchTerm": "cake pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy before adding to batter",
+      "Use a toothpick to test cake doneness"
+    ],
+    "coachingPrompt": "This sweet and savory cake pairs well with coffee - would you like suggestions for serving ideas?"
+  },
+  "timestamp": "2026-02-05T22:50:08.864Z"
+}

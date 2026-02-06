@@ -1,0 +1,82 @@
+{
+  "contentHash": "b0a14aeeee607d28",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups mixed salad greens such as leaf lettuce, endive, and radicchio",
+        "searchTerm": "mixed salad greens",
+        "normalizedName": "Mixed Salad Green"
+      },
+      {
+        "ingredient": "1 large Granny Smith, cut into small cubes",
+        "searchTerm": "Granny Smith apple",
+        "normalizedName": "Granny Smith Apple"
+      },
+      {
+        "ingredient": "½ cup chopped walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "½ cup crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "½ cup dried cranberries",
+        "searchTerm": "dried cranberries",
+        "normalizedName": "Dried Cranberry"
+      },
+      {
+        "ingredient": "2 tablespoons finely chopped green onions (Optional)",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "¼ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "¼ cup blueberries",
+        "searchTerm": "blueberries",
+        "normalizedName": "Blueberry"
+      },
+      {
+        "ingredient": "2 tablespoons extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 tablespoons balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large salad bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Toss greens with dressing just before serving to prevent wilting",
+      "Cut the apple into cubes and toss with a bit of the balsamic vinegar to prevent browning"
+    ],
+    "coachingPrompt": "Help the user understand how to balance the sweet and tart elements in this salad, including the role of blueberries and cranberries."
+  },
+  "timestamp": "2026-02-06T08:04:32.986Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "e96d9d9cc01d08dd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 scoops chocolate ice cream",
+        "searchTerm": "chocolate ice cream",
+        "normalizedName": "Chocolate Ice Cream"
+      },
+      {
+        "ingredient": "2 tablespoons powdered chocolate drink mix",
+        "searchTerm": "powdered chocolate drink mix",
+        "normalizedName": "Powdered Chocolate Drink Mix"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Measuring spoon",
+        "searchTerm": "measuring spoon"
+      },
+      {
+        "name": "Tall glass",
+        "searchTerm": "tall glass"
+      }
+    ],
+    "cookingTips": [
+      "Use cold milk and ice cream for the thickest shake",
+      "Blend until smooth and creamy, about 30-45 seconds",
+      "Add extra milk if shake is too thick"
+    ],
+    "coachingPrompt": "What's the best technique for blending a smooth, creamy chocolate shake?"
+  },
+  "timestamp": "2026-02-06T05:08:07.153Z"
+}

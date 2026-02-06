@@ -1,0 +1,54 @@
+{
+  "contentHash": "589f59d312fb855e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 whole chicken",
+        "searchTerm": "whole chicken",
+        "normalizedName": "Whole Chicken"
+      },
+      {
+        "ingredient": "1 tablespoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 sprigs rosemary",
+        "searchTerm": "fresh rosemary",
+        "normalizedName": "Rosemary"
+      },
+      {
+        "ingredient": "3 cloves garlic, peeled",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 lemon, halved",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Stuff cavity with rosemary, garlic, and lemon for flavored steam",
+      "Use generous salt and pepper for flavorful skin",
+      "Let rest 10 minutes after roasting for juicy meat"
+    ],
+    "coachingPrompt": "I'm roasting chicken with simple aromatics. Should the chicken be at room temperature before roasting?"
+  },
+  "timestamp": "2026-02-06T16:18:22.657Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "dd848ead4a27af0d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 pound venison stew meat",
+        "searchTerm": "venison stew meat",
+        "normalizedName": "Venison Stew Meat"
+      },
+      {
+        "ingredient": "1 green bell pepper, seeded and sliced into strips",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 red bell pepper, seeded and sliced into strips",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 small onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (6.8 ounce) package beef flavored rice mix",
+        "searchTerm": "beef flavored rice",
+        "normalizedName": "Beef Flavored Rice Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "pot for rice",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Sear venison tips on all sides before adding vegetables for color",
+      "Cook rice according to package directions while meat simmers",
+      "Add peppers and onions in the last 10 minutes to maintain crunch"
+    ],
+    "coachingPrompt": "What's the best way to combine venison and rice components for a cohesive one-dish meal?"
+  },
+  "timestamp": "2026-02-06T21:48:22.066Z"
+}

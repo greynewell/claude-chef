@@ -1,0 +1,43 @@
+{
+  "contentHash": "8caf459feab4b738",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "2 sweet potatoes",
+        "searchTerm": "sweet potato",
+        "normalizedName": "Sweet Potato"
+      },
+      {
+        "ingredient": "1 teaspoon seasoned salt, or more to taste",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Slice sweet potatoes uniformly to ensure even cooking",
+      "Pat slices dry before arranging to promote crisping",
+      "Watch carefully near the end of baking to prevent burning"
+    ],
+    "coachingPrompt": "Guide the cook on achieving crispy exterior while maintaining tender interior, and suggest uniform slicing for consistent results."
+  },
+  "timestamp": "2026-02-05T23:14:35.550Z"
+}

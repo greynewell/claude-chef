@@ -1,0 +1,57 @@
+{
+  "contentHash": "732b072bc195031a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 (1 ounce) package dry onion soup mix",
+        "searchTerm": "dry onion soup mix",
+        "normalizedName": "Dry Onion Soup Mix"
+      },
+      {
+        "ingredient": "2 pounds potatoes, cut into 1-inch pieces",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 pound baby carrots",
+        "searchTerm": "baby carrots",
+        "normalizedName": "Baby Carrot"
+      },
+      {
+        "ingredient": "2 large bell peppers, cut into 1-inch pieces",
+        "searchTerm": "bell pepper",
+        "normalizedName": "Bell Pepper"
+      },
+      {
+        "ingredient": "1 large onion, cut into 1-inch pieces",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cut vegetables to uniform sizes for consistent cooking throughout",
+      "Stir vegetables halfway through roasting to ensure even browning on all sides"
+    ],
+    "coachingPrompt": "How should vegetables with different cooking times be sequenced to finish simultaneously?"
+  },
+  "timestamp": "2026-02-06T13:54:01.985Z"
+}

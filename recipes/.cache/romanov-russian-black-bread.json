@@ -1,0 +1,53 @@
+{
+  "contentHash": "b0ba9f184ed3d82b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup warm water (110 degrees F/45 degrees C)",
+        "searchTerm": "warm water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "⅓ cup dark corn syrup",
+        "searchTerm": "dark corn syrup",
+        "normalizedName": "Dark Corn Syrup"
+      },
+      {
+        "ingredient": "2 (.25 ounce) envelopes active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "5 cups dark rye flour, or as needed",
+        "searchTerm": "dark rye flour",
+        "normalizedName": "Dark Rye Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "stand mixer",
+        "searchTerm": "stand mixer"
+      },
+      {
+        "name": "bread pan",
+        "searchTerm": "bread pan"
+      },
+      {
+        "name": "bench scraper",
+        "searchTerm": "bench scraper"
+      }
+    ],
+    "cookingTips": [
+      "Mix rye flour carefully as it absorbs less water than wheat flour, adjust consistency",
+      "Knead rye dough until smooth but slightly sticky, unlike wheat dough",
+      "Allow longer rise times for rye bread as it ferments more slowly"
+    ],
+    "coachingPrompt": "How does rye flour behave differently from wheat flour in bread? Why is longer rising important?"
+  },
+  "timestamp": "2026-02-06T16:32:17.109Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "c1b1b9bb33ba4f04",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds beef tenderloin, at room temperature",
+        "searchTerm": "beef tenderloin",
+        "normalizedName": "Beef Tenderloin"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 teaspoon dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon cracked black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Bring beef to room temperature for 30 minutes before cooking for even doneness",
+      "Use a meat thermometer to achieve precise doneness: 125°F for rare, 135°F for medium-rare",
+      "Let the cooked tenderloin rest for 10 minutes before slicing to retain juices"
+    ],
+    "coachingPrompt": "Show me how to prepare a premium beef tenderloin for air frying, monitor temperature accurately, and rest it properly for maximum tenderness and flavor."
+  },
+  "timestamp": "2026-02-05T21:40:04.005Z"
+}

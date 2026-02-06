@@ -1,0 +1,93 @@
+{
+  "contentHash": "c8d3760fff2f5347",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "beef stock",
+        "searchTerm": "beef stock",
+        "normalizedName": "Beef Stock"
+      },
+      {
+        "ingredient": "tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "carrots, diced",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "barley",
+        "searchTerm": "barley",
+        "normalizedName": "Barley"
+      },
+      {
+        "ingredient": "sliced fresh mushrooms",
+        "searchTerm": "mushroom",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "beef sirloin, cut into chunks",
+        "searchTerm": "beef sirloin",
+        "normalizedName": "Beef Sirloin"
+      },
+      {
+        "ingredient": "garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "bay leaves",
+        "searchTerm": "bay leaf",
+        "normalizedName": "Bay Leaf"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Measuring Cups",
+        "searchTerm": "measuring cup"
+      }
+    ],
+    "cookingTips": [
+      "Layer ingredients with heavier items on bottom for even cooking",
+      "Add barley in the last 2 hours to prevent mushiness",
+      "Stir occasionally if lid allows to distribute flavors evenly"
+    ],
+    "coachingPrompt": "Ask the user about their slow cooker size and help them plan timing. Explain why barley timing matters in this soup."
+  },
+  "timestamp": "2026-02-06T10:39:09.365Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "0d3972313086bb03",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (8 ounce) can tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "1 (24 ounce) jar prepared pasta sauce",
+        "searchTerm": "pasta sauce",
+        "normalizedName": "Pasta Sauce"
+      },
+      {
+        "ingredient": "1 (18 ounce) package precooked polenta",
+        "searchTerm": "polenta",
+        "normalizedName": "Polenta"
+      },
+      {
+        "ingredient": "1 (16 ounce) package cottage cheese with chives",
+        "searchTerm": "cottage cheese",
+        "normalizedName": "Cottage Cheese"
+      },
+      {
+        "ingredient": "1 (16 ounce) package shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "9x13 Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Brown the ground beef thoroughly and drain excess fat before adding sauce",
+      "Layer polenta slices as you would noodles in traditional lasagna",
+      "Use precooked polenta to save time; it's a great alternative to pasta"
+    ],
+    "coachingPrompt": "How do I layer this lasagna with polenta instead of noodles? Should I prepare the beef and sauce together?"
+  },
+  "timestamp": "2026-02-05T22:05:40.837Z"
+}

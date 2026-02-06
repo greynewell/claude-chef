@@ -1,0 +1,48 @@
+{
+  "contentHash": "162d88d98265b729",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 center-cut slice of watermelon, about 1 inch thick",
+        "searchTerm": "watermelon",
+        "normalizedName": "Watermelon"
+      },
+      {
+        "ingredient": "¼ cup crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "⅛ cup diced tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 tablespoon Kalamata olives, pitted and finely chopped",
+        "searchTerm": "kalamata olives",
+        "normalizedName": "Kalamata Olive"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh mint",
+        "searchTerm": "fresh mint",
+        "normalizedName": "Fresh Mint"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Sharp knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Choose a thick, ripe watermelon slice with good structural integrity",
+      "Assemble toppings just before serving to prevent sogginess"
+    ],
+    "coachingPrompt": "Guide the user through selecting and cutting a watermelon slice that will hold toppings without falling apart."
+  },
+  "timestamp": "2026-02-06T08:04:32.982Z"
+}

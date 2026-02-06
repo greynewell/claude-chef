@@ -1,0 +1,78 @@
+{
+  "contentHash": "ed82c3d8a783b41c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "¼ cup ranch dressing",
+        "searchTerm": "ranch dressing",
+        "normalizedName": "Ranch Dressing"
+      },
+      {
+        "ingredient": "¼ cup taco sauce",
+        "searchTerm": "taco sauce",
+        "normalizedName": "Taco Sauce"
+      },
+      {
+        "ingredient": "4 (4 ounce) hamburger patties",
+        "searchTerm": "hamburger patties",
+        "normalizedName": "Hamburger Patty"
+      },
+      {
+        "ingredient": "1 dash Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "8 flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "2 cups shredded sharp Cheddar cheese",
+        "searchTerm": "sharp Cheddar cheese",
+        "normalizedName": "Sharp Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 cups shredded Colby-Jack cheese",
+        "searchTerm": "Colby-Jack cheese",
+        "normalizedName": "Colby-Jack Cheese"
+      },
+      {
+        "ingredient": "½ head lettuce, shredded",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "3 tablespoons picante sauce",
+        "searchTerm": "picante sauce",
+        "normalizedName": "Picante Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Grill or griddle",
+        "searchTerm": "griddle"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook hamburger patties until done, then assemble quickly while warm",
+      "Layer cheeses between tortillas and cook on griddle until crispy and cheese melts",
+      "Mix sour cream, ranch, and taco sauce ahead for easy assembly"
+    ],
+    "coachingPrompt": "These are burgers served inside quesadillas. How do you prevent the tortillas from becoming soggy during cooking?"
+  },
+  "timestamp": "2026-02-06T15:33:59.437Z"
+}

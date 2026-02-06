@@ -1,0 +1,49 @@
+{
+  "contentHash": "5cd052ccf352d465",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 bone-in pork chop",
+        "searchTerm": "bone-in pork chop",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "4 cups water, or more as needed",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 teaspoons chicken base",
+        "searchTerm": "chicken base",
+        "normalizedName": "Chicken Base"
+      },
+      {
+        "ingredient": "1 clove garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "cooking pot"
+      },
+      {
+        "name": "strainer",
+        "searchTerm": "fine mesh strainer"
+      }
+    ],
+    "cookingTips": [
+      "Simmer gently rather than boiling to keep the broth clear and flavorful",
+      "Blanch the pork chop briefly in boiling water first to remove impurities for a cleaner broth",
+      "Strain the finished broth through cheesecloth for a silky texture"
+    ],
+    "coachingPrompt": "Teach the user the traditional Japanese technique of blanching meat before simmering. Explain how long, gentle simmering extracts maximum flavor from the bone."
+  },
+  "timestamp": "2026-02-06T15:05:33.536Z"
+}

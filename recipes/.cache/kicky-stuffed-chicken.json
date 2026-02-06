@@ -1,0 +1,53 @@
+{
+  "contentHash": "a5997f367952426c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 skinless, boneless chicken breast",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 (8 ounce) jar spicy salsa",
+        "searchTerm": "spicy salsa",
+        "normalizedName": "Spicy Salsa"
+      },
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Butterfly the chicken breast carefully to create even thickness for uniform cooking",
+      "Fill chicken with salsa and fold carefully to keep filling contained during cooking",
+      "Cover with foil for the first half of baking to retain moisture, then uncover to brown"
+    ],
+    "coachingPrompt": "Butterfly cuts can be intimidating. Would you like guidance on that technique, or would you prefer alternative preparation methods?"
+  },
+  "timestamp": "2026-02-06T10:47:30.939Z"
+}

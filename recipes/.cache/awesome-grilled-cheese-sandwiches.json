@@ -1,0 +1,43 @@
+{
+  "contentHash": "ec9e2fba91722b99",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "18 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "4 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "9 slices Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "butter knife",
+        "searchTerm": "butter knife"
+      }
+    ],
+    "cookingTips": [
+      "Butter bread on the outside for golden crispy exterior",
+      "Medium heat prevents burnt bread and ensures cheese melts properly",
+      "Press down gently while cooking for even contact"
+    ],
+    "coachingPrompt": "Help the user achieve the perfect golden-brown exterior while ensuring the cheese melts evenly throughout."
+  },
+  "timestamp": "2026-02-05T22:45:20.653Z"
+}

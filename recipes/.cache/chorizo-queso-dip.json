@@ -1,0 +1,47 @@
+{
+  "contentHash": "f17c9b997ed5afbb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 ounces bulk chorizo sausage",
+        "searchTerm": "chorizo sausage",
+        "normalizedName": "Chorizo Sausage"
+      },
+      {
+        "ingredient": "1 (10 ounce) can diced tomatoes with green chile peppers",
+        "searchTerm": "diced tomatoes with chiles",
+        "normalizedName": "Diced Tomato with Green Chile Pepper"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (8 ounce) package processed cheese",
+        "searchTerm": "processed cheese",
+        "normalizedName": "Processed Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown chorizo completely before adding cheeses to remove excess grease",
+      "Keep dip on low heat in slow cooker to maintain smooth consistency without breaking"
+    ],
+    "coachingPrompt": "How do processed cheese and cream cheese work together to create smooth texture?"
+  },
+  "timestamp": "2026-02-06T03:15:44.395Z"
+}

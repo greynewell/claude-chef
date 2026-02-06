@@ -1,0 +1,57 @@
+{
+  "contentHash": "dee8e3366c7664f2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 tablespoon bacon drippings",
+        "searchTerm": "bacon drippings",
+        "normalizedName": "Bacon Drippings"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 ¼ teaspoons garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "1 pound sea scallops",
+        "searchTerm": "sea scallops",
+        "normalizedName": "Sea Scallop"
+      },
+      {
+        "ingredient": "2 tablespoons horseradish sauce",
+        "searchTerm": "horseradish sauce",
+        "normalizedName": "Horseradish Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Pat scallops dry before cooking to achieve a golden crust",
+      "Cook scallops 2-3 minutes per side; avoid overcooking or they become rubbery"
+    ],
+    "coachingPrompt": "Help the user understand that dry scallops are essential for browning, and timing is critical to avoid tough, overcooked texture."
+  },
+  "timestamp": "2026-02-06T06:41:36.108Z"
+}

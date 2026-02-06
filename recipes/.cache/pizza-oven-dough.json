@@ -1,0 +1,58 @@
+{
+  "contentHash": "31d3ebcf3ef33074",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 ½ teaspoons active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "1 teaspoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 ½ teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "pizza peel",
+        "searchTerm": "pizza peel"
+      },
+      {
+        "name": "pizza stone",
+        "searchTerm": "pizza stone"
+      }
+    ],
+    "cookingTips": [
+      "This recipe is formulated for high-temperature pizza ovens (700°F+)",
+      "Lower yeast quantity and longer fermentation develops flavor in pizza oven dough",
+      "Use bread flour for structure in extreme heat conditions"
+    ],
+    "coachingPrompt": "How does traditional pizza oven dough differ from standard home oven pizza dough?"
+  },
+  "timestamp": "2026-02-06T14:54:09.801Z"
+}

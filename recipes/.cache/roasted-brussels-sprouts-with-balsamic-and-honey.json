@@ -1,0 +1,58 @@
+{
+  "contentHash": "d02648ecd52be158",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound Brussels sprouts, trimmed",
+        "searchTerm": "Brussels sprouts",
+        "normalizedName": "Brussels Sprout"
+      },
+      {
+        "ingredient": "3 tablespoons extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon kosher salt, or to taste",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon freshly ground black pepper, or to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon good quality balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "2 tablespoons honey, or to taste",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "sheet pan"
+      },
+      {
+        "name": "Small bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Drizzle balsamic and honey glaze after roasting to prevent burning",
+      "Use quality balsamic vinegar for complex, balanced flavor",
+      "Return glazed vegetables to oven briefly to caramelize"
+    ],
+    "coachingPrompt": "Why would you add the honey and balsamic vinegar at the end rather than the beginning?"
+  },
+  "timestamp": "2026-02-06T16:21:02.809Z"
+}

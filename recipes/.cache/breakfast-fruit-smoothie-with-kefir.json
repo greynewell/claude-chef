@@ -1,0 +1,44 @@
+{
+  "contentHash": "63a842e057001ad5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup kefir",
+        "searchTerm": "kefir",
+        "normalizedName": "Kefir"
+      },
+      {
+        "ingredient": "½ cup frozen blueberries",
+        "searchTerm": "frozen blueberries",
+        "normalizedName": "Blueberry"
+      },
+      {
+        "ingredient": "½ small banana",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "1 tablespoon almond butter",
+        "searchTerm": "almond butter",
+        "normalizedName": "Almond Butter"
+      },
+      {
+        "ingredient": "2 teaspoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      }
+    ],
+    "cookingTips": [
+      "Use frozen fruit for thicker, colder smoothie without excess ice",
+      "Kefir adds probiotics and tanginess compared to yogurt"
+    ],
+    "coachingPrompt": "A probiotic-rich smoothie using kefir. Comfortable blending and comfortable with kefir as ingredient?"
+  },
+  "timestamp": "2026-02-06T00:37:43.343Z"
+}

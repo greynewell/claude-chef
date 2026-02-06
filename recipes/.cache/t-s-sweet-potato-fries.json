@@ -1,0 +1,63 @@
+{
+  "contentHash": "dce95f43e8a24ed4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 sweet potatoes, cut into large French fries",
+        "searchTerm": "sweet potato",
+        "normalizedName": "Sweet Potato"
+      },
+      {
+        "ingredient": "1 tablespoon water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 teaspoons Italian seasoning",
+        "searchTerm": "Italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      },
+      {
+        "ingredient": "½ teaspoon lemon pepper",
+        "searchTerm": "lemon pepper",
+        "normalizedName": "Lemon Pepper"
+      },
+      {
+        "ingredient": "1 pinch salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Soak cut sweet potatoes in cold water for 30 minutes to remove excess starch and improve crispiness",
+      "Toss potatoes with oil and seasonings evenly for consistent flavor",
+      "Bake at 400°F for 25-30 minutes, stirring halfway through for even browning"
+    ],
+    "coachingPrompt": "Do you have experience baking fries, or would you like tips for achieving crispiness?"
+  },
+  "timestamp": "2026-02-06T20:12:30.869Z"
+}

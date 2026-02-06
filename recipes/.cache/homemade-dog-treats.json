@@ -1,0 +1,57 @@
+{
+  "contentHash": "8e0d3926ba327db5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ¼ cups grated carrots",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 ¼ cups quick-cooking oats",
+        "searchTerm": "quick oats",
+        "normalizedName": "Quick-Cooking Oat"
+      },
+      {
+        "ingredient": "1 cup grated apple",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "½ cup natural peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Box Grater",
+        "searchTerm": "grater"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Cookie Scoop",
+        "searchTerm": "scoop"
+      }
+    ],
+    "cookingTips": [
+      "Grate vegetables fresh for maximum moisture and freshness",
+      "Use natural peanut butter without xylitol, which is toxic to dogs",
+      "Bake at 350°F for 15-20 minutes until firm; let cool completely before storing"
+    ],
+    "coachingPrompt": "Are all these ingredients safe for dogs, and how should I store these treats?"
+  },
+  "timestamp": "2026-02-06T09:13:13.846Z"
+}

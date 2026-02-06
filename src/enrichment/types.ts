@@ -5,6 +5,8 @@ export interface LlmClient {
 export interface IngredientSearchTerm {
   ingredient: string;
   searchTerm: string;
+  /** Canonical ingredient name for taxonomy (e.g., "eggs" -> "Egg", "baby spinach" -> "Spinach") */
+  normalizedName: string;
 }
 
 export interface GearItem {

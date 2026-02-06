@@ -1,0 +1,63 @@
+{
+  "contentHash": "767fa5c2cfe5e381",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 baguette, sliced",
+        "searchTerm": "baguette",
+        "normalizedName": "Baguette"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 red onion, sliced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "¼ cup red wine",
+        "searchTerm": "red wine",
+        "normalizedName": "Red Wine"
+      },
+      {
+        "ingredient": "⅓ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 tablespoon horseradish",
+        "searchTerm": "horseradish",
+        "normalizedName": "Horseradish"
+      },
+      {
+        "ingredient": "½ pound thinly sliced deli roast beef",
+        "searchTerm": "roast beef deli",
+        "normalizedName": "Roast Beef"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Small saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Small bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Caramelize onions slowly over medium-low heat for 20-30 minutes to develop sweetness",
+      "Mix horseradish into mayonnaise for a punch of flavor on each canape",
+      "Toast baguette slices lightly for better texture and to prevent sogginess"
+    ],
+    "coachingPrompt": "Guide the user through the caramelization process and explain why low heat and patience create superior flavor compared to rushed cooking."
+  },
+  "timestamp": "2026-02-05T23:41:38.108Z"
+}

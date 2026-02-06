@@ -1,0 +1,53 @@
+{
+  "contentHash": "03ed2b5b50559abe",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound dried pinto beans",
+        "searchTerm": "pinto beans",
+        "normalizedName": "Dried Pinto Bean"
+      },
+      {
+        "ingredient": "6 cups water, or more as needed to cover",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 smoked ham hock",
+        "searchTerm": "ham hock",
+        "normalizedName": "Smoked Ham Hock"
+      },
+      {
+        "ingredient": "1 teaspoon kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "1 tablespoon brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 (6.5 ounce) can tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Soak beans overnight or use quick-soak method to reduce cooking time and gas production",
+      "Add salt only at the end of cooking to prevent toughening the bean skins"
+    ],
+    "coachingPrompt": "Why does the ham hock contribute more than just salt to this dish?"
+  },
+  "timestamp": "2026-02-05T23:59:24.709Z"
+}

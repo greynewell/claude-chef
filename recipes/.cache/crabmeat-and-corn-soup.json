@@ -1,0 +1,83 @@
+{
+  "contentHash": "00799ae92d08bd2a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 cups whole milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 cups half-and-half",
+        "searchTerm": "half-and-half",
+        "normalizedName": "Half-and-Half"
+      },
+      {
+        "ingredient": "1 ¾ cups whole kernel corn",
+        "searchTerm": "corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "1 cup chopped green onions",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 pound fresh crab meat",
+        "searchTerm": "crabmeat",
+        "normalizedName": "Crabmeat"
+      },
+      {
+        "ingredient": "½ teaspoon ground white pepper",
+        "searchTerm": "white pepper",
+        "normalizedName": "White Pepper"
+      },
+      {
+        "ingredient": "½ teaspoon seasoning salt",
+        "searchTerm": "seasoning salt",
+        "normalizedName": "Seasoning Salt"
+      },
+      {
+        "ingredient": "1 tablespoon soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "¼ cup chopped parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "Make a roux with butter and flour, cooking for 2-3 minutes before adding liquids to prevent lumps",
+      "Warm milk and half-and-half separately before adding to prevent curdling",
+      "Add crabmeat in the last 5 minutes to avoid breaking apart the chunks"
+    ],
+    "coachingPrompt": "Why would you add the crabmeat near the end of cooking rather than at the beginning?"
+  },
+  "timestamp": "2026-02-06T04:04:48.326Z"
+}

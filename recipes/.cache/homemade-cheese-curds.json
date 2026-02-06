@@ -1,0 +1,58 @@
+{
+  "contentHash": "d74851000b03e023",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 gallon whole milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "1/2 teaspoon calcium chloride crystals",
+        "searchTerm": "calcium chloride",
+        "normalizedName": "Calcium Chloride"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1/8 teaspoon mesophilic culture",
+        "searchTerm": "mesophilic culture",
+        "normalizedName": "Mesophilic Culture"
+      },
+      {
+        "ingredient": "1/4 teaspoon liquid rennet",
+        "searchTerm": "liquid rennet",
+        "normalizedName": "Liquid Rennet"
+      },
+      {
+        "ingredient": "kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Stainless Steel Pot",
+        "searchTerm": "stainless steel pot"
+      },
+      {
+        "name": "Cheese Thermometer",
+        "searchTerm": "cheese thermometer"
+      },
+      {
+        "name": "Cheese Cloth",
+        "searchTerm": "cheese cloth"
+      }
+    ],
+    "cookingTips": [
+      "Maintain precise temperature control - use thermometer to monitor carefully",
+      "Cut curds into ¼ inch cubes for proper whey release",
+      "Curds should squeak when chewed when fully cooked - this indicates proper texture"
+    ],
+    "coachingPrompt": "Why is temperature control critical in cheese making? What does the 'squeak' tell you about cheese curd readiness?"
+  },
+  "timestamp": "2026-02-06T09:11:17.021Z"
+}

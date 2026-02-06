@@ -1,0 +1,49 @@
+{
+  "contentHash": "bd8919195e52a1f3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 zucchini, sliced",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "¼ cup pizza sauce, or as needed",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "20 slices pepperoni, or as needed",
+        "searchTerm": "pepperoni",
+        "normalizedName": "Pepperoni"
+      },
+      {
+        "ingredient": "½ cup shredded mozzarella cheese, or as needed",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 teaspoon dried parsley, or to taste",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cut zucchini evenly thick so they cook uniformly",
+      "Use a light hand with sauce to prevent soggy bites",
+      "Bake until cheese melts and zucchini is tender-crisp"
+    ],
+    "coachingPrompt": "Guide the user through assembling and baking these quick pizza bites until cheese is bubbly."
+  },
+  "timestamp": "2026-02-06T22:29:12.633Z"
+}

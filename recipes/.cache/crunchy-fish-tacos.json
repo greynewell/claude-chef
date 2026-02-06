@@ -1,0 +1,58 @@
+{
+  "contentHash": "fd01e2e937abf0aa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "9 each Old El Paso taco shells",
+        "searchTerm": "taco shells",
+        "normalizedName": "Taco Shell"
+      },
+      {
+        "ingredient": "2 teaspoons Old El Paso taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning Mix"
+      },
+      {
+        "ingredient": "1 pound tilapia fillets",
+        "searchTerm": "tilapia fillets",
+        "normalizedName": "Tilapia Fillet"
+      },
+      {
+        "ingredient": "8 (6 inch) Old El Paso flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "1 cup pico de gallo salsa",
+        "searchTerm": "pico de gallo",
+        "normalizedName": "Pico De Gallo"
+      },
+      {
+        "ingredient": "½ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "fish spatula",
+        "searchTerm": "thin spatula"
+      },
+      {
+        "name": "taco holder",
+        "searchTerm": "taco stand"
+      }
+    ],
+    "cookingTips": [
+      "Cook tilapia over medium-high heat for 3-4 minutes per side until flaky",
+      "Warm both taco shells and tortillas before serving for better texture and flavor",
+      "Keep filling components warm and separate until assembly for maximum freshness"
+    ],
+    "coachingPrompt": "Help the cook understand why offering both shells and tortillas gives guests options. What's the textural and flavor difference? How should each be prepared?"
+  },
+  "timestamp": "2026-02-06T04:44:41.394Z"
+}

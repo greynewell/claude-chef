@@ -1,0 +1,43 @@
+{
+  "contentHash": "0cb8901cbd49d049",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 egg whites",
+        "searchTerm": "egg whites",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "4 cups sifted confectioners' sugar",
+        "searchTerm": "confectioners sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon lemon extract",
+        "searchTerm": "lemon extract",
+        "normalizedName": "Lemon Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixer",
+        "searchTerm": "stand mixer"
+      },
+      {
+        "name": "sifter",
+        "searchTerm": "flour sifter"
+      },
+      {
+        "name": "piping bags",
+        "searchTerm": "pastry bags"
+      }
+    ],
+    "cookingTips": [
+      "Use room temperature egg whites for better volume and stability",
+      "Sift powdered sugar before adding to remove lumps for smooth icing",
+      "Add a small amount of water if icing is too thick for piping consistency"
+    ],
+    "coachingPrompt": "How do we achieve a glossy, smooth royal icing with the right consistency for decorating without stiff peaks?"
+  },
+  "timestamp": "2026-02-06T16:36:12.781Z"
+}

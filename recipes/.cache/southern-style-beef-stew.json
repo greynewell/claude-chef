@@ -1,0 +1,68 @@
+{
+  "contentHash": "d220e72bea35a8d0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 ½ pounds beef stew meat, cut into 1/2 inch pieces",
+        "searchTerm": "beef stew meat",
+        "normalizedName": "Beef Stew Meat"
+      },
+      {
+        "ingredient": "1 (10 ounce) can diced tomatoes and green chiles",
+        "searchTerm": "diced tomatoes and green chiles",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "3 (14.5 ounce) cans stewed, diced tomatoes",
+        "searchTerm": "stewed tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 (10 ounce) package frozen cut okra",
+        "searchTerm": "frozen okra",
+        "normalizedName": "Okra"
+      },
+      {
+        "ingredient": "1 (10 ounce) package frozen baby lima beans",
+        "searchTerm": "frozen lima beans",
+        "normalizedName": "Lima Bean"
+      },
+      {
+        "ingredient": "1 (10 ounce) package frozen corn kernels",
+        "searchTerm": "frozen corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "4 medium potatoes, peeled and diced",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large Dutch oven",
+        "searchTerm": "Dutch oven"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Brown the beef first to develop deep flavor before adding vegetables",
+      "Add frozen vegetables near the end of cooking to prevent mushiness",
+      "Let the stew simmer low and slow for tender meat"
+    ],
+    "coachingPrompt": "Guide the user through browning techniques and explain how layering flavors creates a more satisfying stew."
+  },
+  "timestamp": "2026-02-06T18:42:18.253Z"
+}

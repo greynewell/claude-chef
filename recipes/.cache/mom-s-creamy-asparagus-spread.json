@@ -1,0 +1,53 @@
+{
+  "contentHash": "3d044569f035256b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15 ounce) can asparagus tips, drained",
+        "searchTerm": "canned asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "½ cup finely chopped almonds",
+        "searchTerm": "almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "3 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon finely minced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Soften cream cheese at room temperature for easier mixing",
+      "Finely chop almonds for a smooth spread texture",
+      "Drain asparagus well to prevent excess moisture in the spread"
+    ],
+    "coachingPrompt": "Help the user understand how to balance creaminess with texture by adjusting the ratio of soft to crunchy ingredients."
+  },
+  "timestamp": "2026-02-06T12:43:13.316Z"
+}

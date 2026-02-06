@@ -1,0 +1,43 @@
+{
+  "contentHash": "5948bb9d45ca26fa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ½ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup farro",
+        "searchTerm": "farro",
+        "normalizedName": "Farro"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Instant Pot",
+        "searchTerm": "instant pot"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Measuring Cups",
+        "searchTerm": "measuring cup"
+      }
+    ],
+    "cookingTips": [
+      "Do not rinse farro before cooking - the starch helps create creamy texture",
+      "Use a 2.5:1 water-to-farro ratio for optimal texture",
+      "Natural pressure release for 10 minutes after cooking for best results"
+    ],
+    "coachingPrompt": "Explain why farro is nutritious and versatile, and how to use this as a base for grain bowls."
+  },
+  "timestamp": "2026-02-06T09:49:33.382Z"
+}

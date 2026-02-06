@@ -1,0 +1,58 @@
+{
+  "contentHash": "82639a4420ab4a73",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (6 ounce) package lime flavored Jell-O® mix",
+        "searchTerm": "lime gelatin",
+        "normalizedName": "Lime Gelatin"
+      },
+      {
+        "ingredient": "1 (20 ounce) can crushed pineapple, drained with juice reserved",
+        "searchTerm": "crushed pineapple",
+        "normalizedName": "Crushed Pineapple"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 cups heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "1 cup chopped pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Electric mixer",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "9x13 baking dish",
+        "searchTerm": "baking dish"
+      }
+    ],
+    "cookingTips": [
+      "Soften cream cheese at room temperature for at least 30 minutes for smooth blending",
+      "Whip heavy cream to soft peaks before folding into gelatin mixture",
+      "Chill until set, at least 4 hours or overnight"
+    ],
+    "coachingPrompt": "Help the user understand the layering technique for this gelatin salad and proper whipping of cream for airy texture."
+  },
+  "timestamp": "2026-02-06T11:25:28.051Z"
+}

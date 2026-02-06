@@ -1,0 +1,53 @@
+{
+  "contentHash": "bbf9b15514bc36b2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds Brussels sprouts, trimmed and halved lengthwise",
+        "searchTerm": "brussels sprout",
+        "normalizedName": "Brussels Sprout"
+      },
+      {
+        "ingredient": "6 slices bacon, or more to taste, thinly sliced",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 pinch salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "⅔ cup reduced balsamic vinegar, divided",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Render bacon until very crispy for maximum flavor, then reserve",
+      "Roast Brussels sprouts in rendered bacon fat for deep, savory flavor",
+      "Drizzle with reduced balsamic vinegar just before serving for glossy finish"
+    ],
+    "coachingPrompt": "Bacon fat is the secret to this dish's flavor. Will you roast the Brussels sprouts in it after rendering the bacon?"
+  },
+  "timestamp": "2026-02-06T00:51:42.395Z"
+}

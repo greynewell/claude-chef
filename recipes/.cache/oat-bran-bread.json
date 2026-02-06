@@ -1,0 +1,63 @@
+{
+  "contentHash": "ef842adb810abaf1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ¼ cups warm water (110 degrees F/45 degrees C)",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 tablespoons margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "2 ½ cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "¼ cup oat bran",
+        "searchTerm": "oat bran",
+        "normalizedName": "Oat Bran"
+      },
+      {
+        "ingredient": "2 tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ½ teaspoons active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Bread machine",
+        "searchTerm": "bread machine"
+      },
+      {
+        "name": "Loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Use water at exactly 110°F to activate the yeast properly—too hot kills it, too cold slows fermentation",
+      "The oat bran adds fiber and a slightly nutty flavor; it also absorbs more water, so monitor dough consistency",
+      "Bake until the internal temperature reaches 190°F for a fully cooked loaf"
+    ],
+    "coachingPrompt": "How does oat bran affect the dough hydration and rise compared to traditional bread flour, and what's the ideal water temperature?"
+  },
+  "timestamp": "2026-02-06T13:25:05.574Z"
+}

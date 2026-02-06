@@ -1,0 +1,77 @@
+{
+  "contentHash": "70c69ca65c725a93",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 pounds chicken wings, separated at joints, tips discarded",
+        "searchTerm": "chicken wings",
+        "normalizedName": "Chicken Wing"
+      },
+      {
+        "ingredient": "4 cups vinegar-based hot pepper sauce",
+        "searchTerm": "buffalo sauce",
+        "normalizedName": "Buffalo Sauce"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "6 tablespoons blue cheese salad dressing",
+        "searchTerm": "blue cheese dressing",
+        "normalizedName": "Blue Cheese Dressing"
+      },
+      {
+        "ingredient": "3 pickled cherry peppers, thinly sliced",
+        "searchTerm": "pickled cherry pepper",
+        "normalizedName": "Pickled Cherry Pepper"
+      },
+      {
+        "ingredient": "½ onion, finely chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ teaspoon freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ teaspoon crushed red pepper flakes",
+        "searchTerm": "red pepper flake",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "hickory wood chips",
+        "searchTerm": "hickory wood chips",
+        "normalizedName": "Hickory Wood Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill or smoker",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "grill tongs"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Pat wings dry before grilling to achieve crispier skin",
+      "Warm buffalo sauce with butter before tossing wings for better coating",
+      "Grill wings over medium heat until internal temperature reaches 165°F for food safety"
+    ],
+    "coachingPrompt": "Help the user grill spicy buffalo wings with proper heat management and sauce application."
+  },
+  "timestamp": "2026-02-06T21:52:16.103Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "cfe8904601b8054b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups dry pancake mix",
+        "searchTerm": "pancake mix",
+        "normalizedName": "Pancake Mix"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup applesauce",
+        "searchTerm": "applesauce",
+        "normalizedName": "Applesauce"
+      },
+      {
+        "ingredient": "1 teaspoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "griddle or skillet",
+        "searchTerm": "griddle"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Don't overmix batter—lumps are okay and create fluffier pancakes",
+      "The applesauce provides moisture, so don't make batter too thick",
+      "Cook on medium heat until bubbles form on top before flipping"
+    ],
+    "coachingPrompt": "Help the user understand how applesauce replaces some fat and adds sweetness while keeping pancakes fluffy."
+  },
+  "timestamp": "2026-02-06T12:41:18.141Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "6c203aa66a428b06",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups strawberries, chopped",
+        "searchTerm": "strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 teaspoons balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "⅛ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "jar",
+        "searchTerm": "jar"
+      }
+    ],
+    "cookingTips": [
+      "Balsamic vinegar adds subtle depth without making the compote taste salty or vinegary",
+      "Cook on medium-high heat and stir frequently to prevent scorching",
+      "Compote will continue to thicken slightly as it cools"
+    ],
+    "coachingPrompt": "Guide the user through proper compote making to achieve the right consistency and balance of flavors"
+  },
+  "timestamp": "2026-02-06T19:31:30.302Z"
+}

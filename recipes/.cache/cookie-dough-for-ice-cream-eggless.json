@@ -1,0 +1,53 @@
+{
+  "contentHash": "845fd8aa37d2f6b7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 ½ tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "3 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "⅛ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Heat-treat flour in microwave for 1-2 minutes to eliminate raw flour safety concerns",
+      "Make small batch to enjoy fresh with ice cream"
+    ],
+    "coachingPrompt": "Show me how to safely prepare eggless cookie dough for eating raw."
+  },
+  "timestamp": "2026-02-06T03:48:49.759Z"
+}

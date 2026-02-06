@@ -1,0 +1,63 @@
+{
+  "contentHash": "7387b265eff2d54c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 head cauliflower, cut into florets",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 cup Italian-seasoned bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Potato Masher",
+        "searchTerm": "potato masher"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Boil cauliflower until very tender, about 10-12 minutes",
+      "Drain well to remove excess moisture before mashing",
+      "Warm milk and butter together before stirring into mash for creamier texture"
+    ],
+    "coachingPrompt": "Walk the user through boiling cauliflower until very soft, draining thoroughly, then mashing with warm dairy."
+  },
+  "timestamp": "2026-02-06T12:05:02.252Z"
+}

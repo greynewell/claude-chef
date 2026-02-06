@@ -1,0 +1,53 @@
+{
+  "contentHash": "def5fd3a02a397e4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (14 ounce) can coconut milk",
+        "searchTerm": "coconut milk",
+        "normalizedName": "Coconut Milk"
+      },
+      {
+        "ingredient": "1 ¼ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 teaspoon sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ½ cups uncooked jasmine rice",
+        "searchTerm": "jasmine rice",
+        "normalizedName": "Jasmine Rice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan with lid",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "fork for fluffing",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Use a 1:1 ratio of coconut milk to water for creamier rice; adjust to taste",
+      "Don't stir rice once it comes to a boil; this releases starches and makes it gummy",
+      "Let rice rest covered for 5 minutes after cooking before fluffing with a fork"
+    ],
+    "coachingPrompt": "What's the proper water-to-rice ratio for perfectly fluffy coconut jasmine rice?"
+  },
+  "timestamp": "2026-02-05T22:25:35.940Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "db2f958265c22abb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound bulk breakfast sausage",
+        "searchTerm": "sausage breakfast bulk",
+        "normalizedName": "Breakfast Sausage"
+      },
+      {
+        "ingredient": "2 cups biscuit baking mix",
+        "searchTerm": "biscuit baking mix",
+        "normalizedName": "Biscuit Baking Mix"
+      },
+      {
+        "ingredient": "10 ounces shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese shredded",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Measuring Cups",
+        "searchTerm": "measuring cup set"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausage first and drain excess fat before mixing with other ingredients",
+      "Let dough rest for 15 minutes before rolling for easier handling",
+      "Bake at 350°F for 15-20 minutes until golden brown"
+    ],
+    "coachingPrompt": "Why does this recipe brown the sausage before combining? How does it affect the final texture and flavor?"
+  },
+  "timestamp": "2026-02-05T23:55:29.441Z"
+}

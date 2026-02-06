@@ -1,0 +1,58 @@
+{
+  "contentHash": "db08d38c0c085743",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 long strip of lemon zest",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "1 (1.5 fluid ounce) jigger citron vodka",
+        "searchTerm": "citron vodka",
+        "normalizedName": "Citron Vodka"
+      },
+      {
+        "ingredient": "½ ounce lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "1 ounce sweet and sour mix",
+        "searchTerm": "sweet and sour mix",
+        "normalizedName": "Sweet and Sour Mix"
+      },
+      {
+        "ingredient": "1 cup crushed ice",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cocktail shaker",
+        "searchTerm": "cocktail shaker"
+      },
+      {
+        "name": "martini glass",
+        "searchTerm": "martini glass"
+      },
+      {
+        "name": "bar spoon",
+        "searchTerm": "bar spoon"
+      }
+    ],
+    "cookingTips": [
+      "Chill martini glass in freezer before pouring for optimal temperature",
+      "Express lemon zest oils over drink surface for aroma and garnish",
+      "Use fresh citrus juices when possible for superior flavor to mixes"
+    ],
+    "coachingPrompt": "Help the bartender create a balanced cocktail with proper dilution and chill. Discuss citrus forward flavors and presentation."
+  },
+  "timestamp": "2026-02-06T11:11:40.282Z"
+}

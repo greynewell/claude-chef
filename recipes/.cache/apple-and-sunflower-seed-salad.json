@@ -1,0 +1,58 @@
+{
+  "contentHash": "c090fa58ed5ef3bf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 green apples - washed, cored and cubed",
+        "searchTerm": "green apples",
+        "normalizedName": "Green Apple"
+      },
+      {
+        "ingredient": "½ cup sunflower seeds",
+        "searchTerm": "sunflower seeds",
+        "normalizedName": "Sunflower Seed"
+      },
+      {
+        "ingredient": "1 head romaine lettuce - rinsed, dried, and chopped",
+        "searchTerm": "romaine lettuce",
+        "normalizedName": "Romaine Lettuce"
+      },
+      {
+        "ingredient": "2 dill pickles, diced",
+        "searchTerm": "dill pickles",
+        "normalizedName": "Dill Pickle"
+      },
+      {
+        "ingredient": "2 tomatoes, diced",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "½ cup ranch-style salad dressing",
+        "searchTerm": "ranch dressing",
+        "normalizedName": "Ranch Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large salad bowl",
+        "searchTerm": "salad bowl"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "salad spinner",
+        "searchTerm": "salad spinner"
+      }
+    ],
+    "cookingTips": [
+      "Cube apples just before serving to prevent browning",
+      "Toast sunflower seeds lightly for enhanced flavor",
+      "Toss all ingredients together just before serving to prevent sogginess"
+    ],
+    "coachingPrompt": "How can you prevent apples from browning, and when should you dress the salad?"
+  },
+  "timestamp": "2026-02-05T22:08:45.888Z"
+}

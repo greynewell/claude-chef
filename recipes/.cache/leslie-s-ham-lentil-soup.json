@@ -1,0 +1,77 @@
+{
+  "contentHash": "01504bedb7c94216",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 ⅔ tablespoons chicken bouillon granules",
+        "searchTerm": "chicken bouillon",
+        "normalizedName": "Chicken Bouillon Granule"
+      },
+      {
+        "ingredient": "1 ham bone with some meat",
+        "searchTerm": "ham bone",
+        "normalizedName": "Ham Bone"
+      },
+      {
+        "ingredient": "2 cups lentils",
+        "searchTerm": "lentils",
+        "normalizedName": "Lentil"
+      },
+      {
+        "ingredient": "2 stalks celery, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 cup chopped carrots",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 green bell pepper, chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "½ onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 teaspoon dried marjoram",
+        "searchTerm": "dried marjoram",
+        "normalizedName": "Dried Marjoram"
+      },
+      {
+        "ingredient": "¼ teaspoon crushed bay leaf",
+        "searchTerm": "bay leaf",
+        "normalizedName": "Bay Leaf"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Ham bone adds rich flavor—simmer for at least 45 minutes",
+      "Lentils break down slightly during cooking, creating natural creaminess"
+    ],
+    "coachingPrompt": "How will you extract maximum flavor from the ham bone while keeping the broth clear?"
+  },
+  "timestamp": "2026-02-06T11:22:27.683Z"
+}

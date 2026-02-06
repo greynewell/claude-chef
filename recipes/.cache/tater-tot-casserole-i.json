@@ -1,0 +1,57 @@
+{
+  "contentHash": "78b40baaee108946",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground pork breakfast sausage",
+        "searchTerm": "pork sausage",
+        "normalizedName": "Pork Sausage"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 pounds tater tots",
+        "searchTerm": "tater tots",
+        "normalizedName": "Tater Tot"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausage until fully cooked, breaking into small pieces",
+      "Whisk eggs with milk thoroughly before combining with other ingredients",
+      "Bake at 350°F for 50-60 minutes until edges are bubbly and top is golden"
+    ],
+    "coachingPrompt": "Why is whisking eggs with milk important for a creamy casserole?"
+  },
+  "timestamp": "2026-02-06T20:21:31.198Z"
+}

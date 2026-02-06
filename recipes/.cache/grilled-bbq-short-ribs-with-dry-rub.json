@@ -1,0 +1,63 @@
+{
+  "contentHash": "f3af853cea59ec84",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "1 tablespoon chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "4 pounds beef short ribs (bone-in), trimmed of fat",
+        "searchTerm": "beef short ribs",
+        "normalizedName": "Beef Short Rib"
+      },
+      {
+        "ingredient": "½ cup barbecue sauce, plus additional for serving",
+        "searchTerm": "BBQ sauce",
+        "normalizedName": "BBQ Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "aluminum foil",
+        "searchTerm": "aluminum foil"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Apply dry rub generously and let sit for 1-2 hours before grilling",
+      "Use indirect heat (set up two-zone grill with ice cubes on one side) for low and slow cooking",
+      "Grill for 2-3 hours wrapped in foil, basting with BBQ sauce in final 30 minutes"
+    ],
+    "coachingPrompt": "Help the user understand indirect grilling setup and low-temperature techniques for tender ribs."
+  },
+  "timestamp": "2026-02-06T08:10:19.111Z"
+}

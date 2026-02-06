@@ -1,0 +1,73 @@
+{
+  "contentHash": "f5298dd259346a19",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups cauliflower florets",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      },
+      {
+        "ingredient": "⅓ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 teaspoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "2 slices whole-grain bread",
+        "searchTerm": "whole-grain bread",
+        "normalizedName": "Whole Grain Bread"
+      },
+      {
+        "ingredient": "1 tablespoon light mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 avocado, thinly sliced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Steam or roast cauliflower until very tender for smooth mash",
+      "Process cauliflower with oil gradually to achieve desired consistency",
+      "Layer warm mash on toast, then top with cool avocado"
+    ],
+    "coachingPrompt": "How can you create a creamy cauliflower mash texture without dairy besides the cheese?"
+  },
+  "timestamp": "2026-02-05T22:43:14.836Z"
+}

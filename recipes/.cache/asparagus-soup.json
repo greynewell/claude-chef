@@ -1,0 +1,63 @@
+{
+  "contentHash": "f9be0c4bfa401d9f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 pound fresh asparagus, trimmed and coarsely chopped",
+        "searchTerm": "fresh asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "1 cup vegetable broth",
+        "searchTerm": "vegetable broth",
+        "normalizedName": "Vegetable Broth"
+      },
+      {
+        "ingredient": "1 dash garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 dash white pepper",
+        "searchTerm": "white pepper",
+        "normalizedName": "White Pepper"
+      },
+      {
+        "ingredient": "1 cup 1% milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "cooking pot"
+      },
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Chop fresh asparagus into uniform pieces for even cooking",
+      "Sauté onions in butter until translucent before adding other ingredients",
+      "Blend soup in batches to avoid overfilling the blender"
+    ],
+    "coachingPrompt": "Help the user understand the importance of building flavor with sautéed onions first, and guide them on blending technique for smooth consistency."
+  },
+  "timestamp": "2026-02-05T22:32:34.575Z"
+}

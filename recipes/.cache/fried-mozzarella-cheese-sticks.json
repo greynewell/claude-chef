@@ -1,0 +1,68 @@
+{
+  "contentHash": "beb5b930c861969c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 ½ cups Italian seasoned bread crumbs",
+        "searchTerm": "italian bread crumbs",
+        "normalizedName": "Italian Seasoned Bread Crumb"
+      },
+      {
+        "ingredient": "½ teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "⅔ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "⅓ cup cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "1 quart oil for deep frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 (16 ounce) package mozzarella cheese sticks",
+        "searchTerm": "mozzarella cheese sticks",
+        "normalizedName": "Mozzarella Cheese Stick"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep Fryer or Large Pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Shallow Bowls",
+        "searchTerm": "shallow bowls"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Freeze cheese sticks for at least 4 hours or overnight before breading for best results",
+      "Double-coat cheese sticks: dip in egg mixture, then flour, then egg again, then bread crumbs for extra crust",
+      "Fry at 350°F for only 30-45 seconds per batch to keep cheese from leaking out"
+    ],
+    "coachingPrompt": "My mozzarella cheese sticks are leaking cheese while frying. How can I prevent this and keep the cheese inside until serving?"
+  },
+  "timestamp": "2026-02-06T07:05:48.772Z"
+}

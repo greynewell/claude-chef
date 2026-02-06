@@ -1,0 +1,73 @@
+{
+  "contentHash": "78772f44f2d78576",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 pounds round steak",
+        "searchTerm": "round steak",
+        "normalizedName": "Round Steak"
+      },
+      {
+        "ingredient": "4 tablespoons onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      },
+      {
+        "ingredient": "1 ⅓ teaspoons black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 ⅓ teaspoons garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "2 pinches salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon dry Italian-style salad dressing mix",
+        "searchTerm": "Italian seasoning",
+        "normalizedName": "Italian Seasoning Mix"
+      },
+      {
+        "ingredient": "1 cup Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "1 cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon hot pepper sauce",
+        "searchTerm": "hot sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food dehydrator or oven",
+        "searchTerm": "dehydrator"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "sharp knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Slice meat against the grain for more tender jerky",
+      "Marinate for at least 6 hours or overnight for maximum flavor absorption",
+      "Dehydrate at 160°F for 4-6 hours until completely dry but still slightly flexible"
+    ],
+    "coachingPrompt": "Do you have access to a food dehydrator, or will you be using your oven?"
+  },
+  "timestamp": "2026-02-06T20:12:30.868Z"
+}

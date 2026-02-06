@@ -1,0 +1,57 @@
+{
+  "contentHash": "1bc0fc21a9020a69",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Chocolate Chip"
+      },
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 ½ cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cupcake pan",
+        "searchTerm": "cupcake pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Use cupcake liners to prevent sticking and for easy removal",
+      "Fill cupcake cups only two-thirds full to allow for rising"
+    ],
+    "coachingPrompt": "Advise checking for doneness with a toothpick - slightly gooey centers indicate fudgy brownies"
+  },
+  "timestamp": "2026-02-06T00:50:44.592Z"
+}

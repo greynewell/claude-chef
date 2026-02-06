@@ -1,0 +1,58 @@
+{
+  "contentHash": "0c1fab3afa8b56db",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "corn",
+        "searchTerm": "fresh corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "unsalted butter",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      },
+      {
+        "ingredient": "crumbled Cotija cheese",
+        "searchTerm": "Cotija cheese",
+        "normalizedName": "Cotija Cheese"
+      },
+      {
+        "ingredient": "fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "limes",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Grill tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "Basting brush",
+        "searchTerm": "basting brush"
+      }
+    ],
+    "cookingTips": [
+      "Soak corn in husks for 30 minutes before grilling to prevent charring",
+      "Turn corn frequently for even cooking and charring",
+      "Apply butter and seasonings while corn is still hot for better adhesion"
+    ],
+    "coachingPrompt": "Elote is a street food classic requiring proper grilling technique and flavorful toppings. How will you grill corn to achieve light charring while keeping it tender?"
+  },
+  "timestamp": "2026-02-06T12:23:03.140Z"
+}

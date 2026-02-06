@@ -1,0 +1,63 @@
+{
+  "contentHash": "d424bd3e75978bbf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (3 ounce) package ramen noodles",
+        "searchTerm": "ramen noodles",
+        "normalizedName": "Ramen Noodle"
+      },
+      {
+        "ingredient": "½ cup peanut oil",
+        "searchTerm": "peanut oil",
+        "normalizedName": "Peanut Oil"
+      },
+      {
+        "ingredient": "3 tablespoons rice vinegar",
+        "searchTerm": "rice vinegar",
+        "normalizedName": "Rice Vinegar"
+      },
+      {
+        "ingredient": "2 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 ½ tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup diced cooked chicken breast meat",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "3 green onions, minced",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      }
+    ],
+    "cookingTips": [
+      "Cook noodles until tender, drain, and chill before mixing",
+      "Make vinaigrette separately to emulsify properly",
+      "Combine ingredients gently to avoid breaking noodles"
+    ],
+    "coachingPrompt": "Guide the user on creating an Asian-inspired dressing and assembling this light, refreshing salad."
+  },
+  "timestamp": "2026-02-06T15:53:47.041Z"
+}

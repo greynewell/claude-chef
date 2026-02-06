@@ -1,0 +1,64 @@
+{
+  "contentHash": "28ada45514f52256",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "¼ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 teaspoon Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 (15.5 ounce) can white beans",
+        "searchTerm": "white beans",
+        "normalizedName": "White Bean"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan"
+      },
+      {
+        "name": "whisk"
+      },
+      {
+        "name": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Make a roux by cooking butter and flour together before adding milk to prevent lumps",
+      "Stir constantly while adding cheese to ensure smooth melting"
+    ],
+    "coachingPrompt": "How do you prevent a cheese sauce from becoming grainy or broken?"
+  },
+  "timestamp": "2026-02-05T23:39:16.894Z"
+}

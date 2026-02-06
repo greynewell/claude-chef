@@ -1,0 +1,52 @@
+{
+  "contentHash": "7fd37cc6043d0d58",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices white bread, crusts removed",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons cinnamon sugar",
+        "searchTerm": "cinnamon sugar",
+        "normalizedName": "Cinnamon Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "⅛ teaspoon water, or as needed",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "rolling pin",
+        "searchTerm": "rolling pin"
+      }
+    ],
+    "cookingTips": [
+      "Flatten bread slices with a rolling pin to make them more pliable for rolling",
+      "Mix powdered sugar with water to create a light glaze for drizzling"
+    ],
+    "coachingPrompt": "What's the best way to flatten and roll the bread without tearing it?"
+  },
+  "timestamp": "2026-02-06T22:20:13.232Z"
+}

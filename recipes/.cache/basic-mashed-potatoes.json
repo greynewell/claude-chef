@@ -1,0 +1,53 @@
+{
+  "contentHash": "cd4287de3c67c310",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds baking potatoes, peeled and quartered",
+        "searchTerm": "baking potatoes",
+        "normalizedName": "Baking Potato"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "potato masher",
+        "searchTerm": "potato masher"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes into equal sizes for even cooking",
+      "Heat milk before adding to prevent lumps",
+      "Do not overmix or potatoes will become gluey"
+    ],
+    "coachingPrompt": "How do I achieve creamy mashed potatoes without them becoming dense and gluey?"
+  },
+  "timestamp": "2026-02-05T23:33:33.023Z"
+}

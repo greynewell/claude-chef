@@ -1,0 +1,53 @@
+{
+  "contentHash": "d1e7c5be70c9a63d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 rib roast",
+        "searchTerm": "rib roast",
+        "normalizedName": "Rib Roast"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ cup sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 tablespoons freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "carving knife"
+      }
+    ],
+    "cookingTips": [
+      "Let roast sit at room temperature for 30 minutes before cooking",
+      "Sear on stovetop first to develop crust, then finish in oven",
+      "Use meat thermometer: 125°F for rare, 135°F for medium-rare"
+    ],
+    "coachingPrompt": "What's the best technique for cooking a standing rib roast so it has a flavorful crust and perfect doneness throughout?"
+  },
+  "timestamp": "2026-02-06T06:02:24.541Z"
+}

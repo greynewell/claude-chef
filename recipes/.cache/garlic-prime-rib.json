@@ -1,0 +1,58 @@
+{
+  "contentHash": "53e792ada8d52ee7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10 pound) prime rib roast",
+        "searchTerm": "prime rib roast",
+        "normalizedName": "Prime Rib Roast"
+      },
+      {
+        "ingredient": "10 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 teaspoons ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 teaspoons dried thyme",
+        "searchTerm": "dried thyme",
+        "normalizedName": "Dried Thyme"
+      }
+    ],
+    "gear": [
+      {
+        "name": "roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Allow the prime rib to come to room temperature 1-2 hours before roasting for even cooking",
+      "Use a meat thermometer to reach desired doneness: 135°F for medium-rare, 145°F for medium",
+      "Let the roast rest 15-20 minutes after cooking before carving to retain juices"
+    ],
+    "coachingPrompt": "How would you adjust cooking time if your prime rib is smaller or larger than 10 pounds?"
+  },
+  "timestamp": "2026-02-06T07:20:51.746Z"
+}

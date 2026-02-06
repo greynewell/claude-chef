@@ -1,0 +1,67 @@
+{
+  "contentHash": "f38e0290e0bb8c37",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup orzo pasta",
+        "searchTerm": "orzo",
+        "normalizedName": "Orzo"
+      },
+      {
+        "ingredient": "½ cup diced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ cup white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "2 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 cup chopped spinach",
+        "searchTerm": "spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "½ cup chopped Bulgarian feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan with lid",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Measuring cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Toast orzo in butter before adding liquid to develop nutty flavor",
+      "Stir spinach in gently at the end and fold in feta just before serving to prevent breaking up the cheese"
+    ],
+    "coachingPrompt": "Guide the user through building a fragrant rice pilaf with toasted orzo and properly incorporating delicate spinach and feta."
+  },
+  "timestamp": "2026-02-06T16:55:39.151Z"
+}

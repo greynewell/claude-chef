@@ -1,0 +1,78 @@
+{
+  "contentHash": "d000771122aa902e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "30 slices white bread, lightly toasted",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 large onion, finely chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 stalks celery, finely chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "2 eggs, lightly beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "2 teaspoons rubbed sage",
+        "searchTerm": "dried sage",
+        "normalizedName": "Dried Sage"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread lightly before cubing to reduce moisture and prevent mushy stuffing",
+      "Sauté onions and celery until softened to build flavor base",
+      "Add broth gradually and check moisture level; stuffing should be moist but not soggy"
+    ],
+    "coachingPrompt": "Teach the user proper bread preparation and how to judge the right moisture level so stuffing is tender and flavorful without being waterlogged."
+  },
+  "timestamp": "2026-02-06T13:33:59.135Z"
+}

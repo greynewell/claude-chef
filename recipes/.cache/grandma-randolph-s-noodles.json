@@ -1,0 +1,53 @@
+{
+  "contentHash": "b14fa0b2cc5d2722",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "4 cups beef broth",
+        "searchTerm": "beef broth",
+        "normalizedName": "Beef Broth"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Pasta Machine or Cutting Board",
+        "searchTerm": "pasta machine"
+      },
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      }
+    ],
+    "cookingTips": [
+      "Knead dough until smooth and elastic before rolling",
+      "Let dough rest for 15-20 minutes before rolling and cutting",
+      "Fresh egg noodles cook quickly in boiling broth, about 5-7 minutes"
+    ],
+    "coachingPrompt": "Help the user make tender homemade egg noodles from scratch and cook them perfectly in beef broth for a comforting, authentic dish."
+  },
+  "timestamp": "2026-02-06T07:48:38.805Z"
+}

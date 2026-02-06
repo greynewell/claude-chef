@@ -1,0 +1,52 @@
+{
+  "contentHash": "206408abbb1f698a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (2 pound) loaf processed cheese food, cubed",
+        "searchTerm": "processed cheese food",
+        "normalizedName": "Processed Cheese Food"
+      },
+      {
+        "ingredient": "1 pound spicy pork sausage",
+        "searchTerm": "spicy pork sausage",
+        "normalizedName": "Pork Sausage"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed nacho cheese soup",
+        "searchTerm": "nacho cheese soup",
+        "normalizedName": "Nacho Cheese Soup"
+      },
+      {
+        "ingredient": "1 (4 ounce) can diced green chile peppers",
+        "searchTerm": "green chile pepper",
+        "normalizedName": "Green Chile Pepper"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) package corn tortilla chips",
+        "searchTerm": "tortilla chip",
+        "normalizedName": "Tortilla Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "serving spoon",
+        "searchTerm": "serving spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausage completely before adding to prevent greasiness",
+      "Keep dip warm in slow cooker on low for parties"
+    ],
+    "coachingPrompt": "Guide the user through creating a quick, hearty cheese dip by browning sausage and combining with processed cheese and soup for a crowd-pleasing appetizer."
+  },
+  "timestamp": "2026-02-06T06:32:15.782Z"
+}

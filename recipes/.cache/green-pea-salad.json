@@ -1,0 +1,63 @@
+{
+  "contentHash": "c8a0f3c1b15ec063",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package frozen green peas",
+        "searchTerm": "frozen green peas",
+        "normalizedName": "Pea"
+      },
+      {
+        "ingredient": "1 (8 ounce) can sliced water chestnuts, drained and cut into strip",
+        "searchTerm": "water chestnuts",
+        "normalizedName": "Water Chestnut"
+      },
+      {
+        "ingredient": "6 roma (plum) tomatoes, chopped",
+        "searchTerm": "Roma tomatoes",
+        "normalizedName": "Roma Tomato"
+      },
+      {
+        "ingredient": "½ onion, minced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 medium sweet pickles, finely chopped",
+        "searchTerm": "sweet pickles",
+        "normalizedName": "Sweet Pickle"
+      },
+      {
+        "ingredient": "¾ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "⅛ cup lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Thaw peas and drain well to keep the salad from becoming soggy",
+      "Chop water chestnuts into smaller pieces for better texture distribution",
+      "Combine mayonnaise with lemon juice first to create a smoother dressing base"
+    ],
+    "coachingPrompt": "Remind the user that this salad improves with time as flavors meld; prepare 2-4 hours ahead if possible."
+  },
+  "timestamp": "2026-02-06T08:08:33.008Z"
+}

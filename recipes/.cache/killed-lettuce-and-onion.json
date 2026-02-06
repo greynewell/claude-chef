@@ -1,0 +1,38 @@
+{
+  "contentHash": "e6e4752c1ccea18a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "4 green onions, chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 head leaf lettuce - rinsed, dried and torn into bite-size pieces",
+        "searchTerm": "leaf lettuce",
+        "normalizedName": "Leaf Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Salad Bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then crumble while still warm for best texture",
+      "Use the warm bacon fat to lightly dress the lettuce for authentic flavor"
+    ],
+    "coachingPrompt": "This is a traditional hot salad. Are you comfortable with the technique of wilting greens with warm bacon fat, or would you prefer the salad served cold?"
+  },
+  "timestamp": "2026-02-06T10:49:37.064Z"
+}

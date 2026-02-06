@@ -1,0 +1,53 @@
+{
+  "contentHash": "4d18680213f23998",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 prepared pound cake",
+        "searchTerm": "pound cake",
+        "normalizedName": "Pound Cake"
+      },
+      {
+        "ingredient": "2 cups sliced fresh strawberries, divided",
+        "searchTerm": "strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "1 tablespoon sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 pint strawberry ice cream",
+        "searchTerm": "strawberry ice cream",
+        "normalizedName": "Strawberry Ice Cream"
+      },
+      {
+        "ingredient": "1 (13 ounce) can whipped cream",
+        "searchTerm": "whipped cream",
+        "normalizedName": "Whipped Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Serrated knife",
+        "searchTerm": "serrated knife"
+      },
+      {
+        "name": "Cake plate",
+        "searchTerm": "cake plate"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Slice pound cake horizontally for even layers with ice cream",
+      "Soften ice cream slightly before spreading for easier application",
+      "Keep assembled cake in freezer until serving to prevent melting"
+    ],
+    "coachingPrompt": "How can you balance flavors when combining store-bought components like pound cake and ice cream?"
+  },
+  "timestamp": "2026-02-06T19:36:23.950Z"
+}

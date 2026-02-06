@@ -1,0 +1,73 @@
+{
+  "contentHash": "b41eff7966960bab",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 large potato, peeled and cubed",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 bay leaf",
+        "searchTerm": "bay leaf",
+        "normalizedName": "Bay Leaf"
+      },
+      {
+        "ingredient": "1 pound Brussels sprouts, trimmed and halved lengthwise",
+        "searchTerm": "brussels sprout",
+        "normalizedName": "Brussels Sprout"
+      },
+      {
+        "ingredient": "1 red pepper, seeded and cut into 1/2-inch cubes",
+        "searchTerm": "red pepper",
+        "normalizedName": "Red Pepper"
+      },
+      {
+        "ingredient": "¼ cup chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "ground black pepper, to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons chopped green onions",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "wok or large skillet",
+        "searchTerm": "wok"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Cube potatoes small so they cook through during the stir-fry",
+      "Have all ingredients prepped before you start cooking for smooth execution",
+      "Cook Brussels sprouts cut-side down initially for caramelization"
+    ],
+    "coachingPrompt": "This stir-fry includes potato and Brussels sprouts. Will you parboil the potato first to ensure even cooking?"
+  },
+  "timestamp": "2026-02-06T00:51:42.395Z"
+}

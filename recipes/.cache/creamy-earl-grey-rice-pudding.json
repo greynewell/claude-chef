@@ -1,0 +1,82 @@
+{
+  "contentHash": "784d65da280d7ca9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 Earl Grey tea bag",
+        "searchTerm": "earl grey tea",
+        "normalizedName": "Earl Grey Tea"
+      },
+      {
+        "ingredient": "¾ cup basmati rice",
+        "searchTerm": "basmati rice",
+        "normalizedName": "Basmati Rice"
+      },
+      {
+        "ingredient": "1 cup skim milk",
+        "searchTerm": "skim milk",
+        "normalizedName": "Skim Milk"
+      },
+      {
+        "ingredient": "¼ cup blue agave syrup",
+        "searchTerm": "agave syrup",
+        "normalizedName": "Agave Syrup"
+      },
+      {
+        "ingredient": "¼ teaspoon kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "½ cup skim milk",
+        "searchTerm": "skim milk",
+        "normalizedName": "Skim Milk"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅔ cup golden raisins",
+        "searchTerm": "golden raisins",
+        "normalizedName": "Golden Raisin"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Steep tea bag in hot water for 3-5 minutes then remove before cooking rice",
+      "Temper the beaten egg by slowly whisking in hot rice mixture before adding back to prevent scrambling"
+    ],
+    "coachingPrompt": "Guide the user through the egg tempering process carefully to create a silky, custard-like pudding without scrambled bits."
+  },
+  "timestamp": "2026-02-06T04:26:12.762Z"
+}

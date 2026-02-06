@@ -1,0 +1,53 @@
+{
+  "contentHash": "6e60ee4fd9ab466f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 matzo cracker",
+        "searchTerm": "matzo crackers",
+        "normalizedName": "Matzo Cracker"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Soak matzo briefly in water to soften without becoming mushy",
+      "Cook over medium heat to avoid browning too quickly",
+      "Serve immediately while still warm and crispy-edged"
+    ],
+    "coachingPrompt": "Help me achieve the perfect texture for matzo brei—crispy outside, tender inside."
+  },
+  "timestamp": "2026-02-06T12:05:59.986Z"
+}

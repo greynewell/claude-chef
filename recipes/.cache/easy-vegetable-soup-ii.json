@@ -1,0 +1,88 @@
+{
+  "contentHash": "1d6a3f2001f6ed22",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds cubed stew meat",
+        "searchTerm": "stew meat",
+        "normalizedName": "Stew Meat"
+      },
+      {
+        "ingredient": "5 potatoes, cubed",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "5 carrots, chopped",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "½ onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (15.25 ounce) can whole kernel corn, with liquid",
+        "searchTerm": "canned corn",
+        "normalizedName": "Whole Kernel Corn"
+      },
+      {
+        "ingredient": "1 (15 ounce) can peas",
+        "searchTerm": "canned peas",
+        "normalizedName": "Pea"
+      },
+      {
+        "ingredient": "1 (15 ounce) can green beans",
+        "searchTerm": "canned green beans",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "1 (15 ounce) can lima beans",
+        "searchTerm": "canned lima beans",
+        "normalizedName": "Lima Bean"
+      },
+      {
+        "ingredient": "1 (15 ounce) can butter beans",
+        "searchTerm": "canned butter beans",
+        "normalizedName": "Butter Bean"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can peeled and diced tomatoes with juice",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Can Opener",
+        "searchTerm": "can opener"
+      }
+    ],
+    "cookingTips": [
+      "Brown stew meat first in a hot pot before adding liquid for better flavor",
+      "Add potatoes and carrots early so they have time to soften",
+      "Add canned beans near the end to prevent them from breaking down too much"
+    ],
+    "coachingPrompt": "This vegetable-heavy stew uses multiple canned beans. How would you layer ingredients for optimal cooking times?"
+  },
+  "timestamp": "2026-02-06T06:06:22.570Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "30d6a5ac61776ae0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (14 ounce) package breaded frozen fish sticks",
+        "searchTerm": "frozen fish sticks",
+        "normalizedName": "Frozen Fish Stick"
+      },
+      {
+        "ingredient": "1 (16 ounce) package frozen French fries",
+        "searchTerm": "frozen French fries",
+        "normalizedName": "Frozen French Fry"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can  condensed cream of celery soup",
+        "searchTerm": "cream of celery soup",
+        "normalizedName": "Cream of Celery Soup"
+      },
+      {
+        "ingredient": "¾ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "⅓ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon curry powder",
+        "searchTerm": "curry powder",
+        "normalizedName": "Curry Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Mix sauce ingredients together before assembling the casserole for even distribution",
+      "Bake fish and fries together at the same temperature so components finish simultaneously"
+    ],
+    "coachingPrompt": "This comfort casserole combines frozen components into one baked dish. How will you achieve proper cooking of both fries and fish?"
+  },
+  "timestamp": "2026-02-06T06:42:38.782Z"
+}

@@ -1,0 +1,73 @@
+{
+  "contentHash": "76a83ac52790faa0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (6 ounce) tub sun-dried tomato pesto",
+        "searchTerm": "sun-dried tomato pesto",
+        "normalizedName": "Sun-Dried Tomato Pesto"
+      },
+      {
+        "ingredient": "6 (6 inch) whole wheat pita breads",
+        "searchTerm": "pita bread",
+        "normalizedName": "Pita Bread"
+      },
+      {
+        "ingredient": "2 roma (plum) tomatoes, chopped",
+        "searchTerm": "plum tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 bunch spinach, rinsed and chopped",
+        "searchTerm": "fresh spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "4 fresh mushrooms, sliced",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "½ cup crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "3 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Spread pesto thinly on pita to prevent sogginess",
+      "Pat dry vegetables before assembly to reduce moisture",
+      "Bake at 400°F for 8-10 minutes until cheese melts and edges crisp"
+    ],
+    "coachingPrompt": "Help the user layer flavors on pita while managing moisture to achieve crispy, well-loaded breads."
+  },
+  "timestamp": "2026-02-06T19:12:56.261Z"
+}

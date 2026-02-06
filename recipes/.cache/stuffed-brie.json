@@ -1,0 +1,44 @@
+{
+  "contentHash": "0b770fce2776636f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cups fresh sliced mushrooms",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "½ cup dates",
+        "searchTerm": "dates",
+        "normalizedName": "Date"
+      },
+      {
+        "ingredient": "1 (8 ounce) wheel Brie cheese",
+        "searchTerm": "brie cheese",
+        "normalizedName": "Brie Cheese"
+      }
+    ],
+    "gear": [
+      "skillet",
+      "spoon",
+      "knife",
+      "baking sheet"
+    ],
+    "cookingTips": [
+      "Caramelize the onions slowly over medium-low heat to develop sweetness that complements the Brie",
+      "Use a serrated knife to slice dates cleanly without sticking"
+    ],
+    "coachingPrompt": "What temperature and time work best to warm the Brie through while keeping it from melting completely?"
+  },
+  "timestamp": "2026-02-06T19:38:27.998Z"
+}

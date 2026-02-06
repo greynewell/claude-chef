@@ -1,0 +1,47 @@
+{
+  "contentHash": "aaa2717e1785aef0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 cups warm water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 package active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Jar",
+        "searchTerm": "glass jar"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Cloth Cover",
+        "searchTerm": "cloth or cheesecloth"
+      }
+    ],
+    "cookingTips": [
+      "Use commercial yeast to jumpstart fermentation and stabilize the culture",
+      "Stir daily and feed with equal parts flour and water until active",
+      "Transition to natural fermentation by reducing feeding frequency over time"
+    ],
+    "coachingPrompt": "What is the advantage of using commercial yeast in this starter method versus pure wild fermentation?"
+  },
+  "timestamp": "2026-02-06T18:37:33.172Z"
+}

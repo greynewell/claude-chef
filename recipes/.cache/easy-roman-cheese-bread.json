@@ -1,0 +1,58 @@
+{
+  "contentHash": "8b82c5b8f2b8f124",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup lukewarm milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 (.25 ounce) packages active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "2 ½ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "6  eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 ½ cups grated Romano cheese",
+        "searchTerm": "Romano cheese",
+        "normalizedName": "Romano Cheese"
+      },
+      {
+        "ingredient": "¼ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "loaf pan",
+        "searchTerm": "loaf pan"
+      }
+    ],
+    "cookingTips": [
+      "Milk should be warm but not hot to activate yeast properly",
+      "Mix cheese into dough after first rise for better distribution",
+      "Allow dough to rise until doubled in size before baking"
+    ],
+    "coachingPrompt": "What signs indicate yeast is properly activated?"
+  },
+  "timestamp": "2026-02-06T05:57:41.952Z"
+}

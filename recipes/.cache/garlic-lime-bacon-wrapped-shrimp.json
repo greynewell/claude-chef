@@ -1,0 +1,77 @@
+{
+  "contentHash": "ace76bb74195ea2d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "¼ tablespoon lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "10 cooked medium shrimp, shelled and deveined",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "5 slices peppered bacon, cut in half",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 (4 ounce) can whole green chili peppers, drained, and sliced lengthwise",
+        "searchTerm": "green chili pepper",
+        "normalizedName": "Green Chili Pepper"
+      },
+      {
+        "ingredient": "1 avocado - peeled, pitted and diced (Optional)",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 lime, cut into wedges (Optional)",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "toothpicks",
+        "searchTerm": "toothpicks"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Use pre-cooked shrimp to ensure proper doneness since bacon takes longer to crisp",
+      "Soak toothpicks in water before using to prevent burning"
+    ],
+    "coachingPrompt": "How will you ensure the bacon crisps while keeping the shrimp tender?"
+  },
+  "timestamp": "2026-02-06T07:19:14.392Z"
+}

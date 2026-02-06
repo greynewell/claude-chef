@@ -1,0 +1,53 @@
+{
+  "contentHash": "114f3e04f68c9fed",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds pork tenderloin",
+        "searchTerm": "pork tenderloin",
+        "normalizedName": "Pork Tenderloin"
+      },
+      {
+        "ingredient": "⅔ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "½ cup Dijon mustard",
+        "searchTerm": "dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "¼ teaspoon chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Small Saucepan",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Let pork tenderloin come to room temperature before grilling for even cooking",
+      "Use a meat thermometer to ensure pork reaches 145°F internal temperature",
+      "Apply glaze in the last few minutes of cooking to prevent burning while allowing caramelization"
+    ],
+    "coachingPrompt": "Help the cook achieve a perfectly glazed, juicy pork tenderloin by managing grill temperature and timing the glaze application correctly."
+  },
+  "timestamp": "2026-02-06T20:17:18.366Z"
+}

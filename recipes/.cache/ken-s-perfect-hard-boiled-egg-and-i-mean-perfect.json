@@ -1,0 +1,48 @@
+{
+  "contentHash": "ecc3e248636e7045",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "distilled white vinegar",
+        "searchTerm": "white vinegar",
+        "normalizedName": "White Vinegar"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Ice Bath Bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Add salt and vinegar to water to prevent cracking and aid peeling",
+      "Place eggs in ice bath immediately after boiling to stop cooking process",
+      "Let cool for 10 minutes in ice bath for easiest peeling"
+    ],
+    "coachingPrompt": "Explain the science behind why salt and vinegar help and how ice bath temperature stops the cooking process. Offer tips for common peeling problems."
+  },
+  "timestamp": "2026-02-06T10:39:09.366Z"
+}

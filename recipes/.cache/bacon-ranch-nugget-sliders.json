@@ -1,0 +1,48 @@
+{
+  "contentHash": "9388acd453c04d05",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "24 frozen chicken nuggets",
+        "searchTerm": "chicken nuggets",
+        "normalizedName": "Chicken Nugget"
+      },
+      {
+        "ingredient": "12 slider-size burger buns",
+        "searchTerm": "slider buns",
+        "normalizedName": "Slider Bun"
+      },
+      {
+        "ingredient": "1 (8 ounce) bottle ranch dressing",
+        "searchTerm": "ranch dressing",
+        "normalizedName": "Ranch Dressing"
+      },
+      {
+        "ingredient": "1 (4.3 ounce) package real crumbled bacon bits",
+        "searchTerm": "bacon bits",
+        "normalizedName": "Bacon Bit"
+      },
+      {
+        "ingredient": "½ head lettuce, leaves separated",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "1 large tomato, sliced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      "baking sheet",
+      "oven",
+      "cutting board"
+    ],
+    "cookingTips": [
+      "Cook nuggets according to package directions while assembling bun components",
+      "Toast buns lightly before assembly for structural integrity"
+    ],
+    "coachingPrompt": "Would you like assembly sequence guidance for efficient slider preparation?"
+  },
+  "timestamp": "2026-02-05T22:51:53.689Z"
+}

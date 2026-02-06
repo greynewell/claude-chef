@@ -1,0 +1,57 @@
+{
+  "contentHash": "ff3bd035285f779b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 (16 ounce) package mostaccioli pasta",
+        "searchTerm": "mostaccioli pasta",
+        "normalizedName": "Mostaccioli"
+      },
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 ½ (26 ounce) jars spaghetti sauce",
+        "searchTerm": "spaghetti sauce",
+        "normalizedName": "Spaghetti Sauce"
+      },
+      {
+        "ingredient": "2 cups shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "⅓ cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly before combining with sauce for better flavor",
+      "Don't overcook pasta initially; it will continue cooking in oven"
+    ],
+    "coachingPrompt": "Help the user understand proper layering and cheese distribution for even, creamy baking results."
+  },
+  "timestamp": "2026-02-06T05:32:24.148Z"
+}

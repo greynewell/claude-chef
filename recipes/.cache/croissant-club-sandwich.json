@@ -1,0 +1,79 @@
+{
+  "contentHash": "7fcae21f502b48a5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 avocados, peeled and pitted",
+        "searchTerm": "avocados",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "½ teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "½ teaspoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "¼ teaspoon dried oregano",
+        "searchTerm": "oregano",
+        "normalizedName": "Oregano"
+      },
+      {
+        "ingredient": "4 croissants, split",
+        "searchTerm": "croissants",
+        "normalizedName": "Croissant"
+      },
+      {
+        "ingredient": "8 slices smoked deli turkey breast",
+        "searchTerm": "turkey breast",
+        "normalizedName": "Turkey Breast"
+      },
+      {
+        "ingredient": "4 slices Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "8 slices cooked bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "8 slices tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "4 lettuce leaves",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "4 teaspoons spicy brown mustard",
+        "searchTerm": "brown mustard",
+        "normalizedName": "Brown Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "serrated knife",
+        "searchTerm": "serrated knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Mash avocado with garlic salt and lemon juice just before assembly to prevent browning",
+      "Toast croissants lightly to maintain structure when stacking multiple layers",
+      "Assemble sandwiches in order: spread, turkey, cheese, bacon, tomato, lettuce for best flavor distribution"
+    ],
+    "coachingPrompt": "Help the cook layer ingredients strategically and prepare components in the right order to prevent the croissant from becoming soggy."
+  },
+  "timestamp": "2026-02-06T04:42:46.852Z"
+}

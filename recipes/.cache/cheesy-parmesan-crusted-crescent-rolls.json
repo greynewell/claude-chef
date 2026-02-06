@@ -1,0 +1,57 @@
+{
+  "contentHash": "9f00b3ac23f785d1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package refrigerated butter-flavored crescent rolls",
+        "searchTerm": "crescent rolls",
+        "normalizedName": "Crescent Roll"
+      },
+      {
+        "ingredient": "¾ cup shredded Stella® mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "⅛ teaspoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "⅛ teaspoon dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      },
+      {
+        "ingredient": "Stella® Parmesan cheese, for topping",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Brush with melted butter before adding cheese for golden, crispy rolls",
+      "Add Parmesan after mozzarella for maximum flavor and browning"
+    ],
+    "coachingPrompt": "When should you add the Parmesan to ensure it doesn't burn?"
+  },
+  "timestamp": "2026-02-06T01:53:00.001Z"
+}

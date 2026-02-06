@@ -1,0 +1,57 @@
+{
+  "contentHash": "0baef2bb332a5037",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 (6 ounce) can tuna, drained",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Tuna"
+      },
+      {
+        "ingredient": "2 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 egg white",
+        "searchTerm": "egg white",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "⅛ teaspoon shredded mild Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "4 peeled, cooked shrimp",
+        "searchTerm": "cooked shrimp",
+        "normalizedName": "Shrimp"
+      }
+    ],
+    "gear": [
+      {
+        "name": "ramekin or small baking dish",
+        "searchTerm": "ramekin"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Keep cheese and other toppings minimal as cats have sensitive digestive systems",
+      "Bake at 350°F for about 12-15 minutes until set"
+    ],
+    "coachingPrompt": "This is a cat treat recipe. Verify all ingredients are safe for feline consumption and appropriate portion sizes."
+  },
+  "timestamp": "2026-02-06T00:09:43.510Z"
+}

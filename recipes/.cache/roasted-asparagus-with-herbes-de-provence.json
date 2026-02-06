@@ -1,0 +1,53 @@
+{
+  "contentHash": "759c63efa72aab74",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 bunch fresh asparagus spears, trimmed",
+        "searchTerm": "fresh asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon dried Herbes de Provence",
+        "searchTerm": "herbes de provence",
+        "normalizedName": "Herbes de Provence"
+      },
+      {
+        "ingredient": "sea salt and pepper to taste",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "sea salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "sheet pan",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Trim woody ends of asparagus by bending until they snap naturally",
+      "Toss asparagus thoroughly with oil and seasonings for even coating",
+      "Roast at 400°F for 12-15 minutes until tender and lightly browned"
+    ],
+    "coachingPrompt": "How would you ensure the asparagus roasts evenly without burning the tips?"
+  },
+  "timestamp": "2026-02-06T16:20:12.482Z"
+}

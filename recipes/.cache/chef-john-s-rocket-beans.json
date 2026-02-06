@@ -1,0 +1,67 @@
+{
+  "contentHash": "daf9c55b8f52a4d8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 (15 ounce) jar butter beans",
+        "searchTerm": "butter beans",
+        "normalizedName": "Butter Bean"
+      },
+      {
+        "ingredient": "1 pinch salt and freshly ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch salt and freshly ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "3 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic Clove"
+      },
+      {
+        "ingredient": "2 cups arugula",
+        "searchTerm": "arugula",
+        "normalizedName": "Arugula"
+      },
+      {
+        "ingredient": "½ lemon",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Render bacon completely until crispy before removing",
+      "Wilt arugula at the end of cooking for a peppery freshness"
+    ],
+    "coachingPrompt": "Guide the user through a quick, elegant preparation that balances creamy beans with crispy bacon and peppery greens."
+  },
+  "timestamp": "2026-02-06T02:09:06.503Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "33a02666b52dd574",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (1.12 ounce) package McCormick Cheesy Mix",
+        "searchTerm": "cheesy mix",
+        "normalizedName": "Cheesy Mix"
+      },
+      {
+        "ingredient": "¾ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (16 ounce) can refried beans",
+        "searchTerm": "refried beans",
+        "normalizedName": "Refried Bean"
+      },
+      {
+        "ingredient": "1 (4.5 ounce) can chopped green chilies",
+        "searchTerm": "green chilies",
+        "normalizedName": "Green Chile"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Brown the ground beef and drain well to avoid a greasy dip",
+      "Soften cream cheese before mixing to ensure smooth integration",
+      "Transfer to a baking dish and bake until heated through and cheese is melted"
+    ],
+    "coachingPrompt": "Help the user layer flavors by building the dip in stages, starting with the ground beef for a solid foundation."
+  },
+  "timestamp": "2026-02-06T13:12:22.956Z"
+}

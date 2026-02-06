@@ -1,0 +1,52 @@
+{
+  "contentHash": "3954d43a1ae00943",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons coconut oil",
+        "searchTerm": "coconut oil",
+        "normalizedName": "Coconut Oil"
+      },
+      {
+        "ingredient": "1 (16 ounce) package skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 (14 ounce) can cream of coconut",
+        "searchTerm": "cream of coconut",
+        "normalizedName": "Cream of Coconut"
+      },
+      {
+        "ingredient": "1 (11 ounce) bottle red Thai curry sauce",
+        "searchTerm": "red Thai curry sauce",
+        "normalizedName": "Red Thai Curry Sauce"
+      },
+      {
+        "ingredient": "½ (16 ounce) package dried rice stick vermicelli noodles",
+        "searchTerm": "rice stick noodles",
+        "normalizedName": "Rice Stick Noodle"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cut chicken into uniform pieces for even cooking",
+      "Cook noodles according to package directions while preparing curry"
+    ],
+    "coachingPrompt": "How does the cream of coconut balance the heat and spices in the curry sauce?"
+  },
+  "timestamp": "2026-02-06T06:44:59.890Z"
+}

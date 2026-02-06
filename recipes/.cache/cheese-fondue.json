@@ -1,0 +1,63 @@
+{
+  "contentHash": "5ef2088e610f36cd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup dry white wine",
+        "searchTerm": "dry white wine",
+        "normalizedName": "Dry White Wine"
+      },
+      {
+        "ingredient": "½ pound shredded Swiss cheese",
+        "searchTerm": "swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "½ pound shredded Gruyere cheese",
+        "searchTerm": "gruyere cheese",
+        "normalizedName": "Gruyere Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      },
+      {
+        "ingredient": "1 (1 pound) loaf French bread, cut into 1 inch cubes",
+        "searchTerm": "french bread",
+        "normalizedName": "French Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Fondue Pot",
+        "searchTerm": "fondue pot"
+      },
+      {
+        "name": "Fondue Forks",
+        "searchTerm": "fondue fork"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Heat wine to just below boiling before adding cheese",
+      "Toss cheese with flour to help it melt evenly without clumping",
+      "Keep fondue warm on low heat while serving; stir occasionally"
+    ],
+    "coachingPrompt": "Guide the cook through making classic Swiss cheese fondue with wine for dipping bread."
+  },
+  "timestamp": "2026-02-06T01:45:13.064Z"
+}

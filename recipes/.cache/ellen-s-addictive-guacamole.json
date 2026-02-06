@@ -1,0 +1,58 @@
+{
+  "contentHash": "433990e767f7447e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 Hass avocados, halved, pitted, and peeled",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 yellow onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 tomatoes, diced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 lemon, juiced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "5 dashes hot pepper sauce",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Add lemon juice immediately after cutting avocados to prevent browning",
+      "Mash to desired consistency from chunky to smooth",
+      "Taste and adjust salt and hot sauce for personal preference"
+    ],
+    "coachingPrompt": "How can you prevent guacamole from browning if you need to make it ahead of time?"
+  },
+  "timestamp": "2026-02-06T06:17:20.157Z"
+}

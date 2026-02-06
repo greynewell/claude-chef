@@ -1,0 +1,88 @@
+{
+  "contentHash": "6b8eff9df1ed8a88",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "½ teaspoon ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      },
+      {
+        "ingredient": "⅔ cup shortening",
+        "searchTerm": "shortening",
+        "normalizedName": "Shortening"
+      },
+      {
+        "ingredient": "1 ¼ cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "¼ cup buttermilk",
+        "searchTerm": "buttermilk",
+        "normalizedName": "Buttermilk"
+      },
+      {
+        "ingredient": "1 cup ripe bananas, mashed",
+        "searchTerm": "bananas",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "2 apples - peeled, cored and shredded",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cupcake Pan",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Electric Mixer",
+        "searchTerm": "hand mixer"
+      }
+    ],
+    "cookingTips": [
+      "Mash bananas until smooth for even distribution throughout batter",
+      "Shred apples just before mixing to prevent browning",
+      "Fill cupcake liners two-thirds full for proper rising"
+    ],
+    "coachingPrompt": "Help the user understand how to properly prepare fresh fruit for baking to maintain moisture and flavor in the cupcakes."
+  },
+  "timestamp": "2026-02-05T22:09:40.773Z"
+}

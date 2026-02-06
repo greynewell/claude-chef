@@ -1,0 +1,43 @@
+{
+  "contentHash": "f3694427563ed681",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 skinless, boneless chicken breasts",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 cup Italian-style salad dressing",
+        "searchTerm": "Italian dressing",
+        "normalizedName": "Italian Dressing"
+      },
+      {
+        "ingredient": "2 cups seasoned dry bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Shallow Bowl",
+        "searchTerm": "shallow bowl"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Pat chicken dry before dipping in dressing so bread crumbs adhere better",
+      "Let breaded chicken rest on a plate for 15 minutes before cooking for the coating to set",
+      "Cook over medium-high heat until golden brown; don't let the coating burn before chicken cooks through"
+    ],
+    "coachingPrompt": "What's the best way to get the bread crumbs to stick to the chicken? Should I refrigerate it after breading?"
+  },
+  "timestamp": "2026-02-05T22:05:40.836Z"
+}

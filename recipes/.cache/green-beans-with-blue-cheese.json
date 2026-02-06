@@ -1,0 +1,58 @@
+{
+  "contentHash": "ae3ccf7029bd5638",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound fresh green beans, cut into 2 inch pieces",
+        "searchTerm": "fresh green beans",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "¼ cup bacon drippings",
+        "searchTerm": "bacon drippings",
+        "normalizedName": "Bacon Dripping"
+      },
+      {
+        "ingredient": "3 ounces crumbled blue cheese",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      },
+      {
+        "ingredient": "½ cup chopped walnuts, toasted",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      }
+    ],
+    "cookingTips": [
+      "Toast walnuts separately in a dry pan to enhance their flavor and prevent sogginess",
+      "Cook green beans in boiling salted water first, then finish in bacon drippings",
+      "Add blue cheese at the very end off the heat so it just begins to melt"
+    ],
+    "coachingPrompt": "Three bold flavors here—bacon, blue cheese, and walnuts. How will you balance them so each one shines without overwhelming the green beans?"
+  },
+  "timestamp": "2026-02-06T08:05:31.758Z"
+}

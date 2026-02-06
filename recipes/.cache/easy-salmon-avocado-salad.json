@@ -1,0 +1,64 @@
+{
+  "contentHash": "32c89625ae4ae951",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½  avocado, thinly sliced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "¼  cucumber, thinly sliced",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "1 dash lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "sea salt to taste",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "1 pinch dried dill weed, or more to taste",
+        "searchTerm": "dill weed",
+        "normalizedName": "Dill Weed"
+      },
+      {
+        "ingredient": "1 (7.5 ounce) can salmon, drained and flaked",
+        "searchTerm": "canned salmon",
+        "normalizedName": "Canned Salmon"
+      },
+      {
+        "ingredient": "1 teaspoon creamy salad dressing (such as Miracle Whip®)",
+        "searchTerm": "salad dressing",
+        "normalizedName": "Salad Dressing"
+      },
+      {
+        "ingredient": "2 teaspoons capers",
+        "searchTerm": "caper",
+        "normalizedName": "Caper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "plate",
+        "searchTerm": "serving plate"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Dress avocado with lemon juice immediately to prevent browning",
+      "Drain canned salmon well to remove excess liquid",
+      "Assemble just before serving to maintain freshness"
+    ],
+    "coachingPrompt": "How can you prevent avocado from browning?"
+  },
+  "timestamp": "2026-02-06T05:57:41.954Z"
+}

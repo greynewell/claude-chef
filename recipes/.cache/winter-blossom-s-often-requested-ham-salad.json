@@ -1,0 +1,48 @@
+{
+  "contentHash": "8334d2db5fca9fbe",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds cooked ham, chopped",
+        "searchTerm": "cooked ham",
+        "normalizedName": "Cooked Ham"
+      },
+      {
+        "ingredient": "¾ cup mayonnaise, or as needed",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "⅓ cup dried minced onion",
+        "searchTerm": "dried minced onion",
+        "normalizedName": "Dried Minced Onion"
+      },
+      {
+        "ingredient": "⅓ cup dill pickle relish",
+        "searchTerm": "dill pickle relish",
+        "normalizedName": "Dill Pickle Relish"
+      },
+      {
+        "ingredient": "¼ cup brown mustard",
+        "searchTerm": "brown mustard",
+        "normalizedName": "Brown Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Chop ham into uniform small pieces for even distribution",
+      "Balance mayo with relish acidity; taste before serving"
+    ],
+    "coachingPrompt": "Help the user understand how to adjust condiment ratios to achieve the desired flavor and texture balance."
+  },
+  "timestamp": "2026-02-06T22:14:50.500Z"
+}

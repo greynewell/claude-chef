@@ -1,0 +1,59 @@
+{
+  "contentHash": "ab11ce67add88fd1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "1 tablespoon mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "⅛ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅛ teaspoon hot pepper sauce",
+        "searchTerm": "hot sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      },
+      {
+        "ingredient": "4 slices whole wheat bread",
+        "searchTerm": "whole wheat bread",
+        "normalizedName": "Whole Wheat Bread"
+      },
+      {
+        "ingredient": "2 leaves lettuce",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "1 tomato, sliced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Salt the tomato slices lightly to enhance flavor and prevent them from becoming watery",
+      "Toast the bread lightly to prevent it from becoming soggy from tomato moisture",
+      "Pat tomato slices dry with paper towels if they are very juicy"
+    ],
+    "coachingPrompt": "Would you like to add any protein like turkey or cheese to make this more filling?"
+  },
+  "timestamp": "2026-02-06T15:47:17.905Z"
+}

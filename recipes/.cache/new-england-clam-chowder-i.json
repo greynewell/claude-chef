@@ -1,0 +1,69 @@
+{
+  "contentHash": "e318f3142bfcaaf1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices bacon, diced",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 ½ cups chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 ½ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "4 cups peeled and cubed potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 ½ teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "3 cups half-and-half",
+        "searchTerm": "half and half",
+        "normalizedName": "Half-and-Half"
+      },
+      {
+        "ingredient": "3 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 (10 ounce) cans minced clams",
+        "searchTerm": "canned clams",
+        "normalizedName": "Clam"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook potatoes until just tender but not soft to maintain texture in final dish",
+      "Add butter and cream at the end to prevent curdling from direct heat",
+      "Reserve clam juice separately and add gradually for controlled consistency"
+    ],
+    "coachingPrompt": "Guide the user through building the flavorful base with bacon and onions, then explain the proper technique for adding dairy without curdling."
+  },
+  "timestamp": "2026-02-06T13:11:04.091Z"
+}

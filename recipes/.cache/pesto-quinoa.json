@@ -1,0 +1,58 @@
+{
+  "contentHash": "acf985c126ce0dd8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup quinoa, rinsed and drained",
+        "searchTerm": "quinoa",
+        "normalizedName": "Quinoa"
+      },
+      {
+        "ingredient": "2 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "2 tablespoons basil pesto",
+        "searchTerm": "basil pesto",
+        "normalizedName": "Basil Pesto"
+      },
+      {
+        "ingredient": "1 tomato, diced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Rinse quinoa thoroughly to remove bitterness before cooking",
+      "Stir pesto into cooked quinoa while still warm for better absorption",
+      "Add fresh tomato after cooking to preserve its brightness"
+    ],
+    "coachingPrompt": "How can you infuse pesto flavor into quinoa while maintaining its nutty texture and nutritional value?"
+  },
+  "timestamp": "2026-02-06T14:40:08.641Z"
+}

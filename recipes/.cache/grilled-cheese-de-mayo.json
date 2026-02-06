@@ -1,0 +1,44 @@
+{
+  "contentHash": "709dd53e82757817",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon mayonnaise, divided",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "2 slices American cheese",
+        "searchTerm": "american cheese",
+        "normalizedName": "American Cheese"
+      },
+      {
+        "ingredient": "1 slice pepperjack cheese",
+        "searchTerm": "pepperjack cheese",
+        "normalizedName": "Pepperjack Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Use mayo instead of or in addition to butter for a richer, creamier result",
+      "The pepper from pepperjack provides a nice kick without additional seasoning",
+      "Medium heat ensures mayo browns without burning"
+    ],
+    "coachingPrompt": "Explain how mayo creates a different flavor profile than traditional butter, and guide on achieving the right browning temperature."
+  },
+  "timestamp": "2026-02-06T08:12:09.120Z"
+}

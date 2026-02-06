@@ -1,0 +1,58 @@
+{
+  "contentHash": "69e631a5ec4f8aed",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 large onions, thinly sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "4 cups beef broth",
+        "searchTerm": "beef broth",
+        "normalizedName": "Beef Broth"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "salt and ground black pepper, to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper, to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "oven-safe bowls",
+        "searchTerm": "soup bowls"
+      }
+    ],
+    "cookingTips": [
+      "Caramelize onions in skillet first, then add to slow cooker for better flavor development",
+      "Cook on low for 6-8 hours to allow flavors to develop and deepen",
+      "Serve in broiler-safe bowls with toasted bread and melted cheese"
+    ],
+    "coachingPrompt": "What advantage does a slow cooker provide for developing onion flavor? How does initial searing improve the final soup?"
+  },
+  "timestamp": "2026-02-06T06:55:00.395Z"
+}

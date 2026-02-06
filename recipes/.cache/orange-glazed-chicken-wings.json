@@ -1,0 +1,53 @@
+{
+  "contentHash": "e6e89959a158de34",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "18 chicken wings, tips removed and wings cut in half at joint",
+        "searchTerm": "chicken wings",
+        "normalizedName": "Chicken Wing"
+      },
+      {
+        "ingredient": "½ cup orange marmalade",
+        "searchTerm": "orange marmalade",
+        "normalizedName": "Orange Marmalade"
+      },
+      {
+        "ingredient": "¼ cup Dijon mustard",
+        "searchTerm": "dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "2 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Pat chicken wings dry before cooking for crispier skin",
+      "Mix glaze ingredients in advance and brush halfway through cooking",
+      "Let wings rest 5 minutes after cooking before serving"
+    ],
+    "coachingPrompt": "How can you ensure these wings get a caramelized glaze without burning? What's the optimal cooking temperature and timing?"
+  },
+  "timestamp": "2026-02-06T13:44:29.225Z"
+}

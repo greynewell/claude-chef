@@ -1,0 +1,53 @@
+{
+  "contentHash": "3e93062b45a24301",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "Reynolds Wrap® Aluminum Foil",
+        "searchTerm": "aluminum foil",
+        "normalizedName": "Aluminum Foil"
+      },
+      {
+        "ingredient": "2 medium sweet potatoes, scrubbed and sliced 1/8 inch thick using a mandoline, box grater, or knife",
+        "searchTerm": "sweet potatoes",
+        "normalizedName": "Sweet Potato"
+      },
+      {
+        "ingredient": "1 tablespoon extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 teaspoons coarse salt",
+        "searchTerm": "coarse salt",
+        "normalizedName": "Coarse Salt"
+      },
+      {
+        "ingredient": "1 teaspoon BBQ spice rub or Parmesan cheese",
+        "searchTerm": "BBQ spice",
+        "normalizedName": "BBQ Spice Rub"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mandoline slicer",
+        "searchTerm": "mandoline"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Slice potatoes uniformly thin (⅛ inch) for even, consistent crispiness",
+      "Toss slices lightly with oil to avoid sogginess—less is more",
+      "Check chips at 15-minute intervals and remove browned ones early to prevent burning"
+    ],
+    "coachingPrompt": "Help user achieve uniform thickness, explain the balance between oil and crispiness, and manage variable cooking times for different chip sizes."
+  },
+  "timestamp": "2026-02-05T23:07:02.915Z"
+}

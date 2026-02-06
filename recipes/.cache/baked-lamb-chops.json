@@ -1,0 +1,48 @@
+{
+  "contentHash": "0a958a232d97a07c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "3 teaspoons Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "12 (5.5 ounce) lamb chops",
+        "searchTerm": "lamb chops",
+        "normalizedName": "Lamb Chop"
+      },
+      {
+        "ingredient": "2 cups dry bread crumbs",
+        "searchTerm": "dry bread crumbs",
+        "normalizedName": "Dry Bread Crumb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "shallow dishes",
+        "searchTerm": "shallow bowls"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Whisk eggs with Worcestershire sauce for the egg wash binding layer",
+      "Set up a breading station with egg mixture and bread crumbs; dip chops in egg, then coat thoroughly with bread crumbs",
+      "Place coated chops on a lined baking sheet and bake until bread crumbs are golden and lamb reaches desired doneness"
+    ],
+    "coachingPrompt": "Demonstrate proper breading technique for even coating, explain doneness temperature for lamb chops, and discuss how breading protects meat during baking."
+  },
+  "timestamp": "2026-02-05T23:07:02.924Z"
+}

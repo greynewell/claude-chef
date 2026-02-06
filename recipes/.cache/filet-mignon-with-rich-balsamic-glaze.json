@@ -1,0 +1,53 @@
+{
+  "contentHash": "60e60c284fa016ee",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (4 ounce) filet mignon steaks",
+        "searchTerm": "filet mignon",
+        "normalizedName": "Filet Mignon"
+      },
+      {
+        "ingredient": "½ teaspoon freshly ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ cup balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "¼ cup dry red wine",
+        "searchTerm": "red wine",
+        "normalizedName": "Red Wine"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cast iron skillet",
+        "searchTerm": "cast iron skillet"
+      },
+      {
+        "name": "Instant-read thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Small saucepan",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Reduce balsamic and red wine together to create a thick, glossy glaze",
+      "Brush glaze on steaks during the last minute of cooking to prevent burning",
+      "Rest steaks before plating to allow carryover cooking to perfect temperature"
+    ],
+    "coachingPrompt": "How long should I reduce the balsamic and wine to get the perfect glossy, clinging glaze?"
+  },
+  "timestamp": "2026-02-06T06:38:22.982Z"
+}

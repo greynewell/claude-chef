@@ -1,0 +1,48 @@
+{
+  "contentHash": "773d0c1d4a9e69ea",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 (.7 ounce) package dry Italian-style salad dressing mix",
+        "searchTerm": "Italian dressing mix",
+        "normalizedName": "Italian Salad Dressing Mix"
+      },
+      {
+        "ingredient": "1 (1 pound) loaf cocktail rye bread",
+        "searchTerm": "cocktail rye bread",
+        "normalizedName": "Cocktail Rye Bread"
+      },
+      {
+        "ingredient": "1 cucumber, peeled and thinly sliced",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Small bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Knife for slicing",
+        "searchTerm": "vegetable knife"
+      },
+      {
+        "name": "Serving platter",
+        "searchTerm": "platter"
+      }
+    ],
+    "cookingTips": [
+      "Mix dressing mix with mayo ahead of time for flavors to develop",
+      "Slice cucumbers just before assembling to prevent sogginess",
+      "Spread dressing generously on bread but not so much it soaks through"
+    ],
+    "coachingPrompt": "These are simple appetizers perfect for entertaining. Would you like to prepare them ahead, or assemble closer to serving time?"
+  },
+  "timestamp": "2026-02-06T10:06:29.006Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "24b3dfbfee132be4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "2 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 tablespoon hot water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon miso paste",
+        "searchTerm": "miso paste",
+        "normalizedName": "Miso Paste"
+      },
+      {
+        "ingredient": "2 (6 ounce) salmon fillets",
+        "searchTerm": "salmon fillets",
+        "normalizedName": "Salmon Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Dissolve miso paste in hot water before mixing with other ingredients for smooth glaze",
+      "Apply glaze halfway through cooking to prevent burning while allowing flavors to set",
+      "Salmon is done when it flakes easily; avoid overcooking to maintain moistness"
+    ],
+    "coachingPrompt": "Teach the user why miso adds umami depth and how to create a balanced sweet-savory glaze that caramelizes beautifully on salmon."
+  },
+  "timestamp": "2026-02-06T05:52:19.797Z"
+}

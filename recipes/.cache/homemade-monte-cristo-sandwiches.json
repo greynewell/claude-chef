@@ -1,0 +1,73 @@
+{
+  "contentHash": "85377f9741e2f3aa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 slices sourdough bread",
+        "searchTerm": "sourdough bread",
+        "normalizedName": "Sourdough Bread"
+      },
+      {
+        "ingredient": "2 tablespoons honey mustard",
+        "searchTerm": "honey mustard",
+        "normalizedName": "Honey Mustard"
+      },
+      {
+        "ingredient": "½ pound sliced deli ham",
+        "searchTerm": "deli ham",
+        "normalizedName": "Deli Ham"
+      },
+      {
+        "ingredient": "1 ½ cups shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "⅛ teaspoon freshly ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "Shallow bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "silicone spatula"
+      }
+    ],
+    "cookingTips": [
+      "Dip sandwich lightly in egg mixture to avoid soaking; oversaturation makes bread fall apart",
+      "Cook on medium heat to allow cheese to melt while bread toasts golden",
+      "Press gently with spatula while cooking to help bread bond and cheese distribute evenly"
+    ],
+    "coachingPrompt": "Help the user master the balance between golden toasting and proper cheese melting without oversaturating the bread."
+  },
+  "timestamp": "2026-02-06T09:16:20.188Z"
+}

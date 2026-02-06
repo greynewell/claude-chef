@@ -1,0 +1,48 @@
+{
+  "contentHash": "652c3ef47e6651ba",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices bacon, cooked and chopped",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "½ cup almond flour",
+        "searchTerm": "almond flour",
+        "normalizedName": "Almond Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Muffin tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Whisk or fork for beating eggs",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon ahead and chop for quick assembly",
+      "Fill muffin cups only 2/3 full - batter rises as it bakes",
+      "Let cool 5 minutes before removing from tin for easy extraction"
+    ],
+    "coachingPrompt": "These muffins are quick to make. How can you batch cook them for grab-and-go breakfasts?"
+  },
+  "timestamp": "2026-02-06T11:36:10.176Z"
+}

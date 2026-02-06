@@ -1,0 +1,48 @@
+{
+  "contentHash": "bc58c13369756ea9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "8 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "¾ cup barbeque sauce (such as Cattlemen's® or Jack Daniel's®)",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy before wrapping around chicken",
+      "Bake chicken at 375°F until internal temperature reaches 165°F",
+      "Top with barbecue sauce and bacon during last 5 minutes of baking"
+    ],
+    "coachingPrompt": "This combines bacon and barbecue for flavor. Would you like guidance on timing the bacon cooking or ensuring the chicken stays moist?"
+  },
+  "timestamp": "2026-02-05T23:29:31.577Z"
+}

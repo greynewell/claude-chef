@@ -1,0 +1,54 @@
+{
+  "contentHash": "d74ad215cd8bb4f8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ avocado",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Fresh Lemon Juice"
+      },
+      {
+        "ingredient": "1 tablespoon BelGioioso Mascarpone cheese or butter",
+        "searchTerm": "mascarpone cheese",
+        "normalizedName": "Mascarpone Cheese"
+      },
+      {
+        "ingredient": "2 slices sourdough bread",
+        "searchTerm": "sourdough bread",
+        "normalizedName": "Sourdough Bread"
+      },
+      {
+        "ingredient": "2 slices BelGioioso Fontina cheese",
+        "searchTerm": "fontina cheese",
+        "normalizedName": "Fontina Cheese"
+      },
+      {
+        "ingredient": "2 slices cooked bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Mash avocado with lemon juice to prevent browning and add brightness to the sandwich",
+      "Use mascarpone or butter on bread to promote even, golden browning without burning",
+      "Toast the sandwich over medium heat to allow cheese to melt while the bread crisps evenly"
+    ],
+    "coachingPrompt": "How do you prevent avocado from becoming mushy while ensuring the fontina melts perfectly with a crispy bread exterior?"
+  },
+  "timestamp": "2026-02-05T22:40:06.726Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "66edf40a039b64ec",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups fresh blackberries",
+        "searchTerm": "blackberries",
+        "normalizedName": "Blackberry"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "glass jar",
+        "searchTerm": "glass jar"
+      }
+    ],
+    "cookingTips": [
+      "Simmer gently over medium heat to preserve berry shape while releasing juices",
+      "Use a potato masher to partially crush berries for desired consistency",
+      "Cool completely before storing in an airtight container for up to 2 weeks"
+    ],
+    "coachingPrompt": "Help me create a silky compote that balances tart blackberries with just enough sugar and lemon brightness."
+  },
+  "timestamp": "2026-02-06T00:15:08.446Z"
+}

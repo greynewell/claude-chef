@@ -1,0 +1,48 @@
+{
+  "contentHash": "9f5eb3143ba7a4ec",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup light corn syrup",
+        "searchTerm": "corn syrup",
+        "normalizedName": "Corn Syrup"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup smooth peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "10 cups cornflakes cereal",
+        "searchTerm": "cornflakes cereal",
+        "normalizedName": "Cornflake Cereal"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Heat corn syrup and sugar until it reaches soft-ball stage, then fold in peanut butter",
+      "Add cornflakes last and fold gently to avoid crushing them",
+      "Press mixture into pan while still warm for easier handling"
+    ],
+    "coachingPrompt": "Teach the user the soft-ball stage test and why timing is crucial for the right chewy texture in these bars."
+  },
+  "timestamp": "2026-02-06T14:24:52.100Z"
+}

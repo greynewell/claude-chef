@@ -1,0 +1,68 @@
+{
+  "contentHash": "ffa076a3212f71a8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound dry great Northern beans",
+        "searchTerm": "great Northern bean",
+        "normalizedName": "Great Northern Bean"
+      },
+      {
+        "ingredient": "8 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "12 baby carrots",
+        "searchTerm": "baby carrot",
+        "normalizedName": "Baby Carrot"
+      },
+      {
+        "ingredient": "1 cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ pound chopped ham",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "¼ cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's Knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Soak beans overnight before cooking to reduce cooking time and improve digestibility",
+      "Add ham early to infuse broth with flavor; add vegetables later so they retain texture",
+      "Taste and season aggressively near the end, as long simmering can mute flavors"
+    ],
+    "coachingPrompt": "Guide the user through the slow-simmering process to develop deep, savory bean soup flavors."
+  },
+  "timestamp": "2026-02-05T23:31:47.048Z"
+}

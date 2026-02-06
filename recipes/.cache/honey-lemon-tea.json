@@ -1,0 +1,48 @@
+{
+  "contentHash": "573ad4e6b55eb46b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 teaspoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 teaspoon fresh lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 teaspoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Kettle",
+        "searchTerm": "kettle"
+      },
+      {
+        "name": "Mug",
+        "searchTerm": "mug"
+      },
+      {
+        "name": "Measuring spoons",
+        "searchTerm": "measuring spoons"
+      }
+    ],
+    "cookingTips": [
+      "Use hot water just below boiling to preserve honey's nutrients and flavor",
+      "Add honey and lemon juice after water cools slightly for best taste",
+      "Stir well to ensure honey dissolves completely"
+    ],
+    "coachingPrompt": "What water temperature gives the best-tasting honey-lemon tea while preserving honey benefits?"
+  },
+  "timestamp": "2026-02-06T09:22:33.555Z"
+}

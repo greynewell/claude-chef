@@ -1,0 +1,49 @@
+{
+  "contentHash": "b70c0bcb56753a08",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 quart yellow dandelion blossoms, well rinsed",
+        "searchTerm": "dandelion blossoms",
+        "normalizedName": "Dandelion Blossom"
+      },
+      {
+        "ingredient": "1 gallon boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (.18 ounce) package wine yeast",
+        "searchTerm": "wine yeast",
+        "normalizedName": "Wine Yeast"
+      },
+      {
+        "ingredient": "8 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 orange, sliced",
+        "searchTerm": "orange",
+        "normalizedName": "Orange"
+      },
+      {
+        "ingredient": "1 lemon slice",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      "large pot",
+      "fermentation container",
+      "airlock",
+      "strainer"
+    ],
+    "cookingTips": [
+      "Use only yellow petals, removing all green parts to avoid bitter flavors",
+      "Maintain proper fermentation temperature (65-75°F) for best results"
+    ],
+    "coachingPrompt": "What environmental conditions are critical for successful fermentation of dandelion wine?"
+  },
+  "timestamp": "2026-02-06T04:58:54.207Z"
+}

@@ -1,0 +1,73 @@
+{
+  "contentHash": "a6895a74ffbe10c3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 cups instant white rice",
+        "searchTerm": "instant white rice",
+        "normalizedName": "Instant White Rice"
+      },
+      {
+        "ingredient": "½ teaspoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "⅛ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "medium saucepan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Cook instant rice briefly with water, butter, and salt before adding milk mixture",
+      "Whisk cornstarch with milk before adding to avoid lumps",
+      "Simmer gently while stirring until pudding thickens, about 5 minutes"
+    ],
+    "coachingPrompt": "Guide the user on thickening the pudding with cornstarch slurry and explain how brown sugar and cinnamon create warm comfort flavors."
+  },
+  "timestamp": "2026-02-06T00:48:07.758Z"
+}

@@ -1,0 +1,52 @@
+{
+  "contentHash": "9fc6a13fae036f45",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ (1 ounce) square semisweet baking chocolate",
+        "searchTerm": "semisweet chocolate",
+        "normalizedName": "Semisweet Chocolate"
+      },
+      {
+        "ingredient": "2 teaspoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "1 tablespoon sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 dash salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "microwave-safe mug",
+        "searchTerm": "microwave mug"
+      },
+      {
+        "name": "microwave",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Heat in 30-second intervals to prevent overheating and ensure smooth pudding",
+      "Stir well between intervals to distribute heat evenly"
+    ],
+    "coachingPrompt": "What timing intervals will ensure smooth pudding texture without curdling the milk?"
+  },
+  "timestamp": "2026-02-06T15:21:30.840Z"
+}

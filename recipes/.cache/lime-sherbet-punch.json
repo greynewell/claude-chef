@@ -1,0 +1,58 @@
+{
+  "contentHash": "5d133da81f987c42",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 quarts lime sherbet",
+        "searchTerm": "lime sherbet",
+        "normalizedName": "Lime Sherbet"
+      },
+      {
+        "ingredient": "2 (2 liter) bottles ginger ale",
+        "searchTerm": "ginger ale",
+        "normalizedName": "Ginger Ale"
+      },
+      {
+        "ingredient": "1 (46 fluid ounce) can pineapple juice",
+        "searchTerm": "pineapple juice",
+        "normalizedName": "Pineapple Juice"
+      },
+      {
+        "ingredient": "1 (4 ounce) jar maraschino cherries, drained",
+        "searchTerm": "maraschino cherries",
+        "normalizedName": "Maraschino Cherry"
+      },
+      {
+        "ingredient": "1 lemon, sliced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "1 lime, sliced",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large punch bowl",
+        "searchTerm": "punch bowl"
+      },
+      {
+        "name": "Ladle",
+        "searchTerm": "ladle"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Add sherbet just before serving to keep punch cold and maintain texture",
+      "Use chilled glasses and serve immediately for best temperature",
+      "Slice citrus garnishes just before serving to maintain freshness"
+    ],
+    "coachingPrompt": "Help the user understand the timing of adding sherbet to maintain a refreshing punch texture and prevent melting."
+  },
+  "timestamp": "2026-02-06T11:25:28.053Z"
+}

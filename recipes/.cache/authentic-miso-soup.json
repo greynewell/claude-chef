@@ -1,0 +1,63 @@
+{
+  "contentHash": "8dc3cfcd6ec0471b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (4 inch) piece dashi kombu (dried kelp)",
+        "searchTerm": "dashi kombu",
+        "normalizedName": "Dashi Kombu"
+      },
+      {
+        "ingredient": "½ cup bonito flakes",
+        "searchTerm": "bonito flakes",
+        "normalizedName": "Bonito Flake"
+      },
+      {
+        "ingredient": "½ (12 ounce) package tofu, cut into chunks",
+        "searchTerm": "tofu",
+        "normalizedName": "Tofu"
+      },
+      {
+        "ingredient": "1 teaspoon dried wakame",
+        "searchTerm": "dried wakame",
+        "normalizedName": "Wakame"
+      },
+      {
+        "ingredient": "3 tablespoons miso paste",
+        "searchTerm": "miso paste",
+        "normalizedName": "Miso Paste"
+      },
+      {
+        "ingredient": "¼ cup chopped green onions",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Strainer",
+        "searchTerm": "strainer"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Make dashi stock first by simmering kombu and bonito flakes, then straining carefully",
+      "Never boil miso paste as heat destroys beneficial probiotics and flavor",
+      "Add miso and delicate ingredients at the very end of cooking"
+    ],
+    "coachingPrompt": "Teach the user the importance of building layers of umami flavor through proper dashi preparation and gentle miso incorporation."
+  },
+  "timestamp": "2026-02-05T22:37:54.059Z"
+}

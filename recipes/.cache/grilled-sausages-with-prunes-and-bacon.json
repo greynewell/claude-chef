@@ -1,0 +1,48 @@
+{
+  "contentHash": "db0952c46b34c4bb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 fresh bratwurst sausages",
+        "searchTerm": "bratwurst sausages",
+        "normalizedName": "Bratwurst Sausage"
+      },
+      {
+        "ingredient": "18 pitted prunes",
+        "searchTerm": "pitted prunes",
+        "normalizedName": "Prune"
+      },
+      {
+        "ingredient": "6 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "6 bratwurst buns",
+        "searchTerm": "bratwurst buns",
+        "normalizedName": "Bratwurst Bun"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "toothpicks",
+        "searchTerm": "toothpicks"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Wrap each sausage with bacon in a spiral pattern for even cooking and coverage",
+      "Use toothpicks to secure bacon and hold prunes in place during grilling",
+      "Toast buns lightly on the grill for texture contrast"
+    ],
+    "coachingPrompt": "Teach the user how to wrap sausages with bacon and integrate prunes for a sweet and savory flavor combination."
+  },
+  "timestamp": "2026-02-06T08:25:10.180Z"
+}

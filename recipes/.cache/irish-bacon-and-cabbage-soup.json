@@ -1,0 +1,63 @@
+{
+  "contentHash": "12e4a615f85d3279",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound Irish bacon, diced",
+        "searchTerm": "irish bacon",
+        "normalizedName": "Irish Bacon"
+      },
+      {
+        "ingredient": "2 large potatoes, peeled and cubed",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 (15 ounce) can diced tomatoes with juice",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "1 cup chicken stock, or as needed",
+        "searchTerm": "chicken stock",
+        "normalizedName": "Chicken Stock"
+      },
+      {
+        "ingredient": "Salt and black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "Salt and black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 cups thinly sliced dark green Savoy cabbage leaves",
+        "searchTerm": "savoy cabbage",
+        "normalizedName": "Savoy Cabbage"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Soup Pot",
+        "searchTerm": "soup pot"
+      },
+      {
+        "name": "Chef's Knife",
+        "searchTerm": "chef knife"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Render bacon fat first to create a flavorful base for the entire soup",
+      "Cut potatoes into uniform cubes so they cook evenly in the broth",
+      "Add cabbage in the final 10 minutes of cooking to maintain its vibrant color and slight crunch"
+    ],
+    "coachingPrompt": "Help the user build layered flavors by properly rendering bacon and explain how timing the cabbage addition preserves its nutritional value and texture."
+  },
+  "timestamp": "2026-02-06T10:00:37.178Z"
+}

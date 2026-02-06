@@ -1,0 +1,48 @@
+{
+  "contentHash": "c0718ccce68f6dcb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound fresh green beans, trimmed",
+        "searchTerm": "fresh green beans",
+        "normalizedName": "Fresh Green Bean"
+      },
+      {
+        "ingredient": "1 pound small new potatoes, halved",
+        "searchTerm": "new potatoes",
+        "normalizedName": "New Potato"
+      },
+      {
+        "ingredient": "water to cover",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 (1 inch) cubes salt pork, or more to taste",
+        "searchTerm": "salt pork",
+        "normalizedName": "Salt Pork"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Trim green beans uniformly for even cooking",
+      "Salt pork adds traditional Southern flavor without adding salt",
+      "Check vegetables during cooking to avoid overcooking"
+    ],
+    "coachingPrompt": "What's a good salt pork substitute for this traditional dish?"
+  },
+  "timestamp": "2026-02-06T18:10:18.809Z"
+}

@@ -1,0 +1,39 @@
+{
+  "contentHash": "ef19705cf6c988ed",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) can Pillsbury® Refrigerated Crescent Dinner Rolls",
+        "searchTerm": "crescent rolls",
+        "normalizedName": "Crescent Roll"
+      },
+      {
+        "ingredient": "8 thin slices cooked ham",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "4 thin slices Cheddar cheese, cut into strips",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Separate crescent rolls carefully along perforations for even cooking",
+      "Roll tightly to prevent cheese from leaking during baking",
+      "Bake until golden brown for crispy exterior with melted cheese inside"
+    ],
+    "coachingPrompt": "How can you prevent the cheese from leaking out during baking?"
+  },
+  "timestamp": "2026-02-06T08:40:28.529Z"
+}

@@ -1,0 +1,52 @@
+{
+  "contentHash": "34017c74c3da140b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 slices multigrain bread",
+        "searchTerm": "multigrain bread",
+        "normalizedName": "Multigrain Bread"
+      },
+      {
+        "ingredient": "1 cup hummus",
+        "searchTerm": "hummus",
+        "normalizedName": "Hummus"
+      },
+      {
+        "ingredient": "2 Granny Smith apples, thinly sliced",
+        "searchTerm": "granny smith apple",
+        "normalizedName": "Granny Smith Apple"
+      },
+      {
+        "ingredient": "1 cup shredded sharp Cheddar cheese",
+        "searchTerm": "sharp cheddar cheese",
+        "normalizedName": "Sharp Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "toaster oven",
+        "searchTerm": "toaster oven"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Slice apples just before assembly to prevent browning",
+      "Spread hummus evenly on bread for consistent coverage",
+      "Broil or bake until cheese melts completely and bread is lightly golden"
+    ],
+    "coachingPrompt": "What role does hummus play in this sandwich, and why is it a good base for melting cheese?"
+  },
+  "timestamp": "2026-02-06T19:50:31.440Z"
+}

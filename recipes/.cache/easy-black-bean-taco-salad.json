@@ -1,0 +1,78 @@
+{
+  "contentHash": "6c382852f7aba839",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 envelope taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning Mix"
+      },
+      {
+        "ingredient": "¾ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (15 ounce) can black beans, drained",
+        "searchTerm": "black beans",
+        "normalizedName": "Black Bean"
+      },
+      {
+        "ingredient": "1 head romaine lettuce, shredded",
+        "searchTerm": "romaine lettuce",
+        "normalizedName": "Romaine Lettuce"
+      },
+      {
+        "ingredient": "1 (8 ounce) jar salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "2 tomatoes, diced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "2 cups shredded Mexican cheese blend",
+        "searchTerm": "Mexican cheese",
+        "normalizedName": "Mexican Cheese Blend"
+      },
+      {
+        "ingredient": "8 ounces sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 (10 ounce) bag tortilla chips",
+        "searchTerm": "tortilla chips",
+        "normalizedName": "Tortilla Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "salad bowl"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly and drain excess fat before adding seasoning mix",
+      "Assemble salad just before serving to keep tortilla chips crispy",
+      "Warm the black beans with ground beef for better flavor integration"
+    ],
+    "coachingPrompt": "When should you add each ingredient to maintain texture and freshness? How does timing affect the crispiness of tortilla chips?"
+  },
+  "timestamp": "2026-02-06T05:34:07.250Z"
+}

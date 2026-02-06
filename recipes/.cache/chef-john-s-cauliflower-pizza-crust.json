@@ -1,0 +1,63 @@
+{
+  "contentHash": "f3cc11e6835f79c3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cauliflower",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "fresh goat cheese",
+        "searchTerm": "goat cheese",
+        "normalizedName": "Goat Cheese"
+      },
+      {
+        "ingredient": "finely grated Parmigiano-Reggiano cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmigiano-Reggiano Cheese"
+      },
+      {
+        "ingredient": "large egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "cheesecloth or kitchen towel",
+        "searchTerm": "cheesecloth"
+      },
+      {
+        "name": "pizza stone or baking sheet",
+        "searchTerm": "pizza stone"
+      }
+    ],
+    "cookingTips": [
+      "Process cauliflower into rice-sized pieces, not a paste, for best texture",
+      "Squeeze excess moisture from cauliflower thoroughly to prevent soggy crust",
+      "Bake crust first until lightly golden before adding toppings"
+    ],
+    "coachingPrompt": "Explain moisture management in cauliflower crusts and why it's critical for crispness. Discuss binding with cheese and eggs."
+  },
+  "timestamp": "2026-02-06T01:59:13.391Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "1d59a43b308d7e13",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds russet potatoes, peeled and cubed",
+        "searchTerm": "russet potatoes",
+        "normalizedName": "Russet Potato"
+      },
+      {
+        "ingredient": "1 cup 1% milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "4 ounces shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "3 tablespoons grated Parmesan cheese, divided",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "3 (5 ounce) cans tuna, drained",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Tuna"
+      },
+      {
+        "ingredient": "½ cup chopped green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Casserole Dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Cube potatoes uniformly for even cooking",
+      "Bind ingredients gently to avoid breaking tuna",
+      "Top with extra cheese for golden crust"
+    ],
+    "coachingPrompt": "How would you layer the ingredients for the best texture and flavor distribution?"
+  },
+  "timestamp": "2026-02-06T05:29:48.087Z"
+}

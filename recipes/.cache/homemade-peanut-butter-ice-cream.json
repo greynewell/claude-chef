@@ -1,0 +1,63 @@
+{
+  "contentHash": "dc7ae496be6d56dc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (14 ounce) can sweetened condensed milk",
+        "searchTerm": "condensed milk",
+        "normalizedName": "Sweetened Condensed Milk"
+      },
+      {
+        "ingredient": "1 (12 ounce) can evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      },
+      {
+        "ingredient": "1 ¼ cups whole milk",
+        "searchTerm": "milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "½ cup peanut butter (no sweetener added)",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 teaspoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "6 peanut butter cups, chopped",
+        "searchTerm": "peanut butter cups",
+        "normalizedName": "Peanut Butter Cup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Blender or whisk",
+        "searchTerm": "blender"
+      }
+    ],
+    "cookingTips": [
+      "Blend peanut butter with warm milk first to smooth out lumps before mixing with other ingredients",
+      "Chill all ingredients thoroughly before churning for best texture",
+      "Fold in peanut butter cup pieces in the last minute of churning to keep them intact"
+    ],
+    "coachingPrompt": "Guide the user on proper peanut butter incorporation to avoid lumps and the timing for adding mix-ins to the ice cream."
+  },
+  "timestamp": "2026-02-06T09:16:20.190Z"
+}

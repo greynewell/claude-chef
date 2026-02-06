@@ -1,0 +1,44 @@
+{
+  "contentHash": "a11db3fef0b30995",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "18 fresh okra pods, sliced 1/3 inch thick",
+        "searchTerm": "fresh okra",
+        "normalizedName": "Okra"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 teaspoons kosher salt, or to taste",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "2 teaspoons black pepper, or to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sheet Pan",
+        "searchTerm": "sheet pan"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Pat okra dry thoroughly to reduce sliminess during roasting",
+      "Use high heat for crispy texture rather than steaming",
+      "Stir halfway through for even browning"
+    ],
+    "coachingPrompt": "Help the user overcome okra's slimy texture by explaining how high-heat roasting creates crispness."
+  },
+  "timestamp": "2026-02-06T16:25:50.180Z"
+}

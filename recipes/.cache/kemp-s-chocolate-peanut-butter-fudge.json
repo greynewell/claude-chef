@@ -1,0 +1,53 @@
+{
+  "contentHash": "cc5f41942d464856",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "semisweet chocolate chips",
+        "searchTerm": "semisweet chocolate chips",
+        "normalizedName": "Semisweet Chocolate Chip"
+      },
+      {
+        "ingredient": "sweetened condensed milk",
+        "searchTerm": "sweetened condensed milk",
+        "normalizedName": "Sweetened Condensed Milk"
+      },
+      {
+        "ingredient": "butter, cut into chunks",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "peanut butter chips",
+        "searchTerm": "peanut butter chips",
+        "normalizedName": "Peanut Butter Chip"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Double Boiler",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "Candy Thermometer",
+        "searchTerm": "candy thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Use a double boiler to prevent chocolate from burning",
+      "Stir constantly for smooth, uniform texture",
+      "Pour into parchment-lined pan and refrigerate until firm before cutting"
+    ],
+    "coachingPrompt": "Explain the importance of low, even heat when melting chocolate. Suggest storage tips and troubleshooting if fudge doesn't set properly."
+  },
+  "timestamp": "2026-02-06T10:39:09.365Z"
+}

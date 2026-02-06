@@ -1,0 +1,63 @@
+{
+  "contentHash": "5f81efb6c265c2dd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 slices bacon, chopped",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 ½ teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 pound fresh asparagus, trimmed",
+        "searchTerm": "fresh asparagus",
+        "normalizedName": "Fresh Asparagus"
+      },
+      {
+        "ingredient": "1 shallot, thinly sliced",
+        "searchTerm": "shallot",
+        "normalizedName": "Shallot"
+      },
+      {
+        "ingredient": "1 pinch salt, or to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper, or to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then set aside and use the fat to cook asparagus",
+      "Cut asparagus into uniform pieces for even cooking",
+      "Toss everything together at the end so shallots stay tender-crisp"
+    ],
+    "coachingPrompt": "Help me combine crispy bacon with tender asparagus and shallots in a simple skillet dish."
+  },
+  "timestamp": "2026-02-06T07:02:43.280Z"
+}

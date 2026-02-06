@@ -1,0 +1,44 @@
+{
+  "contentHash": "b5fd5d48eb65af38",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 teaspoons margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "2 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "1 ½ tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "2 tablespoons semisweet chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Spread margarine on outside of bread before grilling for golden crust",
+      "Assemble sandwich with peanut butter and chocolate chips on inside before grilling",
+      "Use medium heat and watch carefully to prevent burning while melting chocolate"
+    ],
+    "coachingPrompt": "Guide the user through the assembly and cooking process for a perfectly melted chocolate and peanut butter grilled sandwich."
+  },
+  "timestamp": "2026-02-06T14:24:52.101Z"
+}

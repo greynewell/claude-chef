@@ -1,0 +1,67 @@
+{
+  "contentHash": "538e7115e60350ee",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "⅔ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon almond extract",
+        "searchTerm": "almond extract",
+        "normalizedName": "Almond Extract"
+      },
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ cup seedless raspberry jam",
+        "searchTerm": "raspberry jam",
+        "normalizedName": "Raspberry Jam"
+      },
+      {
+        "ingredient": "½ cup confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "¾ teaspoon almond extract",
+        "searchTerm": "almond extract",
+        "normalizedName": "Almond Extract"
+      },
+      {
+        "ingredient": "1 teaspoon milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "baking sheets",
+        "searchTerm": "baking sheets"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Chill dough for 30 minutes before forming thumbprints to prevent spreading",
+      "Create thumbprints gently and fill with jam just before baking for best results"
+    ],
+    "coachingPrompt": "This is a buttery shortbread cookie with jam filling. Guide the user through proper chilling and creating even thumbprints."
+  },
+  "timestamp": "2026-02-06T15:55:29.844Z"
+}

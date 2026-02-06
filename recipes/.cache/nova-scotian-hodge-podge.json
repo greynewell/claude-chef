@@ -1,0 +1,73 @@
+{
+  "contentHash": "385d7a14eadb5062",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup fresh green beans, trimmed and snapped",
+        "searchTerm": "fresh green beans",
+        "normalizedName": "Fresh Green Bean"
+      },
+      {
+        "ingredient": "1 cup fresh wax beans, trimmed and snapped",
+        "searchTerm": "fresh wax beans",
+        "normalizedName": "Fresh Wax Bean"
+      },
+      {
+        "ingredient": "1 cup diced carrot",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 cup diced turnip",
+        "searchTerm": "turnip",
+        "normalizedName": "Turnip"
+      },
+      {
+        "ingredient": "2 cups cubed new potatoes",
+        "searchTerm": "new potatoes",
+        "normalizedName": "New Potato"
+      },
+      {
+        "ingredient": "6 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "1 tablespoon all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cut vegetables into similar-sized pieces for even cooking",
+      "Add vegetables in stages based on cooking time: potatoes first, then beans last",
+      "Make beurre manié (flour-butter paste) off heat to prevent lumps in cream sauce"
+    ],
+    "coachingPrompt": "Guide proper vegetable cooking sequence and emulsion of cream sauce for a silky, cohesive hodge podge."
+  },
+  "timestamp": "2026-02-06T13:23:13.183Z"
+}

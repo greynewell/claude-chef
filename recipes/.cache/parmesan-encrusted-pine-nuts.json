@@ -1,0 +1,48 @@
+{
+  "contentHash": "a878b36d56b4427e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "12 ounces pine nuts",
+        "searchTerm": "pine nuts",
+        "normalizedName": "Pine Nut"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "⅔ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Melt sugar with water over medium heat until it reaches a light caramel color",
+      "Toss hot pine nuts in caramel quickly, then coat with Parmesan while still warm"
+    ],
+    "coachingPrompt": "What temperature should the sugar syrup reach before tossing with pine nuts?"
+  },
+  "timestamp": "2026-02-06T14:10:37.101Z"
+}

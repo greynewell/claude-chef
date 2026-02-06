@@ -1,0 +1,53 @@
+{
+  "contentHash": "3b2a29253b4a7561",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "almond milk",
+        "searchTerm": "almond milk",
+        "normalizedName": "Almond Milk"
+      },
+      {
+        "ingredient": "coconut flour",
+        "searchTerm": "coconut flour",
+        "normalizedName": "Coconut Flour"
+      },
+      {
+        "ingredient": "sea salt",
+        "searchTerm": "salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Non-Stick Skillet",
+        "searchTerm": "non-stick skillet"
+      },
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Silicone Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Blend batter until completely smooth to prevent lumps from coconut flour",
+      "Cook over medium-low heat to prevent browning too quickly before setting",
+      "Let wraps cool on a parchment-lined surface for easy handling"
+    ],
+    "coachingPrompt": "Guide the cook on properly blending to achieve thin, pliable wraps and explain how to use them as alternatives to traditional tortillas."
+  },
+  "timestamp": "2026-02-06T05:28:59.761Z"
+}

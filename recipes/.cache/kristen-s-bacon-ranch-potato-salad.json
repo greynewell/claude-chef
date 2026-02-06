@@ -1,0 +1,58 @@
+{
+  "contentHash": "973b7e4cb11c0cb9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds red potatoes, cut into bite-size pieces",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "1 (16 ounce) container sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 (1 ounce) package ranch dressing mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Ranch Dressing Mix"
+      },
+      {
+        "ingredient": "1 ¼ cups cooked bacon, crumbled",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 ½ cups shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 bunches green onions, thinly sliced",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cook potatoes until just tender and cool slightly before mixing with dressing for best texture",
+      "Add bacon and green onions just before serving to keep them crisp",
+      "Make ahead and refrigerate - flavors develop and improve after 2-3 hours"
+    ],
+    "coachingPrompt": "Should I add the dressing while the potatoes are still warm, and when is the best time to add the bacon?"
+  },
+  "timestamp": "2026-02-06T10:56:19.105Z"
+}

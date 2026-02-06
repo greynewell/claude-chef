@@ -1,0 +1,64 @@
+{
+  "contentHash": "b0e246880e60a6d5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ cup cooked brown rice",
+        "searchTerm": "brown rice",
+        "normalizedName": "Brown Rice"
+      },
+      {
+        "ingredient": "¾ cup black beans",
+        "searchTerm": "black bean",
+        "normalizedName": "Black Bean"
+      },
+      {
+        "ingredient": "½ cup prepared salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "¼ cup finely shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "½ avocado",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 Lime wedge",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "cilantro sprigs",
+        "searchTerm": "fresh cilantro",
+        "normalizedName": "Fresh Cilantro"
+      },
+      {
+        "ingredient": "hot sauce",
+        "searchTerm": "hot sauce",
+        "normalizedName": "Hot Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bowl",
+        "searchTerm": "serving bowl"
+      },
+      {
+        "name": "microwave or stovetop",
+        "searchTerm": "heating method"
+      }
+    ],
+    "cookingTips": [
+      "Warm brown rice and black beans separately for even heating",
+      "Add avocado just before serving to prevent browning",
+      "Layer ingredients for visual appeal and easy customization"
+    ],
+    "coachingPrompt": "Help the user understand burrito bowl assembly and explain the importance of timing for adding avocado."
+  },
+  "timestamp": "2026-02-06T00:48:07.757Z"
+}

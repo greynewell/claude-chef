@@ -1,0 +1,68 @@
+{
+  "contentHash": "9e0347f5ffb22395",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) package farfalle (bow tie) pasta",
+        "searchTerm": "farfalle pasta",
+        "normalizedName": "Farfalle"
+      },
+      {
+        "ingredient": "1 (.6 ounce) package zesty Italian-style salad dressing mix",
+        "searchTerm": "Italian dressing mix",
+        "normalizedName": "Italian Dressing Mix"
+      },
+      {
+        "ingredient": "12 cherry tomatoes",
+        "searchTerm": "cherry tomatoes",
+        "normalizedName": "Cherry Tomato"
+      },
+      {
+        "ingredient": "1 (8 ounce) can artichoke hearts",
+        "searchTerm": "artichoke hearts",
+        "normalizedName": "Artichoke Heart"
+      },
+      {
+        "ingredient": "2 (2.25 ounce) cans chopped black olives",
+        "searchTerm": "black olives",
+        "normalizedName": "Black Olive"
+      },
+      {
+        "ingredient": "1 (2.25 ounce) can sliced green olives",
+        "searchTerm": "green olives",
+        "normalizedName": "Green Olive"
+      },
+      {
+        "ingredient": "6 ounces shredded Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "3 tablespoons pesto",
+        "searchTerm": "pesto",
+        "normalizedName": "Pesto"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pasta pot"
+      },
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "pasta strainer"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta al dente, then drain and cool before mixing—warm pasta gets mushy",
+      "Add dressing mix dry and toss well for even seasoning distribution",
+      "Refrigerate assembled salad at least 2 hours for flavors to meld"
+    ],
+    "coachingPrompt": "What would be the 'surprise' ingredient that makes this pasta salad memorable and worth its name?"
+  },
+  "timestamp": "2026-02-06T14:41:07.906Z"
+}

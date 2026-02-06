@@ -1,0 +1,73 @@
+{
+  "contentHash": "c435d45ff559ceaf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 ½ teaspoons baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ¼ cups skim milk",
+        "searchTerm": "skim milk",
+        "normalizedName": "Skim Milk"
+      },
+      {
+        "ingredient": "½ cup molasses",
+        "searchTerm": "molasses",
+        "normalizedName": "Molasses"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 cups bran flakes cereal",
+        "searchTerm": "bran flakes",
+        "normalizedName": "Bran Flake"
+      },
+      {
+        "ingredient": "½ cup raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "muffin tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Let batter rest 5 minutes before baking to allow bran to absorb moisture",
+      "Fill muffin cups evenly for consistent baking",
+      "Bake at 375°F for 18-22 minutes until toothpick comes out clean"
+    ],
+    "coachingPrompt": "Help the user understand why resting time is important for bran muffins and how to tell when they're properly baked."
+  },
+  "timestamp": "2026-02-06T12:40:18.811Z"
+}

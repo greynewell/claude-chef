@@ -1,0 +1,58 @@
+{
+  "contentHash": "0101d3f7fbaeb824",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "6 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "10 cooked large shrimp",
+        "searchTerm": "cooked shrimp",
+        "normalizedName": "Cooked Shrimp"
+      },
+      {
+        "ingredient": "¼ cup cocktail sauce",
+        "searchTerm": "cocktail sauce",
+        "normalizedName": "Cocktail Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Use pre-cooked shrimp to avoid overcooking and toughness",
+      "Add shrimp at the end to gently warm through without breaking",
+      "Beat eggs thoroughly before cooking for fluffier results"
+    ],
+    "coachingPrompt": "Guide the user on timing—cooking onions first, then adding beaten eggs, and finishing with gentle shrimp integration to preserve texture."
+  },
+  "timestamp": "2026-02-06T17:11:57.703Z"
+}

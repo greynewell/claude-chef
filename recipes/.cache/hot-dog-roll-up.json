@@ -1,0 +1,39 @@
+{
+  "contentHash": "8d17eae62d44c506",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 (6 inch) Mission® Fajita Flour Tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "4 all beef hot dogs",
+        "searchTerm": "beef hot dogs",
+        "normalizedName": "Beef Hot Dog"
+      },
+      {
+        "ingredient": "4 slices processed American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Microwave",
+        "searchTerm": "microwave"
+      }
+    ],
+    "cookingTips": [
+      "Warm tortillas before rolling to prevent cracking",
+      "Cook hot dogs until heated through, about 3-4 minutes in a skillet",
+      "Assemble quickly while components are warm for best melting of cheese"
+    ],
+    "coachingPrompt": "Suggest quick add-ons like salsa, guacamole, or sour cream to elevate this simple handheld meal."
+  },
+  "timestamp": "2026-02-06T09:30:05.079Z"
+}

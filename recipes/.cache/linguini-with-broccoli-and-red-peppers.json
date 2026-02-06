@@ -1,0 +1,68 @@
+{
+  "contentHash": "81d161e4dadf3a94",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound linguini pasta",
+        "searchTerm": "linguini",
+        "normalizedName": "Linguini"
+      },
+      {
+        "ingredient": "1 pound fresh broccoli, chopped",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "3 tablespoons extra virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 red bell pepper, thinly sliced",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 pinch garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pasta pot",
+        "searchTerm": "pasta pot"
+      },
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Cook broccoli separately to control texture, then add to pasta",
+      "Keep vegetables slightly crisp for better texture",
+      "Toast garlic in oil before adding vegetables"
+    ],
+    "coachingPrompt": "This is a vegetarian dish with great texture contrast. Should I explain how to keep broccoli from becoming mushy?"
+  },
+  "timestamp": "2026-02-06T11:27:37.556Z"
+}

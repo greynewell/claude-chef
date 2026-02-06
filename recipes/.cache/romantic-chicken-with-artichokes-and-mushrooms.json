@@ -1,0 +1,73 @@
+{
+  "contentHash": "d6db1862838ee31f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (14 ounce) can marinated quartered artichoke hearts, drained, liquid reserved",
+        "searchTerm": "canned artichoke hearts",
+        "normalizedName": "Artichoke Heart"
+      },
+      {
+        "ingredient": "1 cup sliced fresh mushrooms",
+        "searchTerm": "fresh mushrooms",
+        "normalizedName": "Fresh Mushroom"
+      },
+      {
+        "ingredient": "1 cup white wine",
+        "searchTerm": "white wine",
+        "normalizedName": "White Wine"
+      },
+      {
+        "ingredient": "1 tablespoon capers",
+        "searchTerm": "capers",
+        "normalizedName": "Caper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "kitchen tongs"
+      },
+      {
+        "name": "instant-read thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken to even thickness for uniform cooking",
+      "Sear chicken until golden, then remove before making sauce",
+      "Return chicken to pan only at the end to prevent drying out"
+    ],
+    "coachingPrompt": "How do you prevent chicken from drying out? Why remove it before making the sauce?"
+  },
+  "timestamp": "2026-02-06T16:32:17.109Z"
+}

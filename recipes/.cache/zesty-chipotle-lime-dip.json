@@ -1,0 +1,54 @@
+{
+  "contentHash": "ec7e88cf9554b4e8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 tablespoons chipotle pepper powder",
+        "searchTerm": "chipotle powder",
+        "normalizedName": "Chipotle Pepper Powder"
+      },
+      {
+        "ingredient": "4 teaspoons garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅓ cup lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Whisk all ingredients until smooth and fully incorporated",
+      "Taste and adjust chipotle and lime to balance heat and acidity",
+      "Refrigerate for at least 1 hour before serving to allow flavors to develop"
+    ],
+    "coachingPrompt": "Help the user create a smoky, tangy dip that pairs perfectly with chips, vegetables, or grilled items."
+  },
+  "timestamp": "2026-02-06T22:22:02.388Z"
+}

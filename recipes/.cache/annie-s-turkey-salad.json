@@ -1,0 +1,53 @@
+{
+  "contentHash": "8e6cdd0e11a57d8d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "6 cups cooked turkey meat",
+        "searchTerm": "cooked turkey",
+        "normalizedName": "Cooked Turkey"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar sweet pickles, chopped",
+        "searchTerm": "sweet pickle",
+        "normalizedName": "Sweet Pickle"
+      },
+      {
+        "ingredient": "1 ½ (10 ounce) jars mustard-mayonnaise blend",
+        "searchTerm": "mustard-mayonnaise blend",
+        "normalizedName": "Mustard-Mayonnaise Blend"
+      },
+      {
+        "ingredient": "¾ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Dice turkey and pickles into uniform sizes for consistent texture throughout the salad",
+      "Hard boil eggs first and cool completely before chopping to prevent discoloration",
+      "Adjust mayonnaise ratio based on desired creaminess; you may not need the full amount"
+    ],
+    "coachingPrompt": "Are you comfortable hard boiling eggs? Would you like tips on perfect doneness?"
+  },
+  "timestamp": "2026-02-05T22:07:52.428Z"
+}

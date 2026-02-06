@@ -1,0 +1,58 @@
+{
+  "contentHash": "8ed8e3f52cd585c1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup long-grain white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "1 teaspoon lime zest",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "2 tablespoons fresh lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "½ cup chopped cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan with lid",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Microplane",
+        "searchTerm": "microplane zester"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Toast rice in butter for 1-2 minutes before adding water for deeper flavor",
+      "Do not stir rice while cooking; let it steam undisturbed",
+      "Let rice rest 5 minutes after cooking, then fluff with fork and add lime juice and cilantro"
+    ],
+    "coachingPrompt": "Teach the user the proper rice cooking technique and when to add delicate aromatics like cilantro for best results."
+  },
+  "timestamp": "2026-02-06T11:25:28.051Z"
+}

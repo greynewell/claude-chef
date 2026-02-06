@@ -1,0 +1,68 @@
+{
+  "contentHash": "ffc6a76a71df6cdb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 pound spaghetti",
+        "searchTerm": "spaghetti",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "1 (16 ounce) package frozen chopped broccoli",
+        "searchTerm": "frozen broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "3 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "5 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "pasta pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "pasta strainer"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta separately from the chicken and broccoli to prevent overcooking",
+      "Slice chicken into uniform pieces for even cooking",
+      "Toss everything together at the end to combine flavors"
+    ],
+    "coachingPrompt": "How will you ensure the chicken is cooked through without drying out?"
+  },
+  "timestamp": "2026-02-06T18:48:30.877Z"
+}

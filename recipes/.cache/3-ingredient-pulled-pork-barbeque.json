@@ -1,0 +1,48 @@
+{
+  "contentHash": "39cfbf031a3939e5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (18 ounce) bottle barbeque sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "1 envelope dry onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      },
+      {
+        "ingredient": "1 (4 pound) boneless pork loin roast",
+        "searchTerm": "pork loin roast",
+        "normalizedName": "Pork Loin Roast"
+      },
+      {
+        "ingredient": "1 (4 pound) package thick country-style pork ribs",
+        "searchTerm": "country-style pork ribs",
+        "normalizedName": "Pork Ribs"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Meat Shredder",
+        "searchTerm": "meat shredder"
+      },
+      {
+        "name": "Large Spoon",
+        "searchTerm": "serving spoon"
+      }
+    ],
+    "cookingTips": [
+      "Layer the pork with sauce and soup mix for even flavor distribution",
+      "Cook on low for 8-10 hours until meat shreds easily with a fork",
+      "Reserve some cooking liquid to mix with shredded pork for moisture"
+    ],
+    "coachingPrompt": "Guide me through making slow cooker pulled pork from raw pork cuts to tender, shredded meat ready for serving"
+  },
+  "timestamp": "2026-02-05T21:27:20.937Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "ed0c152b04341181",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 cups Chocolate Chex® cereal",
+        "searchTerm": "chocolate chex cereal",
+        "normalizedName": "Chocolate Chex Cereal"
+      },
+      {
+        "ingredient": "½ cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "⅓ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 tablespoons corn syrup",
+        "searchTerm": "corn syrup",
+        "normalizedName": "Corn Syrup"
+      },
+      {
+        "ingredient": "1 drop red gel food color",
+        "searchTerm": "red food coloring",
+        "normalizedName": "Red Food Coloring"
+      },
+      {
+        "ingredient": "1 cup Betty Crocker® Gluten Free devil's food cake mix",
+        "searchTerm": "gluten free chocolate cake mix",
+        "normalizedName": "Gluten Free Chocolate Cake Mix"
+      },
+      {
+        "ingredient": "½ cup Betty Crocker® Rich & Creamy cream cheese frosting",
+        "searchTerm": "cream cheese frosting",
+        "normalizedName": "Cream Cheese Frosting"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "sheet pan"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "stirring spoon"
+      }
+    ],
+    "cookingTips": [
+      "Toss cereal mixture gently to avoid crushing pieces",
+      "Cool completely on parchment paper for crispness",
+      "Store in airtight container for up to 5 days"
+    ],
+    "coachingPrompt": "Guide the user through coating the cereal evenly while maintaining its crunch, and explain how to prevent the cake mix from clumping during mixing."
+  },
+  "timestamp": "2026-02-06T16:05:21.054Z"
+}

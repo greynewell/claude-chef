@@ -1,0 +1,58 @@
+{
+  "contentHash": "579a84ec313abbb5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 loaf Italian bread",
+        "searchTerm": "Italian bread",
+        "normalizedName": "Italian Bread"
+      },
+      {
+        "ingredient": "½ cup softened butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 pound sliced fresh mushrooms",
+        "searchTerm": "fresh mushroom",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "2 cups shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "6 green onions, chopped",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Knife for slicing",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Sauté mushrooms until liquid evaporates for concentrated flavor and proper texture",
+      "Apply butter mixture generously for even coverage and flavor distribution",
+      "Toast until cheese is bubbly and bread is golden brown"
+    ],
+    "coachingPrompt": "Why is it important to cook down the mushrooms before adding them to the bread?"
+  },
+  "timestamp": "2026-02-06T12:27:44.313Z"
+}

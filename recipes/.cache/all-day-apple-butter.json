@@ -1,0 +1,43 @@
+{
+  "contentHash": "e9d092910bf48ef8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 ½ pounds apples - peeled, cored and finely chopped",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "4 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 teaspoons ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "¼ teaspoon ground cloves",
+        "searchTerm": "ground cloves",
+        "normalizedName": "Ground Clove"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      "slow cooker",
+      "immersion blender",
+      "canning jars"
+    ],
+    "cookingTips": [
+      "Cook on low for 8-10 hours, stirring occasionally to prevent sticking and ensure even cooking",
+      "Blend or mash the finished product to your desired consistency"
+    ],
+    "coachingPrompt": "Apple butter is a long-cooking preserve. Are you using a slow cooker and familiar with the final consistency you want?"
+  },
+  "timestamp": "2026-02-05T21:51:35.515Z"
+}

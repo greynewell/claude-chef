@@ -1,0 +1,53 @@
+{
+  "contentHash": "d1da0ef39f28a965",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Shredded Cheddar Cheese"
+      },
+      {
+        "ingredient": "¼ cup chopped pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      },
+      {
+        "ingredient": "¼ cup bacon bits",
+        "searchTerm": "bacon bits",
+        "normalizedName": "Bacon Bit"
+      },
+      {
+        "ingredient": "¾ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon grated onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "mixing spoon"
+      },
+      {
+        "name": "Plastic wrap",
+        "searchTerm": "plastic wrap"
+      }
+    ],
+    "cookingTips": [
+      "Combine all ingredients and refrigerate for at least 2 hours before shaping",
+      "Form into a ball and roll in additional bacon bits or pecans for exterior coating",
+      "Serve with crackers or crudités; keeps refrigerated for up to 5 days"
+    ],
+    "coachingPrompt": "Show the user how to build a simple cheese ball with complementary flavors and teach proper storage and serving techniques."
+  },
+  "timestamp": "2026-02-06T06:01:36.218Z"
+}

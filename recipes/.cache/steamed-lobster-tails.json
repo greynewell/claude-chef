@@ -1,0 +1,38 @@
+{
+  "contentHash": "78c223ba569e500a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "4 (6 ounce) lobster tails",
+        "searchTerm": "lobster tails",
+        "normalizedName": "Lobster Tail"
+      },
+      {
+        "ingredient": "½ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "steamer basket",
+        "searchTerm": "steamer basket"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      }
+    ],
+    "cookingTips": [
+      "Steam lobster tails flesh-side down for even cooking",
+      "Melted butter can be served warm alongside for dipping"
+    ],
+    "coachingPrompt": "What's the ideal steaming time for lobster tails by size?"
+  },
+  "timestamp": "2026-02-06T19:25:43.233Z"
+}

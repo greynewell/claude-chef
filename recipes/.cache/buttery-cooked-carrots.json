@@ -1,0 +1,38 @@
+{
+  "contentHash": "3a3acfc00eeb5034",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound baby carrots",
+        "searchTerm": "baby carrots",
+        "normalizedName": "Baby Carrot"
+      },
+      {
+        "ingredient": "¼ cup margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "⅓ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "lid",
+        "searchTerm": "pot lid"
+      }
+    ],
+    "cookingTips": [
+      "Cook carrots covered to trap steam and soften them evenly",
+      "Toss frequently to coat with sweet glaze and ensure even browning"
+    ],
+    "coachingPrompt": "What's the best way to balance sweetness so the brown sugar complements rather than overwhelms the carrots?"
+  },
+  "timestamp": "2026-02-06T01:05:23.651Z"
+}

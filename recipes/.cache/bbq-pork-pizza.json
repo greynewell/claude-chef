@@ -1,0 +1,53 @@
+{
+  "contentHash": "f16b1a9dd721f5d0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (13.8 ounce) package refrigerated pizza dough",
+        "searchTerm": "pizza dough",
+        "normalizedName": "Pizza Dough"
+      },
+      {
+        "ingredient": "1 (18 ounce) container barbequed pulled pork",
+        "searchTerm": "barbecued pulled pork",
+        "normalizedName": "Barbecued Pulled Pork"
+      },
+      {
+        "ingredient": "¼ red onion, thinly sliced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "½ cup dill pickle slices",
+        "searchTerm": "dill pickle",
+        "normalizedName": "Dill Pickle"
+      },
+      {
+        "ingredient": "2 cups shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pizza Pan or Stone",
+        "searchTerm": "pizza pan"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Use store-bought pulled pork for convenience; this is great for using leftovers",
+      "Dill pickles add tang that contrasts with rich pulled pork and cheese",
+      "Top pizza after dough rises but before baking for better crust development"
+    ],
+    "coachingPrompt": "This shortcuts cooking time with pre-made pulled pork. Are you looking for quick weeknight meals, or do you prefer making everything from scratch?"
+  },
+  "timestamp": "2026-02-05T23:37:23.226Z"
+}

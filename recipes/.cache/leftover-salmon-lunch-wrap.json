@@ -1,0 +1,58 @@
+{
+  "contentHash": "b834bd16bdbd6c81",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15 ounce) can black beans, drained",
+        "searchTerm": "black beans",
+        "normalizedName": "Black Bean"
+      },
+      {
+        "ingredient": "1 (3 ounce) fillet cooked salmon",
+        "searchTerm": "cooked salmon",
+        "normalizedName": "Salmon"
+      },
+      {
+        "ingredient": "2 (6 inch) flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "1 red bell pepper, thinly sliced",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 green bell pepper, thinly sliced",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 small avocado, halved and sliced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "plate",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Keep tortillas warm by wrapping them in a damp kitchen towel",
+      "Arrange fillings in a horizontal line down the center for easier rolling",
+      "Add avocado last just before eating to prevent browning"
+    ],
+    "coachingPrompt": "What's the best way to balance the salmon protein with fresh vegetables and beans in this wrap?"
+  },
+  "timestamp": "2026-02-06T11:06:18.591Z"
+}

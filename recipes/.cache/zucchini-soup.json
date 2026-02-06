@@ -1,0 +1,58 @@
+{
+  "contentHash": "c4fae9ea9c3ddb23",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "21 ounces zucchini, sliced",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "2 onions, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cloves garlic, crushed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "3 cups water, divided",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 bunch chives, chopped",
+        "searchTerm": "chive",
+        "normalizedName": "Chive"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "stockpot"
+      },
+      {
+        "name": "immersion blender",
+        "searchTerm": "immersion blender"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Simmer vegetables until very tender before blending",
+      "Use reserved water to adjust soup consistency",
+      "Add chives at end of cooking for fresh flavor"
+    ],
+    "coachingPrompt": "Guide the user through creating a simple, clean zucchini soup."
+  },
+  "timestamp": "2026-02-06T22:29:12.634Z"
+}

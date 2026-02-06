@@ -1,0 +1,62 @@
+{
+  "contentHash": "2fdc246cf33f510f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 cups Japanese sticky rice",
+        "searchTerm": "sushi rice",
+        "normalizedName": "Japanese Sticky Rice"
+      },
+      {
+        "ingredient": "1 pound skinless, boneless salmon fillets",
+        "searchTerm": "salmon fillets",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "water to cover",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon tobiko",
+        "searchTerm": "tobiko",
+        "normalizedName": "Tobiko"
+      },
+      {
+        "ingredient": "1 tablespoon chopped green onions",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "rice cooker",
+        "searchTerm": "rice cooker"
+      },
+      {
+        "name": "poaching pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "serving bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Rinse sushi rice thoroughly before cooking to remove excess starch for better texture",
+      "Poach salmon gently at a simmer to keep it tender and intact"
+    ],
+    "coachingPrompt": "What's the best way to season and prepare Japanese sticky rice? How long should you poach salmon fillets?"
+  },
+  "timestamp": "2026-02-06T14:58:10.882Z"
+}

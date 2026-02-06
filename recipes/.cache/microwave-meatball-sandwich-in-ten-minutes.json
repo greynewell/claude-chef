@@ -1,0 +1,48 @@
+{
+  "contentHash": "a46c1b5bebbdc564",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 slices provolone cheese",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      },
+      {
+        "ingredient": "1 (14 ounce) package frozen cooked meatballs",
+        "searchTerm": "frozen meatballs",
+        "normalizedName": "Frozen Meatball"
+      },
+      {
+        "ingredient": "1 (28 ounce) jar spaghetti sauce",
+        "searchTerm": "spaghetti sauce",
+        "normalizedName": "Spaghetti Sauce"
+      },
+      {
+        "ingredient": "5 hoagie rolls, split lengthwise",
+        "searchTerm": "hoagie rolls",
+        "normalizedName": "Hoagie Roll"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Microwave",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "Microwave-Safe Dish",
+        "searchTerm": "microwave dish"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Combine meatballs and sauce in a microwave-safe dish for faster heating",
+      "Heat meatballs and sauce together before assembling sandwiches to save time",
+      "Add cheese after transferring to rolls and microwave briefly just to melt"
+    ],
+    "coachingPrompt": "Explain how to efficiently assemble and heat these sandwiches for a quick meal."
+  },
+  "timestamp": "2026-02-06T12:25:46.979Z"
+}

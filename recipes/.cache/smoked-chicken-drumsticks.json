@@ -1,0 +1,43 @@
+{
+  "contentHash": "867110f6cf3dcc8a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 chicken drumsticks",
+        "searchTerm": "chicken drumsticks",
+        "normalizedName": "Chicken Drumstick"
+      },
+      {
+        "ingredient": "¼ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "⅓ cup BBQ rub",
+        "searchTerm": "BBQ rub",
+        "normalizedName": "BBQ Rub"
+      }
+    ],
+    "gear": [
+      {
+        "name": "smoker",
+        "searchTerm": "smoker"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "basting brush",
+        "searchTerm": "basting brush"
+      }
+    ],
+    "cookingTips": [
+      "Oil drumsticks before applying rub for better adhesion",
+      "Maintain consistent smoking temperature for even cooking",
+      "Drumsticks are done when internal temperature reaches 165°F"
+    ],
+    "coachingPrompt": "Help the baker understand how to apply rub evenly and achieve crispy, caramelized exterior while maintaining juicy meat."
+  },
+  "timestamp": "2026-02-06T18:21:25.354Z"
+}

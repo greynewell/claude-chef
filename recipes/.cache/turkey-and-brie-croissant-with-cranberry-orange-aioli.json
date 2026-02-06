@@ -1,0 +1,63 @@
+{
+  "contentHash": "b85d9737f9986626",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "½ small orange, juiced",
+        "searchTerm": "orange juice",
+        "normalizedName": "Orange Juice"
+      },
+      {
+        "ingredient": "⅛ cup dried cranberries, roughly chopped",
+        "searchTerm": "dried cranberries",
+        "normalizedName": "Dried Cranberry"
+      },
+      {
+        "ingredient": "8 slices Granny Smith apple",
+        "searchTerm": "Granny Smith apple",
+        "normalizedName": "Granny Smith Apple"
+      },
+      {
+        "ingredient": "2 large croissants, split",
+        "searchTerm": "croissant",
+        "normalizedName": "Croissant"
+      },
+      {
+        "ingredient": "¼ pound sliced deli turkey meat",
+        "searchTerm": "deli turkey",
+        "normalizedName": "Deli Turkey"
+      },
+      {
+        "ingredient": "4 slices Brie cheese",
+        "searchTerm": "Brie cheese",
+        "normalizedName": "Brie Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "small bowl",
+        "searchTerm": "small bowl"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "sharp knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Make aioli by whisking orange juice and minced cranberries into mayonnaise",
+      "Toast croissants lightly to add crunch without drying them out",
+      "Layer apple slices last to prevent oxidation; assemble just before serving"
+    ],
+    "coachingPrompt": "How will you balance the tartness of cranberry-orange aioli with creamy Brie and sweet apple slices alongside savory turkey?"
+  },
+  "timestamp": "2026-02-06T21:17:00.439Z"
+}

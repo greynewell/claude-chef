@@ -1,0 +1,63 @@
+{
+  "contentHash": "dfeb10b6a10a32e2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "chicken breast halves, boneless, skin-on",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "fresh mushrooms",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef knife"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Slice mushrooms evenly for consistent cooking time",
+      "Sear chicken skin-side down first to render fat and create crispness",
+      "Use residual heat from the pan to keep chicken warm while finishing sauce"
+    ],
+    "coachingPrompt": "Explain proper searing technique for skin-on chicken. Discuss building light pan sauce with mushrooms and deglazing liquid."
+  },
+  "timestamp": "2026-02-06T01:59:13.393Z"
+}

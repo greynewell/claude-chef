@@ -1,0 +1,63 @@
+{
+  "contentHash": "c02ec6dbd05d4a73",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup light brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (12 fluid ounce) can evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      },
+      {
+        "ingredient": "1 (7 ounce) jar marshmallow creme",
+        "searchTerm": "marshmallow creme",
+        "normalizedName": "Marshmallow Creme"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "candy thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "large saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "baking pan",
+        "searchTerm": "baking pan"
+      }
+    ],
+    "cookingTips": [
+      "Use a candy thermometer and bring the mixture to exactly 234°F (soft-ball stage) for proper texture",
+      "Stir constantly once the mixture reaches a boil to prevent burning and ensure even cooking",
+      "Work quickly once you add the peanut butter and marshmallow as the mixture sets fast"
+    ],
+    "coachingPrompt": "Coach the user through the candy-making process, emphasizing temperature control and timing. Help them understand how to achieve the perfect fudgy consistency without graininess."
+  },
+  "timestamp": "2026-02-06T04:30:10.114Z"
+}

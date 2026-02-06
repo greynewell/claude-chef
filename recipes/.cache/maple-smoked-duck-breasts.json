@@ -1,0 +1,57 @@
+{
+  "contentHash": "5de6c88aaa0fe985",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 boneless duck breast halves",
+        "searchTerm": "duck breasts",
+        "normalizedName": "Duck Breast"
+      },
+      {
+        "ingredient": "2 tablespoons kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "2 teaspoons cracked black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "3 tablespoons maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "2 teaspoons maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "maple wood chips",
+        "searchTerm": "maple wood chips",
+        "normalizedName": "Maple Wood Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "smoker",
+        "searchTerm": "smoker"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "grill"
+      }
+    ],
+    "cookingTips": [
+      "Score the duck skin in a crosshatch pattern to help fat render during cooking",
+      "Dry-brine with salt and pepper for several hours to develop deep flavor",
+      "Smoke at 225°F until duck reaches 135°F internal temperature for medium-rare"
+    ],
+    "coachingPrompt": "Guide the user on smoking techniques and proper doneness temperature for duck."
+  },
+  "timestamp": "2026-02-06T11:55:22.810Z"
+}

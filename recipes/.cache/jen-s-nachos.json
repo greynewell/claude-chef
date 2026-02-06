@@ -1,0 +1,58 @@
+{
+  "contentHash": "fae33611a400fb88",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "8 ounces shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "¾ (18 ounce) bottle barbecue sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can stewed tomatoes, drained",
+        "searchTerm": "stewed tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 (15 ounce) can whole kernel corn, drained",
+        "searchTerm": "corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) package nacho-flavor tortilla chips",
+        "searchTerm": "tortilla chips",
+        "normalizedName": "Tortilla Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Brown the ground beef completely and drain excess fat before adding sauce",
+      "Layer tortilla chips on a baking sheet, add toppings, and broil for even cheese melting",
+      "Add toppings in stages if making multiple layers to prevent soggy chips"
+    ],
+    "coachingPrompt": "What's the best approach to keep nachos crispy while ensuring all toppings heat through?"
+  },
+  "timestamp": "2026-02-06T10:24:25.437Z"
+}

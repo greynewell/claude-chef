@@ -1,0 +1,63 @@
+{
+  "contentHash": "e0ae72c80fb60a37",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds potatoes, peeled and cubed",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "2 pounds kielbasa sausage, cut into 1 inch pieces",
+        "searchTerm": "kielbasa sausage",
+        "normalizedName": "Kielbasa Sausage"
+      },
+      {
+        "ingredient": "1 (28 ounce) can tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon dried basil leaves",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "large baking dish"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes into uniform cubes and kielbasa into 1-inch pieces for consistent cooking times",
+      "Combine all ingredients including tomato sauce in baking dish before baking for a complete one-pan meal",
+      "Cover with foil for the first portion of baking, then uncover to allow slight reduction of sauce"
+    ],
+    "coachingPrompt": "Guide uniform cutting for even cooking, explain how tomato sauce braises the dish, and show how to manage sauce consistency during baking."
+  },
+  "timestamp": "2026-02-05T23:07:02.924Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "e20612d309d5b6b1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package uncooked spaghetti",
+        "searchTerm": "spaghetti",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 cloves garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 (6.5 ounce) cans chopped clams with juice",
+        "searchTerm": "chopped clams",
+        "normalizedName": "Chopped Clam"
+      },
+      {
+        "ingredient": "½ cup finely chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Cook spaghetti al dente to avoid mushiness",
+      "Reserve pasta water to adjust sauce consistency",
+      "Toss clams with pasta at the end to prevent overcooking"
+    ],
+    "coachingPrompt": "I want to make spaghetti alle vongole quickly. How should I time the pasta and clam sauce?"
+  },
+  "timestamp": "2026-02-06T15:42:06.036Z"
+}

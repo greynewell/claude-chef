@@ -1,0 +1,58 @@
+{
+  "contentHash": "e91b1da5a8ac1331",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 bunch kale, stems removed and discarded",
+        "searchTerm": "kale",
+        "normalizedName": "Kale"
+      },
+      {
+        "ingredient": "4 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "¼ cup shredded Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "8 whole wheat English muffins, split",
+        "searchTerm": "whole wheat English muffins",
+        "normalizedName": "Whole Wheat English Muffin"
+      },
+      {
+        "ingredient": "2 cooked chicken breasts, diced",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 cup sliced fresh mozzarella cheese",
+        "searchTerm": "fresh mozzarella cheese",
+        "normalizedName": "Fresh Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Make pesto by pulsing kale and garlic together before spreading",
+      "Toast English muffins lightly before adding toppings for structural integrity",
+      "Broil for 3-4 minutes until cheese melts and edges brown slightly"
+    ],
+    "coachingPrompt": "How can you create a pesto from kale instead of basil?"
+  },
+  "timestamp": "2026-02-06T10:34:53.358Z"
+}

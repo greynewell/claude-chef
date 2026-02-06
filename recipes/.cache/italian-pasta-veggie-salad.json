@@ -1,0 +1,58 @@
+{
+  "contentHash": "30c1b01274da00c0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 ounces fusilli pasta",
+        "searchTerm": "fusilli pasta",
+        "normalizedName": "Fusilli Pasta"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 green bell pepper, chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "2 tomatoes, chopped",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 cup chopped mushrooms",
+        "searchTerm": "mushroom",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "¾ cup fat free Italian-style dressing",
+        "searchTerm": "fat free Italian dressing",
+        "normalizedName": "Fat Free Italian Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta al dente to maintain texture in salad",
+      "Chop vegetables into bite-sized pieces for even distribution",
+      "Serve chilled or at room temperature for best flavor"
+    ],
+    "coachingPrompt": "Help the user understand vegetable size consistency and proper pasta doneness for salads."
+  },
+  "timestamp": "2026-02-06T10:08:24.312Z"
+}

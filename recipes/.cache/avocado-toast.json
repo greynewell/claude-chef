@@ -1,0 +1,43 @@
+{
+  "contentHash": "74b794d936777272",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "2 ounces Cheddar cheese, cut into 8 pieces",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 avocado",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      }
+    ],
+    "gear": [
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "spreading knife",
+        "searchTerm": "butter knife"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread until crispy to support toppings",
+      "Layer cheese before avocado to create a barrier",
+      "Slice avocado just before assembly to prevent browning"
+    ],
+    "coachingPrompt": "What's the best method to layer these simple ingredients for maximum flavor?"
+  },
+  "timestamp": "2026-02-05T22:43:14.836Z"
+}

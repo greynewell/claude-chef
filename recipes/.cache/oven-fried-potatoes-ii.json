@@ -1,0 +1,53 @@
+{
+  "contentHash": "41fb2211c2670f5f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "2 large baking potatoes, cut into wedges",
+        "searchTerm": "baking potatoes",
+        "normalizedName": "Baking Potato"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Toss potato wedges with oil and lemon juice for light, crispy results",
+      "Arrange in single layer cut-side down for better browning",
+      "Bake at 400°F for 25-30 minutes until golden and tender"
+    ],
+    "coachingPrompt": "Help the user create a lighter version of fried potatoes using minimal oil and lemon brightness."
+  },
+  "timestamp": "2026-02-06T13:53:13.279Z"
+}

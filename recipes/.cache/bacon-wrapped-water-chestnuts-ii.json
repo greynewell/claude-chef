@@ -1,0 +1,53 @@
+{
+  "contentHash": "e317c5ceffc9411c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "1 cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon Worcestershire sauce",
+        "searchTerm": "worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "16 ounces sliced bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 (8 ounce) cans water chestnuts, drained",
+        "searchTerm": "water chestnuts",
+        "normalizedName": "Water Chestnut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Toothpicks",
+        "searchTerm": "toothpicks"
+      },
+      {
+        "name": "Small Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Mix glaze ingredients in advance so you can brush quickly during final baking minutes",
+      "Cut bacon slices to appropriate length for wrapping water chestnuts evenly",
+      "Use a slotted spoon to drain canned water chestnuts thoroughly"
+    ],
+    "coachingPrompt": "Help the cook understand the sweet and savory balance in the glaze and how to prevent burning."
+  },
+  "timestamp": "2026-02-05T22:55:35.476Z"
+}

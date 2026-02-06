@@ -1,0 +1,53 @@
+{
+  "contentHash": "10ee23604571eb9a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 (28 ounce) cans baked beans",
+        "searchTerm": "baked beans canned",
+        "normalizedName": "Baked Bean"
+      },
+      {
+        "ingredient": "1 (12 ounce) bottle chili sauce",
+        "searchTerm": "chili sauce",
+        "normalizedName": "Chili Sauce"
+      },
+      {
+        "ingredient": "1 large sweet onion, chopped",
+        "searchTerm": "sweet onion",
+        "normalizedName": "Sweet Onion"
+      },
+      {
+        "ingredient": "2 cups packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then crumble for maximum flavor distribution",
+      "Mix all ingredients thoroughly before baking to ensure even sweetness",
+      "Bake uncovered to allow beans to caramelize slightly on top"
+    ],
+    "coachingPrompt": "Help the cook balance the sweetness from brown sugar with the savory bacon, and ensure proper baking time for beans to reduce and thicken."
+  },
+  "timestamp": "2026-02-06T05:22:03.802Z"
+}

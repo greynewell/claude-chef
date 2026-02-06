@@ -1,0 +1,48 @@
+{
+  "contentHash": "329105deff6cf690",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (14 ounce) can pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "4 hamburger buns",
+        "searchTerm": "hamburger buns",
+        "normalizedName": "Hamburger Bun"
+      },
+      {
+        "ingredient": "4 slices shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly and break into small pieces for even pizza sauce distribution",
+      "Simmer beef and pizza sauce together briefly to allow flavors to meld",
+      "Add cheese and let it melt while still in the pan before assembling burgers"
+    ],
+    "coachingPrompt": "Help the user create simple pizza burgers by properly browning the meat, combining with sauce, and melting cheese for a quick, flavorful meal."
+  },
+  "timestamp": "2026-02-06T14:53:14.575Z"
+}

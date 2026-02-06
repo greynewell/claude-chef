@@ -1,0 +1,48 @@
+{
+  "contentHash": "a3c7cb36b2aa230a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (10.5 ounce) cans cream of chicken soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream of Chicken Soup"
+      },
+      {
+        "ingredient": "3 (14 ounce) cans chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "3 cups shredded cooked chicken meat",
+        "searchTerm": "cooked chicken",
+        "normalizedName": "Cooked Chicken"
+      },
+      {
+        "ingredient": "2 (10 ounce) cans refrigerated biscuit dough",
+        "searchTerm": "refrigerated biscuit dough",
+        "normalizedName": "Refrigerated Biscuit Dough"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Bring the soup mixture to a simmer before dropping biscuits to ensure even cooking",
+      "Place biscuits directly on the simmering liquid; they'll cook from the heat and steam",
+      "Don't cover the pot while dumplings cook to prevent soggy biscuits"
+    ],
+    "coachingPrompt": "Teach the cook how to make quick dumplings without a separate dough and proper cooking times."
+  },
+  "timestamp": "2026-02-06T19:51:28.148Z"
+}

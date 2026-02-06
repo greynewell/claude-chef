@@ -1,0 +1,73 @@
+{
+  "contentHash": "b1ca15ca8ed62f17",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "2 ½ cups crushed pretzels",
+        "searchTerm": "pretzels",
+        "normalizedName": "Pretzel"
+      },
+      {
+        "ingredient": "1 (6 ounce) package strawberry flavored Jell-O®",
+        "searchTerm": "strawberry Jell-O",
+        "normalizedName": "Strawberry Jell-O"
+      },
+      {
+        "ingredient": "2 cups boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 cups strawberries, chilled",
+        "searchTerm": "strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 (8 ounce) container frozen whipped topping, thawed",
+        "searchTerm": "whipped topping",
+        "normalizedName": "Whipped Topping"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 inch baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "mixer"
+      }
+    ],
+    "cookingTips": [
+      "Pack pretzel crust firmly into bottom of dish so it stays intact through layers",
+      "Let Jell-O mixture cool before pouring over cream cheese layer to prevent melting",
+      "Chill thoroughly between layers to maintain distinct separation and texture contrast"
+    ],
+    "coachingPrompt": "Help the user layer a three-part dessert successfully, managing texture transitions and proper chilling times to maintain integrity of each layer."
+  },
+  "timestamp": "2026-02-06T13:33:59.135Z"
+}

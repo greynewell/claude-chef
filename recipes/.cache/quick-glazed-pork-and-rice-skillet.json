@@ -1,0 +1,48 @@
+{
+  "contentHash": "7757da297105dfa9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 boneless pork chops, 3/4-inch thick",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "3 cups Swanson® Chicken Stock",
+        "searchTerm": "chicken stock",
+        "normalizedName": "Chicken Stock"
+      },
+      {
+        "ingredient": "¾ cup apricot preserves or orange marmalade",
+        "searchTerm": "apricot preserves",
+        "normalizedName": "Apricot Preserve"
+      },
+      {
+        "ingredient": "1 tablespoon Dijon-style mustard",
+        "searchTerm": "dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "2 cups uncooked instant white rice",
+        "searchTerm": "instant white rice",
+        "normalizedName": "Instant White Rice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "spoon for stirring",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown pork chops first for better flavor development",
+      "Rice will absorb the glaze and become tender - don't overcook"
+    ],
+    "coachingPrompt": "How will you prevent the glaze from burning while the rice cooks?"
+  },
+  "timestamp": "2026-02-06T15:43:21.053Z"
+}

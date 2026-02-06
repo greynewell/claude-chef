@@ -1,0 +1,43 @@
+{
+  "contentHash": "a0778a807f9c5367",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups raw whole pumpkin seeds",
+        "searchTerm": "raw pumpkin seeds",
+        "normalizedName": "Raw Pumpkin Seed"
+      },
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 tablespoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Rinse and dry seeds thoroughly to remove any pulp and excess moisture",
+      "Stir occasionally during roasting for even browning",
+      "Remove from oven when golden and fragrant for best flavor"
+    ],
+    "coachingPrompt": "Do you prefer whole or hulled pumpkin seeds? Would you like tips on removing seeds from fresh pumpkins?"
+  },
+  "timestamp": "2026-02-06T20:51:17.459Z"
+}

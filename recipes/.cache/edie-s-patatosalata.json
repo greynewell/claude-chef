@@ -1,0 +1,58 @@
+{
+  "contentHash": "ada7b67edd80eaf5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup extra virgin olive oil",
+        "searchTerm": "extra-virgin olive oil",
+        "normalizedName": "Extra-Virgin Olive Oil"
+      },
+      {
+        "ingredient": "3 tablespoons red wine vinegar",
+        "searchTerm": "red wine vinegar",
+        "normalizedName": "Red Wine Vinegar"
+      },
+      {
+        "ingredient": "1 teaspoon dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      },
+      {
+        "ingredient": "1 red onion, thinly sliced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "5 large red potatoes",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "large bowl",
+        "searchTerm": "large bowl"
+      }
+    ],
+    "cookingTips": [
+      "Boil potatoes in salted water until fork-tender, about 15-20 minutes depending on size",
+      "Dress potatoes while still warm to absorb vinaigrette better",
+      "Allow potato salad to cool to room temperature before refrigerating"
+    ],
+    "coachingPrompt": "Help the user prepare a traditional Greek potato salad with proper timing for warm potato absorption of vinaigrette."
+  },
+  "timestamp": "2026-02-06T06:08:16.622Z"
+}

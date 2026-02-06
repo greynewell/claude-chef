@@ -1,0 +1,82 @@
+{
+  "contentHash": "6865720d9a3be947",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "8 Earl Grey tea bags",
+        "searchTerm": "Earl Grey tea",
+        "normalizedName": "Earl Grey Tea"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "⅓ cup cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "4 egg yolks, lightly beaten",
+        "searchTerm": "egg yolks",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "3 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 teaspoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 (9 inch) baked pie shell",
+        "searchTerm": "pie shell",
+        "normalizedName": "Pie Shell"
+      },
+      {
+        "ingredient": "2 cups heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "pie dish",
+        "searchTerm": "pie dish"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Steep Earl Grey tea bags in hot milk for 5-10 minutes to infuse flavor, then remove bags before whisking with cornstarch",
+      "Temper egg yolks by slowly adding hot milk mixture while whisking to prevent scrambling",
+      "Chill filling completely before pouring into pie shell for cleaner layers"
+    ],
+    "coachingPrompt": "How can you infuse the Earl Grey flavor without over-steeping? What's the best technique for tempering egg yolks?"
+  },
+  "timestamp": "2026-02-06T05:27:03.244Z"
+}

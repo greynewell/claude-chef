@@ -1,0 +1,43 @@
+{
+  "contentHash": "752b863c03f957cb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "16 slices deli ham",
+        "searchTerm": "deli ham",
+        "normalizedName": "Deli Ham"
+      },
+      {
+        "ingredient": "16 slices dill Havarti cheese",
+        "searchTerm": "dill havarti cheese",
+        "normalizedName": "Dill Havarti Cheese"
+      },
+      {
+        "ingredient": "16 frozen soft pretzels (such as SuperPretzel®), thawed",
+        "searchTerm": "soft pretzels",
+        "normalizedName": "Soft Pretzel"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Panini Press",
+        "searchTerm": "panini press"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Slice pretzels lengthwise and layer fillings in even distribution",
+      "Preheat panini press for 5 minutes before cooking for consistent results",
+      "Press just until cheese melts to avoid crushing the soft pretzel bread"
+    ],
+    "coachingPrompt": "How can you prevent the pretzel from becoming too compressed when pressing?"
+  },
+  "timestamp": "2026-02-06T08:40:28.529Z"
+}

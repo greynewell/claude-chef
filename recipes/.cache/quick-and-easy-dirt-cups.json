@@ -1,0 +1,48 @@
+{
+  "contentHash": "a492306d18ab35db",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups cold milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 (4 ounce) package instant chocolate pudding mix",
+        "searchTerm": "chocolate pudding mix",
+        "normalizedName": "Instant Chocolate Pudding Mix"
+      },
+      {
+        "ingredient": "1 (8 ounce) container frozen whipped topping, thawed",
+        "searchTerm": "whipped topping",
+        "normalizedName": "Frozen Whipped Topping"
+      },
+      {
+        "ingredient": "1 (16 ounce) package chocolate sandwich cookies, crushed",
+        "searchTerm": "chocolate sandwich cookies",
+        "normalizedName": "Chocolate Sandwich Cookie"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Individual cups",
+        "searchTerm": "dessert cups"
+      }
+    ],
+    "cookingTips": [
+      "Crush cookies to various sizes for a more textured 'dirt' appearance",
+      "Layer ingredients strategically for visual appeal",
+      "Chill until serving for best texture"
+    ],
+    "coachingPrompt": "How can you make this fun dessert even more visually appealing for kids?"
+  },
+  "timestamp": "2026-02-06T15:36:46.626Z"
+}

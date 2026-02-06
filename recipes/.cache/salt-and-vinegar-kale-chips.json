@@ -1,0 +1,48 @@
+{
+  "contentHash": "8bd3c4b26049039c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 bunch kale",
+        "searchTerm": "kale",
+        "normalizedName": "Kale"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon malt vinegar",
+        "searchTerm": "malt vinegar",
+        "normalizedName": "Malt Vinegar"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Pat kale completely dry after washing to achieve crispiness",
+      "Toss with oil and vinegar, then spread in single layer without overlapping",
+      "Bake at 300°F for 15-20 minutes until crispy, stirring halfway through"
+    ],
+    "coachingPrompt": "What role does removing all moisture from the kale play in achieving crispy chips instead of chewy ones?"
+  },
+  "timestamp": "2026-02-06T16:51:21.299Z"
+}

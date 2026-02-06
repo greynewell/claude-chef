@@ -1,0 +1,53 @@
+{
+  "contentHash": "bfeb61c64a7201d0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (30 ounce) can fruit cocktail, drained thoroughly",
+        "searchTerm": "fruit cocktail",
+        "normalizedName": "Fruit Cocktail"
+      },
+      {
+        "ingredient": "1 (20 ounce) can pineapple chunks, drained thoroughly",
+        "searchTerm": "pineapple chunks",
+        "normalizedName": "Pineapple Chunk"
+      },
+      {
+        "ingredient": "1 (8 ounce) can mandarin oranges, drained thoroughly",
+        "searchTerm": "mandarin oranges",
+        "normalizedName": "Mandarin Orange"
+      },
+      {
+        "ingredient": "1 (10.5 ounce) package miniature marshmallows",
+        "searchTerm": "miniature marshmallows",
+        "normalizedName": "Miniature Marshmallow"
+      },
+      {
+        "ingredient": "1 (24 ounce) container sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Large Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Serving Spoon",
+        "searchTerm": "serving spoon"
+      }
+    ],
+    "cookingTips": [
+      "Drain all canned fruit thoroughly to avoid watery salad",
+      "Mix sour cream gently to keep marshmallows intact",
+      "Chill until serving time for best flavor and texture"
+    ],
+    "coachingPrompt": "Explain how to properly drain canned fruit and why timing of mixing is important for this salad."
+  },
+  "timestamp": "2026-02-05T22:34:28.857Z"
+}

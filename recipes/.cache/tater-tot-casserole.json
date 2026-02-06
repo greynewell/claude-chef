@@ -1,0 +1,58 @@
+{
+  "contentHash": "f066052b04809edf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 medium onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 can Campbell's Condensed Cream of Mushroom Soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 tablespoon ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "1 tablespoon Worcestershire sauce",
+        "searchTerm": "worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "3 cups frozen Tater Tots",
+        "searchTerm": "tater tots",
+        "normalizedName": "Tater Tot"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cook onions with ground beef until soft and beef is browned",
+      "Stir ketchup and Worcestershire sauce into soup mixture thoroughly",
+      "Bake at 350°F for 45 minutes uncovered until tater tots are golden"
+    ],
+    "coachingPrompt": "What flavors do ketchup and Worcestershire sauce add to this casserole?"
+  },
+  "timestamp": "2026-02-06T20:21:31.199Z"
+}

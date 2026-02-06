@@ -1,0 +1,53 @@
+{
+  "contentHash": "26adb154465e8fb2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "3 (15 ounce) cans asparagus, drained",
+        "searchTerm": "canned asparagus",
+        "normalizedName": "Canned Asparagus"
+      },
+      {
+        "ingredient": "2 (10.75 ounce) cans condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream Of Mushroom Soup"
+      },
+      {
+        "ingredient": "2 cups crushed buttery round crackers",
+        "searchTerm": "buttery crackers",
+        "normalizedName": "Buttery Round Cracker"
+      },
+      {
+        "ingredient": "4 ounces shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Drain canned asparagus thoroughly to prevent watery casserole",
+      "Mix cream soup with beaten eggs gently to avoid creating a tough texture",
+      "Reserve some crackers to top casserole just before baking for crispness"
+    ],
+    "coachingPrompt": "How would you upgrade this classic comfort dish with fresh ingredients while maintaining ease of preparation?"
+  },
+  "timestamp": "2026-02-05T22:31:28.173Z"
+}

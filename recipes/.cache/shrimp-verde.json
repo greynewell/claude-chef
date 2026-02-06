@@ -1,0 +1,54 @@
+{
+  "contentHash": "5b44f71ca31106ca",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 cloves garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "¼ cup chopped green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 pound fresh shrimp, peeled and deveined",
+        "searchTerm": "fresh shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "½ cup Italian flat leaf parsley, chopped",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "½ cup freshly grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "Microplane grater",
+        "searchTerm": "microplane grater"
+      }
+    ],
+    "cookingTips": [
+      "Do not overcook shrimp—cook only until pink, about 2-3 minutes per side",
+      "Use fresh parsley for bright flavor and verdant color",
+      "Grate Parmesan cheese fresh for best texture and taste"
+    ],
+    "coachingPrompt": "Help the user create a light, herbaceous sauce that complements the shrimp without overpowering it. Focus on timing to avoid rubbery shrimp."
+  },
+  "timestamp": "2026-02-06T17:45:24.153Z"
+}

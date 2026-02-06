@@ -1,0 +1,48 @@
+{
+  "contentHash": "7544fcbe177645ee",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15.25 ounce) package yellow cake mix",
+        "searchTerm": "yellow cake mix",
+        "normalizedName": "Yellow Cake Mix"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "½ (11 ounce) package chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Cookie Scoop",
+        "searchTerm": "cookie scoop"
+      }
+    ],
+    "cookingTips": [
+      "Mix cake mix with oil and eggs until just combined to avoid overmixing",
+      "Chill dough for 15 minutes before baking for better texture",
+      "Space cookies 2 inches apart on baking sheet for even baking"
+    ],
+    "coachingPrompt": "What consistency should your dough be, and how will you know when cookies are done baking?"
+  },
+  "timestamp": "2026-02-06T01:13:47.872Z"
+}

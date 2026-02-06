@@ -1,0 +1,47 @@
+{
+  "contentHash": "d9392ffc7b2dcc13",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups plain yogurt",
+        "searchTerm": "plain yogurt",
+        "normalizedName": "Plain Yogurt"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cheesecloth",
+        "searchTerm": "cheesecloth"
+      },
+      {
+        "name": "strainer",
+        "searchTerm": "strainer"
+      },
+      {
+        "name": "bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Line strainer with cheesecloth for easy cheese removal",
+      "Refrigerate for 24-48 hours for optimal thickness"
+    ],
+    "coachingPrompt": "This labneh-style yogurt cheese requires patience. How will you monitor drainage progress?"
+  },
+  "timestamp": "2026-02-06T22:19:22.587Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "12158a05be82af92",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon oil",
+        "searchTerm": "cooking oil",
+        "normalizedName": "Cooking Oil"
+      },
+      {
+        "ingredient": "3  eggs, lightly beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 (16 ounce) package frozen stir-fry vegetables, thawed",
+        "searchTerm": "frozen stir-fry vegetables",
+        "normalizedName": "Stir-Fry Vegetable Mix"
+      },
+      {
+        "ingredient": "2 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "2 cups Minute® White Rice, uncooked",
+        "searchTerm": "instant white rice",
+        "normalizedName": "White Rice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Wok or large skillet",
+        "searchTerm": "wok"
+      },
+      {
+        "name": "Large pot or saucepan",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Use instant rice for quick cooking—traditional rice requires pre-cooking",
+      "Push eggs to the side and scramble gently, then combine with rice",
+      "Stir frequently to prevent sticking and ensure even seasoning"
+    ],
+    "coachingPrompt": "This is a quick weeknight recipe—are you comfortable with the timing of cooking rice and stir-fry simultaneously?"
+  },
+  "timestamp": "2026-02-06T19:28:45.474Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "554d5b3fb94ff66e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 pint shucked oysters and juice",
+        "searchTerm": "oysters shucked",
+        "normalizedName": "Oyster"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon Old Bay Seasoning",
+        "searchTerm": "Old Bay seasoning",
+        "normalizedName": "Old Bay Seasoning"
+      },
+      {
+        "ingredient": "½ cup dry pancake mix",
+        "searchTerm": "pancake mix",
+        "normalizedName": "Pancake Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep skillet or Dutch oven",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Candy/deep-fry thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "Slotted spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Keep oil at 350°F for crispy, golden oysters without burning the coating",
+      "Pat oysters dry before breading to minimize splattering and ensure better crust formation",
+      "Fry in small batches to maintain oil temperature and prevent overcrowding"
+    ],
+    "coachingPrompt": "Help the cook achieve crispy, tender fried oysters by managing oil temperature and avoiding overcrowding the pan."
+  },
+  "timestamp": "2026-02-06T05:20:01.327Z"
+}

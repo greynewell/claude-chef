@@ -1,0 +1,58 @@
+{
+  "contentHash": "7af086a3d70a5382",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15 ounce) can chickpeas (garbanzo beans), drained",
+        "searchTerm": "chickpeas",
+        "normalizedName": "Chickpea"
+      },
+      {
+        "ingredient": "½ onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ cucumber, sliced",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "1 small tomato, chopped",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "½ cup red wine vinegar",
+        "searchTerm": "red wine vinegar",
+        "normalizedName": "Red Wine Vinegar"
+      },
+      {
+        "ingredient": "½ cup balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Let salad marinate at least 1 hour for vinegar to penetrate chickpeas",
+      "Balance the two vinegars equally for a complex flavor",
+      "Drain excess liquid before serving to prevent sogginess"
+    ],
+    "coachingPrompt": "Guide the user through creating a tangy, acidic salad where chickpeas absorb vinegar flavors while staying tender."
+  },
+  "timestamp": "2026-02-06T02:47:47.091Z"
+}

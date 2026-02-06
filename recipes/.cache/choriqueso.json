@@ -1,0 +1,47 @@
+{
+  "contentHash": "57d1df5cd46309d9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons corn oil",
+        "searchTerm": "corn oil",
+        "normalizedName": "Corn Oil"
+      },
+      {
+        "ingredient": "8 ounces chorizo sausage",
+        "searchTerm": "chorizo sausage",
+        "normalizedName": "Chorizo Sausage"
+      },
+      {
+        "ingredient": "8 ounces sliced mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 (12 ounce) package corn tortillas",
+        "searchTerm": "corn tortillas",
+        "normalizedName": "Corn Tortilla"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "tortilla warmer",
+        "searchTerm": "tortilla warmer"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Cook chorizo until fully rendered and slightly crispy for best flavor",
+      "Layer mozzarella over warm chorizo in tortillas for melting"
+    ],
+    "coachingPrompt": "What's the balance between fat and protein in chorizo that makes it ideal for cheese dishes?"
+  },
+  "timestamp": "2026-02-06T03:15:44.394Z"
+}

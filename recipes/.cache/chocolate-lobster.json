@@ -1,0 +1,47 @@
+{
+  "contentHash": "6209fc84f6c18878",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 medium (1 1/2 pound) fresh lobster",
+        "searchTerm": "fresh lobster",
+        "normalizedName": "Lobster"
+      },
+      {
+        "ingredient": "4 (1 ounce) squares semisweet chocolate, chopped",
+        "searchTerm": "semisweet chocolate",
+        "normalizedName": "Semisweet Chocolate"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "cooking pot"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Ensure lobster is fresh and humanely prepared before cooking",
+      "Temper chocolate gently to prevent seizing when mixing with warm milk"
+    ],
+    "coachingPrompt": "This unusual combination pairs sweet chocolate with rich lobster. Consider whether the chocolate complements the lobster's natural sweetness or if this is an experimental fusion dish."
+  },
+  "timestamp": "2026-02-06T03:08:56.015Z"
+}

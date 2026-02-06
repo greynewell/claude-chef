@@ -1,0 +1,62 @@
+{
+  "contentHash": "2aec6bc7d6b9d208",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup cottage cheese",
+        "searchTerm": "cottage cheese",
+        "normalizedName": "Cottage Cheese"
+      },
+      {
+        "ingredient": "¾ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 (8.5 ounce) packages corn bread/muffin mix",
+        "searchTerm": "cornbread mix",
+        "normalizedName": "Cornbread Mix"
+      },
+      {
+        "ingredient": "1 (10 ounce) package frozen chopped broccoli, thawed",
+        "searchTerm": "frozen broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "1 large onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 ½ cups shredded Cheddar cheese, divided",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 Baking Pan",
+        "searchTerm": "9x13 baking pan"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Thaw and squeeze excess moisture from frozen broccoli to avoid soggy cornbread",
+      "Reserve half the cheese to sprinkle on top before baking for a golden, cheesy crust"
+    ],
+    "coachingPrompt": "How do I prevent the broccoli from making this cornbread too moist?"
+  },
+  "timestamp": "2026-02-06T00:43:35.173Z"
+}

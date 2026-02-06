@@ -1,0 +1,58 @@
+{
+  "contentHash": "5a4f08bf668fb30c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices bacon",
+        "searchTerm": "bacon slices",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "8 ounces cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 cup shredded sharp Cheddar cheese",
+        "searchTerm": "sharp cheddar cheese",
+        "normalizedName": "Sharp Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon Dijon mustard",
+        "searchTerm": "dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "2 tablespoons finely chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 teaspoon chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then crumble to distribute flavor throughout dip",
+      "Soften cream cheese at room temperature for smooth, lump-free mixing",
+      "Keep dip warm in slow cooker on low setting for serving at parties"
+    ],
+    "coachingPrompt": "Help the user balance the sharpness of cheddar with the tanginess of Dijon mustard for complex flavor."
+  },
+  "timestamp": "2026-02-05T22:51:06.701Z"
+}

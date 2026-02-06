@@ -1,0 +1,57 @@
+{
+  "contentHash": "6d9541604b64df0f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 head cabbage, cored",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "3 slices bacon, cut into 1/2 inch pieces",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pressure cooker",
+        "searchTerm": "pressure cooker"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Render bacon first to infuse fat with smoky flavor",
+      "Pressure cook on high for 5 minutes for tender cabbage with texture"
+    ],
+    "coachingPrompt": "Explain how pressure cooking quickly tenderizes cabbage while bacon and butter create deep, savory flavor in minimal time."
+  },
+  "timestamp": "2026-02-06T18:39:20.489Z"
+}

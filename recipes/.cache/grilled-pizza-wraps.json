@@ -1,0 +1,52 @@
+{
+  "contentHash": "82cb3bd41998e597",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons margarine, softened",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "8 (10 inch) flour tortillas",
+        "searchTerm": "flour tortilla",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "1 (16 ounce) package shredded Cheddar-Monterey Jack cheese blend",
+        "searchTerm": "cheddar monterey jack cheese",
+        "normalizedName": "Cheddar-Monterey Jack Cheese"
+      },
+      {
+        "ingredient": "½ cup pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "4 ounces sliced pepperoni",
+        "searchTerm": "pepperoni",
+        "normalizedName": "Pepperoni"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "grilling tongs"
+      }
+    ],
+    "cookingTips": [
+      "Spread softened margarine on tortillas before grilling to prevent sticking",
+      "Grill on medium heat for 2-3 minutes per side until cheese melts and tortillas crisp"
+    ],
+    "coachingPrompt": "What's the best way to keep the filling from leaking out while grilling these wraps?"
+  },
+  "timestamp": "2026-02-06T08:22:04.025Z"
+}

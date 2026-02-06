@@ -1,0 +1,73 @@
+{
+  "contentHash": "4545e49a424ae070",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 small onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 pounds cubed beef stew meat",
+        "searchTerm": "beef stew meat",
+        "normalizedName": "Beef Stew Meat"
+      },
+      {
+        "ingredient": "5 carrots, peeled and diced",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "8 medium baking potatoes, peeled and cubed",
+        "searchTerm": "baking potato",
+        "normalizedName": "Baking Potato"
+      },
+      {
+        "ingredient": "2 cubes beef bouillon",
+        "searchTerm": "beef bouillon",
+        "normalizedName": "Beef Bouillon Cube"
+      },
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 teaspoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "2 teaspoons salt, or to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pressure Cooker",
+        "searchTerm": "pressure cooker"
+      },
+      {
+        "name": "Peeler",
+        "searchTerm": "vegetable peeler"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cut vegetables evenly so they cook at the same rate",
+      "Don't skip browning the meat for better depth of flavor",
+      "Add potatoes with some carryover cooking time to prevent mushiness"
+    ],
+    "coachingPrompt": "Help the user understand why browning beef develops more flavor and how pressure cooking breaks down collagen into gelatin for a silky sauce."
+  },
+  "timestamp": "2026-02-06T15:18:53.457Z"
+}

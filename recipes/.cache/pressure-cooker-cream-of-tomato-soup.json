@@ -1,0 +1,68 @@
+{
+  "contentHash": "cb3e11bf52f0d164",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups peeled, seeded, and cored tomatoes with juice",
+        "searchTerm": "fresh tomato",
+        "normalizedName": "Fresh Tomato"
+      },
+      {
+        "ingredient": "1 cup chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 ½ teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "1 ½ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup heavy whipping cream",
+        "searchTerm": "heavy whipping cream",
+        "normalizedName": "Heavy Whipping Cream"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pressure Cooker",
+        "searchTerm": "pressure cooker"
+      },
+      {
+        "name": "Immersion Blender",
+        "searchTerm": "immersion blender"
+      },
+      {
+        "name": "Fine Mesh Strainer",
+        "searchTerm": "fine mesh strainer"
+      }
+    ],
+    "cookingTips": [
+      "Baking soda balances acidity from tomatoes and prevents curdling of cream",
+      "Blend soup to desired smoothness after cooking for custom texture",
+      "Add cream slowly after soup cools slightly to prevent separation"
+    ],
+    "coachingPrompt": "Guide the user on why baking soda is essential when mixing acidic tomatoes with dairy and how pressure cooking intensifies tomato flavor."
+  },
+  "timestamp": "2026-02-06T15:18:53.458Z"
+}

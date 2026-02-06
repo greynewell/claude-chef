@@ -1,0 +1,62 @@
+{
+  "contentHash": "69cede1ee2d75441",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 cups raw peanuts",
+        "searchTerm": "peanuts",
+        "normalizedName": "Peanut"
+      },
+      {
+        "ingredient": "1 ½ teaspoons chipotle chile powder",
+        "searchTerm": "chipotle powder",
+        "normalizedName": "Chipotle Powder"
+      },
+      {
+        "ingredient": "1 teaspoon kosher salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "¼ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Heavy saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Candy/deep fry thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "Parchment paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Monitor sugar syrup temperature carefully; aim for soft-ball stage (240°F) for coating",
+      "Spread coated peanuts on parchment immediately and toss frequently as they cool to prevent clumping"
+    ],
+    "coachingPrompt": "Teach the user about sugar stages and how to achieve proper candy coating on nuts."
+  },
+  "timestamp": "2026-02-06T01:12:42.136Z"
+}

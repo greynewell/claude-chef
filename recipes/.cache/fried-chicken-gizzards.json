@@ -1,0 +1,58 @@
+{
+  "contentHash": "e7a2a5eb09d8ad7a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds chicken gizzards",
+        "searchTerm": "chicken gizzards",
+        "normalizedName": "Chicken Gizzard"
+      },
+      {
+        "ingredient": "½ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 ½ tablespoons seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      },
+      {
+        "ingredient": "1 ½ teaspoons ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 ½ teaspoons garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "2 cups vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Clean gizzards thoroughly and remove any tough outer membranes before cooking",
+      "Simmer gizzards briefly before frying to tenderize the tough muscle tissue",
+      "Use high heat and maintain oil temperature around 350°F for crispy exterior"
+    ],
+    "coachingPrompt": "Gizzards are tough. What pre-cooking step ensures tenderness before the final fry?"
+  },
+  "timestamp": "2026-02-06T07:03:51.650Z"
+}

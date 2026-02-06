@@ -1,0 +1,52 @@
+{
+  "contentHash": "2c73d1660dab7524",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 bunch fresh asparagus, trimmed",
+        "searchTerm": "fresh asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "⅓ cup Italian-style dressing (such as Bernstein's Restaurant Recipe®)",
+        "searchTerm": "Italian dressing",
+        "normalizedName": "Italian Dressing"
+      },
+      {
+        "ingredient": "¾ teaspoon lemon pepper",
+        "searchTerm": "lemon pepper",
+        "normalizedName": "Lemon Pepper"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill grates or grill basket",
+        "searchTerm": "grill basket"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Pat asparagus dry before grilling to prevent sticking",
+      "Grill over medium-high heat for 3-4 minutes per side until tender-crisp"
+    ],
+    "coachingPrompt": "What's the best way to prevent thin asparagus spears from falling through the grill grates?"
+  },
+  "timestamp": "2026-02-06T22:20:13.231Z"
+}

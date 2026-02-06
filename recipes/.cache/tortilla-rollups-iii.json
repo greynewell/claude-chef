@@ -1,0 +1,47 @@
+{
+  "contentHash": "e8015a282f6c8b16",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (8 ounce) packages cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (4 ounce) can diced green chile peppers",
+        "searchTerm": "green chile peppers",
+        "normalizedName": "Green Chile Pepper"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "10 (10 inch) flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "spreading knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      }
+    ],
+    "cookingTips": [
+      "Soften cream cheese at room temperature for easier spreading",
+      "Drain excess liquid from canned peppers to prevent soggy rollups"
+    ],
+    "coachingPrompt": "Help me prepare these cream cheese and green chile rollups. Should I warm the tortillas first and how tightly should I roll them?"
+  },
+  "timestamp": "2026-02-06T21:02:53.864Z"
+}

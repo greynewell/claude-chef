@@ -1,0 +1,43 @@
+{
+  "contentHash": "04c893f19dccb5e4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 (1 ounce) package French onion soup mix",
+        "searchTerm": "French onion soup mix",
+        "normalizedName": "French Onion Soup Mix"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Use low-sodium soup mix if available to control salt content",
+      "Let the casserole rest 5 minutes after baking for easier serving"
+    ],
+    "coachingPrompt": "This is a classic comfort casserole. How can we enhance the flavor with fresh herbs or spices while keeping it simple?"
+  },
+  "timestamp": "2026-02-06T02:24:23.792Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "68759e9c63bb88c4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup teriyaki sauce",
+        "searchTerm": "teriyaki sauce",
+        "normalizedName": "Teriyaki Sauce"
+      },
+      {
+        "ingredient": "¾ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 tablespoons minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 (4 ounce) fillets yellowfin tuna",
+        "searchTerm": "yellowfin tuna",
+        "normalizedName": "Tuna"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Fish Spatula",
+        "searchTerm": "fish spatula"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Pat tuna dry before grilling to achieve a better crust",
+      "Use high heat and cook quickly, 2-3 minutes per side, for rare to medium-rare",
+      "Don't overcook tuna or it will become dry and tough"
+    ],
+    "coachingPrompt": "What's the best way to achieve a seared crust while keeping the interior rare?"
+  },
+  "timestamp": "2026-02-06T08:29:19.220Z"
+}

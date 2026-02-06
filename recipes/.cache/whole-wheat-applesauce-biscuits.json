@@ -1,0 +1,63 @@
+{
+  "contentHash": "6752879fc57c67d6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "2 tablespoons baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ½ cups applesauce",
+        "searchTerm": "applesauce",
+        "normalizedName": "Applesauce"
+      },
+      {
+        "ingredient": "¾ cup peanut oil",
+        "searchTerm": "peanut oil",
+        "normalizedName": "Peanut Oil"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Pastry cutter",
+        "searchTerm": "pastry cutter"
+      },
+      {
+        "name": "Mixing bowls",
+        "searchTerm": "mixing bowls"
+      }
+    ],
+    "cookingTips": [
+      "Applesauce provides moisture and replaces some fat",
+      "Don't overwork dough or biscuits will be tough",
+      "Cut biscuits straight down without twisting"
+    ],
+    "coachingPrompt": "These use applesauce for moisture - would you like guidance on adjusting texture or achieving flaky layers?"
+  },
+  "timestamp": "2026-02-06T22:08:25.477Z"
+}

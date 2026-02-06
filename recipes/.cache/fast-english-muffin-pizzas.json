@@ -1,0 +1,48 @@
+{
+  "contentHash": "abc36cf321d2c878",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 English muffins, split",
+        "searchTerm": "english muffins",
+        "normalizedName": "English Muffin"
+      },
+      {
+        "ingredient": "½ cup canned pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "2 cups shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "16 slices pepperoni sausage",
+        "searchTerm": "pepperoni sausage",
+        "normalizedName": "Pepperoni Sausage"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Toast English muffins lightly before adding toppings to prevent sogginess",
+      "Spread sauce evenly and don't oversaturate to maintain structural integrity",
+      "Broil briefly at the end to melt cheese and slightly crisp the pepperoni edges"
+    ],
+    "coachingPrompt": "This is a quick single-serving pizza concept. What vegetables could you add to make them healthier?"
+  },
+  "timestamp": "2026-02-06T06:31:13.519Z"
+}

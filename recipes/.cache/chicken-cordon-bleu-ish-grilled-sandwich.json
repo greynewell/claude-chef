@@ -1,0 +1,53 @@
+{
+  "contentHash": "d9995979ad3a096c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "2 tablespoons margarine, divided",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "2 slices Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "1 cooked chicken breast half",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 tablespoon barbecue sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "2 slices honey-cured deli ham",
+        "searchTerm": "deli ham",
+        "normalizedName": "Deli Ham"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Butter the bread on the outside for a golden, crispy crust",
+      "Cook on medium heat to melt the cheese without burning the bread"
+    ],
+    "coachingPrompt": "How would you assemble this sandwich to ensure even cheese melting?"
+  },
+  "timestamp": "2026-02-06T02:29:47.281Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "f0a770754a657ee4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 teaspoon curry paste",
+        "searchTerm": "curry paste",
+        "normalizedName": "Curry Paste"
+      },
+      {
+        "ingredient": "4 (6 ounce) fillets salmon",
+        "searchTerm": "salmon fillets",
+        "normalizedName": "Salmon Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Mix sour cream and curry paste until smooth before spreading on salmon",
+      "Bake at 375°F for 12-15 minutes until salmon flakes easily with a fork",
+      "Pat salmon dry before baking to ensure even cooking"
+    ],
+    "coachingPrompt": "Would you like guidance on determining when salmon is cooked through without overcooking?"
+  },
+  "timestamp": "2026-02-06T04:52:44.501Z"
+}

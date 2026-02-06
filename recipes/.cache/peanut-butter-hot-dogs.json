@@ -1,0 +1,43 @@
+{
+  "contentHash": "d58d8bb1973f591a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "2 slices whole wheat bread",
+        "searchTerm": "whole wheat bread",
+        "normalizedName": "Whole Wheat Bread"
+      },
+      {
+        "ingredient": "1 banana, peeled",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      }
+    ],
+    "gear": [
+      {
+        "name": "knife",
+        "searchTerm": "kitchen knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "plate",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Slice banana lengthwise to fit in bread like a hot dog",
+      "Spread peanut butter evenly for consistent flavor",
+      "No cooking required—perfect quick snack"
+    ],
+    "coachingPrompt": "This is a simple snack—would you like ideas for making it more appealing or adding nutritional elements?"
+  },
+  "timestamp": "2026-02-06T14:25:35.850Z"
+}

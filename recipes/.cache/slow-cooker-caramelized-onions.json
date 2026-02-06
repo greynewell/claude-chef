@@ -1,0 +1,43 @@
+{
+  "contentHash": "cee5382d29692fec",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "8 onions",
+        "searchTerm": "onions",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Slice onions uniformly for even cooking and consistent caramelization",
+      "Stir occasionally, especially toward the end, to prevent uneven browning",
+      "Caramelizing takes 8-10 hours on low; the slow cooker's gentle heat brings out natural sugars"
+    ],
+    "coachingPrompt": "What's the ideal texture and color for properly caramelized onions and how do you achieve it?"
+  },
+  "timestamp": "2026-02-06T18:06:28.089Z"
+}

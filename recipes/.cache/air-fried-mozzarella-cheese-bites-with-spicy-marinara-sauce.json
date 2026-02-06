@@ -1,0 +1,78 @@
+{
+  "contentHash": "407a743da5be5057",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "egg",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "dried Italian seasoning",
+        "searchTerm": "Italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      },
+      {
+        "ingredient": "panko bread crumbs",
+        "searchTerm": "panko bread crumbs",
+        "normalizedName": "Panko Bread Crumbs"
+      },
+      {
+        "ingredient": "mozzarella cheese sticks",
+        "searchTerm": "mozzarella sticks",
+        "normalizedName": "Mozzarella Cheese Stick"
+      },
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "marinara sauce",
+        "searchTerm": "marinara sauce",
+        "normalizedName": "Marinara Sauce"
+      },
+      {
+        "ingredient": "crushed red pepper",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flakes"
+      }
+    ],
+    "gear": [
+      {
+        "name": "air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "shallow dishes",
+        "searchTerm": "shallow dishes"
+      },
+      {
+        "name": "small saucepan",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Freeze breaded mozzarella bites for at least 2 hours before air frying to prevent cheese from leaking",
+      "Heat marinara sauce on stovetop while mozzarella cooks for convenience",
+      "Don't shake or move mozzarella bites during air frying to keep cheese inside"
+    ],
+    "coachingPrompt": "Guide me through breading the mozzarella, freezing them, air frying until crispy, and serving with spicy marinara."
+  },
+  "timestamp": "2026-02-05T21:37:13.643Z"
+}

@@ -1,0 +1,39 @@
+{
+  "contentHash": "79a04f6a1c70aad4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "15 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "¼ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 teaspoons garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cut bread into uniform cubes so they toast evenly throughout",
+      "Toss bread cubes in melted butter and garlic salt before baking for even coating",
+      "Bake at 375°F for 10-15 minutes, stirring halfway through, until golden and crunchy"
+    ],
+    "coachingPrompt": "Help the cook cut bread uniformly and toast evenly for croutons with crispy exterior and slight interior texture that won't immediately soften in salad."
+  },
+  "timestamp": "2026-02-06T04:42:46.856Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "41b21f421b169f18",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (8 ounce) package processed cheese, cubed",
+        "searchTerm": "processed cheese",
+        "normalizedName": "Processed Cheese"
+      },
+      {
+        "ingredient": "1 (10 ounce) can diced tomatoes with green chile peppers, drained",
+        "searchTerm": "diced tomatoes with green chiles",
+        "normalizedName": "Diced Tomato with Green Chile"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Serving Bowl",
+        "searchTerm": "serving bowl"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly, breaking it up as it cooks for consistent texture",
+      "Add onions early to soften them while beef is cooking",
+      "Stir in cheese off heat or on low heat to prevent curdling"
+    ],
+    "coachingPrompt": "A simple, stovetop nacho dip that's ready in one pan. Will you serve this warm with chips, or use it as a topping for something else?"
+  },
+  "timestamp": "2026-02-06T13:06:48.698Z"
+}

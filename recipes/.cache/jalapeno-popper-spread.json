@@ -1,0 +1,53 @@
+{
+  "contentHash": "46b30a4c7715c976",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (8 ounce) packages cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 (4 ounce) can chopped green chilies, drained",
+        "searchTerm": "green chilies",
+        "normalizedName": "Green Chili"
+      },
+      {
+        "ingredient": "2 ounces canned diced jalapeno peppers, drained",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Food Processor",
+        "searchTerm": "food processor"
+      }
+    ],
+    "cookingTips": [
+      "Ensure cream cheese is fully softened for smooth blending with mayonnaise",
+      "Drain canned peppers thoroughly to avoid excess liquid diluting the spread",
+      "Mix thoroughly until all ingredients are evenly distributed for consistent flavor"
+    ],
+    "coachingPrompt": "Would you blend this spread until completely smooth or leave it slightly chunky for texture?"
+  },
+  "timestamp": "2026-02-06T10:15:43.198Z"
+}

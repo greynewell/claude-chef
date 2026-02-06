@@ -1,0 +1,67 @@
+{
+  "contentHash": "08dae71035ebf036",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 ½ cups frozen whole-kernel corn, thawed",
+        "searchTerm": "frozen corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "¼ cup cornmeal",
+        "searchTerm": "cornmeal",
+        "normalizedName": "Cornmeal"
+      },
+      {
+        "ingredient": "⅓ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons heavy whipping cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "cake pan",
+        "searchTerm": "cake pan"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "mixer"
+      }
+    ],
+    "cookingTips": [
+      "Ensure corn is fully thawed and drained to prevent excess moisture",
+      "Cream butter and sugar until light and fluffy for better texture"
+    ],
+    "coachingPrompt": "This recipe seems incomplete (missing an ingredient quantity). Help the user identify what's missing and suggest standard corn cake ratios."
+  },
+  "timestamp": "2026-02-06T20:03:15.692Z"
+}

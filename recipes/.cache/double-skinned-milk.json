@@ -1,0 +1,43 @@
+{
+  "contentHash": "b796ff1acea94111",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups whole milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "2 egg whites",
+        "searchTerm": "egg whites",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "3 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Heavy-Bottomed Pot",
+        "searchTerm": "heavy-bottomed pot"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Heat milk slowly to 180°F to create first skin layer",
+      "Remove skin gently with fork or spoon to prevent breaking",
+      "Repeat heating process twice for double-skinned result"
+    ],
+    "coachingPrompt": "Double-skinned milk is a delicate dessert requiring precision temperature control. What would happen if you overheated the milk?"
+  },
+  "timestamp": "2026-02-06T05:21:01.104Z"
+}

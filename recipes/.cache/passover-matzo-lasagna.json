@@ -1,0 +1,53 @@
+{
+  "contentHash": "859f699af642be97",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 matzo sheets",
+        "searchTerm": "matzo sheets",
+        "normalizedName": "Matzo Sheet"
+      },
+      {
+        "ingredient": "4 eggs, lightly beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (24 ounce) carton cottage cheese",
+        "searchTerm": "cottage cheese",
+        "normalizedName": "Cottage Cheese"
+      },
+      {
+        "ingredient": "1 (8 ounce) package shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 (28 ounce) jar marinara sauce",
+        "searchTerm": "marinara sauce",
+        "normalizedName": "Marinara Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 Baking Dish",
+        "searchTerm": "9x13 baking dish"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Soften matzo sheets briefly in water before layering to prevent cracking",
+      "Mix eggs with cottage cheese thoroughly to create a smooth, spreadable filling",
+      "Cover with foil during the first half of baking to prevent cheese from browning too quickly"
+    ],
+    "coachingPrompt": "I'm making Passover matzo lasagna for the first time. How do I keep the matzo sheets from breaking while assembling the layers?"
+  },
+  "timestamp": "2026-02-06T14:13:43.876Z"
+}

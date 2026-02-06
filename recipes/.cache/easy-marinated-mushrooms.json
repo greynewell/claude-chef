@@ -1,0 +1,53 @@
+{
+  "contentHash": "7deee8505a9eea4b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "4 (8 ounce) packages fresh mushrooms",
+        "searchTerm": "mushroom",
+        "normalizedName": "Mushroom"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Remove mushroom stems before marinating for better texture",
+      "Simmer rather than boil to preserve mushroom integrity",
+      "Cool completely before storing in refrigerator"
+    ],
+    "coachingPrompt": "Help the user understand the ratio of savory (soy sauce) to sweet (sugar) and how to achieve the right balance for this umami-rich marinade."
+  },
+  "timestamp": "2026-02-06T05:51:21.833Z"
+}

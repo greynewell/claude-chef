@@ -1,0 +1,49 @@
+{
+  "contentHash": "31970f76a26c40ab",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "tilapia fillets",
+        "searchTerm": "tilapia",
+        "normalizedName": "Tilapia"
+      },
+      {
+        "ingredient": "carrots",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "celery stalk",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "shallots",
+        "searchTerm": "shallots",
+        "normalizedName": "Shallot"
+      },
+      {
+        "ingredient": "dry vermouth",
+        "searchTerm": "dry vermouth",
+        "normalizedName": "Dry Vermouth"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      "aluminum foil",
+      "baking sheet",
+      "knife"
+    ],
+    "cookingTips": [
+      "Cut vegetables uniformly so they cook evenly with the fish",
+      "Foil packets trap steam; make sure to seal edges well",
+      "Let packets rest 2 minutes before opening to avoid steam burns"
+    ],
+    "coachingPrompt": "How do I ensure the vegetables and fish finish cooking at the same time in a foil packet?"
+  },
+  "timestamp": "2026-02-05T23:15:22.645Z"
+}

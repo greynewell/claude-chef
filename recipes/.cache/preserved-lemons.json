@@ -1,0 +1,48 @@
+{
+  "contentHash": "d09bb0db57da165d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 large lemons, cut into 8 wedges each",
+        "searchTerm": "fresh lemons",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "¾ cup kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "1 cup lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "¾ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "glass jar with lid",
+        "searchTerm": "mason jar"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "small spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use organic lemons when possible as you'll eat the entire fruit",
+      "Pack jar tightly so lemons release their juices and stay submerged",
+      "They require 3-4 weeks of fermentation before use"
+    ],
+    "coachingPrompt": "Guide the user through the preservation process, explaining how salt draws out moisture and creates a brine that transforms the lemons into a versatile ingredient."
+  },
+  "timestamp": "2026-02-06T15:17:47.450Z"
+}

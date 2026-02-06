@@ -1,0 +1,38 @@
+{
+  "contentHash": "3bdeee2fe5dd3955",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons butter or margarine",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 bunch fresh asparagus",
+        "searchTerm": "fresh asparagus",
+        "normalizedName": "Fresh Asparagus"
+      },
+      {
+        "ingredient": "3 cloves garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Trim woody ends from asparagus before cooking",
+      "Cook until asparagus is tender-crisp, about 5-7 minutes"
+    ],
+    "coachingPrompt": "How do you know when asparagus is cooked to the perfect doneness?"
+  },
+  "timestamp": "2026-02-06T17:02:24.115Z"
+}

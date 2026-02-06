@@ -1,0 +1,48 @@
+{
+  "contentHash": "eed96dfd64acb04b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pints half-and-half cream",
+        "searchTerm": "half-and-half",
+        "normalizedName": "Half-and-Half"
+      },
+      {
+        "ingredient": "3 cups cold brewed coffee",
+        "searchTerm": "brewed coffee",
+        "normalizedName": "Brewed Coffee"
+      },
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "white sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "freezer-safe container",
+        "searchTerm": "freezer container"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cool coffee completely before mixing with half-and-half to prevent curdling",
+      "Stir the mixture every 30 minutes while freezing for a slushy consistency",
+      "Store in freezer and scoop just before serving for best texture"
+    ],
+    "coachingPrompt": "Guide me through making a smooth, creamy coffee slush that stays scoopable in the freezer without becoming rock hard."
+  },
+  "timestamp": "2026-02-06T03:42:41.936Z"
+}

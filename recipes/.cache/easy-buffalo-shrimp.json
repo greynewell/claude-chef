@@ -1,0 +1,53 @@
+{
+  "contentHash": "ca00b106361f7af8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup hot sauce",
+        "searchTerm": "hot sauce",
+        "normalizedName": "Hot Sauce"
+      },
+      {
+        "ingredient": "1 cup canola oil",
+        "searchTerm": "canola oil",
+        "normalizedName": "Canola Oil"
+      },
+      {
+        "ingredient": "1 cup cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "1 pound frozen cooked, peeled, and deveined shrimp, thawed",
+        "searchTerm": "cooked shrimp",
+        "normalizedName": "Cooked Shrimp"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "shallow bowl",
+        "searchTerm": "shallow bowl"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Pat thawed shrimp completely dry before coating to ensure crispy exterior",
+      "Heat oil to 350°F before cooking; use thermometer for consistency",
+      "Coat shrimp in cornstarch just before frying to maintain crispness"
+    ],
+    "coachingPrompt": "How would you adjust cooking time and temperature to achieve optimal crispiness without overcooking?"
+  },
+  "timestamp": "2026-02-06T05:35:00.000Z"
+}

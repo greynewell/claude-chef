@@ -1,0 +1,63 @@
+{
+  "contentHash": "83325a2254caf1cb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ cup baby spinach",
+        "searchTerm": "spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "¼ cup sliced fresh mushrooms",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "1 tablespoon softened butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 slices Swiss cheese",
+        "searchTerm": "swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Sauté mushrooms and spinach in olive oil until mushrooms release their liquid and liquid evaporates for concentrated flavor",
+      "Season fillings well before assembling sandwich so flavors fully develop",
+      "Butter bread on outside generously for golden browning and place cheese between bread and warm fillings for better melting"
+    ],
+    "coachingPrompt": "Guide the user through sautéing vegetables and assembling a grilled sandwich with melted cheese."
+  },
+  "timestamp": "2026-02-06T08:20:21.776Z"
+}

@@ -1,0 +1,68 @@
+{
+  "contentHash": "29af284568326737",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup uncooked short-grain white rice",
+        "searchTerm": "short-grain rice",
+        "normalizedName": "Short-Grain Rice"
+      },
+      {
+        "ingredient": "2 cups whole milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "4 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup whole milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "4 tablespoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "¼ teaspoon ground cinnamon, or more to taste",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Cook rice in water first until tender, then add milk for creamy texture",
+      "Mix cornstarch with cold milk before adding to prevent lumps",
+      "Stir constantly while adding cornstarch mixture to achieve smooth, creamy pudding"
+    ],
+    "coachingPrompt": "Explain the two-stage cooking process and why cornstarch must be properly dissolved before incorporating into hot liquid."
+  },
+  "timestamp": "2026-02-06T16:17:26.049Z"
+}

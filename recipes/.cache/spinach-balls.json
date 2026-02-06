@@ -1,0 +1,68 @@
+{
+  "contentHash": "d24d53f6170524ed",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "spinach",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "bread stuffing mix",
+        "searchTerm": "bread stuffing",
+        "normalizedName": "Bread Stuffing Mix"
+      },
+      {
+        "ingredient": "Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "Italian seasoning",
+        "searchTerm": "italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "ice cream scoop",
+        "searchTerm": "scoop"
+      }
+    ],
+    "cookingTips": [
+      "Drain spinach thoroughly and squeeze out excess moisture",
+      "Use ice cream scoop for uniform ball sizes",
+      "Bake at 350°F for 15-20 minutes until golden brown"
+    ],
+    "coachingPrompt": "Will you freeze these ahead of time, and do you prefer them baked or fried?"
+  },
+  "timestamp": "2026-02-06T19:14:40.647Z"
+}

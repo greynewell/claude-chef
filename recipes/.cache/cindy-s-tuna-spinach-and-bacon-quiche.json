@@ -1,0 +1,73 @@
+{
+  "contentHash": "f9233729439980d2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup blue cheese salad dressing",
+        "searchTerm": "blue cheese dressing",
+        "normalizedName": "Blue Cheese Salad Dressing"
+      },
+      {
+        "ingredient": "1 teaspoon cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "¼ cup thawed frozen chopped spinach",
+        "searchTerm": "frozen chopped spinach",
+        "normalizedName": "Frozen Chopped Spinach"
+      },
+      {
+        "ingredient": "1 (12 ounce) can solid white tuna packed in water, drained",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Canned Tuna"
+      },
+      {
+        "ingredient": "3 slices bacon strips, cooked and chopped",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "6 ounces Swiss cheese, shredded",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "1 (9 inch) unbaked pie shell",
+        "searchTerm": "pie shell",
+        "normalizedName": "Pie Shell"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9-inch pie pan",
+        "searchTerm": "pie pan"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Squeeze frozen spinach dry to remove excess moisture that could make the quiche watery",
+      "Drain tuna well and break into flakes rather than chunking",
+      "Use a pie shield or foil around the crust edges to prevent over-browning"
+    ],
+    "coachingPrompt": "Teach the user how to assemble a quick quiche with canned ingredients, explain the importance of removing excess moisture from vegetables, and guide them through proper baking time."
+  },
+  "timestamp": "2026-02-06T03:21:52.128Z"
+}

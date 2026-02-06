@@ -1,0 +1,63 @@
+{
+  "contentHash": "db8753ace9358b50",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices bacon, cut crosswise into 1/4-inch pieces",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 white potatoes, cubed",
+        "searchTerm": "white potato",
+        "normalizedName": "White Potato"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "4 eggs, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cast iron skillet",
+        "searchTerm": "cast iron skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Bowl for beating eggs",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy; reserve grease in skillet to cook potatoes for flavor",
+      "Cut potatoes into small cubes so they cook through in reasonable time",
+      "Push potatoes and onions to the sides, pour in eggs, and fold gently until set"
+    ],
+    "coachingPrompt": "What's the best way to ensure the potatoes are tender while the bacon stays crispy in this one-skillet breakfast?"
+  },
+  "timestamp": "2026-02-06T01:16:48.919Z"
+}

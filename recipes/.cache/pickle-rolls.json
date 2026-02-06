@@ -1,0 +1,44 @@
+{
+  "contentHash": "b558f1f30d74f18d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (32 ounce) jar dill pickles",
+        "searchTerm": "dill pickles",
+        "normalizedName": "Dill Pickle"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 pound sliced ham",
+        "searchTerm": "sliced ham",
+        "normalizedName": "Sliced Ham"
+      },
+      {
+        "ingredient": "10 (6 inch) flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Pat pickles dry with paper towels to prevent filling from becoming soggy",
+      "Soften cream cheese at room temperature for 30 minutes for easier spreading",
+      "Slice rolls with a sharp serrated knife and a gentle sawing motion to maintain shape"
+    ],
+    "coachingPrompt": "How will you balance the moisture from the pickles to keep the tortillas from getting too wet, and what's your strategy for keeping these rolls intact?"
+  },
+  "timestamp": "2026-02-06T14:44:29.315Z"
+}

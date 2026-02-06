@@ -1,0 +1,73 @@
+{
+  "contentHash": "8620e2abd07e7ca3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "jalapeno pepper",
+        "searchTerm": "jalapeno",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "chicken tenders",
+        "searchTerm": "chicken tenders",
+        "normalizedName": "Chicken Tender"
+      },
+      {
+        "ingredient": "bacon slices",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "toothpicks",
+        "searchTerm": "toothpicks",
+        "normalizedName": "Toothpick"
+      },
+      {
+        "ingredient": "pepper jelly",
+        "searchTerm": "pepper jelly",
+        "normalizedName": "Pepper Jelly"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Knife for prepping",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Make a slit lengthwise in each chicken tender to create a pocket for the cream cheese filling",
+      "Wrap bacon tightly around each tender and secure with toothpick to hold filling in place",
+      "Bake at 400°F until bacon is crispy and chicken reaches 165°F internally, about 25-30 minutes"
+    ],
+    "coachingPrompt": "Help the cook understand how to stuff delicate chicken tenders without them splitting and keep bacon wrapped during cooking."
+  },
+  "timestamp": "2026-02-06T02:26:30.635Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "f6439a0f7c6e2c34",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound bacon, cut into 1/4 inch pieces",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 pound ground chuck",
+        "searchTerm": "ground chuck",
+        "normalizedName": "Ground Chuck"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "4 slices American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Render the bacon first and use the fat to brown the ground chuck",
+      "The cream of mushroom soup creates a rich, savory sauce"
+    ],
+    "coachingPrompt": "Explain how bacon fat enhances the beef flavor and how the soup acts as a binder."
+  },
+  "timestamp": "2026-02-06T18:02:14.167Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "0cfc1a90b78a84d8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 medium potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "3 tablespoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 quart oil for deep frying",
+        "searchTerm": "frying oil",
+        "normalizedName": "Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mandoline slicer",
+        "searchTerm": "mandoline slicer"
+      },
+      {
+        "name": "deep pot or deep fryer",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "slotted spoon or skimmer",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Slice potatoes as thin as possible with a mandoline for even, crispy chips",
+      "Soak sliced potatoes in ice water for 30 minutes to remove excess starch for crispier results",
+      "Heat oil to 350°F and fry in small batches for 2-3 minutes until golden; drain on paper towels"
+    ],
+    "coachingPrompt": "How do I prevent my homemade potato chips from being greasy while keeping them crispy?"
+  },
+  "timestamp": "2026-02-06T09:19:09.788Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "a436c6d2c89d77bd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (14.75 ounce) can salmon",
+        "searchTerm": "canned salmon",
+        "normalizedName": "Canned Salmon"
+      },
+      {
+        "ingredient": "1 tablespoon wasabi paste",
+        "searchTerm": "wasabi paste",
+        "normalizedName": "Wasabi Paste"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¾ cup chopped sweet pickles",
+        "searchTerm": "sweet pickles",
+        "normalizedName": "Sweet Pickle"
+      },
+      {
+        "ingredient": "½ pint grape tomatoes, halved",
+        "searchTerm": "grape tomatoes",
+        "normalizedName": "Grape Tomato"
+      },
+      {
+        "ingredient": "4 French or Italian sandwich rolls, split",
+        "searchTerm": "sandwich rolls",
+        "normalizedName": "Sandwich Roll"
+      },
+      {
+        "ingredient": "4 slices provolone cheese",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Drain canned salmon well and check for bones, removing any you find",
+      "Mix wasabi thoroughly with mayo to distribute heat evenly",
+      "Toast rolls lightly before assembly to prevent sogginess from toppings"
+    ],
+    "coachingPrompt": "How would you prevent the sandwich from becoming soggy while maintaining the melt?"
+  },
+  "timestamp": "2026-02-06T19:06:16.346Z"
+}

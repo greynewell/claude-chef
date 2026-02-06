@@ -1,0 +1,48 @@
+{
+  "contentHash": "6e5b11e6681c1316",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 large eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ teaspoon white vinegar",
+        "searchTerm": "white vinegar",
+        "normalizedName": "White Vinegar"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon unsalted butter, or as needed",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Electric mixer",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Separate eggs carefully with no yolk in whites, and add vinegar to help whites whip to peaks",
+      "Whip egg whites until stiff peaks form for light, airy clouds",
+      "Cook on very low heat to prevent browning while setting the whites"
+    ],
+    "coachingPrompt": "Guide the user on properly whipping egg whites to achieve the cloud-like texture and gentle cooking technique."
+  },
+  "timestamp": "2026-02-06T02:01:41.070Z"
+}

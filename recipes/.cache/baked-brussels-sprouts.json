@@ -1,0 +1,63 @@
+{
+  "contentHash": "4b75a861736587a8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds Brussels sprouts, ends trimmed and yellow leaves removed",
+        "searchTerm": "brussels sprouts",
+        "normalizedName": "Brussels Sprout"
+      },
+      {
+        "ingredient": "½ cup butter, cut into pieces",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "¼ cup fresh lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "¼ cup pine nuts",
+        "searchTerm": "pine nuts",
+        "normalizedName": "Pine Nut"
+      },
+      {
+        "ingredient": "½ cup crumbled blue cheese",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Cut Brussels sprouts in half for even cooking and browning",
+      "Roast at 425°F for 25-30 minutes, stirring halfway, until caramelized",
+      "Add blue cheese and lemon juice after roasting to preserve flavors"
+    ],
+    "coachingPrompt": "Help the user achieve crispy, caramelized exteriors while keeping insides tender, then top with complementary flavors."
+  },
+  "timestamp": "2026-02-05T23:00:03.767Z"
+}

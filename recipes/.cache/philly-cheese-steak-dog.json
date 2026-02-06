@@ -1,0 +1,58 @@
+{
+  "contentHash": "08affefb4b5e64d1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ large onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ pound shaved rib-eye, chopped",
+        "searchTerm": "rib-eye beef",
+        "normalizedName": "Rib-Eye Beef"
+      },
+      {
+        "ingredient": "8 hot dogs",
+        "searchTerm": "hot dogs",
+        "normalizedName": "Hot Dog"
+      },
+      {
+        "ingredient": "8 hot dog buns",
+        "searchTerm": "hot dog buns",
+        "normalizedName": "Hot Dog Bun"
+      },
+      {
+        "ingredient": "1 (8 ounce) jar processed cheese spread (such as Cheese Whiz®)",
+        "searchTerm": "cheese whiz",
+        "normalizedName": "Processed Cheese Spread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "large skillet or sauté pan"
+      },
+      {
+        "name": "Grill or Griddle",
+        "searchTerm": "grill or griddle"
+      },
+      {
+        "name": "Small Saucepan",
+        "searchTerm": "small saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Cook shaved beef and onions together in skillet for maximum flavor integration",
+      "Warm cheese spread gently in small pan to maintain pourable consistency",
+      "Toast hot dog buns lightly for better texture and to prevent sogginess from toppings"
+    ],
+    "coachingPrompt": "Show me how to top a hot dog with sautéed beef and onions, then drizzle with warm cheese for a Philly-style dog."
+  },
+  "timestamp": "2026-02-06T14:42:27.697Z"
+}

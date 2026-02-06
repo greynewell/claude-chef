@@ -1,0 +1,63 @@
+{
+  "contentHash": "dabf8bb5aed18ed2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "leftover chicken carcass",
+        "searchTerm": "chicken carcass",
+        "normalizedName": "Chicken Carcass"
+      },
+      {
+        "ingredient": "onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "apple cider vinegar",
+        "searchTerm": "apple cider vinegar",
+        "normalizedName": "Apple Cider Vinegar"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "aluminum foil",
+        "searchTerm": "aluminum foil",
+        "normalizedName": "Aluminum Foil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot with lid",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Strainer or cheesecloth",
+        "searchTerm": "strainer"
+      },
+      {
+        "name": "Storage containers",
+        "searchTerm": "storage containers"
+      }
+    ],
+    "cookingTips": [
+      "Simmer broth gently for 12-24 hours to extract maximum gelatin and nutrients from bones",
+      "Add apple cider vinegar to help leach minerals from the bones into the liquid",
+      "Strain through cheesecloth for a clear broth; refrigerate to allow fat to solidify on top for easy removal"
+    ],
+    "coachingPrompt": "Teach the cook about long, slow simmering to extract maximum nutrition and why acid helps release minerals from bones."
+  },
+  "timestamp": "2026-02-06T02:26:30.636Z"
+}

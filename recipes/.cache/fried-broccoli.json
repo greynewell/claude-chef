@@ -1,0 +1,48 @@
+{
+  "contentHash": "741923b5637c20d2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package frozen broccoli, thawed",
+        "searchTerm": "frozen broccoli",
+        "normalizedName": "Frozen Broccoli"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ teaspoon crushed red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "salt, to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Thaw and pat broccoli dry to remove excess moisture for crispiness",
+      "Use high heat to get broccoli edges crispy and caramelized",
+      "Taste and adjust red pepper flakes for desired heat level"
+    ],
+    "coachingPrompt": "Guide me through pan-frying broccoli with olive oil and red pepper until crispy and charred."
+  },
+  "timestamp": "2026-02-06T07:02:43.281Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "604c5ad7d80021a9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup unsalted butter",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon chopped fresh dill",
+        "searchTerm": "fresh dill",
+        "normalizedName": "Fresh Dill"
+      },
+      {
+        "ingredient": "3 egg yolks",
+        "searchTerm": "egg yolks",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "1 tablespoon boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "double boiler",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "instant read thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Keep heat low to prevent curdling egg yolks",
+      "Add butter slowly while whisking continuously for emulsion"
+    ],
+    "coachingPrompt": "Guide the user through the emulsification process and proper temperature control for silky hollandaise."
+  },
+  "timestamp": "2026-02-06T05:43:24.509Z"
+}

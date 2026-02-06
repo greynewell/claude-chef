@@ -1,0 +1,78 @@
+{
+  "contentHash": "412efb400144536f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound pork steak",
+        "searchTerm": "pork steak",
+        "normalizedName": "Pork Steak"
+      },
+      {
+        "ingredient": "½ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 teaspoons ground paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 tomatoes, finely chopped",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 cube beef bouillon",
+        "searchTerm": "beef bouillon",
+        "normalizedName": "Beef Bouillon"
+      },
+      {
+        "ingredient": "¾ cup water, divided",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Shallow dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Dredge pork in seasoned flour just before cooking to maintain coating",
+      "Brown the steak first in butter for color, then build sauce in same pan",
+      "Simmer sauce gently to prevent paprika from scorching"
+    ],
+    "coachingPrompt": "Guide the user through the pan-searing technique and explain how to build a paprika sauce that complements pork."
+  },
+  "timestamp": "2026-02-06T15:08:37.303Z"
+}

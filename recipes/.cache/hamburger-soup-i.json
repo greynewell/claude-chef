@@ -1,0 +1,88 @@
+{
+  "contentHash": "66bff701156207fd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 cup chopped carrots",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 cup chopped celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "6 cubes beef bouillon",
+        "searchTerm": "beef bouillon",
+        "normalizedName": "Beef Bouillon"
+      },
+      {
+        "ingredient": "5 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (8 ounce) can tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "1 (16 ounce) can diced tomatoes",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 (10 ounce) package frozen corn kernels",
+        "searchTerm": "frozen corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "1 teaspoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "3 tablespoons ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Cutting board and knife",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef first, then sauté vegetables together to build a flavor base",
+      "Add liquids and bouillon, bringing to a boil before reducing to simmer",
+      "Add frozen corn near the end of cooking to preserve its bright color and texture"
+    ],
+    "coachingPrompt": "Guide the cook through building layers of flavor by browning meat first, sautéing vegetables, and simmering together."
+  },
+  "timestamp": "2026-02-06T08:44:34.909Z"
+}

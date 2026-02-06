@@ -1,0 +1,53 @@
+{
+  "contentHash": "dcaaeeb65bdc5032",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 cups tightly packed chopped romaine lettuce",
+        "searchTerm": "romaine lettuce",
+        "normalizedName": "Romaine Lettuce"
+      },
+      {
+        "ingredient": "1 pound cooked boneless skinless chicken breasts, cut into strips",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "½ cup CRACKER BARREL Finely Shredded 100% Parmesan Cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "½ cup seasoned croutons",
+        "searchTerm": "croutons",
+        "normalizedName": "Crouton"
+      },
+      {
+        "ingredient": "¼ cup KRAFT Creamy Caesar Dressing",
+        "searchTerm": "caesar dressing",
+        "normalizedName": "Caesar Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Tear romaine lettuce by hand rather than cutting to prevent browning",
+      "Add dressing just before serving to keep salad crisp",
+      "Use room temperature chicken for better flavor integration"
+    ],
+    "coachingPrompt": "Guide the user to assemble the salad components separately and combine just before serving for optimal freshness and texture."
+  },
+  "timestamp": "2026-02-06T03:31:45.336Z"
+}

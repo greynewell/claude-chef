@@ -1,0 +1,42 @@
+{
+  "contentHash": "bafde3f81f2a7b6f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 bunch kale",
+        "searchTerm": "kale",
+        "normalizedName": "Kale"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "4 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Remove tough kale stems before cooking for better texture",
+      "Mince garlic finely to distribute flavor evenly throughout the dish"
+    ],
+    "coachingPrompt": "How will you know when the kale is tender but still has a slight chew?"
+  },
+  "timestamp": "2026-02-06T07:19:14.391Z"
+}

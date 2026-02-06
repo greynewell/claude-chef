@@ -1,0 +1,72 @@
+{
+  "contentHash": "61f884953b164dfb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup vegetable oil for frying, or as needed",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "4 (3.5 inch square) wonton wrappers, cut into strips",
+        "searchTerm": "wonton wrappers",
+        "normalizedName": "Wonton Wrapper"
+      },
+      {
+        "ingredient": "1 (16 ounce) package pizza dough",
+        "searchTerm": "pizza dough",
+        "normalizedName": "Pizza Dough"
+      },
+      {
+        "ingredient": "6 ounces cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "6 tablespoons chopped green onions, divided",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "¼ cup shredded Parmesan cheese, divided",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "4 ounces frozen crab meat, thawed",
+        "searchTerm": "frozen crab meat",
+        "normalizedName": "Crab Meat"
+      },
+      {
+        "ingredient": "4 ounces shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons sweet chili sauce",
+        "searchTerm": "sweet chili sauce",
+        "normalizedName": "Sweet Chili Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pizza pan or baking sheet",
+        "searchTerm": "pizza pan"
+      },
+      {
+        "name": "Deep fryer or heavy pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "cooking thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Fry wonton strips until golden and crispy to use as pizza topping",
+      "Blend cream cheese with crab meat for smoother spreading on pizza base"
+    ],
+    "coachingPrompt": "Help the user understand how to crisp wonton strips separately before using them as a textural topping on the pizza."
+  },
+  "timestamp": "2026-02-06T04:03:50.216Z"
+}

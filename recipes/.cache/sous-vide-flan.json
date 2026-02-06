@@ -1,0 +1,52 @@
+{
+  "contentHash": "5c4b76986ea4c1d9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 (14 ounce) can sweetened condensed milk",
+        "searchTerm": "sweetened condensed milk",
+        "normalizedName": "Sweetened Condensed Milk"
+      },
+      {
+        "ingredient": "1 (12 fluid ounce) can evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      },
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 tablespoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sous Vide Machine",
+        "searchTerm": "immersion circulator"
+      },
+      {
+        "name": "Mason Jars",
+        "searchTerm": "4-ounce mason jars"
+      },
+      {
+        "name": "Water Bath Container",
+        "searchTerm": "large pot"
+      }
+    ],
+    "cookingTips": [
+      "Cook flan at 167°F (75°C) for silky, delicate custard without cracks or curdling",
+      "Caramelize sugar in jar before adding custard mixture for classic flan presentation"
+    ],
+    "coachingPrompt": "Explain how sous vide's gentle, even heat prevents the common flan problem of cracks and ensures a perfectly smooth, creamy texture."
+  },
+  "timestamp": "2026-02-06T18:38:23.425Z"
+}

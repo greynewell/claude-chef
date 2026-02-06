@@ -1,0 +1,44 @@
+{
+  "contentHash": "8cdb710c9cf39e97",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 orange, peeled",
+        "searchTerm": "orange",
+        "normalizedName": "Orange"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 leaf kale, torn into several pieces",
+        "searchTerm": "kale",
+        "normalizedName": "Kale"
+      },
+      {
+        "ingredient": "2 ripe bananas, peeled",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "glass",
+        "searchTerm": "drinking glass"
+      }
+    ],
+    "cookingTips": [
+      "Use very ripe bananas for natural sweetness and smooth texture",
+      "Add kale last and blend thoroughly to eliminate leafy bits",
+      "Serve immediately for best nutrient retention"
+    ],
+    "coachingPrompt": "How can you make a smoothie taste great while hiding leafy greens?"
+  },
+  "timestamp": "2026-02-06T10:34:53.358Z"
+}

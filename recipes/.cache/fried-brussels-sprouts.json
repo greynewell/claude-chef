@@ -1,0 +1,58 @@
+{
+  "contentHash": "fd5192e869dec960",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices bacon, cut into bite-size pieces",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "½ onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (12 ounce) package fresh Brussels sprouts, trimmed and sliced",
+        "searchTerm": "brussels sprouts",
+        "normalizedName": "Brussels Sprout"
+      },
+      {
+        "ingredient": "2 tablespoons white sugar, or to taste (Optional)",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon first until crispy, then use the rendered fat to cook Brussels sprouts",
+      "Slice Brussels sprouts thinly and evenly for consistent cooking",
+      "Don't stir too frequently—let them sit to develop caramelized edges"
+    ],
+    "coachingPrompt": "Show me how to make crispy fried Brussels sprouts with bacon and caramelized edges."
+  },
+  "timestamp": "2026-02-06T07:02:43.281Z"
+}

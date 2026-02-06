@@ -1,0 +1,49 @@
+{
+  "contentHash": "29ca512a333dd32b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅔ cup unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon pure vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Whisk cocoa powder with sugar and salt before adding water to break up lumps",
+      "Simmer gently for 1-2 minutes to develop chocolate flavor",
+      "Sauce will thicken slightly as it cools; thin with water if needed"
+    ],
+    "coachingPrompt": "Will you be using this sauce warm or at room temperature, and what will you be drizzling it on?"
+  },
+  "timestamp": "2026-02-06T04:58:05.046Z"
+}

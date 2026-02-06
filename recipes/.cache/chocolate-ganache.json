@@ -1,0 +1,43 @@
+{
+  "contentHash": "a857b043d9249aa4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "9 ounces bittersweet chocolate, chopped",
+        "searchTerm": "bittersweet chocolate",
+        "normalizedName": "Bittersweet Chocolate"
+      },
+      {
+        "ingredient": "1 cup heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "1 tablespoon dark rum (Optional)",
+        "searchTerm": "dark rum",
+        "normalizedName": "Dark Rum"
+      }
+    ],
+    "gear": [
+      {
+        "name": "double boiler",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Use high-quality chocolate for superior flavor and texture",
+      "Pour hot cream over chopped chocolate and let sit 1 minute before stirring",
+      "Cool ganache to desired consistency before using as glaze or filling"
+    ],
+    "coachingPrompt": "Help the user understand ganache consistency variations and how to achieve pourable, spreadable, or piping textures based on cooling time."
+  },
+  "timestamp": "2026-02-06T03:08:01.747Z"
+}

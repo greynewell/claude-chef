@@ -1,0 +1,63 @@
+{
+  "contentHash": "d40706c11b56c12d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices maple-cured bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "5 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "4 slices whole wheat bread",
+        "searchTerm": "whole wheat bread",
+        "normalizedName": "Whole Wheat Bread"
+      },
+      {
+        "ingredient": "5 tablespoons apricot jelly",
+        "searchTerm": "apricot jelly",
+        "normalizedName": "Apricot Jelly"
+      },
+      {
+        "ingredient": "cayenne pepper to taste",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "1 Granny Smith apple, cored and thinly sliced",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "3 tablespoons softened butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill pan",
+        "searchTerm": "grill pan"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy and drain on paper towels",
+      "Butter bread generously and grill until golden brown on both sides",
+      "Toast bread on grill at medium heat to achieve crispy exterior without burning"
+    ],
+    "coachingPrompt": "Help the user achieve evenly toasted bread with crispy bacon while keeping the peanut butter and jelly spread intact."
+  },
+  "timestamp": "2026-02-06T08:10:19.108Z"
+}

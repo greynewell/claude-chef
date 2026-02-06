@@ -1,0 +1,48 @@
+{
+  "contentHash": "84ed2626b3df3e7b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices sourdough bread",
+        "searchTerm": "sourdough bread",
+        "normalizedName": "Sourdough Bread"
+      },
+      {
+        "ingredient": "2 ounces goat cheese, or more to taste",
+        "searchTerm": "goat cheese",
+        "normalizedName": "Goat Cheese"
+      },
+      {
+        "ingredient": "1 ½ tablespoons mango chutney (such as Patak's®), or more to taste",
+        "searchTerm": "mango chutney",
+        "normalizedName": "Mango Chutney"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "sandwich press",
+        "searchTerm": "sandwich press"
+      },
+      {
+        "name": "small spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Spread goat cheese evenly on bread before adding chutney",
+      "Butter the outside of bread for golden, crispy results",
+      "Grill over medium heat to prevent burning while cheese melts"
+    ],
+    "coachingPrompt": "Help the user balance the tangy goat cheese with sweet mango chutney and achieve optimal cheese melting."
+  },
+  "timestamp": "2026-02-06T08:16:33.678Z"
+}

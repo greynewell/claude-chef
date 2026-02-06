@@ -1,0 +1,47 @@
+{
+  "contentHash": "3dd54ab22c406d78",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "24 (1 ounce) sticks string cheese",
+        "searchTerm": "string cheese",
+        "normalizedName": "String Cheese"
+      },
+      {
+        "ingredient": "5 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "3 cups Italian seasoned bread crumbs",
+        "searchTerm": "Italian bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "1 quart vegetable oil for frying, or as needed",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep fryer or heavy pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Freeze cheese sticks before breading for best results - prevents excessive cheese leakage",
+      "Oil temperature should be 350°F for golden exterior and melted interior"
+    ],
+    "coachingPrompt": "Guide the user on the importance of oil temperature and timing to achieve crispy outside and creamy inside."
+  },
+  "timestamp": "2026-02-06T09:10:26.089Z"
+}

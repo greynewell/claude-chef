@@ -1,0 +1,63 @@
+{
+  "contentHash": "946ab3c8690150b1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "⅔ cup bourbon whiskey",
+        "searchTerm": "bourbon",
+        "normalizedName": "Bourbon"
+      },
+      {
+        "ingredient": "½ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "¼ cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "3 tablespoons Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "4 (6 ounce) beef rib-eye steaks",
+        "searchTerm": "rib-eye steak",
+        "normalizedName": "Rib-Eye Steak"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Skillet or Grill",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Marinate steaks for at least 4 hours, but preferably overnight, for deep flavor penetration",
+      "Remove steaks from marinade 30 minutes before cooking to bring them to room temperature",
+      "Cook steaks to 130-135°F for medium-rare; don't overcook or the bourbon marinade flavors can overpower the meat"
+    ],
+    "coachingPrompt": "This marinade has a nice balance of savory and sweet. How much time do you have? Longer marinating time will give you more bourbon flavor in the steak."
+  },
+  "timestamp": "2026-02-06T00:31:00.363Z"
+}

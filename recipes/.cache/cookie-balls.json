@@ -1,0 +1,43 @@
+{
+  "contentHash": "d2ee4b44e0428f5e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound chocolate sandwich cookies, crushed",
+        "searchTerm": "chocolate sandwich cookie",
+        "normalizedName": "Chocolate Sandwich Cookie"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 pound vanilla-flavored candy coating, melted",
+        "searchTerm": "vanilla candy coating",
+        "normalizedName": "Vanilla Candy Coating"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food processor or bag and rolling pin",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Microwave-safe bowl",
+        "searchTerm": "microwave bowl"
+      }
+    ],
+    "cookingTips": [
+      "Crush cookies finely for even texture and easier rolling",
+      "Chill cookie-cheese mixture for at least 1 hour before rolling into balls",
+      "Dip balls in melted candy coating and place on parchment to set quickly"
+    ],
+    "coachingPrompt": "Guide the user to combine crushed cookies with cream cheese, form balls, chill, and dip in white chocolate coating."
+  },
+  "timestamp": "2026-02-06T03:47:57.043Z"
+}

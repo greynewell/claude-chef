@@ -1,0 +1,62 @@
+{
+  "contentHash": "5b264e5243a179a5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 ripe bananas, mashed",
+        "searchTerm": "ripe bananas",
+        "normalizedName": "Ripe Banana"
+      },
+      {
+        "ingredient": "½ cup melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¾ cup almond flour",
+        "searchTerm": "almond flour",
+        "normalizedName": "Almond Flour"
+      },
+      {
+        "ingredient": "¾ cup whole wheat pastry flour",
+        "searchTerm": "whole wheat pastry flour",
+        "normalizedName": "Whole Wheat Pastry Flour"
+      },
+      {
+        "ingredient": "1 teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Muffin tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "Muffin liners",
+        "searchTerm": "muffin liners"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Almond flour can brown quickly; check muffins at 18 minutes to prevent over-baking",
+      "Mash bananas thoroughly to ensure even moisture distribution throughout the batter"
+    ],
+    "coachingPrompt": "Guide the user through working with almond flour and how it changes texture compared to all-purpose flour."
+  },
+  "timestamp": "2026-02-05T23:19:00.879Z"
+}

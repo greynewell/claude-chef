@@ -1,0 +1,47 @@
+{
+  "contentHash": "6a5ea558ea215e8e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "crepe pan",
+        "searchTerm": "crepe pan"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Let batter rest 30 minutes for better texture and easier cooking",
+      "Use a non-stick crepe pan or well-seasoned traditional crepe maker"
+    ],
+    "coachingPrompt": "Classic crepes require practice to perfect. Are you comfortable with delicate, thin batter cooking?"
+  },
+  "timestamp": "2026-02-06T00:37:43.342Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "a9902600f1e6ac0e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 lemons",
+        "searchTerm": "lemons",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "6 cups cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Citrus juicer or reamer",
+        "searchTerm": "citrus juicer"
+      },
+      {
+        "name": "Large pitcher",
+        "searchTerm": "pitcher"
+      },
+      {
+        "name": "Stirring spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Roll lemons on counter before juicing to release more juice",
+      "Dissolve sugar in warm water first, then add lemon juice and cold water",
+      "Chill thoroughly and serve over ice with fresh lemon slices"
+    ],
+    "coachingPrompt": "Explain how to maximize juice extraction from lemons and balance sweetness to tartness."
+  },
+  "timestamp": "2026-02-06T13:33:01.127Z"
+}

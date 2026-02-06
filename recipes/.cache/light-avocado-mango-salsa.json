@@ -1,0 +1,63 @@
+{
+  "contentHash": "80dc6ff68dacc2da",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 large avocado, diced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 mango, diced",
+        "searchTerm": "mango",
+        "normalizedName": "Mango"
+      },
+      {
+        "ingredient": "½ red onion, diced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "5 strawberries, diced",
+        "searchTerm": "strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "1 lime, juiced",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "Salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "Salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Prepare just before serving to maintain freshness",
+      "Lime juice prevents avocado browning",
+      "Balance sweetness of mango with lime acidity"
+    ],
+    "coachingPrompt": "What order should you prepare and combine ingredients to keep this salsa fresh and vibrant?"
+  },
+  "timestamp": "2026-02-06T11:23:19.523Z"
+}

@@ -1,0 +1,49 @@
+{
+  "contentHash": "84a65ffa4dd625a3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 large eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tomatoes, coarsely chopped",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 ½ teaspoons sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 dash soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Chop tomatoes coarsely to maintain texture and prevent mushiness",
+      "Add sugar to balance acidity from fresh tomatoes",
+      "Use low to medium heat to prevent eggs from becoming rubbery"
+    ],
+    "coachingPrompt": "Teach the user the balance between cooking tomatoes until softened and maintaining the egg texture, while achieving proper seasoning with soy sauce."
+  },
+  "timestamp": "2026-02-06T17:11:57.703Z"
+}

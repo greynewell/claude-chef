@@ -1,0 +1,87 @@
+{
+  "contentHash": "d32b51e412069b15",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "fresh asparagus",
+        "searchTerm": "asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "zucchini",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "yellow squash",
+        "searchTerm": "yellow squash",
+        "normalizedName": "Yellow Squash"
+      },
+      {
+        "ingredient": "red onion",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "red bell peppers",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "extra-virgin olive oil",
+        "searchTerm": "extra-virgin olive oil",
+        "normalizedName": "Extra-Virgin Olive Oil"
+      },
+      {
+        "ingredient": "red wine vinegar",
+        "searchTerm": "red wine vinegar",
+        "normalizedName": "Red Wine Vinegar"
+      },
+      {
+        "ingredient": "Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "grill tongs"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "salad bowl",
+        "searchTerm": "salad bowl"
+      }
+    ],
+    "cookingTips": [
+      "Slice onions thickly and thread on skewers to prevent them from falling through grill grates",
+      "Prepare the vinaigrette while vegetables grill so flavors meld during cooling",
+      "Group vegetables by cook time - peppers and onions take longer than asparagus"
+    ],
+    "coachingPrompt": "What's the benefit of making the vinaigrette with Dijon mustard versus without it?"
+  },
+  "timestamp": "2026-02-06T08:31:06.340Z"
+}

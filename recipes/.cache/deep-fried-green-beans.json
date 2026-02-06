@@ -1,0 +1,45 @@
+{
+  "contentHash": "71fbfa64101055be",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound fresh green beans",
+        "searchTerm": "green beans fresh",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "½ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup seasoned bread crumbs",
+        "searchTerm": "bread crumbs seasoned",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "2 cups vegetable oil, or as needed",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      "Shallow bowls",
+      "Deep fryer or pot",
+      "Thermometer",
+      "Paper towels"
+    ],
+    "cookingTips": [
+      "Blanch green beans for 2-3 minutes before breading to ensure they cook through while exterior crisps",
+      "Pat dry thoroughly after blanching to remove excess water and prevent oil splatter",
+      "Fry at 350°F in batches to maintain temperature; green beans need only 1-2 minutes"
+    ],
+    "coachingPrompt": "Help me balance blanching and frying time so green beans are tender inside with a crispy, golden breaded coating."
+  },
+  "timestamp": "2026-02-06T05:05:06.078Z"
+}

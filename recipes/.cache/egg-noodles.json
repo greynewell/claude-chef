@@ -1,0 +1,53 @@
+{
+  "contentHash": "7f56c3851ac89769",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ½ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pasta maker",
+        "searchTerm": "pasta maker"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Let dough rest 30 minutes before rolling for easier handling",
+      "Dry noodles on a rack before storing to prevent sticking",
+      "Fresh noodles cook much faster than dried versions"
+    ],
+    "coachingPrompt": "What's the ideal resting time for fresh pasta dough before rolling?"
+  },
+  "timestamp": "2026-02-06T06:10:03.525Z"
+}

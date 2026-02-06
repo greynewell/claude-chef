@@ -1,0 +1,47 @@
+{
+  "contentHash": "26db59a27864bc68",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (18.25 ounce) package yellow cake mix",
+        "searchTerm": "yellow cake mix",
+        "normalizedName": "Yellow Cake Mix"
+      },
+      {
+        "ingredient": "2 (3.9 ounce) packages instant chocolate pudding mix",
+        "searchTerm": "instant chocolate pudding mix",
+        "normalizedName": "Instant Chocolate Pudding Mix"
+      },
+      {
+        "ingredient": "1 cup confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "4 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Poke holes throughout entire cake while still warm to allow pudding to absorb properly",
+      "Chill cake completely before serving for best texture"
+    ],
+    "coachingPrompt": "How deep should you poke holes in the cake to ensure pudding penetrates throughout?"
+  },
+  "timestamp": "2026-02-06T15:21:30.840Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "2ebb0a07b83bc406",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "3 tablespoons taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning Mix"
+      },
+      {
+        "ingredient": "1 pound skinless, boneless chicken breasts",
+        "searchTerm": "chicken breasts",
+        "normalizedName": "Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Shredding Forks",
+        "searchTerm": "shredding forks"
+      },
+      {
+        "name": "Measuring Cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Cook on low for 6-8 hours or high for 3-4 hours until chicken is very tender",
+      "Shred chicken directly in the slow cooker with two forks for easy mixing",
+      "Let chicken sit for 5 minutes after shredding to absorb flavors"
+    ],
+    "coachingPrompt": "Help the user create tender, flavorful shredded chicken perfect for tacos using the slow cooker method."
+  },
+  "timestamp": "2026-02-06T06:37:21.139Z"
+}

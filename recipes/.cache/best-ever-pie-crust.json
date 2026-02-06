@@ -1,0 +1,47 @@
+{
+  "contentHash": "8adbd766d53d62dd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 cup shortening",
+        "searchTerm": "shortening",
+        "normalizedName": "Shortening"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "pie pan",
+        "searchTerm": "pie pan"
+      },
+      {
+        "name": "pastry cutter",
+        "searchTerm": "pastry cutter"
+      }
+    ],
+    "cookingTips": [
+      "Keep ingredients cold for a flaky crust; use ice water and cold shortening",
+      "Handle the dough minimally to avoid toughening the gluten"
+    ],
+    "coachingPrompt": "What does shortening contribute to pie crust texture that butter alone might not provide?"
+  },
+  "timestamp": "2026-02-05T23:59:24.709Z"
+}

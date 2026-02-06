@@ -1,0 +1,52 @@
+{
+  "contentHash": "fccdef110a476f7b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "⅔ cup barbeque sauce",
+        "searchTerm": "bbq sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "1 tablespoon Worcestershire sauce",
+        "searchTerm": "worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "⅔ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 ½ pounds skinless, boneless chicken pieces",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Cut chicken into uniform strips for even cooking",
+      "Cook over medium-high heat until chicken is no longer pink in the center"
+    ],
+    "coachingPrompt": "Help the user understand how to properly brown chicken and build flavor with barbecue and Worcestershire sauce."
+  },
+  "timestamp": "2026-02-06T06:18:17.925Z"
+}

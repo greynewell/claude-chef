@@ -1,0 +1,73 @@
+{
+  "contentHash": "fa5be0161d6a822c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅔ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "⅓ cup diced red bell pepper",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 cup diced celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "3 large sweet pickles, chopped",
+        "searchTerm": "sweet pickles",
+        "normalizedName": "Sweet Pickle"
+      },
+      {
+        "ingredient": "1 (16 ounce) package frozen green peas, thawed",
+        "searchTerm": "frozen green peas",
+        "normalizedName": "Pea"
+      },
+      {
+        "ingredient": "¾ cup cubed Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "6 leaves lettuce",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "serving platter",
+        "searchTerm": "platter"
+      }
+    ],
+    "cookingTips": [
+      "Thaw and drain peas completely to prevent the salad from becoming watery",
+      "Chop pickles finely so their flavor distributes evenly throughout the salad",
+      "Combine all ingredients except lettuce, then chill for at least 1 hour before serving on lettuce leaves"
+    ],
+    "coachingPrompt": "Suggest that the user taste before adding salt, as pickles and cheese already provide saltiness."
+  },
+  "timestamp": "2026-02-06T08:08:33.008Z"
+}

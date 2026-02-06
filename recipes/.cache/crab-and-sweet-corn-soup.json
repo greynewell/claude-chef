@@ -1,0 +1,63 @@
+{
+  "contentHash": "236b1dd6e7a01b42",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 cup sweet corn kernels",
+        "searchTerm": "sweet corn",
+        "normalizedName": "Sweet Corn Kernel"
+      },
+      {
+        "ingredient": "2 cups fish stock",
+        "searchTerm": "fish stock",
+        "normalizedName": "Fish Stock"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (6 ounce) can crabmeat, drained and flaked",
+        "searchTerm": "canned crabmeat",
+        "normalizedName": "Canned Crabmeat"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "Create an egg drop effect by slowly drizzling beaten egg into simmering soup while stirring constantly",
+      "Toast corn briefly in oil before adding liquid to enhance sweet corn flavor",
+      "Keep heat moderate to prevent crabmeat from toughening when added at the end"
+    ],
+    "coachingPrompt": "What technique creates those delicate egg ribbons in soup, and how do you control the temperature to achieve them?"
+  },
+  "timestamp": "2026-02-06T04:00:38.164Z"
+}

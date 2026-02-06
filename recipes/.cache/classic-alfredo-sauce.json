@@ -1,0 +1,63 @@
+{
+  "contentHash": "603d96f588bb016b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "8 fluid ounces heavy whipping cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "¼ cup grated Romano cheese",
+        "searchTerm": "Romano cheese",
+        "normalizedName": "Romano Cheese"
+      },
+      {
+        "ingredient": "1 egg yolk",
+        "searchTerm": "egg yolk",
+        "normalizedName": "Egg Yolk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Grater",
+        "searchTerm": "grater"
+      }
+    ],
+    "cookingTips": [
+      "Heat cream gently to prevent curdling",
+      "Add egg yolk slowly while whisking constantly",
+      "Use freshly grated cheese for best flavor"
+    ],
+    "coachingPrompt": "This classic sauce comes together quickly but requires attention to heat and whisking. How comfortable are you tempering egg yolks?"
+  },
+  "timestamp": "2026-02-06T03:30:37.551Z"
+}

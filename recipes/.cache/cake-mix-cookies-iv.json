@@ -1,0 +1,42 @@
+{
+  "contentHash": "334256f92b0c3002",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (18.25 ounce) package white cake mix",
+        "searchTerm": "cake mix",
+        "normalizedName": "Cake Mix"
+      },
+      {
+        "ingredient": "½ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Mix ingredients just until combined; overmixing will produce tough cookies",
+      "Drop by spoonfuls onto baking sheet with space between for spreading"
+    ],
+    "coachingPrompt": "Guide the user through making simple cake mix cookies with minimal ingredients."
+  },
+  "timestamp": "2026-02-06T01:12:42.137Z"
+}

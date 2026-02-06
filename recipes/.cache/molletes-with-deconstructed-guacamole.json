@@ -1,0 +1,88 @@
+{
+  "contentHash": "b80c8c4529d1d60d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 bolillo rolls, sliced in half lengthwise",
+        "searchTerm": "bolillo rolls",
+        "normalizedName": "Bolillo Roll"
+      },
+      {
+        "ingredient": "4 tablespoons butter or margarine, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (20.5 ounce) can refried pinto beans",
+        "searchTerm": "refried beans",
+        "normalizedName": "Refried Pinto Bean"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "2 Roma tomatoes, thinly sliced",
+        "searchTerm": "roma tomatoes",
+        "normalizedName": "Roma Tomato"
+      },
+      {
+        "ingredient": "2 avocados from Mexico, peeled, pitted and sliced crosswise",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "½ small red onion, thinly sliced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "½ teaspoon ground cumin",
+        "searchTerm": "ground cumin",
+        "normalizedName": "Ground Cumin"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 teaspoons extra-virgin olive oil",
+        "searchTerm": "extra-virgin olive oil",
+        "normalizedName": "Extra-Virgin Olive Oil"
+      },
+      {
+        "ingredient": "1 lime, sliced into rounds",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "sharp knife"
+      }
+    ],
+    "cookingTips": [
+      "Butter bolillo rolls lightly and toast before adding toppings for better texture",
+      "Spread refried beans while rolls are still warm for better melting",
+      "Slice avocados just before serving to prevent browning"
+    ],
+    "coachingPrompt": "Help the user understand the assembly process and explain why timing is important for freshness and melting cheese."
+  },
+  "timestamp": "2026-02-06T12:40:18.812Z"
+}

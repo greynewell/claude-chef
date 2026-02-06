@@ -1,0 +1,67 @@
+{
+  "contentHash": "25c71d72b52bc14f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 onion, peeled and halved",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 cups dry pinto beans, rinsed",
+        "searchTerm": "pinto bean",
+        "normalizedName": "Pinto Bean"
+      },
+      {
+        "ingredient": "½ fresh jalapeno pepper, seeded and chopped",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "5 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ¾ teaspoons fresh ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground cumin, optional",
+        "searchTerm": "cumin",
+        "normalizedName": "Ground Cumin"
+      },
+      {
+        "ingredient": "9 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Soak beans overnight before cooking to reduce cooking time",
+      "Don't add salt until beans are tender to prevent toughening"
+    ],
+    "coachingPrompt": "Guide the user through the long cooking process for dried beans, explaining how to test for doneness and when to add seasonings for best texture."
+  },
+  "timestamp": "2026-02-06T16:07:17.146Z"
+}

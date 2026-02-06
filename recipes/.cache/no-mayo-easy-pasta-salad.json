@@ -1,0 +1,62 @@
+{
+  "contentHash": "af3bbed1b4953cdc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) package rotini pasta",
+        "searchTerm": "rotini pasta",
+        "normalizedName": "Rotini Pasta"
+      },
+      {
+        "ingredient": "1 (12 ounce) package tri-color rotini pasta",
+        "searchTerm": "tri-color rotini pasta",
+        "normalizedName": "Tri-Color Rotini Pasta"
+      },
+      {
+        "ingredient": "6 roma tomatoes, chopped",
+        "searchTerm": "roma tomatoes",
+        "normalizedName": "Roma Tomato"
+      },
+      {
+        "ingredient": "1 cucumber, chopped",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "½ cup chopped purple onion",
+        "searchTerm": "purple onion",
+        "normalizedName": "Purple Onion"
+      },
+      {
+        "ingredient": "1 (16 ounce) bottle ranch dressing",
+        "searchTerm": "ranch dressing",
+        "normalizedName": "Ranch Dressing"
+      },
+      {
+        "ingredient": "1 (16 ounce) bottle Italian-style salad dressing",
+        "searchTerm": "Italian-style salad dressing",
+        "normalizedName": "Italian-Style Salad Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Cool the pasta completely before adding dressing to prevent the oil from causing sticking",
+      "Toss the salad gently to avoid breaking the pasta and bruising the vegetables"
+    ],
+    "coachingPrompt": "This salad uses dressing-based liquid instead of mayo for flavor and binding. How does this affect the salad's texture over time?"
+  },
+  "timestamp": "2026-02-06T13:18:55.747Z"
+}

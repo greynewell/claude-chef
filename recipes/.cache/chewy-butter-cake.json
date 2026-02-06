@@ -1,0 +1,49 @@
+{
+  "contentHash": "d385eb3e284bb151",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (18.25 ounce) package yellow cake mix",
+        "searchTerm": "yellow cake mix",
+        "normalizedName": "Yellow Cake Mix"
+      },
+      {
+        "ingredient": "½ cup margarine, softened",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "4 teaspoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "4 cups confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      }
+    ],
+    "gear": [
+      "Baking pan",
+      "Electric mixer",
+      "Mixing bowl"
+    ],
+    "cookingTips": [
+      "Prepare cake layer first, then add frosting topping before baking for melded layers",
+      "Extra vanilla extract adds depth to the butter flavor",
+      "Cool slightly before adding frosting so it sets properly"
+    ],
+    "coachingPrompt": "This cake has a cake layer and frosting baked together. In what order should components be assembled for best results?"
+  },
+  "timestamp": "2026-02-06T02:17:36.031Z"
+}

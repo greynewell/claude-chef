@@ -1,0 +1,47 @@
+{
+  "contentHash": "1a8bbefa4db56c69",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 large eggs hard-cooked eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon favorite flavor mustard",
+        "searchTerm": "mustard",
+        "normalizedName": "Mustard"
+      },
+      {
+        "ingredient": "1 teaspoon cider vinegar",
+        "searchTerm": "cider vinegar",
+        "normalizedName": "Cider Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "piping bag",
+        "searchTerm": "piping bag"
+      },
+      {
+        "name": "serving platter",
+        "searchTerm": "serving platter"
+      }
+    ],
+    "cookingTips": [
+      "Boil eggs for 10-12 minutes, then ice bath for easy peeling",
+      "Chill filling before piping for better control and presentation"
+    ],
+    "coachingPrompt": "Help the user understand how to achieve creamy filling and decorative presentation for deviled eggs."
+  },
+  "timestamp": "2026-02-06T05:43:24.508Z"
+}

@@ -1,0 +1,68 @@
+{
+  "contentHash": "40e40eb0c8838408",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup olive oil, divided",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "3 slices pancetta, chopped, or more to taste",
+        "searchTerm": "pancetta",
+        "normalizedName": "Pancetta"
+      },
+      {
+        "ingredient": "1 (14 ounce) can artichoke hearts, drained and quartered",
+        "searchTerm": "artichoke hearts",
+        "normalizedName": "Artichoke Heart"
+      },
+      {
+        "ingredient": "1 bunch kale, chopped",
+        "searchTerm": "kale",
+        "normalizedName": "Kale"
+      },
+      {
+        "ingredient": "1 lemon, juiced",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 teaspoon sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "¾ teaspoon freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "¼ cup freshly grated pecorino cheese",
+        "searchTerm": "pecorino cheese",
+        "normalizedName": "Pecorino Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Render pancetta until crispy to release its fat and use it as part of the dressing",
+      "Warm artichoke hearts in the pancetta fat before adding kale for enhanced flavor",
+      "Grate pecorino cheese fresh just before serving for maximum sharpness"
+    ],
+    "coachingPrompt": "Guide the user on properly rendering pancetta and building a salad with warm and cold components for textural contrast."
+  },
+  "timestamp": "2026-02-06T10:33:56.220Z"
+}

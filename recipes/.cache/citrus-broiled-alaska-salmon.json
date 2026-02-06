@@ -1,0 +1,52 @@
+{
+  "contentHash": "c059d769ccf1c95f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 large oranges",
+        "searchTerm": "oranges",
+        "normalizedName": "Orange"
+      },
+      {
+        "ingredient": "8 (4 ounce) fillets salmon",
+        "searchTerm": "salmon",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "2 teaspoons red wine vinegar",
+        "searchTerm": "red wine vinegar",
+        "normalizedName": "Red Wine Vinegar"
+      },
+      {
+        "ingredient": "½ cup chopped green onions",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "2 teaspoons cracked black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Broiler Pan",
+        "searchTerm": "broiler pan"
+      },
+      {
+        "name": "Broiler",
+        "searchTerm": "oven broiler"
+      },
+      {
+        "name": "Juice Reamer",
+        "searchTerm": "citrus reamer"
+      }
+    ],
+    "cookingTips": [
+      "Position rack 4-6 inches from broiler heat for even cooking without burning",
+      "Watch carefully as broiling happens quickly and salmon can dry out easily"
+    ],
+    "coachingPrompt": "Help the user broil salmon quickly until just cooked through with a fresh citrus accompaniment."
+  },
+  "timestamp": "2026-02-06T03:27:39.379Z"
+}

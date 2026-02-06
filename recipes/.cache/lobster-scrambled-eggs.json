@@ -1,0 +1,62 @@
+{
+  "contentHash": "4511453d4285c467",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ teaspoon chopped fresh tarragon",
+        "searchTerm": "tarragon",
+        "normalizedName": "Tarragon"
+      },
+      {
+        "ingredient": "4 ounces cooked lobster meat, cut into bite-sized pieces",
+        "searchTerm": "lobster meat",
+        "normalizedName": "Lobster"
+      },
+      {
+        "ingredient": "1 pinch cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 pinch salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Keep heat low and stir gently for creamy, soft-set eggs",
+      "Add lobster meat at the very end so it just warms through without toughening"
+    ],
+    "coachingPrompt": "Help the user prepare a luxurious breakfast dish with tender scrambled eggs, fresh tarragon, and sweet lobster meat."
+  },
+  "timestamp": "2026-02-06T11:32:14.995Z"
+}

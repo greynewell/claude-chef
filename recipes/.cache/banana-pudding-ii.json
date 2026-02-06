@@ -1,0 +1,73 @@
+{
+  "contentHash": "11b5e7b61dea3920",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 ½ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 tablespoon margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "32 vanilla wafers",
+        "searchTerm": "vanilla wafer",
+        "normalizedName": "Vanilla Wafer"
+      },
+      {
+        "ingredient": "4 bananas, sliced",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      }
+    ],
+    "cookingTips": [
+      "Mix cornstarch with a little cold milk before adding to hot milk to prevent lumping",
+      "Temper beaten eggs by slowly adding hot pudding mixture while whisking constantly",
+      "Assemble pudding while still warm so layers meld together for better flavor"
+    ],
+    "coachingPrompt": "What thickening technique using cornstarch produces the smoothest pudding texture?"
+  },
+  "timestamp": "2026-02-05T23:25:34.402Z"
+}

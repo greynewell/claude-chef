@@ -1,0 +1,78 @@
+{
+  "contentHash": "9b9ccbb90b0e48d9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "sweet tomato",
+        "searchTerm": "tomato sweet",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "cucumber",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "hot sauce",
+        "searchTerm": "hot sauce",
+        "normalizedName": "Hot Sauce"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "green bell pepper",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "tuna",
+        "searchTerm": "tuna canned",
+        "normalizedName": "Tuna"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender or food processor",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "soup bowl",
+        "searchTerm": "soup bowl"
+      },
+      {
+        "name": "fork for flaking",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Chill all ingredients and the serving bowls beforehand",
+      "Pulse blend to maintain texture rather than making it completely smooth",
+      "Add tuna just before serving to keep it fluffy"
+    ],
+    "coachingPrompt": "How should I blend this gazpacho to get the right texture—chunky or smooth?"
+  },
+  "timestamp": "2026-02-06T21:28:38.624Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "7fa7f9694c999810",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pita bread round",
+        "searchTerm": "pita bread",
+        "normalizedName": "Pita Bread"
+      },
+      {
+        "ingredient": "3 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "3 tablespoons tahini (sesame-seed paste)",
+        "searchTerm": "tahini",
+        "normalizedName": "Tahini"
+      },
+      {
+        "ingredient": "1 tomato, sliced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "4 slice firm tofu",
+        "searchTerm": "firm tofu",
+        "normalizedName": "Firm Tofu"
+      },
+      {
+        "ingredient": "1 dash soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Grill Basket",
+        "searchTerm": "grill basket"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Press tofu slices before grilling to improve texture and reduce cooking time",
+      "Mix mayo and tahini in advance for creamier sandwich spread",
+      "Grill tofu 4-5 minutes per side until golden and marked"
+    ],
+    "coachingPrompt": "How would you build richness and flavor into a simple tofu sandwich?"
+  },
+  "timestamp": "2026-02-06T08:29:19.223Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "2d2e96d9c0920cdc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15.25 ounce) package yellow cake mix (such as Betty Crocker®)",
+        "searchTerm": "yellow cake mix",
+        "normalizedName": "Yellow Cake Mix"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "lollipop sticks",
+        "searchTerm": "cake pop sticks",
+        "normalizedName": "Lollipop Stick"
+      },
+      {
+        "ingredient": "1 (14 ounce) bag chocolate confectioners' coating",
+        "searchTerm": "chocolate coating",
+        "normalizedName": "Chocolate Confectioners' Coating"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cake Pan",
+        "searchTerm": "round cake pan"
+      },
+      {
+        "name": "Cake Pop Maker",
+        "searchTerm": "cake pop maker"
+      },
+      {
+        "name": "Microwave",
+        "searchTerm": "microwave"
+      }
+    ],
+    "cookingTips": [
+      "Bake cake, cool completely, then crumble and mix with cream cheese for proper consistency",
+      "Chill cake mixture for easier forming into balls",
+      "Dip sticks in chocolate coating before inserting into balls for better adhesion"
+    ],
+    "coachingPrompt": "Help the user form uniform cake pop balls and properly dip them in chocolate coating, suggesting decoration ideas."
+  },
+  "timestamp": "2026-02-06T05:36:11.505Z"
+}

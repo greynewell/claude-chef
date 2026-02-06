@@ -1,0 +1,42 @@
+{
+  "contentHash": "afa571013fada737",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (2 pound) top round London broil",
+        "searchTerm": "london broil",
+        "normalizedName": "London Broil"
+      },
+      {
+        "ingredient": "1 (28 ounce) can stewed tomatoes",
+        "searchTerm": "stewed tomato",
+        "normalizedName": "Stewed Tomato"
+      },
+      {
+        "ingredient": "garlic salt to taste",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish or skillet",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "knife for slicing",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Let meat rest 10 minutes before slicing to retain juices",
+      "Slice against the grain for maximum tenderness"
+    ],
+    "coachingPrompt": "Teach proper resting and slicing techniques to ensure tender meat. Discuss how stewed tomatoes provide moisture and flavor during cooking."
+  },
+  "timestamp": "2026-02-06T00:01:44.929Z"
+}

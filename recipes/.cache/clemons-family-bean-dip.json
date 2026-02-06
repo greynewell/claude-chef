@@ -1,0 +1,58 @@
+{
+  "contentHash": "c6ed836b913b2822",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (11 ounce) can condensed cheese soup",
+        "searchTerm": "cheese soup",
+        "normalizedName": "Condensed Cheese Soup"
+      },
+      {
+        "ingredient": "1 (16 ounce) can refried beans",
+        "searchTerm": "refried beans",
+        "normalizedName": "Refried Bean"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar picante sauce",
+        "searchTerm": "picante sauce",
+        "normalizedName": "Picante Sauce"
+      },
+      {
+        "ingredient": "1 (12 ounce) jar sliced jalapeno peppers",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "½ pound processed cheese food, cubed",
+        "searchTerm": "processed cheese",
+        "normalizedName": "Processed Cheese Food"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "mixing spoon",
+        "searchTerm": "mixing spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown beef thoroughly before mixing with other ingredients",
+      "Heat dip gently to avoid scorching the cheese",
+      "Serve with tortilla chips or vegetables for dipping"
+    ],
+    "coachingPrompt": "Help the user combine ingredients for a crowd-pleasing party dip with proper heating."
+  },
+  "timestamp": "2026-02-06T03:34:47.162Z"
+}

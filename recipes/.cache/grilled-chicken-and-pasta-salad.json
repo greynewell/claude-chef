@@ -1,0 +1,63 @@
+{
+  "contentHash": "fb1808d5d9409e8d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "steak seasoning to taste",
+        "searchTerm": "steak seasoning",
+        "normalizedName": "Steak Seasoning"
+      },
+      {
+        "ingredient": "8 ounces rotini pasta",
+        "searchTerm": "rotini pasta",
+        "normalizedName": "Rotini Pasta"
+      },
+      {
+        "ingredient": "8 ounces mozzarella cheese, cubed",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 red onion, chopped",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "1 head romaine lettuce, chopped",
+        "searchTerm": "romaine lettuce",
+        "normalizedName": "Romaine Lettuce"
+      },
+      {
+        "ingredient": "6 cherry tomatoes, chopped",
+        "searchTerm": "cherry tomato",
+        "normalizedName": "Cherry Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Large Mixing Bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta al dente so it maintains texture when mixed with warm chicken",
+      "Grill chicken before pasta so all components can cool slightly before combining",
+      "Toss all ingredients just before serving to prevent wilting"
+    ],
+    "coachingPrompt": "Guide the user on cooking timing coordination, how to properly cool pasta and chicken, and best practices for assembling and tossing the salad."
+  },
+  "timestamp": "2026-02-06T08:12:09.123Z"
+}

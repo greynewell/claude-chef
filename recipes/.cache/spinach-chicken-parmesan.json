@@ -1,0 +1,73 @@
+{
+  "contentHash": "a27da814af6d5803",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "Italian seasoning",
+        "searchTerm": "italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      },
+      {
+        "ingredient": "chicken breast",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "skim milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "spinach",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "pimento pepper",
+        "searchTerm": "pimento pepper",
+        "normalizedName": "Pimento Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "sauce pan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken breasts to even thickness for uniform cooking",
+      "Make cream sauce separately and pour over cooked chicken",
+      "Cook chicken until internal temperature reaches 165°F"
+    ],
+    "coachingPrompt": "Would you like to serve this over pasta or rice, and do you have fresh spinach available?"
+  },
+  "timestamp": "2026-02-06T19:14:40.648Z"
+}

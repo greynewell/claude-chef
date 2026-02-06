@@ -1,0 +1,53 @@
+{
+  "contentHash": "4834a265d36006d2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "boneless, skinless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "dry Italian-style salad dressing mix",
+        "searchTerm": "italian dressing mix",
+        "normalizedName": "Italian Salad Dressing Mix"
+      },
+      {
+        "ingredient": "cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "condensed cream of chicken soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream of Chicken Soup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "measuring spoons",
+        "searchTerm": "measuring spoons"
+      }
+    ],
+    "cookingTips": [
+      "Cube chicken evenly for uniform cooking",
+      "Add cream cheese in last 30 minutes and stir well to prevent lumping",
+      "Serve over egg noodles or rice for authentic stroganoff presentation"
+    ],
+    "coachingPrompt": "Help the user create a creamy stroganoff by explaining proper cream cheese incorporation technique."
+  },
+  "timestamp": "2026-02-06T18:08:28.915Z"
+}

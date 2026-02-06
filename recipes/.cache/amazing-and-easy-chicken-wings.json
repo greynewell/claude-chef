@@ -1,0 +1,48 @@
+{
+  "contentHash": "eb4b875621116191",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 cup yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      },
+      {
+        "ingredient": "¼ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "5 pounds chicken wings, cut into thirds and tips discarded",
+        "searchTerm": "chicken wings",
+        "normalizedName": "Chicken Wing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Mix glaze ingredients thoroughly to dissolve brown sugar completely",
+      "Toss wings with glaze and spread in single layer on lined baking sheet",
+      "Bake at 350°F for 45-50 minutes, stirring halfway through for even caramelization"
+    ],
+    "coachingPrompt": "Should I bake the wings first and then add glaze, or combine them from the start? What temperature ensures they're crispy?"
+  },
+  "timestamp": "2026-02-05T21:57:19.791Z"
+}

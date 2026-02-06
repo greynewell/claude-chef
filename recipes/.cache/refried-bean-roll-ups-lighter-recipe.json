@@ -1,0 +1,57 @@
+{
+  "contentHash": "9ce15403d5735cb0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) can Old El Paso® fat-free refried beans",
+        "searchTerm": "fat-free refried beans",
+        "normalizedName": "Fat-Free Refried Bean"
+      },
+      {
+        "ingredient": "½ cup Old El Paso® Thick 'n Chunky salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "½ teaspoon chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "8 fat free flour tortillas (8 to10 inch)",
+        "searchTerm": "flour tortilla",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "1 cup shredded lettuce",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "½ cup shredded Monterey Jack cheese",
+        "searchTerm": "Monterey Jack cheese",
+        "normalizedName": "Monterey Jack Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Mix beans with salsa and chili powder before rolling for even flavor distribution",
+      "Arrange seam-side down on baking sheet to prevent unrolling during baking"
+    ],
+    "coachingPrompt": "Help the user prepare a lighter filling with proper proportions and guide them through careful rolling technique for intact roll-ups."
+  },
+  "timestamp": "2026-02-06T16:07:17.145Z"
+}

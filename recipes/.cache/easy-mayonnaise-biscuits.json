@@ -1,0 +1,43 @@
+{
+  "contentHash": "01b5acff38a51ce1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup self-rising flour",
+        "searchTerm": "self-rising flour",
+        "normalizedName": "Self-Rising Flour"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Mix just until combined; do not overmix",
+      "Use ice-cold milk for fluffier biscuits",
+      "Bake at 400°F for 10-12 minutes until golden brown"
+    ],
+    "coachingPrompt": "Explain how mayonnaise replaces butter in this recipe, providing fat for tenderness while creating a unique shortcut biscuit method."
+  },
+  "timestamp": "2026-02-06T05:51:21.835Z"
+}

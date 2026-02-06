@@ -1,0 +1,43 @@
+{
+  "contentHash": "ebadaa1fd11efe16",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground pork sausage",
+        "searchTerm": "ground pork sausage",
+        "normalizedName": "Ground Pork Sausage"
+      },
+      {
+        "ingredient": "1 pound ground spicy pork sausage",
+        "searchTerm": "spicy pork sausage",
+        "normalizedName": "Spicy Pork Sausage"
+      },
+      {
+        "ingredient": "1 (6 ounce) can frozen orange juice concentrate, thawed",
+        "searchTerm": "orange juice concentrate",
+        "normalizedName": "Orange Juice Concentrate"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      }
+    ],
+    "cookingTips": [
+      "Mix sausages gently to avoid compacting and densifying meatballs",
+      "Roll meatballs to uniform size for even cooking",
+      "Orange juice adds sweetness that balances spice and creates a glaze"
+    ],
+    "coachingPrompt": "These meatballs work great for parties. How would you scale this recipe and keep them warm?"
+  },
+  "timestamp": "2026-02-06T05:30:41.746Z"
+}

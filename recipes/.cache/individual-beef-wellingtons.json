@@ -1,0 +1,67 @@
+{
+  "contentHash": "e3595d280a1f3342",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound fresh mushrooms, sliced",
+        "searchTerm": "fresh mushroom",
+        "normalizedName": "Fresh Mushroom"
+      },
+      {
+        "ingredient": "½ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ cup dry sherry",
+        "searchTerm": "dry sherry",
+        "normalizedName": "Dry Sherry"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup chopped parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "6 (8 ounce) fillets beef tenderloin",
+        "searchTerm": "beef tenderloin",
+        "normalizedName": "Beef Tenderloin"
+      },
+      {
+        "ingredient": "1 (17.5 ounce) package frozen puff pastry, thawed",
+        "searchTerm": "puff pastry",
+        "normalizedName": "Puff Pastry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Sear beef on high heat until browned on all sides, then cool before wrapping in pastry",
+      "Cook mushroom duxelles (finely chopped mushrooms) until completely dry—excess moisture will make pastry soggy",
+      "Use a meat thermometer to achieve medium-rare (130-135°F internal temperature)"
+    ],
+    "coachingPrompt": "How do you prevent puff pastry from becoming soggy when wrapping around moist fillings like duxelles?"
+  },
+  "timestamp": "2026-02-06T09:42:44.984Z"
+}

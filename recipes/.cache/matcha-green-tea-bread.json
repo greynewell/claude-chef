@@ -1,0 +1,83 @@
+{
+  "contentHash": "532164ff1e78a28b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "1 tablespoon superfine sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 teaspoons superfine sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon green tea powder (matcha)",
+        "searchTerm": "matcha powder",
+        "normalizedName": "Matcha Powder"
+      },
+      {
+        "ingredient": "1 teaspoon instant yeast",
+        "searchTerm": "instant yeast",
+        "normalizedName": "Instant Yeast"
+      },
+      {
+        "ingredient": "¾ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 tablespoons milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 large egg, lightly beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 tablespoon unsalted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 teaspoons unsalted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Stand Mixer",
+        "searchTerm": "stand mixer"
+      },
+      {
+        "name": "Loaf Pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "Proof Box or Warm Area",
+        "searchTerm": "proofing box"
+      }
+    ],
+    "cookingTips": [
+      "Whisk matcha with milk before adding to dough to prevent lumps",
+      "Warm milk to 110°F to activate yeast properly",
+      "Allow dough to rise 60-90 minutes until doubled in size"
+    ],
+    "coachingPrompt": "Guide the user through creating a matcha-infused bread dough, proofing until doubled, then baking until golden brown."
+  },
+  "timestamp": "2026-02-06T12:05:02.255Z"
+}

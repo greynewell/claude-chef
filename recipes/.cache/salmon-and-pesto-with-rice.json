@@ -1,0 +1,63 @@
+{
+  "contentHash": "e192e85c9754cfb5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds salmon fillets, cut into 1 inch cubes",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "⅓ cup pesto",
+        "searchTerm": "pesto",
+        "normalizedName": "Pesto"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 shallots, finely chopped",
+        "searchTerm": "shallot",
+        "normalizedName": "Shallot"
+      },
+      {
+        "ingredient": "1 cup uncooked long-grain white rice",
+        "searchTerm": "long-grain white rice",
+        "normalizedName": "Long-Grain White Rice"
+      },
+      {
+        "ingredient": "2 ½ cups fish stock",
+        "searchTerm": "fish stock",
+        "normalizedName": "Fish Stock"
+      },
+      {
+        "ingredient": "⅔ cup dry white wine",
+        "searchTerm": "white wine",
+        "normalizedName": "White Wine"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot with lid",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Toast rice briefly in butter before adding liquid for better texture",
+      "Fold pesto into salmon gently to preserve shape",
+      "Use fish stock for complementary seafood flavor"
+    ],
+    "coachingPrompt": "What's the advantage of cooking the salmon separately from the rice in this dish?"
+  },
+  "timestamp": "2026-02-06T16:43:18.149Z"
+}

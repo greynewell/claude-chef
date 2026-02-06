@@ -1,0 +1,73 @@
+{
+  "contentHash": "d47dbd692b156510",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 green bell pepper, chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 pound ground pork",
+        "searchTerm": "ground pork",
+        "normalizedName": "Ground Pork"
+      },
+      {
+        "ingredient": "1 tablespoon Creole seasoning",
+        "searchTerm": "Creole seasoning",
+        "normalizedName": "Creole Seasoning"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 head cabbage, cut into 2-inch squares",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "½ (10 ounce) can diced tomatoes with green chile peppers",
+        "searchTerm": "diced tomatoes with green chiles",
+        "normalizedName": "Diced Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Brown the ground pork thoroughly before adding vegetables for better flavor development",
+      "Cut cabbage into uniform 2-inch squares so it cooks evenly",
+      "Simmer covered for 15-20 minutes until cabbage is tender but still has slight texture"
+    ],
+    "coachingPrompt": "How can you build layers of flavor by properly browning the pork before adding the aromatics?"
+  },
+  "timestamp": "2026-02-06T12:55:56.207Z"
+}

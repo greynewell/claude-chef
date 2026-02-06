@@ -1,0 +1,78 @@
+{
+  "contentHash": "365cf1fcebd08df2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "shrimp",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "chopped green onions",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "chopped fresh dill weed",
+        "searchTerm": "dill",
+        "normalizedName": "Dill"
+      },
+      {
+        "ingredient": "lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "prepared Dijon-style mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "hot pepper sauce",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "fresh dill weed",
+        "searchTerm": "dill",
+        "normalizedName": "Dill"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "piping bag",
+        "searchTerm": "piping bag"
+      }
+    ],
+    "cookingTips": [
+      "Boil eggs and immediately place in ice water for easier, cleaner peeling",
+      "Finely chop shrimp to distribute evenly throughout the filling",
+      "Use a piping bag to create uniform, attractive deviled egg presentations"
+    ],
+    "coachingPrompt": "Guide the user through egg boiling and peeling, and help them balance the creamy mayo with bright lime and dill flavors."
+  },
+  "timestamp": "2026-02-06T17:30:37.368Z"
+}

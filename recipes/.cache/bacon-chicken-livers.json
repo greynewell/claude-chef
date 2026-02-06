@@ -1,0 +1,42 @@
+{
+  "contentHash": "f9997f1156aedc5d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 pound fresh chicken livers",
+        "searchTerm": "chicken livers",
+        "normalizedName": "Chicken Liver"
+      },
+      {
+        "ingredient": "4 tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then set aside - use bacon grease to cook livers",
+      "Don't overcook chicken livers - they're best served slightly pink inside"
+    ],
+    "coachingPrompt": "Chicken livers have a strong flavor - would you like suggestions for serving or pairing?"
+  },
+  "timestamp": "2026-02-05T22:50:08.875Z"
+}

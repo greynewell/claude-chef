@@ -1,0 +1,77 @@
+{
+  "contentHash": "11d5396ba580f74d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "fresh corn",
+        "searchTerm": "corn on the cob",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "roma tomatoes",
+        "searchTerm": "plum tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "jalapeno pepper",
+        "searchTerm": "jalapeno",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "red onion",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "salt-free lemon-herb seasoning",
+        "searchTerm": "seasoning blend",
+        "normalizedName": "Seasoning Blend"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill or Boiling Pot",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Large Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cut corn kernels from the cob into a bowl to catch juices",
+      "Toss salad gently just before serving to maintain corn kernel integrity"
+    ],
+    "coachingPrompt": "Should I cook the corn or use fresh raw corn for this salad?"
+  },
+  "timestamp": "2026-02-06T03:20:38.524Z"
+}

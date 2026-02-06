@@ -1,0 +1,49 @@
+{
+  "contentHash": "08273294f7f0aecf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 pounds chuck roast",
+        "searchTerm": "chuck roast",
+        "normalizedName": "Chuck Roast"
+      },
+      {
+        "ingredient": "5 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 ½ cups prepared strong coffee",
+        "searchTerm": "strong coffee",
+        "normalizedName": "Coffee"
+      },
+      {
+        "ingredient": "2 tablespoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Brown chuck roast in a hot pan before slow cooking for depth",
+      "Use a quality strong coffee for better flavor",
+      "Thicken sauce with cornstarch slurry if needed before serving"
+    ],
+    "coachingPrompt": "I'm making roast beef braised in coffee. How do I avoid the coffee flavor being too strong?"
+  },
+  "timestamp": "2026-02-06T16:18:22.656Z"
+}

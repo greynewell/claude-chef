@@ -1,0 +1,53 @@
+{
+  "contentHash": "79dc0d64b195029d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 ½ cups whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "½ teaspoon sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 teaspoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pasta maker or rolling pin",
+        "searchTerm": "pasta maker rolling pin"
+      },
+      {
+        "name": "Cutting wheel or knife",
+        "searchTerm": "cutting wheel knife"
+      },
+      {
+        "name": "Drying rack",
+        "searchTerm": "drying rack"
+      }
+    ],
+    "cookingTips": [
+      "Let dough rest 30 minutes after mixing to relax gluten for easier rolling",
+      "Whole wheat flour requires slightly more moisture than all-purpose, so add water carefully",
+      "Dry pasta on racks for at least 2 hours before storing for best texture"
+    ],
+    "coachingPrompt": "How do I work with whole wheat pasta dough to achieve proper texture and how long should I dry it?"
+  },
+  "timestamp": "2026-02-06T22:10:18.454Z"
+}

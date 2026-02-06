@@ -1,0 +1,68 @@
+{
+  "contentHash": "08fe559e268c40c5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "3 cups quick oats",
+        "searchTerm": "quick oats",
+        "normalizedName": "Oat"
+      },
+      {
+        "ingredient": "½ cup shredded coconut",
+        "searchTerm": "coconut",
+        "normalizedName": "Coconut"
+      },
+      {
+        "ingredient": "½ cup peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Drop cookies immediately after mixture cools slightly for best shape",
+      "Use a cookie scoop for uniform sizing",
+      "Cookies will firm up as they cool to room temperature"
+    ],
+    "coachingPrompt": "Help the user time the dropping step correctly to achieve desired cookie texture and appearance."
+  },
+  "timestamp": "2026-02-06T13:16:16.618Z"
+}

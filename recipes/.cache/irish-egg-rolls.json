@@ -1,0 +1,73 @@
+{
+  "contentHash": "307c3751fcece150",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 ounces chopped corned beef",
+        "searchTerm": "corned beef",
+        "normalizedName": "Corned Beef"
+      },
+      {
+        "ingredient": "1 cup shredded steamed cabbage",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "1 cup diced cooked potatoes",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 cup shredded carrot",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "½ cup thinly sliced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "salt and pepper, to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper, to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "8 (7 inch square) egg roll wrappers",
+        "searchTerm": "egg roll wrappers",
+        "normalizedName": "Egg Roll Wrapper"
+      },
+      {
+        "ingredient": "1 ½ quarts oil for deep frying",
+        "searchTerm": "frying oil",
+        "normalizedName": "Frying Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep Fryer",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Paper Towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Squeeze excess moisture from cabbage before mixing filling",
+      "Keep egg roll wrappers moist under damp towel to prevent cracking",
+      "Fry at 350°F for golden, crispy exterior"
+    ],
+    "coachingPrompt": "Guide me in filling and folding egg rolls so they stay sealed during frying."
+  },
+  "timestamp": "2026-02-06T10:01:36.531Z"
+}

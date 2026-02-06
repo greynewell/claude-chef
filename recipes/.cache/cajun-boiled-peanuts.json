@@ -1,0 +1,38 @@
+{
+  "contentHash": "986b6780b27aa283",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 pounds raw peanuts, in shells",
+        "searchTerm": "raw peanuts in shell",
+        "normalizedName": "Raw Peanut"
+      },
+      {
+        "ingredient": "1 (6 ounce) package dry crab boil",
+        "searchTerm": "crab boil seasoning",
+        "normalizedName": "Crab Boil Seasoning"
+      },
+      {
+        "ingredient": "1 (4 ounce) can sliced jalapeno peppers, with liquid",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "strainer",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Soak peanuts overnight before boiling for faster cooking",
+      "Boil for 4-6 hours until peanuts reach desired tenderness"
+    ],
+    "coachingPrompt": "How can I tell when the peanuts are cooked to the right texture? Should they be soft or have some bite?"
+  },
+  "timestamp": "2026-02-06T01:09:16.144Z"
+}

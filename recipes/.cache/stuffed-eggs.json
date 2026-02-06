@@ -1,0 +1,62 @@
+{
+  "contentHash": "b3d71f4007492505",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon Dijon mustard",
+        "searchTerm": "dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "2 tablespoons grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "piping bag",
+        "searchTerm": "piping bag"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Boil eggs for exactly 10-12 minutes, then ice bath immediately to prevent grey yolks",
+      "Use a piping bag for professional presentation and smooth, even filling distribution"
+    ],
+    "coachingPrompt": "How will you achieve creamy filling consistency without it being too wet? What garnish will add visual appeal?"
+  },
+  "timestamp": "2026-02-06T19:39:25.374Z"
+}

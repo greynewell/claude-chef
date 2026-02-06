@@ -1,0 +1,53 @@
+{
+  "contentHash": "b22d6f8579beed74",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound frozen calamari rings",
+        "searchTerm": "calamari rings",
+        "normalizedName": "Calamari Ring"
+      },
+      {
+        "ingredient": "2 cups 2% milk, or as needed",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup corn flour",
+        "searchTerm": "corn flour",
+        "normalizedName": "Corn Flour"
+      },
+      {
+        "ingredient": "½ cup gluten-free all purpose baking flour",
+        "searchTerm": "gluten-free flour",
+        "normalizedName": "Gluten-Free Flour"
+      },
+      {
+        "ingredient": "oil for frying",
+        "searchTerm": "frying oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep fryer or pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Candy thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "Shallow dish",
+        "searchTerm": "shallow bowl"
+      }
+    ],
+    "cookingTips": [
+      "Thaw calamari and pat completely dry to prevent oil splattering",
+      "Soak calamari in milk for at least 30 minutes before breading for tenderness",
+      "Maintain oil at 375°F and fry in quick batches to avoid overcooking"
+    ],
+    "coachingPrompt": "Teach how milk-soaking tenderizes calamari, the importance of completely dry surfaces before frying, and how to avoid rubbery texture through proper temperature and timing."
+  },
+  "timestamp": "2026-02-06T04:38:43.970Z"
+}

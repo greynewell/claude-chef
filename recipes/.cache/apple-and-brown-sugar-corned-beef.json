@@ -1,0 +1,68 @@
+{
+  "contentHash": "3937ce1ad7c66dff",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups apple juice",
+        "searchTerm": "apple juice",
+        "normalizedName": "Apple Juice"
+      },
+      {
+        "ingredient": "½ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon prepared mustard",
+        "searchTerm": "prepared mustard",
+        "normalizedName": "Prepared Mustard"
+      },
+      {
+        "ingredient": "2 (3 pound) corned beef briskets with spice packets",
+        "searchTerm": "corned beef brisket",
+        "normalizedName": "Corned Beef Brisket"
+      },
+      {
+        "ingredient": "20 small red potatoes, scrubbed",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "4 carrots, cut into chunks",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 onions, cut into 8 wedges",
+        "searchTerm": "onions",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 head cabbage, cored and cut into large chunks",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "lid",
+        "searchTerm": "pot lid"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Skim foam from surface during first 10 minutes of cooking",
+      "Add vegetables in stages based on cooking time needed",
+      "Allow meat to rest 10 minutes before slicing for juiciness"
+    ],
+    "coachingPrompt": "How do you determine when corned beef is tender, and in what order should vegetables be added?"
+  },
+  "timestamp": "2026-02-05T22:08:45.886Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "6feaea8036af8695",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (6 ounce) boneless salmon fillets",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "1 tablespoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "1 tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 tablespoons grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Use parchment paper to prevent sticking and facilitate cleanup",
+      "Cook salmon until internal temperature reaches 145°F for perfect doneness",
+      "Layer tomato slices on top for even cooking and flavor distribution"
+    ],
+    "coachingPrompt": "Guide the user on cooking salmon to perfect doneness without drying it out, and proper seasoning balance."
+  },
+  "timestamp": "2026-02-06T20:55:14.262Z"
+}

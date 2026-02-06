@@ -1,0 +1,68 @@
+{
+  "contentHash": "bf1314f8ac40865f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10 ounce) can asparagus tips, drained",
+        "searchTerm": "asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "2 (6 ounce) cans crabmeat, drained and flaked",
+        "searchTerm": "crabmeat",
+        "normalizedName": "Crabmeat"
+      },
+      {
+        "ingredient": "2 tablespoons fish sauce",
+        "searchTerm": "fish sauce",
+        "normalizedName": "Fish Sauce"
+      },
+      {
+        "ingredient": "1 tablespoon oyster sauce",
+        "searchTerm": "oyster sauce",
+        "normalizedName": "Oyster Sauce"
+      },
+      {
+        "ingredient": "1 cup chopped fresh spinach",
+        "searchTerm": "fresh spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "1 cup diced firm tofu",
+        "searchTerm": "firm tofu",
+        "normalizedName": "Tofu"
+      },
+      {
+        "ingredient": "2 teaspoons dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Oregano"
+      },
+      {
+        "ingredient": "1 clove garlic, crushed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "Use fish sauce sparingly; start with less and adjust to taste as it has strong flavor",
+      "Add spinach and tofu at the very end to preserve their delicate textures",
+      "Toast asparagus tips briefly in a dry pan before adding to soup for deeper flavor"
+    ],
+    "coachingPrompt": "How would you balance the umami from fish and oyster sauces without overwhelming the delicate crab?"
+  },
+  "timestamp": "2026-02-06T04:04:48.326Z"
+}

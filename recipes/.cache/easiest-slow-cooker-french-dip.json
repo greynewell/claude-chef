@@ -1,0 +1,53 @@
+{
+  "contentHash": "e121de8a8a156826",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds beef sirloin roast",
+        "searchTerm": "beef sirloin roast",
+        "normalizedName": "Beef Sirloin Roast"
+      },
+      {
+        "ingredient": "1 (1 ounce) packet dry au jus mix",
+        "searchTerm": "au jus mix",
+        "normalizedName": "Au Jus Mix"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "8 (1 ounce) slices provolone cheese",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      },
+      {
+        "ingredient": "8 hoagie rolls, split lengthwise",
+        "searchTerm": "hoagie rolls",
+        "normalizedName": "Hoagie Roll"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "kitchen shears",
+        "searchTerm": "kitchen shears"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "small bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook roast on low for 6-8 hours until shredded easily with a fork",
+      "Shred beef in the slow cooker and let it soak in au jus for maximum flavor",
+      "Toast hoagie rolls and top with shredded beef and provolone, then broil until cheese melts"
+    ],
+    "coachingPrompt": "How long should the roast cook for optimal tenderness? Why toast the rolls?"
+  },
+  "timestamp": "2026-02-06T05:27:03.257Z"
+}

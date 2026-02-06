@@ -1,0 +1,52 @@
+{
+  "contentHash": "940b36be2d9b44b2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 (12 ounce) bottles beer",
+        "searchTerm": "beer",
+        "normalizedName": "Beer"
+      },
+      {
+        "ingredient": "1 tablespoon seafood seasoning (such as Old Bay)",
+        "searchTerm": "Old Bay seasoning",
+        "normalizedName": "Old Bay Seasoning"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 lemon, halved crosswise",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "1 ½ pounds fresh shrimp, with shells and tails on",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Slotted spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Bring beer to a rolling boil before adding shrimp to ensure quick cooking",
+      "Cook shrimp just until they turn pink and curl; overcooking makes them rubbery"
+    ],
+    "coachingPrompt": "What's the ideal boiling time to keep shrimp tender while developing full flavor?"
+  },
+  "timestamp": "2026-02-05T23:48:23.514Z"
+}

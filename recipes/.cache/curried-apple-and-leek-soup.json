@@ -1,0 +1,73 @@
+{
+  "contentHash": "bb77925b31b3e2f1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "2 teaspoons curry powder",
+        "searchTerm": "curry powder",
+        "normalizedName": "Curry Powder"
+      },
+      {
+        "ingredient": "3 leeks, chopped",
+        "searchTerm": "leek",
+        "normalizedName": "Leek"
+      },
+      {
+        "ingredient": "¾ cup diced potatoes",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "2 Granny Smith apples -- peeled, cored and chopped",
+        "searchTerm": "granny smith apple",
+        "normalizedName": "Granny Smith Apple"
+      },
+      {
+        "ingredient": "3 cups vegetable broth",
+        "searchTerm": "vegetable broth",
+        "normalizedName": "Vegetable Broth"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "¼ cup plain yogurt",
+        "searchTerm": "plain yogurt",
+        "normalizedName": "Plain Yogurt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Use Granny Smith apples for their tart flavor that balances the curry",
+      "Chop leeks thoroughly and rinse well to remove dirt",
+      "Blend the soup to a smooth consistency for best texture"
+    ],
+    "coachingPrompt": "Help the user create a balanced curry-apple flavor profile and suggest garnish options with the yogurt."
+  },
+  "timestamp": "2026-02-06T04:49:39.529Z"
+}

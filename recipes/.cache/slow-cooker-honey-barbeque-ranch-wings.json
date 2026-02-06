@@ -1,0 +1,48 @@
+{
+  "contentHash": "abad9253af493daa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups barbeque sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "1 cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "3 (1 ounce) packages ranch dressing mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Ranch Dressing Mix"
+      },
+      {
+        "ingredient": "8 chicken wings",
+        "searchTerm": "chicken wings",
+        "normalizedName": "Chicken Wing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Small Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Whisk sauce ingredients together before adding wings for even coating",
+      "Cook on low for tender, fall-off-the-bone wings without drying them out",
+      "Serve with celery sticks and ranch dip for classic appetizer presentation"
+    ],
+    "coachingPrompt": "Guide them to mix the sauce first, then remind them that low heat keeps wings moist and flavorful."
+  },
+  "timestamp": "2026-02-06T18:11:28.221Z"
+}

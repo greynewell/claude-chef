@@ -1,0 +1,48 @@
+{
+  "contentHash": "e9c215827af02285",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups shredded part-skim mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "5 cherry tomatoes, thinly sliced",
+        "searchTerm": "cherry tomato",
+        "normalizedName": "Cherry Tomato"
+      },
+      {
+        "ingredient": "2 tablespoons torn fresh basil leaves",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      },
+      {
+        "ingredient": "4 small fresh mozzarella balls (bocconcini), thinly sliced",
+        "searchTerm": "fresh mozzarella",
+        "normalizedName": "Fresh Mozzarella Ball"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Use a preheated skillet to create a crispy cheese crust",
+      "Add toppings after the cheese begins to melt",
+      "Finish under the broiler for melted, bubbly cheese"
+    ],
+    "coachingPrompt": "A quick pizza fix! What other toppings would you like to add?"
+  },
+  "timestamp": "2026-02-06T01:51:00.655Z"
+}

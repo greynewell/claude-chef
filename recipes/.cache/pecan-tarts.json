@@ -1,0 +1,63 @@
+{
+  "contentHash": "7ca499b28354a654",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 recipe pastry for a 9 inch double crust pie",
+        "searchTerm": "pie pastry",
+        "normalizedName": "Pie Pastry"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 tablespoons butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "5 tablespoons dark corn syrup",
+        "searchTerm": "corn syrup",
+        "normalizedName": "Corn Syrup"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 cup chopped pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      }
+    ],
+    "gear": [
+      {
+        "name": "tart pan",
+        "searchTerm": "tart pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Divide pastry evenly among tart molds for uniform baking",
+      "Fill shells after pre-baking for crispy crusts",
+      "Let tarts cool before unmolding to prevent breaking"
+    ],
+    "coachingPrompt": "These use a double crust pie recipe as the base. How would you shape pastry into individual tarts?"
+  },
+  "timestamp": "2026-02-06T14:30:01.083Z"
+}

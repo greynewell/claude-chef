@@ -1,0 +1,51 @@
+{
+  "contentHash": "473c04bc70955859",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "3 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¾ cup real maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "custard cups or ramekins",
+        "searchTerm": "custard cups"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "water bath or baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Whisk eggs and milk gently to avoid incorporating excess air and bubbles",
+      "Strain mixture through fine sieve for silky, smooth custard texture",
+      "Bake in a water bath at 325°F for 30-40 minutes until just set but still slightly jiggly in center"
+    ],
+    "coachingPrompt": "Advise on the water bath technique and achieving the perfect custard consistency."
+  },
+  "timestamp": "2026-02-06T11:55:22.811Z"
+}

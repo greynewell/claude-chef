@@ -1,0 +1,48 @@
+{
+  "contentHash": "4bfd6e78261cd401",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 slices Italian bread",
+        "searchTerm": "italian bread",
+        "normalizedName": "Italian Bread"
+      },
+      {
+        "ingredient": "2 ½ teaspoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "4 vine-ripened tomatoes",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 teaspoon chopped fresh basil",
+        "searchTerm": "basil",
+        "normalizedName": "Basil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      }
+    ],
+    "cookingTips": [
+      "Choose ripe vine tomatoes for best flavor and color",
+      "Toast bread until golden and crispy",
+      "Use a very light hand with olive oil to avoid oversaturation"
+    ],
+    "coachingPrompt": "This is a simple, minimalist bruschetta. How will you season the tomato mixture?"
+  },
+  "timestamp": "2026-02-06T00:51:42.393Z"
+}

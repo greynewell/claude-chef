@@ -1,0 +1,48 @@
+{
+  "contentHash": "4778ee5fa123acd0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup leftover corned beef brisket, shredded",
+        "searchTerm": "corned beef",
+        "normalizedName": "Corned Beef"
+      },
+      {
+        "ingredient": "2 (8 inch) flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "½ cup shredded Monterey Jack cheese",
+        "searchTerm": "monterey jack cheese",
+        "normalizedName": "Monterey Jack Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons diced green chilies",
+        "searchTerm": "green chiles",
+        "normalizedName": "Green Chile"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Warm tortillas slightly before filling for easier handling",
+      "Distribute cheese evenly to help quesadilla hold together when flipped",
+      "Cook over medium heat until cheese melts and tortilla is lightly golden"
+    ],
+    "coachingPrompt": "What are good side dishes to serve with quesadillas?"
+  },
+  "timestamp": "2026-02-06T18:44:36.933Z"
+}

@@ -1,0 +1,49 @@
+{
+  "contentHash": "d969e6756b2f3b2c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 thick slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "2 slices ham",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Butter the outside of bread generously before pan-frying for even golden-brown crust",
+      "Use medium heat to allow cheese to melt fully before bread burns",
+      "Cook egg in the same pan after removing sandwich, using residual heat and butter"
+    ],
+    "coachingPrompt": "Coach the cook on pan-frying a sandwich to get crispy exterior while melting cheese throughout, plus timing the egg so it's warm and ready."
+  },
+  "timestamp": "2026-02-06T04:42:46.854Z"
+}

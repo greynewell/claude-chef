@@ -1,0 +1,47 @@
+{
+  "contentHash": "fc2c38ba67d3feea",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound fresh mushrooms, stems removed",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "8 ounces blue cheese",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      },
+      {
+        "ingredient": "3 medium onions, sliced into rings",
+        "searchTerm": "onions",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill or grill pan",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Select mushrooms of similar size for even cooking",
+      "Grill onions until caramelized for sweet depth of flavor"
+    ],
+    "coachingPrompt": "How do you prevent mushrooms from releasing too much liquid and becoming soggy?"
+  },
+  "timestamp": "2026-02-06T00:19:44.073Z"
+}

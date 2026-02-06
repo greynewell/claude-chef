@@ -1,0 +1,48 @@
+{
+  "contentHash": "5f079fc15e3c0d7f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "3 cups self-rising flour",
+        "searchTerm": "self-rising flour",
+        "normalizedName": "Self-Rising Flour"
+      },
+      {
+        "ingredient": "1 cup lemon-flavored soda",
+        "searchTerm": "lemon soda",
+        "normalizedName": "Lemon Soda"
+      },
+      {
+        "ingredient": "1 cup heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Mix dough gently and minimally to keep scones tender and light",
+      "The soda and cream create lift, so don't skip either ingredient",
+      "Pat dough into a thick disk and cut into wedges for uniform baking"
+    ],
+    "coachingPrompt": "Help me make lemon scones using self-rising flour, soda, and cream in the easiest way possible."
+  },
+  "timestamp": "2026-02-05T21:25:21.009Z"
+}

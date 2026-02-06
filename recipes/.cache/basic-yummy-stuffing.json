@@ -1,0 +1,62 @@
+{
+  "contentHash": "e46097b4216c08db",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 stalks celery, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (8 ounce) can oysters",
+        "searchTerm": "canned oyster",
+        "normalizedName": "Oyster"
+      },
+      {
+        "ingredient": "1 ½ teaspoons poultry seasoning",
+        "searchTerm": "poultry seasoning",
+        "normalizedName": "Poultry Seasoning"
+      },
+      {
+        "ingredient": "1 (1 pound) loaf day-old bread",
+        "searchTerm": "day old bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "½ cup turkey drippings",
+        "searchTerm": "turkey drippings",
+        "normalizedName": "Turkey Drippings"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Use day-old bread as it absorbs liquid better than fresh bread",
+      "Reserve oyster liquid and add gradually to achieve desired moisture without making stuffing soggy"
+    ],
+    "coachingPrompt": "Do you prefer a moist, custard-like stuffing or a drier, more bread-forward version?"
+  },
+  "timestamp": "2026-02-05T23:34:21.977Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "3ce192933f2cc0fe",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 sweet potatoes, peeled and cut into 1/2 inch wide fries",
+        "searchTerm": "sweet potato",
+        "normalizedName": "Sweet Potato"
+      },
+      {
+        "ingredient": "1 tablespoon canola oil",
+        "searchTerm": "canola oil",
+        "normalizedName": "Canola Oil"
+      },
+      {
+        "ingredient": "½ teaspoon kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon pepper",
+        "searchTerm": "pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "⅛ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground sweet paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Air Fryer Basket",
+        "searchTerm": "air fryer basket"
+      },
+      {
+        "name": "Vegetable Peeler",
+        "searchTerm": "vegetable peeler"
+      }
+    ],
+    "cookingTips": [
+      "Cut sweet potatoes into uniform thickness so they cook evenly in the air fryer",
+      "Soak cut fries in water for 30 minutes before cooking to reduce starch and achieve crispier texture",
+      "Shake basket every 5 minutes during cooking at 380°F for 15-20 minutes to prevent sticking"
+    ],
+    "coachingPrompt": "Guide the user through cutting uniform fries, soaking, tossing with seasonings, and air frying with timing."
+  },
+  "timestamp": "2026-02-05T21:38:14.880Z"
+}

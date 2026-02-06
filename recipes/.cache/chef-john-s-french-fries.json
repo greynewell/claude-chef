@@ -1,0 +1,43 @@
+{
+  "contentHash": "8762de7255d67df6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 russet potato, cut into evenly sized strips",
+        "searchTerm": "russet potato",
+        "normalizedName": "Russet Potato"
+      },
+      {
+        "ingredient": "1 quart vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep fryer or heavy pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Slotted spoon",
+        "searchTerm": "slotted spoon"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "instant-read thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Soak cut potatoes in cold water for 30 minutes to remove excess starch",
+      "Double fry technique: first at 325°F to cook through, then at 375°F for crispiness",
+      "Salt immediately after removing from oil while still hot"
+    ],
+    "coachingPrompt": "Teach the user about the two-stage frying method and why potato variety matters."
+  },
+  "timestamp": "2026-02-06T02:03:44.678Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "114168f7b04b970a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (.7 ounce) package dry Italian-style salad dressing mix",
+        "searchTerm": "italian dressing mix",
+        "normalizedName": "Italian Dressing Mix"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 French baguette, cut into 1/2 inch thick circles",
+        "searchTerm": "french baguette",
+        "normalizedName": "French Baguette"
+      },
+      {
+        "ingredient": "1 cucumber, sliced",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "2 teaspoons dried dill weed",
+        "searchTerm": "dried dill",
+        "normalizedName": "Dried Dill"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Toaster or broiler",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Toast baguette slices until golden but not hard to maintain slight texture",
+      "Add cucumber slices just before serving to prevent sogginess"
+    ],
+    "coachingPrompt": "Remind the user that the cream cheese mixture should be spread thickly on toast while still warm for better adherence and creaminess."
+  },
+  "timestamp": "2026-02-06T04:26:12.762Z"
+}

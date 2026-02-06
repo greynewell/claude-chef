@@ -1,0 +1,53 @@
+{
+  "contentHash": "7aadd1644b134c67",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (5 1/2 pound) corned beef brisket",
+        "searchTerm": "corned beef brisket",
+        "normalizedName": "Corned Beef Brisket"
+      },
+      {
+        "ingredient": "2 large onions",
+        "searchTerm": "onions",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "15 small white (Irish) potatoes",
+        "searchTerm": "white potatoes",
+        "normalizedName": "White Potato"
+      },
+      {
+        "ingredient": "10 carrots, cut into 1 inch pieces",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 heads cabbage, cored and cut into wedges",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Chef's Knife",
+        "searchTerm": "chef knife"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Rinse corned beef under water briefly and place directly in cold water to start the cooking process gently",
+      "Remove vegetables strategically during cooking so each finishes at the right tenderness—potatoes first, cabbage last",
+      "Slice corned beef against the grain after cooking for maximum tenderness"
+    ],
+    "coachingPrompt": "Help the user understand the gentle cooking method required for corned beef and explain how to time vegetable additions for perfectly cooked components."
+  },
+  "timestamp": "2026-02-06T10:00:37.179Z"
+}

@@ -1,0 +1,62 @@
+{
+  "contentHash": "0ec2b83b921bc9cb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "⅓ cup light soy sauce",
+        "searchTerm": "soy sauce light",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "¼ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "3 tablespoons lemon pepper seasoning",
+        "searchTerm": "lemon pepper seasoning",
+        "normalizedName": "Lemon Pepper Seasoning"
+      },
+      {
+        "ingredient": "2 teaspoons minced garlic",
+        "searchTerm": "garlic minced",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "6 boneless pork loin chops, trimmed of fat",
+        "searchTerm": "pork loin chops boneless",
+        "normalizedName": "Pork Loin Chop"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "grill tongs"
+      }
+    ],
+    "cookingTips": [
+      "Marinate pork chops for 2-4 hours at room temperature or overnight refrigerated",
+      "Pat chops dry before grilling to achieve better crust and browning",
+      "Grill over medium-high heat for 4-5 minutes per side until internal temperature reaches 145°F"
+    ],
+    "coachingPrompt": "How can you tell when pork chops are cooked through without cutting into them?"
+  },
+  "timestamp": "2026-02-06T00:00:31.858Z"
+}

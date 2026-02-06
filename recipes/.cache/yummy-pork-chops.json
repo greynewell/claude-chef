@@ -1,0 +1,43 @@
+{
+  "contentHash": "2c98081dd7d87d20",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups Italian-style salad dressing",
+        "searchTerm": "Italian salad dressing",
+        "normalizedName": "Italian Salad Dressing"
+      },
+      {
+        "ingredient": "¼ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "½ teaspoon pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 boneless pork chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      }
+    ],
+    "gear": [
+      {
+        "name": "shallow dish",
+        "searchTerm": "marinating dish"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "frying pan"
+      }
+    ],
+    "cookingTips": [
+      "Marinate pork chops for 30 minutes to 2 hours for best flavor",
+      "Cook to internal temperature of 145°F for safe, juicy results"
+    ],
+    "coachingPrompt": "This Asian-Italian fusion marinade adds great flavor. Do you prefer pan-searing or grilling your pork chops?"
+  },
+  "timestamp": "2026-02-06T22:21:03.721Z"
+}

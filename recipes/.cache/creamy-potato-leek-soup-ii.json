@@ -1,0 +1,51 @@
+{
+  "contentHash": "11e1c23fce14c132",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 potatoes, peeled and cubed",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "4 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 pound bacon, cut into 1 inch pieces",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "3 leeks, sliced",
+        "searchTerm": "leeks",
+        "normalizedName": "Leek"
+      },
+      {
+        "ingredient": "1 cup heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large stockpot",
+        "searchTerm": "stockpot"
+      },
+      {
+        "name": "immersion blender",
+        "searchTerm": "immersion blender"
+      },
+      {
+        "name": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Clean leeks thoroughly by slicing lengthwise and rinsing between layers to remove sand",
+      "Render bacon until crispy before cooking other ingredients for maximum flavor"
+    ],
+    "coachingPrompt": "Bacon adds richness to this classic soup. Should you blend it smooth or leave it chunky?"
+  },
+  "timestamp": "2026-02-06T04:31:11.345Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "5e067a2141cbe58d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground turkey",
+        "searchTerm": "ground turkey",
+        "normalizedName": "Ground Turkey"
+      },
+      {
+        "ingredient": "1 cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "2 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons white vinegar",
+        "searchTerm": "white vinegar",
+        "normalizedName": "White Vinegar"
+      },
+      {
+        "ingredient": "2 tablespoons yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground turkey completely, breaking it into small pieces for better sauce absorption",
+      "Mix sauce ingredients separately before adding to meat for consistent flavor",
+      "Simmer for 5-10 minutes to allow sauce to thicken and flavors to blend"
+    ],
+    "coachingPrompt": "How can I make sloppy joes with a thick sauce that doesn't fall off the bun?"
+  },
+  "timestamp": "2026-02-06T12:47:07.813Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "a0a4b79d47a170de",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup quinoa",
+        "searchTerm": "quinoa",
+        "normalizedName": "Quinoa"
+      },
+      {
+        "ingredient": "3 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 tablespoons raw sunflower seeds",
+        "searchTerm": "sunflower seeds",
+        "normalizedName": "Sunflower Seed"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ cup fresh spinach leaves",
+        "searchTerm": "spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "2 teaspoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "⅓ cup grated goat gouda cheese",
+        "searchTerm": "goat gouda cheese",
+        "normalizedName": "Goat Gouda Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Toast quinoa before cooking to enhance nutty flavor",
+      "Add spinach at the end to preserve vibrant color and nutrients",
+      "Crumble goat cheese just before serving for better texture"
+    ],
+    "coachingPrompt": "Guide the user through toasting quinoa and timing the spinach addition to maintain freshness."
+  },
+  "timestamp": "2026-02-06T01:54:02.960Z"
+}

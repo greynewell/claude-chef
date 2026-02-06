@@ -1,0 +1,53 @@
+{
+  "contentHash": "b5e9bd4d8b07fe47",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 cup shredded Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "⅓ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup baking mix",
+        "searchTerm": "baking mix",
+        "normalizedName": "Baking Mix"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      "pie dish",
+      "whisk",
+      "oven"
+    ],
+    "cookingTips": [
+      "Layer cooked bacon on pie crust before adding egg mixture",
+      "Let custard set 5 minutes after baking for clean slices"
+    ],
+    "coachingPrompt": "Is this your first quiche-style pie? Should we discuss doneness indicators?"
+  },
+  "timestamp": "2026-02-05T22:51:53.688Z"
+}

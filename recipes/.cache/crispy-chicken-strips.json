@@ -1,0 +1,53 @@
+{
+  "contentHash": "609b084a778a0a07",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 ½ cups crispy rice cereal, coarsely crushed",
+        "searchTerm": "rice cereal",
+        "normalizedName": "Rice Cereal"
+      },
+      {
+        "ingredient": "2 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 teaspoons salt-free seasoning blend",
+        "searchTerm": "seasoning blend",
+        "normalizedName": "Seasoning Blend"
+      },
+      {
+        "ingredient": "1 pound boneless, skinless chicken breast tenders",
+        "searchTerm": "chicken tenders",
+        "normalizedName": "Chicken Tender"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Shallow dish",
+        "searchTerm": "shallow bowl"
+      },
+      {
+        "name": "Meat mallet",
+        "searchTerm": "meat tenderizer"
+      }
+    ],
+    "cookingTips": [
+      "Crush cereal into varied sizes for better texture contrast",
+      "Pat chicken dry before breading for crispier coating",
+      "Bake at 400°F for 15-20 minutes until golden brown"
+    ],
+    "coachingPrompt": "Guide the user on how to achieve a crispy cereal crust while keeping chicken tender inside, and the importance of dry surfaces for coating adhesion."
+  },
+  "timestamp": "2026-02-06T04:38:43.965Z"
+}

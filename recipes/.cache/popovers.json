@@ -1,0 +1,48 @@
+{
+  "contentHash": "ad28e279bc9963a4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Popover Pan",
+        "searchTerm": "popover pan"
+      },
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Use room-temperature ingredients for best results",
+      "Preheat the pan thoroughly before adding batter",
+      "Don't open the oven door during baking or popovers will collapse"
+    ],
+    "coachingPrompt": "I want to make tall, dramatic popovers that puff up beautifully. What's the technique for getting maximum rise?"
+  },
+  "timestamp": "2026-02-06T15:02:30.579Z"
+}

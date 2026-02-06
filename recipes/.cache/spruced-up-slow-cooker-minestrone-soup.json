@@ -1,0 +1,62 @@
+{
+  "contentHash": "d9a0077e027acc4c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "2 (15 ounce) cans Beans, pinto, mature seeds, canned",
+        "searchTerm": "pinto beans canned",
+        "normalizedName": "Pinto Bean"
+      },
+      {
+        "ingredient": "2 (10.75 ounce) cans condensed minestrone soup",
+        "searchTerm": "minestrone soup condensed",
+        "normalizedName": "Minestrone Soup"
+      },
+      {
+        "ingredient": "1 (15 ounce) can whole kernel corn, undrained",
+        "searchTerm": "corn whole kernel",
+        "normalizedName": "Whole Kernel Corn"
+      },
+      {
+        "ingredient": "1 (15 ounce) can green beans, undrained",
+        "searchTerm": "green beans canned",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "1 (15 ounce) can diced tomatoes, undrained",
+        "searchTerm": "tomatoes diced canned",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "1 (10 ounce) can diced tomatoes and green chiles (such as RO*TEL®), undrained",
+        "searchTerm": "rotel diced tomatoes green chiles",
+        "normalizedName": "Diced Tomato with Green Chile"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker crock pot"
+      },
+      {
+        "name": "Large Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef before adding to slow cooker for deeper flavor",
+      "Cook on low for 6-8 hours or high for 3-4 hours for best soup consistency"
+    ],
+    "coachingPrompt": "Help the cook understand slow cooker timing and the importance of browning meat first."
+  },
+  "timestamp": "2026-02-06T19:21:11.261Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "e5505c3ae7a9c12a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 tablespoons milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 cup sifted all-purpose flour",
+        "searchTerm": "flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ teaspoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "rolling pin",
+        "searchTerm": "rolling pin"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Knead dough until smooth and elastic for tender noodles",
+      "Let dough rest 15 minutes before rolling for easier handling",
+      "Cut noodles uniform thickness for even cooking"
+    ],
+    "coachingPrompt": "How would you prepare homemade egg noodles from scratch?"
+  },
+  "timestamp": "2026-02-06T07:52:12.213Z"
+}

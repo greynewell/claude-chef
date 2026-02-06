@@ -1,0 +1,78 @@
+{
+  "contentHash": "8ad3bd7ed75cb936",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 bag (32 oz.) frozen diced potatoes",
+        "searchTerm": "frozen diced potatoes",
+        "normalizedName": "Frozen Diced Potato"
+      },
+      {
+        "ingredient": "1 (10.5 ounce) can condensed cream of celery soup",
+        "searchTerm": "cream of celery soup",
+        "normalizedName": "Cream Of Celery Soup"
+      },
+      {
+        "ingredient": "1 small onion, finely chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese, divided",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "2 tablespoons unsalted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ cup kettle-cooked potato chips",
+        "searchTerm": "potato chips",
+        "normalizedName": "Kettle-Cooked Potato Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "cooking spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use frozen potatoes directly without thawing for better texture",
+      "Reserve some cheese for the final layer for melting",
+      "Add potato chips just before serving to maintain crunch"
+    ],
+    "coachingPrompt": "Why do you add potato chips at the end instead of throughout cooking?"
+  },
+  "timestamp": "2026-02-06T18:10:18.809Z"
+}

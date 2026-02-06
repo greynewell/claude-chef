@@ -1,0 +1,53 @@
+{
+  "contentHash": "8f67c2f9536b8917",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 red jalapeno peppers, tops and seeds removed",
+        "searchTerm": "red jalapeno peppers",
+        "normalizedName": "Red Jalapeno Pepper"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "⅛ cup distilled white vinegar",
+        "searchTerm": "white vinegar",
+        "normalizedName": "White Vinegar"
+      },
+      {
+        "ingredient": "5 tablespoons feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Small Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Wear gloves when handling jalapenos to protect hands from capsaicin oils",
+      "Carefully remove seeds and membranes, leaving the pepper intact for stuffing",
+      "Mix feta and cream cheese together for easier piping into pepper cavities"
+    ],
+    "coachingPrompt": "Help the user prepare a classic appetizer combining spicy jalapenos with cool, creamy cheese filling."
+  },
+  "timestamp": "2026-02-06T06:35:20.095Z"
+}

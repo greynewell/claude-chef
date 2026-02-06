@@ -1,0 +1,53 @@
+{
+  "contentHash": "d9c3a3f086056494",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 pounds frozen cooked meatballs, thawed",
+        "searchTerm": "frozen cooked meatballs",
+        "normalizedName": "Frozen Cooked Meatball"
+      },
+      {
+        "ingredient": "1 (28 ounce) bottle ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "1 (18 ounce) jar apple jelly",
+        "searchTerm": "apple jelly",
+        "normalizedName": "Apple Jelly"
+      },
+      {
+        "ingredient": "1 (12 ounce) jar red currant jelly",
+        "searchTerm": "red currant jelly",
+        "normalizedName": "Red Currant Jelly"
+      },
+      {
+        "ingredient": "¼ teaspoon hot sauce",
+        "searchTerm": "hot sauce",
+        "normalizedName": "Hot Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "serving spoon",
+        "searchTerm": "serving spoon"
+      }
+    ],
+    "cookingTips": [
+      "Combine jellies and ketchup in slow cooker before adding meatballs for smooth sauce",
+      "Cook on low for 2-3 hours to prevent sauce from burning and flavors to meld",
+      "Keep warm on low setting during party for easy serving from slow cooker"
+    ],
+    "coachingPrompt": "Walk the user through creating a sweet and tangy glaze that coats the meatballs evenly and stays warm throughout a party."
+  },
+  "timestamp": "2026-02-06T14:12:40.626Z"
+}

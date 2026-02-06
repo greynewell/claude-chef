@@ -1,0 +1,53 @@
+{
+  "contentHash": "3e17908b2f8b9b5c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 fluid ounce brewed espresso",
+        "searchTerm": "espresso",
+        "normalizedName": "Espresso"
+      },
+      {
+        "ingredient": "1 ½ fluid ounces vodka",
+        "searchTerm": "vodka",
+        "normalizedName": "Vodka"
+      },
+      {
+        "ingredient": "1 ½ fluid ounces coffee-flavored liqueur (such as Kahlua®)",
+        "searchTerm": "coffee liqueur",
+        "normalizedName": "Coffee-Flavored Liqueur"
+      },
+      {
+        "ingredient": "1 fluid ounce white creme de cacao",
+        "searchTerm": "creme de cacao",
+        "normalizedName": "Creme de Cacao"
+      },
+      {
+        "ingredient": "1 cup ice",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cocktail shaker",
+        "searchTerm": "shaker"
+      },
+      {
+        "name": "Jigger",
+        "searchTerm": "jigger"
+      },
+      {
+        "name": "Martini glass",
+        "searchTerm": "martini glass"
+      }
+    ],
+    "cookingTips": [
+      "Use freshly brewed espresso cooled to room temperature to prevent melting ice too quickly",
+      "Shake vigorously for 10-15 seconds to create the signature foam on top",
+      "Strain immediately into a chilled glass to maintain temperature and presentation"
+    ],
+    "coachingPrompt": "What creates that signature silky foam on an Espresso Martini?"
+  },
+  "timestamp": "2026-02-06T06:23:30.067Z"
+}

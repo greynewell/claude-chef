@@ -1,0 +1,73 @@
+{
+  "contentHash": "1ba437a10c287aac",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 ounces fresh mushrooms, sliced",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "1 cup sliced leeks",
+        "searchTerm": "leeks",
+        "normalizedName": "Leek"
+      },
+      {
+        "ingredient": "2 tablespoons margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ cup dry sherry",
+        "searchTerm": "dry sherry",
+        "normalizedName": "Dry Sherry"
+      },
+      {
+        "ingredient": "3 (10.5 ounce) cans condensed beef broth",
+        "searchTerm": "beef broth",
+        "normalizedName": "Beef Broth"
+      },
+      {
+        "ingredient": "3 ¾ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ cup uncooked orzo pasta",
+        "searchTerm": "orzo pasta",
+        "normalizedName": "Orzo Pasta"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Chef's knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Clean leeks thoroughly by slicing lengthwise and rinsing between layers for trapped soil",
+      "Use sherry to deglaze the pan and build flavor complexity",
+      "Add orzo in the last 10 minutes to prevent mushiness"
+    ],
+    "coachingPrompt": "Guide the cook through proper leek cleaning and how to balance earthy mushrooms with the sweet notes of sherry."
+  },
+  "timestamp": "2026-02-06T12:58:11.173Z"
+}

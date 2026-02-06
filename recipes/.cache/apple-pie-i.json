@@ -1,0 +1,48 @@
+{
+  "contentHash": "1d2ce1ade2099f43",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 cups thinly sliced apples",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "1 recipe pastry for a 9-inch double-crust pie",
+        "searchTerm": "pie dough",
+        "normalizedName": "Pie Dough"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pie dish",
+        "searchTerm": "pie dish"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "sharp knife"
+      }
+    ],
+    "cookingTips": [
+      "Slice apples thinly and uniformly for even cooking throughout pie",
+      "Butter added to filling creates silky texture as it melts during baking"
+    ],
+    "coachingPrompt": "What is the advantage of this minimal-ingredient approach compared to more complex fillings?"
+  },
+  "timestamp": "2026-02-05T22:14:36.332Z"
+}

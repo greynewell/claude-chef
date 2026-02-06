@@ -1,0 +1,49 @@
+{
+  "contentHash": "3d07a18888d7c256",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "4 salmon fillets",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "salt and freshly ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and freshly ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "fish spatula",
+        "searchTerm": "fish spatula"
+      }
+    ],
+    "cookingTips": [
+      "Pat salmon dry before cooking to achieve a better crust",
+      "Use medium-high heat and don't flip too often; cook skin-side down first",
+      "Salmon is done when it flakes easily and reaches 145°F internally"
+    ],
+    "coachingPrompt": "Guide me through cooking salmon perfectly with just butter and lemon juice."
+  },
+  "timestamp": "2026-02-06T14:03:22.278Z"
+}

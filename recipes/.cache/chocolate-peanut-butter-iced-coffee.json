@@ -1,0 +1,57 @@
+{
+  "contentHash": "a7eddbf1b8968585",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup brewed coffee",
+        "searchTerm": "brewed coffee",
+        "normalizedName": "Coffee"
+      },
+      {
+        "ingredient": "½ cup soy milk",
+        "searchTerm": "soy milk",
+        "normalizedName": "Soy Milk"
+      },
+      {
+        "ingredient": "2 tablespoons chocolate syrup",
+        "searchTerm": "chocolate syrup",
+        "normalizedName": "Chocolate Syrup"
+      },
+      {
+        "ingredient": "1 tablespoon peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 packet granular no-calorie sucralose sweetener (such as Splenda®)",
+        "searchTerm": "sucralose sweetener",
+        "normalizedName": "Sucralose Sweetener"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "tall glass",
+        "searchTerm": "drinking glass"
+      },
+      {
+        "name": "ice",
+        "searchTerm": "ice"
+      }
+    ],
+    "cookingTips": [
+      "Blend peanut butter with hot coffee first to fully incorporate before chilling",
+      "Add ice after blending to achieve desired cold temperature and consistency"
+    ],
+    "coachingPrompt": "Show me how to blend a smooth chocolate-peanut butter iced coffee drink with dairy-free milk."
+  },
+  "timestamp": "2026-02-06T03:10:42.720Z"
+}

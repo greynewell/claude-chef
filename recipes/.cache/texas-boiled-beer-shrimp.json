@@ -1,0 +1,43 @@
+{
+  "contentHash": "026d5870467133a1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (12 fluid ounce) cans or bottles light beer",
+        "searchTerm": "light beer",
+        "normalizedName": "Light Beer"
+      },
+      {
+        "ingredient": "2 tablespoons dry crab boil",
+        "searchTerm": "crab boil seasoning",
+        "normalizedName": "Crab Boil Seasoning"
+      },
+      {
+        "ingredient": "2 pounds large shrimp",
+        "searchTerm": "large shrimp",
+        "normalizedName": "Large Shrimp"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Bring beer mixture to a boil before adding shrimp",
+      "Cook shrimp for only 3-4 minutes until pink to avoid toughness",
+      "Drain immediately and serve with cocktail sauce or melted butter"
+    ],
+    "coachingPrompt": "Do you prefer your shrimp peeled before or after cooking?"
+  },
+  "timestamp": "2026-02-06T20:27:21.024Z"
+}

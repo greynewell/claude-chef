@@ -1,0 +1,53 @@
+{
+  "contentHash": "cd4ea7d6993a0fb9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 bunch fresh asparagus, trimmed",
+        "searchTerm": "fresh asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "½ (2.2 pound) wheel Brie cheese, sliced",
+        "searchTerm": "Brie cheese",
+        "normalizedName": "Brie Cheese"
+      },
+      {
+        "ingredient": "¼ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup dry bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "¼ cup toasted sesame seeds",
+        "searchTerm": "sesame seeds",
+        "normalizedName": "Sesame Seed"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Shallow Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Toast sesame seeds lightly before using for enhanced nutty flavor",
+      "Arrange asparagus in single layer for even brie melting",
+      "Watch carefully as Brie melts quickly and can separate if overcooked"
+    ],
+    "coachingPrompt": "Teach the user how to toast sesame seeds properly and monitor the cheese melting to avoid overcooked, greasy results."
+  },
+  "timestamp": "2026-02-05T22:32:34.575Z"
+}

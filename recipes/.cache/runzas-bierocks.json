@@ -1,0 +1,62 @@
+{
+  "contentHash": "a948dd33d5ec894a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (3 pound) package frozen white bread dough",
+        "searchTerm": "frozen bread dough",
+        "normalizedName": "Frozen Bread Dough"
+      },
+      {
+        "ingredient": "1 ½ pounds ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 medium head cabbage, shredded",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "1 pound shredded mozzarella cheese",
+        "searchTerm": "shredded mozzarella cheese",
+        "normalizedName": "Shredded Mozzarella Cheese"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Rolling pin",
+        "searchTerm": "rolling pin"
+      }
+    ],
+    "cookingTips": [
+      "Thaw bread dough according to package directions for easier handling",
+      "Cool filling completely before assembling to prevent dough from getting too warm"
+    ],
+    "coachingPrompt": "Guide the baker through proper dough division, filling distribution, and sealing techniques."
+  },
+  "timestamp": "2026-02-06T16:37:06.666Z"
+}

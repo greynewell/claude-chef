@@ -1,0 +1,83 @@
+{
+  "contentHash": "00c365d2df2283d3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups chopped, cooked chicken breast",
+        "searchTerm": "cooked chicken breast",
+        "normalizedName": "Cooked Chicken Breast"
+      },
+      {
+        "ingredient": "1 (15.5 ounce) can white beans, drained",
+        "searchTerm": "white beans",
+        "normalizedName": "White Bean"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 (15.25 ounce) can white corn, drained",
+        "searchTerm": "white corn",
+        "normalizedName": "White Corn"
+      },
+      {
+        "ingredient": "1 (7 ounce) can green salsa",
+        "searchTerm": "green salsa",
+        "normalizedName": "Green Salsa"
+      },
+      {
+        "ingredient": "1 (4 ounce) can chopped green chilies",
+        "searchTerm": "green chilies",
+        "normalizedName": "Green Chile"
+      },
+      {
+        "ingredient": "1 large tomato, chopped",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "¼ cup chopped fresh cilantro",
+        "searchTerm": "fresh cilantro",
+        "normalizedName": "Fresh Cilantro"
+      },
+      {
+        "ingredient": "2 green onions, chopped",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 tablespoon lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Use pre-cooked rotisserie chicken to save time and add extra flavor",
+      "Add fresh garnishes like cilantro and lime juice just before serving for brightness",
+      "The combination of lemon and lime juice provides balanced acidity"
+    ],
+    "coachingPrompt": "Why would you add citrus juice at the end rather than during slow cooking?"
+  },
+  "timestamp": "2026-02-06T18:20:27.595Z"
+}

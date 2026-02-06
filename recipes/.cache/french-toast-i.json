@@ -1,0 +1,63 @@
+{
+  "contentHash": "ef6b0744435570b6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 thick slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅔ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ teaspoon ground cinnamon  (Optional)",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "¼ teaspoon ground nutmeg  (Optional)",
+        "searchTerm": "ground nutmeg",
+        "normalizedName": "Nutmeg"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract  (Optional)",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "shallow bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "The optional spices add warmth and depth—consider including them for enhanced flavor",
+      "Whisk the egg mixture until uniform before dipping bread",
+      "Cook over medium heat to develop a golden crust while ensuring the custard cooks through"
+    ],
+    "coachingPrompt": "This classic recipe has optional spices. Will you include them for extra flavor?"
+  },
+  "timestamp": "2026-02-06T06:55:51.195Z"
+}

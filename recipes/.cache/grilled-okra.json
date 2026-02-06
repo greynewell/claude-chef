@@ -1,0 +1,42 @@
+{
+  "contentHash": "d01be2c1230cb9bb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound fresh okra",
+        "searchTerm": "fresh okra",
+        "normalizedName": "Okra"
+      },
+      {
+        "ingredient": "¼ cup melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup Cajun seasoning",
+        "searchTerm": "Cajun seasoning",
+        "normalizedName": "Cajun Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill skewers",
+        "searchTerm": "metal grill skewers"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Soak skewers in water beforehand if using wood skewers to prevent burning",
+      "Toss okra frequently for even charring and cooking"
+    ],
+    "coachingPrompt": "Help me grill okra with Cajun flavors to create a flavorful Southern side dish"
+  },
+  "timestamp": "2026-02-06T08:21:08.931Z"
+}

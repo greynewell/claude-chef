@@ -1,0 +1,68 @@
+{
+  "contentHash": "3f05fca17f3ae5c0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (14.75 ounce) can cream-style corn",
+        "searchTerm": "cream-style corn",
+        "normalizedName": "Cream-Style Corn"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of potato soup",
+        "searchTerm": "cream of potato soup",
+        "normalizedName": "Condensed Cream of Potato Soup"
+      },
+      {
+        "ingredient": "1 ½ cups half-and-half cream",
+        "searchTerm": "half-and-half cream",
+        "normalizedName": "Half-and-Half Cream"
+      },
+      {
+        "ingredient": "¼ cup bacon bits",
+        "searchTerm": "bacon bits",
+        "normalizedName": "Bacon Bit"
+      },
+      {
+        "ingredient": "2 green onion, chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "¼ teaspoon cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cold cream cheese, cubed",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (4 ounce) can small shrimp, drained",
+        "searchTerm": "canned shrimp",
+        "normalizedName": "Canned Shrimp"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Can Opener",
+        "searchTerm": "can opener"
+      }
+    ],
+    "cookingTips": [
+      "Heat the soup base gently before adding cream cheese to prevent curdling",
+      "Cube the cream cheese first for easier melting",
+      "Add the shrimp at the end to prevent overcooking"
+    ],
+    "coachingPrompt": "Show the user how to make a creamy shrimp chowder using convenience ingredients and explain proper heating techniques."
+  },
+  "timestamp": "2026-02-06T20:45:51.172Z"
+}

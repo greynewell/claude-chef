@@ -1,0 +1,44 @@
+{
+  "contentHash": "4729e6ad304588d7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "2 quarts rice milk",
+        "searchTerm": "rice milk",
+        "normalizedName": "Rice Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pitcher",
+        "searchTerm": "pitcher"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Dissolve sugar in hot water completely before mixing with rice milk",
+      "Chill before serving for best flavor",
+      "Adjust cinnamon to taste as this version uses less"
+    ],
+    "coachingPrompt": "How would you simplify horchata using store-bought rice milk while maintaining authentic flavor?"
+  },
+  "timestamp": "2026-02-06T09:26:27.020Z"
+}

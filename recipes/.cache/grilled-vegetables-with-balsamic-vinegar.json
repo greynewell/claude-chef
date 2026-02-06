@@ -1,0 +1,68 @@
+{
+  "contentHash": "8fd1e2ecb86a2f40",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "eggplants",
+        "searchTerm": "eggplant",
+        "normalizedName": "Eggplant"
+      },
+      {
+        "ingredient": "zucchinis",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "green bell peppers",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "basting brush",
+        "searchTerm": "basting brush"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Salt eggplant slices and let sit 15 minutes before grilling to remove excess moisture",
+      "Mix marinade ingredients together and brush vegetables during grilling for caramelization",
+      "Uniform slice thickness ensures even cooking across all vegetables"
+    ],
+    "coachingPrompt": "How does the soy sauce interact with balsamic vinegar in the marinade?"
+  },
+  "timestamp": "2026-02-06T08:31:06.340Z"
+}

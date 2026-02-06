@@ -1,0 +1,63 @@
+{
+  "contentHash": "ca0476373407200a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 thick slices bacon, chopped",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "½ cup onions, minced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 teaspoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 pound fresh green beans, trimmed",
+        "searchTerm": "fresh green beans",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "⅛ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy and use the drippings as cooking fat",
+      "Keep green beans slightly firm, don't overcook to mush",
+      "Add minced garlic at the end to preserve its fresh flavor"
+    ],
+    "coachingPrompt": "Do you prefer your green beans crisp-tender or softer and more fully cooked?"
+  },
+  "timestamp": "2026-02-06T18:27:41.620Z"
+}

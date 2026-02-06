@@ -1,0 +1,63 @@
+{
+  "contentHash": "108cfeebe4522b2f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package yellow rice mix",
+        "searchTerm": "yellow rice mix",
+        "normalizedName": "Yellow Rice Mix"
+      },
+      {
+        "ingredient": "1 ¼ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 (15 ounce) can black beans, rinsed and drained",
+        "searchTerm": "black beans",
+        "normalizedName": "Black Bean"
+      },
+      {
+        "ingredient": "1 (15.25 ounce) can whole kernel corn, drained",
+        "searchTerm": "corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "2 teaspoons lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "1 teaspoon ground cumin",
+        "searchTerm": "cumin",
+        "normalizedName": "Ground Cumin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Medium Pot",
+        "searchTerm": "medium pot"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Lid",
+        "searchTerm": "pot lid"
+      }
+    ],
+    "cookingTips": [
+      "Follow package directions for yellow rice, using specified water amount",
+      "Fold in beans and corn gently at the end to preserve texture",
+      "Drizzle lime juice and add cumin just before serving for brightness"
+    ],
+    "coachingPrompt": "How would you ensure the rice absorbs flavors while keeping corn and beans from becoming mushy?"
+  },
+  "timestamp": "2026-02-06T00:13:06.080Z"
+}

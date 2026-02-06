@@ -1,0 +1,53 @@
+{
+  "contentHash": "22fab4102350b9d2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 ounces shredded sharp Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¼ cup butter, cut into cubes",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¾ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 tablespoons cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food Processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Cookie Cutter",
+        "searchTerm": "fish-shaped cookie cutter"
+      }
+    ],
+    "cookingTips": [
+      "Keep all ingredients cold for a crumbly texture similar to the store version",
+      "Cut shapes while dough is still cool from the fridge",
+      "Bake at 375°F until edges are lightly golden, about 10-12 minutes"
+    ],
+    "coachingPrompt": "Help the baker replicate the authentic Goldfish cracker texture by managing dough temperature and baking time carefully."
+  },
+  "timestamp": "2026-02-06T09:14:19.398Z"
+}

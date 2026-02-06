@@ -1,0 +1,88 @@
+{
+  "contentHash": "f3261e1f13b6485c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound salmon, cut into 4 portions",
+        "searchTerm": "salmon fillets",
+        "normalizedName": "Salmon"
+      },
+      {
+        "ingredient": "1 lemon, juiced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "1 lime, juiced",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "1 teaspoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      },
+      {
+        "ingredient": "½ teaspoon Cajun seasoning",
+        "searchTerm": "Cajun seasoning",
+        "normalizedName": "Cajun Seasoning"
+      },
+      {
+        "ingredient": "½ teaspoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "½ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "2 ⅔ fluid ounces cognac",
+        "searchTerm": "cognac",
+        "normalizedName": "Cognac"
+      },
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "Himalayan pink salt",
+        "searchTerm": "Himalayan pink salt",
+        "normalizedName": "Himalayan Pink Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Pat salmon dry before cooking to achieve a nice sear",
+      "Do not overcook salmon; it should remain moist and flake gently when done",
+      "The cognac may ignite; be cautious when adding and let flames subside naturally"
+    ],
+    "coachingPrompt": "Teach the user how to create a balanced glaze with honey, citrus, and cognac while avoiding overcooked salmon."
+  },
+  "timestamp": "2026-02-06T09:03:25.011Z"
+}

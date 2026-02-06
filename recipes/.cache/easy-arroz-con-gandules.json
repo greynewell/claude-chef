@@ -1,0 +1,78 @@
+{
+  "contentHash": "f6e915ee768231c7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 green bell peppers, diced",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "6 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 bunch cilantro, finely chopped",
+        "searchTerm": "fresh cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "3 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 (15 ounce) can tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "1 (.25 ounce) package Spanish seasoning",
+        "searchTerm": "Spanish seasoning",
+        "normalizedName": "Spanish Seasoning"
+      },
+      {
+        "ingredient": "3 cups uncooked brown rice",
+        "searchTerm": "brown rice",
+        "normalizedName": "Brown Rice"
+      },
+      {
+        "ingredient": "2 (15 ounce) cans pigeon peas, drained",
+        "searchTerm": "pigeon peas",
+        "normalizedName": "Pigeon Pea"
+      },
+      {
+        "ingredient": "6 cups boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "lid",
+        "searchTerm": "lid"
+      }
+    ],
+    "cookingTips": [
+      "Toast the rice briefly in oil before adding liquid to enhance nutty flavor",
+      "Don't stir the rice once liquid is added; this keeps grains separate",
+      "Let rice rest covered for 5 minutes after cooking before fluffing"
+    ],
+    "coachingPrompt": "How can I get perfectly cooked rice that's fluffy and not mushy? What's the ideal water-to-rice ratio?"
+  },
+  "timestamp": "2026-02-06T05:31:36.080Z"
+}

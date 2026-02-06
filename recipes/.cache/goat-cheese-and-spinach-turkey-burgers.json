@@ -1,0 +1,43 @@
+{
+  "contentHash": "e0216f4bdbf5a327",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds ground turkey breast",
+        "searchTerm": "ground turkey",
+        "normalizedName": "Ground Turkey"
+      },
+      {
+        "ingredient": "1 cup frozen chopped spinach, thawed and drained",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "2 tablespoons goat cheese, crumbled",
+        "searchTerm": "goat cheese",
+        "normalizedName": "Goat Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "grill or skillet",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Squeeze spinach very dry to prevent wet, falling-apart burgers",
+      "Handle turkey gently when mixing to keep burgers tender, not dense",
+      "Cook to an internal temperature of 165°F to ensure food safety"
+    ],
+    "coachingPrompt": "Guide me on how to properly drain spinach and avoid overworking the turkey mixture."
+  },
+  "timestamp": "2026-02-06T07:40:21.548Z"
+}

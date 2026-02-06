@@ -1,0 +1,53 @@
+{
+  "contentHash": "c315d917c20a5dbd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 large ripe banana",
+        "searchTerm": "ripe banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅛ teaspoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "1 pinch ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "2 teaspoons butter, or as needed",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "non-stick skillet",
+        "searchTerm": "non-stick skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Blend all ingredients until completely smooth for lump-free pancakes",
+      "Use medium-low heat to prevent burning while allowing the center to cook through",
+      "Let batter rest 2 minutes after blending for fluffier pancakes"
+    ],
+    "coachingPrompt": "Guide me through blending and cooking banana egg pancakes to golden perfection."
+  },
+  "timestamp": "2026-02-05T21:25:21.009Z"
+}

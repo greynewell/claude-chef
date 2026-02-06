@@ -1,0 +1,58 @@
+{
+  "contentHash": "d3532469b56af492",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices bacon, chopped",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¾ cup buttermilk baking mix",
+        "searchTerm": "buttermilk baking mix",
+        "normalizedName": "Buttermilk Baking Mix"
+      },
+      {
+        "ingredient": "1 ½ tablespoons chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      },
+      {
+        "ingredient": "2 cups shredded American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "muffin tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy before chopping to ensure texture throughout quiches",
+      "Fill muffin cups only two-thirds full to prevent overflow during baking",
+      "Let cool 5 minutes in pan before removing for cleaner presentation"
+    ],
+    "coachingPrompt": "Teach the user how to prep ingredients ahead and why the buttermilk baking mix creates tender, fluffy quiche texture."
+  },
+  "timestamp": "2026-02-06T05:52:19.797Z"
+}

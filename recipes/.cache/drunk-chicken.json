@@ -1,0 +1,53 @@
+{
+  "contentHash": "6d571d5cc284749f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (2 to 3 pound) whole chicken",
+        "searchTerm": "whole chicken",
+        "normalizedName": "Whole Chicken"
+      },
+      {
+        "ingredient": "1 (12 fluid ounce) can beer",
+        "searchTerm": "beer",
+        "normalizedName": "Beer"
+      },
+      {
+        "ingredient": "5 tablespoons poultry seasoning",
+        "searchTerm": "poultry seasoning",
+        "normalizedName": "Poultry Seasoning"
+      },
+      {
+        "ingredient": "4 dashes liquid smoke flavoring",
+        "searchTerm": "liquid smoke",
+        "normalizedName": "Liquid Smoke"
+      },
+      {
+        "ingredient": "4 bay leaves",
+        "searchTerm": "bay leaves",
+        "normalizedName": "Bay Leaf"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill or oven",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Metal skewer",
+        "searchTerm": "metal skewer"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Insert the skewer vertically through the chicken's cavity to conduct heat evenly",
+      "The beer steams the inside while the outside crisps up",
+      "Cook at medium-high heat until internal temperature reaches 165°F"
+    ],
+    "coachingPrompt": "I'm making beer can chicken for the first time. How do I ensure it cooks evenly and stays moist?"
+  },
+  "timestamp": "2026-02-06T05:23:00.740Z"
+}

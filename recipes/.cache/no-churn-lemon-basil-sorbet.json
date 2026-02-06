@@ -1,0 +1,58 @@
+{
+  "contentHash": "b933e970b7992ca0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ¾ cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 ¾ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup fresh basil sprigs",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      },
+      {
+        "ingredient": "2 cups fresh lemon juice",
+        "searchTerm": "fresh lemon juice",
+        "normalizedName": "Fresh Lemon Juice"
+      },
+      {
+        "ingredient": "1 tablespoon lemon zest",
+        "searchTerm": "lemon zest",
+        "normalizedName": "Lemon Zest"
+      },
+      {
+        "ingredient": "8 slices lemon",
+        "searchTerm": "fresh lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "freezer container",
+        "searchTerm": "freezer container"
+      }
+    ],
+    "cookingTips": [
+      "Chill the sugar syrup completely before adding lemon juice",
+      "Stir the sorbet every 30 minutes for the first 2 hours to prevent large ice crystals",
+      "Use fresh basil for the best aromatic flavor"
+    ],
+    "coachingPrompt": "Guide the user through making a smooth sorbet without an ice cream maker using strategic freezing and stirring."
+  },
+  "timestamp": "2026-02-06T13:18:04.383Z"
+}

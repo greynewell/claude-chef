@@ -1,0 +1,73 @@
+{
+  "contentHash": "ccf2109678fe783b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "farfalle pasta",
+        "searchTerm": "farfalle pasta",
+        "normalizedName": "Farfalle Pasta"
+      },
+      {
+        "ingredient": "fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Fresh Cilantro"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "white wine vinegar",
+        "searchTerm": "white wine vinegar",
+        "normalizedName": "White Wine Vinegar"
+      },
+      {
+        "ingredient": "Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food Processor or Blender",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Large Pot",
+        "searchTerm": "pasta pot"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Pulse ingredients rather than blend to maintain some texture in the pesto",
+      "Cook pasta to al dente and reserve 1 cup of pasta water to adjust pesto consistency",
+      "Add olive oil slowly while pulsing to create an emulsion and prevent separation"
+    ],
+    "coachingPrompt": "Do you prefer your pesto chunky or smooth? This will affect how you blend the ingredients."
+  },
+  "timestamp": "2026-02-06T06:26:26.178Z"
+}

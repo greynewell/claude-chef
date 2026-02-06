@@ -1,0 +1,72 @@
+{
+  "contentHash": "f1a6c8b12b1d89b9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ avocado - peeled, pitted, and diced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 ½ tablespoons chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh flat-leaf parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "4 teaspoons sweet pickle relish",
+        "searchTerm": "pickle relish",
+        "normalizedName": "Pickle Relish"
+      },
+      {
+        "ingredient": "1 tablespoon Greek yogurt",
+        "searchTerm": "greek yogurt",
+        "normalizedName": "Greek Yogurt"
+      },
+      {
+        "ingredient": "1 ½ teaspoons prepared yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Hard boil eggs for 10-12 minutes, then chill in ice water for easy peeling",
+      "Add avocado just before serving to prevent browning"
+    ],
+    "coachingPrompt": "How will you keep the avocado from oxidizing while preparing other ingredients?"
+  },
+  "timestamp": "2026-02-06T22:19:22.589Z"
+}

@@ -1,0 +1,52 @@
+{
+  "contentHash": "0b18ec076b52278c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups rolled oats",
+        "searchTerm": "rolled oats",
+        "normalizedName": "Rolled Oat"
+      },
+      {
+        "ingredient": "1 cup peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 cup crushed walnuts (Optional)",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "½ cup semisweet chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Chocolate Chip"
+      },
+      {
+        "ingredient": "¼ cup honey, or more as needed",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Mix all ingredients until thoroughly combined but still crumbly, then chill before rolling into balls",
+      "Roll balls between your palms and place on parchment paper to set"
+    ],
+    "coachingPrompt": "Guide the user through mixing without overworking and the importance of chilling before forming balls."
+  },
+  "timestamp": "2026-02-06T05:54:15.933Z"
+}

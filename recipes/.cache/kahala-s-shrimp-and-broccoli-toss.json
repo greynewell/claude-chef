@@ -1,0 +1,78 @@
+{
+  "contentHash": "be036b570740ac49",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "broccoli floret",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "angel hair pasta",
+        "searchTerm": "angel hair pasta",
+        "normalizedName": "Angel Hair Pasta"
+      },
+      {
+        "ingredient": "margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic clove",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "small frozen shrimp",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Cut broccoli into small florets for quick cooking and even distribution",
+      "Cook broccoli and pasta separately, then combine for better texture control",
+      "Toss ingredients quickly over heat to coat evenly with oil and garlic"
+    ],
+    "coachingPrompt": "You have multiple components cooking at different rates. How will you time the broccoli, pasta, and shrimp so everything finishes together?"
+  },
+  "timestamp": "2026-02-06T10:32:48.837Z"
+}

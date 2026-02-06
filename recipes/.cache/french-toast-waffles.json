@@ -1,0 +1,58 @@
+{
+  "contentHash": "918d738310fbd21c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup pancake/waffle mix",
+        "searchTerm": "pancake mix",
+        "normalizedName": "Pancake Mix"
+      },
+      {
+        "ingredient": "2 teaspoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "½ cup cold milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "waffle iron",
+        "searchTerm": "waffle iron"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Preheat waffle iron thoroughly for crispy exterior",
+      "Let batter rest 5 minutes for fluffier waffles",
+      "Serve immediately with maple syrup and berries"
+    ],
+    "coachingPrompt": "How would you adapt this recipe for a gluten-free diet while maintaining the same texture?"
+  },
+  "timestamp": "2026-02-06T06:56:41.130Z"
+}

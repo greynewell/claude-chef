@@ -1,0 +1,73 @@
+{
+  "contentHash": "7b6a7e9fdbe7bfd7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 pounds chicken wings, separated at joints, tips discarded",
+        "searchTerm": "chicken wings",
+        "normalizedName": "Chicken Wing"
+      },
+      {
+        "ingredient": "1 tablespoon seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      },
+      {
+        "ingredient": "2 tablespoons garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "2 tablespoons onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      },
+      {
+        "ingredient": "2 tablespoons ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon monosodium glutamate (MSG, or Accent flavor enhancer)",
+        "searchTerm": "MSG",
+        "normalizedName": "MSG"
+      },
+      {
+        "ingredient": "3 tablespoons prepared yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      },
+      {
+        "ingredient": "3 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 quart oil for frying, or as needed",
+        "searchTerm": "frying oil",
+        "normalizedName": "Frying Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep fryer or heavy pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "shallow bowl for coating",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Separate wings at joints for even cooking and better coating coverage",
+      "Oil temperature should reach 350°F for crispy exterior without burning",
+      "Toss wings in mustard before flour mixture for better adhesion"
+    ],
+    "coachingPrompt": "How will you maintain consistent oil temperature and prevent the coating from burning?"
+  },
+  "timestamp": "2026-02-06T13:02:45.188Z"
+}

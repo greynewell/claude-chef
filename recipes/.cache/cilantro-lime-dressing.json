@@ -1,0 +1,67 @@
+{
+  "contentHash": "9c8726f94a3d423b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "poblano peppers",
+        "searchTerm": "poblano peppers",
+        "normalizedName": "Poblano Pepper"
+      },
+      {
+        "ingredient": "vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Food Processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Grill or Broiler",
+        "searchTerm": "grill"
+      }
+    ],
+    "cookingTips": [
+      "Roast poblanos until charred, then peel away the skin for deeper flavor",
+      "Blend until smooth or leave slightly chunky depending on preference"
+    ],
+    "coachingPrompt": "How do I roast poblano peppers to get that smoky flavor?"
+  },
+  "timestamp": "2026-02-06T03:20:38.523Z"
+}

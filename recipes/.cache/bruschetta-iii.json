@@ -1,0 +1,73 @@
+{
+  "contentHash": "fadd0dc59215ed3d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 French baguette",
+        "searchTerm": "french baguette",
+        "normalizedName": "French Baguette"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 roma (plum) tomatoes, thinly sliced",
+        "searchTerm": "roma tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh basil",
+        "searchTerm": "basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh oregano",
+        "searchTerm": "oregano",
+        "normalizedName": "Oregano"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 pinch ground white pepper",
+        "searchTerm": "white pepper",
+        "normalizedName": "White Pepper"
+      },
+      {
+        "ingredient": "1 (8 ounce) package sliced mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 (6 ounce) package sliced provolone cheese",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "serrated knife",
+        "searchTerm": "bread knife"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Slice tomatoes thinly and pat dry to prevent excess moisture",
+      "Layer cheese evenly for consistent melting",
+      "Toast bread lightly before topping to prevent sogginess"
+    ],
+    "coachingPrompt": "This is a cheese-topped bruschetta that will be baked. Are you planning to broil or bake these? What temperature?"
+  },
+  "timestamp": "2026-02-06T00:51:42.393Z"
+}

@@ -1,0 +1,38 @@
+{
+  "contentHash": "0e9fc087577e1e51",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (15 ounce) can cream of coconut (such as Coco Lopez®)",
+        "searchTerm": "cream of coconut",
+        "normalizedName": "Cream of Coconut"
+      },
+      {
+        "ingredient": "1 (8 ounce) container frozen whipped topping (such as Cool Whip®), thawed - divided",
+        "searchTerm": "whipped topping",
+        "normalizedName": "Whipped Topping"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Electric mixer",
+        "searchTerm": "electric mixer"
+      }
+    ],
+    "cookingTips": [
+      "Ensure cream cheese is fully softened for smooth blending",
+      "Reserve whipped topping for folding in at the end to maintain airiness"
+    ],
+    "coachingPrompt": "Help the user achieve a light, fluffy dip by properly folding ingredients and suggest pairing ideas."
+  },
+  "timestamp": "2026-02-06T03:38:49.482Z"
+}

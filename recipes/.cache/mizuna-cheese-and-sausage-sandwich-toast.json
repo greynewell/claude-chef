@@ -1,0 +1,58 @@
+{
+  "contentHash": "bd438ac2ed01efc6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices ham",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "1 bunch mizuna, roots removed, cut into 2-inch pieces",
+        "searchTerm": "mizuna",
+        "normalizedName": "Mizuna"
+      },
+      {
+        "ingredient": "¼ onion, sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "4 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "2 slices mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "2 Vienna sausages, thinly sliced",
+        "searchTerm": "Vienna sausage",
+        "normalizedName": "Vienna Sausage"
+      },
+      {
+        "ingredient": "1 tablespoon butter, or as needed",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread until golden before assembling to prevent sogginess",
+      "Warm the sandwich components before serving for melted cheese and cohesive flavors"
+    ],
+    "coachingPrompt": "How will you layer these ingredients to ensure each bite has all the components, and will you toast the sandwich after assembly?"
+  },
+  "timestamp": "2026-02-06T12:37:15.935Z"
+}

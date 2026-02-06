@@ -1,0 +1,77 @@
+{
+  "contentHash": "68196e5e3c35b61e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¾ cup warm water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 tablespoons molasses",
+        "searchTerm": "molasses",
+        "normalizedName": "Molasses"
+      },
+      {
+        "ingredient": "2 ½ cups rye flour",
+        "searchTerm": "rye flour",
+        "normalizedName": "Rye Flour"
+      },
+      {
+        "ingredient": "¼ cup cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "2 teaspoons lecithin",
+        "searchTerm": "lecithin",
+        "normalizedName": "Lecithin"
+      },
+      {
+        "ingredient": "1 ¼ teaspoons sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "3 teaspoons active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Stand mixer or hand mixer",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "Bread pan",
+        "searchTerm": "bread pan"
+      },
+      {
+        "name": "Kitchen thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Ensure water temperature is exactly 110°F for proper yeast activation",
+      "Rye dough is stickier than wheat; avoid over-kneading",
+      "Let bread cool completely before slicing for best texture"
+    ],
+    "coachingPrompt": "What signs indicate that your rye dough has risen sufficiently?"
+  },
+  "timestamp": "2026-02-06T08:51:37.002Z"
+}

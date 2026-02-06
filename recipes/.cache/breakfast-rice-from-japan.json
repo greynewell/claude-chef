@@ -1,0 +1,49 @@
+{
+  "contentHash": "7502a84ce0878a1a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 teaspoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 cup cold cooked rice, or more to taste",
+        "searchTerm": "rice",
+        "normalizedName": "Rice"
+      },
+      {
+        "ingredient": "1 egg, or more to taste",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 green onions, sliced, or more to taste",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "2 teaspoons soy sauce, or to taste",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Use cold cooked rice to prevent sticking and clumping",
+      "Heat oil until shimmering before adding rice",
+      "Cook eggs until just set, then break into pieces while stirring"
+    ],
+    "coachingPrompt": "Are you familiar with fried rice techniques? Would you like suggestions for add-ins like vegetables or proteins?"
+  },
+  "timestamp": "2026-02-06T00:38:37.914Z"
+}

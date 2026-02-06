@@ -1,0 +1,73 @@
+{
+  "contentHash": "675c39ed45afb95b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 large potatoes, peeled and cut into strips",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 quart vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 ½ pounds cod fillets",
+        "searchTerm": "cod fillets",
+        "normalizedName": "Cod Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep frying pan or Dutch oven",
+        "searchTerm": "deep pan"
+      },
+      {
+        "name": "Candy/deep-fry thermometer",
+        "searchTerm": "fry thermometer"
+      },
+      {
+        "name": "Paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Maintain oil temperature at 350°F for fish and 325°F for chips to prevent sogginess",
+      "Soak cut potatoes in water before frying to remove excess starch and ensure crispiness",
+      "Make batter just before use and don't overmix to keep coating light and crispy"
+    ],
+    "coachingPrompt": "Guide the user through proper deep-frying technique including oil temperature management and explaining why not to overcrowd the pan."
+  },
+  "timestamp": "2026-02-06T03:31:45.340Z"
+}

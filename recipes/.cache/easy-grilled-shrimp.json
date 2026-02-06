@@ -1,0 +1,63 @@
+{
+  "contentHash": "27f021a624f0befa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ lemon, juiced",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 teaspoon seafood seasoning (such as Old Bay®)",
+        "searchTerm": "seafood seasoning",
+        "normalizedName": "Seafood Seasoning"
+      },
+      {
+        "ingredient": "¼ teaspoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "⅛ teaspoon cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pound shrimp, shelled and deveined",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill basket",
+        "searchTerm": "grill basket"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Use a grill basket to prevent shrimp from falling through grates",
+      "Shrimp cooks very quickly; watch carefully for just 2-3 minutes total",
+      "Shrimp is done when it turns opaque pink and curls slightly"
+    ],
+    "coachingPrompt": "Do you have a grill basket? It makes shrimp cooking much easier—would you like tips on timing or avoiding overcooking?"
+  },
+  "timestamp": "2026-02-06T05:46:57.023Z"
+}

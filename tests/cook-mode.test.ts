@@ -17,14 +17,15 @@ const mockRecipe: ParsedRecipe = {
   ingredients: ['200g spaghetti', '150g guanciale'],
   instructions: ['Boil pasta.', 'Render guanciale.'],
   body: '',
+  faqs: [],
   slug: 'test-carbonara',
   sourceFile: 'test-carbonara.md',
 };
 
 const mockEnrichment: EnrichmentResult = {
   ingredients: [
-    { ingredient: '200g spaghetti', searchTerm: 'spaghetti pasta' },
-    { ingredient: '150g guanciale', searchTerm: 'guanciale' },
+    { ingredient: '200g spaghetti', searchTerm: 'spaghetti pasta', normalizedName: 'Spaghetti' },
+    { ingredient: '150g guanciale', searchTerm: 'guanciale', normalizedName: 'Guanciale' },
   ],
   gear: [{ name: 'Large pot', searchTerm: 'stock pot' }],
   cookingTips: ['Work off-heat.', 'Reserve pasta water.'],

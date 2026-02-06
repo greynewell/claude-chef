@@ -1,0 +1,58 @@
+{
+  "contentHash": "ae7dc65be957c721",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "8 slices bread, toasted",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "¼ cup guacamole",
+        "searchTerm": "guacamole",
+        "normalizedName": "Guacamole"
+      },
+      {
+        "ingredient": "¼ cup cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "4 lettuce leaves",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "4 slices tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy but not burnt for best texture contrast",
+      "Toast bread while bacon cooks to assemble quickly while everything is hot",
+      "Combine guacamole and cream cheese on toasted bread for richer spread"
+    ],
+    "coachingPrompt": "How does combining guacamole and cream cheese improve this classic BLT variation?"
+  },
+  "timestamp": "2026-02-06T19:50:31.440Z"
+}

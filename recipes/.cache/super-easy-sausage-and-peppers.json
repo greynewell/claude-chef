@@ -1,0 +1,53 @@
+{
+  "contentHash": "01c395d78fa4974a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "7 sweet Italian sausages",
+        "searchTerm": "Italian sausage",
+        "normalizedName": "Italian Sausage"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 large sweet onion",
+        "searchTerm": "sweet onion",
+        "normalizedName": "Sweet Onion"
+      },
+      {
+        "ingredient": "2 (14.5 ounce) cans tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "3 green bell peppers",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "knife and cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Brown the sausage pieces completely before adding vegetables for better flavor development",
+      "Slice peppers and onions uniformly for even cooking",
+      "Simmer for 15-20 minutes to allow flavors to meld together"
+    ],
+    "coachingPrompt": "How can you prevent the peppers from becoming mushy while ensuring the sausage cooks through?"
+  },
+  "timestamp": "2026-02-06T19:52:18.016Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "697f6266ffb0159d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup unsweetened cocoa powder",
+        "searchTerm": "unsweetened cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "⅓ cup cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "3 cups unsweetened almond milk",
+        "searchTerm": "unsweetened almond milk",
+        "normalizedName": "Almond Milk"
+      },
+      {
+        "ingredient": "1 teaspoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "serving dish",
+        "searchTerm": "serving dish"
+      }
+    ],
+    "cookingTips": [
+      "Whisk sugar, cocoa, and cornstarch together first to prevent lumps",
+      "Almond milk curdles easily; add slowly while stirring constantly",
+      "Pudding thickens as it cools; don't overcook or it becomes too stiff"
+    ],
+    "coachingPrompt": "This dairy-free pudding relies on cornstarch for thickness. Are you comfortable with that thickening method or would you prefer a creamier base?"
+  },
+  "timestamp": "2026-02-05T21:54:31.002Z"
+}

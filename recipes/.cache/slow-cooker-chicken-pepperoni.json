@@ -1,0 +1,63 @@
+{
+  "contentHash": "def2bcadde30cabe",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "boneless, skinless chicken breasts",
+        "searchTerm": "chicken breasts",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "spaghetti sauce",
+        "searchTerm": "spaghetti sauce",
+        "normalizedName": "Spaghetti Sauce"
+      },
+      {
+        "ingredient": "sandwich pepperoni",
+        "searchTerm": "pepperoni slices",
+        "normalizedName": "Pepperoni"
+      },
+      {
+        "ingredient": "jalapeno",
+        "searchTerm": "jalapeno",
+        "normalizedName": "Jalapeno"
+      },
+      {
+        "ingredient": "cooked spaghetti",
+        "searchTerm": "spaghetti",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "pasta pot",
+        "searchTerm": "pasta pot"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Cook spaghetti separately and combine just before serving to maintain texture",
+      "Top with mozzarella cheese in last 5 minutes of cooking for melting",
+      "Remove jalapeno seeds if you prefer less heat"
+    ],
+    "coachingPrompt": "Help the user understand when to combine components to achieve the best texture in this Italian-inspired slow cooker dish."
+  },
+  "timestamp": "2026-02-06T18:08:28.915Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "87de512d0a3bd031",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 pounds potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 tablespoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "3 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup whipping cream",
+        "searchTerm": "whipping cream",
+        "normalizedName": "Whipping Cream"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "potato ricer",
+        "searchTerm": "potato ricer"
+      },
+      {
+        "name": "griddle",
+        "searchTerm": "griddle"
+      },
+      {
+        "name": "pastry cloth",
+        "searchTerm": "pastry cloth"
+      }
+    ],
+    "cookingTips": [
+      "Rice potatoes while warm for smoothest texture",
+      "Keep dough chilled between rolling sessions",
+      "Cook on hot griddle until light brown spots appear"
+    ],
+    "coachingPrompt": "Guide me through making traditional Norwegian lefse, a soft potato flatbread perfect for the holidays."
+  },
+  "timestamp": "2026-02-06T03:17:48.271Z"
+}

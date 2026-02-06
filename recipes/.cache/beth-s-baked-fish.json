@@ -1,0 +1,53 @@
+{
+  "contentHash": "d533a51d74f402a1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup unsalted butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ teaspoon seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      },
+      {
+        "ingredient": "½ teaspoon dried dill weed",
+        "searchTerm": "dried dill",
+        "normalizedName": "Dried Dill"
+      },
+      {
+        "ingredient": "¼ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "2 (4 ounce) fillets cod fillets",
+        "searchTerm": "cod fillets",
+        "normalizedName": "Cod Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "Pastry brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Brush fish with melted butter and seasonings just before baking",
+      "Bake at 400°F for 12-15 minutes until fish flakes easily with a fork",
+      "Do not overcook delicate cod as it becomes dry"
+    ],
+    "coachingPrompt": "Teach the user how to determine when fish is perfectly cooked through without overdrying it."
+  },
+  "timestamp": "2026-02-06T00:04:41.716Z"
+}

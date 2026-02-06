@@ -1,0 +1,68 @@
+{
+  "contentHash": "50b67cb67019f034",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "3 cups cooked rice",
+        "searchTerm": "rice",
+        "normalizedName": "Rice"
+      },
+      {
+        "ingredient": "1 red bell pepper, chopped",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 orange bell pepper, chopped",
+        "searchTerm": "orange bell pepper",
+        "normalizedName": "Orange Bell Pepper"
+      },
+      {
+        "ingredient": "1 green bell pepper, chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "2 cups tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "½ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "8 ounces shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Brown the ground beef thoroughly before mixing with other ingredients to avoid lumps",
+      "Chop bell peppers into uniform sizes for even cooking",
+      "Stir in cheese at the end for best melting results"
+    ],
+    "coachingPrompt": "How comfortable are you browning ground meat? Would you like tips on achieving an even, crumbly texture?"
+  },
+  "timestamp": "2026-02-06T21:30:33.928Z"
+}

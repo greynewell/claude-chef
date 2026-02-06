@@ -1,0 +1,68 @@
+{
+  "contentHash": "1ad6008816c37a70",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "6 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "5 large tomatoes, chopped",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 teaspoon dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      },
+      {
+        "ingredient": "1 pound Alaskan cod",
+        "searchTerm": "cod",
+        "normalizedName": "Cod"
+      },
+      {
+        "ingredient": "½ pound large shrimp, peeled and deveined",
+        "searchTerm": "large shrimp",
+        "normalizedName": "Large Shrimp"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon dried oregano, or to taste",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Chef's knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Sauté garlic briefly before adding tomatoes to avoid burning",
+      "Add cod first as it takes longer to cook, then add shrimp in the last 3-4 minutes",
+      "Cook until shrimp are just pink and cod is opaque for optimal texture"
+    ],
+    "coachingPrompt": "Guide the user on managing different cooking times for two proteins and explain how fresh tomatoes create better sauce than canned."
+  },
+  "timestamp": "2026-02-05T21:49:27.924Z"
+}

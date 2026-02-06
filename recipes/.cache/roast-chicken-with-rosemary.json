@@ -1,0 +1,49 @@
+{
+  "contentHash": "f54d37740f2f6be9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (3 pound) whole chicken, rinsed",
+        "searchTerm": "whole chicken",
+        "normalizedName": "Whole Chicken"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 small onion, quartered",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "¼ cup chopped fresh rosemary",
+        "searchTerm": "fresh rosemary",
+        "normalizedName": "Rosemary"
+      }
+    ],
+    "gear": [
+      {
+        "name": "roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Pat chicken dry for crispy skin",
+      "Stuff with onion and rosemary for internal flavor",
+      "Roast at 425°F for a golden, crispy exterior"
+    ],
+    "coachingPrompt": "How do I get crispy skin on my rosemary roasted chicken?"
+  },
+  "timestamp": "2026-02-06T16:18:22.657Z"
+}

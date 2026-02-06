@@ -1,0 +1,53 @@
+{
+  "contentHash": "dc6268c51965be92",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "Italian seasoned dry bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "turkey breast cutlets, 1/4 inch thick",
+        "searchTerm": "turkey cutlets",
+        "normalizedName": "Turkey Cutlet"
+      },
+      {
+        "ingredient": "fat free sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "extra virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "shallow dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "meat mallet",
+        "searchTerm": "meat mallet"
+      }
+    ],
+    "cookingTips": [
+      "Use sour cream instead of eggs to bind breading for a tangy flavor",
+      "Pound cutlets to even thickness for uniform cooking",
+      "Cook over medium heat for 3-4 minutes per side to avoid burning the coating"
+    ],
+    "coachingPrompt": "Explain how sour cream adds flavor while reducing fat, and guide the user through proper breading and pan-frying technique."
+  },
+  "timestamp": "2026-02-06T20:23:26.336Z"
+}

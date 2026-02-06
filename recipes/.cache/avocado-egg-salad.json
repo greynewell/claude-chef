@@ -1,0 +1,53 @@
+{
+  "contentHash": "03b8ad02192fd9b4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 large eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 ripe avocados, mashed",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 tablespoon fresh lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "½ teaspoon sea salt, or to taste",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "⅛ teaspoon chipotle chili powder",
+        "searchTerm": "chipotle chili powder",
+        "normalizedName": "Chipotle Chili Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "cooking pot"
+      },
+      {
+        "name": "bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork for mashing"
+      }
+    ],
+    "cookingTips": [
+      "Boil eggs 10-12 minutes for hard-boiled, then cool in ice water for easy peeling",
+      "Chop eggs into bite-sized pieces before mixing with avocado",
+      "Add lemon juice immediately to prevent avocado from browning"
+    ],
+    "coachingPrompt": "Help me create a protein-rich egg and avocado salad with perfect seasoning balance"
+  },
+  "timestamp": "2026-02-05T22:42:06.386Z"
+}

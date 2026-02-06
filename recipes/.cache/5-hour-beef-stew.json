@@ -1,0 +1,77 @@
+{
+  "contentHash": "9e90d1b7fcc1cddf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds beef tenderloin steaks, diced",
+        "searchTerm": "beef tenderloin",
+        "normalizedName": "Beef"
+      },
+      {
+        "ingredient": "8 potatoes, peeled and diced",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "4 (12 ounce) cans tomato-vegetable juice cocktail (such as V8®)",
+        "searchTerm": "V8 juice",
+        "normalizedName": "Tomato-Vegetable Juice"
+      },
+      {
+        "ingredient": "3 cups diced carrots",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 cup diced celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 tablespoons tapioca",
+        "searchTerm": "tapioca starch",
+        "normalizedName": "Tapioca"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker crock pot"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Sharp Knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "stirring spoon"
+      }
+    ],
+    "cookingTips": [
+      "Layer vegetables and meat in slow cooker with most liquid ingredients at bottom to prevent scorching",
+      "Stir gently halfway through cooking to ensure even cooking without breaking vegetables",
+      "Add tapioca in last hour to thicken stew and prevent mushiness if added too early"
+    ],
+    "coachingPrompt": "Guide me through layering ingredients in the slow cooker and explain how to achieve proper consistency and tenderness over 5 hours"
+  },
+  "timestamp": "2026-02-05T21:28:54.997Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "d59d7159ec347e75",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds boneless country-style ribs",
+        "searchTerm": "country-style ribs",
+        "normalizedName": "Country-Style Rib"
+      },
+      {
+        "ingredient": "¼ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "salt and ground black pepper",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 red onion, sliced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "2 cups barbeque sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "1 cup beef broth",
+        "searchTerm": "beef broth",
+        "normalizedName": "Beef Broth"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pressure cooker",
+        "searchTerm": "pressure cooker"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Pressure cooking makes tough ribs tender in a fraction of the time",
+      "Layer onions to keep ribs elevated and allow even cooking"
+    ],
+    "coachingPrompt": "Explain how pressure cooking dramatically reduces cooking time for ribs while maintaining tenderness, and guide the user through the layering and cooking process."
+  },
+  "timestamp": "2026-02-06T06:32:15.780Z"
+}

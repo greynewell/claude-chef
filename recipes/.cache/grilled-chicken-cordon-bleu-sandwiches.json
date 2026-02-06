@@ -1,0 +1,54 @@
+{
+  "contentHash": "19d12ff0754cbdf9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices whole wheat bread",
+        "searchTerm": "whole wheat bread",
+        "normalizedName": "Whole Wheat Bread"
+      },
+      {
+        "ingredient": "2 tablespoons butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "2 slices Swiss cheese",
+        "searchTerm": "swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "1 thick slice deli cooked chicken breast meat",
+        "searchTerm": "deli chicken",
+        "normalizedName": "Deli Chicken"
+      },
+      {
+        "ingredient": "1 slice deli ham",
+        "searchTerm": "deli ham",
+        "normalizedName": "Deli Ham"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Butter the bread on the outside to achieve a golden crust when grilling",
+      "Layer meats and cheese evenly to ensure even melting",
+      "Cook on medium heat to allow cheese to melt without burning the bread"
+    ],
+    "coachingPrompt": "What's the best way to achieve a crispy exterior while keeping the filling warm and cheese melted?"
+  },
+  "timestamp": "2026-02-06T08:13:25.882Z"
+}

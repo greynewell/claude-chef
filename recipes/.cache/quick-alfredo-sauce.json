@@ -1,0 +1,63 @@
+{
+  "contentHash": "e546849000a2f637",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "2 cups half and half",
+        "searchTerm": "half and half",
+        "normalizedName": "Half and Half"
+      },
+      {
+        "ingredient": "2 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon dried parsley flakes",
+        "searchTerm": "parsley dried",
+        "normalizedName": "Parsley Flake"
+      },
+      {
+        "ingredient": "⅓ cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese grated",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Make a roux with butter and flour, cooking for 1 minute before adding liquid",
+      "Add half and half slowly while whisking to prevent lumps",
+      "Stir in Parmesan cheese at the end over low heat to prevent it from becoming stringy"
+    ],
+    "coachingPrompt": "Guide the cook through creating a proper roux and building a silky Alfredo sauce without lumps."
+  },
+  "timestamp": "2026-02-06T15:34:58.289Z"
+}

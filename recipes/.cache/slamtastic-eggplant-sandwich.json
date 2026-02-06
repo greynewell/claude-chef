@@ -1,0 +1,63 @@
+{
+  "contentHash": "1eabeac69010c986",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 teaspoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 eggplant, cut into 1/2-inch slices",
+        "searchTerm": "eggplant",
+        "normalizedName": "Eggplant"
+      },
+      {
+        "ingredient": "1 tablespoon mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "4 crusty sandwich rolls, split and toasted",
+        "searchTerm": "sandwich rolls",
+        "normalizedName": "Sandwich Roll"
+      },
+      {
+        "ingredient": "1 bunch fresh basil leaves",
+        "searchTerm": "basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "1 cup crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill pan",
+        "searchTerm": "grill pan"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Salt eggplant slices and let sit 15 minutes to remove moisture before cooking",
+      "Grill eggplant until tender with nice char marks for best flavor",
+      "Mix garlic into mayo before spreading for even flavor distribution"
+    ],
+    "coachingPrompt": "What techniques help eggplant become tender and flavorful instead of rubbery in sandwiches?"
+  },
+  "timestamp": "2026-02-06T18:00:08.958Z"
+}

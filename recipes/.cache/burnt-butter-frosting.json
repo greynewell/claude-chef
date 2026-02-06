@@ -1,0 +1,48 @@
+{
+  "contentHash": "52d03c03c3132e5e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 cups confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "4 tablespoons milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Watch the butter carefully as it browns to avoid burning completely; stop when it becomes fragrant and nutty",
+      "Cool the browned butter before mixing with other ingredients to prevent the frosting from becoming greasy",
+      "Sift the powdered sugar to eliminate lumps for a smooth, spreadable frosting"
+    ],
+    "coachingPrompt": "Teach the distinction between browning and burning butter. Guide on achieving the nutty flavor while maintaining the right consistency for frosting."
+  },
+  "timestamp": "2026-02-06T00:58:01.704Z"
+}

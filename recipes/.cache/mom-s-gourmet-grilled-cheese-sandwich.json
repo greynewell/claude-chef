@@ -1,0 +1,53 @@
+{
+  "contentHash": "8a4207bbdd422a8a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices sourdough bread",
+        "searchTerm": "sourdough bread",
+        "normalizedName": "Sourdough Bread"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 slice American cheese",
+        "searchTerm": "american cheese",
+        "normalizedName": "American Cheese"
+      },
+      {
+        "ingredient": "1 slice Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Use sourdough for superior flavor and structure",
+      "Butter bread generously and toast one side first for better browning",
+      "Layer different cheeses for complexity of flavor"
+    ],
+    "coachingPrompt": "Coach the user on elevating a classic sandwich by using quality bread and a blend of cheeses for more sophisticated flavor."
+  },
+  "timestamp": "2026-02-06T12:43:13.319Z"
+}

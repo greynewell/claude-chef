@@ -1,0 +1,63 @@
+{
+  "contentHash": "d78e2d0a5e9999cb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound medium-size pasta",
+        "searchTerm": "pasta",
+        "normalizedName": "Pasta"
+      },
+      {
+        "ingredient": "4 slices bacon, chopped",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "4 ounces cream cheese, cubed",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 cup frozen peas",
+        "searchTerm": "frozen peas",
+        "normalizedName": "Frozen Pea"
+      },
+      {
+        "ingredient": "¾ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cube cream cheese to help it incorporate smoothly into the warm pasta",
+      "Reserve pasta water to adjust sauce consistency if needed",
+      "Cook bacon until crispy for textural contrast with creamy sauce"
+    ],
+    "coachingPrompt": "Traditional carbonara uses eggs and cheese. This version uses cream cheese and milk. How do you ensure a silky sauce without separation?"
+  },
+  "timestamp": "2026-02-06T15:44:15.913Z"
+}

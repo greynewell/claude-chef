@@ -1,0 +1,58 @@
+{
+  "contentHash": "77d5370c23afbf72",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "¼ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "3 lettuce leaves",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "1 tomato, thinly sliced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "3 slices turkey bacon",
+        "searchTerm": "turkey bacon",
+        "normalizedName": "Turkey Bacon"
+      },
+      {
+        "ingredient": "3 slices Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet or griddle",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Serrated knife",
+        "searchTerm": "serrated knife"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cook turkey bacon until crispy for textural contrast and maximum flavor",
+      "Toast bread lightly to prevent sogginess from mayo and tomato juices",
+      "Layer ingredients strategically with cheese on meat to create insulation and help it melt"
+    ],
+    "coachingPrompt": "Guide the cook through proper layering technique for structural integrity and explain how to prevent a soggy sandwich."
+  },
+  "timestamp": "2026-02-05T22:03:39.616Z"
+}

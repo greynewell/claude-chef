@@ -1,0 +1,48 @@
+{
+  "contentHash": "3c79d7e2bba20f3f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "½ cup milk powder",
+        "searchTerm": "milk powder",
+        "normalizedName": "Milk Powder"
+      },
+      {
+        "ingredient": "¼ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "½ cup chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Mix peanut butter, milk powder, and honey thoroughly until uniform",
+      "Roll into bite-sized balls and refrigerate",
+      "Optional: roll in melted chocolate chips for coating"
+    ],
+    "coachingPrompt": "These are nutrient-dense power balls. Suggest portioning them into small bite sizes and storing in an airtight container in the fridge for grab-and-go snacks."
+  },
+  "timestamp": "2026-02-06T14:23:07.955Z"
+}

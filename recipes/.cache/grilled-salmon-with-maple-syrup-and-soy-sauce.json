@@ -1,0 +1,63 @@
+{
+  "contentHash": "b6e4e7b1676d4809",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons pure maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 teaspoons minced fresh ginger root",
+        "searchTerm": "ginger",
+        "normalizedName": "Ginger"
+      },
+      {
+        "ingredient": "½ teaspoon freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 (5 ounce) salmon fillets",
+        "searchTerm": "salmon fillets",
+        "normalizedName": "Salmon Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Mix the glaze and brush it on during the last few minutes to prevent burning",
+      "Use fresh ginger for a more vibrant, spicy note than ground",
+      "Pat salmon dry before grilling to ensure better browning"
+    ],
+    "coachingPrompt": "Guide the user through building an Asian-inspired glaze that balances umami, sweetness, and spice on salmon."
+  },
+  "timestamp": "2026-02-06T08:25:10.180Z"
+}

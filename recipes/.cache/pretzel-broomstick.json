@@ -1,0 +1,38 @@
+{
+  "contentHash": "e0a8ae5d01d7a0b8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 string cheese sticks, or more as needed",
+        "searchTerm": "string cheese",
+        "normalizedName": "String Cheese"
+      },
+      {
+        "ingredient": "12 pretzel sticks",
+        "searchTerm": "pretzel sticks",
+        "normalizedName": "Pretzel Stick"
+      },
+      {
+        "ingredient": "1 leaf fresh spinach, cut into strips, or more as needed",
+        "searchTerm": "fresh spinach",
+        "normalizedName": "Fresh Spinach"
+      }
+    ],
+    "gear": [
+      {
+        "name": "knife",
+        "searchTerm": "cutting knife"
+      },
+      {
+        "name": "small plate",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Assemble just before serving to prevent pretzels from becoming soggy",
+      "Use tender spinach leaves that are easy to wrap"
+    ],
+    "coachingPrompt": "Guide the user through assembling this simple appetizer and suggest garnish options for presentation."
+  },
+  "timestamp": "2026-02-06T15:19:47.088Z"
+}

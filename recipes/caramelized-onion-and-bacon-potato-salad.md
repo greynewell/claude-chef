@@ -1,0 +1,73 @@
+---
+title: "Caramelized Onion and Bacon Potato Salad"
+description: "Ready in about 45 minutes, this salad uses potatoes, red onion. Serves 10 at 403 calories each."
+author: "Ellen Violet-Muir"
+prep_time: PT10M
+cook_time: PT35M
+servings: 10
+calories: 403
+recipe_category: Salad
+keywords:
+  - bacon
+  - caramelized
+  - onion
+  - potato
+  - salad
+recipe_ingredients:
+  - "Potatoes More"
+  - "Red Onion"
+  - "Tarragon"
+  - "White Wine"
+  - "Bacon"
+  - "Tzatziki Sauce More"
+  - "Chive"
+  - "Salt Black Pepper"
+flavors:
+  - Sweet
+  - Savory
+  - Herbaceous
+tools:
+  - Skillet
+  - Mixing Bowl
+  - Stock Pot
+  - Cutting Board
+  - Colander
+skill_level: Easy
+source_url: "https://www.allrecipes.com/recipe/223517/caramelized-onion-and-bacon-potato-salad/"
+---
+
+## Ingredients
+
+- 30 small small potatoes, or more as needed
+- 1 large red onion, sliced into 1/8-inch pieces
+- 1 teaspoon dried tarragon
+- 3 fluid ounces white wine
+- 4 slices bacon, cut into 1/2-inch pieces
+- ½ cup tzatziki sauce, or more to taste
+- 5 tablespoons chopped fresh chives
+- salt and ground black pepper to taste
+
+## Instructions
+
+1. Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, 10 to 15 minutes. Drain and cool. Cut potatoes in half.
+2. Heat a skillet over medium heat; cook and stir onions until softened and golden brown, about 20 minutes. Add tarragon; pour in white wine to deglaze pan. Simmer until wine evaporates, 2 to 3 minutes.
+3. Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain the bacon slices on paper towels.
+4. Mix potatoes, onion, and bacon together in a large bowl. Fold tzatziki sauce, chives, salt, and black pepper into potato mixture.
+
+## Frequently Asked Questions
+
+### How long does it take to make Caramelized Onion and Bacon Potato Salad?
+
+This recipe takes approximately 45 minutes from start to finish — 10 minutes of prep and 35 minutes of cooking. It is rated as easy difficulty.
+
+### How many servings does this Caramelized Onion and Bacon Potato Salad recipe make?
+
+This recipe yields 10 servings. You can adjust the serving size using the servings slider above the ingredient list.
+
+### Can I make Caramelized Onion and Bacon Potato Salad ahead of time? How should I store leftovers?
+
+Store leftovers in an airtight container in the refrigerator for up to 3-4 days.
+
+### How many calories are in Caramelized Onion and Bacon Potato Salad?
+
+Each serving contains approximately 403 calories. The recipe serves 10.

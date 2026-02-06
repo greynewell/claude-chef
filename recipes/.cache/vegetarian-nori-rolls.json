@@ -1,0 +1,83 @@
+{
+  "contentHash": "194ea19ae22029c0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups uncooked short-grain white rice",
+        "searchTerm": "short grain white rice",
+        "normalizedName": "Short Grain White Rice"
+      },
+      {
+        "ingredient": "2 ¼ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "2 teaspoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 teaspoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "3 ounces firm tofu, cut into 1/2 inch strips",
+        "searchTerm": "firm tofu",
+        "normalizedName": "Firm Tofu"
+      },
+      {
+        "ingredient": "2 tablespoons rice vinegar",
+        "searchTerm": "rice vinegar",
+        "normalizedName": "Rice Vinegar"
+      },
+      {
+        "ingredient": "4 sheets nori seaweed sheets",
+        "searchTerm": "nori seaweed",
+        "normalizedName": "Nori Seaweed"
+      },
+      {
+        "ingredient": "½ cucumber, julienned",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "½ avocado, julienned",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 small carrot, julienned",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bamboo sushi mat",
+        "searchTerm": "sushi mat"
+      },
+      {
+        "name": "rice cooker",
+        "searchTerm": "rice cooker"
+      },
+      {
+        "name": "sharp knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Cool rice to room temperature before rolling for easier handling",
+      "Wet your hands when handling nori to prevent sticking",
+      "Slice rolls with a damp, sharp knife for clean cuts"
+    ],
+    "coachingPrompt": "Help the user understand proper rice seasoning ratios and demonstrate the rolling technique step-by-step"
+  },
+  "timestamp": "2026-02-06T21:45:14.217Z"
+}

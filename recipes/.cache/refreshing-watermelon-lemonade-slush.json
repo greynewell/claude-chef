@@ -1,0 +1,42 @@
+{
+  "contentHash": "fb92a9815ecc8b70",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup cubed seeded watermelon",
+        "searchTerm": "watermelon",
+        "normalizedName": "Watermelon"
+      },
+      {
+        "ingredient": "1 ¼ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 tablespoons sweetened strawberry lemonade drink mix",
+        "searchTerm": "lemonade drink mix",
+        "normalizedName": "Lemonade Drink Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "glass",
+        "searchTerm": "glass"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Freeze watermelon cubes ahead of time for a thicker slush texture",
+      "Blend until slushy rather than completely smooth for best texture"
+    ],
+    "coachingPrompt": "Guide the user through creating the perfect balance of frozen fruit and liquid for a refreshing summer drink without over-blending."
+  },
+  "timestamp": "2026-02-06T16:07:17.145Z"
+}

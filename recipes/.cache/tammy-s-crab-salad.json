@@ -1,0 +1,63 @@
+{
+  "contentHash": "d65459abd0728d69",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "elbow macaroni",
+        "searchTerm": "pasta",
+        "normalizedName": "Elbow Pasta"
+      },
+      {
+        "ingredient": "mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "imitation crabmeat",
+        "searchTerm": "crab",
+        "normalizedName": "Crabmeat"
+      },
+      {
+        "ingredient": "mild Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "frozen peas",
+        "searchTerm": "peas",
+        "normalizedName": "Pea"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Large Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta al dente so it doesn't get mushy in the salad",
+      "Chill the salad for at least 2 hours before serving for best flavor development",
+      "Adjust milk consistency to your preference; it should be creamy but not soupy"
+    ],
+    "coachingPrompt": "This is a creamy pasta salad perfect for potlucks. Should we discuss make-ahead storage?"
+  },
+  "timestamp": "2026-02-06T20:16:19.235Z"
+}

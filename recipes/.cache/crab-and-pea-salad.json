@@ -1,0 +1,53 @@
+{
+  "contentHash": "93d8086e7f34fbe3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 (10 ounce) package frozen green peas, thawed",
+        "searchTerm": "frozen green peas",
+        "normalizedName": "Frozen Green Pea"
+      },
+      {
+        "ingredient": "1 pound imitation crab meat, flaked",
+        "searchTerm": "imitation crabmeat",
+        "normalizedName": "Imitation Crabmeat"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¼ teaspoon onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Paper Towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then crumble; reserve 2 tablespoons of bacon grease for extra flavor if desired",
+      "Thaw peas completely and pat dry to prevent excess moisture in the salad",
+      "Mix all ingredients gently to maintain texture; chill until serving time"
+    ],
+    "coachingPrompt": "How would you incorporate bacon flavor throughout the salad while keeping the texture crispy?"
+  },
+  "timestamp": "2026-02-06T03:59:32.220Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "449a869f7aa85bde",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup macaroni",
+        "searchTerm": "macaroni",
+        "normalizedName": "Macaroni"
+      },
+      {
+        "ingredient": "3 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "3 tablespoons margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can diced tomatoes",
+        "searchTerm": "diced tomato",
+        "normalizedName": "Diced Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "Cook macaroni separately until just al dente before adding to soup",
+      "Heat milk gently to prevent scorching when combined with tomatoes",
+      "Add tomatoes and pasta just before serving to preserve texture"
+    ],
+    "coachingPrompt": "How can you prevent the macaroni from becoming mushy and the milk from curdling?"
+  },
+  "timestamp": "2026-02-06T20:56:11.751Z"
+}

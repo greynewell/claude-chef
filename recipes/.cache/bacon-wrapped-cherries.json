@@ -1,0 +1,38 @@
+{
+  "contentHash": "4adc3c4968c32b4a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "36 maraschino cherries, stemmed, drained and juice reserved",
+        "searchTerm": "maraschino cherries",
+        "normalizedName": "Maraschino Cherry"
+      },
+      {
+        "ingredient": "18 slices bacon slices, halved",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "36 toothpicks",
+        "searchTerm": "toothpicks",
+        "normalizedName": "Toothpick"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Pat cherries dry before wrapping to help bacon adhere properly",
+      "Use toothpicks to secure bacon around cherries and prevent them from rolling"
+    ],
+    "coachingPrompt": "What temperature and time will crisp the bacon while keeping the cherries intact?"
+  },
+  "timestamp": "2026-02-05T22:53:49.045Z"
+}

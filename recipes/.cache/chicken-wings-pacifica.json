@@ -1,0 +1,58 @@
+{
+  "contentHash": "edd4fa01b577fbf7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds chicken wings",
+        "searchTerm": "chicken wings",
+        "normalizedName": "Chicken Wing"
+      },
+      {
+        "ingredient": "1 cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon mustard powder",
+        "searchTerm": "mustard powder",
+        "normalizedName": "Mustard Powder"
+      },
+      {
+        "ingredient": "¾ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "brush for basting",
+        "searchTerm": "basting brush"
+      }
+    ],
+    "cookingTips": [
+      "Pat wings dry before baking for crispier skin",
+      "Brush glaze multiple times during cooking for maximum flavor",
+      "Bake at 350°F for about 45-50 minutes until wings are cooked through"
+    ],
+    "coachingPrompt": "Help the user understand how to create a glossy glaze by reducing the sauce and applying it correctly."
+  },
+  "timestamp": "2026-02-06T02:46:40.322Z"
+}

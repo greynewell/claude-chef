@@ -1,0 +1,72 @@
+{
+  "contentHash": "1c69d0bfee4caaff",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "6 large mushrooms, sliced",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "1 small onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "6 hoagie rolls, split lengthwise",
+        "searchTerm": "hoagie rolls",
+        "normalizedName": "Hoagie Roll"
+      },
+      {
+        "ingredient": "1 pound sliced deli turkey meat",
+        "searchTerm": "deli turkey",
+        "normalizedName": "Deli Turkey"
+      },
+      {
+        "ingredient": "1 pound sliced provolone cheese",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      },
+      {
+        "ingredient": "¼ cup sliced black olives",
+        "searchTerm": "black olives",
+        "normalizedName": "Black Olive"
+      },
+      {
+        "ingredient": "6 slices tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "6 leaves iceberg lettuce",
+        "searchTerm": "iceberg lettuce",
+        "normalizedName": "Iceberg Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Sauté mushrooms and onions until caramelized for sweet, savory depth",
+      "Layer ingredients in order: lettuce, turkey, mushroom mix, tomato, olives, then cheese"
+    ],
+    "coachingPrompt": "Guide me through layering this sandwich so all ingredients stay in place and flavors blend beautifully."
+  },
+  "timestamp": "2026-02-06T21:18:02.587Z"
+}

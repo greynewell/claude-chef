@@ -1,0 +1,48 @@
+{
+  "contentHash": "845df32f98918a68",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound pork sausage, casings removed",
+        "searchTerm": "pork sausage",
+        "normalizedName": "Pork Sausage"
+      },
+      {
+        "ingredient": "1 pound spicy Italian sausage, casings removed",
+        "searchTerm": "Italian sausage",
+        "normalizedName": "Italian Sausage"
+      },
+      {
+        "ingredient": "1 cup crushed pork rinds",
+        "searchTerm": "pork rind",
+        "normalizedName": "Pork Rind"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Mix ingredients gently to avoid overworking the sausage, which can make balls tough",
+      "Use pork rinds as a low-carb binder for a lighter texture than breadcrumbs",
+      "Shape balls to uniform size for even cooking"
+    ],
+    "coachingPrompt": "How does using pork rinds instead of breadcrumbs change the texture and flavor profile?"
+  },
+  "timestamp": "2026-02-06T16:57:46.245Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "2023e2d45edb32aa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 slices pumpernickel bread",
+        "searchTerm": "pumpernickel bread",
+        "normalizedName": "Pumpernickel Bread"
+      },
+      {
+        "ingredient": "1 cup Thousand Island dressing",
+        "searchTerm": "Thousand Island dressing",
+        "normalizedName": "Thousand Island Dressing"
+      },
+      {
+        "ingredient": "¾ pound deli sliced corned beef",
+        "searchTerm": "corned beef",
+        "normalizedName": "Corned Beef"
+      },
+      {
+        "ingredient": "½ pound sliced Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "1 cup sauerkraut",
+        "searchTerm": "sauerkraut",
+        "normalizedName": "Sauerkraut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet or griddle",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Campfire grate",
+        "searchTerm": "grate"
+      }
+    ],
+    "cookingTips": [
+      "Drain sauerkraut thoroughly to remove excess moisture that makes bread soggy",
+      "Spread dressing on both inside bread slices to create moisture barrier",
+      "Build sandwich in order: bread, dressing, meat, sauerkraut, cheese, bread. Press gently while cooking to meld ingredients"
+    ],
+    "coachingPrompt": "How should I layer and cook a Reuben sandwich in a skillet over a campfire to get crispy bread and melted cheese without drying it out?"
+  },
+  "timestamp": "2026-02-06T01:16:48.922Z"
+}

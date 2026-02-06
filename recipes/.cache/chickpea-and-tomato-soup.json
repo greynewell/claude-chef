@@ -1,0 +1,73 @@
+{
+  "contentHash": "9454d9b799d464a9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can diced tomatoes",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 (15 ounce) can garbanzo beans, drained and rinsed",
+        "searchTerm": "garbanzo beans",
+        "normalizedName": "Chickpea"
+      },
+      {
+        "ingredient": "4 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cube chicken bouillon, crumbled",
+        "searchTerm": "chicken bouillon",
+        "normalizedName": "Chicken Bouillon"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh rosemary",
+        "searchTerm": "rosemary",
+        "normalizedName": "Rosemary"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Fresh rosemary adds more flavor than dried; add at the end",
+      "Simmer gently to develop flavors without reducing too much",
+      "Partially mash some chickpeas for a thicker consistency"
+    ],
+    "coachingPrompt": "Guide the user through creating a simple, rustic soup where chickpeas become creamy and tomatoes stay bright."
+  },
+  "timestamp": "2026-02-06T02:47:47.088Z"
+}

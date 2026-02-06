@@ -1,0 +1,63 @@
+{
+  "contentHash": "296b54c096eaf400",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound salmon fillets",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "1 (10 ounce) package penne pasta",
+        "searchTerm": "penne pasta",
+        "normalizedName": "Penne Pasta"
+      },
+      {
+        "ingredient": "½ bunch asparagus, trimmed and chopped",
+        "searchTerm": "asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "1 cup crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Fish spatula",
+        "searchTerm": "fish spatula"
+      }
+    ],
+    "cookingTips": [
+      "Cook salmon separately in the same pot before pasta to prevent flaking it apart",
+      "Add asparagus in the last few minutes so it stays crisp and bright green",
+      "Let feta melt gently off heat for creamier sauce without breaking down the cheese"
+    ],
+    "coachingPrompt": "How can I keep salmon intact when cooking it in the same pot as pasta?"
+  },
+  "timestamp": "2026-02-06T13:39:19.003Z"
+}

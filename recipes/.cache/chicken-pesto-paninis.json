@@ -1,0 +1,58 @@
+{
+  "contentHash": "31bfd7917085e4c3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 focaccia bread, quartered",
+        "searchTerm": "focaccia bread",
+        "normalizedName": "Focaccia Bread"
+      },
+      {
+        "ingredient": "½ cup prepared basil pesto",
+        "searchTerm": "basil pesto",
+        "normalizedName": "Basil Pesto"
+      },
+      {
+        "ingredient": "1 cup diced cooked chicken",
+        "searchTerm": "cooked chicken",
+        "normalizedName": "Cooked Chicken"
+      },
+      {
+        "ingredient": "½ cup diced green bell pepper",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "¼ cup diced red onion",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "1 cup shredded Monterey Jack cheese",
+        "searchTerm": "monterey jack cheese",
+        "normalizedName": "Monterey Jack Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Panini Press",
+        "searchTerm": "sandwich press"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "chopping board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Spread pesto on both bread slices to prevent sogginess while adding flavor",
+      "Use pre-cooked chicken to reduce pressing time and ensure even heating",
+      "Press until cheese is melted and bread is golden for the best texture contrast"
+    ],
+    "coachingPrompt": "What's the best way to assemble and press these paninis to get melty cheese and crispy bread?"
+  },
+  "timestamp": "2026-02-06T02:37:48.284Z"
+}

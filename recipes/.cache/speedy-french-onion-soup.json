@@ -1,0 +1,53 @@
+{
+  "contentHash": "bb3b208de7ee1d75",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 large onions",
+        "searchTerm": "onions",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 carton Campbell's Sweet Onion Soup",
+        "searchTerm": "canned onion soup",
+        "normalizedName": "Onion Soup"
+      },
+      {
+        "ingredient": "1 can Campbell's Condensed Beef Consomme",
+        "searchTerm": "beef consomme",
+        "normalizedName": "Beef Consomme"
+      },
+      {
+        "ingredient": "4 slices Pepperidge Farm Garlic Texas Toast",
+        "searchTerm": "garlic bread",
+        "normalizedName": "Garlic Toast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "soup pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Slice onions thinly for even cooking and caramelization",
+      "Caramelize onions slowly in butter for 15-20 minutes to develop deep flavor",
+      "Use canned soup as a shortcut while still achieving classic French onion soup character"
+    ],
+    "coachingPrompt": "Help the user understand that slow caramelization of onions is key, even with soup shortcuts, and guide them through assembly with the garlic toast topping."
+  },
+  "timestamp": "2026-02-06T18:51:18.164Z"
+}

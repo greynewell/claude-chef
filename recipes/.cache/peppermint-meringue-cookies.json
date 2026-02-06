@@ -1,0 +1,53 @@
+{
+  "contentHash": "7c663cf3f5705fd4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 egg whites",
+        "searchTerm": "egg white",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "⅛ teaspoon cider vinegar",
+        "searchTerm": "cider vinegar",
+        "normalizedName": "Cider Vinegar"
+      },
+      {
+        "ingredient": "⅛ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅓ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 peppermint candy canes, crushed",
+        "searchTerm": "peppermint candy cane",
+        "normalizedName": "Peppermint Candy Cane"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Electric Mixer",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Piping Bag",
+        "searchTerm": "piping bag"
+      }
+    ],
+    "cookingTips": [
+      "Beat egg whites until stiff peaks form for proper meringue structure",
+      "Add sugar gradually while beating to achieve glossy meringue",
+      "Low oven temperature prevents browning and cracks in meringues"
+    ],
+    "coachingPrompt": "Why is vinegar added to meringue? What role does it play in stabilizing the egg whites?"
+  },
+  "timestamp": "2026-02-06T14:33:19.294Z"
+}

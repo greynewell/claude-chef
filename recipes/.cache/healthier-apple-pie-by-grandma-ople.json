@@ -1,0 +1,62 @@
+{
+  "contentHash": "1a82b7a95bb09930",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 recipe pastry for a 9 inch double crust pie",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      },
+      {
+        "ingredient": "¼ cup unsalted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "8 Granny Smith apples - peeled, cored and sliced",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9-inch pie dish",
+        "searchTerm": "pie dish"
+      },
+      {
+        "name": "Rolling pin",
+        "searchTerm": "rolling pin"
+      },
+      {
+        "name": "Oven thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "Pie shield",
+        "searchTerm": "pie shield"
+      }
+    ],
+    "cookingTips": [
+      "Keep pie crust chilled until ready to use",
+      "Brush bottom crust with flour to prevent sogginess",
+      "Cover edges with foil if browning too quickly"
+    ],
+    "coachingPrompt": "How can you prevent a soggy bottom crust in apple pie?"
+  },
+  "timestamp": "2026-02-06T08:51:37.005Z"
+}

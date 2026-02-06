@@ -1,0 +1,48 @@
+{
+  "contentHash": "9daaf7f3471551aa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "2 slices white bread, toasted",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "3 slices crispy bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "½ apple, cored and sliced",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread while bacon cooks for fresh, warm sandwich",
+      "Slice apple thinly and toss with lemon juice to prevent browning",
+      "Assemble sandwich immediately after toasting for best texture"
+    ],
+    "coachingPrompt": "This simple sandwich combines sweet, salty, and protein flavors. Suggest prepping bacon first, then toasting bread while it cools slightly."
+  },
+  "timestamp": "2026-02-06T14:23:07.954Z"
+}

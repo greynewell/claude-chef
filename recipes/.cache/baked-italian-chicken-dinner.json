@@ -1,0 +1,58 @@
+{
+  "contentHash": "95250b7169413206",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 pound skinless, boneless chicken breast, cut into cubes",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 (10 ounce) package frozen broccoli",
+        "searchTerm": "frozen broccoli",
+        "normalizedName": "Frozen Broccoli"
+      },
+      {
+        "ingredient": "4 potatoes, diced",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "¼ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (.7 ounce) package Italian dressing mix",
+        "searchTerm": "Italian dressing mix",
+        "normalizedName": "Italian Dressing Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "large baking dish"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cube chicken and potatoes uniformly for even cooking throughout the dish",
+      "Mix melted butter with Italian seasoning mix and toss with all ingredients for even seasoning",
+      "Add frozen broccoli toward the end of cooking to prevent it from becoming mushy"
+    ],
+    "coachingPrompt": "Guide uniform cutting for even cooking, explain how to season a one-pan meal, and discuss timing for adding frozen vegetables."
+  },
+  "timestamp": "2026-02-05T23:07:02.920Z"
+}

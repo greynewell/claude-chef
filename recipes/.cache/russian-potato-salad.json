@@ -1,0 +1,68 @@
+{
+  "contentHash": "992ee50fa50a6d80",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 large potatoes",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 (16 ounce) package turkey hot dogs",
+        "searchTerm": "turkey hot dog",
+        "normalizedName": "Turkey Hot Dog"
+      },
+      {
+        "ingredient": "5 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "5 large dill pickles",
+        "searchTerm": "dill pickle",
+        "normalizedName": "Dill Pickle"
+      },
+      {
+        "ingredient": "1 bunch green onions",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 (15 ounce) can baby peas",
+        "searchTerm": "canned pea",
+        "normalizedName": "Pea"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "cooking pot"
+      },
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "large bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Cook potatoes and eggs together to save time and ensure proper doneness",
+      "Dice all ingredients to approximately the same size for consistency",
+      "Allow salad to chill overnight for best flavor development"
+    ],
+    "coachingPrompt": "Help the cook understand how each ingredient contributes to the salad's texture and flavor profile."
+  },
+  "timestamp": "2026-02-06T16:39:14.373Z"
+}

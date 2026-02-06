@@ -1,0 +1,63 @@
+{
+  "contentHash": "6806e67efe230777",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup cooked macaroni",
+        "searchTerm": "macaroni",
+        "normalizedName": "Macaroni"
+      },
+      {
+        "ingredient": "2 slices American cheese, diced",
+        "searchTerm": "american cheese",
+        "normalizedName": "American Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "16 thin pretzel crackers",
+        "searchTerm": "pretzel crackers",
+        "normalizedName": "Pretzel Cracker"
+      },
+      {
+        "ingredient": "1 (4 ounce) precooked smoked sausage",
+        "searchTerm": "smoked sausage",
+        "normalizedName": "Smoked Sausage"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "small saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Melt cheese gently over low heat to avoid scorching",
+      "Top each pretzel cracker while cheese mixture is still warm",
+      "Chill assembled bites briefly before serving for easier handling"
+    ],
+    "coachingPrompt": "Help the user create an attractive appetizer by explaining how to balance cheese sauce consistency and topping assembly."
+  },
+  "timestamp": "2026-02-06T11:42:13.871Z"
+}

@@ -1,0 +1,73 @@
+{
+  "contentHash": "c6f30165c3fcf737",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons grated onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 cup chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 cup half-and-half",
+        "searchTerm": "half-and-half",
+        "normalizedName": "Half-And-Half"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon ground white pepper",
+        "searchTerm": "white pepper",
+        "normalizedName": "White Pepper"
+      },
+      {
+        "ingredient": "1 pinch dried thyme",
+        "searchTerm": "dried thyme",
+        "normalizedName": "Dried Thyme"
+      },
+      {
+        "ingredient": "1 pinch ground cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Microplane",
+        "searchTerm": "microplane"
+      }
+    ],
+    "cookingTips": [
+      "Create a roux by cooking butter and flour together for 1-2 minutes before adding liquid",
+      "Whisk constantly while adding broth and cream to prevent lumps",
+      "Simmer gently for 5 minutes to thicken and allow flavors to develop"
+    ],
+    "coachingPrompt": "Guide the user through the classic French roux technique and the proper ratios for achieving the desired sauce consistency."
+  },
+  "timestamp": "2026-02-05T23:40:31.729Z"
+}

@@ -1,0 +1,47 @@
+{
+  "contentHash": "1a138a7f7f0ad412",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 russet potatoes, sliced into 12 wedges each with skin on",
+        "searchTerm": "russet potatoes",
+        "normalizedName": "Russet Potato"
+      },
+      {
+        "ingredient": "1 tablespoon extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 teaspoons seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      },
+      {
+        "ingredient": "1 tablespoon finely chopped fresh rosemary",
+        "searchTerm": "fresh rosemary",
+        "normalizedName": "Rosemary"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Pat potatoes dry before air frying for crispier wedges",
+      "Toss wedges halfway through cooking for even browning"
+    ],
+    "coachingPrompt": "How can I get extra crispy edges on air fryer potato wedges?"
+  },
+  "timestamp": "2026-02-06T16:35:07.582Z"
+}

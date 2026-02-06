@@ -1,0 +1,63 @@
+{
+  "contentHash": "078800c36c74be6d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup frozen strawberries",
+        "searchTerm": "frozen strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "1 large banana, peeled and halved",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "1 (5.3 ounce) container Yoplait® Greek 100 Vanilla Yogurt, divided",
+        "searchTerm": "Greek yogurt",
+        "normalizedName": "Greek Yogurt"
+      },
+      {
+        "ingredient": "¼ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 tablespoon honey  (Optional)",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 cup sliced frozen peaches",
+        "searchTerm": "frozen peaches",
+        "normalizedName": "Peach"
+      },
+      {
+        "ingredient": "¼ cup orange juice",
+        "searchTerm": "orange juice",
+        "normalizedName": "Orange Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "smoothie glass",
+        "searchTerm": "tall glass"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Blend frozen fruits first with liquid for smoother consistency",
+      "Add yogurt last to prevent over-mixing which can make it thin",
+      "Optional honey adds sweetness if fruits aren't sweet enough"
+    ],
+    "coachingPrompt": "How do I balance the strawberry and peach flavors equally in this smoothie?"
+  },
+  "timestamp": "2026-02-06T19:34:24.689Z"
+}

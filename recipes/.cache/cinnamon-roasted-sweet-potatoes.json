@@ -1,0 +1,63 @@
+{
+  "contentHash": "b2c5f9482aedaca2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 pounds sweet potatoes",
+        "searchTerm": "sweet potatoes",
+        "normalizedName": "Sweet Potato"
+      },
+      {
+        "ingredient": "2 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "¾ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch freshly ground pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon fresh lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cut sweet potatoes into uniform thickness for even cooking",
+      "Toss with oil and seasonings before roasting",
+      "Add lime juice after roasting for fresh brightness"
+    ],
+    "coachingPrompt": "Help the user roast sweet potatoes until caramelized and tender with warm cinnamon and citrus notes."
+  },
+  "timestamp": "2026-02-06T03:25:46.987Z"
+}

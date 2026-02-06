@@ -1,0 +1,43 @@
+{
+  "contentHash": "fb58c0fe08b8b7ab",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 fresh jalapeno peppers, halved lengthwise and seeded",
+        "searchTerm": "jalapeno",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "12 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Wear gloves when handling jalapenos to avoid capsaicin irritation",
+      "Fill jalapeno halves generously with cream cheese before wrapping with bacon",
+      "Grill over medium heat for 8-10 minutes until bacon is crispy and peppers are tender"
+    ],
+    "coachingPrompt": "Advise on how to prevent bacon from burning while the peppers soften, and proper filling techniques."
+  },
+  "timestamp": "2026-02-06T08:10:19.108Z"
+}

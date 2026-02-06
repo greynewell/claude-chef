@@ -1,0 +1,64 @@
+{
+  "contentHash": "d30f81991502e1d2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 cup minced red onion",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "1 cup shredded white Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 cup crabmeat (Optional)",
+        "searchTerm": "crabmeat",
+        "normalizedName": "Crabmeat"
+      },
+      {
+        "ingredient": "1 teaspoon Dijon-style prepared mustard",
+        "searchTerm": "dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "½ (1 pound) loaf sliced pumpernickel party bread",
+        "searchTerm": "pumpernickel bread",
+        "normalizedName": "Pumpernickel Bread"
+      },
+      {
+        "ingredient": "lemon pepper to taste",
+        "searchTerm": "lemon pepper",
+        "normalizedName": "Lemon Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "serving platter",
+        "searchTerm": "serving platter"
+      }
+    ],
+    "cookingTips": [
+      "Mix the spread ahead of time and refrigerate until ready to serve",
+      "Toast bread lightly for better structural integrity and improved flavor",
+      "Use fresh crabmeat for the best taste; lump crab works well"
+    ],
+    "coachingPrompt": "Should I toast the pumpernickel bread, and can I make this spread ahead of time?"
+  },
+  "timestamp": "2026-02-06T10:20:07.378Z"
+}

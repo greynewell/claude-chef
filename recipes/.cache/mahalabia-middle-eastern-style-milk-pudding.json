@@ -1,0 +1,63 @@
+{
+  "contentHash": "b4cff34022cee1e0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "6 tablespoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "1 cup heavy whipping cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "1 tablespoon rose water",
+        "searchTerm": "rose water",
+        "normalizedName": "Rose Water"
+      },
+      {
+        "ingredient": "2 cardamom pods, crushed",
+        "searchTerm": "cardamom pods",
+        "normalizedName": "Cardamom Pod"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Serving bowls",
+        "searchTerm": "serving bowls"
+      }
+    ],
+    "cookingTips": [
+      "Mix cornstarch with cold water first to prevent lumps when adding to hot milk",
+      "Stir constantly while cooking to achieve a smooth, glossy pudding",
+      "Add rose water at the end to preserve its delicate floral notes"
+    ],
+    "coachingPrompt": "How can you prevent lumps when thickening a milk-based pudding? What role does the cardamom play?"
+  },
+  "timestamp": "2026-02-06T11:45:11.266Z"
+}

@@ -1,0 +1,52 @@
+{
+  "contentHash": "98f222a65b46afd2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (8 ounce) packages cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "½ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "4 green onions, chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 (1 ounce) package taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning Mix"
+      },
+      {
+        "ingredient": "14 (10 inch) flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "serving platter",
+        "searchTerm": "platter"
+      }
+    ],
+    "cookingTips": [
+      "Finely chop green onions for even distribution in filling",
+      "Chill filled rollups for at least 1 hour before serving for easier slicing"
+    ],
+    "coachingPrompt": "I'm making taco-seasoned cream cheese rollups with green onions. Do I need to cook these or are they served cold?"
+  },
+  "timestamp": "2026-02-06T21:02:53.871Z"
+}

@@ -1,0 +1,78 @@
+{
+  "contentHash": "f15e5dc1adc94e47",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (3 pound) bone-in turkey breast half",
+        "searchTerm": "turkey breast",
+        "normalizedName": "Turkey Breast"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup whipped cream cheese spread with garden vegetables",
+        "searchTerm": "herb cream cheese",
+        "normalizedName": "Herb Cream Cheese Spread"
+      },
+      {
+        "ingredient": "1 tablespoon soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 tablespoon minced fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      },
+      {
+        "ingredient": "½ teaspoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "½ teaspoon dried sage",
+        "searchTerm": "dried sage",
+        "normalizedName": "Dried Sage"
+      },
+      {
+        "ingredient": "½ teaspoon dried thyme",
+        "searchTerm": "dried thyme",
+        "normalizedName": "Dried Thyme"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "¼ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "carving knife"
+      }
+    ],
+    "cookingTips": [
+      "Cook on low for 6-8 hours or high for 3-4 hours until internal temperature reaches 165°F",
+      "Don't lift lid frequently - each opening adds 15-20 minutes cooking time",
+      "Let turkey rest 10 minutes before carving for juicier meat"
+    ],
+    "coachingPrompt": "How would you create a gravy from the cooking liquid? What would complement this tender turkey?"
+  },
+  "timestamp": "2026-02-06T09:05:35.274Z"
+}

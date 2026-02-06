@@ -1,0 +1,78 @@
+{
+  "contentHash": "6ab0680122d722b4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅓ ripe pineapple, peeled, cored, and cut into 1-inch pieces",
+        "searchTerm": "pineapple",
+        "normalizedName": "Pineapple"
+      },
+      {
+        "ingredient": "2 firm ripe peaches or nectarines",
+        "searchTerm": "peaches",
+        "normalizedName": "Peach"
+      },
+      {
+        "ingredient": "1 Anjou pear",
+        "searchTerm": "pear",
+        "normalizedName": "Pear"
+      },
+      {
+        "ingredient": "1 tablespoon oil",
+        "searchTerm": "oil",
+        "normalizedName": "Oil"
+      },
+      {
+        "ingredient": "Freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "⅓ pound crumbled Gorgonzola cheese",
+        "searchTerm": "gorgonzola cheese",
+        "normalizedName": "Gorgonzola Cheese"
+      },
+      {
+        "ingredient": "15 leaves fresh basil, chopped",
+        "searchTerm": "basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "10 sprigs Italian flat leaf parsley, chopped",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "2 cups arugula leaves, chopped",
+        "searchTerm": "arugula",
+        "normalizedName": "Arugula"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil (Optional)",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "salad bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Select firm but ripe fruit to prevent falling apart on the grill",
+      "Grill fruit just until caramelized, about 2-3 minutes per side",
+      "Assemble salad just before serving to prevent wilting"
+    ],
+    "coachingPrompt": "Guide the user on selecting ripe fruit and managing grill time to achieve caramelization without overcooking."
+  },
+  "timestamp": "2026-02-06T08:16:33.675Z"
+}

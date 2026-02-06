@@ -1,0 +1,62 @@
+{
+  "contentHash": "9b1d3f0487328518",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package frozen French fries",
+        "searchTerm": "frozen French fries",
+        "normalizedName": "Frozen French Fry"
+      },
+      {
+        "ingredient": "1 (16 ounce) package frozen chopped broccoli",
+        "searchTerm": "frozen broccoli",
+        "normalizedName": "Frozen Broccoli"
+      },
+      {
+        "ingredient": "1 ½ cups cooked, cubed ham",
+        "searchTerm": "cooked ham",
+        "normalizedName": "Cooked Ham"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream Of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Mix soup, milk, and mayonnaise smoothly before adding other ingredients to prevent lumps",
+      "Don't thaw frozen vegetables; they'll cook evenly in the casserole"
+    ],
+    "coachingPrompt": "How can you prevent this casserole from becoming watery while keeping all components tender?"
+  },
+  "timestamp": "2026-02-06T08:43:35.540Z"
+}

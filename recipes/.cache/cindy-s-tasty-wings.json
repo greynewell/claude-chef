@@ -1,0 +1,48 @@
+{
+  "contentHash": "59934d145b69e53e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 pounds frozen chicken wings",
+        "searchTerm": "chicken wings",
+        "normalizedName": "Chicken Wing"
+      },
+      {
+        "ingredient": "1 cup apricot preserves",
+        "searchTerm": "apricot preserves",
+        "normalizedName": "Apricot Preserve"
+      },
+      {
+        "ingredient": "1 (1 ounce) package dry onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      },
+      {
+        "ingredient": "1 (16 ounce) bottle Catalina salad dressing",
+        "searchTerm": "Catalina dressing",
+        "normalizedName": "Catalina Salad Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 inch baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Large bowl for mixing",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Measuring cups",
+        "searchTerm": "measuring cup"
+      }
+    ],
+    "cookingTips": [
+      "No need to thaw wings; they can go directly from freezer to baking dish",
+      "Mix sauce ingredients thoroughly before pouring over wings for even coating",
+      "Wings are done when meat pulls away from the bone easily"
+    ],
+    "coachingPrompt": "Help the user understand how apricot preserves and Catalina dressing create a sweet-savory glaze, and explain the simple one-dish preparation method."
+  },
+  "timestamp": "2026-02-06T03:21:52.128Z"
+}

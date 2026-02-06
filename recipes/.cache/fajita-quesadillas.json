@@ -1,0 +1,63 @@
+{
+  "contentHash": "9edd8235b6a08db9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "½ onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ green bell pepper",
+        "searchTerm": "bell pepper",
+        "normalizedName": "Bell Pepper"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "4 flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "½ pound cooked steak",
+        "searchTerm": "steak cooked",
+        "normalizedName": "Steak"
+      },
+      {
+        "ingredient": "1 cup shredded Mexican cheese blend",
+        "searchTerm": "mexican blend cheese",
+        "normalizedName": "Mexican Blend Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Slice steak thinly against the grain for easier eating and better texture",
+      "Cook vegetables until just tender-crisp to maintain some texture contrast",
+      "Cook quesadillas over medium heat to melt cheese without burning tortillas"
+    ],
+    "coachingPrompt": "Help the user understand how to layer fillings and cook quesadillas for crispy exterior and melted cheese."
+  },
+  "timestamp": "2026-02-06T06:27:30.687Z"
+}

@@ -1,0 +1,83 @@
+{
+  "contentHash": "d5fdf06a641956a7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (6 ounce) sweet Italian sausage link",
+        "searchTerm": "sweet Italian sausage",
+        "normalizedName": "Sweet Italian Sausage"
+      },
+      {
+        "ingredient": "2 (6 ounce) skin-on, boneless chicken breasts",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 pinch salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch freshly ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pinch cayenne pepper, or to taste",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 ½ cups beech mushrooms",
+        "searchTerm": "beech mushrooms",
+        "normalizedName": "Beech Mushroom"
+      },
+      {
+        "ingredient": "1 red onion, diced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "½ cup white wine",
+        "searchTerm": "white wine",
+        "normalizedName": "White Wine"
+      },
+      {
+        "ingredient": "2 tablespoons cold butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh parsley, divided",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Sear the sausage and chicken skin-side down first to develop a golden crust and render fat",
+      "Use a meat thermometer to ensure chicken reaches 165°F internal temperature",
+      "Finish with cold butter whisked into the sauce for a silky, luxurious texture"
+    ],
+    "coachingPrompt": "Help the user coordinate cooking two proteins of different thicknesses, ensuring both are cooked through without drying out the chicken."
+  },
+  "timestamp": "2026-02-06T17:00:35.376Z"
+}

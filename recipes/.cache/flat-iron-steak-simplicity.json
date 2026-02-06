@@ -1,0 +1,43 @@
+{
+  "contentHash": "e97ffb0ec38c2fb8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (8 ounce) flat iron steaks",
+        "searchTerm": "flat iron steaks",
+        "normalizedName": "Flat Iron Steak"
+      },
+      {
+        "ingredient": "½ teaspoon lemon pepper seasoning, or to taste",
+        "searchTerm": "lemon pepper seasoning",
+        "normalizedName": "Lemon Pepper Seasoning"
+      },
+      {
+        "ingredient": "½ teaspoon onion powder, or to taste",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder, or to taste",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill or grill pan",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Keep seasoning minimal to showcase the meat's natural flavor",
+      "Avoid moving steaks on grill to develop good crust"
+    ],
+    "coachingPrompt": "Remind the user that simplicity highlights quality meat; guide on proper grilling temperatures"
+  },
+  "timestamp": "2026-02-06T06:45:51.102Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "47cfac5028a4d6c6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound walleye fillets",
+        "searchTerm": "walleye fillets",
+        "normalizedName": "Walleye Fillet"
+      },
+      {
+        "ingredient": "2 12x12-inch squares aluminum foil",
+        "searchTerm": "aluminum foil",
+        "normalizedName": "Aluminum Foil"
+      },
+      {
+        "ingredient": "5 tablespoons butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 pinch seasoned salt, or to taste",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      },
+      {
+        "ingredient": "1 pinch garlic and herb seasoning blend",
+        "searchTerm": "garlic herb seasoning",
+        "normalizedName": "Garlic Herb Seasoning Blend"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Fold foil packets loosely to allow steam circulation",
+      "Cook 12-15 minutes until fish flakes easily with a fork",
+      "Carefully open foil to avoid steam burns"
+    ],
+    "coachingPrompt": "Guide the user through proper foil packet technique and explain how to judge fish doneness without overcooking."
+  },
+  "timestamp": "2026-02-05T22:45:20.653Z"
+}

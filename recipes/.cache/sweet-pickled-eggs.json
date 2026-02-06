@@ -1,0 +1,63 @@
+{
+  "contentHash": "ccaa2fcfc3321ad7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 large onion, sliced into rings",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cups white wine vinegar",
+        "searchTerm": "white wine vinegar",
+        "normalizedName": "White Wine Vinegar"
+      },
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon pickling spice, wrapped in cheesecloth",
+        "searchTerm": "pickling spice",
+        "normalizedName": "Pickling Spice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Glass jars",
+        "searchTerm": "glass jars"
+      },
+      {
+        "name": "Cheesecloth",
+        "searchTerm": "cheesecloth"
+      }
+    ],
+    "cookingTips": [
+      "Boil eggs for 12 minutes for hard-boiled perfection",
+      "Cool eggs in ice water before peeling for easier removal",
+      "Refrigerate for at least 24 hours before eating for best flavor development"
+    ],
+    "coachingPrompt": "Pickling requires patience. How long should you allow these eggs to cure for optimal flavor?"
+  },
+  "timestamp": "2026-02-06T20:05:17.991Z"
+}

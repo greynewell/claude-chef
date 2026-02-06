@@ -1,0 +1,53 @@
+{
+  "contentHash": "3a9712782d82cdcf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (5 pound) ready-to-eat ham",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "¼ cup whole cloves",
+        "searchTerm": "cloves",
+        "normalizedName": "Clove"
+      },
+      {
+        "ingredient": "¼ cup dark corn syrup",
+        "searchTerm": "dark corn syrup",
+        "normalizedName": "Dark Corn Syrup"
+      },
+      {
+        "ingredient": "2 cups honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "⅔ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Basting brush",
+        "searchTerm": "basting brush"
+      }
+    ],
+    "cookingTips": [
+      "Score the ham surface in a crosshatch pattern before glazing for better flavor absorption",
+      "Baste the ham every 15-20 minutes during cooking to build up glaze layers",
+      "Let ham rest 15 minutes after cooking before slicing"
+    ],
+    "coachingPrompt": "What temperature and time should I use to heat the ham while building the glaze?"
+  },
+  "timestamp": "2026-02-06T09:22:33.549Z"
+}

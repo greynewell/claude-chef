@@ -1,0 +1,57 @@
+{
+  "contentHash": "091bd4ace54690c9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (6 ounce) jar prepared pesto",
+        "searchTerm": "pesto",
+        "normalizedName": "Pesto"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "3 ounces lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "4 chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "shallow dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Mix pesto, lemon juice, and Parmesan together before coating chicken",
+      "Let chicken marinate for at least 1 hour for deeper flavor"
+    ],
+    "coachingPrompt": "What's the best way to prevent pesto from burning on the grill?"
+  },
+  "timestamp": "2026-02-06T08:22:04.022Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "94709f7d7d2f0155",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (14.5 ounce) can diced tomatoes",
+        "searchTerm": "canned diced tomatoes",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "3 stalks celery, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 teaspoon dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      },
+      {
+        "ingredient": "1 teaspoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ pound frozen cod fillets",
+        "searchTerm": "cod fillets",
+        "normalizedName": "Cod Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "No need to thaw cod; add frozen directly to simmering liquid",
+      "Cook until cod flakes easily with a fork, about 10-15 minutes",
+      "Taste and adjust seasonings just before serving"
+    ],
+    "coachingPrompt": "This is a quick, simple chowder. Help the user understand that frozen fish can be a time-saver without sacrificing quality, and guide them on proper fish doneness cues."
+  },
+  "timestamp": "2026-02-06T16:00:32.949Z"
+}

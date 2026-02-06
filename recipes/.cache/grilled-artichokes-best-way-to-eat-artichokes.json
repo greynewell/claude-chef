@@ -1,0 +1,48 @@
+{
+  "contentHash": "5495eb3bf4b4be01",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 whole artichoke",
+        "searchTerm": "artichoke",
+        "normalizedName": "Artichoke"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "⅛ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "⅛ teaspoon seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Brush",
+        "searchTerm": "brush"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Steam artichoke partially before grilling to ensure tender centers",
+      "Cut in half and scoop out fuzzy center before grilling",
+      "Brush butter mixture directly on leaves as they grill"
+    ],
+    "coachingPrompt": "Grilled artichokes are best when partially pre-cooked. Do you have time to steam them first, or would you prefer a quicker method?"
+  },
+  "timestamp": "2026-02-06T08:09:25.638Z"
+}

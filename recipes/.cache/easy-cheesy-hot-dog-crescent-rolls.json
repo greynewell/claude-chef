@@ -1,0 +1,43 @@
+{
+  "contentHash": "cdabbfdcfc1fb829",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package refrigerated crescent rolls",
+        "searchTerm": "refrigerated crescent rolls",
+        "normalizedName": "Refrigerated Crescent Rolls"
+      },
+      {
+        "ingredient": "¼ cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "8 hot dogs",
+        "searchTerm": "hot dogs",
+        "normalizedName": "Hot Dog"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Wrap crescent dough around hot dogs spiraling for better coverage",
+      "Sprinkle cheese on wrapped dogs before baking for even distribution",
+      "Bake at the temperature indicated on the crescent roll package for best results"
+    ],
+    "coachingPrompt": "What technique would help the crescent dough cook through while keeping the hot dogs juicy?"
+  },
+  "timestamp": "2026-02-06T05:37:01.982Z"
+}

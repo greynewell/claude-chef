@@ -1,0 +1,72 @@
+{
+  "contentHash": "501209d8605e6178",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 ounces fresh pork chorizo",
+        "searchTerm": "pork chorizo",
+        "normalizedName": "Pork Chorizo"
+      },
+      {
+        "ingredient": "½ cup sliced green onions",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 red bell pepper",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "2 poblano chile peppers",
+        "searchTerm": "poblano peppers",
+        "normalizedName": "Poblano Pepper"
+      },
+      {
+        "ingredient": "2 jalapeno peppers",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "4 ounces cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "8 ounces shredded Monterey Jack cheese",
+        "searchTerm": "monterey jack cheese",
+        "normalizedName": "Monterey Jack Cheese"
+      },
+      {
+        "ingredient": "4 ounces shredded sharp Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "¼ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cook chorizo slowly to render fat gradually, which helps emulsify the cheeses",
+      "Roast poblano peppers to remove skin for better texture and deeper flavor"
+    ],
+    "coachingPrompt": "What's the purpose of combining three different cheeses in this fundido?"
+  },
+  "timestamp": "2026-02-06T03:15:44.395Z"
+}

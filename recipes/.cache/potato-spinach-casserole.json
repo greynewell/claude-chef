@@ -1,0 +1,68 @@
+{
+  "contentHash": "890ca569a76e2a12",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "7 large potatoes, peeled and cubed",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "1 cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons chopped green onions",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Casserole Dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "Large Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Boil potatoes until just tender, then combine with spinach while still warm",
+      "Drain spinach thoroughly to prevent excess moisture in the casserole",
+      "Bake at 350°F for 30-35 minutes until golden on top"
+    ],
+    "coachingPrompt": "This is a vegetable-forward casserole combining potatoes and spinach. Help the cook understand moisture control with the spinach and achieving proper texture."
+  },
+  "timestamp": "2026-02-06T15:15:47.212Z"
+}

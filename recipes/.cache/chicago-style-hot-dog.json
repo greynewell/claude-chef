@@ -1,0 +1,69 @@
+{
+  "contentHash": "26de9a01719507df",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 all-beef hot dog",
+        "searchTerm": "all-beef hot dog",
+        "normalizedName": "All-Beef Hot Dog"
+      },
+      {
+        "ingredient": "1 poppyseed hot dog bun",
+        "searchTerm": "poppyseed hot dog bun",
+        "normalizedName": "Poppyseed Hot Dog Bun"
+      },
+      {
+        "ingredient": "1 tablespoon yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      },
+      {
+        "ingredient": "1 tablespoon sweet green pickle relish",
+        "searchTerm": "sweet green pickle relish",
+        "normalizedName": "Sweet Green Pickle Relish"
+      },
+      {
+        "ingredient": "1 tablespoon chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "4 tomato wedges",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 dill pickle spear",
+        "searchTerm": "dill pickle spear",
+        "normalizedName": "Dill Pickle Spear"
+      },
+      {
+        "ingredient": "2 sport peppers",
+        "searchTerm": "sport peppers",
+        "normalizedName": "Sport Pepper"
+      },
+      {
+        "ingredient": "1 dash celery salt",
+        "searchTerm": "celery salt",
+        "normalizedName": "Celery Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill or skillet",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Never use ketchup on an authentic Chicago hot dog",
+      "Heat the hot dog until it's slightly charred on the outside for best texture",
+      "The proper order of toppings matters: mustard, relish, onion, tomato, pickle, peppers, celery salt"
+    ],
+    "coachingPrompt": "Do you know the Chicago hot dog tradition well enough to assemble this correctly without using any forbidden condiments?"
+  },
+  "timestamp": "2026-02-06T02:20:58.484Z"
+}

@@ -1,0 +1,49 @@
+{
+  "contentHash": "2a0970600edd34f5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 package instant butterscotch pudding mix",
+        "searchTerm": "butterscotch pudding mix",
+        "normalizedName": "Instant Butterscotch Pudding Mix"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 package whipped cream topping",
+        "searchTerm": "whipped cream topping",
+        "normalizedName": "Whipped Cream Topping"
+      },
+      {
+        "ingredient": "6 chocolate-coated caramel-peanut nougat candy bars",
+        "searchTerm": "snickers bars",
+        "normalizedName": "Snickers Bar"
+      },
+      {
+        "ingredient": "3 Granny Smith apples",
+        "searchTerm": "granny smith apples",
+        "normalizedName": "Granny Smith Apple"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Cut candies into bite-sized pieces just before serving to prevent softening",
+      "Dice apples last to minimize browning",
+      "Fold ingredients gently to maintain texture"
+    ],
+    "coachingPrompt": "Guide the user on timing assembly to keep apples fresh and candy pieces crunchy, and explain this as a quick no-bake dessert."
+  },
+  "timestamp": "2026-02-05T22:16:31.407Z"
+}

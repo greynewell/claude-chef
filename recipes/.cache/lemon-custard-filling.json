@@ -1,0 +1,63 @@
+{
+  "contentHash": "b00e0ba29b3e0d1d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ cup cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 egg yolks",
+        "searchTerm": "egg yolk",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "¾ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "⅓ cup lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Whisk sugar and cornstarch together before adding liquid to prevent lumps",
+      "Temper egg yolks by slowly adding hot mixture while whisking to avoid scrambling",
+      "Cook to 160°F for food safety and proper custard consistency"
+    ],
+    "coachingPrompt": "Help the baker master custard technique with proper tempering of eggs and achieving the right consistency. Discuss cornstarch's thickening role."
+  },
+  "timestamp": "2026-02-06T11:11:40.280Z"
+}

@@ -1,0 +1,83 @@
+{
+  "contentHash": "f318614ec4171bcd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (5 ounce) can tuna, drained and flaked",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Canned Tuna"
+      },
+      {
+        "ingredient": "½ red bell pepper",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "½ onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 tablespoons chopped fresh cilantro",
+        "searchTerm": "fresh cilantro",
+        "normalizedName": "Fresh Cilantro"
+      },
+      {
+        "ingredient": "2 tablespoons capers",
+        "searchTerm": "capers",
+        "normalizedName": "Capers"
+      },
+      {
+        "ingredient": "¼ cup pickle relish",
+        "searchTerm": "pickle relish",
+        "normalizedName": "Pickle Relish"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "½ cup Dijon-style mustard",
+        "searchTerm": "dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "½ (15 ounce) can white beans, drained",
+        "searchTerm": "white bean",
+        "normalizedName": "White Bean"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh parsley, for garnish",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Knife and cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Flake tuna gently to preserve texture rather than mashing it",
+      "Mix mayonnaise and mustard together first, then fold in remaining ingredients",
+      "Fresh herbs brighten the salad; use cilantro for tropical note"
+    ],
+    "coachingPrompt": "Help the user balance the mayo and mustard, guide them through gentle mixing technique, and explain how white beans add substance to the salad."
+  },
+  "timestamp": "2026-02-06T22:03:10.859Z"
+}

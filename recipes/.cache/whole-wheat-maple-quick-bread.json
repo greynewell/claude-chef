@@ -1,0 +1,73 @@
+{
+  "contentHash": "d5d073641f3170db",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅓ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 cup plain yogurt",
+        "searchTerm": "plain yogurt",
+        "normalizedName": "Plain Yogurt"
+      },
+      {
+        "ingredient": "1 egg, lightly beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "1 lemon, juiced",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "2 cups whole wheat pastry flour",
+        "searchTerm": "whole wheat pastry flour",
+        "normalizedName": "Whole Wheat Pastry Flour"
+      },
+      {
+        "ingredient": "2 teaspoons baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "¼ teaspoon ground nutmeg",
+        "searchTerm": "ground nutmeg",
+        "normalizedName": "Ground Nutmeg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "Mixing bowls",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "The acidic lemon juice reacts with baking soda for lift without baking powder",
+      "Yogurt adds moisture and tenderness to this quick bread",
+      "Cool bread before slicing to prevent crumbling"
+    ],
+    "coachingPrompt": "How does the lemon juice and yogurt work together in this bread and what role does baking soda play?"
+  },
+  "timestamp": "2026-02-06T22:10:18.453Z"
+}

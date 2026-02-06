@@ -1,0 +1,48 @@
+{
+  "contentHash": "1ab4aece1c0e9e3f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 (1/2 inch thick) slices soft Italian bread",
+        "searchTerm": "Italian bread",
+        "normalizedName": "Italian Bread"
+      },
+      {
+        "ingredient": "⅓ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "8 ounces thinly sliced young goat Gouda cheese",
+        "searchTerm": "goat gouda cheese",
+        "normalizedName": "Goat Gouda Cheese"
+      },
+      {
+        "ingredient": "1 ⅓ cups Sheet-Pan Ratatouille",
+        "searchTerm": "ratatouille",
+        "normalizedName": "Ratatouille"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Spread mayonnaise on outside of bread for better browning",
+      "Cook on medium heat to melt cheese without burning bread",
+      "Press gently with spatula for even contact"
+    ],
+    "coachingPrompt": "Do you prefer your sandwich pressed thin or thick and gooey?"
+  },
+  "timestamp": "2026-02-06T15:57:15.732Z"
+}

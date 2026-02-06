@@ -1,0 +1,53 @@
+{
+  "contentHash": "0af3f113917b09f1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups rotini pasta",
+        "searchTerm": "rotini pasta",
+        "normalizedName": "Rotini"
+      },
+      {
+        "ingredient": "1 (12 ounce) can chicken chunks, drained",
+        "searchTerm": "canned chicken",
+        "normalizedName": "Canned Chicken"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "2 cups marinara sauce",
+        "searchTerm": "marinara sauce",
+        "normalizedName": "Marinara Sauce"
+      },
+      {
+        "ingredient": "½ cup seasoned bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Casserole Dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Keep pasta slightly underdone as it continues to cook in the oven",
+      "Mix the casserole components well before baking to ensure even distribution",
+      "Top with bread crumbs and broil briefly at the end for a crispy finish"
+    ],
+    "coachingPrompt": "This is a simple weeknight casserole using canned chicken. What's your strategy for avoiding a gummy, overcooked pasta texture?"
+  },
+  "timestamp": "2026-02-06T02:36:39.645Z"
+}

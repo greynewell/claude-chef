@@ -1,0 +1,63 @@
+{
+  "contentHash": "13eb89fd5dded698",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup vegan margarine",
+        "searchTerm": "vegan margarine",
+        "normalizedName": "Vegan Margarine"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 tablespoons coconut milk",
+        "searchTerm": "coconut milk",
+        "normalizedName": "Coconut Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Electric Mixer",
+        "searchTerm": "hand mixer"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Vegan margarine should be at room temperature for proper creaming",
+      "Coconut milk adds moisture that eggs would normally provide",
+      "Chill dough for 30 minutes before baking for cleaner cookie shapes"
+    ],
+    "coachingPrompt": "Explain how coconut milk replaces eggs in vegan baking and why chilling dough prevents spreading."
+  },
+  "timestamp": "2026-02-06T14:37:03.420Z"
+}

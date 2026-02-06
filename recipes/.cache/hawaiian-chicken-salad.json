@@ -1,0 +1,58 @@
+{
+  "contentHash": "5e72e71ac0b43c61",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (3 ounce) packages cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "⅓ cup creamy salad dressing, e.g. Miracle Whip ™",
+        "searchTerm": "salad dressing",
+        "normalizedName": "Salad Dressing"
+      },
+      {
+        "ingredient": "1 (8 ounce) can pineapple tidbits, juice reserved",
+        "searchTerm": "canned pineapple tidbits",
+        "normalizedName": "Pineapple Tidbit"
+      },
+      {
+        "ingredient": "3 (5 ounce) cans chunk chicken, drained",
+        "searchTerm": "canned chicken",
+        "normalizedName": "Canned Chicken"
+      },
+      {
+        "ingredient": "1 cup blanched slivered almonds",
+        "searchTerm": "slivered almonds",
+        "normalizedName": "Slivered Almond"
+      },
+      {
+        "ingredient": "1 ½ cups seedless grapes, halved",
+        "searchTerm": "seedless grapes",
+        "normalizedName": "Seedless Grape"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spoon or spatula",
+        "searchTerm": "mixing spoon"
+      },
+      {
+        "name": "food processor (optional)",
+        "searchTerm": "food processor"
+      }
+    ],
+    "cookingTips": [
+      "Soften cream cheese before mixing for smooth, creamy consistency",
+      "Reserve pineapple juice to thin dressing if needed",
+      "Fold ingredients gently to keep almonds and grapes intact"
+    ],
+    "coachingPrompt": "Would you like this as a sandwich filling, served on greens, or in lettuce cups?"
+  },
+  "timestamp": "2026-02-06T08:48:36.622Z"
+}

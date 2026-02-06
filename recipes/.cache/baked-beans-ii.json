@@ -1,0 +1,77 @@
+{
+  "contentHash": "1aedc902731f4087",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (15 ounce) cans baked beans with pork",
+        "searchTerm": "canned baked beans with pork",
+        "normalizedName": "Baked Bean with Pork"
+      },
+      {
+        "ingredient": "½ cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "½ onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "1 tablespoon prepared mustard",
+        "searchTerm": "prepared mustard",
+        "normalizedName": "Mustard"
+      },
+      {
+        "ingredient": "1 teaspoon Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon red wine vinegar",
+        "searchTerm": "red wine vinegar",
+        "normalizedName": "Red Wine Vinegar"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Combine all ingredients except bacon before baking for easier mixing",
+      "Lay bacon strips on top before baking for crispy texture"
+    ],
+    "coachingPrompt": "How long should this bake and at what temperature?"
+  },
+  "timestamp": "2026-02-05T22:59:09.357Z"
+}

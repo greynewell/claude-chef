@@ -1,0 +1,48 @@
+{
+  "contentHash": "b5d97d27689ce810",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 egg yolks",
+        "searchTerm": "egg yolks",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 cups heavy whipping cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Whipping Cream"
+      },
+      {
+        "ingredient": "5 tablespoons low-calorie natural sweetener",
+        "searchTerm": "sweetener",
+        "normalizedName": "Sweetener"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Ramekins",
+        "searchTerm": "ramekins"
+      },
+      {
+        "name": "Water Bath",
+        "searchTerm": "water bath"
+      },
+      {
+        "name": "Kitchen Torch",
+        "searchTerm": "kitchen torch"
+      }
+    ],
+    "cookingTips": [
+      "Heat cream until steaming but not boiling before tempering yolks",
+      "Bake in water bath at 325°F for 25-30 minutes until just set",
+      "Chill for at least 4 hours before torching top"
+    ],
+    "coachingPrompt": "How do I make silky creme brulee with a crispy sugar top using keto sweetener?"
+  },
+  "timestamp": "2026-02-06T10:42:04.381Z"
+}

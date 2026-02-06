@@ -1,0 +1,53 @@
+{
+  "contentHash": "238c32e2eb49d169",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 tomatoes, cut into bite-sized pieces",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 large bell pepper, cut into bite-sized pieces",
+        "searchTerm": "bell pepper",
+        "normalizedName": "Bell Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "dried oregano to taste",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      },
+      {
+        "ingredient": "garlic salt to taste",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Use the freshest, ripest tomatoes available for peak flavor",
+      "Toss immediately before serving to prevent vegetables from becoming watery",
+      "Add herbs gradually and taste to avoid over-seasoning"
+    ],
+    "coachingPrompt": "This is a 5-ingredient salad with minimal preparation. What makes it work with so few components?"
+  },
+  "timestamp": "2026-02-06T19:47:23.670Z"
+}

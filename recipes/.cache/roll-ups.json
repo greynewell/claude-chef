@@ -1,0 +1,43 @@
+{
+  "contentHash": "39ec24b054e859fd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 slices hard salami",
+        "searchTerm": "hard salami",
+        "normalizedName": "Hard Salami"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "5 green onions, trimmed",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Toothpicks",
+        "searchTerm": "toothpicks"
+      }
+    ],
+    "cookingTips": [
+      "Soften cream cheese at room temperature for easier spreading",
+      "Spread cream cheese evenly on salami to prevent tearing",
+      "Secure with toothpicks for easy holding and serving"
+    ],
+    "coachingPrompt": "Help the user quickly assemble simple, tasty appetizers with proper cream cheese spreading technique."
+  },
+  "timestamp": "2026-02-06T16:31:21.454Z"
+}

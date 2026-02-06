@@ -1,0 +1,62 @@
+{
+  "contentHash": "7f050445e5f9bf2a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 tablespoon mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¼ teaspoon Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "salt and freshly ground pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and freshly ground pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "12 black olives",
+        "searchTerm": "black olive",
+        "normalizedName": "Black Olive"
+      },
+      {
+        "ingredient": "1 pinch paprika (Optional)",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Piping bag",
+        "searchTerm": "piping bag"
+      },
+      {
+        "name": "Serving platter",
+        "searchTerm": "platter"
+      }
+    ],
+    "cookingTips": [
+      "Boil eggs for 10-12 minutes for fully cooked yolks, then cool in ice water",
+      "Pipe the yolk mixture for a uniform, attractive presentation"
+    ],
+    "coachingPrompt": "Guide the cook through boiling eggs perfectly and creating a smooth filling mixture."
+  },
+  "timestamp": "2026-02-06T19:11:54.839Z"
+}

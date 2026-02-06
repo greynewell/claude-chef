@@ -1,0 +1,53 @@
+{
+  "contentHash": "fa09ae042bd573e1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "4 ounces feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "1 (10 ounce) box frozen chopped spinach, thawed and squeezed dry",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "2 pounds ground turkey",
+        "searchTerm": "ground turkey",
+        "normalizedName": "Ground Turkey"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Squeeze spinach thoroughly to prevent wet burgers",
+      "Mix ingredients gently to avoid overworking the meat",
+      "Chill formed patties for 30 minutes before cooking for better shape retention"
+    ],
+    "coachingPrompt": "Guide the user in creating moist, flavorful turkey burgers that hold together while maintaining tender texture."
+  },
+  "timestamp": "2026-02-06T19:12:56.261Z"
+}

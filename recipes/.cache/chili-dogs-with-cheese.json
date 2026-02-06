@@ -1,0 +1,49 @@
+{
+  "contentHash": "a32dd59f6d9a9b30",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 beef franks",
+        "searchTerm": "hot dogs",
+        "normalizedName": "Beef Frank"
+      },
+      {
+        "ingredient": "8 hot dog buns, split",
+        "searchTerm": "hot dog buns",
+        "normalizedName": "Hot Dog Bun"
+      },
+      {
+        "ingredient": "1 (15 ounce) can HORMEL® Chili No Beans, heated",
+        "searchTerm": "canned chili",
+        "normalizedName": "Canned Chili"
+      },
+      {
+        "ingredient": "Shredded cheese",
+        "searchTerm": "shredded cheese",
+        "normalizedName": "Shredded Cheese"
+      },
+      {
+        "ingredient": "1 teaspoon Sliced green onions",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill or skillet",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Warm buns lightly on the grill or in a warm oven for better texture",
+      "Top hot dogs with chili first, then cheese, for better melting",
+      "Garnish with fresh green onions just before serving for color and freshness"
+    ],
+    "coachingPrompt": "What's the best way to assemble classic chili dogs with melted cheese?"
+  },
+  "timestamp": "2026-02-06T02:49:54.683Z"
+}

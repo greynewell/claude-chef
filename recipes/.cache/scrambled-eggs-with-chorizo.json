@@ -1,0 +1,48 @@
+{
+  "contentHash": "47cd7a8f00a6aa1b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "¼ cup Mexican-style chorizo",
+        "searchTerm": "Mexican chorizo",
+        "normalizedName": "Mexican Chorizo"
+      },
+      {
+        "ingredient": "6 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Brown chorizo fully to render fat and develop flavor before adding eggs",
+      "Crumble chorizo into small pieces for even distribution",
+      "Let fat from chorizo flavor the eggs rather than adding additional oil"
+    ],
+    "coachingPrompt": "Help the user understand how to cook chorizo first to release its oils and spices, then incorporate eggs for maximum flavor."
+  },
+  "timestamp": "2026-02-06T17:11:57.703Z"
+}

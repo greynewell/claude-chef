@@ -1,0 +1,78 @@
+{
+  "contentHash": "c32df58d899155f9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup milk, room temperature",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "3 tablespoons butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 tablespoon brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 egg, room temperature",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "3 cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "2 ¼ teaspoons bread machine yeast",
+        "searchTerm": "bread machine yeast",
+        "normalizedName": "Bread Machine Yeast"
+      },
+      {
+        "ingredient": "1 cup raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bread machine",
+        "searchTerm": "bread machine"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      },
+      {
+        "name": "measuring spoons",
+        "searchTerm": "measuring spoons"
+      }
+    ],
+    "cookingTips": [
+      "Ensure all ingredients are at room temperature for consistent bread machine results",
+      "Add raisins at the appropriate time (usually during the second knead cycle) to prevent them from breaking",
+      "Use bread flour rather than all-purpose flour for better structure and chewiness"
+    ],
+    "coachingPrompt": "What advantages does using a bread machine provide over hand-kneading for this recipe?"
+  },
+  "timestamp": "2026-02-06T03:24:38.742Z"
+}

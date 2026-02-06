@@ -1,0 +1,63 @@
+{
+  "contentHash": "738f858bca815a43",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 large eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "¼ teaspoon ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      },
+      {
+        "ingredient": "1 tablespoon unsalted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "shallow bowl",
+        "searchTerm": "shallow bowl"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Soak bread briefly in egg mixture to prevent sogginess",
+      "Cook over medium heat to avoid burning exterior",
+      "Eggs alone create richer custard than milk-based versions"
+    ],
+    "coachingPrompt": "What substitutes could replace milk in traditional French toast recipes?"
+  },
+  "timestamp": "2026-02-06T06:56:41.130Z"
+}

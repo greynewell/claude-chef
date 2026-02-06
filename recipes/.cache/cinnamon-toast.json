@@ -1,0 +1,47 @@
+{
+  "contentHash": "100c550aaa733303",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "2 teaspoons butter or margarine",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "Small Bowl",
+        "searchTerm": "small bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Butter bread while still warm so it absorbs the butter evenly",
+      "Mix cinnamon and sugar together before applying for even distribution"
+    ],
+    "coachingPrompt": "Guide the user to make classic cinnamon toast with proper butter saturation and cinnamon-sugar balance."
+  },
+  "timestamp": "2026-02-06T03:27:39.375Z"
+}

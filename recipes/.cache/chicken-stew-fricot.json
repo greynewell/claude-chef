@@ -1,0 +1,67 @@
+{
+  "contentHash": "593074d60177433e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (2 to 3 pound) whole chicken, cut into pieces",
+        "searchTerm": "whole chicken",
+        "normalizedName": "Chicken"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "5 carrots, chopped",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "6 potatoes, cubed",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "2 teaspoons dried savory",
+        "searchTerm": "dried savory",
+        "normalizedName": "Savory"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot or Dutch oven",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown chicken in butter before adding vegetables to develop deeper flavor",
+      "Cut vegetables uniformly to ensure even cooking throughout the stew"
+    ],
+    "coachingPrompt": "Teach the user to build depth of flavor by properly browning chicken and layering in vegetables."
+  },
+  "timestamp": "2026-02-06T02:43:10.408Z"
+}

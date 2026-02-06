@@ -1,0 +1,58 @@
+{
+  "contentHash": "bbf4a2485d61f9e8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (8 ounce) jar mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 (8 ounce) package shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 (4 ounce) can diced green chile peppers",
+        "searchTerm": "green chiles",
+        "normalizedName": "Green Chile Pepper"
+      },
+      {
+        "ingredient": "1 jalapeno pepper, finely diced",
+        "searchTerm": "jalapeno",
+        "normalizedName": "Jalapeno Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "serving spoon",
+        "searchTerm": "serving spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook chicken until fully shredded before mixing into dip for consistent texture",
+      "Soften cream cheese at room temperature for smoother blending",
+      "Keep dip warm in slow cooker on low setting during serving"
+    ],
+    "coachingPrompt": "How would you adjust this dip for a spicier version, and what temperature should you serve it at?"
+  },
+  "timestamp": "2026-02-06T02:30:56.201Z"
+}

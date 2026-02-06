@@ -1,0 +1,73 @@
+{
+  "contentHash": "98af7de054faacf7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 tablespoon water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cups cooked white rice, cold",
+        "searchTerm": "cooked rice",
+        "normalizedName": "Cooked Rice"
+      },
+      {
+        "ingredient": "2 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 cup cooked, chopped chicken meat",
+        "searchTerm": "cooked chicken",
+        "normalizedName": "Cooked Chicken"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet or wok",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Measuring cup",
+        "searchTerm": "measuring cup"
+      }
+    ],
+    "cookingTips": [
+      "Beat egg with water first for light, fluffy scrambled texture",
+      "Keep cold rice separate from sauce until ready to toss",
+      "Add soy sauce at the very end so it coats rice evenly rather than soaking in"
+    ],
+    "coachingPrompt": "What's the technique for ensuring each grain of rice stays separate and coated?"
+  },
+  "timestamp": "2026-02-06T02:51:55.039Z"
+}

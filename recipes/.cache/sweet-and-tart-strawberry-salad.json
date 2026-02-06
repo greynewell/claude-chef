@@ -1,0 +1,48 @@
+{
+  "contentHash": "e09ab29056722637",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds fresh strawberries, rinsed and sliced",
+        "searchTerm": "strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "2 ½ tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "¼ teaspoon freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Select ripe strawberries at peak sweetness for best results",
+      "Toss gently to avoid breaking delicate berries",
+      "Let salad sit 15 minutes before serving so juices release and flavors develop"
+    ],
+    "coachingPrompt": "How does black pepper enhance the natural flavors of strawberries?"
+  },
+  "timestamp": "2026-02-06T20:01:32.481Z"
+}

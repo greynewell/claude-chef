@@ -1,0 +1,63 @@
+{
+  "contentHash": "46bdd07b2ba9b81c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "green bell peppers",
+        "searchTerm": "green bell peppers",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "red bell pepper",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "mushrooms",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "chicken meat",
+        "searchTerm": "chicken",
+        "normalizedName": "Chicken"
+      },
+      {
+        "ingredient": "Italian-style salad dressing mix",
+        "searchTerm": "Italian dressing mix",
+        "normalizedName": "Italian Dressing Mix"
+      },
+      {
+        "ingredient": "flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet or Fajita Pan",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Slice peppers and onions into uniform strips for even cooking and nice presentation",
+      "Cook vegetables separately from chicken first, then combine at the end to avoid overcooking",
+      "Warm tortillas in a dry skillet or over a flame before serving for better texture"
+    ],
+    "coachingPrompt": "Would you like suggestions for toppings and sides to complete your fajita spread?"
+  },
+  "timestamp": "2026-02-06T06:26:26.178Z"
+}

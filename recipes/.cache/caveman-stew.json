@@ -1,0 +1,58 @@
+{
+  "contentHash": "384fc297d7c423e8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "5 carrots, sliced",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "4 potatoes, cut into quarters",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 onion, quartered",
+        "searchTerm": "yellow onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed tomato soup",
+        "searchTerm": "condensed tomato soup",
+        "normalizedName": "Tomato Soup"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef completely before adding vegetables to build foundational flavor",
+      "Cut potatoes uniformly so they cook evenly throughout the stew",
+      "Simmer gently for 20-30 minutes until potatoes are tender"
+    ],
+    "coachingPrompt": "What's the best technique for browning ground beef so it stays tender instead of becoming tough?"
+  },
+  "timestamp": "2026-02-06T01:38:32.430Z"
+}

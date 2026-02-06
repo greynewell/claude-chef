@@ -1,0 +1,48 @@
+{
+  "contentHash": "c912f4983eaf84c8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "⅓ cup white vinegar",
+        "searchTerm": "white vinegar",
+        "normalizedName": "White Vinegar"
+      },
+      {
+        "ingredient": "4 ½ teaspoons dry mustard",
+        "searchTerm": "dry mustard",
+        "normalizedName": "Dry Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "measuring spoons",
+        "searchTerm": "measuring spoons"
+      }
+    ],
+    "cookingTips": [
+      "Heat mixture over medium heat while whisking constantly to avoid curdling the egg",
+      "Cook until sauce thickens enough to coat the back of a spoon, about 5 minutes",
+      "Strain if lumps form for a smooth, glossy finish"
+    ],
+    "coachingPrompt": "How will you know when the sauce has reached the proper thickness without overheating the egg?"
+  },
+  "timestamp": "2026-02-06T13:02:45.191Z"
+}

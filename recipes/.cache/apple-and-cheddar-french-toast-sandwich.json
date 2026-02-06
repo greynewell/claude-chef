@@ -1,0 +1,68 @@
+{
+  "contentHash": "5f8ba94ca0863af1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 ½ tablespoons milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 teaspoon herbes de Provence, or to taste",
+        "searchTerm": "herbes de provence",
+        "normalizedName": "Herbes de Provence"
+      },
+      {
+        "ingredient": "4 slices day-old artisan-style bread",
+        "searchTerm": "artisan bread",
+        "normalizedName": "Artisan Bread"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup fresh spinach, or to taste",
+        "searchTerm": "fresh spinach",
+        "normalizedName": "Fresh Spinach"
+      },
+      {
+        "ingredient": "½ Granny Smith apple, cored and thinly sliced",
+        "searchTerm": "granny smith apple",
+        "normalizedName": "Granny Smith Apple"
+      },
+      {
+        "ingredient": "4 slices Cheddar cheese, or to taste",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "shallow bowl",
+        "searchTerm": "shallow bowl"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Use day-old bread as it absorbs egg mixture better than fresh bread",
+      "Whisk eggs and milk together with herbs before dipping bread",
+      "Cook on medium heat to ensure bread toasts golden before cheese overheats"
+    ],
+    "coachingPrompt": "Why is day-old bread better for French toast, and how do you prevent sogginess?"
+  },
+  "timestamp": "2026-02-05T22:08:45.887Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "90b77c711b11db6e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "3 ½ teaspoons baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 ¼ cups nonfat milk",
+        "searchTerm": "nonfat milk",
+        "normalizedName": "Nonfat Milk"
+      },
+      {
+        "ingredient": "2 egg whites",
+        "searchTerm": "egg white",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "2 tablespoons butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "griddle or skillet",
+        "searchTerm": "griddle"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Use egg whites instead of whole eggs to reduce fat while maintaining loft",
+      "Don't overmix the batter; lumps are okay and lead to fluffier pancakes",
+      "Cook on medium-high heat until bubbles form on surface before flipping"
+    ],
+    "coachingPrompt": "Guide the user in making classic fluffy pancakes using nonfat milk and egg whites for a lighter version. Emphasize proper mixing and cooking technique."
+  },
+  "timestamp": "2026-02-06T08:53:52.193Z"
+}

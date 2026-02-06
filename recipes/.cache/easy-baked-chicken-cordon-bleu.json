@@ -1,0 +1,57 @@
+{
+  "contentHash": "0cc699ae2bcd91df",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "6 string cheese sticks",
+        "searchTerm": "string cheese",
+        "normalizedName": "String Cheese"
+      },
+      {
+        "ingredient": "6 slices ham",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "½ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup seasoned dry bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "toothpicks",
+        "searchTerm": "toothpicks",
+        "normalizedName": "Toothpick"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Meat Mallet",
+        "searchTerm": "meat mallet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken evenly to ensure uniform cooking",
+      "Secure toothpicks properly to keep filling from leaking during baking"
+    ],
+    "coachingPrompt": "Guide the user through proper pounding technique and rolling/sealing methods to prevent cheese from escaping."
+  },
+  "timestamp": "2026-02-06T05:32:24.145Z"
+}

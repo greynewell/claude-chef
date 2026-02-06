@@ -1,0 +1,48 @@
+{
+  "contentHash": "8b2fd52d072f7b08",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package dried navy beans",
+        "searchTerm": "dried navy beans",
+        "normalizedName": "Navy Bean"
+      },
+      {
+        "ingredient": "2 onions, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (8 ounce) can tomato sauce",
+        "searchTerm": "canned tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "2 ham hocks",
+        "searchTerm": "ham hocks",
+        "normalizedName": "Ham Hock"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "This minimal-ingredient recipe relies on quality ham hocks for flavor depth",
+      "Beans should break down slightly to create a creamy texture naturally",
+      "Simmer low and slow for at least 2-3 hours"
+    ],
+    "coachingPrompt": "This is a very simple soup. Do you prefer minimal-ingredient recipes or would you like to add more seasonings?"
+  },
+  "timestamp": "2026-02-06T13:10:02.034Z"
+}

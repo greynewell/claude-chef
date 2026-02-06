@@ -1,0 +1,53 @@
+{
+  "contentHash": "4f66176978ce5b45",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound bulk pork sausage",
+        "searchTerm": "pork sausage",
+        "normalizedName": "Pork Sausage"
+      },
+      {
+        "ingredient": "1 small green bell pepper, chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 (10 ounce) cans refrigerated biscuit dough",
+        "searchTerm": "biscuit dough",
+        "normalizedName": "Biscuit Dough"
+      },
+      {
+        "ingredient": "1 cup shredded pepperjack cheese",
+        "searchTerm": "pepperjack cheese",
+        "normalizedName": "Pepperjack Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Bundt Pan",
+        "searchTerm": "bundt cake pan"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook sausage thoroughly before layering with dough",
+      "Layer ingredients evenly for consistent flavor throughout",
+      "Let cool briefly before inverting onto serving plate"
+    ],
+    "coachingPrompt": "Are you familiar with pull-apart breads? Would you like advice on layering and baking times?"
+  },
+  "timestamp": "2026-02-06T00:38:37.913Z"
+}

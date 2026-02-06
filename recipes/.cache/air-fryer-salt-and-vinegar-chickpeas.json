@@ -1,0 +1,48 @@
+{
+  "contentHash": "405b9b7d537a9482",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15 ounce) can chickpeas, drained and rinsed",
+        "searchTerm": "canned chickpeas",
+        "normalizedName": "Chickpea"
+      },
+      {
+        "ingredient": "1 cup white vinegar",
+        "searchTerm": "white vinegar",
+        "normalizedName": "White Vinegar"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ teaspoon sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Dry chickpeas thoroughly with paper towels to achieve crispiness",
+      "Toss chickpeas halfway through cooking for even browning",
+      "Store leftover chickpeas in an airtight container for up to 3 days"
+    ],
+    "coachingPrompt": "Walk me through making crispy salt and vinegar roasted chickpeas in an air fryer."
+  },
+  "timestamp": "2026-02-05T21:47:01.122Z"
+}

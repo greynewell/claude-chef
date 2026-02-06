@@ -1,0 +1,52 @@
+{
+  "contentHash": "47e277fa99fce648",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "lemon, sliced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "lime, sliced",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "mint leaf",
+        "searchTerm": "fresh mint",
+        "normalizedName": "Mint Leaf"
+      },
+      {
+        "ingredient": "cucumber, sliced",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pitcher",
+        "searchTerm": "pitcher"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Let infused water sit for at least 2 hours for better flavor extraction",
+      "Bruise mint gently to release oils without breaking leaves"
+    ],
+    "coachingPrompt": "How can you maximize flavor extraction when infusing water with herbs and fruit?"
+  },
+  "timestamp": "2026-02-06T12:33:38.579Z"
+}

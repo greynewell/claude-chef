@@ -1,0 +1,63 @@
+{
+  "contentHash": "9aba2f646eed3afc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ¼ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup uncooked glutinous white rice (sushi rice)",
+        "searchTerm": "sushi rice",
+        "normalizedName": "Sushi Rice"
+      },
+      {
+        "ingredient": "3 tablespoons rice vinegar",
+        "searchTerm": "rice vinegar",
+        "normalizedName": "Rice Vinegar"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "4 sheets nori (dry seaweed)",
+        "searchTerm": "nori sheets",
+        "normalizedName": "Nori Sheet"
+      },
+      {
+        "ingredient": "½ cucumber, sliced into thin strips",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "1 avocado - peeled, pitted and sliced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sushi Mat",
+        "searchTerm": "sushi rolling mat"
+      },
+      {
+        "name": "Rice Cooker",
+        "searchTerm": "rice cooker"
+      },
+      {
+        "name": "Sharp Knife",
+        "searchTerm": "sushi knife"
+      }
+    ],
+    "cookingTips": [
+      "Cool the sushi rice to room temperature before assembling rolls to prevent the nori from becoming damp",
+      "Season the rice with vinegar while it's still warm for better flavor absorption",
+      "Slice avocado just before assembly to prevent browning and maintain texture"
+    ],
+    "coachingPrompt": "Walk the user through proper sushi rice preparation and rolling technique for clean, tight rolls."
+  },
+  "timestamp": "2026-02-06T04:47:54.528Z"
+}

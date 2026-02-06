@@ -1,0 +1,68 @@
+{
+  "contentHash": "98414ddf817810d6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ cup warm water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (.25 ounce) package active dry yeast",
+        "searchTerm": "yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "¾ cup warm milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 ½ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 cups whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven thermometer",
+        "searchTerm": "oven thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Warm milk and water should be around 110°F for optimal yeast activation",
+      "Knead for 8-10 minutes until dough is smooth and elastic",
+      "Bake at 375°F for approximately 35-40 minutes until golden brown"
+    ],
+    "coachingPrompt": "I want this bread to have good structure but still be tender. Should I use more all-purpose flour or whole wheat flour?"
+  },
+  "timestamp": "2026-02-06T09:25:27.632Z"
+}

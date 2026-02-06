@@ -1,0 +1,73 @@
+{
+  "contentHash": "361884ec9c0d8590",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups macaroni",
+        "searchTerm": "macaroni pasta",
+        "normalizedName": "Macaroni Pasta"
+      },
+      {
+        "ingredient": "2 cups cucumber - peeled, seeded and chopped",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "1 cup chopped tomatoes",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 cup low-fat sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "½ cup skim milk",
+        "searchTerm": "skim milk",
+        "normalizedName": "Skim Milk"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh dill weed",
+        "searchTerm": "fresh dill",
+        "normalizedName": "Fresh Dill"
+      },
+      {
+        "ingredient": "½ teaspoon coarse ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon distilled white vinegar",
+        "searchTerm": "white vinegar",
+        "normalizedName": "White Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Seed the cucumber and pat dry to remove excess moisture and prevent watery salad",
+      "Cook pasta until just al dente to prevent mushiness when combined with wet dressing",
+      "Make the dressing ahead and chill for better flavor development before tossing with pasta"
+    ],
+    "coachingPrompt": "Guide the user through achieving the right balance of dressing and preventing the salad from becoming watery."
+  },
+  "timestamp": "2026-02-06T04:47:54.528Z"
+}

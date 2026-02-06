@@ -1,0 +1,48 @@
+{
+  "contentHash": "c679ab12692e7722",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 can cream-style corn",
+        "searchTerm": "cream-style corn",
+        "normalizedName": "Cream-Style Corn"
+      },
+      {
+        "ingredient": "1 tablespoon packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "2 packages dry corn muffin mix",
+        "searchTerm": "corn muffin mix",
+        "normalizedName": "Corn Muffin Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Muffin tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Muffin liners",
+        "searchTerm": "muffin liners"
+      }
+    ],
+    "cookingTips": [
+      "Don't overmix the batter to keep muffins tender",
+      "Fill muffin cups two-thirds full for even baking",
+      "Cool for 5 minutes before removing from tin"
+    ],
+    "coachingPrompt": "I want to make quick corn muffins that are moist and have good corn flavor. What's the secret to not making them too dry?"
+  },
+  "timestamp": "2026-02-06T06:02:24.538Z"
+}

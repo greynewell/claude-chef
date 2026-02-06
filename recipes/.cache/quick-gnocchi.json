@@ -1,0 +1,58 @@
+{
+  "contentHash": "b65f1300f84ff126",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup dry potato flakes",
+        "searchTerm": "potato flakes",
+        "normalizedName": "Potato Flake"
+      },
+      {
+        "ingredient": "1 cup boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 ½ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "pot for boiling",
+        "searchTerm": "pot"
+      }
+    ],
+    "cookingTips": [
+      "Let potato mixture cool slightly before mixing with egg",
+      "Don't overwork the dough - handle gently for tender gnocchi",
+      "Gnocchi float to the surface when cooked through"
+    ],
+    "coachingPrompt": "How will you know when the dough has the right consistency?"
+  },
+  "timestamp": "2026-02-06T15:43:21.053Z"
+}

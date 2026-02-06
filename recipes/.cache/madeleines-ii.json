@@ -1,0 +1,63 @@
+{
+  "contentHash": "866e2547a31579fd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "lemon zest",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Madeleine pan",
+        "searchTerm": "madeleine mold"
+      },
+      {
+        "name": "Electric mixer",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "Sifter",
+        "searchTerm": "sifter"
+      }
+    ],
+    "cookingTips": [
+      "Sift flour and baking powder together to ensure an even, light crumb",
+      "Cool the melted butter slightly before folding in to avoid deflating the batter",
+      "Fill madeleine molds about three-quarters full for perfect shape and browning"
+    ],
+    "coachingPrompt": "What techniques create the tender, delicate crumb in madeleines? How does the pan shape contribute to their character?"
+  },
+  "timestamp": "2026-02-06T11:44:08.182Z"
+}

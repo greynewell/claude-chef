@@ -1,0 +1,67 @@
+{
+  "contentHash": "a42357f31a0a5bd6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ cup oat flour",
+        "searchTerm": "oat flour",
+        "normalizedName": "Oat Flour"
+      },
+      {
+        "ingredient": "2 ½ teaspoons active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "1 cup warm water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bread machine",
+        "searchTerm": "bread machine"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      },
+      {
+        "name": "kitchen scale",
+        "searchTerm": "kitchen scale"
+      }
+    ],
+    "cookingTips": [
+      "Add ingredients in the order specified by your bread machine manual",
+      "Oat flour adds moisture, so adjust water if needed for proper dough consistency"
+    ],
+    "coachingPrompt": "How does oat flour change the nutritional profile and texture of whole wheat bread?"
+  },
+  "timestamp": "2026-02-06T13:25:59.889Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "587769f43cf78758",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pint cherry tomatoes",
+        "searchTerm": "cherry tomatoes",
+        "normalizedName": "Cherry Tomato"
+      },
+      {
+        "ingredient": "4 cloves garlic, slivered",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 tablespoons extra virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 pinch kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Use a high oven temperature to blister the tomato skins for concentrated flavor",
+      "Don't overcrowd the baking sheet to allow proper heat circulation"
+    ],
+    "coachingPrompt": "How can you concentrate the tomato flavors and create a caramelized finish?"
+  },
+  "timestamp": "2026-02-05T23:01:02.496Z"
+}

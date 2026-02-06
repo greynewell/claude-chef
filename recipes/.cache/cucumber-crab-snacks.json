@@ -1,0 +1,48 @@
+{
+  "contentHash": "b7235a7d855b7e32",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 large cucumber, cut into 1/4-inch slices",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "1 (8 ounce) package whipped cream cheese",
+        "searchTerm": "whipped cream cheese",
+        "normalizedName": "Whipped Cream Cheese"
+      },
+      {
+        "ingredient": "2 (6 ounce) cans crabmeat, drained and flaked",
+        "searchTerm": "crabmeat",
+        "normalizedName": "Crabmeat"
+      },
+      {
+        "ingredient": "1 (8 ounce) jar cocktail sauce",
+        "searchTerm": "cocktail sauce",
+        "normalizedName": "Cocktail Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "small spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "serving platter",
+        "searchTerm": "serving platter"
+      }
+    ],
+    "cookingTips": [
+      "Pat cucumber slices dry before topping to prevent sliding",
+      "Use quality crabmeat for best flavor",
+      "Assemble shortly before serving for freshest taste"
+    ],
+    "coachingPrompt": "How would you prevent these appetizers from becoming soggy while keeping them ready to serve?"
+  },
+  "timestamp": "2026-02-06T04:48:44.377Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "21a9d2f9971bbb80",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 gallons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 ½ cups canning salt",
+        "searchTerm": "canning salt",
+        "normalizedName": "Canning Salt"
+      },
+      {
+        "ingredient": "3 tablespoons minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "¼ cup Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "⅓ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot or container",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Measuring cups",
+        "searchTerm": "measuring cup"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Dissolve salt and sugar completely before adding turkey",
+      "Keep brine chilled at 40°F or below",
+      "Brine turkey for 12-24 hours for optimal flavor"
+    ],
+    "coachingPrompt": "Guide the user through dissolving dry ingredients and ensuring proper brine temperature for food safety."
+  },
+  "timestamp": "2026-02-06T13:50:12.762Z"
+}

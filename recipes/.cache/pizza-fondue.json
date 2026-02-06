@@ -1,0 +1,63 @@
+{
+  "contentHash": "c004b4296eab0cdc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (26 ounce) jar meatless spaghetti sauce",
+        "searchTerm": "spaghetti sauce",
+        "normalizedName": "Spaghetti Sauce"
+      },
+      {
+        "ingredient": "1 (8 ounce) package shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "2 teaspoons dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      },
+      {
+        "ingredient": "1 teaspoon dried minced onion",
+        "searchTerm": "dried minced onion",
+        "normalizedName": "Dried Minced Onion"
+      },
+      {
+        "ingredient": "¼ teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "1 (16 ounce) loaf French bread, cubed",
+        "searchTerm": "French bread",
+        "normalizedName": "French Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "fondue pot",
+        "searchTerm": "fondue pot"
+      },
+      {
+        "name": "fondue forks",
+        "searchTerm": "fondue forks"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Heat sauce and cheese together slowly to prevent burning and separation",
+      "Keep fondue warm in fondue pot with low heat setting",
+      "Toast or lightly dry bread cubes to prevent them from absorbing excess sauce"
+    ],
+    "coachingPrompt": "What technique prevents cheese from separating or becoming grainy in warm fondue?"
+  },
+  "timestamp": "2026-02-06T14:54:09.801Z"
+}

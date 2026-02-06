@@ -1,0 +1,48 @@
+{
+  "contentHash": "e4086811a78fda0a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "2 teaspoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "4 egg yolks",
+        "searchTerm": "egg yolks",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "⅓ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Double Boiler",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "instant-read thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Use a double boiler to prevent curdling and ensure gentle, even heat",
+      "Whisk constantly and monitor temperature—remove at 160°F for food safety",
+      "Strain through fine mesh to remove any cooked egg bits for silky texture"
+    ],
+    "coachingPrompt": "Guide the user through tempering technique to prevent scrambling the egg yolks. Emphasize constant whisking and temperature control for a luxurious custard sauce."
+  },
+  "timestamp": "2026-02-06T04:35:33.082Z"
+}

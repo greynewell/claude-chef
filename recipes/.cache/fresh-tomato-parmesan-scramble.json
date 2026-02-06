@@ -1,0 +1,63 @@
+{
+  "contentHash": "c4198faad6b86825",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 small tomato, chopped",
+        "searchTerm": "fresh tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "garlic salt to taste",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "freshly ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 teaspoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 teaspoon grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "nonstick skillet",
+        "searchTerm": "nonstick skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "silicone spatula"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "small bowl"
+      }
+    ],
+    "cookingTips": [
+      "Whisk the egg with water before cooking for fluffier, more tender scrambled eggs",
+      "Add tomato after the egg is partially set to prevent it from making the eggs watery",
+      "Cook over medium heat and stir gently and frequently for creamy eggs"
+    ],
+    "coachingPrompt": "Do you like your eggs soft and creamy or more set? Would you like to add any vegetables or herbs?"
+  },
+  "timestamp": "2026-02-06T07:01:44.247Z"
+}

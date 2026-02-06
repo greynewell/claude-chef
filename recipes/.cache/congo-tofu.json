@@ -1,0 +1,68 @@
+{
+  "contentHash": "15e417fef0772cd5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 tablespoons peanut oil",
+        "searchTerm": "peanut oil",
+        "normalizedName": "Peanut Oil"
+      },
+      {
+        "ingredient": "1 pound tofu, cubed",
+        "searchTerm": "tofu",
+        "normalizedName": "Tofu"
+      },
+      {
+        "ingredient": "½ white onion, chopped",
+        "searchTerm": "white onion",
+        "normalizedName": "White Onion"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "¾ (6 ounce) can tomato paste",
+        "searchTerm": "tomato paste",
+        "normalizedName": "Tomato Paste"
+      },
+      {
+        "ingredient": "½ cup peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot with lid",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Wok or large skillet",
+        "searchTerm": "wok"
+      },
+      {
+        "name": "Wooden spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Press tofu gently to remove excess moisture before cubing for better texture",
+      "Toast tofu lightly in oil before adding sauce to create slight crust",
+      "Stir peanut butter into tomato paste with a bit of water to smooth it before adding to pan"
+    ],
+    "coachingPrompt": "Guide the user to prepare tofu properly, simmer it in a rich peanut-tomato sauce, and serve over rice."
+  },
+  "timestamp": "2026-02-06T03:47:57.042Z"
+}

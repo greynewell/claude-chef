@@ -1,0 +1,48 @@
+{
+  "contentHash": "0ff1d6c5ada4ec2b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 apples, quartered",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "1 tablespoon ground allspice",
+        "searchTerm": "allspice",
+        "normalizedName": "Allspice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Strainer",
+        "searchTerm": "strainer"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Simmer gently for 1-2 hours to extract maximum flavor from apples",
+      "Strain through cheesecloth for clear cider",
+      "Serve warm with cinnamon stick for garnish"
+    ],
+    "coachingPrompt": "What type of apples work best for cider - sweet or tart varieties? How can you tell when the cider has simmered long enough?"
+  },
+  "timestamp": "2026-02-06T09:11:17.014Z"
+}

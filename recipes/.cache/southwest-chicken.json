@@ -1,0 +1,58 @@
+{
+  "contentHash": "bf1a6c1f7664d852",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 (10 ounce) can diced tomatoes with green chile peppers",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Diced Tomato with Green Chile"
+      },
+      {
+        "ingredient": "1 (15 ounce) can black beans, rinsed and drained",
+        "searchTerm": "black beans",
+        "normalizedName": "Black Bean"
+      },
+      {
+        "ingredient": "1 (8.75 ounce) can whole kernel corn, drained",
+        "searchTerm": "corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "1 pinch ground cumin",
+        "searchTerm": "cumin",
+        "normalizedName": "Cumin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Lid or Foil",
+        "searchTerm": "lid"
+      }
+    ],
+    "cookingTips": [
+      "Brown chicken on both sides before adding vegetables to develop flavor",
+      "Use the canned tomato liquid as a base for a light sauce",
+      "Cook covered on medium heat to keep chicken moist and allow flavors to meld"
+    ],
+    "coachingPrompt": "Would you serve this as is or over rice or with tortillas for a more complete meal?"
+  },
+  "timestamp": "2026-02-06T18:43:27.069Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "8aa0f64651ed3634",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices prosciutto",
+        "searchTerm": "prosciutto",
+        "normalizedName": "Prosciutto"
+      },
+      {
+        "ingredient": "2 slices fontina cheese",
+        "searchTerm": "fontina cheese",
+        "normalizedName": "Fontina Cheese"
+      },
+      {
+        "ingredient": "4 slices thinly sliced sandwich bread",
+        "searchTerm": "sandwich bread",
+        "normalizedName": "Sandwich Bread"
+      },
+      {
+        "ingredient": "¼ cup chopped giardiniera",
+        "searchTerm": "giardiniera",
+        "normalizedName": "Giardiniera"
+      },
+      {
+        "ingredient": "2 hot pickled peppers",
+        "searchTerm": "hot pickled peppers",
+        "normalizedName": "Hot Pickled Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Assemble sandwich with prosciutto and cheese in center for proper toasting",
+      "Use medium heat to melt cheese without burning bread",
+      "Drain giardiniera briefly to prevent sogginess"
+    ],
+    "coachingPrompt": "How familiar are you with Italian cured meats and cheeses? Do you need suggestions for substitutions?"
+  },
+  "timestamp": "2026-02-06T10:11:38.044Z"
+}

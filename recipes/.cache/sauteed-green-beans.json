@@ -1,0 +1,43 @@
+{
+  "contentHash": "7df8f72e3109bb75",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "½ cup slivered almonds",
+        "searchTerm": "almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "1 (16 ounce) package frozen cut green beans",
+        "searchTerm": "frozen green beans",
+        "normalizedName": "Frozen Green Bean"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then crumble and set aside before cooking green beans",
+      "Toast almonds lightly in the bacon fat for better flavor"
+    ],
+    "coachingPrompt": "How do bacon and nuts add texture and richness to vegetable dishes?"
+  },
+  "timestamp": "2026-02-06T17:02:24.116Z"
+}

@@ -1,0 +1,68 @@
+{
+  "contentHash": "e007a31603a7061c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "ground flaxseed",
+        "searchTerm": "flaxseed ground",
+        "normalizedName": "Flaxseed"
+      },
+      {
+        "ingredient": "cashews",
+        "searchTerm": "cashews",
+        "normalizedName": "Cashew"
+      },
+      {
+        "ingredient": "red bell pepper",
+        "searchTerm": "bell pepper red",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "carrot",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "lemon",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "agave nectar",
+        "searchTerm": "agave nectar",
+        "normalizedName": "Agave Nectar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "dehydrator",
+        "searchTerm": "food dehydrator"
+      }
+    ],
+    "cookingTips": [
+      "Grind flaxseed fresh for maximum nutritional value",
+      "Spread mixture evenly for consistent dehydration",
+      "Dehydrate slowly at low temperature to preserve nutrients"
+    ],
+    "coachingPrompt": "What texture are you targeting for these crackers, and how does dehydration time affect crispness?"
+  },
+  "timestamp": "2026-02-06T01:55:55.344Z"
+}

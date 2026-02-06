@@ -1,0 +1,53 @@
+{
+  "contentHash": "46e468320c7ce5d5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 pounds skin-on, bone-in chicken thighs",
+        "searchTerm": "chicken thighs",
+        "normalizedName": "Chicken Thigh"
+      },
+      {
+        "ingredient": "½ cup chicken stock",
+        "searchTerm": "chicken stock",
+        "normalizedName": "Chicken Stock"
+      },
+      {
+        "ingredient": "2 stalks celery, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 cup barbecue sauce, divided",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Instant Pot",
+        "searchTerm": "Instant Pot"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Sear chicken skin-side down first to render fat and develop flavor",
+      "Add barbecue sauce in the last few minutes to prevent burning",
+      "Reserve some sauce to brush on after serving for fresh flavor"
+    ],
+    "coachingPrompt": "Would you prefer to finish these under the broiler for caramelized skin?"
+  },
+  "timestamp": "2026-02-06T09:45:05.682Z"
+}

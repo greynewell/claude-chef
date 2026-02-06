@@ -1,0 +1,52 @@
+{
+  "contentHash": "460440ea00b48bd8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup vegetarian refried beans",
+        "searchTerm": "refried beans",
+        "normalizedName": "Refried Bean"
+      },
+      {
+        "ingredient": "1 large whole-wheat tortilla",
+        "searchTerm": "whole-wheat tortilla",
+        "normalizedName": "Whole-Wheat Tortilla"
+      },
+      {
+        "ingredient": "2 romaine lettuce leaves",
+        "searchTerm": "romaine lettuce",
+        "normalizedName": "Romaine Lettuce"
+      },
+      {
+        "ingredient": "½ avocado, peeled and sliced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "¼ cup fresh pico de gallo",
+        "searchTerm": "pico de gallo",
+        "normalizedName": "Pico de Gallo"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Warm the tortilla before filling for better pliability",
+      "Add avocado last to prevent browning"
+    ],
+    "coachingPrompt": "Guide assembly order and layering techniques for optimal burrito structure and flavor."
+  },
+  "timestamp": "2026-02-06T16:15:13.410Z"
+}

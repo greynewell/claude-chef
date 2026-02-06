@@ -1,0 +1,53 @@
+{
+  "contentHash": "918c4052b09b1823",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (1 pound) loaf white bread, cubed",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "3 (2 to 3 pound) boiler chickens",
+        "searchTerm": "boiler chickens",
+        "normalizedName": "Boiler Chicken"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      }
+    ],
+    "cookingTips": [
+      "Poach chicken in salted water until tender, then shred meat finely",
+      "Make bread cubes fresh and mix while slightly warm for better absorption",
+      "Reserve some cooking broth to moisten the mixture before baking if needed"
+    ],
+    "coachingPrompt": "What role do eggs and bread cubes play in binding this old-fashioned chicken filling?"
+  },
+  "timestamp": "2026-02-06T09:28:15.574Z"
+}

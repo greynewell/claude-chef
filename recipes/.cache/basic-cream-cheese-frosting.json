@@ -1,0 +1,48 @@
+{
+  "contentHash": "c9b50cc8d8e75c62",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter, softened",
+        "searchTerm": "softened butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "8 ounces cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "4 cups confectioners' sugar",
+        "searchTerm": "confectioners' sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "2 teaspoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "rubber spatula",
+        "searchTerm": "rubber spatula"
+      }
+    ],
+    "cookingTips": [
+      "Bring butter and cream cheese to room temperature before beating for smooth, lump-free frosting",
+      "Beat on medium speed until fluffy; do not overbeat or frosting becomes thin",
+      "Add powdered sugar gradually and beat until light and fluffy, about 2-3 minutes"
+    ],
+    "coachingPrompt": "Guide the user to achieve silky, spreadable frosting by using room temperature ingredients and beating until light and fluffy."
+  },
+  "timestamp": "2026-02-05T23:32:42.647Z"
+}

@@ -1,0 +1,52 @@
+{
+  "contentHash": "85d81833f01d7301",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (3 pound) whole chicken, cut into pieces",
+        "searchTerm": "whole chicken",
+        "normalizedName": "Whole Chicken"
+      },
+      {
+        "ingredient": "½ cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 (1 ounce) package dry onion soup mix",
+        "searchTerm": "dry onion soup mix",
+        "normalizedName": "Dry Onion Soup Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "mixing spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Arrange chicken pieces skin-side up for better browning",
+      "Cover dish with foil initially to trap steam, then uncover at the end for sauce reduction"
+    ],
+    "coachingPrompt": "This quick baked chicken uses a sweet-savory glaze. How would you prevent the sugar from burning while ensuring the chicken cooks through?"
+  },
+  "timestamp": "2026-02-06T02:33:03.988Z"
+}

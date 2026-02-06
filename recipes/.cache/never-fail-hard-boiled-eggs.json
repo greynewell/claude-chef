@@ -1,0 +1,43 @@
+{
+  "contentHash": "3974404667375201",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "water, as needed",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "12 eggs, at room temperature",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "12 cubes ice cubes",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Slotted spoon",
+        "searchTerm": "slotted spoon"
+      },
+      {
+        "name": "Bowl for ice bath",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Room temperature eggs cook more evenly and are less likely to crack",
+      "Ice bath stops the cooking process and prevents green rings around yolks",
+      "Allow eggs to cool completely before peeling for easier removal of shells"
+    ],
+    "coachingPrompt": "Guide the user through the ice bath technique and explain how temperature control prevents overcooking and discoloration."
+  },
+  "timestamp": "2026-02-06T13:11:04.087Z"
+}

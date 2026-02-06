@@ -1,0 +1,48 @@
+{
+  "contentHash": "c2bcacefca3d1bc1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "corned beef brisket with spice packet",
+        "searchTerm": "corned beef brisket",
+        "normalizedName": "Corned Beef Brisket"
+      },
+      {
+        "ingredient": "small red potatoes",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "carrots",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "cabbage",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Simmer brisket low and slow for maximum tenderness",
+      "Add vegetables in stages: potatoes and carrots before cabbage",
+      "Let brisket rest before slicing against the grain"
+    ],
+    "coachingPrompt": "Why is resting the brisket important, and how does slicing against the grain affect texture?"
+  },
+  "timestamp": "2026-02-06T03:53:30.140Z"
+}

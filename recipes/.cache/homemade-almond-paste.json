@@ -1,0 +1,47 @@
+{
+  "contentHash": "e4ad28a1336e177a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups whole blanched almonds",
+        "searchTerm": "blanched almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "1 ½ cups confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "1 large fresh egg white, at room temperature, lightly beaten, or more as needed",
+        "searchTerm": "egg white",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "¼ teaspoon almond extract",
+        "searchTerm": "almond extract",
+        "normalizedName": "Almond Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Process almonds until very fine and oil begins to release before adding sugar",
+      "Add egg white gradually to achieve the right consistency - not too wet, not too dry"
+    ],
+    "coachingPrompt": "Guide the user through achieving the correct paste consistency for baking applications."
+  },
+  "timestamp": "2026-02-06T09:10:26.096Z"
+}

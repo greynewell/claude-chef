@@ -1,0 +1,63 @@
+{
+  "contentHash": "a87c76f41d42b286",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 cups mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 (4 ounce) can diced green chile peppers, drained",
+        "searchTerm": "green chile peppers",
+        "normalizedName": "Green Chile Pepper"
+      },
+      {
+        "ingredient": "½ cup diced red onion",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "2 jalapeno peppers, seeded and chopped",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "10 slices pepperoni sausage",
+        "searchTerm": "pepperoni slices",
+        "normalizedName": "Pepperoni Sausage"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Shred your own cheese for better melting than pre-shredded varieties",
+      "Seed jalapenos if you prefer less heat, leave seeds for spicier dip",
+      "Drain canned peppers completely to prevent watery dip"
+    ],
+    "coachingPrompt": "Do you like spicy dips? You can control heat by adjusting jalapenos. What crackers or chips do you usually serve with warm dips?"
+  },
+  "timestamp": "2026-02-05T23:09:36.743Z"
+}

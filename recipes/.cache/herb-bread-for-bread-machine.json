@@ -1,0 +1,83 @@
+{
+  "contentHash": "dff089b62f72fbc0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup warm water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons extra-virgin olive oil",
+        "searchTerm": "extra virgin olive oil",
+        "normalizedName": "Extra Virgin Olive Oil"
+      },
+      {
+        "ingredient": "2 teaspoons dried rosemary leaves, crushed",
+        "searchTerm": "dried rosemary",
+        "normalizedName": "Dried Rosemary"
+      },
+      {
+        "ingredient": "1 teaspoon dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      },
+      {
+        "ingredient": "1 teaspoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "3 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 teaspoons bread machine yeast",
+        "searchTerm": "bread machine yeast",
+        "normalizedName": "Bread Machine Yeast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bread machine",
+        "searchTerm": "bread machine"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Add ingredients in the order specified by your bread machine manual",
+      "Crush dried rosemary to release oils and enhance flavor",
+      "Use bread machine yeast for consistent results; regular yeast may require manual adjustment"
+    ],
+    "coachingPrompt": "Help the user understand bread machine ingredient ordering and how crushed herbs distribute more evenly throughout the dough."
+  },
+  "timestamp": "2026-02-06T09:03:25.012Z"
+}

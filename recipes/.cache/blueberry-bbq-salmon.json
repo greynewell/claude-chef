@@ -1,0 +1,43 @@
+{
+  "contentHash": "7100f07096e8a176",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons barbeque sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "2 teaspoons blueberry jam",
+        "searchTerm": "blueberry jam",
+        "normalizedName": "Blueberry Jam"
+      },
+      {
+        "ingredient": "1 (1 pound) fillet salmon",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Parchment Paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "instant read thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Mix barbecue sauce with blueberry jam to balance sweet and savory flavors",
+      "Apply glaze during last 5 minutes of baking to prevent burning",
+      "Salmon is done when it reaches 145°F internal temperature"
+    ],
+    "coachingPrompt": "This recipe combines sweet and savory. Can you balance the glaze to complement salmon's richness?"
+  },
+  "timestamp": "2026-02-06T00:20:44.743Z"
+}

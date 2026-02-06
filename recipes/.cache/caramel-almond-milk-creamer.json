@@ -1,0 +1,53 @@
+{
+  "contentHash": "797feb153f47b708",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup almond milk",
+        "searchTerm": "almond milk",
+        "normalizedName": "Almond Milk"
+      },
+      {
+        "ingredient": "¼ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "⅛ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon margarine (such as Country Crock®)",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Glass jar",
+        "searchTerm": "glass jar"
+      }
+    ],
+    "cookingTips": [
+      "Heat over medium heat, stirring constantly to dissolve sugars",
+      "Cool completely before storing in refrigerator",
+      "Shake well before each use as ingredients may separate"
+    ],
+    "coachingPrompt": "How can you achieve the right caramel consistency without crystallizing the sugar?"
+  },
+  "timestamp": "2026-02-06T01:21:34.832Z"
+}

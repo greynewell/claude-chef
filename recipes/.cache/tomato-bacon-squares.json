@@ -1,0 +1,73 @@
+{
+  "contentHash": "f30b46121d8ddbed",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "⅓ cup chopped green bell pepper",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "⅓ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "4 roma (plum) tomatoes",
+        "searchTerm": "roma tomato",
+        "normalizedName": "Roma Tomato"
+      },
+      {
+        "ingredient": "1 teaspoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 clove crushed garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 refrigerated pizza crust dough",
+        "searchTerm": "pizza crust dough",
+        "normalizedName": "Pizza Crust Dough"
+      },
+      {
+        "ingredient": "¾ cup shredded Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then crumble for even distribution",
+      "Seed tomatoes to prevent excess moisture on pizza crust",
+      "Spread mayonnaise on dough before adding toppings to create a barrier against moisture"
+    ],
+    "coachingPrompt": "Help the user understand how to prevent a soggy crust by managing moisture from tomatoes and creating proper layers."
+  },
+  "timestamp": "2026-02-06T20:55:14.258Z"
+}

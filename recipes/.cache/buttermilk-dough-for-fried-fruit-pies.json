@@ -1,0 +1,52 @@
+{
+  "contentHash": "e21fe21322efcac8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ cup lard",
+        "searchTerm": "lard",
+        "normalizedName": "Lard"
+      },
+      {
+        "ingredient": "3 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "1 cup buttermilk, at room temperature",
+        "searchTerm": "buttermilk",
+        "normalizedName": "Buttermilk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pastry cutter",
+        "searchTerm": "pastry cutter"
+      },
+      {
+        "name": "Rolling pin",
+        "searchTerm": "rolling pin"
+      },
+      {
+        "name": "Deep fryer",
+        "searchTerm": "deep fryer"
+      }
+    ],
+    "cookingTips": [
+      "Keep lard cold to create flaky pastry layers",
+      "Seal pie edges tightly to prevent filling from leaking during frying"
+    ],
+    "coachingPrompt": "How does lard create a flakier crust compared to other fats in pastry dough?"
+  },
+  "timestamp": "2026-02-06T01:01:35.154Z"
+}

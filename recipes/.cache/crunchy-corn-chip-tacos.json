@@ -1,0 +1,63 @@
+{
+  "contentHash": "85220ddc5494d374",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "¾ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 envelope taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning Mix"
+      },
+      {
+        "ingredient": "5 taco shells",
+        "searchTerm": "taco shells",
+        "normalizedName": "Taco Shell"
+      },
+      {
+        "ingredient": "½ (12 ounce) bag nacho cheese-flavored corn chips",
+        "searchTerm": "Doritos nacho cheese",
+        "normalizedName": "Nacho Cheese Corn Chip"
+      },
+      {
+        "ingredient": "2 cups shredded Mexican cheese blend",
+        "searchTerm": "Mexican cheese blend",
+        "normalizedName": "Mexican Cheese Blend"
+      },
+      {
+        "ingredient": "1 dash hot pepper sauce",
+        "searchTerm": "Frank's RedHot sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "taco holder",
+        "searchTerm": "taco stand"
+      }
+    ],
+    "cookingTips": [
+      "Brown the ground beef thoroughly before adding seasoning for better flavor",
+      "Crush the corn chips right before assembly to maintain maximum crunch",
+      "Warm taco shells in the oven for 2 minutes before filling for better texture"
+    ],
+    "coachingPrompt": "Help the cook understand how to layer textures—the soft cheese and meat against the crispy chips—for an exciting eating experience. What toppings would add freshness?"
+  },
+  "timestamp": "2026-02-06T04:44:41.392Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "76766bb5de041425",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 cup cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "5 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "spaetzle maker or colander",
+        "searchTerm": "spaetzle maker"
+      },
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Mix dough until it reaches a thick batter consistency, similar to pancake batter",
+      "Use salted boiling water; spaetzle will sink then float when done",
+      "Work quickly with the spaetzle maker to get fine, uniform noodles"
+    ],
+    "coachingPrompt": "Do you have a spaetzle maker, or would you prefer to use a colander method?"
+  },
+  "timestamp": "2026-02-06T14:08:48.912Z"
+}

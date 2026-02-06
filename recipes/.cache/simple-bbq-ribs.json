@@ -1,0 +1,48 @@
+{
+  "contentHash": "c393dda9431c5735",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ½ pounds country style pork ribs",
+        "searchTerm": "pork ribs",
+        "normalizedName": "Pork Rib"
+      },
+      {
+        "ingredient": "1 tablespoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 cup barbeque sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Apply dry rub generously and let sit 30 minutes before cooking for better flavor penetration",
+      "Add BBQ sauce in the last 15 minutes of cooking to prevent burning"
+    ],
+    "coachingPrompt": "Do you prefer your ribs fall-apart tender or with a bit more bite? This affects cooking time."
+  },
+  "timestamp": "2026-02-06T17:48:18.601Z"
+}

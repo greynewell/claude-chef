@@ -1,0 +1,43 @@
+{
+  "contentHash": "347346e2da420936",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ounce dashi kombu (dried kelp)",
+        "searchTerm": "dashi kombu",
+        "normalizedName": "Dashi Kombu"
+      },
+      {
+        "ingredient": "1 quart water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup bonito flakes",
+        "searchTerm": "bonito flakes",
+        "normalizedName": "Bonito Flake"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "fine mesh strainer",
+        "searchTerm": "fine mesh strainer"
+      },
+      {
+        "name": "measuring cup",
+        "searchTerm": "measuring cup"
+      }
+    ],
+    "cookingTips": [
+      "Wipe kombu gently with damp cloth before using to preserve flavor compounds",
+      "Remove kombu just before boiling to avoid bitterness",
+      "Strain stock through fine mesh to catch all bonito particles"
+    ],
+    "coachingPrompt": "Why is dashi considered the foundation of Japanese cuisine and cooking?"
+  },
+  "timestamp": "2026-02-06T05:00:55.455Z"
+}

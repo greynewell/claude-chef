@@ -1,0 +1,58 @@
+{
+  "contentHash": "5cb2483e76033716",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 Granny Smith apple, cored and julienned",
+        "searchTerm": "granny smith apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "1 cup balsamic vinaigrette salad dressing",
+        "searchTerm": "balsamic vinaigrette",
+        "normalizedName": "Balsamic Vinaigrette"
+      },
+      {
+        "ingredient": "1 cup crumbled blue cheese",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      },
+      {
+        "ingredient": "½ cup chopped pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      },
+      {
+        "ingredient": "4 slices turkey bacon",
+        "searchTerm": "turkey bacon",
+        "normalizedName": "Turkey Bacon"
+      },
+      {
+        "ingredient": "6 cups torn romaine lettuce",
+        "searchTerm": "romaine lettuce",
+        "normalizedName": "Romaine Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Salad Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Julienne Peeler",
+        "searchTerm": "julienne peeler"
+      }
+    ],
+    "cookingTips": [
+      "Julienne apples just before serving to prevent browning and maintain crispness",
+      "Cook bacon until crispy and crumble it over salad just before serving",
+      "Toast pecans lightly to enhance their natural sweetness"
+    ],
+    "coachingPrompt": "Explain how the acidic vinaigrette complements the saltiness of blue cheese and the tartness of Granny Smith apples."
+  },
+  "timestamp": "2026-02-05T22:09:40.774Z"
+}

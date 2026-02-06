@@ -1,0 +1,63 @@
+{
+  "contentHash": "8c7404c07f4879a0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "prepared kumquats",
+        "searchTerm": "kumquats",
+        "normalizedName": "Kumquat"
+      },
+      {
+        "ingredient": "lemon zest",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "cayenne",
+        "searchTerm": "cayenne",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "star anise",
+        "searchTerm": "star anise",
+        "normalizedName": "Star Anise"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "heavy-bottomed saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "candy thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "glass jars",
+        "searchTerm": "mason jars"
+      }
+    ],
+    "cookingTips": [
+      "Use a candy thermometer to reach the proper gel stage at 220°F; this ensures proper setting",
+      "Skim foam from the surface as it cooks for a clearer preserve",
+      "The star anise should be removed after 10 minutes to prevent overpowering flavor"
+    ],
+    "coachingPrompt": "Help the user understand the importance of reaching the proper gel temperature and how to test for doneness using the wrinkle test."
+  },
+  "timestamp": "2026-02-06T02:05:54.517Z"
+}

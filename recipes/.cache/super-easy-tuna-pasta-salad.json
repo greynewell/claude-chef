@@ -1,0 +1,43 @@
+{
+  "contentHash": "fcd1a26e8980f886",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package rotini pasta",
+        "searchTerm": "rotini pasta",
+        "normalizedName": "Rotini Pasta"
+      },
+      {
+        "ingredient": "1 (16 ounce) bottle creamy Italian-style salad dressing",
+        "searchTerm": "Italian dressing",
+        "normalizedName": "Italian Dressing"
+      },
+      {
+        "ingredient": "1 (5 ounce) can tuna",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Tuna"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta al dente then rinse with cold water to stop cooking and prevent mushiness",
+      "Drain tuna well and flake it thoroughly to distribute evenly throughout salad",
+      "Toss salad while pasta is still slightly warm so it absorbs dressing flavors better"
+    ],
+    "coachingPrompt": "Why is timing important when dressing the pasta, and what consistency works best?"
+  },
+  "timestamp": "2026-02-06T19:52:18.016Z"
+}

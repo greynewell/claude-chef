@@ -1,0 +1,98 @@
+{
+  "contentHash": "6a23d04fce0f9c01",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 whole chicken",
+        "searchTerm": "whole chicken",
+        "normalizedName": "Chicken"
+      },
+      {
+        "ingredient": "1 onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cloves garlic",
+        "searchTerm": "garlic cloves",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "10 roma (plum) tomatoes",
+        "searchTerm": "roma tomatoes plum",
+        "normalizedName": "Roma Tomato"
+      },
+      {
+        "ingredient": "7 carrots",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "4 potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "3 zucchinis",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "3 yellow squash",
+        "searchTerm": "yellow squash",
+        "normalizedName": "Yellow Squash"
+      },
+      {
+        "ingredient": "1 large green bell pepper",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 large yellow bell pepper",
+        "searchTerm": "yellow bell pepper",
+        "normalizedName": "Yellow Bell Pepper"
+      },
+      {
+        "ingredient": "1 large red bell pepper",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 chayote squash",
+        "searchTerm": "chayote squash",
+        "normalizedName": "Chayote Squash"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh cilantro",
+        "searchTerm": "cilantro fresh",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "1 tablespoon tomato bouillon with chicken flavoring",
+        "searchTerm": "tomato bouillon chicken Knorr",
+        "normalizedName": "Tomato Bouillon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large stock pot",
+        "searchTerm": "large stock pot"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Simmer whole chicken for 45 minutes to 1 hour until fully cooked; shred meat and discard bones",
+      "Add vegetables in stages based on cooking time; start with potatoes and carrots, then peppers and squashes",
+      "Season with bouillon and taste as you go; add cilantro just before serving for fresh flavor"
+    ],
+    "coachingPrompt": "Walk me through poaching a whole chicken, shredding it, and building a vegetable soup with aromatic broth."
+  },
+  "timestamp": "2026-02-05T21:32:44.696Z"
+}

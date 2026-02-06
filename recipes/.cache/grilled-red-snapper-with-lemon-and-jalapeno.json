@@ -1,0 +1,53 @@
+{
+  "contentHash": "5f609a062916969f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 (5 ounce) red snapper fillets",
+        "searchTerm": "red snapper fillets",
+        "normalizedName": "Red Snapper Fillet"
+      },
+      {
+        "ingredient": "1 (8 ounce) bottle Italian-style salad dressing",
+        "searchTerm": "Italian salad dressing",
+        "normalizedName": "Italian Salad Dressing"
+      },
+      {
+        "ingredient": "1 serving cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 lemon, thinly sliced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "1 jalapeno pepper, thinly sliced",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill mat",
+        "searchTerm": "grill mat"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Use a grill mat to prevent delicate fish from sticking or breaking",
+      "Top fillets with lemon and jalapeno slices right before placing on grill",
+      "Cook fish until flesh is opaque and flakes easily with a fork"
+    ],
+    "coachingPrompt": "How would you prevent the red snapper from drying out while achieving nice grill marks?"
+  },
+  "timestamp": "2026-02-06T08:23:14.899Z"
+}

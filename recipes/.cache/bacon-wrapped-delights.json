@@ -1,0 +1,47 @@
+{
+  "contentHash": "8135cb70f8978c98",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 spears white asparagus",
+        "searchTerm": "white asparagus",
+        "normalizedName": "White Asparagus"
+      },
+      {
+        "ingredient": "4 ounces enoki mushrooms",
+        "searchTerm": "enoki mushrooms",
+        "normalizedName": "Enoki Mushroom"
+      },
+      {
+        "ingredient": "4 ounces shiitake mushrooms, stemmed and sliced 1/4-inch thick",
+        "searchTerm": "shiitake mushrooms",
+        "normalizedName": "Shiitake Mushroom"
+      },
+      {
+        "ingredient": "24 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "kitchen twine",
+        "searchTerm": "kitchen twine"
+      }
+    ],
+    "cookingTips": [
+      "Bundle asparagus with mushrooms using kitchen twine before wrapping with bacon",
+      "Slice shiitake mushrooms uniformly so they cook in the same time as asparagus and enoki"
+    ],
+    "coachingPrompt": "How will you keep the delicate enoki mushrooms from overcooking while crisping the bacon?"
+  },
+  "timestamp": "2026-02-05T22:53:49.046Z"
+}

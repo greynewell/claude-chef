@@ -1,0 +1,57 @@
+{
+  "contentHash": "918286da3b32ced5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "4 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "6 tablespoons garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "3 tablespoons ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "8 skinless, boneless chicken breast halves - cut into small chunks",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep fryer or skillet",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "shallow dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "cooking thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Keep oil temperature consistent at 350°F for even cooking",
+      "Don't overcrowd the pan to maintain temperature and prevent sticking"
+    ],
+    "coachingPrompt": "Help the user bread and fry chicken nuggets to golden perfection while managing oil temperature."
+  },
+  "timestamp": "2026-02-06T20:38:30.510Z"
+}

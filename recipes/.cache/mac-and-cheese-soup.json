@@ -1,0 +1,83 @@
+{
+  "contentHash": "083f0ef3b8eb6a74",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 slices bacon, chopped",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 teaspoon bacon drippings",
+        "searchTerm": "bacon drippings",
+        "normalizedName": "Bacon Drippings"
+      },
+      {
+        "ingredient": "1 (7 ounce) package elbow macaroni",
+        "searchTerm": "elbow macaroni",
+        "normalizedName": "Elbow Macaroni"
+      },
+      {
+        "ingredient": "1 small onion, finely chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "¼ teaspoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 (14 ounce) cans chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar cheese sauce",
+        "searchTerm": "cheese sauce",
+        "normalizedName": "Cheese Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons chicken bouillon granules",
+        "searchTerm": "chicken bouillon",
+        "normalizedName": "Chicken Bouillon"
+      },
+      {
+        "ingredient": "2 teaspoons ground red chili pepper",
+        "searchTerm": "chili pepper",
+        "normalizedName": "Chili Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pinch crushed red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "Brown bacon first to add depth of flavor to the soup base",
+      "Add pasta near the end of cooking to prevent it from becoming too soft",
+      "Taste and adjust spice levels gradually as chili pepper can overpower"
+    ],
+    "coachingPrompt": "Guide the user through building layers of flavor starting with crispy bacon, then adding aromatic vegetables before combining with broth."
+  },
+  "timestamp": "2026-02-06T11:42:13.871Z"
+}

@@ -1,0 +1,42 @@
+{
+  "contentHash": "8eb5ff8274976812",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 pounds new potatoes",
+        "searchTerm": "new potatoes",
+        "normalizedName": "New Potato"
+      },
+      {
+        "ingredient": "1 ½ cups fine salt",
+        "searchTerm": "fine salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "8 tablespoons butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Use fine salt to ensure even distribution in boiling water",
+      "Don't peel potatoes before cooking - leave skins on for better texture and flavor"
+    ],
+    "coachingPrompt": "Syracuse salt potatoes are cooked in heavily salted water. How does this cooking method differ from traditional boiling?"
+  },
+  "timestamp": "2026-02-06T20:11:32.907Z"
+}

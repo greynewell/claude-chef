@@ -1,0 +1,38 @@
+{
+  "contentHash": "6b7180b385c1b805",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 slices white bread, crusts trimmed",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar processed cheese sauce",
+        "searchTerm": "cheese sauce",
+        "normalizedName": "Cheese Sauce"
+      },
+      {
+        "ingredient": "1 (5 ounce) jar pitted green olives, chopped",
+        "searchTerm": "green olives",
+        "normalizedName": "Green Olive"
+      },
+      {
+        "ingredient": "1 pound sliced bacon, cut in half",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      "baking sheet",
+      "oven",
+      "cutting board"
+    ],
+    "cookingTips": [
+      "Flatten bread slices with a rolling pin before filling",
+      "Arrange seam-side down on baking sheet to prevent unrolling"
+    ],
+    "coachingPrompt": "Have you made pinwheel appetizers before? Would you like assembly tips?"
+  },
+  "timestamp": "2026-02-05T22:51:53.688Z"
+}

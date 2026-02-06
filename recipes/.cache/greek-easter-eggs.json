@@ -1,0 +1,53 @@
+{
+  "contentHash": "d562c0078a730505",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "12 yellow onions, skins removed and reserved",
+        "searchTerm": "yellow onion",
+        "normalizedName": "Yellow Onion"
+      },
+      {
+        "ingredient": "2 tablespoons white vinegar",
+        "searchTerm": "white vinegar",
+        "normalizedName": "White Vinegar"
+      },
+      {
+        "ingredient": "12 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Cloth or paper towel",
+        "searchTerm": "cloth"
+      }
+    ],
+    "cookingTips": [
+      "Save onion skins as they create the distinctive reddish-brown dye color",
+      "Crack eggshells gently before cooking to allow dye to seep in for marble pattern",
+      "Rub finished eggs with olive oil to enhance the natural sheen and color"
+    ],
+    "coachingPrompt": "How long should the eggs simmer to achieve a deep, even color from the onion skins?"
+  },
+  "timestamp": "2026-02-06T08:00:14.105Z"
+}

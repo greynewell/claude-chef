@@ -1,0 +1,43 @@
+{
+  "contentHash": "a3c4c9e1a771423f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "These cookies spread less than traditional cookies due to lack of flour",
+      "Press cookies with a fork in a crosshatch pattern for the classic look",
+      "Watch carefully as they can brown quickly on the edges"
+    ],
+    "coachingPrompt": "Explain why this simple three-ingredient recipe works and how the peanut butter provides structure without flour."
+  },
+  "timestamp": "2026-02-06T06:48:44.959Z"
+}

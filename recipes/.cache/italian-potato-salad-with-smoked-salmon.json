@@ -1,0 +1,63 @@
+{
+  "contentHash": "d60e90a94861171e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "⅞ cup heavy whipping cream",
+        "searchTerm": "heavy whipping cream",
+        "normalizedName": "Heavy Whipping Cream"
+      },
+      {
+        "ingredient": "1 small lemon, juiced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "salt and freshly ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and freshly ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "14 ounces smoked salmon, chopped",
+        "searchTerm": "smoked salmon",
+        "normalizedName": "Smoked Salmon"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh chives",
+        "searchTerm": "fresh chives",
+        "normalizedName": "Fresh Chive"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Salad Bowl",
+        "searchTerm": "salad bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook potatoes until just tender but still firm; overcooking makes them mushy in the dressing",
+      "Dress the salad while potatoes are still warm so they absorb the flavors better",
+      "Add salmon and chives just before serving to prevent wilting and maintain texture"
+    ],
+    "coachingPrompt": "Should I peel the potatoes before or after cooking for this recipe?"
+  },
+  "timestamp": "2026-02-06T10:09:30.464Z"
+}

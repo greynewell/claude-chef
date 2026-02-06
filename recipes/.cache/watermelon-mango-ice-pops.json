@@ -1,0 +1,48 @@
+{
+  "contentHash": "064ca8191948506a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups cubed seeded watermelon",
+        "searchTerm": "watermelon",
+        "normalizedName": "Watermelon"
+      },
+      {
+        "ingredient": "1 cup mango chunks",
+        "searchTerm": "mango",
+        "normalizedName": "Mango"
+      },
+      {
+        "ingredient": "½ cup raspberries",
+        "searchTerm": "raspberry",
+        "normalizedName": "Raspberry"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "ice pop molds",
+        "searchTerm": "popsicle molds"
+      },
+      {
+        "name": "fine-mesh sieve",
+        "searchTerm": "fine-mesh sieve"
+      }
+    ],
+    "cookingTips": [
+      "Blend watermelon and mango separately, then fold raspberries in gently to preserve texture",
+      "Strain mixture through fine-mesh sieve for smooth ice pops without seeds",
+      "Layer fruits for striped effect: watermelon layer, then mango, then raspberry"
+    ],
+    "coachingPrompt": "How can I create beautiful layered ice pops without the layers mixing together during freezing?"
+  },
+  "timestamp": "2026-02-06T21:59:14.867Z"
+}

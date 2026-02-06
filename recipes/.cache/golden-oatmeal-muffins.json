@@ -1,0 +1,58 @@
+{
+  "contentHash": "423c45aacdf5edd9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 package Duncan Hines® Golden Yellow Cake Mix",
+        "searchTerm": "golden yellow cake mix",
+        "normalizedName": "Golden Yellow Cake Mix"
+      },
+      {
+        "ingredient": "1 cup quick-cooking oats",
+        "searchTerm": "quick-cooking oats",
+        "normalizedName": "Quick-Cooking Oat"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¾ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 large eggs, slightly beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons butter or margarine, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Muffin Tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Muffin Liners",
+        "searchTerm": "muffin liners"
+      }
+    ],
+    "cookingTips": [
+      "Use a cake mix as base for quick, easy muffins with reliable results and consistent crumb",
+      "Mix oats into batter to add hearty texture and nutty flavor without developing gluten",
+      "Fill muffin cups evenly and bake at the temperature specified on the cake mix package"
+    ],
+    "coachingPrompt": "Help the user make quick, easy muffins by combining a cake mix base with oats for added texture, mixing gently to avoid overdeveloping gluten, and baking until golden."
+  },
+  "timestamp": "2026-02-06T07:41:26.677Z"
+}

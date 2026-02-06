@@ -1,0 +1,43 @@
+{
+  "contentHash": "9b06668b28cba872",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (16 ounce) packages shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese shredded",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 (4 ounce) cans chopped green chile peppers, juice reserved",
+        "searchTerm": "green chile peppers canned",
+        "normalizedName": "Green Chile Pepper"
+      },
+      {
+        "ingredient": "12 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 inch baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Reserve chile pepper juice and mix with eggs for extra moisture and flavor",
+      "Layer cheese and chiles evenly to ensure consistent distribution in every bite",
+      "Cool for 10 minutes before cutting into squares for clean edges"
+    ],
+    "coachingPrompt": "Help the user understand how to layer ingredients for even distribution and achieve a custardy, not rubbery, texture."
+  },
+  "timestamp": "2026-02-06T02:48:57.526Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "8de7b88290887283",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ¼ pounds boneless pork loin, pounded thin",
+        "searchTerm": "boneless pork loin",
+        "normalizedName": "Boneless Pork Loin"
+      },
+      {
+        "ingredient": "½ cup all-purpose flour for coating",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "¼ cup chopped pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      }
+    ],
+    "gear": [
+      {
+        "name": "meat mallet",
+        "searchTerm": "meat mallet"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "shallow dish",
+        "searchTerm": "shallow plate"
+      }
+    ],
+    "cookingTips": [
+      "Pound pork evenly for consistent cooking",
+      "Don't skip the flour coating as it helps create a light crust",
+      "Cook over medium-high heat until golden and internal temperature reaches 145°F"
+    ],
+    "coachingPrompt": "Explain the importance of even pounding for consistent cooking and the role of the flour coating."
+  },
+  "timestamp": "2026-02-05T22:45:20.655Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "9bca19edac1526b0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon dried parsley, divided",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "1 tablespoon dried basil, divided",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "4 cloves garlic, thinly sliced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon crushed red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "2 tomatoes, sliced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "knife for slicing",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Layer ingredients evenly for consistent cooking",
+      "Use parchment paper for easy cleanup and moist cooking",
+      "Bake at 400°F for about 25-30 minutes until chicken is cooked through"
+    ],
+    "coachingPrompt": "Guide the user through layering the ingredients properly for an even dish."
+  },
+  "timestamp": "2026-02-06T02:46:40.326Z"
+}

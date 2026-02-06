@@ -1,0 +1,73 @@
+{
+  "contentHash": "2654538a85be0b9f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 ¾ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "⅓ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "¼ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "¼ teaspoon ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      },
+      {
+        "ingredient": "12 slices wheat bread, cubed",
+        "searchTerm": "wheat bread",
+        "normalizedName": "Wheat Bread"
+      },
+      {
+        "ingredient": "2 bananas, sliced",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Prepare the dish the night before and refrigerate overnight for best flavor absorption",
+      "Cube the bread into even pieces so they cook uniformly",
+      "Let the assembled dish sit at room temperature for 30 minutes before baking"
+    ],
+    "coachingPrompt": "Should I prepare this the night before? How long should it bake and what temperature should I use?"
+  },
+  "timestamp": "2026-02-06T05:31:36.084Z"
+}

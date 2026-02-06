@@ -1,0 +1,39 @@
+{
+  "contentHash": "9d0990342b3850ca",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds chopped apples",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "⅓ cup maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Immersion blender",
+        "searchTerm": "immersion blender"
+      }
+    ],
+    "cookingTips": [
+      "Cook on low for 8-10 hours for optimal flavor concentration",
+      "The mixture will darken and thicken as it cooks",
+      "Blend until smooth or leave chunky based on preference"
+    ],
+    "coachingPrompt": "Do you prefer your apple butter smooth or with a little texture?"
+  },
+  "timestamp": "2026-02-05T22:10:36.298Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "d0c2d923706c0edc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup blueberries",
+        "searchTerm": "blueberries",
+        "normalizedName": "Blueberry"
+      },
+      {
+        "ingredient": "1 cup warm water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Strainer",
+        "searchTerm": "strainer"
+      },
+      {
+        "name": "Glass jar",
+        "searchTerm": "glass jar"
+      }
+    ],
+    "cookingTips": [
+      "Simmer gently to extract flavor without breaking down berries",
+      "Strain through fine mesh for clear syrup",
+      "Store in refrigerator for up to 2 weeks"
+    ],
+    "coachingPrompt": "How does lemon juice enhance the blueberry flavor in simple syrup?"
+  },
+  "timestamp": "2026-02-06T00:24:42.409Z"
+}

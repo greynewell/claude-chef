@@ -1,0 +1,63 @@
+{
+  "contentHash": "fc945009bef0c86e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Chop hard-boiled eggs into quarters for even distribution in the sauce",
+      "Add Parmesan cheese at the end for rich flavor without overpowering",
+      "Use medium heat to prevent sauce from breaking"
+    ],
+    "coachingPrompt": "I'm making creamed hard-boiled eggs. When should I add the Parmesan cheese to the sauce?"
+  },
+  "timestamp": "2026-02-06T04:19:52.024Z"
+}

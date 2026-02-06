@@ -1,0 +1,58 @@
+{
+  "contentHash": "b37ee289a20836dc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 baking potatoes, scrubbed",
+        "searchTerm": "baking potato",
+        "normalizedName": "Baking Potato"
+      },
+      {
+        "ingredient": "1 ¼ teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "12 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil for brushing",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "aluminum foil",
+        "searchTerm": "aluminum foil"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Prick potatoes with a fork before grilling to prevent bursting",
+      "Wrap in foil and grill over medium heat for 30-40 minutes until tender",
+      "Cook bacon separately to crispy, then crumble over potatoes"
+    ],
+    "coachingPrompt": "Guide the user through timing the potatoes and bacon so both are ready simultaneously."
+  },
+  "timestamp": "2026-02-06T08:10:19.109Z"
+}

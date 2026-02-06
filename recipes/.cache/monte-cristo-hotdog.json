@@ -1,0 +1,49 @@
+{
+  "contentHash": "02bae9c2ba697901",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 all-beef hot dog",
+        "searchTerm": "hot dog",
+        "normalizedName": "Hot Dog"
+      },
+      {
+        "ingredient": "1 hot dog bun",
+        "searchTerm": "hot dog bun",
+        "normalizedName": "Hot Dog Bun"
+      },
+      {
+        "ingredient": "1 slice Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons strawberry jam",
+        "searchTerm": "strawberry jam",
+        "normalizedName": "Strawberry Jam"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Toast the bun lightly in butter to prevent it from getting soggy from the jam",
+      "Warm the cheese slice slightly to melt it gently onto the hot dog",
+      "Add jam just before serving so it doesn't soak into the bun"
+    ],
+    "coachingPrompt": "This is a sweet and savory hotdog inspired by Monte Cristo sandwiches. How would you layer the components to balance the strawberry jam with melted cheese?"
+  },
+  "timestamp": "2026-02-06T12:49:06.980Z"
+}

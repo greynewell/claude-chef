@@ -1,0 +1,63 @@
+{
+  "contentHash": "579fbe537ee171aa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds pork tenderloin",
+        "searchTerm": "pork tenderloin",
+        "normalizedName": "Pork Tenderloin"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "3 cloves garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ teaspoon chopped fresh thyme",
+        "searchTerm": "thyme",
+        "normalizedName": "Thyme"
+      },
+      {
+        "ingredient": "½ tablespoon chopped fresh rosemary",
+        "searchTerm": "rosemary",
+        "normalizedName": "Rosemary"
+      },
+      {
+        "ingredient": "1 tablespoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 tablespoons ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Small Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Bring tenderloin to room temperature before grilling for even cooking",
+      "Grill over medium-high heat with lid closed for 25-30 minutes",
+      "Check internal temperature of 145°F for medium-rare doneness"
+    ],
+    "coachingPrompt": "How do you prevent pork tenderloin from drying out on the grill?"
+  },
+  "timestamp": "2026-02-06T07:18:24.900Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "2e8d7812de31c2c5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 cups corn tortilla chips",
+        "searchTerm": "tortilla chip",
+        "normalizedName": "Tortilla Chip"
+      },
+      {
+        "ingredient": "2 cups vegetarian chili with beans",
+        "searchTerm": "vegetarian chili",
+        "normalizedName": "Vegetarian Chili"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 cups shredded lettuce",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "2 roma (plum) tomatoes, chopped",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "½ cup salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "¼ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Layer chips and chili first, then cheese for best melting",
+      "Add fresh toppings after baking to maintain texture",
+      "Use warm chili so cheese melts evenly throughout"
+    ],
+    "coachingPrompt": "Show the user how to build layers in a casserole for maximum flavor and texture contrast."
+  },
+  "timestamp": "2026-02-06T06:18:17.927Z"
+}

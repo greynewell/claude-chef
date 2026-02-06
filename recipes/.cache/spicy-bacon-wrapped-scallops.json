@@ -1,0 +1,42 @@
+{
+  "contentHash": "9ebb8ab3f73a8001",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "10 sea scallops",
+        "searchTerm": "sea scallop",
+        "normalizedName": "Sea Scallop"
+      },
+      {
+        "ingredient": "1 teaspoon Cajun seasoning",
+        "searchTerm": "cajun seasoning",
+        "normalizedName": "Cajun Seasoning"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 lemon",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      "Skillet",
+      "Toothpicks"
+    ],
+    "cookingTips": [
+      "Pat scallops dry before wrapping to prevent splattering and ensure browning",
+      "Wrap bacon snugly but not so tight that it restricts scallop expansion during cooking"
+    ],
+    "coachingPrompt": "Why is it critical to dry scallops before cooking, and what happens if you skip this step?"
+  },
+  "timestamp": "2026-02-06T18:54:15.863Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "17c04cc2e8976027",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅓ cup white sugar",
+        "searchTerm": "white sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 teaspoons ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable shortening (such as Crisco®)",
+        "searchTerm": "vegetable shortening",
+        "normalizedName": "Vegetable Shortening"
+      },
+      {
+        "ingredient": "1 tablespoon light corn syrup",
+        "searchTerm": "corn syrup",
+        "normalizedName": "Corn Syrup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Small Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Candy Thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "Parchment Paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Heat mixture to 300°F (hard-crack stage) for proper chip texture and crispness",
+      "Work quickly once mixture reaches temperature as it hardens rapidly",
+      "Cool completely on parchment before breaking into chips"
+    ],
+    "coachingPrompt": "Help the user understand candy making temperatures and proper cooling technique for brittle chips."
+  },
+  "timestamp": "2026-02-06T09:12:20.785Z"
+}

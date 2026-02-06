@@ -1,0 +1,67 @@
+{
+  "contentHash": "52c45e9e1307deae",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 ½ pounds beef liver",
+        "searchTerm": "beef liver",
+        "normalizedName": "Beef Liver"
+      },
+      {
+        "ingredient": "1 pound chicken livers",
+        "searchTerm": "chicken liver",
+        "normalizedName": "Chicken Liver"
+      },
+      {
+        "ingredient": "2 tablespoons corn oil",
+        "searchTerm": "corn oil",
+        "normalizedName": "Corn Oil"
+      },
+      {
+        "ingredient": "2 tablespoons rendered chicken fat",
+        "searchTerm": "chicken fat",
+        "normalizedName": "Rendered Chicken Fat"
+      },
+      {
+        "ingredient": "4 cups chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Soak livers in milk for 30 minutes before cooking to reduce bitterness",
+      "Cook livers until just done to avoid a grainy texture; overcooking reduces quality"
+    ],
+    "coachingPrompt": "How do you achieve the right texture balance when chopping liver?"
+  },
+  "timestamp": "2026-02-06T03:15:44.393Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "04b1b55a6a21e436",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "spinach",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "artichoke hearts",
+        "searchTerm": "artichoke hearts",
+        "normalizedName": "Artichoke Heart"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "ranch dressing mix",
+        "searchTerm": "ranch seasoning",
+        "normalizedName": "Ranch Dressing Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "plastic wrap",
+        "searchTerm": "plastic wrap"
+      },
+      {
+        "name": "spreading knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Squeeze spinach very dry to prevent watery mixture",
+      "Chill mixture for at least 2 hours before shaping",
+      "Form into ball on serving plate and chill until serving time"
+    ],
+    "coachingPrompt": "Would you like to coat the cheese ball with nuts, herbs, or serve it plain with crackers?"
+  },
+  "timestamp": "2026-02-06T19:14:40.646Z"
+}

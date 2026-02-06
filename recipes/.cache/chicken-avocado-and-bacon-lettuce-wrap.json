@@ -1,0 +1,78 @@
+{
+  "contentHash": "4964e8786467e56e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "⅓ cup shredded rotisserie chicken",
+        "searchTerm": "rotisserie chicken",
+        "normalizedName": "Rotisserie Chicken"
+      },
+      {
+        "ingredient": "coarse salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "coarse salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 avocado",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tomato, chopped",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 lettuce leaves, or as needed",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Crisp bacon until just cooked through, then crumble for easy wrapping",
+      "Toss avocado with lemon juice immediately after cutting to prevent browning",
+      "Assemble wraps just before serving to keep lettuce crisp and prevent sogginess"
+    ],
+    "coachingPrompt": "How can you prevent avocado from browning, and what's the best timing for assembly?"
+  },
+  "timestamp": "2026-02-06T02:25:30.560Z"
+}

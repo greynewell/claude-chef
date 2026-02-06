@@ -1,0 +1,53 @@
+{
+  "contentHash": "d29bc3f1406b73fe",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (5 ounce) can solid white tuna packed in water, drained",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Canned Tuna"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 tablespoon wasabi paste",
+        "searchTerm": "wasabi paste",
+        "normalizedName": "Wasabi Paste"
+      },
+      {
+        "ingredient": "1 teaspoon minced fresh ginger root",
+        "searchTerm": "fresh ginger",
+        "normalizedName": "Fresh Ginger"
+      },
+      {
+        "ingredient": "1 tablespoon minced green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Drain tuna thoroughly to prevent watery salad",
+      "Start with less wasabi and adjust to taste preference",
+      "Serve chilled on crackers or with cucumber slices"
+    ],
+    "coachingPrompt": "How can you balance the heat from wasabi with other ingredients?"
+  },
+  "timestamp": "2026-02-06T19:55:06.202Z"
+}

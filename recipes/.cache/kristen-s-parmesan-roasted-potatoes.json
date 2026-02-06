@@ -1,0 +1,58 @@
+{
+  "contentHash": "5313b66c1c0ce69e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds unpeeled potatoes, cut into 1-inch chunks",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "¼ teaspoon dried thyme leaves",
+        "searchTerm": "dried thyme",
+        "normalizedName": "Dried Thyme"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Toss potatoes with oil and seasonings before roasting for even coating and browning",
+      "Add Parmesan cheese in the last 5 minutes of cooking to prevent burning",
+      "Cut potatoes evenly so they cook at the same rate"
+    ],
+    "coachingPrompt": "What temperature and time will give me golden, crispy potatoes on the outside while tender inside?"
+  },
+  "timestamp": "2026-02-06T10:56:19.105Z"
+}

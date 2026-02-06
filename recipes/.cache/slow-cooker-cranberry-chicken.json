@@ -1,0 +1,44 @@
+{
+  "contentHash": "bd19b5c3a7a417ae",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breasts",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 (16 ounce) bottle Catalina salad dressing",
+        "searchTerm": "Catalina dressing",
+        "normalizedName": "Catalina Salad Dressing"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can whole berry cranberry sauce",
+        "searchTerm": "cranberry sauce",
+        "normalizedName": "Cranberry Sauce"
+      },
+      {
+        "ingredient": "1 envelope onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Chicken is done when internal temperature reaches 165°F",
+      "Catalina dressing adds tang that complements cranberry sweetness",
+      "Remove chicken 15 minutes before serving to let sauce thicken"
+    ],
+    "coachingPrompt": "How can we verify the chicken is cooked through while maintaining moisture and tender texture?"
+  },
+  "timestamp": "2026-02-06T18:09:20.493Z"
+}

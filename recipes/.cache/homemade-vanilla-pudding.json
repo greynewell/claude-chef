@@ -1,0 +1,58 @@
+{
+  "contentHash": "a7fb5f5bea468f38",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 tablespoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Whisk cornstarch with a little cold milk before adding to hot milk to prevent lumps",
+      "Cook over medium heat, stirring constantly, until mixture thickens (about 5-7 minutes)",
+      "Pour into serving dishes and chill for at least 1 hour before serving"
+    ],
+    "coachingPrompt": "Help me create a silky smooth vanilla pudding with no lumps. What temperature and stirring technique should I use?"
+  },
+  "timestamp": "2026-02-06T09:19:09.784Z"
+}

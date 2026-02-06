@@ -1,0 +1,43 @@
+{
+  "contentHash": "b653d1edcf329f1c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ (2 pound) loaf cubed processed cheese food",
+        "searchTerm": "processed cheese",
+        "normalizedName": "Processed Cheese Food"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed golden mushroom soup",
+        "searchTerm": "mushroom soup",
+        "normalizedName": "Mushroom Soup"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can diced tomatoes with green chile peppers",
+        "searchTerm": "diced tomato",
+        "normalizedName": "Diced Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Serving bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Use a slow cooker set to low for easy serving at parties",
+      "Stir occasionally to prevent sticking on bottom",
+      "Serve with tortilla chips or bread for dipping"
+    ],
+    "coachingPrompt": "Guide the user on how slow heating with condensed soup creates a smooth, creamy dip without lumps or separation."
+  },
+  "timestamp": "2026-02-06T05:51:21.837Z"
+}

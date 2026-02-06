@@ -1,0 +1,68 @@
+{
+  "contentHash": "7ba285f146f5b558",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 fluid ounces Greek salad dressing",
+        "searchTerm": "Greek salad dressing",
+        "normalizedName": "Greek Salad Dressing"
+      },
+      {
+        "ingredient": "1 pint grape tomatoes, halved",
+        "searchTerm": "grape tomato",
+        "normalizedName": "Grape Tomato"
+      },
+      {
+        "ingredient": "1 ¼ cups pitted Kalamata olives",
+        "searchTerm": "Kalamata olive",
+        "normalizedName": "Kalamata Olive"
+      },
+      {
+        "ingredient": "2 red onions, diced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "15 ounces cooked steak, cut into bite-sized pieces",
+        "searchTerm": "cooked steak",
+        "normalizedName": "Cooked Steak"
+      },
+      {
+        "ingredient": "10 cups chopped romaine lettuce",
+        "searchTerm": "romaine lettuce",
+        "normalizedName": "Romaine Lettuce"
+      },
+      {
+        "ingredient": "1 ¼ cups crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "¾ cup croutons (Optional)",
+        "searchTerm": "croutons",
+        "normalizedName": "Crouton"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mason jars",
+        "searchTerm": "mason jar"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Layer dressing on the bottom so it doesn't wilt lettuce before eating",
+      "Cut all ingredients into bite-sized pieces for easy eating from jar",
+      "Pack salad tightly so flavors meld but ingredients remain intact"
+    ],
+    "coachingPrompt": "Teach the user the optimal layering sequence for mason jar salads and how to prepare components for storage."
+  },
+  "timestamp": "2026-02-06T08:01:18.202Z"
+}

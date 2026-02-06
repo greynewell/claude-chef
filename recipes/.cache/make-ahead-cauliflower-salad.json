@@ -1,0 +1,68 @@
+{
+  "contentHash": "1f818d0b69f33f67",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 head iceberg lettuce, finely chopped",
+        "searchTerm": "iceberg lettuce",
+        "normalizedName": "Iceberg Lettuce"
+      },
+      {
+        "ingredient": "1 head cauliflower, florets finely chopped",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      },
+      {
+        "ingredient": "1 large red onion, shaved thin",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "3 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "⅓ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 dash ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, drain on paper towels, then chop into small pieces",
+      "Chop cauliflower into small, uniform pieces for consistent texture",
+      "Combine dressing with vegetables just before serving to keep salad crisp"
+    ],
+    "coachingPrompt": "I'm making cauliflower salad with bacon and mayonnaise dressing. Should I prepare the components ahead and assemble when ready to eat?"
+  },
+  "timestamp": "2026-02-06T11:46:17.214Z"
+}

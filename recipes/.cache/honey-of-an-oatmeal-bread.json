@@ -1,0 +1,62 @@
+{
+  "contentHash": "485f5192f2eceb48",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "¼ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ cup rolled oats",
+        "searchTerm": "rolled oats",
+        "normalizedName": "Rolled Oat"
+      },
+      {
+        "ingredient": "2 ⅓ cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "1 teaspoon active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Bread maker",
+        "searchTerm": "bread maker"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Measuring cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Add ingredients in the order specified to ensure proper dough development",
+      "Use bread machine on standard white bread cycle for best results"
+    ],
+    "coachingPrompt": "How does oatmeal change the texture of bread compared to flour-only recipes?"
+  },
+  "timestamp": "2026-02-06T09:23:39.306Z"
+}

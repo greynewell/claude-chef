@@ -1,0 +1,57 @@
+{
+  "contentHash": "87db76f435f16c5a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "15 dates, pitted",
+        "searchTerm": "dates pitted",
+        "normalizedName": "Date"
+      },
+      {
+        "ingredient": "2 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "2 tablespoons chopped almonds, or to taste",
+        "searchTerm": "almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "2 tablespoons shredded unsweetened coconut, or to taste",
+        "searchTerm": "unsweetened coconut",
+        "normalizedName": "Unsweetened Coconut"
+      },
+      {
+        "ingredient": "1 tablespoon unsweetened cocoa powder",
+        "searchTerm": "unsweetened cocoa powder",
+        "normalizedName": "Unsweetened Cocoa Powder"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food Processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Parchment Paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "Small Bowl",
+        "searchTerm": "small bowl for coating"
+      }
+    ],
+    "cookingTips": [
+      "Process dates until they form a paste-like consistency; this acts as the binding agent",
+      "Chill mixture for easier rolling before shaping into balls"
+    ],
+    "coachingPrompt": "Guide the user on properly processing dates into a paste and explain the benefit of chilling before rolling."
+  },
+  "timestamp": "2026-02-06T05:10:06.580Z"
+}

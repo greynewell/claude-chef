@@ -1,0 +1,53 @@
+{
+  "contentHash": "2d650cf8082fd4fa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "7 ½ cups seedless watermelon, chopped into chunks, divided",
+        "searchTerm": "watermelon",
+        "normalizedName": "Watermelon"
+      },
+      {
+        "ingredient": "1 ½ cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 limes, juiced, or more to taste",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "4 tablespoons chamoy (Mexican chili fruit condiment), or more to taste  (Optional)",
+        "searchTerm": "chamoy",
+        "normalizedName": "Chamoy"
+      },
+      {
+        "ingredient": "2 tablespoons chili-lime seasoning (such as Tajin®)  (Optional)",
+        "searchTerm": "chile-lime seasoning",
+        "normalizedName": "Chile-Lime Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "Large bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Blend watermelon until completely smooth before churning",
+      "Strain through fine mesh to remove any pulp for smooth texture",
+      "Churn in ice cream maker for 20-25 minutes for best consistency"
+    ],
+    "coachingPrompt": "Guide the user through blending watermelon with sugar and lime juice, straining for smoothness, optionally adding chamoy, then churning in an ice cream maker."
+  },
+  "timestamp": "2026-02-06T12:19:44.978Z"
+}

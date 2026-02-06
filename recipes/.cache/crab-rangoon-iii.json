@@ -1,0 +1,62 @@
+{
+  "contentHash": "7654c22d9867cf2f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 quart oil for deep frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 (6 ounce) cans crabmeat, drained and flaked",
+        "searchTerm": "canned crab meat",
+        "normalizedName": "Crab Meat"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "¼ teaspoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "2 tablespoons water chestnuts, drained and chopped",
+        "searchTerm": "canned water chestnuts",
+        "normalizedName": "Water Chestnut"
+      },
+      {
+        "ingredient": "1 (14 ounce) package wonton wrappers",
+        "searchTerm": "wonton wrappers",
+        "normalizedName": "Wonton Wrapper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep fryer or heavy pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "cooking thermometer"
+      },
+      {
+        "name": "Slotted spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Keep oil at 350°F for crispy wontons without burning",
+      "Seal wonton edges with water to prevent filling from leaking during frying"
+    ],
+    "coachingPrompt": "Guide the user on maintaining proper oil temperature and achieving the perfect golden crispy texture while preventing the filling from leaking out."
+  },
+  "timestamp": "2026-02-06T04:03:50.215Z"
+}

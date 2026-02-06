@@ -1,0 +1,53 @@
+{
+  "contentHash": "04e1b4a65c934ae8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon salted butter",
+        "searchTerm": "salted butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 (1 pound) fillet skin-on salmon",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "2 teaspoons Greek seasoning (such as Cavender's®)",
+        "searchTerm": "greek seasoning",
+        "normalizedName": "Greek Seasoning"
+      },
+      {
+        "ingredient": "2 tablespoons chopped pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Place salmon skin-side down in cold skillet, then turn heat to medium to render skin gradually",
+      "Toast pecans in separate pan just before cooking for best flavor",
+      "Cook skin-side down for 80% of cooking time, then flip briefly to finish"
+    ],
+    "coachingPrompt": "This simple salmon focuses entirely on skin crispiness technique. Are you experienced with skin-side-down cooking? Do you prefer a simple plating?"
+  },
+  "timestamp": "2026-02-06T04:40:47.884Z"
+}

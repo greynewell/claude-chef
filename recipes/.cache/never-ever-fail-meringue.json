@@ -1,0 +1,59 @@
+{
+  "contentHash": "d44c3edae1b780db",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "2 tablespoons cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "3 egg whites",
+        "searchTerm": "egg whites",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "6 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Ensure egg whites are completely free of yolk for stiff peaks",
+      "Add sugar gradually while beating to achieve glossy meringue",
+      "Use the cornstarch slurry to stabilize meringue and prevent weeping"
+    ],
+    "coachingPrompt": "Guide the user through whipping egg whites to stiff peaks and explain why the cornstarch mixture prevents meringue from becoming watery."
+  },
+  "timestamp": "2026-02-06T13:11:04.082Z"
+}

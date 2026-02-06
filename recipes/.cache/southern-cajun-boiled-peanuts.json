@@ -1,0 +1,52 @@
+{
+  "contentHash": "26f6e502e308461d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 pounds raw peanuts, in shells",
+        "searchTerm": "raw peanuts",
+        "normalizedName": "Raw Peanut"
+      },
+      {
+        "ingredient": "¾ cup salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ¼ cups dill pickle slices, with brine",
+        "searchTerm": "dill pickle",
+        "normalizedName": "Dill Pickle"
+      },
+      {
+        "ingredient": "5 small jalapeno peppers, sliced",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "5 tablespoons dry crab boil (such as Zatarain's® Crab and Shrimp Boil)",
+        "searchTerm": "dry crab boil",
+        "normalizedName": "Dry Crab Boil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Use raw peanuts in shells for authentic texture and flavor absorption",
+      "Boil for 8-12 hours until peanuts reach desired softness"
+    ],
+    "coachingPrompt": "Guide the user through the long boiling process, explaining how salt and Cajun spices penetrate the shells to flavor peanuts throughout."
+  },
+  "timestamp": "2026-02-06T18:39:20.489Z"
+}

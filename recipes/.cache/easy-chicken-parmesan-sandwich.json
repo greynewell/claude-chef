@@ -1,0 +1,53 @@
+{
+  "contentHash": "00ac54b1fd444827",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 frozen chicken nuggets",
+        "searchTerm": "frozen chicken nuggets",
+        "normalizedName": "Frozen Chicken Nugget"
+      },
+      {
+        "ingredient": "2 tablespoons tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "1 hamburger bun, split",
+        "searchTerm": "hamburger bun",
+        "normalizedName": "Hamburger Bun"
+      },
+      {
+        "ingredient": "1 slice American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Bake nuggets according to package directions until crispy",
+      "Warm the hamburger bun lightly before assembling for better texture",
+      "Add cheese while nuggets are still hot so it melts slightly"
+    ],
+    "coachingPrompt": "Help the cook create a quick, kid-friendly sandwich using convenient ingredients with great flavor."
+  },
+  "timestamp": "2026-02-06T05:38:57.932Z"
+}

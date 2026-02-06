@@ -1,0 +1,43 @@
+{
+  "contentHash": "7cb0ba99bc7d261b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 (13.5 ounce) cans coconut milk",
+        "searchTerm": "coconut milk",
+        "normalizedName": "Coconut Milk"
+      },
+      {
+        "ingredient": "1 large onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "6 small unripe (green) bananas",
+        "searchTerm": "green bananas",
+        "normalizedName": "Green Banana"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "knife and cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Select truly green bananas that are firm; ripe bananas will fall apart during cooking",
+      "Peel green bananas while wearing gloves as the latex-like sap can stain hands",
+      "Simmer gently to allow bananas to soften without breaking apart"
+    ],
+    "coachingPrompt": "Guide the user on identifying and properly handling green bananas, and explain how the coconut milk creates a creamy base that complements their mild, starchy flavor."
+  },
+  "timestamp": "2026-02-06T16:53:39.033Z"
+}

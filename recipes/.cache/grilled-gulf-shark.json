@@ -1,0 +1,53 @@
+{
+  "contentHash": "6c2035ea3bc4bb5f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (8 ounce) shark steaks",
+        "searchTerm": "shark steak",
+        "normalizedName": "Shark Steak"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "sea salt and freshly ground black pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "sea salt and freshly ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "shallow dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Soak shark steaks in milk for 30 minutes to reduce any strong fishy flavor",
+      "Pat steaks dry before grilling to get better browning and crust",
+      "Grill 4-5 minutes per side, being careful not to overcook"
+    ],
+    "coachingPrompt": "Why would you soak shark steaks in milk before grilling, and how long should you let them sit?"
+  },
+  "timestamp": "2026-02-06T08:17:29.797Z"
+}

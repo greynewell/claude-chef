@@ -1,0 +1,82 @@
+{
+  "contentHash": "58e712670ad19f64",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 pounds large shrimp",
+        "searchTerm": "large shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "3 pounds limes, juiced",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "12 Roma tomatoes",
+        "searchTerm": "roma tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "3 large cucumbers, peeled",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "1 red onion",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "½ cup cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "4 large oranges",
+        "searchTerm": "orange",
+        "normalizedName": "Orange"
+      },
+      {
+        "ingredient": "½ cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "1 dash hot sauce",
+        "searchTerm": "hot sauce cholula",
+        "normalizedName": "Hot Sauce"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) package tortilla chips",
+        "searchTerm": "tortilla chips",
+        "normalizedName": "Tortilla Chip"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Ensure shrimp are properly cooked before chopping by buying pre-thawed quality shrimp",
+      "Let ceviche marinate at least 2 hours so flavors meld and texture becomes firm"
+    ],
+    "coachingPrompt": "Are you using raw or cooked shrimp? This affects marinating time and food safety."
+  },
+  "timestamp": "2026-02-05T23:34:21.975Z"
+}

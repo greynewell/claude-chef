@@ -1,0 +1,44 @@
+{
+  "contentHash": "55a021aca46fb1f2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 head cabbage, sliced into six 1-inch pieces",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "6 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "sheet pan",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Keep cabbage in large pieces to maintain structure during roasting",
+      "Oil both sides of cabbage slices for crispy exterior",
+      "Roast at 400°F for 25-30 minutes, turning halfway through"
+    ],
+    "coachingPrompt": "What texture should roasted cabbage have when done?"
+  },
+  "timestamp": "2026-02-06T05:57:41.950Z"
+}

@@ -1,0 +1,73 @@
+{
+  "contentHash": "1e5de60aee91220a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package elbow macaroni",
+        "searchTerm": "elbow macaroni",
+        "normalizedName": "Elbow Macaroni"
+      },
+      {
+        "ingredient": "2 (5 ounce) cans white tuna, drained and flaked",
+        "searchTerm": "white tuna",
+        "normalizedName": "White Tuna"
+      },
+      {
+        "ingredient": "2 stalks celery, minced",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 onion, minced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cups mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 (5 ounce) jar pimento-stuffed green olives, drained",
+        "searchTerm": "green olives",
+        "normalizedName": "Pimento-Stuffed Green Olive"
+      },
+      {
+        "ingredient": "1 pint grape tomatoes",
+        "searchTerm": "grape tomatoes",
+        "normalizedName": "Grape Tomato"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Drain tuna thoroughly and flake it into bite-sized pieces for better texture",
+      "Mince celery and onion finely so they distribute evenly without overpowering the tuna",
+      "Halve grape tomatoes just before serving to prevent excess moisture from seeping into the salad"
+    ],
+    "coachingPrompt": "Guide the user on balancing the tuna flavor with mayonnaise without making it too heavy."
+  },
+  "timestamp": "2026-02-06T11:43:13.917Z"
+}

@@ -1,0 +1,68 @@
+{
+  "contentHash": "33c1897f473d46c8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10 ounce) package frozen chopped spinach",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Frozen Spinach"
+      },
+      {
+        "ingredient": "6 potatoes, peeled and chopped",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 tablespoon chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon dried dill weed",
+        "searchTerm": "dill",
+        "normalizedName": "Dill"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "potato masher",
+        "searchTerm": "potato masher"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Squeeze excess moisture from thawed spinach before adding",
+      "Don't overmix potatoes to avoid gluey texture",
+      "Fold in cheese at the end to preserve its texture"
+    ],
+    "coachingPrompt": "What's the best way to incorporate spinach without creating a watery dish?"
+  },
+  "timestamp": "2026-02-06T16:43:18.149Z"
+}

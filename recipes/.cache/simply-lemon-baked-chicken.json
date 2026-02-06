@@ -1,0 +1,53 @@
+{
+  "contentHash": "d152909bfa1c3dc8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (4 pound) whole chicken",
+        "searchTerm": "whole chicken",
+        "normalizedName": "Whole Chicken"
+      },
+      {
+        "ingredient": "2 tablespoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 lemon, halved",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "1 tablespoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Roasting Pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Pat the chicken dry before seasoning to help the skin crisp up",
+      "Place lemon halves inside the cavity to infuse flavor from within",
+      "Check internal temperature of 165°F in the thickest part of the thigh without touching bone"
+    ],
+    "coachingPrompt": "The water in the pan creates steam—how does this affect browning versus a dry roast, and when would you choose each method?"
+  },
+  "timestamp": "2026-02-06T17:54:58.119Z"
+}

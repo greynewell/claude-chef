@@ -1,0 +1,63 @@
+{
+  "contentHash": "45c5412421f6e932",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon shortening",
+        "searchTerm": "shortening",
+        "normalizedName": "Shortening"
+      },
+      {
+        "ingredient": "1 (.25 ounce) package active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "¼ cup warm water",
+        "searchTerm": "warm water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "6 cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Loaf Pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "Dough Hook",
+        "searchTerm": "dough hook"
+      }
+    ],
+    "cookingTips": [
+      "Scald the milk to kill bacteria and improve dough development",
+      "Proof yeast in warm water before mixing to ensure activation",
+      "Allow two full rises for best volume and crumb structure"
+    ],
+    "coachingPrompt": "Guide the cook through yeast activation, why scalding milk matters, and proper rising times for tender bread."
+  },
+  "timestamp": "2026-02-06T14:37:03.421Z"
+}

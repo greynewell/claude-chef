@@ -1,0 +1,63 @@
+{
+  "contentHash": "4d239f2f05f63e4e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup unsalted butter",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      },
+      {
+        "ingredient": "½ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 quart cold chicken stock",
+        "searchTerm": "chicken stock",
+        "normalizedName": "Chicken Stock"
+      },
+      {
+        "ingredient": "⅓ cup heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "salt and ground white pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground white pepper to taste",
+        "searchTerm": "white pepper",
+        "normalizedName": "White Pepper"
+      },
+      {
+        "ingredient": "1 pinch cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Make a smooth roux by cooking butter and flour together for 1-2 minutes before adding stock",
+      "Add cold stock gradually while whisking constantly to prevent lumps from forming",
+      "Simmer for 10-15 minutes to fully thicken and remove any raw flour taste"
+    ],
+    "coachingPrompt": "Teach the user the proper roux-making technique and how to achieve a smooth, lump-free gravy."
+  },
+  "timestamp": "2026-02-06T09:12:20.782Z"
+}

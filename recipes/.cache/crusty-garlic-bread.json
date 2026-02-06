@@ -1,0 +1,53 @@
+{
+  "contentHash": "26e5926b667ce606",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 tablespoons dried minced garlic",
+        "searchTerm": "dried minced garlic",
+        "normalizedName": "Dried Minced Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 loaf French bread, halved lengthwise",
+        "searchTerm": "French bread",
+        "normalizedName": "French Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Small bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Soften butter at room temperature for easy spreading",
+      "Toast under broiler for last 1-2 minutes to prevent burning the garlic",
+      "Use freshly minced garlic instead of dried for stronger flavor if preferred"
+    ],
+    "coachingPrompt": "This is a simple side dish. Would you like suggestions for varying the herbs or techniques to enhance the garlic flavor?"
+  },
+  "timestamp": "2026-02-06T04:46:51.003Z"
+}

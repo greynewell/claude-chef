@@ -1,0 +1,58 @@
+{
+  "contentHash": "66dd73fd0dc55819",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 ounces cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons sun-dried tomato pesto",
+        "searchTerm": "sun-dried tomato pesto",
+        "normalizedName": "Sun-Dried Tomato Pesto"
+      },
+      {
+        "ingredient": "3 (8 inch) whole wheat tortillas",
+        "searchTerm": "whole wheat tortillas",
+        "normalizedName": "Whole Wheat Tortilla"
+      },
+      {
+        "ingredient": "¼ cup sliced pepperoncini peppers, drained",
+        "searchTerm": "pepperoncini peppers",
+        "normalizedName": "Pepperoncini Pepper"
+      },
+      {
+        "ingredient": "¼ cup julienne-cut fresh basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      },
+      {
+        "ingredient": "15 slices salami",
+        "searchTerm": "salami",
+        "normalizedName": "Salami"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Spreading knife",
+        "searchTerm": "spreading knife"
+      },
+      {
+        "name": "Serrated knife for slicing",
+        "searchTerm": "serrated knife"
+      }
+    ],
+    "cookingTips": [
+      "Spread cream cheese evenly to the edges of each tortilla",
+      "Layer ingredients in same direction for uniform pinwheels when sliced",
+      "Chill for at least 1 hour before slicing for cleaner cuts"
+    ],
+    "coachingPrompt": "Walk me through assembling antipasto pinwheel sandwiches and tips for clean slicing"
+  },
+  "timestamp": "2026-02-05T21:35:27.034Z"
+}

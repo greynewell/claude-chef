@@ -1,0 +1,83 @@
+{
+  "contentHash": "12f2d1551c92a773",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons tahini",
+        "searchTerm": "tahini",
+        "normalizedName": "Tahini"
+      },
+      {
+        "ingredient": "2 tablespoons soybean oil (often labeled \"vegetable oil\")",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "3 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "2 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "2 teaspoons sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "8 cups thinly sliced kale, packed",
+        "searchTerm": "kale",
+        "normalizedName": "Kale"
+      },
+      {
+        "ingredient": "1 cucumber, peeled and sliced",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "½ cup chopped smoked almonds",
+        "searchTerm": "smoked almonds",
+        "normalizedName": "Smoked Almond"
+      },
+      {
+        "ingredient": "½ cup golden raisins",
+        "searchTerm": "golden raisins",
+        "normalizedName": "Golden Raisin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Whisk tahini with water first to prevent lumps before adding remaining dressing ingredients",
+      "Massage kale with a portion of dressing 10 minutes before serving to soften the leaves",
+      "Slice cucumber just before assembling to maintain crispness"
+    ],
+    "coachingPrompt": "Help the user achieve a smooth tahini dressing and understand how to properly massage kale for optimal texture."
+  },
+  "timestamp": "2026-02-06T10:33:56.218Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "7efa656c982300a9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound cubed beef stew meat",
+        "searchTerm": "beef stew meat",
+        "normalizedName": "Beef Stew Meat"
+      },
+      {
+        "ingredient": "3 cups cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¾ cup vinegar",
+        "searchTerm": "vinegar",
+        "normalizedName": "Vinegar"
+      },
+      {
+        "ingredient": "9 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "9 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "5 tablespoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Simmer the beef low and slow for 45-60 minutes until very tender",
+      "Mix cornstarch with cold water to create a slurry before adding to prevent lumps",
+      "Stir constantly while adding cornstarch mixture to achieve smooth, glossy sauce"
+    ],
+    "coachingPrompt": "Help the user understand how soy sauce adds umami depth and how to achieve the right sauce consistency."
+  },
+  "timestamp": "2026-02-06T19:58:42.452Z"
+}

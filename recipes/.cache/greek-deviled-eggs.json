@@ -1,0 +1,68 @@
+{
+  "contentHash": "26d12c934fc9a532",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¾ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¾ cup crumbled feta cheese, or to taste",
+        "searchTerm": "feta cheese crumbled",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "½ cup chopped fresh basil, or to taste",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      },
+      {
+        "ingredient": "1 tomato, diced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "10 black olives, diced",
+        "searchTerm": "black olives",
+        "normalizedName": "Black Olive"
+      },
+      {
+        "ingredient": "2 tablespoons balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "1 tablespoon ground black pepper, or to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot for boiling",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Piping bag",
+        "searchTerm": "piping bag"
+      },
+      {
+        "name": "Small spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Boil eggs for exactly 10 minutes, then ice bath immediately for easy peeling",
+      "Finely mince basil and olives so they distribute evenly in the filling",
+      "Pipe filling into egg white halves for a more elegant presentation"
+    ],
+    "coachingPrompt": "How can you achieve smooth, creamy filling without overmixing the ingredients?"
+  },
+  "timestamp": "2026-02-06T08:00:14.105Z"
+}

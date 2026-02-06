@@ -1,0 +1,72 @@
+{
+  "contentHash": "72bea63b2db14a9e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (6 ounce) package dry bread stuffing mix",
+        "searchTerm": "bread stuffing mix",
+        "normalizedName": "Bread Stuffing Mix"
+      },
+      {
+        "ingredient": "1 (12 ounce) package jumbo pasta shells",
+        "searchTerm": "jumbo pasta shells",
+        "normalizedName": "Pasta Shell"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of celery soup",
+        "searchTerm": "cream of celery soup",
+        "normalizedName": "Cream Of Celery Soup"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of chicken soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream Of Chicken Soup"
+      },
+      {
+        "ingredient": "2 (14 ounce) cans chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 pinch salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pinch garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 whole cooked chicken, boned and shredded",
+        "searchTerm": "cooked chicken",
+        "normalizedName": "Chicken"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook shells just until al dente to prevent them from breaking when stuffing and baking",
+      "Prepare stuffing according to package directions then cool before filling shells"
+    ],
+    "coachingPrompt": "Guide the user on properly stuffing shells without tearing and creating a balanced sauce."
+  },
+  "timestamp": "2026-02-06T02:43:10.410Z"
+}

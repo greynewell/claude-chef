@@ -1,0 +1,68 @@
+{
+  "contentHash": "1af6975dc4f38845",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ounces smoked Gouda cheese, shredded",
+        "searchTerm": "smoked Gouda cheese",
+        "normalizedName": "Smoked Gouda Cheese"
+      },
+      {
+        "ingredient": "4 slices bacon, cooked and crumbled",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "¼ cup chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 (2 1/4 inch thick) center-cut, bone-in pork chops",
+        "searchTerm": "bone-in pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "1 teaspoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "sharp knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Cut a pocket horizontally into the thickest part of each chop, being careful not to cut all the way through",
+      "Stuff loosely—overstuffing can cause filling to leak during cooking",
+      "Use a meat thermometer to ensure the center reaches 145°F without overcooking the exterior"
+    ],
+    "coachingPrompt": "Teach the user how to properly butterfly pork chops without cutting through them. Explain how quality ingredients like smoked Gouda elevate an simple dish."
+  },
+  "timestamp": "2026-02-06T15:05:33.537Z"
+}

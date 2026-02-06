@@ -1,0 +1,49 @@
+{
+  "contentHash": "876ab8fd44fc5145",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "1 (6 ounce) package dry bread stuffing mix",
+        "searchTerm": "stuffing mix",
+        "normalizedName": "Bread Stuffing Mix"
+      },
+      {
+        "ingredient": "8 slices deli turkey breast",
+        "searchTerm": "deli turkey",
+        "normalizedName": "Deli Turkey Breast"
+      },
+      {
+        "ingredient": "1 (12 ounce) jar turkey gravy",
+        "searchTerm": "turkey gravy",
+        "normalizedName": "Turkey Gravy"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Prepare stuffing per package directions, then cool slightly before rolling",
+      "Use thin deli slices to prevent tearing when rolling",
+      "Warm gravy separately and spoon over rolls before serving"
+    ],
+    "coachingPrompt": "How would you add vegetables or seasonings to the stuffing to elevate this simple roll-up?"
+  },
+  "timestamp": "2026-02-06T06:05:21.731Z"
+}

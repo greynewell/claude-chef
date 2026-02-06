@@ -1,0 +1,57 @@
+{
+  "contentHash": "68375a097c62193f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 large potatoes, peeled and sliced",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "14 slices Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "½ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 pinch salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 cup skim milk",
+        "searchTerm": "skim milk",
+        "normalizedName": "Skim Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "Mandoline slicer",
+        "searchTerm": "mandoline slicer"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Slice potatoes uniformly for even cooking",
+      "Layer cheese between potato layers for better distribution"
+    ],
+    "coachingPrompt": "Guide the user through layering potatoes and cheese, and advise on oven temperature and covered vs uncovered baking times."
+  },
+  "timestamp": "2026-02-06T05:59:34.204Z"
+}

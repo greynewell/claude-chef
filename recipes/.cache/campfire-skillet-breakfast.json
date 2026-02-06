@@ -1,0 +1,53 @@
+{
+  "contentHash": "29a3cdf50adba4b6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound sliced bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "4 cups potatoes, peeled and cubed",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "½ onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "6 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cast iron skillet",
+        "searchTerm": "cast iron skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Pre-cook potatoes slightly to ensure they're tender by serving time",
+      "Use a cast iron skillet for even heat distribution over campfire",
+      "Add cheese at the end for best melting results"
+    ],
+    "coachingPrompt": "This one-skillet breakfast is perfect for camping. What technique would help you manage cooking times with variable heat from a campfire?"
+  },
+  "timestamp": "2026-02-06T01:17:46.057Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "007b31302328da45",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 serving cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 (18.25 ounce) package orange cake mix (such as Duncan Hines® Orange Supreme)",
+        "searchTerm": "orange cake mix",
+        "normalizedName": "Orange Cake Mix"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 large eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅓ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 (1.5 quart) container vanilla ice cream",
+        "searchTerm": "vanilla ice cream",
+        "normalizedName": "Vanilla Ice Cream"
+      },
+      {
+        "ingredient": "1 (12 ounce) container frozen whipped topping, thawed",
+        "searchTerm": "whipped topping",
+        "normalizedName": "Whipped Topping"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cake pans",
+        "searchTerm": "cake pans"
+      },
+      {
+        "name": "Electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "Offset spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Bake cake layers according to package directions and cool completely before assembling",
+      "Soften ice cream slightly for easier spreading but keep it cold",
+      "Layer cake, ice cream, and whipped topping, then freeze until assembly is complete"
+    ],
+    "coachingPrompt": "I'm making a Creamsicle ice cream cake. Should I freeze the cake after each layer, or all at once?"
+  },
+  "timestamp": "2026-02-06T04:19:52.026Z"
+}

@@ -1,0 +1,77 @@
+{
+  "contentHash": "87c955a2f7d98d76",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup uncooked white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup frozen green peas",
+        "searchTerm": "frozen peas",
+        "normalizedName": "Frozen Pea"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "⅛ pound crabmeat",
+        "searchTerm": "crab meat",
+        "normalizedName": "Crab Meat"
+      },
+      {
+        "ingredient": "2 ounces green bell pepper, diced",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": ".166 cup chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": ".166 cup 1% milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "⅛ cup grated fat-free Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Mixing spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook rice separately before combining with crab mixture for better texture control",
+      "Add crab at the end to avoid breaking up the meat"
+    ],
+    "coachingPrompt": "Guide the user on timing and technique to keep crab meat intact while creating a well-integrated rice dish."
+  },
+  "timestamp": "2026-02-06T04:03:50.217Z"
+}

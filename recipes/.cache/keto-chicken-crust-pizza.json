@@ -1,0 +1,68 @@
+{
+  "contentHash": "ea839269a5e0a007",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground chicken",
+        "searchTerm": "ground chicken",
+        "normalizedName": "Ground Chicken"
+      },
+      {
+        "ingredient": "½ cup mozzarella cheese, shredded",
+        "searchTerm": "mozzarella cheese shredded",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "¼ cup freshly grated Parmesan cheese",
+        "searchTerm": "parmesan cheese grated",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic minced",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon Italian seasoning",
+        "searchTerm": "italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh basil",
+        "searchTerm": "basil fresh",
+        "normalizedName": "Basil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pizza stone or baking sheet",
+        "searchTerm": "pizza stone"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Press chicken mixture into thin, even crust on pizza stone for consistent cooking",
+      "Pre-bake crust at 400°F for 10 minutes before adding toppings to prevent soggy base",
+      "Add toppings after pre-baking and return to oven for 5-10 minutes until heated through"
+    ],
+    "coachingPrompt": "Do you prefer a thicker, more dough-like crust or a thinner, crispier one? Thickness affects cooking time."
+  },
+  "timestamp": "2026-02-06T10:41:12.045Z"
+}

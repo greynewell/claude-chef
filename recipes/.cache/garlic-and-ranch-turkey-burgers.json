@@ -1,0 +1,63 @@
+{
+  "contentHash": "d09529417bf30185",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground turkey",
+        "searchTerm": "ground turkey",
+        "normalizedName": "Ground Turkey"
+      },
+      {
+        "ingredient": "1 (1 ounce) package ranch dressing mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Ranch Dressing Mix"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "¼ cup Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "seasoned salt and pepper to taste",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      },
+      {
+        "ingredient": "seasoned salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "grill or skillet",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "instant-read thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Ground turkey is leaner; don't overmix to keep burgers tender",
+      "Cook to 165°F for food safety with poultry",
+      "Turkey dries out easily; avoid pressing burgers while cooking"
+    ],
+    "coachingPrompt": "Turkey burgers are a lighter option than beef. How would you prevent them from drying out, and what toppings balance their leaner flavor?"
+  },
+  "timestamp": "2026-02-06T07:15:56.553Z"
+}

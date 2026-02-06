@@ -1,0 +1,49 @@
+{
+  "contentHash": "ebd2ed85adfc5be6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10  whole wheat flour tortillas",
+        "searchTerm": "whole wheat tortillas",
+        "normalizedName": "Whole Wheat Tortilla"
+      },
+      {
+        "ingredient": "10 slices smoked turkey, cut into thin strips",
+        "searchTerm": "smoked turkey",
+        "normalizedName": "Smoked Turkey"
+      },
+      {
+        "ingredient": "1  avocado - peeled, pitted and sliced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "½ cup sour cream, for topping",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "½ cup Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Serrated knife",
+        "searchTerm": "serrated knife"
+      }
+    ],
+    "cookingTips": [
+      "Warm tortillas slightly before filling to improve pliability and prevent tearing",
+      "Add avocado just before serving to prevent browning and oxidation",
+      "Layer ingredients strategically with protein in the center for easier rolling"
+    ],
+    "coachingPrompt": "What's the best way to prevent tortillas from tearing? How should you arrange ingredients for easy rolling?"
+  },
+  "timestamp": "2026-02-06T18:25:38.940Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "e2d96aefe3f17f70",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 carrots, peeled and sliced",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar sliced jalapeno peppers, with liquid",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "2 onions, thinly sliced",
+        "searchTerm": "onions",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cup vinegar",
+        "searchTerm": "vinegar",
+        "normalizedName": "Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mason jar",
+        "searchTerm": "mason jar"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Slice carrots uniformly for even cooking and texture",
+      "Use the liquid from jarred jalapenos for added flavor",
+      "Store in refrigerator and serve chilled as a condiment"
+    ],
+    "coachingPrompt": "Guide the user through layering prepared vegetables in a jar, heating vinegar with jalapeno liquid, pouring over vegetables, and refrigerating for pickling."
+  },
+  "timestamp": "2026-02-06T12:19:44.977Z"
+}

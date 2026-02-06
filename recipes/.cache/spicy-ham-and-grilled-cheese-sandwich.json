@@ -1,0 +1,53 @@
+{
+  "contentHash": "953e07d2d798e1c8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices Swiss cheese",
+        "searchTerm": "swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "2 slices deli ham",
+        "searchTerm": "deli ham",
+        "normalizedName": "Deli Ham"
+      },
+      {
+        "ingredient": "1 green chile pepper",
+        "searchTerm": "green chile pepper",
+        "normalizedName": "Green Chile Pepper"
+      },
+      {
+        "ingredient": "2 slices rye bread",
+        "searchTerm": "rye bread",
+        "normalizedName": "Rye Bread"
+      },
+      {
+        "ingredient": "1 tablespoon butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Butter bread on outside surfaces only for even toasting",
+      "Medium heat prevents burning bread before cheese melts",
+      "Press gently with spatula to help cheese melt evenly"
+    ],
+    "coachingPrompt": "What's the best way to ensure the cheese melts while the bread toasts evenly?"
+  },
+  "timestamp": "2026-02-06T19:02:12.221Z"
+}

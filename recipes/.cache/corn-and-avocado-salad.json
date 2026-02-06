@@ -1,0 +1,73 @@
+{
+  "contentHash": "6f7067abf9cbdb5a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 heads butterhead lettuce",
+        "searchTerm": "butterhead lettuce",
+        "normalizedName": "Butterhead Lettuce"
+      },
+      {
+        "ingredient": "1 red bell pepper, chopped",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 bunch green onions, chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "4 ears sweet corn, cut off the cob",
+        "searchTerm": "corn kernels",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "2 avocados - peeled, seeded and cubed",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "⅔ cup red wine and vinegar salad dressing",
+        "searchTerm": "red wine vinegar dressing",
+        "normalizedName": "Red Wine Vinegar Dressing"
+      },
+      {
+        "ingredient": "3 tablespoons blue cheese salad dressing",
+        "searchTerm": "blue cheese dressing",
+        "normalizedName": "Blue Cheese Dressing"
+      },
+      {
+        "ingredient": "2 tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Salad Bowl",
+        "searchTerm": "salad bowl"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "salad tongs"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then crumble to add at the last moment",
+      "Assemble salad just before serving to keep lettuce crisp",
+      "Toss gently to avoid bruising avocado pieces"
+    ],
+    "coachingPrompt": "Do you want a single dressing or the combination of both for complex flavors?"
+  },
+  "timestamp": "2026-02-06T03:50:59.496Z"
+}

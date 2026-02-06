@@ -1,0 +1,52 @@
+{
+  "contentHash": "e6eb7215ca25f66b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (18.25 ounce) package white cake mix",
+        "searchTerm": "white cake mix",
+        "normalizedName": "White Cake Mix"
+      },
+      {
+        "ingredient": "1 (3 ounce) package fruit flavored Jell-O® mix",
+        "searchTerm": "fruit flavored Jell-O",
+        "normalizedName": "Fruit Flavored Jello"
+      },
+      {
+        "ingredient": "1 cup boiling water",
+        "searchTerm": "boiling water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (21 ounce) can cherry pie filling",
+        "searchTerm": "cherry pie filling",
+        "normalizedName": "Cherry Pie Filling"
+      },
+      {
+        "ingredient": "1 (16 ounce) container frozen whipped topping, thawed",
+        "searchTerm": "whipped topping",
+        "normalizedName": "Whipped Topping"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Poke holes while the cake is warm to maximize Jell-O absorption",
+      "Use cherry pie filling for added moisture and a professional presentation"
+    ],
+    "coachingPrompt": "How does cherry pie filling differ from using Jell-O alone? What visual cues show proper Jell-O absorption?"
+  },
+  "timestamp": "2026-02-06T14:58:10.884Z"
+}

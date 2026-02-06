@@ -1,0 +1,67 @@
+{
+  "contentHash": "56bd543888b64fc4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 pounds chicken",
+        "searchTerm": "whole chicken",
+        "normalizedName": "Chicken"
+      },
+      {
+        "ingredient": "7 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 large onion, halved",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 stalks celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "3 carrots, cut into 2 inch pieces",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 bay leaf",
+        "searchTerm": "bay leaves",
+        "normalizedName": "Bay Leaf"
+      },
+      {
+        "ingredient": "1 teaspoon grated fresh ginger",
+        "searchTerm": "fresh ginger",
+        "normalizedName": "Ginger"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Fine mesh strainer",
+        "searchTerm": "strainer"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Simmer gently rather than boiling to keep stock clear and clean-tasting",
+      "Skim fat and impurities from the surface during the first 30 minutes of cooking"
+    ],
+    "coachingPrompt": "Guide the user on gentle simmering technique and proper straining for a clear, flavorful homemade stock."
+  },
+  "timestamp": "2026-02-06T02:43:10.409Z"
+}

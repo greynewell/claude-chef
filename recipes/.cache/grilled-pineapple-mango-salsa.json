@@ -1,0 +1,67 @@
+{
+  "contentHash": "7e92abdde8b9a2fd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 slices fresh pineapple",
+        "searchTerm": "fresh pineapple",
+        "normalizedName": "Fresh Pineapple"
+      },
+      {
+        "ingredient": "1 red bell pepper",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 jalapeno pepper",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "2 large mangos, peeled, seeded, and diced",
+        "searchTerm": "mango",
+        "normalizedName": "Mango"
+      },
+      {
+        "ingredient": "1 small red onion, diced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "¼ cup chopped cilantro",
+        "searchTerm": "fresh cilantro",
+        "normalizedName": "Fresh Cilantro"
+      },
+      {
+        "ingredient": "1 lime, juiced",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "½ teaspoon lime zest",
+        "searchTerm": "lime zest",
+        "normalizedName": "Lime Zest"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "sharp knife"
+      },
+      {
+        "name": "bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Grill pineapple slices for 2-3 minutes per side to caramelize slightly",
+      "Dice grilled pineapple and combine with other ingredients just before serving"
+    ],
+    "coachingPrompt": "How does grilling the pineapple change its flavor compared to using it raw?"
+  },
+  "timestamp": "2026-02-06T08:22:04.024Z"
+}

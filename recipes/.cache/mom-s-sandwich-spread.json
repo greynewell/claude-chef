@@ -1,0 +1,48 @@
+{
+  "contentHash": "5422d70a7e77acc6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound bologna, ground",
+        "searchTerm": "bologna",
+        "normalizedName": "Bologna"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon light corn syrup",
+        "searchTerm": "corn syrup",
+        "normalizedName": "Corn Syrup"
+      },
+      {
+        "ingredient": "2 tablespoons sweet pickle relish",
+        "searchTerm": "sweet pickle relish",
+        "normalizedName": "Sweet Pickle Relish"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food grinder or food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spoon for stirring",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Ground bologna creates a better texture than sliced",
+      "The corn syrup adds subtle sweetness and binding",
+      "Store in an airtight container in the refrigerator"
+    ],
+    "coachingPrompt": "Help the user create a smooth, well-balanced sandwich spread with proper grinding and mixing."
+  },
+  "timestamp": "2026-02-06T12:45:08.412Z"
+}

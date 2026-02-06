@@ -1,0 +1,49 @@
+{
+  "contentHash": "1e1fd06701e19902",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 medium beets, trimmed and scrubbed",
+        "searchTerm": "beets",
+        "normalizedName": "Beet"
+      },
+      {
+        "ingredient": "2 tablespoons aged balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "2 teaspoons real maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "sheet pan",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Wrap beets individually in foil for even cooking and easy cleanup",
+      "Roast at 400°F for 45-60 minutes until fork-tender",
+      "Peel beets while warm using a paper towel for easier removal of skin"
+    ],
+    "coachingPrompt": "Why does roasting beets in foil improve their texture and make peeling easier?"
+  },
+  "timestamp": "2026-02-06T16:20:12.483Z"
+}

@@ -1,0 +1,83 @@
+{
+  "contentHash": "a09dc2be76bc4564",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 ½ cups Swanson® Chicken Broth or Swanson® Natural Goodness® Chicken Broth or Swanson® Certified Organic Chicken Broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 teaspoon soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon ground ginger",
+        "searchTerm": "ginger",
+        "normalizedName": "Ground Ginger"
+      },
+      {
+        "ingredient": "1 dash black pepper",
+        "searchTerm": "pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 medium carrot, sliced diagonally",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 stalk celery, sliced diagonally",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "½ red bell pepper, cut into 2-inch-long strips",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "2 green onions, sliced diagonally",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "4 ounces broken-up uncooked ramen noodles",
+        "searchTerm": "ramen noodles",
+        "normalizedName": "Ramen Noodle"
+      },
+      {
+        "ingredient": "1 cup cooked, shredded boneless, skinless chicken breast meat",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use pre-cooked rotisserie chicken to save time",
+      "Add noodles toward the end so they don't get mushy",
+      "Cut vegetables on the bias for quicker cooking"
+    ],
+    "coachingPrompt": "Guide the user on timing vegetable additions based on cooking time for a balanced soup."
+  },
+  "timestamp": "2026-02-06T15:53:47.041Z"
+}

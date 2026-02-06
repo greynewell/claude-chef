@@ -1,0 +1,48 @@
+{
+  "contentHash": "6dd966062631be47",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (5 pound) standing beef rib roast",
+        "searchTerm": "beef rib roast",
+        "normalizedName": "Beef Rib Roast"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "instant-read thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "meat resting thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Let the roast sit at room temperature for 1-2 hours before roasting for even cooking",
+      "Start roasting at high temperature (450°F) for 15 minutes, then reduce to 325°F to ensure a golden crust and pink center",
+      "Use a meat thermometer: 125°F for rare, 135°F for medium-rare; it will rise 5 degrees while resting"
+    ],
+    "coachingPrompt": "Guide the cook through the reverse-sear method for perfectly cooked rib roast with a golden exterior and tender, juicy meat."
+  },
+  "timestamp": "2026-02-06T06:50:39.452Z"
+}

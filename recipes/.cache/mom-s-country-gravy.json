@@ -1,0 +1,53 @@
+{
+  "contentHash": "0a95d99648d9438c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "¾ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 cups milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Create a smooth roux by whisking flour and oil together before adding milk",
+      "Add milk gradually while stirring to avoid lumps",
+      "Simmer until gravy thickens, about 5-10 minutes"
+    ],
+    "coachingPrompt": "Walk the user through making a proper roux and the importance of temperature control to achieve silky, lump-free gravy."
+  },
+  "timestamp": "2026-02-06T12:43:13.316Z"
+}

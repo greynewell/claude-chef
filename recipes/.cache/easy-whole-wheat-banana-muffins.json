@@ -1,0 +1,58 @@
+{
+  "contentHash": "79ef070458d87473",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup mashed bananas",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "1 cup creamy salad dressing (such as Miracle Whip®)",
+        "searchTerm": "salad dressing",
+        "normalizedName": "Salad Dressing"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 cups whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "2 teaspoons baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "muffin tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Use very ripe bananas for maximum sweetness and moisture",
+      "The salad dressing acts as an emulsifier and moisture provider",
+      "Bake until a toothpick inserted comes out clean"
+    ],
+    "coachingPrompt": "Why does this recipe use salad dressing instead of traditional oil or butter?"
+  },
+  "timestamp": "2026-02-06T06:07:16.210Z"
+}

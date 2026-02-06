@@ -1,0 +1,69 @@
+{
+  "contentHash": "08237b15ebba9e94",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (7 ounce) box Spanish yellow rice mix (such as Goya®)",
+        "searchTerm": "Spanish yellow rice mix",
+        "normalizedName": "Spanish Yellow Rice Mix"
+      },
+      {
+        "ingredient": "3 tablespoons olive oil, divided",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ cup diced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 pound uncooked medium shrimp, peeled and deveined",
+        "searchTerm": "medium shrimp",
+        "normalizedName": "Medium Shrimp"
+      },
+      {
+        "ingredient": "1 green bell pepper, diced",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 red bell pepper, diced",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon sweet and spicy seafood seasoning (such as McCormick®)",
+        "searchTerm": "seafood seasoning",
+        "normalizedName": "Seafood Seasoning"
+      },
+      {
+        "ingredient": "½ cup fresh parsley, or to taste",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook rice completely before adding shrimp to ensure proper timing",
+      "Sauté peppers and onions until softened before adding shrimp",
+      "Add shrimp at the end and cook just until pink; they finish cooking with residual heat"
+    ],
+    "coachingPrompt": "Help me combine Spanish rice with shrimp properly so both are cooked perfectly without shrimp becoming rubbery."
+  },
+  "timestamp": "2026-02-06T18:49:29.101Z"
+}

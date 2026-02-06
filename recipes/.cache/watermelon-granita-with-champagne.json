@@ -1,0 +1,48 @@
+{
+  "contentHash": "e65b37adb74b734d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds watermelon, seeded and cubed",
+        "searchTerm": "watermelon",
+        "normalizedName": "Watermelon"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup champagne",
+        "searchTerm": "champagne",
+        "normalizedName": "Champagne"
+      },
+      {
+        "ingredient": "4 slices watermelon",
+        "searchTerm": "watermelon",
+        "normalizedName": "Watermelon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "shallow baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Blend watermelon until completely smooth, then strain through fine-mesh sieve for silky texture",
+      "Freeze mixture for 1 hour, then scrape with fork every 30 minutes for 3-4 hours total",
+      "Add champagne after initial freezing to prevent alcohol from interfering with crystallization"
+    ],
+    "coachingPrompt": "How can I get the granita to have the right icy texture without it becoming a solid block?"
+  },
+  "timestamp": "2026-02-06T21:59:14.867Z"
+}

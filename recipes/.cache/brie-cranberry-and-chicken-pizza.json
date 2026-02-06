@@ -1,0 +1,58 @@
+{
+  "contentHash": "00b761973c7b4311",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 (12 inch) prepared pizza crust",
+        "searchTerm": "pizza crust",
+        "normalizedName": "Pizza Crust"
+      },
+      {
+        "ingredient": "1 ½ cups cranberry sauce",
+        "searchTerm": "cranberry sauce",
+        "normalizedName": "Cranberry Sauce"
+      },
+      {
+        "ingredient": "6 ounces Brie cheese, chopped",
+        "searchTerm": "brie cheese",
+        "normalizedName": "Brie Cheese"
+      },
+      {
+        "ingredient": "8 ounces shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "pizza pan or baking sheet",
+        "searchTerm": "pizza pan"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Slice or dice the cooked chicken into bite-sized pieces for even distribution",
+      "Spread cranberry sauce as the base instead of traditional tomato sauce for a sweet-savory flavor",
+      "Layer mozzarella before adding Brie to create a stable cheese base"
+    ],
+    "coachingPrompt": "This pizza has sweet and savory flavors. Do you prefer more cranberry tang, or would you like to balance it differently?"
+  },
+  "timestamp": "2026-02-06T00:39:32.892Z"
+}

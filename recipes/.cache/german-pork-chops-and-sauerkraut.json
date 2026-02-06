@@ -1,0 +1,57 @@
+{
+  "contentHash": "fdb852b75b363cb7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 center cut pork chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "2 pounds sauerkraut, drained",
+        "searchTerm": "sauerkraut",
+        "normalizedName": "Sauerkraut"
+      },
+      {
+        "ingredient": "1 large red apple, diced",
+        "searchTerm": "red apple",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon caraway seeds",
+        "searchTerm": "caraway seeds",
+        "normalizedName": "Caraway Seed"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Sear pork chops before combining with sauerkraut for better flavor development",
+      "The apple adds sweetness and acidity to balance the sauerkraut's tanginess"
+    ],
+    "coachingPrompt": "Help the user layer sauerkraut, apples, and seasonings with pork chops, explaining how brown sugar sweetens the dish."
+  },
+  "timestamp": "2026-02-06T07:25:48.711Z"
+}

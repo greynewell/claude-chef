@@ -1,0 +1,53 @@
+{
+  "contentHash": "aadaaf2273b0926e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 pound bacon, cubed",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 cups white wine vinegar",
+        "searchTerm": "white wine vinegar",
+        "normalizedName": "White Wine Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes uniformly for even cooking time",
+      "Brown bacon and onions together to build flavor base",
+      "Toss warm potatoes with warm vinegar mixture to maximize absorption"
+    ],
+    "coachingPrompt": "Help the user balance sweetness with acidity and suggest this salad can be served warm or at room temperature."
+  },
+  "timestamp": "2026-02-06T09:30:05.080Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "485aad8347f7c4eb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 head cauliflower, cut into thick slices",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "2 teaspoons seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill basket",
+        "searchTerm": "grill basket"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Cut cauliflower into thick slices to prevent pieces from breaking apart",
+      "Brush generously with oil-sugar mixture to encourage caramelization",
+      "Watch carefully as sugar can burn; use medium heat"
+    ],
+    "coachingPrompt": "How does brown sugar caramelize on the grill? What texture changes occur in the cauliflower?"
+  },
+  "timestamp": "2026-02-06T08:11:12.958Z"
+}

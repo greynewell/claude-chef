@@ -1,0 +1,57 @@
+{
+  "contentHash": "9a188bedade41aff",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup almond butter",
+        "searchTerm": "almond butter",
+        "normalizedName": "Almond Butter"
+      },
+      {
+        "ingredient": "1 tablespoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "4 tablespoons sliced almonds",
+        "searchTerm": "sliced almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "4 tablespoons raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      },
+      {
+        "ingredient": "8 slices whole-grain bread",
+        "searchTerm": "whole-grain bread",
+        "normalizedName": "Whole-Grain Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "small bowl",
+        "searchTerm": "small bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Mix almond butter with honey and cinnamon for uniform flavor",
+      "Toast bread lightly for better texture and flavor contrast"
+    ],
+    "coachingPrompt": "Help the user understand flavor balance between almond butter, spices, and dried fruit in this sandwich."
+  },
+  "timestamp": "2026-02-05T21:55:19.470Z"
+}

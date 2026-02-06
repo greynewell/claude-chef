@@ -1,0 +1,53 @@
+{
+  "contentHash": "e1ab544d3ef6bd51",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 fluid ounce spiced rum (such as Sailor Jerry®)",
+        "searchTerm": "spiced rum",
+        "normalizedName": "Spiced Rum"
+      },
+      {
+        "ingredient": "1 fluid ounce butterscotch schnapps",
+        "searchTerm": "butterscotch schnapps",
+        "normalizedName": "Butterscotch Schnapps"
+      },
+      {
+        "ingredient": "½ teaspoon imitation butter flavoring",
+        "searchTerm": "butter flavoring",
+        "normalizedName": "Butter Flavoring"
+      },
+      {
+        "ingredient": "1 (12 fluid ounce) can or bottle cream soda",
+        "searchTerm": "cream soda",
+        "normalizedName": "Cream Soda"
+      },
+      {
+        "ingredient": "1 small scoop vanilla ice cream (Optional)",
+        "searchTerm": "vanilla ice cream",
+        "normalizedName": "Vanilla Ice Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Measuring Jigger",
+        "searchTerm": "jigger"
+      },
+      {
+        "name": "Glass",
+        "searchTerm": "glass"
+      },
+      {
+        "name": "Stirring Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Pour spirits into glass first, then add butter flavoring and stir well",
+      "Top with cold cream soda and stir gently",
+      "Add vanilla ice cream scoop on top for indulgent float-style beverage"
+    ],
+    "coachingPrompt": "Help the user create a sweet, butterscotch-forward cocktail by layering rum, schnapps, and cream soda, topped optionally with ice cream."
+  },
+  "timestamp": "2026-02-06T12:05:02.256Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "b2d135a66ea19146",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ tablespoons fresh rosemary",
+        "searchTerm": "fresh rosemary",
+        "normalizedName": "Fresh Rosemary"
+      },
+      {
+        "ingredient": "2 teaspoons garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "½ teaspoon dried thyme",
+        "searchTerm": "dried thyme",
+        "normalizedName": "Dried Thyme"
+      },
+      {
+        "ingredient": "¼ teaspoon freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "3 pounds boneless pork loin roast",
+        "searchTerm": "pork loin roast",
+        "normalizedName": "Pork Loin Roast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "instant-read thermometer"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Rub the herb mixture over the entire surface of the roast and let it sit for at least 30 minutes for flavor to penetrate",
+      "Use a meat thermometer to ensure the pork reaches 145°F for food safety without overcooking",
+      "Let the roast rest for 10 minutes after cooking to redistribute juices and keep the meat tender"
+    ],
+    "coachingPrompt": "What temperature and cooking time will give you a perfectly juicy pork roast?"
+  },
+  "timestamp": "2026-02-06T17:52:30.828Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "dcd14e551887ecd0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 cups fresh rhubarb, chopped",
+        "searchTerm": "rhubarb",
+        "normalizedName": "Rhubarb"
+      },
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 (6 ounce) can frozen orange juice concentrate, thawed",
+        "searchTerm": "orange juice concentrate",
+        "normalizedName": "Orange Juice Concentrate"
+      },
+      {
+        "ingredient": "1 (6 ounce) can frozen lemonade concentrate, thawed",
+        "searchTerm": "lemonade concentrate",
+        "normalizedName": "Lemonade Concentrate"
+      },
+      {
+        "ingredient": "1 cup gin (Optional)",
+        "searchTerm": "gin",
+        "normalizedName": "Gin"
+      },
+      {
+        "ingredient": "3 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (2 liter) bottle lemon-lime flavored carbonated beverage, chilled",
+        "searchTerm": "lemon-lime soda",
+        "normalizedName": "Lemon-Lime Soda"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "freezer containers",
+        "searchTerm": "freezer container"
+      },
+      {
+        "name": "ice cream scoop",
+        "searchTerm": "scoop"
+      }
+    ],
+    "cookingTips": [
+      "Cook rhubarb down until completely soft and broken down",
+      "Freeze mixture until slushy, about 4-6 hours, stirring occasionally",
+      "Scoop into glasses and top with chilled soda just before serving"
+    ],
+    "coachingPrompt": "Do you prefer a completely frozen slush or a partially frozen drink with liquid?"
+  },
+  "timestamp": "2026-02-06T16:12:04.554Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "847b5bdbdb28d191",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups Original Bisquick® mix",
+        "searchTerm": "baking mix",
+        "normalizedName": "Baking Mix"
+      },
+      {
+        "ingredient": "⅔ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "⅓ cup sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¾ cup fresh or frozen (thawed and drained) blueberries",
+        "searchTerm": "blueberries",
+        "normalizedName": "Blueberry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "muffin tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "muffin cups",
+        "searchTerm": "muffin liners"
+      }
+    ],
+    "cookingTips": [
+      "Toss thawed frozen blueberries in a bit of dry mix before folding to prevent sinking",
+      "Fill muffin cups about two-thirds full for even baking"
+    ],
+    "coachingPrompt": "This is a quick Bisquick muffin recipe. Guide on preventing blueberries from sinking and the importance of proper draining if using frozen."
+  },
+  "timestamp": "2026-02-06T00:09:43.511Z"
+}

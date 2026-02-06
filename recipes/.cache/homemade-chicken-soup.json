@@ -1,0 +1,68 @@
+{
+  "contentHash": "6d489d90ccc34969",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (3 pound) whole chicken",
+        "searchTerm": "whole chicken",
+        "normalizedName": "Chicken"
+      },
+      {
+        "ingredient": "4 carrots, halved",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "4 stalks celery, halved",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 large onion, halved",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "water to cover",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon chicken bouillon granules (Optional)",
+        "searchTerm": "chicken bouillon",
+        "normalizedName": "Chicken Bouillon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Stockpot",
+        "searchTerm": "stockpot"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use whole chicken with skin and bones for maximum flavor and richness",
+      "Simmer gently for 1.5-2 hours to extract collagen and build rich broth",
+      "Skim impurities from surface during first 15 minutes of simmering for clear broth"
+    ],
+    "coachingPrompt": "Help the user understand the importance of low and slow simmering for extracting maximum flavor and creating silky broth."
+  },
+  "timestamp": "2026-02-06T09:12:20.783Z"
+}

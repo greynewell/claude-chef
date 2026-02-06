@@ -1,0 +1,63 @@
+{
+  "contentHash": "5720db9cbd323b83",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "4 cloves crushed garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "6 (3/4 inch) thick pork chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "⅓ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can fat-free chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 tablespoon browning sauce",
+        "searchTerm": "browning sauce",
+        "normalizedName": "Browning Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Flour-coat pork chops before browning for better crust",
+      "Don't move chops around while cooking - let them develop color",
+      "Simmer gently in broth until pork reaches 145°F internal temperature"
+    ],
+    "coachingPrompt": "How thick are your pork chops? Thicker chops will need longer cooking time - should I adjust the recipe?"
+  },
+  "timestamp": "2026-02-06T18:27:41.620Z"
+}

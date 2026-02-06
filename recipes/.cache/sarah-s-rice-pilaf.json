@@ -1,0 +1,57 @@
+{
+  "contentHash": "4e2b9991708b4cda",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup orzo pasta",
+        "searchTerm": "orzo",
+        "normalizedName": "Orzo"
+      },
+      {
+        "ingredient": "½ cup diced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ cup uncooked white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "2 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan with lid",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Measuring cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Toast orzo in butter until golden to add nutty depth to the pilaf",
+      "Use a lid to trap steam and cook rice evenly without peeking during simmering"
+    ],
+    "coachingPrompt": "Help the user master the technique of toasting orzo pasta first and building a fragrant rice pilaf with proper liquid-to-grain ratios."
+  },
+  "timestamp": "2026-02-06T16:55:39.151Z"
+}

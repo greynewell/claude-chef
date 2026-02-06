@@ -1,0 +1,44 @@
+{
+  "contentHash": "0db91a865e945f28",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (1.5 ounce) bar milk chocolate candy bar",
+        "searchTerm": "milk chocolate bar",
+        "normalizedName": "Milk Chocolate"
+      },
+      {
+        "ingredient": "6 sugar cones",
+        "searchTerm": "sugar cones",
+        "normalizedName": "Sugar Cone"
+      },
+      {
+        "ingredient": "¾ cup mini marshmallows",
+        "searchTerm": "mini marshmallows",
+        "normalizedName": "Marshmallow"
+      },
+      {
+        "ingredient": "6 sheets aluminum foil",
+        "searchTerm": "aluminum foil",
+        "normalizedName": "Aluminum Foil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "campfire grill grate",
+        "searchTerm": "grill grate"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Wrap cones tightly in foil to prevent burning and contain drips",
+      "Heat over medium coals, not direct flame, for even cooking",
+      "Rotate cones frequently for uniform melting"
+    ],
+    "coachingPrompt": "What's the best technique for cooking these s'more cones over a campfire?"
+  },
+  "timestamp": "2026-02-06T16:41:06.396Z"
+}

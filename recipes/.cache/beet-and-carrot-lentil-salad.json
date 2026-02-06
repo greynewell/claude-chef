@@ -1,0 +1,78 @@
+{
+  "contentHash": "c1ec08e14aed8668",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 small beets, greens removed",
+        "searchTerm": "beets",
+        "normalizedName": "Beet"
+      },
+      {
+        "ingredient": "3 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup French lentils",
+        "searchTerm": "french lentils",
+        "normalizedName": "French Lentil"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "5 vine-ripened tomatoes, chopped",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "4 carrots, shredded",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "½ bunch fresh cilantro, finely chopped",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "5 green onions, chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "3 lemons, zested and juiced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Salad bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook lentils and beets separately to prevent beet color from bleeding into lentils",
+      "Use French lentils as they hold their shape better than brown lentils",
+      "Assemble salad just before serving for freshest presentation and texture"
+    ],
+    "coachingPrompt": "How do I prevent the beets from turning the entire salad red?"
+  },
+  "timestamp": "2026-02-05T23:50:19.929Z"
+}

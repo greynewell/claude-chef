@@ -1,0 +1,63 @@
+{
+  "contentHash": "e93f549df00170ff",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 frozen breaded chicken patties",
+        "searchTerm": "frozen breaded chicken patties",
+        "normalizedName": "Frozen Breaded Chicken Patty"
+      },
+      {
+        "ingredient": "2 tablespoons garlic butter",
+        "searchTerm": "garlic butter",
+        "normalizedName": "Garlic Butter"
+      },
+      {
+        "ingredient": "4 slices Italian bread",
+        "searchTerm": "Italian bread",
+        "normalizedName": "Italian Bread"
+      },
+      {
+        "ingredient": "1 cup marinara sauce",
+        "searchTerm": "marinara sauce",
+        "normalizedName": "Marinara Sauce"
+      },
+      {
+        "ingredient": "½ teaspoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "1 pinch garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "6 thin slices provolone cheese",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons shredded Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Heat the skillet to medium heat and butter the bread before grilling for even toasting",
+      "Warm the marinara sauce separately to keep the bread from getting soggy"
+    ],
+    "coachingPrompt": "How would you ensure the chicken patties are heated through while still getting a crispy grilled exterior on the bread?"
+  },
+  "timestamp": "2026-02-06T11:04:10.766Z"
+}

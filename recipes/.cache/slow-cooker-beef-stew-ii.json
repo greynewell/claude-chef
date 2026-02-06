@@ -1,0 +1,43 @@
+{
+  "contentHash": "7bee86b7e7221b11",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds stew meat, trimmed and cubed",
+        "searchTerm": "beef stew meat",
+        "normalizedName": "Beef Stew Meat"
+      },
+      {
+        "ingredient": "3 (10.75 ounce) cans condensed cream of chicken soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream Of Chicken Soup"
+      },
+      {
+        "ingredient": "1 (16 ounce) package egg noodles",
+        "searchTerm": "egg noodles",
+        "normalizedName": "Egg Noodle"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Large Pot",
+        "searchTerm": "cooking pot"
+      },
+      {
+        "name": "Measuring Cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Cook egg noodles separately and add just before serving to prevent them from becoming mushy",
+      "Cook on low for 6-7 hours until beef is very tender",
+      "Stir occasionally and adjust seasoning to taste"
+    ],
+    "coachingPrompt": "Should I brown the meat first, and how do I time the noodles so they don't overcook?"
+  },
+  "timestamp": "2026-02-06T18:05:15.285Z"
+}

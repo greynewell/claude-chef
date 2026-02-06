@@ -1,0 +1,44 @@
+{
+  "contentHash": "a8652745528041fb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 teaspoons curry powder",
+        "searchTerm": "curry powder",
+        "normalizedName": "Curry Powder"
+      },
+      {
+        "ingredient": "4 ounces smoked almonds",
+        "searchTerm": "smoked almonds",
+        "normalizedName": "Smoked Almond"
+      },
+      {
+        "ingredient": "1 (16 ounce) package frozen peas",
+        "searchTerm": "frozen peas",
+        "normalizedName": "Frozen Pea"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Thaw peas before mixing for better texture integration",
+      "Adjust curry powder gradually to taste preference",
+      "Chill salad for at least 30 minutes before serving"
+    ],
+    "coachingPrompt": "This no-cook salad is perfect for meal prep. How far in advance do you want to prepare it?"
+  },
+  "timestamp": "2026-02-06T05:55:06.299Z"
+}

@@ -1,0 +1,73 @@
+{
+  "contentHash": "aada45bb56a4457f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10 ounce) package frozen chopped spinach, thawed and squeezed thoroughly to remove liquid",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "4 eggs or equivalent egg substitute",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup part-skim ricotta cheese",
+        "searchTerm": "ricotta cheese",
+        "normalizedName": "Ricotta Cheese"
+      },
+      {
+        "ingredient": "¾ cup freshly grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "¾ cup chopped portobello mushrooms",
+        "searchTerm": "portobello mushrooms",
+        "normalizedName": "Portobello Mushroom"
+      },
+      {
+        "ingredient": "½ cup finely chopped scallions with some green tops",
+        "searchTerm": "scallions",
+        "normalizedName": "Scallion"
+      },
+      {
+        "ingredient": "¼ teaspoon dried Italian seasonings",
+        "searchTerm": "italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      },
+      {
+        "ingredient": "1 pinch Salt and pepper, to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch Salt and pepper, to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Squeeze spinach aggressively to remove all moisture for proper texture",
+      "Use oven-safe skillet so you can finish cooking under broiler",
+      "Don't stir once eggs start setting; let them cook undisturbed for fluffy result"
+    ],
+    "coachingPrompt": "Frittatas require stovetop-to-oven technique. Do you have an oven-safe skillet available?"
+  },
+  "timestamp": "2026-02-06T19:13:54.853Z"
+}

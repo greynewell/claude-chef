@@ -1,0 +1,77 @@
+{
+  "contentHash": "2cc66a3b510eaa82",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "½ tablespoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 teaspoon onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      },
+      {
+        "ingredient": "1 teaspoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "1 teaspoon dried parsley",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley"
+      },
+      {
+        "ingredient": "½ teaspoon ground mustard",
+        "searchTerm": "ground mustard",
+        "normalizedName": "Ground Mustard"
+      },
+      {
+        "ingredient": "¼ teaspoon celery seed",
+        "searchTerm": "celery seed",
+        "normalizedName": "Celery Seed"
+      },
+      {
+        "ingredient": "4 pounds chicken drumsticks",
+        "searchTerm": "chicken drumsticks",
+        "normalizedName": "Chicken Drumstick"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Smoker",
+        "searchTerm": "smoker"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Measuring spoons",
+        "searchTerm": "measuring spoons"
+      },
+      {
+        "name": "Paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Pat drumsticks dry with paper towels before applying dry rub for better adhesion",
+      "Smoke at 225-250°F until internal temperature reaches 165°F, about 1.5-2 hours",
+      "Apply rub the night before for deeper flavor penetration into the meat"
+    ],
+    "coachingPrompt": "Guide the user through creating a balanced dry rub and explain how low-temperature smoking renders fat while keeping meat juicy."
+  },
+  "timestamp": "2026-02-06T06:01:36.218Z"
+}

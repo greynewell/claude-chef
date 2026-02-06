@@ -1,0 +1,53 @@
+{
+  "contentHash": "f4a2cd5ca271c38d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 jalapeno pepper",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 (7.5 ounce) package corn bread/muffin mix",
+        "searchTerm": "cornbread mix",
+        "normalizedName": "Cornbread Mix"
+      },
+      {
+        "ingredient": "1 beaten egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅓ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 cup fresh pineapple, peeled and cut into 1/2-inch chunks",
+        "searchTerm": "pineapple",
+        "normalizedName": "Pineapple"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Muffin Tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Remove jalapeno seeds for less heat, or keep them for more spice",
+      "Fold in pineapple gently at the end to avoid breaking chunks",
+      "Don't overmix batter; lumps are okay and make for tender cornbread"
+    ],
+    "coachingPrompt": "Guide the user on balancing heat and sweetness, and proper batter mixing for tender results."
+  },
+  "timestamp": "2026-02-06T09:27:19.862Z"
+}

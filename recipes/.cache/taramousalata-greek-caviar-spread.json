@@ -1,0 +1,68 @@
+{
+  "contentHash": "fc89a866c60cafb1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 potato",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "8 slices white sandwich bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup carp roe",
+        "searchTerm": "carp roe",
+        "normalizedName": "Carp Roe"
+      },
+      {
+        "ingredient": "1 small onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "¼ cup fresh lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "½ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 Greek olives",
+        "searchTerm": "greek olives",
+        "normalizedName": "Greek Olive"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Boil potato until tender, then cool before blending for better texture",
+      "Soak bread in milk instead of water for creamier consistency",
+      "Blend in batches if using a small food processor for better control"
+    ],
+    "coachingPrompt": "The potato and bread base provides body for this spread. Help the baker create a smooth, spreadable consistency."
+  },
+  "timestamp": "2026-02-06T20:19:39.558Z"
+}

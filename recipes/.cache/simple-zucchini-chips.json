@@ -1,0 +1,42 @@
+{
+  "contentHash": "5aca20ebf7dffc00",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 zucchini, thinly sliced",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "1 teaspoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 teaspoon mixed herbs",
+        "searchTerm": "mixed herbs",
+        "normalizedName": "Mixed Herb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mandoline slicer",
+        "searchTerm": "mandoline slicer"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Slice zucchini very thin and pat dry to achieve crispy chips",
+      "Bake at 425°F for 15-20 minutes, stirring halfway through, until golden and crispy"
+    ],
+    "coachingPrompt": "How does removing moisture from zucchini transform it from a soft vegetable to a crispy snack?"
+  },
+  "timestamp": "2026-02-06T17:54:03.129Z"
+}

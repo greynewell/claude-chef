@@ -1,0 +1,53 @@
+{
+  "contentHash": "52a0b06d2c935509",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 dash ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "1 (1 inch) slice panettone",
+        "searchTerm": "panettone",
+        "normalizedName": "Panettone"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "shallow dish",
+        "searchTerm": "shallow bowl"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Whisk egg mixture until well combined for even coating",
+      "Use day-old panettone if possible for better bread structure and less sogginess",
+      "Cook on medium-low heat to ensure center is cooked through without burning exterior"
+    ],
+    "coachingPrompt": "This is a quick single-serving treat. Would you like suggestions for toppings like maple syrup, fresh berries, or whipped cream?"
+  },
+  "timestamp": "2026-02-06T14:06:39.491Z"
+}

@@ -1,0 +1,59 @@
+{
+  "contentHash": "47b81fb6ea9211fd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 bunch broccoli, finely chopped",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "½ cup sunflower seeds",
+        "searchTerm": "sunflower seeds",
+        "normalizedName": "Sunflower Seed"
+      },
+      {
+        "ingredient": "½ cup diced red onion",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "¾ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons white vinegar",
+        "searchTerm": "white vinegar",
+        "normalizedName": "White Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "frying pan"
+      }
+    ],
+    "cookingTips": [
+      "Chop broccoli finely to ensure even coating with the creamy dressing",
+      "Crumble bacon while still warm for better texture and flavor integration",
+      "Whisk dressing components together before adding to broccoli to ensure even distribution"
+    ],
+    "coachingPrompt": "How do you achieve the perfect ratio of crispy bacon to creamy dressing in this simple salad?"
+  },
+  "timestamp": "2026-02-06T00:44:33.128Z"
+}

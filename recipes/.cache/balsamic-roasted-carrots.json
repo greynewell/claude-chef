@@ -1,0 +1,48 @@
+{
+  "contentHash": "3ecc17a4c08b160f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (8 ounce) package baby carrots",
+        "searchTerm": "baby carrots",
+        "normalizedName": "Baby Carrot"
+      },
+      {
+        "ingredient": "2 tablespoons balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Toss carrots halfway through roasting to ensure even browning on all sides",
+      "Add balsamic vinegar in the last few minutes of cooking to prevent it from burning"
+    ],
+    "coachingPrompt": "Guide the user through achieving caramelized, tender carrots with a glossy balsamic glaze."
+  },
+  "timestamp": "2026-02-05T23:19:00.878Z"
+}

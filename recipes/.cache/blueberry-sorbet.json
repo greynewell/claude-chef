@@ -1,0 +1,43 @@
+{
+  "contentHash": "f3af8d97b2c0611f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups frozen blueberries",
+        "searchTerm": "frozen blueberries",
+        "normalizedName": "Blueberry"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 lemon, zested and juiced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "ice cream maker",
+        "searchTerm": "ice cream maker"
+      }
+    ],
+    "cookingTips": [
+      "Zest the lemon before juicing for maximum flavor extraction",
+      "Process frozen blueberries until smooth, then churn for optimal texture"
+    ],
+    "coachingPrompt": "How does freezing fruit affect the texture and sweetness of sorbet?"
+  },
+  "timestamp": "2026-02-06T00:25:34.223Z"
+}

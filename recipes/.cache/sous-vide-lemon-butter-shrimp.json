@@ -1,0 +1,52 @@
+{
+  "contentHash": "308a2e6fcb4be848",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound large shrimp, peeled and deveined",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "½ teaspoon Creole seasoning",
+        "searchTerm": "Creole seasoning",
+        "normalizedName": "Creole Seasoning"
+      },
+      {
+        "ingredient": "8 1/2-inch wide strips lemon zest",
+        "searchTerm": "lemon zest",
+        "normalizedName": "Lemon Zest"
+      },
+      {
+        "ingredient": "3 sprigs fresh thyme",
+        "searchTerm": "fresh thyme",
+        "normalizedName": "Fresh Thyme"
+      },
+      {
+        "ingredient": "2 ounces chilled butter, cut into 4 to 6 slices",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sous Vide Machine",
+        "searchTerm": "immersion circulator"
+      },
+      {
+        "name": "Vacuum Bags",
+        "searchTerm": "vacuum sealer bags"
+      },
+      {
+        "name": "Cooking Thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Cook shrimp at 147°F (64°C) for 12-15 minutes to avoid rubbery texture",
+      "Finish in hot pan with lemon zest and thyme for aromatic bursts of flavor"
+    ],
+    "coachingPrompt": "Help the user understand how sous vide prevents the common mistake of overcooked shrimp and achieves tender, buttery perfection."
+  },
+  "timestamp": "2026-02-06T18:38:23.425Z"
+}

@@ -1,0 +1,47 @@
+{
+  "contentHash": "39115ab09290e5b7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 bananas, chopped",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "1 tablespoon 1% milk",
+        "searchTerm": "1% milk",
+        "normalizedName": "Low-Fat Milk"
+      },
+      {
+        "ingredient": "1 tablespoon chunky peanut butter",
+        "searchTerm": "chunky peanut butter",
+        "normalizedName": "Chunky Peanut Butter"
+      },
+      {
+        "ingredient": "½ ounce dark chocolate (such as Ghiradelli®), chopped",
+        "searchTerm": "dark chocolate",
+        "normalizedName": "Dark Chocolate"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Freeze banana slices ahead of time for a quicker, creamier result",
+      "Blend until thick and creamy—it should resemble soft-serve ice cream",
+      "Serve immediately for best texture, or refreeze for scoopable consistency"
+    ],
+    "coachingPrompt": "This three-ingredient frozen treat delivers satisfaction without excess calories. What makes it your go-to healthy dessert?"
+  },
+  "timestamp": "2026-02-06T08:56:51.583Z"
+}

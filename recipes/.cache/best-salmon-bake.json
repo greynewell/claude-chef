@@ -1,0 +1,53 @@
+{
+  "contentHash": "84d4fbb2e07333b7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound salmon fillet, halved",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "1 small tomato, chopped",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "5 green onions, chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Parchment Paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Use parchment paper to prevent sticking and simplify cleanup",
+      "Bake at 400°F for 12-15 minutes until salmon flakes easily with a fork",
+      "Top salmon with fresh herbs and lemon juice for enhanced flavor"
+    ],
+    "coachingPrompt": "Help the user determine proper doneness by the salmon's opacity and flake test. Suggest complementary seasonings like dill or lemon."
+  },
+  "timestamp": "2026-02-06T00:03:47.583Z"
+}

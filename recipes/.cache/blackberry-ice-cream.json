@@ -1,0 +1,58 @@
+{
+  "contentHash": "7b53f39b11369e65",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pint fresh blackberries",
+        "searchTerm": "blackberries",
+        "normalizedName": "Blackberry"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon lemon zest",
+        "searchTerm": "lemon zest",
+        "normalizedName": "Lemon Zest"
+      },
+      {
+        "ingredient": "2 cups heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "½ cup whole milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "fine sieve",
+        "searchTerm": "fine sieve"
+      }
+    ],
+    "cookingTips": [
+      "Chill the ice cream base thoroughly before churning for best texture",
+      "Puree blackberries and strain to remove seeds for a smooth finish",
+      "Churn until soft-serve consistency, then freeze for at least 4 hours"
+    ],
+    "coachingPrompt": "Show me how to make a vibrant, creamy blackberry ice cream with bright lemon notes."
+  },
+  "timestamp": "2026-02-06T00:15:08.446Z"
+}

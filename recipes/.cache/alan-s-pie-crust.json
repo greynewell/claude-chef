@@ -1,0 +1,53 @@
+{
+  "contentHash": "9af66aeb9f92ebed",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅓ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup lard",
+        "searchTerm": "lard",
+        "normalizedName": "Lard"
+      },
+      {
+        "ingredient": "⅓ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pastry cutter or fork",
+        "searchTerm": "pastry cutter"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Pie pan",
+        "searchTerm": "pie pan"
+      }
+    ],
+    "cookingTips": [
+      "Keep all ingredients cold, especially butter and lard, for a flaky crust",
+      "Work quickly and minimize handling to avoid developing gluten",
+      "Chill dough at least 30 minutes before rolling and baking"
+    ],
+    "coachingPrompt": "Explain why cold fat and minimal mixing create flakiness, and guide the user on proper technique for cutting in fats."
+  },
+  "timestamp": "2026-02-05T21:49:27.923Z"
+}

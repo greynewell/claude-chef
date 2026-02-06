@@ -1,0 +1,83 @@
+{
+  "contentHash": "08eb82fcb4abc799",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "sun-dried tomatoes, chopped",
+        "searchTerm": "sun-dried tomato",
+        "normalizedName": "Sun-Dried Tomato"
+      },
+      {
+        "ingredient": "chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "chopped fresh basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      },
+      {
+        "ingredient": "dry fettuccini pasta",
+        "searchTerm": "fettuccini pasta",
+        "normalizedName": "Fettuccini Pasta"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Don't let cream boil; reduce heat once added to prevent breaking",
+      "Cook chicken until just done to prevent drying out",
+      "Toss pasta with sauce gently to coat evenly without breaking"
+    ],
+    "coachingPrompt": "Cream sauces can break easily. Would you like guidance on temperature control and when to add cream?"
+  },
+  "timestamp": "2026-02-06T02:35:26.563Z"
+}

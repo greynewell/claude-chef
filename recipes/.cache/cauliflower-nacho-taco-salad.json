@@ -1,0 +1,58 @@
+{
+  "contentHash": "7ec5a9781badeae8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 head cauliflower, cut into bite-size pieces",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      },
+      {
+        "ingredient": "1 red bell pepper, chopped",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "4 green onions, finely chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "½ cup coleslaw dressing (such as Kraft®)",
+        "searchTerm": "coleslaw dressing",
+        "normalizedName": "Coleslaw Dressing"
+      },
+      {
+        "ingredient": "½ cup ranch dressing (such as Kraft® Rancher's Choice)",
+        "searchTerm": "ranch dressing",
+        "normalizedName": "Ranch Dressing"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) package nacho cheese-flavored tortilla chips (such as Doritos®), crushed",
+        "searchTerm": "nacho cheese tortilla chips",
+        "normalizedName": "Nacho Cheese Tortilla Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Cut cauliflower into bite-sized pieces so they mix well with dressing",
+      "Add crushed chips just before serving to maintain crispness",
+      "Mix the two dressings together or layer them for balanced flavor"
+    ],
+    "coachingPrompt": "When would you add the crushed tortilla chips to prevent them from becoming soggy?"
+  },
+  "timestamp": "2026-02-06T01:36:35.341Z"
+}

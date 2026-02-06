@@ -1,0 +1,63 @@
+{
+  "contentHash": "cf4e549526efc712",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 (3 ounce) packages chicken flavored ramen noodles",
+        "searchTerm": "ramen noodles",
+        "normalizedName": "Ramen Noodle"
+      },
+      {
+        "ingredient": "1 cup diced celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 (8 ounce) can water chestnuts, drained and sliced",
+        "searchTerm": "water chestnuts",
+        "normalizedName": "Water Chestnut"
+      },
+      {
+        "ingredient": "½ red onion, diced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "½ green bell pepper, diced",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "4 ounces frozen green peas",
+        "searchTerm": "peas",
+        "normalizedName": "Pea"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cook noodles until tender, drain well, then cool completely",
+      "Use mayonnaise-based dressing to bind the salad",
+      "Chill for at least 1 hour before serving for best flavor"
+    ],
+    "coachingPrompt": "Guide the user on properly cooking and cooling noodles, then assembling this creamy, vegetable-packed salad."
+  },
+  "timestamp": "2026-02-06T15:53:47.041Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "0a2b83175fab68c6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package Neufchatel cheese",
+        "searchTerm": "neufchatel cheese",
+        "normalizedName": "Neufchatel Cheese"
+      },
+      {
+        "ingredient": "2 teaspoons lemon zest",
+        "searchTerm": "lemon zest",
+        "normalizedName": "Lemon Zest"
+      },
+      {
+        "ingredient": "2 tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 cup chopped kiwi fruit",
+        "searchTerm": "kiwi",
+        "normalizedName": "Kiwi Fruit"
+      },
+      {
+        "ingredient": "16 slices whole wheat bread",
+        "searchTerm": "whole wheat bread",
+        "normalizedName": "Whole Wheat Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Small mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spreading knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Soften Neufchatel cheese to room temperature for smooth spreading",
+      "Zest lemon before juicing to capture maximum flavor",
+      "Chop kiwi just before assembling to maintain freshness and prevent oxidation"
+    ],
+    "coachingPrompt": "How will you prevent the kiwi from making the bread soggy?"
+  },
+  "timestamp": "2026-02-06T04:28:07.258Z"
+}

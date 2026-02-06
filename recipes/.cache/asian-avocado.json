@@ -1,0 +1,48 @@
+{
+  "contentHash": "06ab2dc9cb525d23",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 avocado",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "½ teaspoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ teaspoon minced fresh ginger root",
+        "searchTerm": "fresh ginger",
+        "normalizedName": "Fresh Ginger Root"
+      },
+      {
+        "ingredient": "1 teaspoon soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "small bowl",
+        "searchTerm": "small bowl"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use a ripe avocado that yields slightly to gentle pressure",
+      "Prepare just before serving to prevent browning, or add lemon juice to slow oxidation",
+      "Mash gently if you prefer smoother texture, leave chunky if desired"
+    ],
+    "coachingPrompt": "How can I prevent my avocado from turning brown after I cut it?"
+  },
+  "timestamp": "2026-02-05T22:25:35.935Z"
+}

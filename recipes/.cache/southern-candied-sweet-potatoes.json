@@ -1,0 +1,63 @@
+{
+  "contentHash": "33c43a6b24fe350f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 large sweet potatoes",
+        "searchTerm": "sweet potatoes",
+        "normalizedName": "Sweet Potato"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "1 teaspoon ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      },
+      {
+        "ingredient": "1 tablespoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Slice sweet potatoes evenly for uniform cooking",
+      "Combine butter and sugar into a glaze before layering potatoes",
+      "Cover with foil initially to prevent burning, uncover for last 15 minutes to caramelize"
+    ],
+    "coachingPrompt": "Guide the cook through layering technique and explain how the butter-sugar mixture caramelizes during baking."
+  },
+  "timestamp": "2026-02-06T18:40:16.299Z"
+}

@@ -1,0 +1,83 @@
+{
+  "contentHash": "ed9e5bedbb697427",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 Italian turkey sausages",
+        "searchTerm": "turkey sausage",
+        "normalizedName": "Italian Turkey Sausage"
+      },
+      {
+        "ingredient": "1 tablespoon sun-dried tomato oil",
+        "searchTerm": "sun-dried tomato oil",
+        "normalizedName": "Sun-Dried Tomato Oil"
+      },
+      {
+        "ingredient": "1 medium red onion, sliced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "1 medium bell pepper (any color), sliced",
+        "searchTerm": "bell pepper",
+        "normalizedName": "Bell Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons drained, finely chopped sun-dried tomatoes (packed in oil)",
+        "searchTerm": "sun-dried tomato",
+        "normalizedName": "Sun-Dried Tomato"
+      },
+      {
+        "ingredient": "1 ½ teaspoons balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "1 teaspoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "1 teaspoon dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      },
+      {
+        "ingredient": "salt and freshly ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and freshly ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 (6 inch) hoagie rolls, split lengthwise",
+        "searchTerm": "hoagie roll",
+        "normalizedName": "Hoagie Roll"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Turkey sausages are leaner; avoid pricking to prevent drying out",
+      "Use medium heat to cook through without charring the exterior",
+      "Toast hoagie rolls on the grill for structural integrity"
+    ],
+    "coachingPrompt": "How do you prevent lean turkey sausages from drying out on the grill?"
+  },
+  "timestamp": "2026-02-06T08:18:25.703Z"
+}

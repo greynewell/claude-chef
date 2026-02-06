@@ -1,0 +1,48 @@
+{
+  "contentHash": "da442e145846fea2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (19 ounce) can vegetarian hot dog links",
+        "searchTerm": "vegetarian hot dog",
+        "normalizedName": "Vegetarian Hot Dog"
+      },
+      {
+        "ingredient": "¾ cup sweet pickle relish",
+        "searchTerm": "sweet pickle relish",
+        "normalizedName": "Sweet Pickle Relish"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Pulse ingredients in food processor for chunky texture or blend smooth as desired",
+      "Chill spread for at least 1 hour before serving for better flavor development",
+      "Use on hot dogs, sandwiches, or as a dip"
+    ],
+    "coachingPrompt": "Help the user understand texture preferences and discuss storage methods for this sandwich spread"
+  },
+  "timestamp": "2026-02-06T21:45:14.218Z"
+}

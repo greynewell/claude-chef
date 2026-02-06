@@ -1,0 +1,39 @@
+{
+  "contentHash": "5faf3d4f58c69774",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (4 roll) package Hawaiian bread rolls, split",
+        "searchTerm": "Hawaiian bread rolls",
+        "normalizedName": "Hawaiian Bread Roll"
+      },
+      {
+        "ingredient": "8 slices Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread lightly before adding cheese to prevent sogginess",
+      "Sprinkle sugar sparingly for sweet and savory balance",
+      "Cook on medium heat for melted cheese without burning bread"
+    ],
+    "coachingPrompt": "This sweet-savory combo works best with buttered toasting. Do you have a panini press or will you use a skillet?"
+  },
+  "timestamp": "2026-02-06T05:55:06.301Z"
+}

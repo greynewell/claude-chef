@@ -1,0 +1,53 @@
+{
+  "contentHash": "c62365d158d22244",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 bananas, mashed",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "5 cups water, divided",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup steel cut oats",
+        "searchTerm": "steel cut oats",
+        "normalizedName": "Steel Cut Oat"
+      },
+      {
+        "ingredient": "¼ cup raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      },
+      {
+        "ingredient": "1 teaspoon cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "mixing spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Steel cut oats take longer to cook than rolled oats - plan for 6-8 hours on low",
+      "The banana provides natural sweetness and creaminess without added sugar or dairy"
+    ],
+    "coachingPrompt": "Will you prep this the night before for a morning breakfast, or adjust cooking time based on your schedule?"
+  },
+  "timestamp": "2026-02-06T19:44:10.586Z"
+}

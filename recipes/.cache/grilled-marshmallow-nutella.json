@@ -1,0 +1,48 @@
+{
+  "contentHash": "8c25fee923034abd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons chocolate-hazelnut spread",
+        "searchTerm": "nutella",
+        "normalizedName": "Chocolate-Hazelnut Spread"
+      },
+      {
+        "ingredient": "4 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "1 cup miniature marshmallows",
+        "searchTerm": "marshmallows",
+        "normalizedName": "Marshmallow"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Spread Nutella thinly so it doesn't overpower the marshmallows when heated",
+      "Butter bread generously on outside for golden, crispy exterior when grilled",
+      "Press sandwich gently with spatula while cooking to help marshmallows melt and bind ingredients together"
+    ],
+    "coachingPrompt": "Guide the user through making a decadent grilled dessert sandwich with perfect melting."
+  },
+  "timestamp": "2026-02-06T08:20:21.773Z"
+}

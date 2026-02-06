@@ -1,0 +1,44 @@
+{
+  "contentHash": "b9082f0f8c1070ec",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds small red new potatoes, halved",
+        "searchTerm": "red new potatoes",
+        "normalizedName": "Red New Potato"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon Salt and freshly ground black pepper",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon Salt and freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sheet Pan",
+        "searchTerm": "sheet pan"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Toss potatoes halfway through roasting for even browning",
+      "Cut potatoes to uniform size for consistent cooking",
+      "Let potatoes develop a golden crust for better flavor"
+    ],
+    "coachingPrompt": "Encourage high heat roasting to achieve crispy exteriors while keeping insides tender."
+  },
+  "timestamp": "2026-02-06T16:25:50.179Z"
+}

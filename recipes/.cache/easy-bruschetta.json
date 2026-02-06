@@ -1,0 +1,58 @@
+{
+  "contentHash": "c937267f73a123d2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 French baguette, cut into 1/2 inch thick circles",
+        "searchTerm": "French baguette",
+        "normalizedName": "French Baguette"
+      },
+      {
+        "ingredient": "8 plum tomatoes, diced",
+        "searchTerm": "plum tomatoes",
+        "normalizedName": "Plum Tomato"
+      },
+      {
+        "ingredient": "1 cup chopped fresh basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      },
+      {
+        "ingredient": "½ red onion, minced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "3 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Toast baguette slices lightly until crispy, then rub with garlic clove",
+      "Salt tomatoes lightly before mixing to draw out excess moisture",
+      "Assemble bruschetta just before serving to keep bread crisp"
+    ],
+    "coachingPrompt": "How could you create variations with different bases (goat cheese, olive tapenade) while keeping the tomato profile?"
+  },
+  "timestamp": "2026-02-06T05:34:59.999Z"
+}

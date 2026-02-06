@@ -1,0 +1,63 @@
+{
+  "contentHash": "ee2dd48a092da7bc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 tomato, chopped",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "½ onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 ounces shredded Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "1 (16 ounce) can refrigerated buttermilk biscuit dough",
+        "searchTerm": "biscuit dough",
+        "normalizedName": "Buttermilk Biscuit Dough"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Muffin Tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Press biscuit dough into muffin cups while still cool to prevent sticking",
+      "Drain chopped tomatoes well to prevent soggy cups",
+      "Bake bacon cups until both pastry and filling are golden brown"
+    ],
+    "coachingPrompt": "How can you prevent the biscuit dough from slipping down the sides of the muffin tin?"
+  },
+  "timestamp": "2026-02-05T22:49:20.384Z"
+}

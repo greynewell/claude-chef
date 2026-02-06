@@ -1,0 +1,49 @@
+{
+  "contentHash": "8c985a9826da3167",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 tablespoons salad dressing of your choice, or to taste",
+        "searchTerm": "salad dressing",
+        "normalizedName": "Salad Dressing"
+      },
+      {
+        "ingredient": "2 large carrots, chopped",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 (15 ounce) cans chickpeas, drained",
+        "searchTerm": "chickpeas",
+        "normalizedName": "Chickpea"
+      },
+      {
+        "ingredient": "1 bunch chopped kale",
+        "searchTerm": "kale",
+        "normalizedName": "Kale"
+      },
+      {
+        "ingredient": "4 tablespoons crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mason jar",
+        "searchTerm": "mason jar"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Layer dressing at bottom of jar first to prevent wilting of kale",
+      "Pack ingredients in order: dressing, carrots, chickpeas, kale, feta for optimal storage",
+      "Shake jar vigorously before eating to distribute dressing evenly"
+    ],
+    "coachingPrompt": "What's the correct order to layer a mason jar salad?"
+  },
+  "timestamp": "2026-02-06T10:34:53.360Z"
+}

@@ -1,0 +1,77 @@
+{
+  "contentHash": "82989930ab4d1010",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package angel hair pasta",
+        "searchTerm": "angel hair pasta",
+        "normalizedName": "Angel Hair Pasta"
+      },
+      {
+        "ingredient": "2 teaspoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ cup finely chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 clove garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 ½ cups chopped tomatoes",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "2 cups boneless chicken breast halves, cooked and cubed",
+        "searchTerm": "cooked chicken",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "¼ cup chopped fresh basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅛ teaspoon hot pepper sauce",
+        "searchTerm": "hot sauce",
+        "normalizedName": "Hot Sauce"
+      },
+      {
+        "ingredient": "¼ cup Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pasta pot"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Use fresh tomatoes when in season, or high-quality canned if not available",
+      "Add basil in the final minute of cooking to preserve its bright, fresh flavor"
+    ],
+    "coachingPrompt": "Are you using fresh or canned tomatoes? This affects cooking time and water content."
+  },
+  "timestamp": "2026-02-05T23:34:21.978Z"
+}

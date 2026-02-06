@@ -1,0 +1,43 @@
+{
+  "contentHash": "bc428aa3082dc526",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 skinless, boneless chicken breasts",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "5 teaspoons garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "1 cup cider vinegar",
+        "searchTerm": "cider vinegar",
+        "normalizedName": "Cider Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Layer chicken breasts in slow cooker for even cooking",
+      "Cider vinegar tenderizes and adds tang to the chicken",
+      "Cook on low 4-6 hours or high 2-3 hours until internal temperature reaches 165°F"
+    ],
+    "coachingPrompt": "Explain how acidic vinegar tenderizes chicken and develops flavor, and provide proper doneness checks."
+  },
+  "timestamp": "2026-02-06T03:19:50.992Z"
+}

@@ -1,0 +1,68 @@
+{
+  "contentHash": "730794cd00226a92",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound bulk pork sausage",
+        "searchTerm": "pork sausage",
+        "normalizedName": "Pork Sausage"
+      },
+      {
+        "ingredient": "½ small onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "12 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (4 ounce) can diced green chilies, drained",
+        "searchTerm": "green chilies",
+        "normalizedName": "Green Chile"
+      },
+      {
+        "ingredient": "¾ cup process cheese food (such as Velveeta®), divided",
+        "searchTerm": "process cheese food",
+        "normalizedName": "Process Cheese Food"
+      },
+      {
+        "ingredient": "¾ cup salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "1 (10 ounce) package burrito-size flour tortillas",
+        "searchTerm": "burrito tortillas",
+        "normalizedName": "Burrito Tortilla"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausage thoroughly before adding other ingredients for better texture and flavor",
+      "Scramble eggs slowly over medium heat for creamy, tender curds",
+      "Warm tortillas before filling to prevent cracking and aid pliability"
+    ],
+    "coachingPrompt": "Help the user understand proper scrambled egg technique and how to assemble burritos that won't leak or fall apart."
+  },
+  "timestamp": "2026-02-06T05:52:19.798Z"
+}

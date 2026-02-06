@@ -1,0 +1,63 @@
+{
+  "contentHash": "220054b0cd677547",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅓ cup unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅓ cup boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 ½ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¾ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "½ cup half-and-half cream",
+        "searchTerm": "half-and-half cream",
+        "normalizedName": "Half-and-Half Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Mugs",
+        "searchTerm": "mugs"
+      }
+    ],
+    "cookingTips": [
+      "Mix cocoa powder and sugar with boiling water first to create a smooth paste before adding milk",
+      "Heat milk gently to avoid scorching",
+      "Whisk frequently to keep cocoa from settling at the bottom"
+    ],
+    "coachingPrompt": "What's your strategy for preventing lumps in the hot cocoa?"
+  },
+  "timestamp": "2026-02-06T04:28:07.256Z"
+}

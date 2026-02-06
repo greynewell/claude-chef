@@ -1,0 +1,39 @@
+{
+  "contentHash": "a1d5718e66a72355",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (6.9 ounce) package chicken flavored rice mix (such as Rice A Roni®)",
+        "searchTerm": "flavored rice mix",
+        "normalizedName": "Rice Mix"
+      },
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet or large pan",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown the ground beef thoroughly before adding rice mix",
+      "Toast the rice mix briefly to enhance its flavor before adding liquid",
+      "Stir occasionally and let liquid absorb fully for fluffy rice"
+    ],
+    "coachingPrompt": "Teach the user the quick method of creating a complete meal using flavored rice mixes, and explain the importance of browning beef for depth."
+  },
+  "timestamp": "2026-02-05T23:41:38.111Z"
+}

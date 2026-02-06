@@ -1,0 +1,58 @@
+{
+  "contentHash": "504c7d64246de27e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10 ounce) package frozen chopped broccoli, thawed and drained",
+        "searchTerm": "frozen broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "6 ounces cottage cheese",
+        "searchTerm": "cottage cheese",
+        "normalizedName": "Cottage Cheese"
+      },
+      {
+        "ingredient": "1 large onion, finely chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (16 ounce) package dry cornbread (corn muffin) mix",
+        "searchTerm": "cornbread mix",
+        "normalizedName": "Cornbread Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Ensure broccoli is thoroughly drained to avoid excess moisture in the bread",
+      "Mix wet and dry ingredients separately before combining for better texture",
+      "Check doneness with a toothpick inserted in the center"
+    ],
+    "coachingPrompt": "Guide the baker on combining dairy and vegetables into cornbread batter while maintaining proper moisture balance."
+  },
+  "timestamp": "2026-02-06T07:13:53.544Z"
+}

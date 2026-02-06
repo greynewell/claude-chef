@@ -1,0 +1,43 @@
+{
+  "contentHash": "ea726cf8b5db601b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 pounds chicken wings",
+        "searchTerm": "chicken wings",
+        "normalizedName": "Chicken Wing"
+      },
+      {
+        "ingredient": "4 tablespoons Cajun seasoning",
+        "searchTerm": "Cajun seasoning",
+        "normalizedName": "Cajun Seasoning"
+      },
+      {
+        "ingredient": "1 (5 ounce) bottle hot sauce",
+        "searchTerm": "hot sauce",
+        "normalizedName": "Hot Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "kitchen tongs"
+      }
+    ],
+    "cookingTips": [
+      "Pat chicken wings dry before tossing with seasoning for better coating adhesion",
+      "Toss wings with hot sauce and Cajun seasoning after cooking for even distribution",
+      "Bake at 400°F for 40-45 minutes, stirring halfway through for crispy exterior"
+    ],
+    "coachingPrompt": "Should I season the wings before or after cooking for the best flavor?"
+  },
+  "timestamp": "2026-02-06T05:07:12.924Z"
+}

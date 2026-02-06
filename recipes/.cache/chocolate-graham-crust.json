@@ -1,0 +1,48 @@
+{
+  "contentHash": "0a2d7d4d6c6031fc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup chocolate graham crackers",
+        "searchTerm": "chocolate graham crackers",
+        "normalizedName": "Chocolate Graham Cracker"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "pie pan",
+        "searchTerm": "pie pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Pulse graham crackers in food processor until fine crumbs form",
+      "Mix in melted butter until mixture resembles wet sand",
+      "Press firmly and evenly into pie pan, using bottom of measuring cup"
+    ],
+    "coachingPrompt": "Help the user achieve an even, well-packed crust that won't crumble when sliced."
+  },
+  "timestamp": "2026-02-06T03:08:01.749Z"
+}

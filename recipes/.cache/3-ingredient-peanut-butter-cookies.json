@@ -1,0 +1,43 @@
+{
+  "contentHash": "3c35bb3afd3f82a1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "white sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Mix ingredients just until combined to avoid overworking the dough",
+      "Press cookies with a fork in a crosshatch pattern for even baking",
+      "Cool on the baking sheet for 5 minutes before transferring to prevent breaking"
+    ],
+    "coachingPrompt": "Help me make simple peanut butter cookies from mixing through baking."
+  },
+  "timestamp": "2026-02-05T21:25:21.009Z"
+}

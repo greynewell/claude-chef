@@ -1,0 +1,48 @@
+{
+  "contentHash": "2a610f26e317edbd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (1.75 liter) bottle 190 proof grain alcohol (such as Everclear®)",
+        "searchTerm": "grain alcohol 190 proof",
+        "normalizedName": "Grain Alcohol"
+      },
+      {
+        "ingredient": "20 lemons, zested, or more to taste",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "7 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "7 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "1-gallon jug",
+        "searchTerm": "gallon jug"
+      },
+      {
+        "name": "coffee filters",
+        "searchTerm": "coffee filters"
+      },
+      {
+        "name": "wine bottles with corks",
+        "searchTerm": "wine bottles corks"
+      }
+    ],
+    "cookingTips": [
+      "Zest lemons carefully to avoid bitter white pith",
+      "Allow infusion to steep for at least 2 weeks for best flavor",
+      "Strain through coffee filters multiple times for clarity"
+    ],
+    "coachingPrompt": "Help the user understand the infusion process and proper storage techniques for homemade limoncello."
+  },
+  "timestamp": "2026-02-06T10:08:24.308Z"
+}

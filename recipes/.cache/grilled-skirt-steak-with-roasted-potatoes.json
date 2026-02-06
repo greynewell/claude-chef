@@ -1,0 +1,68 @@
+{
+  "contentHash": "7ba0f2d43907ff3a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "2 tablespoons Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "4 cloves garlic, minced, divided",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 teaspoons salt, divided",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper, divided",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pound skirt steak",
+        "searchTerm": "skirt steak",
+        "normalizedName": "Skirt Steak"
+      },
+      {
+        "ingredient": "4 russet potatoes, diced small",
+        "searchTerm": "russet potatoes",
+        "normalizedName": "Russet Potato"
+      },
+      {
+        "ingredient": "2 tablespoons extra-virgin olive oil, or more to taste",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill pan",
+        "searchTerm": "grill pan"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "grill tongs"
+      }
+    ],
+    "cookingTips": [
+      "Parboil potatoes for 5 minutes before grilling to ensure they cook through",
+      "Use a grill basket or perforated pan for potatoes to prevent sticking",
+      "Let steak rest 5 minutes before serving for optimal juiciness"
+    ],
+    "coachingPrompt": "How can you synchronize the cooking of steak and potatoes so everything finishes together?"
+  },
+  "timestamp": "2026-02-06T08:27:19.807Z"
+}

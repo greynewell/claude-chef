@@ -1,0 +1,54 @@
+{
+  "contentHash": "93e4bd4521be3d65",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "medium baking potato",
+        "searchTerm": "baking potato",
+        "normalizedName": "Baking Potato"
+      },
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "fork or knife",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Poke several holes in potato with fork to allow steam to escape evenly",
+      "Rub exterior with oil and salt for crispy skin",
+      "Bake at 400°F for approximately 50-60 minutes depending on potato size"
+    ],
+    "coachingPrompt": "How can I tell when a baked potato is perfectly done without cutting into it?"
+  },
+  "timestamp": "2026-02-06T14:34:09.067Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "636a8350f247c838",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound dry pinto beans",
+        "searchTerm": "pinto bean",
+        "normalizedName": "Pinto Bean"
+      },
+      {
+        "ingredient": "½ pound bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "4 serrano peppers",
+        "searchTerm": "serrano pepper",
+        "normalizedName": "Serrano Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Soak dried beans overnight to reduce cooking time and improve digestibility",
+      "Cook bacon until crispy, render fat, then use for sautéing serrano peppers",
+      "Simmer beans gently for 1-2 hours until tender, adding serrano peppers in final 30 minutes"
+    ],
+    "coachingPrompt": "How will you balance the heat from serrano peppers with the richness of bacon throughout the cooking process?"
+  },
+  "timestamp": "2026-02-06T12:21:05.396Z"
+}

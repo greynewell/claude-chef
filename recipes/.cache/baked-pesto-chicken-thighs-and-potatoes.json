@@ -1,0 +1,53 @@
+{
+  "contentHash": "0990509e6d4dc403",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound mini red potatoes, cut into 1-inch pieces",
+        "searchTerm": "mini red potatoes",
+        "normalizedName": "Mini Red Potato"
+      },
+      {
+        "ingredient": "¼ cup prepared pesto, divided",
+        "searchTerm": "pesto",
+        "normalizedName": "Pesto"
+      },
+      {
+        "ingredient": "4 boneless, skinless chicken thighs",
+        "searchTerm": "chicken thighs",
+        "normalizedName": "Chicken Thigh"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Chicken thighs are more forgiving than breasts and stay juicy when baked",
+      "Cut potatoes uniformly so they cook at the same rate as chicken",
+      "Reserve some pesto to mix in after cooking for fresh flavor"
+    ],
+    "coachingPrompt": "Do you prefer chicken thighs or breasts? Thighs are darker meat and stay moist better. How do you usually judge when baked chicken is done?"
+  },
+  "timestamp": "2026-02-05T23:09:36.744Z"
+}

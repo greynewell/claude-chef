@@ -1,0 +1,63 @@
+{
+  "contentHash": "f251f53fb32e3993",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (2 pound) pork tenderloin",
+        "searchTerm": "pork tenderloin",
+        "normalizedName": "Pork Tenderloin"
+      },
+      {
+        "ingredient": "1 (1 ounce) envelope dry onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¾ cup red wine",
+        "searchTerm": "red wine",
+        "normalizedName": "Red Wine"
+      },
+      {
+        "ingredient": "3 tablespoons minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "3 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "freshly ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Brown the tenderloin in a hot pan before slow cooking to develop flavor",
+      "Cook on low for 6-8 hours; pork reaches safe temperature at 145°F",
+      "Let meat rest 10 minutes after cooking before slicing for juicier results"
+    ],
+    "coachingPrompt": "How do you prefer to use your slow cooker—set and forget, or checking on the dish? Let me guide you."
+  },
+  "timestamp": "2026-02-05T21:59:27.377Z"
+}

@@ -1,0 +1,72 @@
+{
+  "contentHash": "8fbbd52364eedb43",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 ounces fresh mushrooms, chopped",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "1 medium onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 teaspoons dried parsley flakes",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley Flake"
+      },
+      {
+        "ingredient": "⅛ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "2 ½ cups seasoned dry bread crumbs",
+        "searchTerm": "seasoned bread crumbs",
+        "normalizedName": "Seasoned Bread Crumb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Large Mixing Bowl",
+        "searchTerm": "large mixing bowl"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook mushrooms and onions first to release moisture so the mixture isn't too wet for proper ball formation",
+      "Let mixture cool slightly before shaping into balls so eggs set enough to hold structure",
+      "Use an ice cream scoop or spoon to portion evenly sized balls for consistent cooking time"
+    ],
+    "coachingPrompt": "Help the user properly cook down vegetables and form cohesive balls that maintain shape during baking."
+  },
+  "timestamp": "2026-02-06T13:00:25.518Z"
+}

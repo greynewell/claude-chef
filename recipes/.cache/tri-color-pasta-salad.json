@@ -1,0 +1,47 @@
+{
+  "contentHash": "f38c7e43b4dfd08d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds uncooked tri-color spiral pasta",
+        "searchTerm": "tri-color pasta",
+        "normalizedName": "Tri-Color Spiral Pasta"
+      },
+      {
+        "ingredient": "10 ounces diced processed American cheese",
+        "searchTerm": "processed American cheese",
+        "normalizedName": "Processed American Cheese"
+      },
+      {
+        "ingredient": "1 large head broccoli, cut into florets",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "1 (16 ounce) bottle Italian-style salad dressing",
+        "searchTerm": "Italian-style salad dressing",
+        "normalizedName": "Italian-Style Salad Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pasta pot"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta al dente to avoid mushiness when mixed with wet dressing",
+      "Add dressing while pasta is still warm for better flavor absorption"
+    ],
+    "coachingPrompt": "Advise on cooking pasta properly and balancing dressing-to-pasta ratio for best results."
+  },
+  "timestamp": "2026-02-06T21:07:08.693Z"
+}

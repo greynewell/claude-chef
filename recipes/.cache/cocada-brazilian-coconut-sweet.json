@@ -1,0 +1,48 @@
+{
+  "contentHash": "067317ad92577be8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (14 ounce) can sweetened condensed milk",
+        "searchTerm": "sweetened condensed milk",
+        "normalizedName": "Sweetened Condensed Milk"
+      },
+      {
+        "ingredient": "1/2 can sugar (use sweetened condensed milk can as measure)",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 cups grated fresh coconut",
+        "searchTerm": "fresh coconut",
+        "normalizedName": "Fresh Coconut"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "heavy-bottomed saucepan"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "parchment-lined baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Stir constantly over medium heat to prevent scorching and ensure even cooking",
+      "The mixture should be thick and pull away from the sides of the pan when ready",
+      "Cool on parchment before rolling into balls or cutting into squares"
+    ],
+    "coachingPrompt": "Guide the user through the stirring technique and help them recognize when the mixture has reached the proper consistency for shaping."
+  },
+  "timestamp": "2026-02-06T03:35:59.939Z"
+}

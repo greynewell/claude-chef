@@ -1,0 +1,48 @@
+{
+  "contentHash": "f3b95e56e4cec45b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 quart whole milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "1 cup cultured buttermilk",
+        "searchTerm": "cultured buttermilk",
+        "normalizedName": "Buttermilk"
+      },
+      {
+        "ingredient": "2 teaspoons lemon juice, or as needed",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "¾ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "cheesecloth",
+        "searchTerm": "cheesecloth"
+      }
+    ],
+    "cookingTips": [
+      "Maintain precise temperature control; use a thermometer for accuracy",
+      "Line colander with fine cheesecloth to catch curds",
+      "The whey can be reserved for other cooking purposes"
+    ],
+    "coachingPrompt": "What's the chemistry behind milk curdling, and how do you control the process to make cheese?"
+  },
+  "timestamp": "2026-02-06T02:04:51.726Z"
+}

@@ -1,0 +1,44 @@
+{
+  "contentHash": "3ab19e767beffee6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Stir constantly to prevent burning",
+      "Use medium heat to achieve smooth consistency",
+      "Cool slightly before serving"
+    ],
+    "coachingPrompt": "Guide me through making smooth, rich caramel sauce without crystallization."
+  },
+  "timestamp": "2026-02-06T13:29:49.677Z"
+}

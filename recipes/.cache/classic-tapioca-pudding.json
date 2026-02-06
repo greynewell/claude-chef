@@ -1,0 +1,58 @@
+{
+  "contentHash": "b7b0a4cfb81ef936",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups whole milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup quick-cooking tapioca",
+        "searchTerm": "tapioca",
+        "normalizedName": "Tapioca"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Let tapioca soak in milk for 5 minutes before cooking to ensure even cooking",
+      "Temper eggs by slowly adding hot mixture to prevent scrambling",
+      "Cool pudding before serving and stir occasionally to prevent skin formation"
+    ],
+    "coachingPrompt": "Guide the user on proper egg tempering technique to avoid curdling."
+  },
+  "timestamp": "2026-02-06T03:34:47.159Z"
+}

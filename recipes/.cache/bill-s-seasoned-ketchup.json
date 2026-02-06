@@ -1,0 +1,57 @@
+{
+  "contentHash": "50d5f49c09f4e513",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (28 ounce) bottle ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "2 teaspoons hot pepper sauce",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      },
+      {
+        "ingredient": "1 tablespoon cayenne pepper, or to taste",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon dried onion granules",
+        "searchTerm": "onion granules",
+        "normalizedName": "Onion Granule"
+      },
+      {
+        "ingredient": "2 teaspoons granulated garlic",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "2 teaspoons chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Jar",
+        "searchTerm": "jar"
+      }
+    ],
+    "cookingTips": [
+      "Mix all spices together before combining with ketchup for even distribution",
+      "Start with less cayenne pepper and adjust to taste as the heat intensifies over time"
+    ],
+    "coachingPrompt": "How can you balance the heat from cayenne pepper with the sweet base of ketchup?"
+  },
+  "timestamp": "2026-02-06T00:08:53.841Z"
+}

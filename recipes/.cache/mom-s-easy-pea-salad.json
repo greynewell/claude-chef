@@ -1,0 +1,58 @@
+{
+  "contentHash": "57674219bfb48ac7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package deluxe American cheese, diced",
+        "searchTerm": "american cheese",
+        "normalizedName": "American Cheese"
+      },
+      {
+        "ingredient": "3 (15 ounce) cans baby peas, drained",
+        "searchTerm": "canned peas",
+        "normalizedName": "Baby Pea"
+      },
+      {
+        "ingredient": "1 cup creamy salad dressing",
+        "searchTerm": "miracle whip",
+        "normalizedName": "Creamy Salad Dressing"
+      },
+      {
+        "ingredient": "1 (4 ounce) jar diced pimentos, drained",
+        "searchTerm": "pimentos",
+        "normalizedName": "Pimento"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "can opener",
+        "searchTerm": "can opener"
+      }
+    ],
+    "cookingTips": [
+      "Drain peas and pimentos thoroughly to prevent watery salad",
+      "Dice cheese into uniform small pieces for even distribution",
+      "Chill salad for at least 1 hour before serving"
+    ],
+    "coachingPrompt": "Guide the user through simple ingredient combinations and explain how proper draining ensures the right consistency."
+  },
+  "timestamp": "2026-02-06T12:43:13.318Z"
+}

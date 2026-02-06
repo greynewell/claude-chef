@@ -1,0 +1,63 @@
+{
+  "contentHash": "791735f087752c7e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 tomatoes - peeled, seeded and diced",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "4 cups tomato juice",
+        "searchTerm": "tomato juice",
+        "normalizedName": "Tomato Juice"
+      },
+      {
+        "ingredient": "14 leaves fresh basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      },
+      {
+        "ingredient": "1 cup heavy whipping cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "cooking pot"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Fine Mesh Strainer",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Peel and seed tomatoes to remove water content and achieve deeper flavor concentration",
+      "Add fresh basil near the end of cooking to preserve its bright, delicate flavor",
+      "Temper cream by slowly adding hot soup to it before combining to prevent curdling"
+    ],
+    "coachingPrompt": "Guide the cook through proper tomato preparation and the importance of timing fresh herbs to maintain their essence in the finished soup."
+  },
+  "timestamp": "2026-02-06T16:14:24.333Z"
+}

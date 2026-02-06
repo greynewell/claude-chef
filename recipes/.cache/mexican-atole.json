@@ -1,0 +1,53 @@
+{
+  "contentHash": "287f3cf370c4384b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup masa (corn flour)",
+        "searchTerm": "masa corn flour",
+        "normalizedName": "Masa"
+      },
+      {
+        "ingredient": "5 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "5 tablespoons piloncillo, brown sugar cones",
+        "searchTerm": "piloncillo",
+        "normalizedName": "Piloncillo"
+      },
+      {
+        "ingredient": "1 tablespoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Mix masa with a little cold water first to create a slurry before adding to hot water to prevent lumps",
+      "Whisk constantly while adding masa slurry to prevent clumping",
+      "Crush piloncillo finely or dissolve it separately if it doesn't break down easily"
+    ],
+    "coachingPrompt": "This is a traditional Mexican beverage. Should I serve it hot or cold, and what's the best time to drink it?"
+  },
+  "timestamp": "2026-02-06T12:16:37.289Z"
+}

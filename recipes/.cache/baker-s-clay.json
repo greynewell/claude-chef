@@ -1,0 +1,43 @@
+{
+  "contentHash": "ef519e5f0f5a5a61",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 cup salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ½ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Measuring Cups",
+        "searchTerm": "measuring cups"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Mix ingredients until dough comes together; add water gradually to achieve correct consistency",
+      "Store unused clay in an airtight container for extended use",
+      "This is a craft material, not edible—clearly label and store separately from food"
+    ],
+    "coachingPrompt": "What properties of this dough make it suitable for craft projects rather than cooking?"
+  },
+  "timestamp": "2026-02-05T23:16:14.268Z"
+}

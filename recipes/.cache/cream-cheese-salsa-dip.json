@@ -1,0 +1,48 @@
+{
+  "contentHash": "141fdbca19de9841",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15 ounce) jar salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 cup shredded lettuce",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "serving platter",
+        "searchTerm": "platter"
+      }
+    ],
+    "cookingTips": [
+      "Layer ingredients in order for an appealing presentation: cream cheese base, then salsa, lettuce, and cheese on top",
+      "Use room temperature cream cheese for easier spreading",
+      "Serve with tortilla chips or fresh vegetables for dipping"
+    ],
+    "coachingPrompt": "Help the user create an attractive layered dip and understand how to balance flavors between salsa and cheese."
+  },
+  "timestamp": "2026-02-06T04:16:17.048Z"
+}

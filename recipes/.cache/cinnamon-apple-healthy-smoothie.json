@@ -1,0 +1,58 @@
+{
+  "contentHash": "0578c025fd105066",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup apple juice",
+        "searchTerm": "apple juice",
+        "normalizedName": "Apple Juice"
+      },
+      {
+        "ingredient": "1 pear, cored and sliced",
+        "searchTerm": "pear",
+        "normalizedName": "Pear"
+      },
+      {
+        "ingredient": "1 apple, cored and sliced",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "1 cup fresh spinach",
+        "searchTerm": "fresh spinach",
+        "normalizedName": "Fresh Spinach"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "½ cup ice",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Add liquid first to the blender to help fruits and greens blend smoothly",
+      "Blend until completely smooth, breaking down any leafy greens fully",
+      "Serve immediately for maximum nutrient retention and refreshing cold temperature"
+    ],
+    "coachingPrompt": "Guide the blender enthusiast on layer ordering for smooth consistency, incorporating greens without detection, and the benefits of fresh fruit smoothies."
+  },
+  "timestamp": "2026-02-06T03:22:50.714Z"
+}

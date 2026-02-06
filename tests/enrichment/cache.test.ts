@@ -6,7 +6,7 @@ import { CacheEntry, EnrichmentResult } from '../../src/enrichment/types';
 const TEST_CACHE_DIR = path.resolve(__dirname, '../../.test-cache');
 
 const mockEnrichment: EnrichmentResult = {
-  ingredients: [{ ingredient: 'flour', searchTerm: 'all purpose flour' }],
+  ingredients: [{ ingredient: 'flour', searchTerm: 'all purpose flour', normalizedName: 'Flour' }],
   gear: [{ name: 'mixing bowl', searchTerm: 'stainless steel mixing bowl' }],
   cookingTips: ['Sift flour for lighter texture'],
   coachingPrompt: 'Follow these steps carefully.',

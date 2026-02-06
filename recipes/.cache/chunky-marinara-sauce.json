@@ -1,0 +1,64 @@
+{
+  "contentHash": "0af5cf45ea4db08e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 clove garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can peeled and diced tomatoes",
+        "searchTerm": "canned diced tomatoes",
+        "normalizedName": "Canned Diced Tomato"
+      },
+      {
+        "ingredient": "1 (8 ounce) can tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Sauté onions and garlic slowly to caramelize and develop sweetness",
+      "Add a pinch of sugar to balance acidity from canned tomatoes",
+      "Simmer 15-20 minutes to meld flavors while maintaining chunky texture"
+    ],
+    "coachingPrompt": "Help the user build a simple, flavorful marinara from pantry staples and understand how gentle simmering develops complexity."
+  },
+  "timestamp": "2026-02-06T03:18:52.197Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "1138c5a2502c959d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup shallots, minced",
+        "searchTerm": "shallots",
+        "normalizedName": "Shallot"
+      },
+      {
+        "ingredient": "¾ cup dry white wine",
+        "searchTerm": "dry white wine",
+        "normalizedName": "White Wine"
+      },
+      {
+        "ingredient": "3 pounds mussels, cleaned and debearded",
+        "searchTerm": "mussels",
+        "normalizedName": "Mussel"
+      },
+      {
+        "ingredient": "½ cup chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot with lid",
+        "searchTerm": "pot with lid"
+      },
+      {
+        "name": "kitchen brush",
+        "searchTerm": "kitchen brush"
+      }
+    ],
+    "cookingTips": [
+      "Clean and debeard mussels just before cooking to keep them fresh",
+      "Discard any mussels that fail to open after cooking"
+    ],
+    "coachingPrompt": "How do you properly clean and prepare mussels for steaming?"
+  },
+  "timestamp": "2026-02-06T19:25:43.234Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "7e7c545ee2854f7d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 sweet potatoes, peeled and cut into cubes",
+        "searchTerm": "sweet potatoes",
+        "normalizedName": "Sweet Potato"
+      },
+      {
+        "ingredient": "⅓ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "¼ teaspoon ground allspice",
+        "searchTerm": "allspice",
+        "normalizedName": "Allspice"
+      },
+      {
+        "ingredient": "¼ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "½ (10.5 ounce) package miniature marshmallows",
+        "searchTerm": "marshmallows",
+        "normalizedName": "Marshmallow"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Potato Masher",
+        "searchTerm": "potato masher"
+      }
+    ],
+    "cookingTips": [
+      "Boil sweet potato cubes until very soft, about 12-15 minutes",
+      "Mash with spices while warm for better flavor distribution",
+      "Top with marshmallows and broil for 1-2 minutes until lightly toasted"
+    ],
+    "coachingPrompt": "Help the user boil and mash sweet potatoes with warm spices, transfer to a baking dish, top with marshmallows, and broil until toasted."
+  },
+  "timestamp": "2026-02-06T12:05:02.254Z"
+}

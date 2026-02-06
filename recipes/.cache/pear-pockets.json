@@ -1,0 +1,52 @@
+{
+  "contentHash": "a328e25f5888b581",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "crescent rolls, refrigerated",
+        "searchTerm": "crescent rolls",
+        "normalizedName": "Crescent Roll"
+      },
+      {
+        "ingredient": "peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "Asian pear, chopped",
+        "searchTerm": "Asian pear",
+        "normalizedName": "Asian Pear"
+      },
+      {
+        "ingredient": "cinnamon, ground",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "Cheddar cheese, shredded",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "small knife",
+        "searchTerm": "paring knife"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork for sealing"
+      }
+    ],
+    "cookingTips": [
+      "Seal pockets well with a fork to prevent filling from leaking during baking",
+      "Chop pears into small pieces so they cook evenly inside the pockets"
+    ],
+    "coachingPrompt": "What's the ideal ratio of sweet pear to savory peanut butter and cheese in each pocket?"
+  },
+  "timestamp": "2026-02-06T14:28:16.117Z"
+}

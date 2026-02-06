@@ -1,0 +1,67 @@
+{
+  "contentHash": "508ffa47bac39916",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 avocados, peeled and pitted",
+        "searchTerm": "avocados",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 teaspoon sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "2 tablespoons fresh lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "½ cup diced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 roma (plum) tomatoes, diced",
+        "searchTerm": "roma tomatoes",
+        "normalizedName": "Roma Tomato"
+      },
+      {
+        "ingredient": "3 tablespoons chopped cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "1 pinch cayenne pepper, or more to taste (Optional)",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "Chef's Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Add lime juice immediately after mashing avocado to prevent oxidation and browning",
+      "Use ripe but firm avocados that yield slightly to pressure"
+    ],
+    "coachingPrompt": "Help the user select properly ripened avocados and understand how to judge freshness by touch."
+  },
+  "timestamp": "2026-02-06T06:28:31.516Z"
+}

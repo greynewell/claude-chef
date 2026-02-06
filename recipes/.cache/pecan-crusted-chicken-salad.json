@@ -1,0 +1,68 @@
+{
+  "contentHash": "17abec7670944850",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup creamy garlic salad dressing",
+        "searchTerm": "garlic dressing",
+        "normalizedName": "Garlic Salad Dressing"
+      },
+      {
+        "ingredient": "1 cup finely chopped pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 head romaine lettuce leaves, torn into 1/2 inch wide strips",
+        "searchTerm": "romaine lettuce",
+        "normalizedName": "Romaine Lettuce"
+      },
+      {
+        "ingredient": "1 (15 ounce) can mandarin oranges, drained",
+        "searchTerm": "mandarin oranges",
+        "normalizedName": "Mandarin Orange"
+      },
+      {
+        "ingredient": "1 cup dried cranberries",
+        "searchTerm": "dried cranberries",
+        "normalizedName": "Dried Cranberry"
+      },
+      {
+        "ingredient": "4 ounces blue cheese, crumbled",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      },
+      {
+        "ingredient": "½ cup Ranch dressing",
+        "searchTerm": "Ranch dressing",
+        "normalizedName": "Ranch Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "shallow dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "salad bowl",
+        "searchTerm": "salad bowl"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken to even thickness before coating for uniform cooking",
+      "Press pecan coating firmly onto chicken so it adheres during cooking",
+      "Let coated chicken rest 10 minutes before cooking to set crust"
+    ],
+    "coachingPrompt": "What technique ensures the pecan crust stays crispy and doesn't fall off the chicken during cooking?"
+  },
+  "timestamp": "2026-02-06T14:29:08.097Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "078de590241f2dff",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ¾ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup quinoa",
+        "searchTerm": "quinoa",
+        "normalizedName": "Quinoa"
+      },
+      {
+        "ingredient": "1 ½ avocados - peeled, pitted, and diced, or more to taste",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "½ large pomegranate, peeled and seeds separated",
+        "searchTerm": "pomegranate",
+        "normalizedName": "Pomegranate"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ cup chopped fresh cilantro",
+        "searchTerm": "fresh cilantro",
+        "normalizedName": "Fresh Cilantro"
+      },
+      {
+        "ingredient": "1 lemon, juiced",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "cooking pot"
+      },
+      {
+        "name": "large bowl",
+        "searchTerm": "salad bowl"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fluffing fork"
+      }
+    ],
+    "cookingTips": [
+      "Rinse quinoa before cooking to remove saponin coating",
+      "Cook quinoa in 2:1 water ratio, fluff with fork after cooking",
+      "Add avocado and lemon juice just before serving"
+    ],
+    "coachingPrompt": "Help me cook fluffy quinoa and compose a nutritious salad with bright pomegranate and creamy avocado"
+  },
+  "timestamp": "2026-02-05T22:42:06.393Z"
+}

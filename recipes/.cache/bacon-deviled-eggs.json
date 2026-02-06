@@ -1,0 +1,43 @@
+{
+  "contentHash": "8178727c1b9ecfd9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "6 slices bacon",
+        "searchTerm": "bacon slices",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "¼ cup ranch dressing",
+        "searchTerm": "ranch dressing",
+        "normalizedName": "Ranch Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "piping bag",
+        "searchTerm": "piping bag"
+      }
+    ],
+    "cookingTips": [
+      "Boil eggs for 10-12 minutes, then cool in ice water for easy peeling",
+      "Cook bacon until crispy, then crumble finely for better texture in filling",
+      "Mix yolk filling until smooth and creamy before piping into egg white halves"
+    ],
+    "coachingPrompt": "Guide the user through boiling eggs perfectly and achieving a creamy, well-seasoned filling."
+  },
+  "timestamp": "2026-02-05T22:51:06.700Z"
+}

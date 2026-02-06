@@ -1,0 +1,39 @@
+{
+  "contentHash": "96102061b8e17462",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "tempeh, cut into strips",
+        "searchTerm": "tempeh",
+        "normalizedName": "Tempeh"
+      },
+      {
+        "ingredient": "tamari",
+        "searchTerm": "tamari soy sauce",
+        "normalizedName": "Tamari"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "cutting knife"
+      }
+    ],
+    "cookingTips": [
+      "Cut tempeh into thin, even strips for crispy bacon texture throughout",
+      "Cook over medium-high heat for 3-4 minutes per side until golden brown",
+      "Use tamari for a gluten-free salty umami flavor"
+    ],
+    "coachingPrompt": "Help the user understand how to achieve crispy edges while keeping the tempeh tender inside, and explain why tamari enhances the bacon-like taste."
+  },
+  "timestamp": "2026-02-06T20:23:26.335Z"
+}

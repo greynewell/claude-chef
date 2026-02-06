@@ -1,0 +1,48 @@
+{
+  "contentHash": "fa62bf66bf883d0a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 ounces mussels",
+        "searchTerm": "mussels",
+        "normalizedName": "Mussel"
+      },
+      {
+        "ingredient": "½ cup chicken stock",
+        "searchTerm": "chicken stock",
+        "normalizedName": "Chicken Stock"
+      },
+      {
+        "ingredient": "2 stalks lemongrass",
+        "searchTerm": "lemongrass",
+        "normalizedName": "Lemongrass"
+      },
+      {
+        "ingredient": "1 small bunch Thai basil, chopped",
+        "searchTerm": "thai basil",
+        "normalizedName": "Thai Basil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot with Lid",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Clean mussels thoroughly and discard any that don't close before cooking",
+      "Steam only until mussels open, about 3-5 minutes; discard any that don't open",
+      "Bruise lemongrass stalks to release more aromatic oils"
+    ],
+    "coachingPrompt": "Mussels are quick and elegant! Would you like tips on cleaning and selecting fresh ones?"
+  },
+  "timestamp": "2026-02-06T20:29:43.521Z"
+}

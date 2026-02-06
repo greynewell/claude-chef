@@ -1,0 +1,53 @@
+{
+  "contentHash": "2e489e88aa12bfb1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 ½ cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "1 dash salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "jar",
+        "searchTerm": "storage jar"
+      }
+    ],
+    "cookingTips": [
+      "Whisk cocoa powder with water gradually to avoid lumps",
+      "Simmer gently to prevent scorching",
+      "Cool before storing in airtight jar for up to two weeks"
+    ],
+    "coachingPrompt": "Explain the technique for smoothly dissolving cocoa powder to create a lump-free syrup."
+  },
+  "timestamp": "2026-02-06T03:13:30.662Z"
+}

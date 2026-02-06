@@ -1,0 +1,62 @@
+{
+  "contentHash": "8fd9f927a46807e5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 pounds chicken breasts",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 tablespoons ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon celery salt",
+        "searchTerm": "celery salt",
+        "normalizedName": "Celery Salt"
+      },
+      {
+        "ingredient": "1 pound celery, diced",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 medium red onion, diced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "1 teaspoon caraway seeds",
+        "searchTerm": "caraway seed",
+        "normalizedName": "Caraway Seed"
+      },
+      {
+        "ingredient": "30 ounces mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "large mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook chicken until just done to keep it tender; don't overcook",
+      "Dice vegetables uniformly for better texture distribution throughout salad"
+    ],
+    "coachingPrompt": "Help the user manage the large quantity and ensure even mixing of ingredients"
+  },
+  "timestamp": "2026-02-06T18:26:30.029Z"
+}

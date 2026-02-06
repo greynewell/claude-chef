@@ -1,0 +1,48 @@
+{
+  "contentHash": "92fd1cdd2b37e533",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 ½ cups confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "small saucepan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Brown the butter slowly over medium heat, watching carefully to avoid burning",
+      "Cool browned butter completely before mixing with sugar to prevent melting",
+      "Add milk gradually to reach desired spreading consistency"
+    ],
+    "coachingPrompt": "Guide the user through browning butter safely and explain how to recognize the nutty aroma and color change that signals proper browning."
+  },
+  "timestamp": "2026-02-06T00:48:07.754Z"
+}

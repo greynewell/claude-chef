@@ -1,0 +1,73 @@
+{
+  "contentHash": "94af8371f3d2274b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 large onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 cloves garlic, peeled and chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 (10 ounce) packages chopped frozen broccoli, thawed",
+        "searchTerm": "frozen broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "1 potato, peeled and chopped",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "4 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "¼ teaspoon ground nutmeg",
+        "searchTerm": "ground nutmeg",
+        "normalizedName": "Ground Nutmeg"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "soup pot"
+      },
+      {
+        "name": "Immersion Blender",
+        "searchTerm": "hand blender"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "frying pan"
+      }
+    ],
+    "cookingTips": [
+      "Sauté the onion and garlic in olive oil to build a flavorful base before adding broth",
+      "Add potato to provide body and creaminess to the soup without heavy cream",
+      "Blend the soup until smooth using an immersion blender for best texture"
+    ],
+    "coachingPrompt": "How can you create a naturally creamy broccoli soup using simple ingredients like potato instead of cream?"
+  },
+  "timestamp": "2026-02-06T00:44:33.130Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "34d05e000f0a91bc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "extra-virgin olive oil",
+        "searchTerm": "extra-virgin olive oil",
+        "normalizedName": "Extra-Virgin Olive Oil"
+      },
+      {
+        "ingredient": "sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "fresh rosemary",
+        "searchTerm": "fresh rosemary",
+        "normalizedName": "Rosemary"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "small zucchini",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "basting brush",
+        "searchTerm": "basting brush"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "grill tongs"
+      }
+    ],
+    "cookingTips": [
+      "Use smaller zucchini for more tender flesh and fewer seeds",
+      "Slice lengthwise to maximize grilling surface and create attractive grill marks",
+      "Drizzle with balsamic vinegar just before serving to brighten flavors without compromising the grill surface"
+    ],
+    "coachingPrompt": "How does the combination of rosemary and balsamic vinegar elevate simple grilled zucchini?"
+  },
+  "timestamp": "2026-02-06T08:31:06.343Z"
+}

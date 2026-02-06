@@ -1,0 +1,48 @@
+{
+  "contentHash": "f9ef784915d22f75",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10 ounce) can refrigerated pizza dough, separated into 8 portions",
+        "searchTerm": "pizza dough",
+        "normalizedName": "Pizza Dough"
+      },
+      {
+        "ingredient": "1 large jalapeno pepper, seeded and minced",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "3 ounces shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "coarse kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Remove jalapeno seeds to control heat level in the cookies",
+      "Distribute cheese and jalapeno evenly across each dough portion",
+      "Bake until golden and cheese is melted and bubbling"
+    ],
+    "coachingPrompt": "Help the user create savory appetizers by properly preparing jalapenos and distributing toppings evenly on pizza dough."
+  },
+  "timestamp": "2026-02-06T16:31:21.450Z"
+}

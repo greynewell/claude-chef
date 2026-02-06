@@ -1,0 +1,53 @@
+{
+  "contentHash": "0663f587b2748960",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 (14 ounce) can sweetened condensed milk",
+        "searchTerm": "condensed milk",
+        "normalizedName": "Condensed Milk"
+      },
+      {
+        "ingredient": "1 ¾ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "flan mold or ramekin",
+        "searchTerm": "flan mold"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "water bath pan",
+        "searchTerm": "roasting pan"
+      }
+    ],
+    "cookingTips": [
+      "Caramelize sugar slowly in the mold, tilting to coat evenly before adding custard",
+      "Bake flan in a water bath at proper temperature for creamy texture without cracks",
+      "Chill for at least 4 hours before inverting for best presentation"
+    ],
+    "coachingPrompt": "Help the cook understand the caramelization process and the importance of a water bath for even cooking this delicate custard dessert."
+  },
+  "timestamp": "2026-02-06T15:34:58.287Z"
+}

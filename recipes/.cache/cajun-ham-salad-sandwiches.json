@@ -1,0 +1,73 @@
+{
+  "contentHash": "1699f922d001e411",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 sweet bread and butter pickles",
+        "searchTerm": "bread and butter pickles",
+        "normalizedName": "Bread and Butter Pickle"
+      },
+      {
+        "ingredient": "¼ red onion, cut into large chunks",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "2 stalks celery, cut into large chunks",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "10 ounces baked ham, trimmed and cut into 1-inch chunks",
+        "searchTerm": "baked ham",
+        "normalizedName": "Baked Ham"
+      },
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 tablespoon whole-grain Dijon mustard",
+        "searchTerm": "whole-grain Dijon mustard",
+        "normalizedName": "Whole-Grain Dijon Mustard"
+      },
+      {
+        "ingredient": "½ teaspoon Cajun seasoning",
+        "searchTerm": "Cajun seasoning",
+        "normalizedName": "Cajun Seasoning"
+      },
+      {
+        "ingredient": "8 slices rye bread",
+        "searchTerm": "rye bread",
+        "normalizedName": "Rye Bread"
+      },
+      {
+        "ingredient": "8 lettuce leaves",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Pulse ham and vegetables in a food processor until chunky, not mushy",
+      "Chill the ham salad for at least 30 minutes before serving for better flavor development",
+      "Layer lettuce on bread to prevent sogginess from the moist ham salad"
+    ],
+    "coachingPrompt": "Help the user prepare a chunky ham salad with balanced flavors and guide them on proper bread and garnish selection for optimal texture."
+  },
+  "timestamp": "2026-02-06T01:10:31.781Z"
+}

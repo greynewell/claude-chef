@@ -1,0 +1,58 @@
+{
+  "contentHash": "ccd06e51c5c7ccb3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups cubed, cooked chicken meat",
+        "searchTerm": "cooked chicken",
+        "normalizedName": "Cooked Chicken"
+      },
+      {
+        "ingredient": "½ cup sliced carrots",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "½ cup sliced cucumber",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "¼ cup sliced black olives",
+        "searchTerm": "black olives",
+        "normalizedName": "Black Olive"
+      },
+      {
+        "ingredient": "¼ cup crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "¼ cup Italian-style salad dressing",
+        "searchTerm": "Italian dressing",
+        "normalizedName": "Italian Salad Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Use pre-cooked rotisserie chicken for convenience and flavor",
+      "Cut vegetables into similar sizes for consistent texture and presentation",
+      "Add dressing just before serving to prevent vegetables from becoming soggy"
+    ],
+    "coachingPrompt": "Can I make this ahead? How should I store it to keep the vegetables crisp?"
+  },
+  "timestamp": "2026-02-06T07:59:06.844Z"
+}

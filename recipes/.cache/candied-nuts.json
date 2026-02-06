@@ -1,0 +1,58 @@
+{
+  "contentHash": "c3fef40c7acb09dd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups raw peanuts",
+        "searchTerm": "peanuts",
+        "normalizedName": "Peanut"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "⅓ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 pinch coarse sea salt, or to taste",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "1 pinch ground cinnamon (Optional)",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "1 pinch chili powder (Optional)",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "candy thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Monitor temperature carefully to prevent burning",
+      "Spread on parchment paper immediately after cooking",
+      "Optional spices add complexity without overpowering"
+    ],
+    "coachingPrompt": "Guide temperature control and proper spreading technique."
+  },
+  "timestamp": "2026-02-06T01:18:28.874Z"
+}

@@ -1,0 +1,67 @@
+{
+  "contentHash": "57807f69d9b6d7ff",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 ½ cups raisins",
+        "searchTerm": "raisin",
+        "normalizedName": "Raisin"
+      },
+      {
+        "ingredient": "2 teaspoons baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "1 ½ cups boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "kettle",
+        "searchTerm": "kettle"
+      }
+    ],
+    "cookingTips": [
+      "Pouring boiling water over raisins and baking soda plumps the fruit and creates steam in the batter",
+      "This version is baked rather than steamed for a different texture"
+    ],
+    "coachingPrompt": "What's the purpose of the boiling water step in this brown bread recipe?"
+  },
+  "timestamp": "2026-02-06T00:29:51.257Z"
+}

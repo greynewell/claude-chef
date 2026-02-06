@@ -1,0 +1,43 @@
+{
+  "contentHash": "0fb6de3b72ca15b5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (11.75 ounce) loaf Pepperidge Farm® Frozen Mozzarella Garlic Cheese Bread",
+        "searchTerm": "mozzarella garlic bread",
+        "normalizedName": "Mozzarella Garlic Bread"
+      },
+      {
+        "ingredient": "½ cup Prego® Traditional Italian Sauce or Prego® Organic Tomato & Basil Italian Sauce",
+        "searchTerm": "Italian pasta sauce",
+        "normalizedName": "Italian Sauce"
+      },
+      {
+        "ingredient": "6 (1 ounce) frozen meatballs",
+        "searchTerm": "frozen meatballs",
+        "normalizedName": "Frozen Meatball"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown frozen meatballs in skillet first for better texture before adding to sauce",
+      "Simmer meatballs in sauce for 5-10 minutes to heat through and infuse flavor",
+      "Toast bread in oven per package instructions, then top with warm meatball mixture"
+    ],
+    "coachingPrompt": "This quick assembly uses convenience products. Would you like suggestions for homemade meatball and sauce alternatives?"
+  },
+  "timestamp": "2026-02-06T12:53:50.164Z"
+}

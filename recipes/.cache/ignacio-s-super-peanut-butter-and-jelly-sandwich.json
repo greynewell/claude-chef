@@ -1,0 +1,39 @@
+{
+  "contentHash": "93c6c4775ec40118",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "2 tablespoons fruit preserves",
+        "searchTerm": "fruit preserves",
+        "normalizedName": "Fruit Preserve"
+      },
+      {
+        "ingredient": "2 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Knife",
+        "searchTerm": "butter knife"
+      },
+      {
+        "name": "Plate",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Use creamy peanut butter for easier spreading",
+      "Spread peanut butter on outer bread slices to protect middle bread",
+      "Use quality preserves for better flavor and texture"
+    ],
+    "coachingPrompt": "Guide the user through creating the perfect ratio of peanut butter to jelly while explaining why the sandwich uses three slices of bread."
+  },
+  "timestamp": "2026-02-06T09:38:28.184Z"
+}

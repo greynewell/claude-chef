@@ -1,0 +1,68 @@
+{
+  "contentHash": "ee9a0f3f4750b70f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 head iceberg lettuce, torn into bite-sized pieces",
+        "searchTerm": "iceberg lettuce",
+        "normalizedName": "Iceberg Lettuce"
+      },
+      {
+        "ingredient": "1 cup shredded carrot",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "½ cup diced celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "¼ cup diced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (7 ounce) can albacore tuna in water, drained and flaked",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Canned Tuna"
+      },
+      {
+        "ingredient": "1 cup creamy salad dressing, e.g. Miracle Whip ™",
+        "searchTerm": "creamy salad dressing",
+        "normalizedName": "Creamy Salad Dressing"
+      },
+      {
+        "ingredient": "1 tablespoon prepared yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      },
+      {
+        "ingredient": "2 cups shoestring potatoes",
+        "searchTerm": "shoestring potatoes",
+        "normalizedName": "Shoestring Potato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "salad bowl",
+        "searchTerm": "large salad bowl"
+      },
+      {
+        "name": "can opener",
+        "searchTerm": "can opener"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Keep tuna and potatoes separate until serving to maintain texture",
+      "Chill all ingredients before assembling for a refreshing salad",
+      "Add dressing just before serving to keep lettuce crisp"
+    ],
+    "coachingPrompt": "I'm making a tuna salad with potatoes and vegetables. How can I keep the lettuce crisp and prevent the salad from getting soggy?"
+  },
+  "timestamp": "2026-02-06T11:46:17.211Z"
+}

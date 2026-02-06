@@ -1,0 +1,48 @@
+{
+  "contentHash": "25fb4b12f3dda3c0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound refrigerated bread dough",
+        "searchTerm": "bread dough",
+        "normalizedName": "Bread Dough"
+      },
+      {
+        "ingredient": "1 (8 ounce) package sliced pepperoni",
+        "searchTerm": "sliced pepperoni",
+        "normalizedName": "Pepperoni"
+      },
+      {
+        "ingredient": "1 (16 ounce) package shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Rolling Pin",
+        "searchTerm": "rolling pin"
+      },
+      {
+        "name": "Brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Roll dough into a rectangle and layer pepperoni and cheese evenly",
+      "Brush top with olive oil for golden, crispy crust",
+      "Bake at 375°F for 25-30 minutes until golden brown"
+    ],
+    "coachingPrompt": "This is a crowd-pleasing appetizer using convenience ingredients. Help the cook evenly distribute fillings and achieve a crispy, golden exterior."
+  },
+  "timestamp": "2026-02-06T15:15:47.212Z"
+}

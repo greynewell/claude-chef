@@ -1,0 +1,63 @@
+{
+  "contentHash": "0e31902c44e4a1d7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 carrots",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 apple",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "2 tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "¼ cup blanched slivered almonds",
+        "searchTerm": "almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Box Grater",
+        "searchTerm": "grater"
+      },
+      {
+        "name": "Large Mixing Bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Toss apple with lemon juice immediately to prevent browning",
+      "Toast almonds lightly before adding for enhanced flavor",
+      "Dress salad just before serving to maintain crispness"
+    ],
+    "coachingPrompt": "Would you like suggestions for variations, such as adding other nuts or dried fruits?"
+  },
+  "timestamp": "2026-02-06T01:32:23.829Z"
+}

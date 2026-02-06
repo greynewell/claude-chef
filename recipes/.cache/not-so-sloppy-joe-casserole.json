@@ -1,0 +1,68 @@
+{
+  "contentHash": "d0daf375c935d015",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (10 ounce) cans refrigerated biscuit dough",
+        "searchTerm": "biscuit dough",
+        "normalizedName": "Biscuit Dough"
+      },
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (15 ounce) can sloppy joe sauce",
+        "searchTerm": "sloppy joe sauce",
+        "normalizedName": "Sloppy Joe Sauce"
+      },
+      {
+        "ingredient": "1 small onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 small green bell pepper, seeded and chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "¼ teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "9x13 baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef and sauté vegetables before combining with sauce",
+      "Arrange biscuits in a single layer on top and bake until golden brown",
+      "Top with cheese in the last few minutes of baking for melting"
+    ],
+    "coachingPrompt": "Guide assembly order to ensure even cooking and help user understand how biscuits absorb flavorful sauce from below."
+  },
+  "timestamp": "2026-02-06T13:23:13.180Z"
+}

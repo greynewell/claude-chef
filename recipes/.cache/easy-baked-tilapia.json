@@ -1,0 +1,53 @@
+{
+  "contentHash": "9b790bee02f91043",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 (4 ounce) fillets tilapia",
+        "searchTerm": "tilapia fillets",
+        "normalizedName": "Tilapia Fillet"
+      },
+      {
+        "ingredient": "2 teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ teaspoon Old Bay Seasoning",
+        "searchTerm": "old bay seasoning",
+        "normalizedName": "Old Bay Seasoning"
+      },
+      {
+        "ingredient": "½ teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "1 lemon",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "1 (16 ounce) package frozen cauliflower with broccoli and red pepper",
+        "searchTerm": "frozen vegetables",
+        "normalizedName": "Frozen Cauliflower"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Arrange vegetables and fish together for one-pan cooking convenience",
+      "Don't overcook tilapia; it cooks quickly due to thin fillets"
+    ],
+    "coachingPrompt": "Help the user create a healthy, complete meal in one pan while preventing fish from drying out."
+  },
+  "timestamp": "2026-02-06T05:32:24.149Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "b9e7a57579c1f5c9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup broccoli florets",
+        "searchTerm": "broccoli florets",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "½ cup julienne-cut carrots",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "1 teaspoon seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "steamer basket",
+        "searchTerm": "steamer basket"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      }
+    ],
+    "cookingTips": [
+      "Cut broccoli and carrots into uniform sizes for even cooking",
+      "Drizzle with lemon juice after steaming for brightness"
+    ],
+    "coachingPrompt": "How can steaming vegetables preserve their nutrients and color?"
+  },
+  "timestamp": "2026-02-06T19:25:43.233Z"
+}

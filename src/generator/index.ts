@@ -1,9 +1,10 @@
 import * as fs from 'fs';
 import * as path from 'path';
+import * as crypto from 'crypto';
 import { execSync } from 'child_process';
 import { parseRecipeFile } from './parser';
 import { generateJsonLd, generateBreadcrumbJsonLd, generateWebSiteJsonLd, generateItemListJsonLd, generateCollectionPageJsonLd, generateTaxonomyIndexJsonLd, generateHubBreadcrumbJsonLd } from './structured-data';
-import { renderRecipePage, renderIndexPage, renderHubPage, renderTaxonomyIndexPage, renderAboutPage, renderContributePage, renderFavoritesPage, renderInstallPage, RECIPES_PER_PAGE, computePagination, generateManifestJson } from './template';
+import { renderRecipePage, renderIndexPage, renderHubPage, renderTaxonomyIndexPage, renderLetterPage, groupEntriesByLetter, renderAboutPage, renderContributePage, renderFavoritesPage, renderInstallPage, RECIPES_PER_PAGE, computePagination, generateManifestJson, baseStyles, mainScript } from './template';
 import { buildAllTaxonomies, toSlug } from './taxonomy';
 import { generateSitemap } from './sitemap';
 import { generateRobotsTxt } from './robots';
@@ -17,8 +18,33 @@ import { EnrichmentResult } from '../enrichment/types';
 import { buildProviders } from '../affiliates/registry';
 import { generateAffiliateLinks } from '../affiliates/link-generator';
 import { AffiliateLink } from '../affiliates/types';
+import { minify } from 'html-minifier-terser';
 
 const BASE_URL = 'https://claudechef.com';
+const BUILD_MANIFEST_FILE = '.build-manifest.json';
+
+interface BuildManifest {
+  /** Map of recipe slug to content hash */
+  recipes: Record<string, string>;
+}
+
+function contentHash(content: string): string {
+  return crypto.createHash('md5').update(content).digest('hex');
+}
+
+function readBuildManifest(outputDir: string): BuildManifest {
+  const manifestPath = path.join(outputDir, BUILD_MANIFEST_FILE);
+  try {
+    return JSON.parse(fs.readFileSync(manifestPath, 'utf-8'));
+  } catch {
+    return { recipes: {} };
+  }
+}
+
+function writeBuildManifest(outputDir: string, manifest: BuildManifest): void {
+  const manifestPath = path.join(outputDir, BUILD_MANIFEST_FILE);
+  fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2), 'utf-8');
+}
 
 function getCommitHash(): string {
   try {
@@ -30,20 +56,74 @@ function getCommitHash(): string {
 
 function getCommitDate(): string {
   try {
-    return execSync('git log -1 --format=%Y-%m-%d', { encoding: 'utf-8' }).trim();
+    return execSync('git log -1 --format=%cs', { encoding: 'utf-8' }).trim();
   } catch {
     return new Date().toISOString().split('T')[0];
   }
 }
 
+const MINIFY_OPTIONS = {
+  collapseWhitespace: true,
+  conservativeCollapse: false,
+  removeComments: true,
+  removeRedundantAttributes: true,
+  removeEmptyAttributes: true,
+  collapseBooleanAttributes: true,
+  removeScriptTypeAttributes: true,
+  removeStyleLinkTypeAttributes: true,
+  minifyCSS: true,
+  minifyJS: true,
+};
+
+async function writeMinifiedHtml(filePath: string, html: string): Promise<void> {
+  try {
+    const minified = await minify(html, MINIFY_OPTIONS);
+    fs.writeFileSync(filePath, minified, 'utf-8');
+  } catch {
+    // Fallback: write unminified if minifier chokes (e.g., unescaped quotes in attributes)
+    fs.writeFileSync(filePath, html, 'utf-8');
+  }
+}
+
+function minifyCss(css: string): string {
+  return css
+    .replace(/\/\*[\s\S]*?\*\//g, '')
+    .replace(/\s*([{}:;,>~+])\s*/g, '$1')
+    .replace(/;\}/g, '}')
+    .replace(/\s{2,}/g, ' ')
+    .trim();
+}
+
+function minifyJs(js: string): string {
+  // Basic JS minification: collapse whitespace around operators, remove comments
+  return js
+    .replace(/\/\*[\s\S]*?\*\//g, '')
+    .replace(/\/\/[^\n]*/g, '')
+    .replace(/\n\s+/g, '\n')
+    .replace(/\n{2,}/g, '\n')
+    .trim();
+}
+
 /**
  * Build the full static site from a recipes directory into an output directory.
+ * When force is false (default), only recipe pages whose markdown changed are regenerated.
+ * Aggregate pages (index, taxonomy, sitemap, etc.) are always rebuilt.
  */
-export function buildSite(recipesDir: string, outputDir: string): void {
+export async function buildSite(recipesDir: string, outputDir: string, force: boolean = false): Promise<void> {
   // Ensure output directory exists
   if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
   }
+
+  // Write shared CSS stylesheet (minified, extracted to avoid duplication per page)
+  fs.writeFileSync(path.join(outputDir, 'styles.css'), minifyCss(baseStyles()), 'utf-8');
+
+  // Write shared JavaScript (minified, extracted to avoid duplication per page)
+  fs.writeFileSync(path.join(outputDir, 'main.js'), minifyJs(mainScript()), 'utf-8');
+
+  // Load previous build manifest for incremental builds
+  const prevManifest = force ? { recipes: {} } : readBuildManifest(outputDir);
+  const newManifest: BuildManifest = { recipes: {} };
 
   // Find all .md files in recipes directory
   const files = fs.readdirSync(recipesDir).filter(f => f.endsWith('.md'));
@@ -53,11 +133,28 @@ export function buildSite(recipesDir: string, outputDir: string): void {
   const sitemapEntries: SitemapEntry[] = [];
   const allRecipes: ParsedRecipe[] = [];
 
-  // Load affiliate providers from env
-  const providers = buildProviders(process.env as Record<string, string | undefined>);
-
   // Cache directory lives alongside recipes
   const cacheDir = path.join(recipesDir, '.cache');
+
+  // Compute content hashes for each recipe file (including enrichment cache)
+  const recipeHashes = new Map<string, string>();
+  for (const file of files) {
+    const filePath = path.join(recipesDir, file);
+    const raw = fs.readFileSync(filePath, 'utf-8');
+    const slug = path.basename(file, '.md');
+    // Include enrichment cache in hash so pages regenerate when enrichment changes
+    const enrichmentPath = path.join(cacheDir, `${slug}.json`);
+    let enrichmentContent = '';
+    try {
+      enrichmentContent = fs.readFileSync(enrichmentPath, 'utf-8');
+    } catch {
+      // No enrichment cache yet
+    }
+    recipeHashes.set(slug, contentHash(raw + enrichmentContent));
+  }
+
+  // Load affiliate providers from env
+  const providers = buildProviders(process.env as Record<string, string | undefined>);
 
   // First pass: parse all recipes
   for (const file of files) {
@@ -84,11 +181,49 @@ export function buildSite(recipesDir: string, outputDir: string): void {
     // Missing file or bad JSON — treat as empty
   }
 
-  // Build taxonomies
-  const taxonomies = buildAllTaxonomies(allRecipes);
+  // Load enrichment data for ingredient normalization
+  // This allows the LLM-normalized ingredient names to be used for taxonomy
+  const ingredientOverrides = new Map<string, string[]>();
+  for (const recipe of allRecipes) {
+    const cached = readCache(cacheDir, recipe.slug);
+    if (cached?.enrichment?.ingredients) {
+      // Extract normalized names from enrichment, filtering out undefined
+      const normalizedNames = cached.enrichment.ingredients
+        .map(ing => ing.normalizedName)
+        .filter((name): name is string => !!name);
+      if (normalizedNames.length > 0) {
+        ingredientOverrides.set(recipe.slug, normalizedNames);
+      }
+    }
+  }
+
+  // Build taxonomies with ingredient overrides from enrichment
+  // Only create ingredient pages for ingredients with 3+ recipes
+  const taxonomies = buildAllTaxonomies(allRecipes, { ingredientOverrides, ingredientMinRecipes: 3 });
 
   // Second pass: render each recipe with resolved pairings
+  let skippedCount = 0;
+  let generatedCount = 0;
+
   for (const recipe of allRecipes) {
+    const hash = recipeHashes.get(recipe.slug) || '';
+    newManifest.recipes[recipe.slug] = hash;
+
+    // Add sitemap entry (always — even for skipped pages)
+    sitemapEntries.push({
+      loc: `${BASE_URL}/${recipe.slug}.html`,
+      lastmod: commitDate,
+      priority: '0.8',
+      changefreq: 'weekly',
+    });
+
+    // Skip rendering if content hasn't changed and the HTML file exists
+    const outputFile = path.join(outputDir, `${recipe.slug}.html`);
+    if (prevManifest.recipes[recipe.slug] === hash && fs.existsSync(outputFile)) {
+      skippedCount++;
+      continue;
+    }
+
     // Resolve pairings slugs to actual recipes
     const pairings: ParsedRecipe[] = [];
     if (recipe.frontmatter.pairings) {
@@ -137,17 +272,9 @@ export function buildSite(recipesDir: string, outputDir: string): void {
       categoryBreadcrumb: categoryBreadcrumb || null,
     });
 
-    // Write to output
-    const outputFile = path.join(outputDir, `${recipe.slug}.html`);
-    fs.writeFileSync(outputFile, html, 'utf-8');
-
-    // Add sitemap entry
-    sitemapEntries.push({
-      loc: `${BASE_URL}/${recipe.slug}.html`,
-      lastmod: commitDate,
-      priority: '0.8',
-      changefreq: 'weekly',
-    });
+    // Write minified HTML to output
+    await writeMinifiedHtml(outputFile, html);
+    generatedCount++;
   }
 
   // Generate taxonomy hub pages and index pages
@@ -180,7 +307,7 @@ export function buildSite(recipesDir: string, outputDir: string): void {
         }, taxonomy.label);
 
         const fileName = page === 1 ? `${entry.slug}.html` : `${entry.slug}-page-${page}.html`;
-        fs.writeFileSync(path.join(typeDir, fileName), hubHtml, 'utf-8');
+        await writeMinifiedHtml(path.join(typeDir, fileName), hubHtml);
 
         sitemapEntries.push({
           loc: `${BASE_URL}/${taxonomy.type}/${fileName}`,
@@ -198,7 +325,7 @@ export function buildSite(recipesDir: string, outputDir: string): void {
       itemListJsonLd: taxIndexJsonLd,
       breadcrumbJsonLd: taxBreadcrumbJsonLd,
     });
-    fs.writeFileSync(path.join(typeDir, 'index.html'), taxIndexHtml, 'utf-8');
+    await writeMinifiedHtml(path.join(typeDir, 'index.html'), taxIndexHtml);
 
     sitemapEntries.push({
       loc: `${BASE_URL}/${taxonomy.type}/index.html`,
@@ -206,17 +333,41 @@ export function buildSite(recipesDir: string, outputDir: string): void {
       priority: '0.7',
       changefreq: 'weekly',
     });
+
+    // Generate letter pages for large taxonomies (50+ entries)
+    const LARGE_THRESHOLD = 50;
+    if (taxonomy.entries.length > LARGE_THRESHOLD) {
+      const byLetter = groupEntriesByLetter(taxonomy.entries);
+      const sortedLetters = [...byLetter.keys()].sort((a, b) => a === '#' ? 1 : b === '#' ? -1 : a.localeCompare(b));
+
+      for (const letter of sortedLetters) {
+        const entries = byLetter.get(letter)!;
+        const letterSlug = letter === '#' ? 'other' : letter.toLowerCase();
+        const letterHtml = renderLetterPage(taxonomy, letter, entries, sortedLetters, { favoriteSlugs });
+        await writeMinifiedHtml(path.join(typeDir, `letter-${letterSlug}.html`), letterHtml);
+
+        sitemapEntries.push({
+          loc: `${BASE_URL}/${taxonomy.type}/letter-${letterSlug}.html`,
+          lastmod: commitDate,
+          priority: '0.5',
+          changefreq: 'weekly',
+        });
+      }
+    }
   }
 
   // Generate index page with structured data
   const webSiteJsonLd = generateWebSiteJsonLd(BASE_URL);
-  const itemListJsonLd = generateItemListJsonLd(allRecipes, BASE_URL);
+  // Only include favorited recipes in the ItemList JSON-LD (not all 10K+)
+  const indexFavRecipes = favoriteSlugs.map(s => recipeBySlug.get(s)!).filter(Boolean);
+  const indexListRecipes = indexFavRecipes.length > 0 ? indexFavRecipes : allRecipes.slice(0, 20);
+  const itemListJsonLd = generateItemListJsonLd(indexListRecipes, BASE_URL);
   const indexHtml = renderIndexPage(allRecipes, { webSiteJsonLd, itemListJsonLd, taxonomies, favoriteSlugs });
-  fs.writeFileSync(path.join(outputDir, 'index.html'), indexHtml, 'utf-8');
+  await writeMinifiedHtml(path.join(outputDir, 'index.html'), indexHtml);
 
   // Generate about page
   const aboutHtml = renderAboutPage();
-  fs.writeFileSync(path.join(outputDir, 'about.html'), aboutHtml, 'utf-8');
+  await writeMinifiedHtml(path.join(outputDir, 'about.html'), aboutHtml);
 
   sitemapEntries.push({
     loc: `${BASE_URL}/about.html`,
@@ -227,7 +378,7 @@ export function buildSite(recipesDir: string, outputDir: string): void {
 
   // Generate contribute page
   const contributeHtml = renderContributePage();
-  fs.writeFileSync(path.join(outputDir, 'contribute.html'), contributeHtml, 'utf-8');
+  await writeMinifiedHtml(path.join(outputDir, 'contribute.html'), contributeHtml);
 
   sitemapEntries.push({
     loc: `${BASE_URL}/contribute.html`,
@@ -238,7 +389,7 @@ export function buildSite(recipesDir: string, outputDir: string): void {
 
   // Generate install page
   const installHtml = renderInstallPage();
-  fs.writeFileSync(path.join(outputDir, 'install.html'), installHtml, 'utf-8');
+  await writeMinifiedHtml(path.join(outputDir, 'install.html'), installHtml);
 
   sitemapEntries.push({
     loc: `${BASE_URL}/install.html`,
@@ -262,7 +413,7 @@ export function buildSite(recipesDir: string, outputDir: string): void {
     itemListJsonLd: favoritesItemListJsonLd,
     breadcrumbJsonLd: favoritesBreadcrumbJsonLd,
   });
-  fs.writeFileSync(path.join(outputDir, 'favorites.html'), favoritesHtml, 'utf-8');
+  await writeMinifiedHtml(path.join(outputDir, 'favorites.html'), favoritesHtml);
 
   sitemapEntries.push({
     loc: `${BASE_URL}/favorites.html`,
@@ -273,7 +424,7 @@ export function buildSite(recipesDir: string, outputDir: string): void {
 
   // Generate developer docs page
   const docsHtml = renderDocsPage();
-  fs.writeFileSync(path.join(outputDir, 'docs.html'), docsHtml, 'utf-8');
+  await writeMinifiedHtml(path.join(outputDir, 'docs.html'), docsHtml);
 
   sitemapEntries.push({
     loc: `${BASE_URL}/docs.html`,
@@ -284,7 +435,7 @@ export function buildSite(recipesDir: string, outputDir: string): void {
 
   // Generate changelog page
   const changelogHtml = renderChangelogPage();
-  fs.writeFileSync(path.join(outputDir, 'changelog.html'), changelogHtml, 'utf-8');
+  await writeMinifiedHtml(path.join(outputDir, 'changelog.html'), changelogHtml);
 
   sitemapEntries.push({
     loc: `${BASE_URL}/changelog.html`,
@@ -329,13 +480,26 @@ export function buildSite(recipesDir: string, outputDir: string): void {
 
   // Generate CNAME for GitHub Pages custom domain
   fs.writeFileSync(path.join(outputDir, 'CNAME'), 'claudechef.com\n', 'utf-8');
+
+  // Write build manifest for next incremental build
+  writeBuildManifest(outputDir, newManifest);
+
+  // Log build summary
+  if (skippedCount > 0) {
+    console.log(`  Recipes: ${generatedCount} generated, ${skippedCount} unchanged (skipped)`);
+  }
 }
 
 // CLI entry point
 if (require.main === module) {
   const recipesDir = path.resolve(__dirname, '../../recipes');
   const outputDir = path.resolve(__dirname, '../../docs');
-  console.log(`Building site from ${recipesDir} -> ${outputDir}`);
-  buildSite(recipesDir, outputDir);
-  console.log('Site built successfully.');
+  const force = process.argv.includes('--force');
+  console.log(`Building site from ${recipesDir} -> ${outputDir}${force ? ' (full rebuild)' : ''}`);
+  buildSite(recipesDir, outputDir, force).then(() => {
+    console.log('Site built successfully.');
+  }).catch((err) => {
+    console.error('Build failed:', err);
+    process.exit(1);
+  });
 }

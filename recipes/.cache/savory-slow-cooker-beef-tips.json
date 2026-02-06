@@ -1,0 +1,63 @@
+{
+  "contentHash": "f370c79acdb63327",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds beef stew meat",
+        "searchTerm": "beef stew meat",
+        "normalizedName": "Beef Stew Meat"
+      },
+      {
+        "ingredient": "2 (10.75 ounce) cans cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 (1 ounce) envelope dry onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      },
+      {
+        "ingredient": "1 onion, minced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 garlic cloves, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 (8 ounce) package sliced cremini mushrooms",
+        "searchTerm": "cremini mushrooms",
+        "normalizedName": "Cremini Mushroom"
+      },
+      {
+        "ingredient": "1 cup ginger ale",
+        "searchTerm": "ginger ale",
+        "normalizedName": "Ginger Ale"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Brown the beef before adding to slow cooker for deeper flavor",
+      "Use low setting for 6-8 hours or high for 3-4 hours for tender meat",
+      "Add mushrooms in the last hour to prevent them from becoming too soft"
+    ],
+    "coachingPrompt": "How would you enhance this slow cooker dish with fresh herbs or wine?"
+  },
+  "timestamp": "2026-02-06T17:06:48.966Z"
+}

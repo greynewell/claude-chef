@@ -1,0 +1,58 @@
+{
+  "contentHash": "1fac76cd27c888bd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "knockwurst",
+        "searchTerm": "knockwurst",
+        "normalizedName": "Knockwurst"
+      },
+      {
+        "ingredient": "salted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "deli sliced corned beef",
+        "searchTerm": "corned beef",
+        "normalizedName": "Corned Beef"
+      },
+      {
+        "ingredient": "rye bread",
+        "searchTerm": "rye bread",
+        "normalizedName": "Rye Bread"
+      },
+      {
+        "ingredient": "slices Swiss cheese",
+        "searchTerm": "swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "spicy brown mustard",
+        "searchTerm": "brown mustard",
+        "normalizedName": "Brown Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      }
+    ],
+    "cookingTips": [
+      "Brown knockwurst first to develop flavor before stacking",
+      "Layer corned beef and cheese while knockwurst is warm to melt cheese",
+      "Toast bread lightly to add structure for hearty sandwich"
+    ],
+    "coachingPrompt": "What makes the combination of knockwurst and corned beef work together?"
+  },
+  "timestamp": "2026-02-06T03:53:30.140Z"
+}

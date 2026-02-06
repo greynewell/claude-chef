@@ -1,0 +1,63 @@
+{
+  "contentHash": "36771c9ac5eab4fe",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound penne pasta",
+        "searchTerm": "penne pasta",
+        "normalizedName": "Penne"
+      },
+      {
+        "ingredient": "½ pound lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (26 ounce) jar pasta sauce",
+        "searchTerm": "pasta sauce",
+        "normalizedName": "Pasta Sauce"
+      },
+      {
+        "ingredient": "1 (15 ounce) container ricotta cheese",
+        "searchTerm": "ricotta cheese",
+        "normalizedName": "Ricotta"
+      },
+      {
+        "ingredient": "8 ounces shredded mozzarella cheese, divided",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan",
+        "normalizedName": "Parmesan"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly and drain excess fat before combining with sauce",
+      "Mix ricotta with egg before layering to ensure even binding throughout the dish",
+      "Reserve some mozzarella for topping to ensure a golden crust"
+    ],
+    "coachingPrompt": "How would you build layers in this pasta bake to ensure even cooking and proper binding?"
+  },
+  "timestamp": "2026-02-06T14:14:47.160Z"
+}

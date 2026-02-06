@@ -1,0 +1,48 @@
+{
+  "contentHash": "df2fb2ff538007bc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 head cauliflower, cut into florets",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      },
+      {
+        "ingredient": "½ cup whipped cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot for boiling",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Colander for draining",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Potato masher or immersion blender",
+        "searchTerm": "masher"
+      }
+    ],
+    "cookingTips": [
+      "Steam cauliflower instead of boiling to preserve flavor and reduce wateriness",
+      "Dry cauliflower thoroughly after cooking to prevent a watery mash",
+      "Use whipped cream cheese for smoother, fluffier results"
+    ],
+    "coachingPrompt": "This is a low-carb potato alternative. How can you make it taste indistinguishable from the real thing?"
+  },
+  "timestamp": "2026-02-06T11:36:10.177Z"
+}

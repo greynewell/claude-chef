@@ -1,0 +1,53 @@
+{
+  "contentHash": "734a04fac49ea380",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds new potatoes, cut into wedges",
+        "searchTerm": "new potatoes",
+        "normalizedName": "New Potato"
+      },
+      {
+        "ingredient": "4 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 teaspoons fresh rosemary",
+        "searchTerm": "fresh rosemary",
+        "normalizedName": "Fresh Rosemary"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Toss potatoes evenly with melted butter before roasting to ensure even browning",
+      "Roast at 425°F for 25-30 minutes until golden and crispy on the edges",
+      "Add fresh rosemary midway through cooking to prevent burning"
+    ],
+    "coachingPrompt": "What potato size ensures even cooking? How do you achieve crispy exteriors?"
+  },
+  "timestamp": "2026-02-06T05:27:03.255Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "2dd63eb8e10d869a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 sheets phyllo dough, thawed",
+        "searchTerm": "phyllo dough",
+        "normalizedName": "Phyllo Dough"
+      },
+      {
+        "ingredient": "3 tablespoons melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 egg white, lightly beaten",
+        "searchTerm": "egg white",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "3 tablespoons everything bagel seasoning",
+        "searchTerm": "everything bagel seasoning",
+        "normalizedName": "Everything Bagel Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Pastry Brush",
+        "searchTerm": "pastry brush"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "sharp knife"
+      }
+    ],
+    "cookingTips": [
+      "Keep phyllo dough covered with a damp towel while working to prevent drying",
+      "Brush each layer of phyllo lightly with melted butter for best crispiness",
+      "Cut into squares before baking for easier handling and even cooking"
+    ],
+    "coachingPrompt": "How do I work with delicate phyllo dough without tearing it?"
+  },
+  "timestamp": "2026-02-06T06:24:33.743Z"
+}

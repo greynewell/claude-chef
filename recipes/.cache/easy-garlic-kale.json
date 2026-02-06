@@ -1,0 +1,43 @@
+{
+  "contentHash": "2e5add108061e274",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 bunch kale",
+        "searchTerm": "kale",
+        "normalizedName": "Kale"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "serving dish",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Remove tough center ribs from kale before cooking",
+      "Don't overcook; kale should be wilted but still bright green",
+      "Stir occasionally to cook evenly"
+    ],
+    "coachingPrompt": "Coach the user on removing kale stems and achieving perfectly wilted greens without bitterness."
+  },
+  "timestamp": "2026-02-06T05:45:16.338Z"
+}

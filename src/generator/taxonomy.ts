@@ -73,23 +73,6 @@ export const TAXONOMY_CONFIGS: TaxonomyConfig[] = [
     collectionDescription: (name) => `Recipes featuring ${name.toLowerCase()} from Claude Chef.`,
   },
   {
-    type: 'allergy',
-    label: 'Allergies',
-    labelSingular: 'Allergy',
-    extract: (r) => r.frontmatter.allergies || [],
-    invert: true,
-    hubTitle: (name) => `${name} Recipes`,
-    hubMetaDescription: (name) => `Browse ${name.toLowerCase()} recipes from Claude Chef.`,
-    hubSubheading: (name, count, start?, end?) => {
-      if (start !== undefined && end !== undefined) {
-        return `Showing ${formatNumber(start)}\u2013${formatNumber(end)} of ${formatNumber(count)} ${name.toLowerCase()} recipes`;
-      }
-      return `${formatNumber(count)} ${name.toLowerCase()} recipe${count === 1 ? '' : 's'}`;
-    },
-    indexDescription: 'Find recipes free from common allergens.',
-    collectionDescription: (name) => `${name} recipes from Claude Chef.`,
-  },
-  {
     type: 'flavor',
     label: 'Flavors',
     labelSingular: 'Flavor',
@@ -99,17 +82,6 @@ export const TAXONOMY_CONFIGS: TaxonomyConfig[] = [
     hubSubheading: defaultSubheading('featuring'),
     indexDescription: 'Find recipes by flavor profile.',
     collectionDescription: (name) => `${name} recipes from Claude Chef.`,
-  },
-  {
-    type: 'sauce',
-    label: 'Sauces',
-    labelSingular: 'Sauce',
-    extract: (r) => r.frontmatter.sauces || [],
-    hubTitle: (name) => `Recipes with ${name} Sauce`,
-    hubMetaDescription: (name) => `Browse recipes with ${name.toLowerCase()} sauce from Claude Chef.`,
-    hubSubheading: defaultSubheading('with'),
-    indexDescription: 'Browse recipes by sauce.',
-    collectionDescription: (name) => `Recipes with ${name.toLowerCase()} sauce from Claude Chef.`,
   },
   {
     type: 'tool',
@@ -133,33 +105,50 @@ export const TAXONOMY_CONFIGS: TaxonomyConfig[] = [
     indexDescription: 'Browse recipes by difficulty level.',
     collectionDescription: (name) => `${name} recipes from Claude Chef.`,
   },
-  {
-    type: 'author',
-    label: 'Authors',
-    labelSingular: 'Author',
-    extract: (r) => [r.frontmatter.author],
-    hubTitle: (name) => `Recipes by ${name}`,
-    hubMetaDescription: (name) => `Browse recipes by ${name} on Claude Chef.`,
-    hubSubheading: defaultSubheading('by'),
-    indexDescription: 'Browse recipes by author.',
-    collectionDescription: (name) => `Recipes by ${name} on Claude Chef.`,
-  },
 ];
+
+/**
+ * Options for building taxonomies.
+ */
+export interface TaxonomyBuildOptions {
+  /**
+   * Override ingredient names per recipe slug.
+   * When provided, these normalized names are used instead of frontmatter.recipe_ingredients.
+   * This allows enrichment data to provide cleaner, deduplicated ingredient taxonomy.
+   */
+  ingredientOverrides?: Map<string, string[]>;
+  /**
+   * Minimum recipe count for ingredient taxonomy entries.
+   * Ingredients with fewer recipes than this threshold are excluded.
+   * Default: 1 (no filtering)
+   */
+  ingredientMinRecipes?: number;
+}
 
 /**
  * Build all taxonomies from parsed recipes using the data-driven config.
  * Entries are sorted alphabetically by slug; first-seen casing is preserved for display name.
  */
-export function buildAllTaxonomies(recipes: ParsedRecipe[]): Taxonomy[] {
+export function buildAllTaxonomies(recipes: ParsedRecipe[], options: TaxonomyBuildOptions = {}): Taxonomy[] {
+  const { ingredientOverrides, ingredientMinRecipes = 1 } = options;
+
   return TAXONOMY_CONFIGS.map((config) => {
     const map = new Map<string, { name: string; recipes: ParsedRecipe[] }>();
+
+    // For ingredient taxonomy, use overrides when available
+    const getValues = (recipe: ParsedRecipe): string[] => {
+      if (config.type === 'ingredient' && ingredientOverrides?.has(recipe.slug)) {
+        return ingredientOverrides.get(recipe.slug)!;
+      }
+      return config.extract(recipe);
+    };
 
     if (config.invert) {
       // Inverted taxonomy: collect all unique values, then for each value
       // include recipes that do NOT have it.
       const allValues = new Map<string, string>(); // slug → first-seen display name
       for (const recipe of recipes) {
-        for (const value of config.extract(recipe)) {
+        for (const value of getValues(recipe)) {
           const slug = toSlug(value);
           if (slug && !allValues.has(slug)) {
             allValues.set(slug, value);
@@ -168,14 +157,14 @@ export function buildAllTaxonomies(recipes: ParsedRecipe[]): Taxonomy[] {
       }
       for (const [slug, originalName] of allValues) {
         const recipesWithout = recipes.filter((recipe) => {
-          const slugs = config.extract(recipe).map((v) => toSlug(v));
+          const slugs = getValues(recipe).map((v) => toSlug(v));
           return !slugs.includes(slug);
         });
         map.set(slug, { name: `No ${originalName}`, recipes: recipesWithout });
       }
     } else {
       for (const recipe of recipes) {
-        const values = config.extract(recipe);
+        const values = getValues(recipe);
         for (const value of values) {
           const slug = toSlug(value);
           if (slug) {
@@ -190,9 +179,14 @@ export function buildAllTaxonomies(recipes: ParsedRecipe[]): Taxonomy[] {
       }
     }
 
-    const entries: TaxonomyEntry[] = Array.from(map.entries())
+    let entries: TaxonomyEntry[] = Array.from(map.entries())
       .sort(([a], [b]) => a.localeCompare(b))
       .map(([slug, { name, recipes: recs }]) => ({ name, slug, recipes: recs }));
+
+    // Apply minimum recipe count filter for ingredient taxonomy
+    if (config.type === 'ingredient' && ingredientMinRecipes > 1) {
+      entries = entries.filter((entry) => entry.recipes.length >= ingredientMinRecipes);
+    }
 
     const descriptions: TaxonomyDescriptions = {
       hubTitle: config.hubTitle,

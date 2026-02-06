@@ -1,0 +1,52 @@
+{
+  "contentHash": "54c04452cb940944",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "⅛ teaspoon cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "24 pimento-stuffed green olives",
+        "searchTerm": "green olives",
+        "normalizedName": "Green Olive"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Make sure butter is softened to easily combine with cheese and flour",
+      "Wrap dough evenly around each olive to prevent exposed filling during baking"
+    ],
+    "coachingPrompt": "What's the best way to seal the cheese dough around the olives to prevent the filling from leaking?"
+  },
+  "timestamp": "2026-02-05T23:01:02.495Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "651e2d2836f8ce3d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "3 slices bread, toasted",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "3 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 leaves lettuce",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "2 (1 ounce) slices cooked deli turkey breast",
+        "searchTerm": "turkey breast",
+        "normalizedName": "Turkey Breast"
+      },
+      {
+        "ingredient": "2 slices tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread while bacon is still warm for better texture and flavor absorption",
+      "Layer ingredients in order for stability: bottom bread, mayo, turkey, lettuce, tomato, bacon, top bread"
+    ],
+    "coachingPrompt": "What's the traditional way to cut and serve a classic club sandwich?"
+  },
+  "timestamp": "2026-02-06T11:34:17.537Z"
+}

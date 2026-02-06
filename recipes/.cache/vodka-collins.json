@@ -1,0 +1,62 @@
+{
+  "contentHash": "0b4f36c0c8272b9b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ fluid ounces vodka",
+        "searchTerm": "vodka",
+        "normalizedName": "Vodka"
+      },
+      {
+        "ingredient": "3 fluid ounces sweet and sour mix",
+        "searchTerm": "sweet and sour mix",
+        "normalizedName": "Sweet And Sour Mix"
+      },
+      {
+        "ingredient": "1 cup carbonated water",
+        "searchTerm": "carbonated water",
+        "normalizedName": "Carbonated Water"
+      },
+      {
+        "ingredient": "1 slice orange, garnish",
+        "searchTerm": "orange",
+        "normalizedName": "Orange"
+      },
+      {
+        "ingredient": "1 maraschino cherry, garnish",
+        "searchTerm": "maraschino cherry",
+        "normalizedName": "Maraschino Cherry"
+      },
+      {
+        "ingredient": "ice",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cocktail shaker",
+        "searchTerm": "cocktail shaker"
+      },
+      {
+        "name": "Collins glass",
+        "searchTerm": "Collins glass"
+      },
+      {
+        "name": "Jigger",
+        "searchTerm": "jigger"
+      },
+      {
+        "name": "Bar spoon",
+        "searchTerm": "bar spoon"
+      }
+    ],
+    "cookingTips": [
+      "Chill the glass with ice before filling for a colder cocktail",
+      "Use fresh ice and add carbonated water last to preserve carbonation",
+      "Stir gently after adding carbonated water to maintain the fizz"
+    ],
+    "coachingPrompt": "Guide the user through mixing a refreshing vodka Collins with proper proportions and carbonation."
+  },
+  "timestamp": "2026-02-06T21:52:16.105Z"
+}

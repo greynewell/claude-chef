@@ -1,0 +1,47 @@
+{
+  "contentHash": "1a12ec58981e2407",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon grated onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cup creamy salad dressing",
+        "searchTerm": "creamy salad dressing",
+        "normalizedName": "Creamy Salad Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor or blender",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy and crumble into small pieces for texture",
+      "Let spread come to room temperature before serving for best spreadability"
+    ],
+    "coachingPrompt": "This spread is versatile - what would you like to serve it with? Crackers, bread, or vegetables?"
+  },
+  "timestamp": "2026-02-05T22:50:08.871Z"
+}

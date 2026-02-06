@@ -1,0 +1,62 @@
+{
+  "contentHash": "b08e46538a7f6ef2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 apples",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "2 cups oats",
+        "searchTerm": "oats",
+        "normalizedName": "Oat"
+      },
+      {
+        "ingredient": "1 cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 teaspoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "peeler",
+        "searchTerm": "peeler"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Toss apples with cinnamon before layering for even spice distribution",
+      "Bake until oat topping is golden brown and fruit is tender"
+    ],
+    "coachingPrompt": "How can you make this dessert work for dietary restrictions while maintaining texture?"
+  },
+  "timestamp": "2026-02-06T17:49:50.920Z"
+}

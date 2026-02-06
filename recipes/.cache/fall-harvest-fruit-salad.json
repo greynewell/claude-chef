@@ -1,0 +1,72 @@
+{
+  "contentHash": "6b935eccc8f46ce9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 medium ripe pears - peeled, cored, and cubed",
+        "searchTerm": "pears",
+        "normalizedName": "Pear"
+      },
+      {
+        "ingredient": "4 medium apples - peeled, cored, and cubed",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 cup sweetened dried cranberries (such as Craisins®)",
+        "searchTerm": "dried cranberries",
+        "normalizedName": "Dried Cranberry"
+      },
+      {
+        "ingredient": "½ cup chopped walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "½ cup granola",
+        "searchTerm": "granola",
+        "normalizedName": "Granola"
+      },
+      {
+        "ingredient": "½ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "½ teaspoon ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Paring Knife",
+        "searchTerm": "paring knife"
+      },
+      {
+        "name": "Measuring Cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Toss fruit with lemon juice immediately after cutting to prevent browning",
+      "Add granola just before serving to keep it crispy and prevent sogginess"
+    ],
+    "coachingPrompt": "Guide the user on timing - when to prep each component and how to prevent the salad from becoming soggy."
+  },
+  "timestamp": "2026-02-06T06:28:31.515Z"
+}

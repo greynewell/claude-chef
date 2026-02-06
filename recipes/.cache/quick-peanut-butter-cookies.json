@@ -1,0 +1,48 @@
+{
+  "contentHash": "138f427224faf2ea",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "These four-ingredient cookies require no flour, just peanut butter binding",
+      "Flatten cookies with fork in crisscross pattern before baking for classic look",
+      "Use natural peanut butter if possible for best flavor, though creamy works fine"
+    ],
+    "coachingPrompt": "Only four ingredients make up these cookies. What role does baking soda play without any acidic ingredient to activate it?"
+  },
+  "timestamp": "2026-02-06T15:44:15.914Z"
+}

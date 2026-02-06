@@ -1,0 +1,63 @@
+{
+  "contentHash": "6f3cbee7a5658cc8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 large potatoes",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 yellow onion",
+        "searchTerm": "yellow onion",
+        "normalizedName": "Yellow Onion"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 cups vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Box Grater",
+        "searchTerm": "box grater"
+      },
+      {
+        "name": "Clean Kitchen Towel",
+        "searchTerm": "kitchen towel"
+      },
+      {
+        "name": "Cast Iron Skillet",
+        "searchTerm": "cast iron skillet"
+      }
+    ],
+    "cookingTips": [
+      "Shred potatoes and onions just before cooking to minimize browning and moisture loss",
+      "Squeeze shredded mixture firmly in a clean towel to remove excess starch and water",
+      "Flatten pancakes while frying to achieve crispy edges and tender centers"
+    ],
+    "coachingPrompt": "What techniques will help the user achieve crispy, golden pancakes with tender interiors? How critical is moisture removal?"
+  },
+  "timestamp": "2026-02-06T15:13:50.726Z"
+}

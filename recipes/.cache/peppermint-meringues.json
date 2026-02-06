@@ -1,0 +1,53 @@
+{
+  "contentHash": "7803f018bfbbe7ef",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 egg whites",
+        "searchTerm": "egg white",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "⅛ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅛ teaspoon cream of tartar",
+        "searchTerm": "cream of tartar",
+        "normalizedName": "Cream of Tartar"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 peppermint candy canes, crushed",
+        "searchTerm": "peppermint candy cane",
+        "normalizedName": "Peppermint Candy Cane"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Electric Mixer",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Parchment Paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Use room temperature egg whites for maximum volume when whipping",
+      "Cream of tartar stabilizes egg whites and prevents weeping",
+      "Bake at low temperature (250°F) for 30-40 minutes for crispy meringues"
+    ],
+    "coachingPrompt": "How does cream of tartar differ from vinegar in stabilizing meringue? Which produces a lighter texture?"
+  },
+  "timestamp": "2026-02-06T14:33:19.294Z"
+}

@@ -1,0 +1,73 @@
+{
+  "contentHash": "06bada742ae1cfcf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound large shrimp, peeled and deveined",
+        "searchTerm": "large shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "1 teaspoon Cajun seasoning",
+        "searchTerm": "Cajun seasoning",
+        "normalizedName": "Cajun Seasoning"
+      },
+      {
+        "ingredient": "1 teaspoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "¼ teaspoon red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "⅛ teaspoon black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "3 thin strips lemon peel",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "5 sprigs fresh thyme",
+        "searchTerm": "fresh thyme",
+        "normalizedName": "Thyme"
+      }
+    ],
+    "gear": [
+      {
+        "name": "smoker",
+        "searchTerm": "smoker"
+      },
+      {
+        "name": "cast iron skillet",
+        "searchTerm": "cast iron skillet"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Smoke shrimp at 225°F until they reach an internal temperature of 165°F",
+      "Don't overcook shrimp or they'll become rubbery",
+      "Infuse butter with garlic ahead of time for deeper flavor"
+    ],
+    "coachingPrompt": "Help me understand the proper smoking temperature and timing for achieving tender, flavorful shrimp without drying them out."
+  },
+  "timestamp": "2026-02-06T07:17:37.589Z"
+}

@@ -1,0 +1,62 @@
+{
+  "contentHash": "fe98ae6d979441bb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15 ounce) can whole kernel corn, drained",
+        "searchTerm": "whole kernel corn",
+        "normalizedName": "Whole Kernel Corn"
+      },
+      {
+        "ingredient": "1 (15 ounce) can cream-style corn",
+        "searchTerm": "cream-style corn",
+        "normalizedName": "Cream-Style Corn"
+      },
+      {
+        "ingredient": "1 (8.5 ounce) package corn muffin mix",
+        "searchTerm": "corn muffin mix",
+        "normalizedName": "Corn Muffin Mix"
+      },
+      {
+        "ingredient": "1 cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "½ cup unsalted butter, melted",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      },
+      {
+        "ingredient": "¼ cup diced pickled jalapeno pepper slices",
+        "searchTerm": "pickled jalapeno peppers",
+        "normalizedName": "Pickled Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "casserole dish",
+        "searchTerm": "casserole dish 9x13"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Use pickled jalapenos for consistent heat and texture",
+      "Don't overmix the muffin mix to avoid a dense casserole"
+    ],
+    "coachingPrompt": "Help the user combine the corn, muffin mix, and sour cream gently while distributing jalapenos evenly for balanced flavor."
+  },
+  "timestamp": "2026-02-06T10:14:39.291Z"
+}

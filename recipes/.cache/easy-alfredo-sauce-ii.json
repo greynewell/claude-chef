@@ -1,0 +1,43 @@
+{
+  "contentHash": "6d4f091f93ffb045",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter, room temperature",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¾ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 cup heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Keep heat low to prevent sauce from breaking",
+      "Add cheese gradually while whisking",
+      "Use room temperature butter for smooth texture"
+    ],
+    "coachingPrompt": "How can you adjust this sauce if it becomes too thick after cooling?"
+  },
+  "timestamp": "2026-02-06T05:29:48.087Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "9dd48e1bf0eb4453",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 mint leaves",
+        "searchTerm": "fresh mint",
+        "normalizedName": "Fresh Mint Leaf"
+      },
+      {
+        "ingredient": "1 teaspoon simple syrup",
+        "searchTerm": "simple syrup",
+        "normalizedName": "Simple Syrup"
+      },
+      {
+        "ingredient": "2 ½ fluid ounces bourbon whiskey",
+        "searchTerm": "bourbon",
+        "normalizedName": "Bourbon Whiskey"
+      },
+      {
+        "ingredient": "crushed ice",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      },
+      {
+        "ingredient": "1 sprig fresh mint for garnish",
+        "searchTerm": "fresh mint",
+        "normalizedName": "Fresh Mint Leaf"
+      }
+    ],
+    "gear": [
+      {
+        "name": "julep cup",
+        "searchTerm": "julep cup"
+      },
+      {
+        "name": "muddler",
+        "searchTerm": "muddler"
+      },
+      {
+        "name": "bar spoon",
+        "searchTerm": "bar spoon"
+      }
+    ],
+    "cookingTips": [
+      "Gently muddle mint to release oils without bruising leaves",
+      "Use crushed ice for proper dilution and presentation",
+      "Chill cup before assembling for optimal serving temperature"
+    ],
+    "coachingPrompt": "What's the technique for muddling mint without destroying it? Why does the ice matter?"
+  },
+  "timestamp": "2026-02-06T12:34:30.454Z"
+}

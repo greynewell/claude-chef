@@ -1,0 +1,63 @@
+{
+  "contentHash": "551bc3fd26c26d44",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (2 to 3 pound) whole chicken",
+        "searchTerm": "whole chicken",
+        "normalizedName": "Whole Chicken"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "3 large carrots, split lengthwise and cut into 2-inch pieces",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 medium onions, quartered",
+        "searchTerm": "onions",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 tablespoons fresh chopped parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Pat chicken dry before seasoning for better browning",
+      "Arrange vegetables on bottom for better flavor transfer",
+      "Chicken is done when thickest part reaches 165°F"
+    ],
+    "coachingPrompt": "How do the vegetables contribute to the overall dish beyond just being sides?"
+  },
+  "timestamp": "2026-02-06T08:51:37.006Z"
+}

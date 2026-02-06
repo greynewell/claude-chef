@@ -1,0 +1,63 @@
+{
+  "contentHash": "801d3eed7a1aec0d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 skinless, boneless chicken breast halves",
+        "searchTerm": "boneless chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 (10 ounce) can refrigerated pizza crust",
+        "searchTerm": "refrigerated pizza crust",
+        "normalizedName": "Pizza Crust"
+      },
+      {
+        "ingredient": "½ cup Ranch-style salad dressing",
+        "searchTerm": "ranch dressing",
+        "normalizedName": "Ranch Dressing"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 cup chopped tomatoes",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "¼ cup chopped green onions",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pizza Pan",
+        "searchTerm": "pizza pan"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook chicken thoroughly before adding to pizza to ensure proper internal temperature",
+      "Spread ranch dressing evenly as sauce base to prevent soggy crust",
+      "Add cheese after chicken and vegetables for better melting"
+    ],
+    "coachingPrompt": "Would you like help ensuring the chicken is fully cooked or tips for preventing a soggy crust?"
+  },
+  "timestamp": "2026-02-06T07:44:23.418Z"
+}

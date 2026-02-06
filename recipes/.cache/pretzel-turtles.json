@@ -1,0 +1,38 @@
+{
+  "contentHash": "a6f2c78763e5fad9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "20 small mini pretzels",
+        "searchTerm": "mini pretzels",
+        "normalizedName": "Mini Pretzel"
+      },
+      {
+        "ingredient": "20 chocolate covered caramel candies",
+        "searchTerm": "chocolate caramel candies",
+        "normalizedName": "Chocolate Caramel Candy"
+      },
+      {
+        "ingredient": "20 pecan halves",
+        "searchTerm": "pecan halves",
+        "normalizedName": "Pecan Half"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Line baking sheet with parchment paper to prevent sticking",
+      "Bake at 200°F for 2-3 minutes just to soften caramel for assembly"
+    ],
+    "coachingPrompt": "Explain how to quickly assemble these no-bake candies by positioning the pecan legs and caramel head on the pretzel shell."
+  },
+  "timestamp": "2026-02-06T15:19:47.089Z"
+}

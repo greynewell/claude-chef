@@ -1,0 +1,63 @@
+{
+  "contentHash": "40cf7f08cbabea75",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 chicken thighs",
+        "searchTerm": "chicken thighs",
+        "normalizedName": "Chicken Thigh"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (10 fluid ounce) bottle oyster sauce",
+        "searchTerm": "oyster sauce",
+        "normalizedName": "Oyster Sauce"
+      },
+      {
+        "ingredient": "2 teaspoons minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Basting brush",
+        "searchTerm": "basting brush"
+      }
+    ],
+    "cookingTips": [
+      "Pat chicken thighs dry before seasoning for better browning",
+      "Baste chicken with sauce halfway through cooking for even coating",
+      "Use an instant-read thermometer to ensure chicken reaches 165°F"
+    ],
+    "coachingPrompt": "Do you prefer baked or pan-seared chicken? Oyster sauce works well with both methods."
+  },
+  "timestamp": "2026-02-06T13:56:47.925Z"
+}

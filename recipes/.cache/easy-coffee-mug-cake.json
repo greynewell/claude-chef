@@ -1,0 +1,48 @@
+{
+  "contentHash": "8a519f994c4e0d14",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "⅔ cup brewed coffee",
+        "searchTerm": "brewed coffee",
+        "normalizedName": "Brewed Coffee"
+      },
+      {
+        "ingredient": "¼ cup powdered coffee creamer",
+        "searchTerm": "coffee creamer",
+        "normalizedName": "Powdered Coffee Creamer"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mug",
+        "searchTerm": "microwave-safe mug"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "microwave",
+        "searchTerm": "microwave"
+      }
+    ],
+    "cookingTips": [
+      "Mix dry ingredients first to avoid lumps when adding wet ingredients",
+      "Use hot brewed coffee to enhance flavor",
+      "Microwave in a mug for 2-3 minutes until set but still moist"
+    ],
+    "coachingPrompt": "This is a single-serve microwave cake. How long should I microwave it?"
+  },
+  "timestamp": "2026-02-06T05:40:46.763Z"
+}

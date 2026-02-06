@@ -1,0 +1,78 @@
+---
+title: "Doodhi Chana"
+description: "Ready in about 40 minutes, this Indian main course uses calabash gourd, split bengal. Serves 6 at 123 calories each."
+author: "Susmita"
+prep_time: PT10M
+cook_time: PT30M
+servings: 6
+calories: 123
+recipe_category: Main Course
+cuisine: Indian
+keywords:
+  - chana
+  - course
+  - doodhi
+  - main
+recipe_ingredients:
+  - "Calabash Gourd"
+  - "Split Bengal"
+  - "Turmeric"
+  - "Water"
+  - "Cooking Oil"
+  - "Red Chile Peppers"
+  - "Cumin Seeds"
+  - "Ginger Root"
+  - "Garlic"
+  - "Red Pepper"
+  - "Salt"
+  - "White Sugar"
+flavors:
+  - Sweet
+  - Savory
+  - Spicy
+tools:
+  - Skillet
+  - Mixing Bowl
+  - Saucepan
+  - Instant Pot
+skill_level: Easy
+source_url: "https://www.allrecipes.com/recipe/212672/doodhi-chana/"
+---
+
+## Ingredients
+
+- 1  calabash gourd, peeled and cut into cubes
+- ½ cup split Bengal gram (chana dal)
+- 1 teaspoon ground turmeric
+- 3 cups water
+- 2 tablespoons cooking oil
+- 4  dried red chile peppers, broken into pieces
+- 1 teaspoon cumin seeds
+- 1 tablespoon minced fresh ginger root
+- 1 teaspoon minced garlic
+- 1 teaspoon ground red pepper
+- salt to taste
+- 1 teaspoon white sugar
+
+## Instructions
+
+1. Combine the calabash, chana dal, turmeric, and water in a pressure cooker. Seal the pressure cooker and cook at high pressure for about 20 minutes. Reduce heat to low and simmer another 3 minutes. Remove from heat and allow the pressure to release naturally.
+2. Heat the oil in a large saucepan. Fry the red chile peppers and cumin seeds until the seeds begin to splutter; add the ginger and garlic to the mixture and cook together 1 minute more. Stir the calabash mixture, ground red pepper, sugar, and salt into the mixture; bring to a boil, reduce heat to low, and cook another 5 minutes before serving.
+
+## Frequently Asked Questions
+
+### How long does it take to make Doodhi Chana?
+
+This recipe takes approximately 40 minutes from start to finish — 10 minutes of prep and 30 minutes of cooking. It is rated as easy difficulty.
+
+### How many servings does this Doodhi Chana recipe make?
+
+This recipe yields 6 servings. You can adjust the serving size using the servings slider above the ingredient list.
+
+### Can I make Doodhi Chana ahead of time? How should I store leftovers?
+
+Store leftovers in an airtight container in the refrigerator for up to 3-4 days.
+
+### How many calories are in Doodhi Chana?
+
+Each serving contains approximately 123 calories. The recipe serves 6.

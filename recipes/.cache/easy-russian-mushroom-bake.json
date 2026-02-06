@@ -1,0 +1,63 @@
+{
+  "contentHash": "0256a4b763c1ff35",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 tablespoons vegetable oil, divided",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "7 cups quartered button mushrooms",
+        "searchTerm": "button mushroom",
+        "normalizedName": "Button Mushroom"
+      },
+      {
+        "ingredient": "1 cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1  onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 ¼ cups shredded Gouda cheese",
+        "searchTerm": "Gouda cheese",
+        "normalizedName": "Gouda Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Sauté mushrooms first to remove excess moisture before baking",
+      "Fold sour cream in gently to avoid curdling",
+      "Top with cheese in final 5 minutes of baking for melted perfection"
+    ],
+    "coachingPrompt": "Why is sautéing mushrooms first important?"
+  },
+  "timestamp": "2026-02-06T05:57:41.953Z"
+}

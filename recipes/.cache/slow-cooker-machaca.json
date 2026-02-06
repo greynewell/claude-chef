@@ -1,0 +1,58 @@
+{
+  "contentHash": "1e2bd64ae308913f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds beef rump roast",
+        "searchTerm": "beef rump roast",
+        "normalizedName": "Beef Rump Roast"
+      },
+      {
+        "ingredient": "3 pounds pork loin roast",
+        "searchTerm": "pork loin roast",
+        "normalizedName": "Pork Loin Roast"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 (14.5 ounce) cans green enchilada sauce",
+        "searchTerm": "green enchilada sauce",
+        "normalizedName": "Green Enchilada Sauce"
+      },
+      {
+        "ingredient": "2 (4 ounce) cans diced green chiles",
+        "searchTerm": "diced green chiles canned",
+        "normalizedName": "Diced Green Chile"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Two forks for shredding",
+        "searchTerm": "forks"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Cook both roasts together for a complex meat blend; shred them separately for texture variation",
+      "Shred meat directly in the slow cooker using two forks while still hot for easiest handling",
+      "The combination of beef and pork creates a richer flavor than either alone"
+    ],
+    "coachingPrompt": "What's the best technique for shredding these two different meats to get the right texture for machaca?"
+  },
+  "timestamp": "2026-02-06T18:12:32.073Z"
+}

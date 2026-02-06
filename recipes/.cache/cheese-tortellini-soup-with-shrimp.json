@@ -1,0 +1,63 @@
+{
+  "contentHash": "3ca02a19d57a3a61",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups reduced-sodium chicken or vegetable broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 (15 ounce) container BUITONI® Refrigerated Marinara Sauce",
+        "searchTerm": "marinara sauce",
+        "normalizedName": "Marinara Sauce"
+      },
+      {
+        "ingredient": "1 cup white wine",
+        "searchTerm": "white wine",
+        "normalizedName": "White Wine"
+      },
+      {
+        "ingredient": "¼ teaspoon ground cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "1 (9 ounce) package BUITONI® Three Cheese Tortellini",
+        "searchTerm": "three cheese tortellini",
+        "normalizedName": "Three Cheese Tortellini"
+      },
+      {
+        "ingredient": "½ pound small cooked shrimp",
+        "searchTerm": "cooked shrimp",
+        "normalizedName": "Cooked Shrimp"
+      },
+      {
+        "ingredient": "1 cup loose-pack frozen petite peas, thawed",
+        "searchTerm": "frozen peas",
+        "normalizedName": "Pea"
+      }
+    ],
+    "gear": [
+      {
+        "name": "soup pot",
+        "searchTerm": "soup pot"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "ladle",
+        "searchTerm": "soup ladle"
+      }
+    ],
+    "cookingTips": [
+      "Add tortellini near the end of cooking to prevent them from becoming mushy",
+      "Use pre-cooked shrimp to avoid overcooking and toughening the meat",
+      "Let wine reduce slightly before adding broth to mellow the alcohol flavor"
+    ],
+    "coachingPrompt": "How do you time the addition of different ingredients to ensure everything is perfectly cooked without overcooking the shrimp?"
+  },
+  "timestamp": "2026-02-06T01:47:00.221Z"
+}

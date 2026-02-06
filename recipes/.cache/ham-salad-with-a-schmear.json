@@ -1,0 +1,62 @@
+{
+  "contentHash": "1da3399f1fa4fa71",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups cubed fully cooked ham",
+        "searchTerm": "cooked ham",
+        "normalizedName": "Cooked Ham"
+      },
+      {
+        "ingredient": "½ onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 ½ cups mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon sweet pickle relish",
+        "searchTerm": "sweet pickle relish",
+        "normalizedName": "Sweet Pickle Relish"
+      },
+      {
+        "ingredient": "1 tablespoon stone-ground mustard",
+        "searchTerm": "stone-ground mustard",
+        "normalizedName": "Stone-Ground Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Pulse ham until it reaches your desired texture—chunky or fine—before blending with cream cheese",
+      "Soften cream cheese before processing for a smoother, more integrated texture"
+    ],
+    "coachingPrompt": "How can you balance the raw garlic so it adds punch without overpowering the ham flavor?"
+  },
+  "timestamp": "2026-02-06T08:43:35.541Z"
+}

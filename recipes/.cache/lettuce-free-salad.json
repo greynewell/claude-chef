@@ -1,0 +1,68 @@
+{
+  "contentHash": "f92f1a7e7552633d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15 ounce) can garbanzo beans, drained and rinsed twice",
+        "searchTerm": "garbanzo beans",
+        "normalizedName": "Garbanzo Bean"
+      },
+      {
+        "ingredient": "1 (15 ounce) can red kidney beans, drained and rinsed twice",
+        "searchTerm": "red kidney beans",
+        "normalizedName": "Red Kidney Bean"
+      },
+      {
+        "ingredient": "2 (15 ounce) cans quartered artichoke hearts, drained",
+        "searchTerm": "artichoke hearts",
+        "normalizedName": "Artichoke Heart"
+      },
+      {
+        "ingredient": "2 large cucumbers, chopped",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "2 large tomatoes, chopped",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 (8 ounce) package feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh dill",
+        "searchTerm": "fresh dill",
+        "normalizedName": "Fresh Dill"
+      },
+      {
+        "ingredient": "½ cup fat free Italian-style dressing (such as Wishbone®)",
+        "searchTerm": "italian dressing",
+        "normalizedName": "Italian-Style Dressing"
+      },
+      {
+        "ingredient": "2 (15 ounce) cans sliced beets, drained",
+        "searchTerm": "canned beets",
+        "normalizedName": "Canned Beet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "large bowl"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Rinse canned beans twice to reduce sodium and digestive issues",
+      "Prepare vegetables just before serving to maintain crispness"
+    ],
+    "coachingPrompt": "What's the best order to combine ingredients to prevent the salad from becoming mushy?"
+  },
+  "timestamp": "2026-02-06T11:22:27.684Z"
+}

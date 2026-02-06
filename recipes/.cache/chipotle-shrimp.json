@@ -1,0 +1,73 @@
+{
+  "contentHash": "761abeac4300551a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup uncooked long grain white rice",
+        "searchTerm": "long grain rice",
+        "normalizedName": "Long Grain Rice"
+      },
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic Clove"
+      },
+      {
+        "ingredient": "¼ cup dry red wine",
+        "searchTerm": "red wine",
+        "normalizedName": "Red Wine"
+      },
+      {
+        "ingredient": "1 ½ tablespoons Worcestershire sauce",
+        "searchTerm": "worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons minced chipotle peppers in adobo sauce",
+        "searchTerm": "chipotle peppers",
+        "normalizedName": "Chipotle Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ½ pounds medium shrimp",
+        "searchTerm": "medium shrimp",
+        "normalizedName": "Medium Shrimp"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook rice while preparing the shrimp so everything finishes at the same time",
+      "Melt butter and bloom garlic before adding wine to deglaze and build flavor",
+      "Add shrimp at the very end and cook only until pink, about 3-4 minutes"
+    ],
+    "coachingPrompt": "Guide the user on building a rich, savory sauce with wine and Worcestershire, and explain how to time the shrimp cooking to avoid overcooking."
+  },
+  "timestamp": "2026-02-06T02:57:29.767Z"
+}

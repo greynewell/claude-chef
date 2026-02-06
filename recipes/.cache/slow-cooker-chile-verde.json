@@ -1,0 +1,63 @@
+{
+  "contentHash": "a836d6154918ca66",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "boneless pork shoulder",
+        "searchTerm": "pork shoulder",
+        "normalizedName": "Pork Shoulder"
+      },
+      {
+        "ingredient": "green salsa",
+        "searchTerm": "green salsa",
+        "normalizedName": "Green Salsa"
+      },
+      {
+        "ingredient": "diced jalapeno peppers",
+        "searchTerm": "jalapeno",
+        "normalizedName": "Jalapeno"
+      },
+      {
+        "ingredient": "diced tomatoes",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Diced Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "dutch oven",
+        "searchTerm": "dutch oven"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Brown pork in dutch oven before transferring to slow cooker for deeper flavor",
+      "Green salsa provides the base; use mild or hot based on heat preference",
+      "Serve with warm tortillas for authentic Mexican presentation"
+    ],
+    "coachingPrompt": "Help the user understand the importance of browning meat first and explain how green salsa defines this dish."
+  },
+  "timestamp": "2026-02-06T18:08:28.916Z"
+}

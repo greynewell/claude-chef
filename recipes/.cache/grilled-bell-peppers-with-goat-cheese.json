@@ -1,0 +1,53 @@
+{
+  "contentHash": "640fbc579f03893c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 green bell peppers",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ cup goat cheese",
+        "searchTerm": "goat cheese",
+        "normalizedName": "Goat Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon lemon pepper seasoning",
+        "searchTerm": "lemon pepper seasoning",
+        "normalizedName": "Lemon Pepper Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill brush",
+        "searchTerm": "grill brush"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Oil the grill grates well to prevent sticking",
+      "Grill peppers until skin is charred, about 3-4 minutes per side",
+      "Allow peppers to cool slightly before filling with goat cheese"
+    ],
+    "coachingPrompt": "How would you ensure even charring on the peppers without burning them? What temperature should the grill be?"
+  },
+  "timestamp": "2026-02-06T08:11:12.953Z"
+}

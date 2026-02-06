@@ -1,0 +1,58 @@
+{
+  "contentHash": "36d58b8e2ab927e8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 skinless, boneless chicken breasts",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "6 slices Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of chicken soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream of Chicken Soup"
+      },
+      {
+        "ingredient": "¼ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 cups herb-seasoned stuffing mix",
+        "searchTerm": "herb stuffing mix",
+        "normalizedName": "Herb-Seasoned Stuffing Mix"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 Baking Dish",
+        "searchTerm": "rectangular baking dish"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Measuring Cups",
+        "searchTerm": "measuring cup"
+      }
+    ],
+    "cookingTips": [
+      "Pat chicken dry with paper towels before placing in dish to reduce excess moisture",
+      "Use herb-seasoned stuffing for enhanced flavor throughout the casserole",
+      "Cover with foil while baking to retain moisture, removing foil in last 10 minutes for browning"
+    ],
+    "coachingPrompt": "Would you prefer a creamier or drier casserole? Should we adjust the soup-to-milk ratio?"
+  },
+  "timestamp": "2026-02-06T20:10:33.505Z"
+}

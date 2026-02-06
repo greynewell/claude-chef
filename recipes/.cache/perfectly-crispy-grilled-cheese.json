@@ -1,0 +1,43 @@
+{
+  "contentHash": "d8bc152490213550",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon Hellmann's Real Mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 slices crusty Italian bread",
+        "searchTerm": "Italian bread",
+        "normalizedName": "Italian Bread"
+      },
+      {
+        "ingredient": "2 (1 ounce) slices white Cheddar cheese",
+        "searchTerm": "white Cheddar cheese",
+        "normalizedName": "White Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Mayonnaise creates a crispier, more flavorful crust than butter",
+      "Use crusty bread to withstand the filling and maintain structure",
+      "Cook over medium heat to allow cheese to melt while bread toasts evenly"
+    ],
+    "coachingPrompt": "Teach why mayonnaise creates better crispness than butter and how heat management prevents burning while melting cheese."
+  },
+  "timestamp": "2026-02-06T14:37:03.421Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "e7a34f0ebabcd0b0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cup chopped celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "7 cups clam juice",
+        "searchTerm": "clam juice",
+        "normalizedName": "Clam Juice"
+      },
+      {
+        "ingredient": "3 (28 ounce) cans stewed tomatoes",
+        "searchTerm": "stewed tomatoes",
+        "normalizedName": "Stewed Tomato"
+      },
+      {
+        "ingredient": "5 tablespoons dried thyme",
+        "searchTerm": "dried thyme",
+        "normalizedName": "Dried Thyme"
+      },
+      {
+        "ingredient": "2 (6.5 ounce) cans minced clams",
+        "searchTerm": "minced clams",
+        "normalizedName": "Minced Clam"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then crumble for garnish and flavor throughout the chowder",
+      "Simmer gently to blend flavors without breaking down the clams and vegetables",
+      "Add clams with their juice near the end to preserve tenderness"
+    ],
+    "coachingPrompt": "Guide the cook through building layers of flavor with bacon, aromatics, and seafood, emphasizing proper simmering technique."
+  },
+  "timestamp": "2026-02-06T12:02:21.011Z"
+}

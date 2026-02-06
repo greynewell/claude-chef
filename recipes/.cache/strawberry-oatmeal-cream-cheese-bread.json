@@ -1,0 +1,73 @@
+{
+  "contentHash": "c4db3e96ea99fd39",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅓ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "⅓ cup strawberries, mashed",
+        "searchTerm": "fresh strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "⅓ cup cream cheese, diced",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ cup rolled oats",
+        "searchTerm": "rolled oats",
+        "normalizedName": "Rolled Oat"
+      },
+      {
+        "ingredient": "1 ½ cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "1 ½ teaspoons active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bread machine",
+        "searchTerm": "bread machine"
+      },
+      {
+        "name": "loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "dough hook",
+        "searchTerm": "dough hook"
+      }
+    ],
+    "cookingTips": [
+      "Use bread machine setting or knead for 8-10 minutes by hand",
+      "Let dough rise until doubled, about 1-2 hours",
+      "Cream cheese adds richness and slight sweetness to the crumb"
+    ],
+    "coachingPrompt": "How do I prevent the strawberry filling from making the dough too wet to rise properly?"
+  },
+  "timestamp": "2026-02-06T19:34:24.689Z"
+}

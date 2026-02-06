@@ -1,0 +1,48 @@
+{
+  "contentHash": "8daebafa9e3c0678",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (12 ounce) bottle chili sauce",
+        "searchTerm": "chili sauce",
+        "normalizedName": "Chili Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons mustard",
+        "searchTerm": "mustard",
+        "normalizedName": "Mustard"
+      },
+      {
+        "ingredient": "2 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon vinegar",
+        "searchTerm": "vinegar",
+        "normalizedName": "Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly, breaking it into small pieces as it cooks",
+      "Simmer sauce gently for 5-10 minutes to meld flavors and reach desired consistency"
+    ],
+    "coachingPrompt": "What toppings and bread options would work best with this classic sloppy joe?"
+  },
+  "timestamp": "2026-02-06T07:42:22.789Z"
+}

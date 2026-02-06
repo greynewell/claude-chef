@@ -1,0 +1,73 @@
+{
+  "contentHash": "60826a7cdcd69b1a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 slices bacon",
+        "searchTerm": "bacon slices",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 teaspoons poultry seasoning",
+        "searchTerm": "poultry seasoning",
+        "normalizedName": "Poultry Seasoning"
+      },
+      {
+        "ingredient": "4 slices pepperjack cheese",
+        "searchTerm": "pepperjack cheese",
+        "normalizedName": "Pepperjack Cheese"
+      },
+      {
+        "ingredient": "4 hamburger buns, split",
+        "searchTerm": "hamburger buns",
+        "normalizedName": "Hamburger Bun"
+      },
+      {
+        "ingredient": "4 leaves of lettuce",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "4 slices tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "½ cup thinly sliced onions",
+        "searchTerm": "onions",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "12 slices dill pickle",
+        "searchTerm": "dill pickle",
+        "normalizedName": "Dill Pickle"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "meat mallet",
+        "searchTerm": "meat mallet"
+      },
+      {
+        "name": "instant-read thermometer",
+        "searchTerm": "instant-read thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken breasts to even thickness for uniform cooking",
+      "Season chicken before cooking to allow flavors to penetrate",
+      "Cook bacon separately and assemble sandwiches so all components are at ideal temperature"
+    ],
+    "coachingPrompt": "Help the user construct a well-balanced sandwich with juicy chicken, crispy bacon, and spicy-creamy pepperjack."
+  },
+  "timestamp": "2026-02-05T22:51:06.702Z"
+}

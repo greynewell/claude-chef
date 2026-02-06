@@ -1,0 +1,58 @@
+{
+  "contentHash": "9ef1e62b4300dfa0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 cups chopped zucchini",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "1 ½ cups fresh corn kernels",
+        "searchTerm": "corn kernels",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "1 small onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 pinch pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "¼ cup shredded Monterey Jack cheese",
+        "searchTerm": "Monterey Jack cheese",
+        "normalizedName": "Monterey Jack Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon first, then use rendered fat to sauté vegetables",
+      "Don't overcook zucchini to maintain its texture and prevent it from becoming watery",
+      "Add cheese at the end and let it melt gently over medium-low heat"
+    ],
+    "coachingPrompt": "How do you prefer your vegetable side - with crispy textures or soft and melded?"
+  },
+  "timestamp": "2026-02-06T03:50:59.497Z"
+}

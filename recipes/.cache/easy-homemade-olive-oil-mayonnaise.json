@@ -1,0 +1,62 @@
+{
+  "contentHash": "9b7146c0963184bd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs, room temperature",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup extra-virgin olive oil",
+        "searchTerm": "extra-virgin olive oil",
+        "normalizedName": "Extra-Virgin Olive Oil"
+      },
+      {
+        "ingredient": "1 cup canola oil",
+        "searchTerm": "canola oil",
+        "normalizedName": "Canola Oil"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 tablespoon white wine vinegar",
+        "searchTerm": "white wine vinegar",
+        "normalizedName": "White Wine Vinegar"
+      },
+      {
+        "ingredient": "½ teaspoon dry mustard",
+        "searchTerm": "dry mustard",
+        "normalizedName": "Dry Mustard"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Whisk or blender",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Measuring spoons",
+        "searchTerm": "measuring spoons"
+      }
+    ],
+    "cookingTips": [
+      "Add oils very slowly while whisking constantly—this is key to emulsification",
+      "Use room temperature eggs and add them to a room temperature bowl for success"
+    ],
+    "coachingPrompt": "Explain the emulsification process for making mayonnaise and why adding oil slowly while whisking is crucial for proper texture."
+  },
+  "timestamp": "2026-02-06T05:47:51.329Z"
+}

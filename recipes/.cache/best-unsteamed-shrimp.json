@@ -1,0 +1,48 @@
+{
+  "contentHash": "53ed1fd1c649900d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 pounds large shrimp - peeled and deveined",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "¼ cup Old Bay Seasoning TM",
+        "searchTerm": "Old Bay seasoning",
+        "normalizedName": "Old Bay Seasoning"
+      },
+      {
+        "ingredient": "2 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Measuring spoons",
+        "searchTerm": "measuring spoons"
+      }
+    ],
+    "cookingTips": [
+      "Cook shrimp over medium-high heat for 2-3 minutes per side until pink",
+      "Do not overcook shrimp as it becomes tough and rubbery",
+      "The butter and Old Bay create a flavorful sauce for dipping"
+    ],
+    "coachingPrompt": "Help the user understand the visual cues for perfectly cooked shrimp and how to avoid overcooking."
+  },
+  "timestamp": "2026-02-06T00:04:41.714Z"
+}

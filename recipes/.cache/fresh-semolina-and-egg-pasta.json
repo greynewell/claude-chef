@@ -1,0 +1,53 @@
+{
+  "contentHash": "be4e082ff5a3551a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 cups semolina flour",
+        "searchTerm": "semolina flour",
+        "normalizedName": "Semolina Flour"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "6 large eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pasta maker",
+        "searchTerm": "pasta maker"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Create a well with flour and add eggs gradually to control consistency",
+      "Knead dough for 10 minutes until smooth and elastic",
+      "Rest dough 30 minutes before rolling to reduce springback"
+    ],
+    "coachingPrompt": "Guide the user through traditional pasta-making techniques, from mixing by hand to achieving the correct dough texture."
+  },
+  "timestamp": "2026-02-06T07:00:40.740Z"
+}

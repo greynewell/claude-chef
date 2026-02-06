@@ -1,0 +1,73 @@
+{
+  "contentHash": "2cc73d40cd1e1bc3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups chopped apples",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "1 ½ lemons, juiced",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "¼ cup chopped celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "¼ cup chopped walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "¼ cup raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      },
+      {
+        "ingredient": "¼ cup seedless grapes, halved",
+        "searchTerm": "grapes",
+        "normalizedName": "Seedless Grape"
+      },
+      {
+        "ingredient": "½ cup heavy cream, whipped",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "¼ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 pinch ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Ground Nutmeg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Toss apples with lemon juice immediately to prevent oxidation",
+      "Fold in whipped cream gently to maintain light texture",
+      "Serve immediately after assembly for best crispness"
+    ],
+    "coachingPrompt": "How does the balance of acidic lemon, creamy dressing, and nutmeg create this classic flavor profile?"
+  },
+  "timestamp": "2026-02-06T21:54:32.396Z"
+}

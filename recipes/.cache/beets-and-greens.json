@@ -1,0 +1,53 @@
+{
+  "contentHash": "5486d8a334dd272c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 bunch beets - trimmed, leaving 1 inch of stems attached, greens washed and reserved",
+        "searchTerm": "beets with greens",
+        "normalizedName": "Beet"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil, divided",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 small onion, halved and thinly sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 pinch sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "fresh-ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "serving dish",
+        "searchTerm": "serving dish"
+      }
+    ],
+    "cookingTips": [
+      "Cook beet roots and greens separately due to different cooking times",
+      "Slice beet greens into ribbons to prevent overcooking",
+      "Caramelize onions slowly to bring out natural sweetness"
+    ],
+    "coachingPrompt": "How would you cook both the tender greens and firm roots to achieve the perfect texture for each component?"
+  },
+  "timestamp": "2026-02-05T23:51:30.525Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "54a3220d255aff27",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons olive oil, divided",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 head cauliflower, broken into florets",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      },
+      {
+        "ingredient": "1 ½ teaspoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon mild curry powder",
+        "searchTerm": "curry powder",
+        "normalizedName": "Curry Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "sheet pan",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Mix spices with oil before coating cauliflower for even distribution",
+      "Roast at 425°F for 20-25 minutes for caramelized edges",
+      "Brown sugar adds subtle sweetness that complements curry"
+    ],
+    "coachingPrompt": "How does the curry powder complement roasted cauliflower?"
+  },
+  "timestamp": "2026-02-06T05:57:41.951Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "515632e64607a019",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups vanilla ice cream",
+        "searchTerm": "vanilla ice cream",
+        "normalizedName": "Vanilla Ice Cream"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 ½ cups blueberries",
+        "searchTerm": "blueberries",
+        "normalizedName": "Blueberry"
+      },
+      {
+        "ingredient": "1 banana",
+        "searchTerm": "bananas",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Glasses",
+        "searchTerm": "tall milkshake glasses"
+      },
+      {
+        "name": "Straws",
+        "searchTerm": "wide smoothie straws"
+      }
+    ],
+    "cookingTips": [
+      "Add ice cream and milk first to create liquid base before adding frozen fruit",
+      "Use frozen blueberries for thicker, colder shake without watering down flavor",
+      "Blend just until smooth - over-blending incorporates excess air"
+    ],
+    "coachingPrompt": "Milkshake consistency depends on ice cream to liquid ratio. How do you achieve the ideal thickness?"
+  },
+  "timestamp": "2026-02-06T00:20:44.742Z"
+}

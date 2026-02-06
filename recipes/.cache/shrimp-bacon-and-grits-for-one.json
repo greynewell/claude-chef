@@ -1,0 +1,73 @@
+{
+  "contentHash": "7fd32e1130493a79",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "cooked medium shrimp",
+        "searchTerm": "cooked shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "quick-cooking grits",
+        "searchTerm": "grits",
+        "normalizedName": "Grits"
+      },
+      {
+        "ingredient": "Gouda cheese",
+        "searchTerm": "Gouda cheese",
+        "normalizedName": "Gouda Cheese"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "small green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Small Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Stir grits frequently while cooking to prevent lumps",
+      "Use quick-cooking grits for faster preparation",
+      "Crisp bacon first, then use rendered fat to warm shrimp"
+    ],
+    "coachingPrompt": "Guide me through making a classic Southern breakfast with creamy cheese grits and flavorful shrimp."
+  },
+  "timestamp": "2026-02-06T17:33:53.079Z"
+}

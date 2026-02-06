@@ -1,0 +1,48 @@
+{
+  "contentHash": "a286757a9259e8c6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ pound lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar spaghetti sauce",
+        "searchTerm": "spaghetti sauce",
+        "normalizedName": "Spaghetti Sauce"
+      },
+      {
+        "ingredient": "1 pound spaghetti",
+        "searchTerm": "spaghetti",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "1 cup shredded mild Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 Baking Dish",
+        "searchTerm": "9x13 baking dish"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly and break it into small pieces for even distribution throughout the pasta",
+      "Toss cooked spaghetti with sauce before combining with beef to ensure even coating",
+      "Cover baking dish with foil to prevent cheese from browning too quickly during baking"
+    ],
+    "coachingPrompt": "Coach the user to build layers of pasta, sauce, and beef for a cohesive, evenly flavored baked dish."
+  },
+  "timestamp": "2026-02-05T23:31:47.048Z"
+}

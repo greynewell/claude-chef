@@ -1,0 +1,62 @@
+{
+  "contentHash": "ed10cc118294d84e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds boneless pork chops, cubed",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "oil for frying",
+        "searchTerm": "oil",
+        "normalizedName": "Oil"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "plain bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "3 (1 ounce) packages dry mushroom gravy mix",
+        "searchTerm": "mushroom gravy mix",
+        "normalizedName": "Mushroom Gravy Mix"
+      },
+      {
+        "ingredient": "1 pound fresh mushrooms, coarsely chopped",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "1 (16 ounce) package dry egg noodles",
+        "searchTerm": "egg noodles",
+        "normalizedName": "Egg Noodle"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Shallow bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cube pork chops uniformly for even cooking",
+      "Mushroom gravy is the signature element; don't reduce quantity"
+    ],
+    "coachingPrompt": "What's the purpose of the breading step, and how does it affect the final texture?"
+  },
+  "timestamp": "2026-02-06T10:13:47.685Z"
+}

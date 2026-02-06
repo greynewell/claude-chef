@@ -1,0 +1,68 @@
+{
+  "contentHash": "5c863b36601f35e8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "frozen puff pastry",
+        "searchTerm": "puff pastry sheet frozen",
+        "normalizedName": "Puff Pastry"
+      },
+      {
+        "ingredient": "fresh asparagus",
+        "searchTerm": "asparagus fresh",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "creme fraiche",
+        "searchTerm": "creme fraiche",
+        "normalizedName": "Creme Fraiche"
+      },
+      {
+        "ingredient": "black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter melted",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "Parmigiano-Reggiano cheese",
+        "searchTerm": "Parmesan cheese grated",
+        "normalizedName": "Parmigiano-Reggiano Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "pastry brush"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Thaw puff pastry at room temperature for 30 minutes before working",
+      "Brush lightly with melted butter before topping to prevent sogginess",
+      "Bake until pastry is golden and asparagus is tender-crisp"
+    ],
+    "coachingPrompt": "How will you balance the delicate flavors while preventing the puff pastry from becoming soggy?"
+  },
+  "timestamp": "2026-02-06T01:55:55.346Z"
+}

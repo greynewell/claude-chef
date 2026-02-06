@@ -1,0 +1,49 @@
+{
+  "contentHash": "9048783e7ddec467",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) package frozen shelled edamame (green soybeans)",
+        "searchTerm": "edamame",
+        "normalizedName": "Edamame"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Parchment paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Pat edamame completely dry before roasting to achieve crispiness",
+      "Toss with oil and seasonings in a bowl before spreading on baking sheet",
+      "Roast at 400°F for 12-15 minutes, shaking pan halfway through"
+    ],
+    "coachingPrompt": "Explain the importance of removing moisture from frozen edamame for proper crisping, and how high heat develops flavor."
+  },
+  "timestamp": "2026-02-06T04:38:43.967Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "bfa03010c456476e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds large shrimp, peeled and deveined",
+        "searchTerm": "large shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "1 lime, juiced, or more to taste",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh cilantro",
+        "searchTerm": "fresh cilantro",
+        "normalizedName": "Fresh Cilantro"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "10 fresh jalapeno peppers",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 large sweet onion",
+        "searchTerm": "sweet onion",
+        "normalizedName": "Sweet Onion"
+      },
+      {
+        "ingredient": "1 pound thick sliced bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "long skewers",
+        "searchTerm": "skewers"
+      },
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Wrap bacon around skewered shrimp loosely so heat can penetrate and cook the shrimp",
+      "Soak jalapenos briefly in water before grilling to prevent blackening",
+      "Watch for bacon flare-ups; move kabobs to cooler part of grill if needed"
+    ],
+    "coachingPrompt": "Bacon, shrimp, and peppers have very different cooking requirements. Which element concerns you most?"
+  },
+  "timestamp": "2026-02-06T08:26:19.760Z"
+}

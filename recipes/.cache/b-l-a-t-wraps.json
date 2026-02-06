@@ -1,0 +1,58 @@
+{
+  "contentHash": "4e9e0b33a33fde9f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "4 (10 inch) flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "4 tablespoons Ranch-style salad dressing",
+        "searchTerm": "Ranch dressing",
+        "normalizedName": "Ranch Dressing"
+      },
+      {
+        "ingredient": "1 avocado - peeled, pitted and diced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 tomato, chopped",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 cup shredded lettuce",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Paper Towels",
+        "searchTerm": "paper towels"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then drain on paper towels and crumble before assembling",
+      "Warm tortillas briefly to make them more pliable for wrapping",
+      "Layer ingredients in order: dressing, lettuce, tomato, bacon, avocado for even distribution"
+    ],
+    "coachingPrompt": "Help the user efficiently assemble fresh, balanced wraps by organizing components and achieving proper layering to prevent ingredients from shifting."
+  },
+  "timestamp": "2026-02-05T22:46:29.558Z"
+}

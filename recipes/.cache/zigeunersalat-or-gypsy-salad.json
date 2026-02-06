@@ -1,0 +1,73 @@
+{
+  "contentHash": "9b5d7eeab65df7f4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 cup frozen green peas, thawed",
+        "searchTerm": "green peas",
+        "normalizedName": "Green Pea"
+      },
+      {
+        "ingredient": "¼ pound salami, cut into strips",
+        "searchTerm": "salami",
+        "normalizedName": "Salami"
+      },
+      {
+        "ingredient": "½ pound Swiss cheese, cut into strips",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "½ cup sliced sweet gherkin pickles",
+        "searchTerm": "gherkin pickles",
+        "normalizedName": "Gherkin Pickle"
+      },
+      {
+        "ingredient": "1 cup French dressing",
+        "searchTerm": "French dressing",
+        "normalizedName": "French Dressing"
+      },
+      {
+        "ingredient": "1 (10 ounce) package mixed salad greens, rinsed and dried",
+        "searchTerm": "salad greens",
+        "normalizedName": "Salad Green"
+      },
+      {
+        "ingredient": "1 (2 ounce) can anchovy fillets, drained",
+        "searchTerm": "anchovy fillets",
+        "normalizedName": "Anchovy Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Cook eggs and potatoes until just tender, not mushy",
+      "Cut all ingredients into uniform sizes for even distribution",
+      "Toss salad gently to avoid breaking greens"
+    ],
+    "coachingPrompt": "Guide me through properly assembling and dressing this classic European salad."
+  },
+  "timestamp": "2026-02-06T22:24:18.441Z"
+}

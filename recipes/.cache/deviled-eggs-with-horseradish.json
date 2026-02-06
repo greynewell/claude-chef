@@ -1,0 +1,68 @@
+{
+  "contentHash": "111ebf6d3cd69d08",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 tablespoons prepared horseradish",
+        "searchTerm": "prepared horseradish",
+        "normalizedName": "Prepared Horseradish"
+      },
+      {
+        "ingredient": "2 teaspoons chopped fresh dill",
+        "searchTerm": "fresh dill",
+        "normalizedName": "Fresh Dill"
+      },
+      {
+        "ingredient": "½ teaspoon dry mustard",
+        "searchTerm": "dry mustard",
+        "normalizedName": "Dry Mustard"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅛ teaspoon pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "⅛ teaspoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Horseradish adds sharp, peppery heat—start with less if unsure",
+      "Fresh dill balances the intensity of horseradish",
+      "Prepare filling just before serving to keep horseradish fresh"
+    ],
+    "coachingPrompt": "How can you balance the sharp kick of horseradish with other ingredients?"
+  },
+  "timestamp": "2026-02-06T05:12:59.433Z"
+}

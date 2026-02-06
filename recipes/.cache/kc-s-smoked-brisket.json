@@ -1,0 +1,43 @@
+{
+  "contentHash": "b6179b60dbdc8bf5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 pounds beef brisket, trimmed of fat",
+        "searchTerm": "beef brisket",
+        "normalizedName": "Beef Brisket"
+      },
+      {
+        "ingredient": "3 tablespoons mustard, or as needed",
+        "searchTerm": "mustard",
+        "normalizedName": "Mustard"
+      },
+      {
+        "ingredient": "2 tablespoons brisket rub (such as Fiesta®), or as needed",
+        "searchTerm": "brisket rub",
+        "normalizedName": "Brisket Rub"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Smoker",
+        "searchTerm": "smoker"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Butcher paper",
+        "searchTerm": "butcher paper"
+      }
+    ],
+    "cookingTips": [
+      "Apply mustard as a binder for the rub to help it adhere during smoking",
+      "Maintain smoker temperature at 225-250°F and smoke until internal temperature reaches 203°F",
+      "Wrap brisket in butcher paper during the last stages to prevent over-smoking and retain moisture"
+    ],
+    "coachingPrompt": "What wood chips would you use for smoking—hickory, oak, or mesquite—and how would each affect the final flavor?"
+  },
+  "timestamp": "2026-02-06T10:38:16.332Z"
+}

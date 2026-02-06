@@ -1,0 +1,63 @@
+{
+  "contentHash": "7f26889a2eedc7d9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ pound fresh mushrooms, thinly sliced",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "½ cup white wine",
+        "searchTerm": "white wine",
+        "normalizedName": "White Wine"
+      },
+      {
+        "ingredient": "12 ounces cooked crabmeat",
+        "searchTerm": "crabmeat",
+        "normalizedName": "Crabmeat"
+      },
+      {
+        "ingredient": "¼ cup chopped green onions",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "¼ pound seedless red grapes, halved",
+        "searchTerm": "red grapes",
+        "normalizedName": "Red Grape"
+      },
+      {
+        "ingredient": "4 ounces Stilton cheese, crumbled",
+        "searchTerm": "Stilton cheese",
+        "normalizedName": "Stilton Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "serving dish",
+        "searchTerm": "serving dish"
+      }
+    ],
+    "cookingTips": [
+      "Sauté mushrooms in butter first to develop their flavor before adding wine",
+      "Deglaze the pan with white wine, scraping up browned bits for depth",
+      "Crumble Stilton cheese over the warm dish just before serving so it melts slightly"
+    ],
+    "coachingPrompt": "How would the sweetness of grapes and richness of Stilton balance the umami of crab?"
+  },
+  "timestamp": "2026-02-06T04:04:48.324Z"
+}

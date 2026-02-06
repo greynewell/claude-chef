@@ -1,0 +1,73 @@
+{
+  "contentHash": "ddfa88e5bd3db7c7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "rolled oats",
+        "searchTerm": "oats",
+        "normalizedName": "Rolled Oat"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "shortening",
+        "searchTerm": "shortening",
+        "normalizedName": "Shortening"
+      },
+      {
+        "ingredient": "active dry yeast",
+        "searchTerm": "yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "warm water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Stand mixer",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "Loaf pans",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "Kitchen thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Ensure water temperature is exactly 110°F when dissolving yeast",
+      "Allow dough to rise until doubled in bulk before shaping",
+      "Bake until internal temperature reaches 190-200°F"
+    ],
+    "coachingPrompt": "This is a rustic yeasted bread with oatmeal texture. Help the cook understand yeast activation and the importance of proper rise times for good structure."
+  },
+  "timestamp": "2026-02-06T20:59:21.489Z"
+}

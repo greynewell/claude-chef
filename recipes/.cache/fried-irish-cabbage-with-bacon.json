@@ -1,0 +1,47 @@
+{
+  "contentHash": "b28176fa239d8d64",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) package bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "¼ cup bacon drippings",
+        "searchTerm": "bacon drippings",
+        "normalizedName": "Bacon Dripping"
+      },
+      {
+        "ingredient": "1 small head cabbage, cored and finely chopped",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "sharp knife"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Chop cabbage finely for even cooking and better incorporation with bacon",
+      "Use reserved bacon drippings for authentic flavor"
+    ],
+    "coachingPrompt": "How will you render bacon fat while keeping it flavorful, and what size cabbage chop works best?"
+  },
+  "timestamp": "2026-02-06T07:04:45.288Z"
+}

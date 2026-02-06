@@ -1,0 +1,43 @@
+{
+  "contentHash": "8a8c23e37cf7dd74",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "strawberries",
+        "searchTerm": "strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "lemon yogurt",
+        "searchTerm": "lemon yogurt",
+        "normalizedName": "Lemon Yogurt"
+      },
+      {
+        "ingredient": "orange juice",
+        "searchTerm": "orange juice",
+        "normalizedName": "Orange Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Measuring cups",
+        "searchTerm": "measuring cups"
+      },
+      {
+        "name": "Glasses",
+        "searchTerm": "drinking glasses"
+      }
+    ],
+    "cookingTips": [
+      "Use fresh or frozen strawberries; frozen ones create a thicker, colder smoothie",
+      "Add yogurt last to blend smoothly without curdling",
+      "Blend until smooth but not over-processed to maintain texture"
+    ],
+    "coachingPrompt": "How can you adjust the citrus and yogurt balance to prevent the smoothie from becoming too tart or sour?"
+  },
+  "timestamp": "2026-02-06T01:15:44.020Z"
+}

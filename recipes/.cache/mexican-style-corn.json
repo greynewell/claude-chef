@@ -1,0 +1,53 @@
+{
+  "contentHash": "b1d247056676cde3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "corn on the cob",
+        "searchTerm": "fresh corn",
+        "normalizedName": "Corn on the Cob"
+      },
+      {
+        "ingredient": "mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "stockpot"
+      },
+      {
+        "name": "Corn holder or tongs",
+        "searchTerm": "corn holder or tongs"
+      },
+      {
+        "name": "Small dish",
+        "searchTerm": "small bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook corn until kernels are tender but still have a slight bite",
+      "Prepare toppings in a shallow bowl for easy coating",
+      "Apply toppings while corn is still hot for best adhesion"
+    ],
+    "coachingPrompt": "Elote combines creamy, salty, spicy, and tangy elements. How will you balance mayonnaise and margarine quantities and seasonings for optimal flavor?"
+  },
+  "timestamp": "2026-02-06T12:23:03.142Z"
+}

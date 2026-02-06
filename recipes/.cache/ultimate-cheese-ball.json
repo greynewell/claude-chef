@@ -1,0 +1,44 @@
+{
+  "contentHash": "3c65077560f20a0c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 (8 ounce) packages cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 bunch green onions, finely chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 (8 ounce) jar dried beef, chopped",
+        "searchTerm": "dried beef",
+        "normalizedName": "Dried Beef"
+      },
+      {
+        "ingredient": "1 cup chopped pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Soften cream cheese at room temperature for smooth mixing—don't microwave",
+      "Mix dried beef and green onions into the cheese, then roll in pecans just before serving",
+      "Make ahead and refrigerate; bring to room temperature 30 minutes before serving for easier spreading"
+    ],
+    "coachingPrompt": "Explain how room-temperature ingredients blend smoothly and why adding nuts as a final coating preserves their crunch."
+  },
+  "timestamp": "2026-02-06T21:26:51.513Z"
+}

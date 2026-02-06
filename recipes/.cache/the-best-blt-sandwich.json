@@ -1,0 +1,63 @@
+{
+  "contentHash": "646e7231f0d396c7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices bacon, cut in half",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 teaspoon mustard powder",
+        "searchTerm": "mustard powder",
+        "normalizedName": "Mustard Powder"
+      },
+      {
+        "ingredient": "1 teaspoon curry powder",
+        "searchTerm": "curry powder",
+        "normalizedName": "Curry Powder"
+      },
+      {
+        "ingredient": "1 teaspoon red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "2 slices bread, toasted",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "2 lettuce leaves",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "3 slices tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread until golden to provide structural support for wet ingredients",
+      "Layer ingredients strategically to prevent bread from getting soggy",
+      "Season bacon with spice powders before cooking for integrated flavor"
+    ],
+    "coachingPrompt": "Guide me through making a spiced-up BLT with curry and mustard that's crispy and flavorful."
+  },
+  "timestamp": "2026-02-06T20:37:37.852Z"
+}

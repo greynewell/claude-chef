@@ -1,0 +1,63 @@
+{
+  "contentHash": "bbb839898d196135",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds red potatoes, cubed",
+        "searchTerm": "red potato",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "3 tablespoons white vinegar",
+        "searchTerm": "white vinegar",
+        "normalizedName": "White Vinegar"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 bunch arugula - rinsed, dried and torn",
+        "searchTerm": "arugula",
+        "normalizedName": "Arugula"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Large Bowl",
+        "searchTerm": "large bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Dress warm potatoes with vinegar while still hot to absorb flavor better",
+      "Add arugula just before serving to prevent wilting",
+      "Use waxy potatoes like red varieties that hold shape when cooked"
+    ],
+    "coachingPrompt": "What vinegars or acids could enhance this salad's flavor profile?"
+  },
+  "timestamp": "2026-02-06T15:12:52.673Z"
+}

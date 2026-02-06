@@ -1,0 +1,52 @@
+{
+  "contentHash": "d52537a58512b32e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 large eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup cottage cheese",
+        "searchTerm": "cottage cheese",
+        "normalizedName": "Cottage Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sous Vide Machine",
+        "searchTerm": "immersion circulator"
+      },
+      {
+        "name": "Mason Jars",
+        "searchTerm": "4-ounce mason jars"
+      },
+      {
+        "name": "Water Bath Container",
+        "searchTerm": "large pot"
+      }
+    ],
+    "cookingTips": [
+      "Cook at 167°F (75°C) for creamy, custard-like egg bites with no rubbery texture",
+      "Cottage cheese adds protein and creaminess while keeping bites light"
+    ],
+    "coachingPrompt": "Help the user understand how sous vide creates perfectly set egg bites and discuss their portability for meal prep and quick breakfasts."
+  },
+  "timestamp": "2026-02-06T18:38:23.425Z"
+}

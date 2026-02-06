@@ -1,0 +1,52 @@
+{
+  "contentHash": "32f376c081f25e72",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 sheet frozen puff pastry, thawed",
+        "searchTerm": "puff pastry",
+        "normalizedName": "Puff Pastry"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "brush"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Thaw puff pastry at room temperature for 30-40 minutes before using for easier handling",
+      "Brush with beaten egg wash for a golden, shiny finish",
+      "Watch carefully during baking to prevent burning, as puff pastry browns quickly"
+    ],
+    "coachingPrompt": "Help the user understand how to work with puff pastry and create a base recipe that can be topped with various fillings."
+  },
+  "timestamp": "2026-02-06T04:16:17.048Z"
+}

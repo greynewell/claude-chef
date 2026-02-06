@@ -1,0 +1,42 @@
+{
+  "contentHash": "36fca3ba61059b13",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "20 pods snow peas",
+        "searchTerm": "snow peas",
+        "normalizedName": "Snow Pea"
+      },
+      {
+        "ingredient": "1 (8 ounce) container herb and garlic flavored cream cheese, softened",
+        "searchTerm": "herb garlic cream cheese",
+        "normalizedName": "Herb Garlic Cream Cheese"
+      },
+      {
+        "ingredient": "1 bunch spinach - rinsed, stemmed, and dried",
+        "searchTerm": "fresh spinach",
+        "normalizedName": "Spinach"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "paring knife",
+        "searchTerm": "paring knife"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "small bowl"
+      }
+    ],
+    "cookingTips": [
+      "Blanch pea pods briefly to soften them for easier splitting",
+      "Finely chop spinach and squeeze dry to prevent excess moisture in filling"
+    ],
+    "coachingPrompt": "How will you ensure the pea pods don't split when filling them?"
+  },
+  "timestamp": "2026-02-06T19:41:24.408Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "77f72784b87f5af2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ½ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 tablespoons baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ cup shortening",
+        "searchTerm": "shortening",
+        "normalizedName": "Shortening"
+      },
+      {
+        "ingredient": "2 large eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 ½ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Keep shortening cold and cut it into flour using a pastry cutter for flakier biscuits",
+      "Mix wet and dry ingredients separately then combine gently to avoid overworking",
+      "Bake at 400°F for 12-15 minutes until golden brown on top"
+    ],
+    "coachingPrompt": "What's the difference between making biscuits with cold shortening versus warm, and why does it matter?"
+  },
+  "timestamp": "2026-02-06T19:52:18.016Z"
+}

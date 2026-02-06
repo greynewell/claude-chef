@@ -1,0 +1,73 @@
+{
+  "contentHash": "dd30b3a1fd55f75b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups College Inn Fat Free & Lower Sodium Chicken Broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "8 ounces uncooked orzo pasta",
+        "searchTerm": "orzo pasta",
+        "normalizedName": "Orzo Pasta"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can Del Monte French-Style Green Beans",
+        "searchTerm": "green beans",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can Del Monte Petite-Cut Diced Tomatoes",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "4 (4 ounce) tilapia fillets",
+        "searchTerm": "tilapia fillets",
+        "normalizedName": "Tilapia Fillet"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh oregano",
+        "searchTerm": "fresh oregano",
+        "normalizedName": "Oregano"
+      },
+      {
+        "ingredient": "salt and black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 teaspoons grated fresh lemon peel",
+        "searchTerm": "lemon zest",
+        "normalizedName": "Lemon Zest"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "lid",
+        "searchTerm": "lid"
+      },
+      {
+        "name": "cooking utensil",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Cook orzo directly in the broth for faster prep and combined flavors",
+      "Add fish in the final stage to prevent overcooking",
+      "Use frozen tilapia if fresh is unavailable - thaw thoroughly before cooking"
+    ],
+    "coachingPrompt": "How would you achieve flaky, tender fish while ensuring the orzo pasta is properly cooked in the same skillet?"
+  },
+  "timestamp": "2026-02-06T11:13:34.824Z"
+}

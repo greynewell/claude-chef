@@ -1,0 +1,58 @@
+{
+  "contentHash": "2f9e33ef86d4c99e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (6 ounce) can crabmeat",
+        "searchTerm": "canned crabmeat",
+        "normalizedName": "Crabmeat"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (8 ounce) can crushed pineapple",
+        "searchTerm": "crushed pineapple",
+        "normalizedName": "Crushed Pineapple"
+      },
+      {
+        "ingredient": "4 dashes Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "1 pinch garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Serving plate",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Drain canned crab and pineapple thoroughly to prevent watery dip",
+      "Mix cream cheese until smooth before folding in other ingredients",
+      "Serve with various crackers or vegetable slices for dipping"
+    ],
+    "coachingPrompt": "Help the user create an easy appetizer by properly draining ingredients and combining them into a flavorful crab spread."
+  },
+  "timestamp": "2026-02-06T04:02:47.146Z"
+}

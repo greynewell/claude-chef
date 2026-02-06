@@ -1,0 +1,39 @@
+{
+  "contentHash": "1bfcf10b20e9584c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¼ cup butter, diced",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "fork or pastry cutter",
+        "searchTerm": "pastry cutter"
+      }
+    ],
+    "cookingTips": [
+      "Cut cold butter into small dice before mixing so it creates texture when baked",
+      "Use a fork or pastry cutter to combine ingredients until mixture resembles coarse breadcrumbs",
+      "Distribute topping evenly over pie filling, leaving some bare spots for heat to penetrate the filling"
+    ],
+    "coachingPrompt": "Guide the cook on creating a coarse, crumbly texture by cutting in cold butter properly so the topping stays crispy rather than becoming dense."
+  },
+  "timestamp": "2026-02-06T04:42:46.857Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "10d471fe395081a5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 large russet potatoes, peeled",
+        "searchTerm": "russet potatoes",
+        "normalizedName": "Russet Potato"
+      },
+      {
+        "ingredient": "4 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grater or food processor",
+        "searchTerm": "grater"
+      },
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Grate potatoes and squeeze in paper towels to remove excess moisture for crispier results",
+      "Work quickly after grating to prevent oxidation and browning of potatoes",
+      "Press hash browns gently in skillet and let them cook undisturbed for golden crust"
+    ],
+    "coachingPrompt": "Guide the user on why removing starch and moisture is crucial for crispy hash browns and how to achieve restaurant-quality texture at home."
+  },
+  "timestamp": "2026-02-06T07:51:20.209Z"
+}

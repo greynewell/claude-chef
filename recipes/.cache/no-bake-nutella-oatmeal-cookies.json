@@ -1,0 +1,63 @@
+{
+  "contentHash": "780dbc3e31845092",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "4 tablespoons cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "½ cup chocolate-hazelnut spread (such as Nutella®)",
+        "searchTerm": "nutella",
+        "normalizedName": "Chocolate-Hazelnut Spread"
+      },
+      {
+        "ingredient": "2 teaspoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "3 cups quick-cooking oats",
+        "searchTerm": "oats",
+        "normalizedName": "Quick-Cooking Oat"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Work quickly when dropping cookies as the mixture sets rapidly once removed from heat",
+      "Use parchment paper on baking sheet for easy removal of cookies",
+      "Let cookies cool completely on the sheet before transferring to prevent breakage"
+    ],
+    "coachingPrompt": "Remind the user to monitor the candy mixture temperature and work quickly to drop cookies before hardening."
+  },
+  "timestamp": "2026-02-06T13:17:09.206Z"
+}

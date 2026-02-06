@@ -1,0 +1,48 @@
+{
+  "contentHash": "1699333fbafcaabb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 ½ pounds unsliced bologna",
+        "searchTerm": "bologna",
+        "normalizedName": "Bologna"
+      },
+      {
+        "ingredient": "6 medium sweet pickles",
+        "searchTerm": "sweet pickle",
+        "normalizedName": "Sweet Pickle"
+      },
+      {
+        "ingredient": "¼ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Knife and cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Slice bologna into chunks before chopping so it processes more evenly into a fine texture",
+      "Finely dice pickles to distribute their flavor throughout without creating large wet spots",
+      "Use just enough mayonnaise to bind; too much will make the spread watery"
+    ],
+    "coachingPrompt": "This simplified version relies on quality ingredients. Guide the user through achieving consistent texture by careful hand-chopping and proper mixing ratios."
+  },
+  "timestamp": "2026-02-06T00:28:57.359Z"
+}

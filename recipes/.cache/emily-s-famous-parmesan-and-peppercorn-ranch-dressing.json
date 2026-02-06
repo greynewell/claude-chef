@@ -1,0 +1,68 @@
+{
+  "contentHash": "6b7a92e0728c1fe8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups plain lowfat yogurt",
+        "searchTerm": "lowfat yogurt",
+        "normalizedName": "Lowfat Yogurt"
+      },
+      {
+        "ingredient": "1 tablespoon mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¼ cup finely chopped green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "2 tablespoons finely chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      },
+      {
+        "ingredient": "2 teaspoons freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ teaspoon salt, or to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese, or to taste",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "measuring spoon",
+        "searchTerm": "measuring spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use fresh herbs for brighter flavor than dried",
+      "Let dressing chill for 30 minutes to allow flavors to develop",
+      "Thin with milk if dressing is too thick"
+    ],
+    "coachingPrompt": "Show the user how to create a healthier ranch dressing by using yogurt instead of mayonnaise as the base."
+  },
+  "timestamp": "2026-02-06T06:18:17.928Z"
+}

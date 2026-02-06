@@ -1,0 +1,63 @@
+{
+  "contentHash": "a242be01486a57c0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package ziti pasta",
+        "searchTerm": "ziti pasta",
+        "normalizedName": "Ziti Pasta"
+      },
+      {
+        "ingredient": "1 (15 ounce) jar Alfredo sauce",
+        "searchTerm": "alfredo sauce",
+        "normalizedName": "Alfredo Sauce"
+      },
+      {
+        "ingredient": "8 ounces sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 (15 ounce) container ricotta cheese",
+        "searchTerm": "ricotta cheese",
+        "normalizedName": "Ricotta Cheese"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 ½ cups shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "9x13 baking dish"
+      },
+      {
+        "name": "Pasta Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "large mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Mix ricotta, eggs, and sour cream thoroughly before combining with pasta for even distribution",
+      "Reserve some mozzarella for topping to ensure a golden crust",
+      "Allow casserole to cool for 5 minutes after baking before serving"
+    ],
+    "coachingPrompt": "Guide the user through combining the cheese mixture and pasta, ensuring even distribution before baking."
+  },
+  "timestamp": "2026-02-06T20:46:47.269Z"
+}

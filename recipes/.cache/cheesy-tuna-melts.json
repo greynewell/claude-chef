@@ -1,0 +1,62 @@
+{
+  "contentHash": "0648805e330dcc74",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (5 ounce) can tuna, drained",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Canned Tuna"
+      },
+      {
+        "ingredient": "⅓ cup chopped celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "4 English muffins, split and toasted",
+        "searchTerm": "english muffins",
+        "normalizedName": "English Muffin"
+      },
+      {
+        "ingredient": "8 slices ripe tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "8 slices Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "Broiler Pan",
+        "searchTerm": "pan"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Toast muffins first for a crispy base that won't get soggy",
+      "Watch carefully under the broiler to melt cheese without burning"
+    ],
+    "coachingPrompt": "What's your comfort level with broiling? Keep an eye on it—it happens fast!"
+  },
+  "timestamp": "2026-02-06T01:54:58.813Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "01e20cd1bfb67894",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "¼ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "½ teaspoon dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      },
+      {
+        "ingredient": "1 (16 ounce) can refried beans",
+        "searchTerm": "refried beans",
+        "normalizedName": "Refried Bean"
+      },
+      {
+        "ingredient": "6 (10 inch) flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "2 cups shredded Mexican blend cheese",
+        "searchTerm": "Mexican blend cheese",
+        "normalizedName": "Mexican Blend Cheese"
+      },
+      {
+        "ingredient": "½ cup prepared salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "microwave or oven",
+        "searchTerm": "microwave"
+      }
+    ],
+    "cookingTips": [
+      "Brown the ground beef thoroughly to ensure even seasoning distribution",
+      "Warm tortillas before filling to prevent cracking",
+      "Assemble burritos with filling in the center to avoid overstuffing"
+    ],
+    "coachingPrompt": "Help the user understand how to properly brown ground beef and assemble a burrito with the right technique to prevent tearing."
+  },
+  "timestamp": "2026-02-06T13:18:04.381Z"
+}

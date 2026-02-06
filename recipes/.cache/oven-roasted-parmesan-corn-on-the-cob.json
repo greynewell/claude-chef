@@ -1,0 +1,57 @@
+{
+  "contentHash": "3e2c711ae7cf0fc8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 ears corn, husks and silk removed",
+        "searchTerm": "corn on the cob",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 cup shredded Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Pastry brush",
+        "searchTerm": "pastry brush"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Apply mayonnaise-cheese mixture generously and evenly for best flavor distribution",
+      "Rotate corn halfway through roasting for even browning"
+    ],
+    "coachingPrompt": "How can the ingredient ratio be adjusted for different cooking times or corn sizes?"
+  },
+  "timestamp": "2026-02-06T13:54:01.975Z"
+}

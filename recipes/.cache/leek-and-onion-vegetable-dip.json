@@ -1,0 +1,49 @@
+{
+  "contentHash": "af45e413643ec27c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ (1 ounce) package dry onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      },
+      {
+        "ingredient": "1 (1.8 ounce) package dry leek soup mix",
+        "searchTerm": "leek soup mix",
+        "normalizedName": "Leek Soup Mix"
+      },
+      {
+        "ingredient": "½ teaspoon dried dill weed",
+        "searchTerm": "dried dill",
+        "normalizedName": "Dried Dill"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 (16 ounce) container sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Small bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Mix dip at least 2 hours ahead to allow flavors to bloom",
+      "Use full-fat sour cream and mayonnaise for best texture and taste",
+      "Adjust seasoning to taste if soup mixes are very salty"
+    ],
+    "coachingPrompt": "Help the user understand how to balance dry soup mixes with fresh dairy to create a balanced, flavorful dip."
+  },
+  "timestamp": "2026-02-06T11:05:15.898Z"
+}

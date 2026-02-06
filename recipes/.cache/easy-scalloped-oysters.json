@@ -1,0 +1,53 @@
+{
+  "contentHash": "2d4a80fcf755e9dd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 (12 ounce) cans oysters, drained",
+        "searchTerm": "canned oysters",
+        "normalizedName": "Oyster"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 (12 fluid ounce) can evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      },
+      {
+        "ingredient": "32 saltine crackers, crushed",
+        "searchTerm": "saltine crackers",
+        "normalizedName": "Saltine Cracker"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Drain oysters thoroughly to prevent excess liquid in the dish",
+      "Crush crackers to varied sizes for better texture contrast"
+    ],
+    "coachingPrompt": "Help the user layer ingredients properly and suggest baking temperature and time for a golden, crispy topping."
+  },
+  "timestamp": "2026-02-06T05:59:34.202Z"
+}

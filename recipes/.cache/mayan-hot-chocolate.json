@@ -1,0 +1,48 @@
+{
+  "contentHash": "e51829971415919e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "3 tablespoons instant hot chocolate mix",
+        "searchTerm": "hot chocolate mix",
+        "normalizedName": "Hot Chocolate Mix"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "1 pinch cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "mug",
+        "searchTerm": "mug"
+      }
+    ],
+    "cookingTips": [
+      "Heat milk gently without boiling to prevent scorching",
+      "Whisk constantly while adding chocolate mix to prevent lumps",
+      "Sprinkle cinnamon on top as garnish for presentation"
+    ],
+    "coachingPrompt": "Help me make traditional Mayan hot chocolate with spiced warmth and smooth chocolate flavor."
+  },
+  "timestamp": "2026-02-06T12:05:59.989Z"
+}

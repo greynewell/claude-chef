@@ -1,0 +1,63 @@
+{
+  "contentHash": "7ad5aa85cf6b18cc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 hard-cooked eggs, chopped",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅔ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "½ teaspoon seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ cup chopped pickles",
+        "searchTerm": "pickles",
+        "normalizedName": "Pickle"
+      },
+      {
+        "ingredient": "1 (5 ounce) can tuna packed in water, drained",
+        "searchTerm": "tuna",
+        "normalizedName": "Tuna"
+      },
+      {
+        "ingredient": "2 cups arugula",
+        "searchTerm": "arugula",
+        "normalizedName": "Arugula"
+      },
+      {
+        "ingredient": "4 1-pint canning jars with lids and rings",
+        "searchTerm": "canning jars",
+        "normalizedName": "Canning Jar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Canning Jar",
+        "searchTerm": "mason jar"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Can Opener",
+        "searchTerm": "can opener"
+      }
+    ],
+    "cookingTips": [
+      "Layer heaviest ingredients (dressing, tuna, eggs) at bottom to prevent greens from getting soggy",
+      "Place arugula on top as final layer to keep salad fresh",
+      "Refrigerate up to 3 days and shake jar well before eating"
+    ],
+    "coachingPrompt": "Show the user how to layer ingredients in Mason jars with dressing on bottom and greens on top for meal prep convenience."
+  },
+  "timestamp": "2026-02-06T12:05:02.254Z"
+}

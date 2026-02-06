@@ -1,0 +1,58 @@
+{
+  "contentHash": "6a8530fff61fc5a4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (1.3 ounce) envelope sloppy joe seasoning",
+        "searchTerm": "sloppy joe seasoning",
+        "normalizedName": "Sloppy Joe Seasoning"
+      },
+      {
+        "ingredient": "2 (8.5 ounce) cans refrigerated crescent roll dough",
+        "searchTerm": "crescent roll dough",
+        "normalizedName": "Crescent Roll Dough"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 (14 ounce) can pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "9x13 inch baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly, drain excess fat, then add sloppy joe seasoning and pizza sauce",
+      "Line baking dish with crescent roll dough, pressing seams together to create even crust",
+      "Top with beef mixture and cheese, bake at 375°F until crescent rolls are golden"
+    ],
+    "coachingPrompt": "Guide the user through this easy casserole by properly browning the meat, layering with dough and cheese, and baking until the crust is golden and crispy."
+  },
+  "timestamp": "2026-02-06T14:53:14.575Z"
+}

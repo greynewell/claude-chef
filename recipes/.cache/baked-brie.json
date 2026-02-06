@@ -1,0 +1,48 @@
+{
+  "contentHash": "0091a13eaeb97c71",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices sun-dried tomatoes in oil, minced",
+        "searchTerm": "sun-dried tomatoes",
+        "normalizedName": "Sun-Dried Tomato"
+      },
+      {
+        "ingredient": "3 artichoke hearts packed in oil, drained and chopped",
+        "searchTerm": "artichoke hearts",
+        "normalizedName": "Artichoke Heart"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 (1 1/2 pound) Brie cheese round",
+        "searchTerm": "brie cheese",
+        "normalizedName": "Brie Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Mix sun-dried tomatoes and artichokes with garlic before spreading on brie",
+      "Bake at 375°F for 10-12 minutes until edges start to ooze",
+      "Serve immediately with crackers or bread for best texture"
+    ],
+    "coachingPrompt": "Help the user create a Mediterranean-inspired cheese dip with balanced flavors from the toppings."
+  },
+  "timestamp": "2026-02-05T23:00:03.767Z"
+}

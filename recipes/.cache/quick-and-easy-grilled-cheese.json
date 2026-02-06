@@ -1,0 +1,64 @@
+{
+  "contentHash": "694a680647411f7c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "2 slices sharp Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon chopped parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "1 teaspoon chopped basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "1 teaspoon oregano",
+        "searchTerm": "oregano",
+        "normalizedName": "Oregano"
+      },
+      {
+        "ingredient": "1 teaspoon chopped fresh rosemary",
+        "searchTerm": "fresh rosemary",
+        "normalizedName": "Rosemary"
+      },
+      {
+        "ingredient": "1 teaspoon chopped fresh dill",
+        "searchTerm": "fresh dill",
+        "normalizedName": "Dill"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Mix herbs with softened butter before spreading for better distribution",
+      "Use medium heat to avoid burning the bread while melting the cheese",
+      "Press gently with spatula to ensure even cheese melting"
+    ],
+    "coachingPrompt": "Help the user infuse the butter with fresh herbs to elevate this classic sandwich beyond ordinary grilled cheese."
+  },
+  "timestamp": "2026-02-06T15:37:42.273Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "53d04d5e0347b879",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 jalapeno pepper, minced",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 habanero peppers, seeded and minced",
+        "searchTerm": "habanero pepper",
+        "normalizedName": "Habanero Pepper"
+      },
+      {
+        "ingredient": "¼ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      },
+      {
+        "ingredient": "⅛ teaspoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "piping bag",
+        "searchTerm": "piping bag"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Boil eggs in water with vinegar to prevent cracking and make peeling easier",
+      "Cool eggs in ice bath immediately after boiling for cleaner separation from shells",
+      "Wear gloves when handling habanero peppers and be careful not to touch your face"
+    ],
+    "coachingPrompt": "This recipe uses two hot peppers for significant heat. How would you adjust the spice level for less tolerant guests?"
+  },
+  "timestamp": "2026-02-06T20:41:45.183Z"
+}

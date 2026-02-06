@@ -1,0 +1,58 @@
+{
+  "contentHash": "f7c8dcac9dd57a87",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 skinless, boneless chicken breast halves - cooked and cubed",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 tablespoons butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (2 ounce) bottle hot sauce",
+        "searchTerm": "hot sauce",
+        "normalizedName": "Hot Sauce"
+      },
+      {
+        "ingredient": "1 (8 ounce) bottle blue cheese salad dressing",
+        "searchTerm": "blue cheese dressing",
+        "normalizedName": "Blue Cheese Dressing"
+      },
+      {
+        "ingredient": "1 (16 inch) prepared pizza crust",
+        "searchTerm": "pizza crust",
+        "normalizedName": "Pizza Crust"
+      },
+      {
+        "ingredient": "1 (8 ounce) package shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "pizza stone or baking sheet",
+        "searchTerm": "pizza stone"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook chicken breast ahead of time and cube evenly",
+      "Mix hot sauce and blue cheese dressing for balanced flavor base",
+      "Distribute chicken evenly before adding cheese to prevent dry spots"
+    ],
+    "coachingPrompt": "Help me make buffalo chicken pizza with crispy crust, well-cooked chicken, and balanced spice and ranch flavors."
+  },
+  "timestamp": "2026-02-06T00:55:53.895Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "58a1440b1ccb37ab",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 pound) whole turkey",
+        "searchTerm": "whole turkey",
+        "normalizedName": "Turkey"
+      },
+      {
+        "ingredient": "6 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 cups warm water",
+        "searchTerm": "warm water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 tablespoons chicken bouillon",
+        "searchTerm": "chicken bouillon",
+        "normalizedName": "Chicken Bouillon"
+      },
+      {
+        "ingredient": "2 tablespoons dried parsley",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley"
+      },
+      {
+        "ingredient": "2 tablespoons dried minced onion",
+        "searchTerm": "dried minced onion",
+        "normalizedName": "Dried Minced Onion"
+      },
+      {
+        "ingredient": "2 tablespoons seasoning salt",
+        "searchTerm": "seasoning salt",
+        "normalizedName": "Seasoning Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "roasting pan with rack",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "basting brush",
+        "searchTerm": "basting brush"
+      }
+    ],
+    "cookingTips": [
+      "Prepare basting liquid by combining water, bouillon, and seasonings; use throughout cooking",
+      "Roast at 325°F, allowing 13-15 minutes per pound; baste every 30 minutes with prepared liquid",
+      "Turkey is done when meat thermometer reaches 165°F in thickest part of thigh without touching bone"
+    ],
+    "coachingPrompt": "What's the best way to keep a turkey moist while roasting and ensure it cooks evenly?"
+  },
+  "timestamp": "2026-02-06T09:19:09.788Z"
+}

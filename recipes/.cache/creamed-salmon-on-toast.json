@@ -1,0 +1,63 @@
+{
+  "contentHash": "e8cb2bd8a7ad1a96",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 cup cold milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 (10 ounce) can canned green peas, drained, liquid reserved",
+        "searchTerm": "canned green pea",
+        "normalizedName": "Green Pea"
+      },
+      {
+        "ingredient": "1 (14.75 ounce) can salmon",
+        "searchTerm": "canned salmon",
+        "normalizedName": "Salmon"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      }
+    ],
+    "cookingTips": [
+      "Use the pea liquid to thin the sauce if it becomes too thick",
+      "Flake salmon gently to preserve the texture and avoid breaking it into tiny pieces",
+      "Toast bread until golden for the best structural support"
+    ],
+    "coachingPrompt": "I'm making creamed salmon on toast. Should I remove the skin and bones from canned salmon?"
+  },
+  "timestamp": "2026-02-06T04:19:52.025Z"
+}

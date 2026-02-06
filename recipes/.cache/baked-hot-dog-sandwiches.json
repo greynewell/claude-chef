@@ -1,0 +1,63 @@
+{
+  "contentHash": "c332186e2162452f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 hot dogs, chopped",
+        "searchTerm": "hot dogs",
+        "normalizedName": "Hot Dog"
+      },
+      {
+        "ingredient": "⅔ cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "3 tablespoons pickle relish",
+        "searchTerm": "pickle relish",
+        "normalizedName": "Pickle Relish"
+      },
+      {
+        "ingredient": "3 tablespoons ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "2 teaspoons prepared mustard",
+        "searchTerm": "prepared mustard",
+        "normalizedName": "Prepared Mustard"
+      },
+      {
+        "ingredient": "3 tablespoons chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "8 hot dog buns",
+        "searchTerm": "hot dog buns",
+        "normalizedName": "Hot Dog Bun"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Mix chopped hot dogs with cheese and condiments before filling buns for even distribution",
+      "Fill buns generously but don't overstuff to prevent leaking during baking",
+      "Cover with foil for part of baking to keep buns soft, then uncover to lightly toast tops"
+    ],
+    "coachingPrompt": "Teach proper filling techniques to maintain structural integrity, explain how to achieve soft interiors with lightly toasted bun tops."
+  },
+  "timestamp": "2026-02-05T23:07:02.917Z"
+}

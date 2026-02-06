@@ -1,0 +1,65 @@
+{
+  "contentHash": "8d397960f8f595f5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 red bell pepper, cut into strips",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "2 red onions, cut into strips",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup red wine (Optional)",
+        "searchTerm": "red wine",
+        "normalizedName": "Red Wine"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pinch dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet"
+      },
+      {
+        "name": "wooden spoon"
+      },
+      {
+        "name": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cook over medium heat slowly to develop sweetness without burning",
+      "Stir occasionally to ensure even caramelization",
+      "Add red wine to deglaze pan and create sauce"
+    ],
+    "coachingPrompt": "What technique will bring out the natural sweetness of peppers and onions through caramelization?"
+  },
+  "timestamp": "2026-02-06T01:24:18.054Z"
+}

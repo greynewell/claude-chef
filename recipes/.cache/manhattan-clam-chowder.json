@@ -1,0 +1,63 @@
+{
+  "contentHash": "db948052f0abd769",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pint shucked clams",
+        "searchTerm": "shucked clams",
+        "normalizedName": "Shucked Clam"
+      },
+      {
+        "ingredient": "1 cup tomato and clam juice cocktail",
+        "searchTerm": "tomato clam juice cocktail",
+        "normalizedName": "Tomato Clam Juice Cocktail"
+      },
+      {
+        "ingredient": "2 potatoes, cleaned and chopped",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 cup chopped green bell pepper",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "¼ cup chopped green onions",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can Italian-style diced tomatoes",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Diced Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Save clam liquor from shucking to add richness to the broth",
+      "Cook potatoes until tender but not falling apart for best texture",
+      "Stir in clams gently at the end to keep them intact"
+    ],
+    "coachingPrompt": "How do I shuck clams safely and preserve their juice for chowder?"
+  },
+  "timestamp": "2026-02-06T11:52:41.835Z"
+}

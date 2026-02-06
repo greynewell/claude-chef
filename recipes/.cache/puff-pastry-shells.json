@@ -1,0 +1,43 @@
+{
+  "contentHash": "4da7b12b92efb8aa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "4 sheets frozen puff pastry",
+        "searchTerm": "puff pastry",
+        "normalizedName": "Puff Pastry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "pastry brush"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Cut pastry carefully to create clean edges that will puff evenly",
+      "Apply egg wash to only the top surface for maximum puff and shine",
+      "Bake at 400°F for 15-20 minutes until deeply golden and crispy throughout"
+    ],
+    "coachingPrompt": "Guide me through making crispy puff pastry shells with maximum volume and even browning"
+  },
+  "timestamp": "2026-02-06T15:22:49.492Z"
+}

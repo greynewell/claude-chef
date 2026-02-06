@@ -1,0 +1,63 @@
+{
+  "contentHash": "b1ae7babf158d25e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (16 ounce) packages frozen cut green beans",
+        "searchTerm": "frozen green beans",
+        "normalizedName": "Frozen Green Bean"
+      },
+      {
+        "ingredient": "2 (10.75 ounce) cans cream of chicken soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream Of Chicken Soup"
+      },
+      {
+        "ingredient": "⅔ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (6 ounce) can French-fried onions, divided",
+        "searchTerm": "fried onions",
+        "normalizedName": "French-Fried Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Mixing Spoon",
+        "searchTerm": "mixing spoon"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Use frozen green beans directly without thawing",
+      "Reserve half the fried onions for topping at the end",
+      "Add reserved onions in the last 15 minutes to keep them crispy"
+    ],
+    "coachingPrompt": "Why split the fried onion topping between beginning and end of cooking?"
+  },
+  "timestamp": "2026-02-06T18:10:18.809Z"
+}

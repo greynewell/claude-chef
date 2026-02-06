@@ -1,0 +1,53 @@
+{
+  "contentHash": "bb80d6580b4506ef",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups freshly squeezed lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "6 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup unsalted butter, softened",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ cup freshly grated lemon zest",
+        "searchTerm": "lemon zest",
+        "normalizedName": "Lemon Zest"
+      }
+    ],
+    "gear": [
+      {
+        "name": "double boiler",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "jar",
+        "searchTerm": "jar"
+      }
+    ],
+    "cookingTips": [
+      "Cook over gentle heat in double boiler to prevent scrambling the eggs",
+      "Whisk constantly for smooth, creamy consistency",
+      "Strain curd through fine mesh if any cooked egg pieces form"
+    ],
+    "coachingPrompt": "Why is a double boiler essential for this recipe, and what happens if you cook it too quickly?"
+  },
+  "timestamp": "2026-02-06T06:20:10.975Z"
+}

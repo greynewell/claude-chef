@@ -1,0 +1,43 @@
+{
+  "contentHash": "f4db3ae4cd0fe747",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package hot dogs",
+        "searchTerm": "hot dogs",
+        "normalizedName": "Hot Dog"
+      },
+      {
+        "ingredient": "16 slices bacon, cut into thirds",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 cups packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Toothpicks",
+        "searchTerm": "toothpicks"
+      },
+      {
+        "name": "Parchment paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Secure bacon to hot dogs with toothpicks to prevent unraveling",
+      "Roll bacon-wrapped dogs in brown sugar for even coating",
+      "Bake at 350°F for 20-25 minutes until bacon is crispy and sugar caramelizes"
+    ],
+    "coachingPrompt": "How can you ensure the bacon cooks evenly around the hot dog?"
+  },
+  "timestamp": "2026-02-06T20:01:32.482Z"
+}

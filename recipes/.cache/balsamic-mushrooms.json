@@ -1,0 +1,62 @@
+{
+  "contentHash": "ccc7cbf997be61c3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 pound fresh mushrooms, sliced",
+        "searchTerm": "fresh mushrooms",
+        "normalizedName": "Fresh Mushroom"
+      },
+      {
+        "ingredient": "3 tablespoons balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "3 tablespoons white wine",
+        "searchTerm": "white wine",
+        "normalizedName": "White Wine"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Clean mushrooms with a damp cloth rather than washing to prevent them from absorbing too much water",
+      "Cook mushrooms in batches if needed to ensure they brown rather than steam"
+    ],
+    "coachingPrompt": "Help the user achieve properly caramelized mushrooms by managing heat and avoiding overcrowding the pan."
+  },
+  "timestamp": "2026-02-05T23:19:00.876Z"
+}

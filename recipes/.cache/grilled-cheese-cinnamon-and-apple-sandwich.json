@@ -1,0 +1,53 @@
+{
+  "contentHash": "4eb856eba655642c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon softened butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "1 small apple - peeled, cored, and sliced",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "1 slice American cheese",
+        "searchTerm": "american cheese",
+        "normalizedName": "American Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Sprinkle cinnamon on apples before assembling for better flavor distribution",
+      "Medium heat prevents cinnamon from burning while cheese melts",
+      "Press gently with spatula to help cheese melt evenly"
+    ],
+    "coachingPrompt": "Advise on balancing the sweetness of apple and cinnamon with the savory cheese, and the best heat level for this delicate combination."
+  },
+  "timestamp": "2026-02-06T08:12:09.120Z"
+}

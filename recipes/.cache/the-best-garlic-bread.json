@@ -1,0 +1,47 @@
+{
+  "contentHash": "22b084ddea905d4c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 (1 pound) loaf Italian bread",
+        "searchTerm": "Italian bread",
+        "normalizedName": "Italian Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Spread mixture evenly to prevent burnt spots on edges",
+      "Toast until edges are golden but center stays soft"
+    ],
+    "coachingPrompt": "Guide the user to create evenly flavored, crispy-edged garlic bread with proper cheese coverage."
+  },
+  "timestamp": "2026-02-06T20:38:30.511Z"
+}

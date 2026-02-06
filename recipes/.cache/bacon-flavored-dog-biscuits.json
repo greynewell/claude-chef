@@ -1,0 +1,58 @@
+{
+  "contentHash": "e326417b5c680cc6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "10 tablespoons bacon fat, melted",
+        "searchTerm": "bacon fat",
+        "normalizedName": "Bacon Fat"
+      },
+      {
+        "ingredient": "5 cups whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Mix wet ingredients thoroughly before combining with flour to avoid lumps",
+      "Knead dough until it reaches cookie-like consistency, not too sticky",
+      "Bake at 350°F for 20-25 minutes until biscuits are hard and crunchy for proper dog treat texture"
+    ],
+    "coachingPrompt": "Explain to the user that bacon fat provides both flavor and moisture for pet-safe treats."
+  },
+  "timestamp": "2026-02-05T22:51:06.702Z"
+}

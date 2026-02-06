@@ -1,0 +1,58 @@
+{
+  "contentHash": "2a23fb17f8f91f12",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (15 ounce) can pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "1 (4 ounce) can sliced mushrooms, drained (Optional)",
+        "searchTerm": "canned mushrooms",
+        "normalizedName": "Canned Mushroom"
+      },
+      {
+        "ingredient": "¼ cup sliced pitted ripe olives",
+        "searchTerm": "black olives",
+        "normalizedName": "Black Olive"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese, or more to taste",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 (10 ounce) can refrigerated biscuit dough",
+        "searchTerm": "biscuit dough",
+        "normalizedName": "Biscuit Dough"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Brown beef thoroughly and drain excess fat before mixing with sauce",
+      "Spread biscuit dough directly over meat mixture for upside-down presentation",
+      "Bake at 400°F for 15-20 minutes until biscuits are golden"
+    ],
+    "coachingPrompt": "How does placing biscuits on top change the cooking dynamics and final texture compared to traditional pizza?"
+  },
+  "timestamp": "2026-02-06T06:05:21.731Z"
+}

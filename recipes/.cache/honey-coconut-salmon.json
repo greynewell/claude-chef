@@ -1,0 +1,53 @@
+{
+  "contentHash": "3085c2d3fcd585fc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¾ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "¼ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "¾ cup flaked coconut",
+        "searchTerm": "coconut flakes",
+        "normalizedName": "Coconut Flake"
+      },
+      {
+        "ingredient": "4 (4 ounce) fillets salmon",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Toast coconut flakes lightly before adding to sauce for deeper flavor",
+      "Bake salmon at 400°F for 12-15 minutes to prevent overcooking",
+      "Spoon sauce over salmon frequently for even coating and moisture"
+    ],
+    "coachingPrompt": "How do I know when salmon is perfectly cooked? Should I toast the coconut separately first?"
+  },
+  "timestamp": "2026-02-06T09:20:56.001Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "6213c9f998f71462",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground pork sausage",
+        "searchTerm": "ground pork sausage",
+        "normalizedName": "Ground Pork Sausage"
+      },
+      {
+        "ingredient": "1 onion, finely chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 stalks celery, finely chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ (17.5 ounce) package frozen puff pastry, thawed",
+        "searchTerm": "puff pastry",
+        "normalizedName": "Puff Pastry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Rolling pin",
+        "searchTerm": "rolling pin"
+      }
+    ],
+    "cookingTips": [
+      "Cook the sausage filling completely and cool before rolling to prevent the pastry from becoming soggy",
+      "Roll the puff pastry gently to avoid overworking the dough",
+      "Slice pinwheels cleanly with a sharp knife after chilling for easier handling"
+    ],
+    "coachingPrompt": "Help the user balance a flavorful sausage filling with delicate puff pastry by properly cooking and cooling the filling first."
+  },
+  "timestamp": "2026-02-06T17:00:35.377Z"
+}

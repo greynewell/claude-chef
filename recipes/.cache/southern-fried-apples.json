@@ -1,0 +1,48 @@
+{
+  "contentHash": "d7adda6bc6901c39",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "4 Granny Smith apples - peeled, cored, and sliced",
+        "searchTerm": "Granny Smith apples",
+        "normalizedName": "Granny Smith Apple"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "paring knife"
+      },
+      {
+        "name": "apple corer",
+        "searchTerm": "apple corer"
+      }
+    ],
+    "cookingTips": [
+      "Slice apples evenly for uniform cooking",
+      "Melt butter with sugar to create a glaze before adding apples",
+      "Cook until apples are soft but still hold their shape; avoid overcooking to mushiness"
+    ],
+    "coachingPrompt": "Explain the balance between achieving tender apples and maintaining their structure, and how the butter-sugar glaze caramelizes."
+  },
+  "timestamp": "2026-02-06T18:40:16.300Z"
+}

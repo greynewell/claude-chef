@@ -1,0 +1,58 @@
+{
+  "contentHash": "7543ae46695a8f96",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 cups whole milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "10 parsnips, peeled and cubed",
+        "searchTerm": "parsnips",
+        "normalizedName": "Parsnip"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon dried thyme",
+        "searchTerm": "thyme",
+        "normalizedName": "Thyme"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper, or more to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Potato Masher",
+        "searchTerm": "potato masher"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Simmer parsnips in milk for 15-20 minutes until very tender",
+      "Reserve some cooking milk to thin mash if needed",
+      "Add thyme and butter while hot for better flavor absorption"
+    ],
+    "coachingPrompt": "Help the user simmer parsnips in milk until soft, then mash with butter and thyme for a creamy, aromatic side dish."
+  },
+  "timestamp": "2026-02-06T12:05:02.253Z"
+}

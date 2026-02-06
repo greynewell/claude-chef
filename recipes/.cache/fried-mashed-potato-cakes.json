@@ -1,0 +1,49 @@
+{
+  "contentHash": "f77246a48ff66c23",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup leftover mashed potatoes, cooled",
+        "searchTerm": "mashed potatoes",
+        "normalizedName": "Mashed Potato"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 ½ tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable oil, or as needed",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Ensure mashed potatoes are completely cooled before mixing with egg and flour",
+      "Use leftover mashed potatoes that are not too buttery for better binding",
+      "Pan-fry over medium heat until golden on both sides, about 3-4 minutes per side"
+    ],
+    "coachingPrompt": "My potato cakes are falling apart when I flip them. What can I add to help bind them together better?"
+  },
+  "timestamp": "2026-02-06T07:05:48.772Z"
+}

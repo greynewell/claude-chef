@@ -1,0 +1,82 @@
+{
+  "contentHash": "e8037d06dde420f7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 ribs celery, diced",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "3 cloves garlic, sliced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 pound ham, diced",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "1 bay leaf",
+        "searchTerm": "bay leaf",
+        "normalizedName": "Bay Leaf"
+      },
+      {
+        "ingredient": "1 pound dried split peas",
+        "searchTerm": "split peas",
+        "normalizedName": "Split Pea"
+      },
+      {
+        "ingredient": "1 quart chicken stock",
+        "searchTerm": "chicken stock",
+        "normalizedName": "Chicken Stock"
+      },
+      {
+        "ingredient": "2 ½ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "immersion blender",
+        "searchTerm": "blender"
+      }
+    ],
+    "cookingTips": [
+      "Rinse split peas before cooking and discard any small stones or debris",
+      "Simmer gently for even cooking and to prevent peas from breaking apart too much"
+    ],
+    "coachingPrompt": "Explain the proper texture for split pea soup and guide the user on whether to partially blend or keep it chunky."
+  },
+  "timestamp": "2026-02-06T08:41:29.024Z"
+}

@@ -1,0 +1,73 @@
+{
+  "contentHash": "e6ead6f303fdfd98",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 pound lean beef stew meat",
+        "searchTerm": "beef stew meat",
+        "normalizedName": "Beef Stew Meat"
+      },
+      {
+        "ingredient": "1 tablespoon seasoning salt",
+        "searchTerm": "seasoning salt",
+        "normalizedName": "Seasoning Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 small onion, finely chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ green bell pepper, finely chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "2 ½ cups beef broth",
+        "searchTerm": "beef broth",
+        "normalizedName": "Beef Broth"
+      },
+      {
+        "ingredient": "1 (15 ounce) can mixed vegetables",
+        "searchTerm": "mixed vegetables canned",
+        "normalizedName": "Mixed Vegetable"
+      },
+      {
+        "ingredient": "1 (11.5 fl oz) can spicy vegetable juice cocktail",
+        "searchTerm": "vegetable juice cocktail",
+        "normalizedName": "Vegetable Juice Cocktail"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large soup pot"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Brown beef in oil first to develop flavor before adding broth",
+      "Simmer for at least 1 hour to tenderize beef",
+      "Add vegetables toward the end to maintain their texture"
+    ],
+    "coachingPrompt": "How tender do you prefer your beef: fall-apart tender or with some chew?"
+  },
+  "timestamp": "2026-02-06T20:27:21.024Z"
+}

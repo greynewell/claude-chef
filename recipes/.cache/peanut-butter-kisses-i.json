@@ -1,0 +1,48 @@
+{
+  "contentHash": "4070b3e8568c3020",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 egg whites",
+        "searchTerm": "egg whites",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "⅛ teaspoon cream of tartar",
+        "searchTerm": "cream of tartar",
+        "normalizedName": "Cream of Tartar"
+      },
+      {
+        "ingredient": "⅔ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup creamy peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "electric mixer"
+      }
+    ],
+    "cookingTips": [
+      "Beat egg whites to stiff peaks for light, airy texture",
+      "Cream of tartar helps stabilize meringue",
+      "Bake at low temperature to prevent browning"
+    ],
+    "coachingPrompt": "Are you comfortable meringue-based cookies, and would you like guidance on preventing cracking or weeping?"
+  },
+  "timestamp": "2026-02-06T14:25:35.851Z"
+}

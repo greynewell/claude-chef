@@ -1,0 +1,63 @@
+{
+  "contentHash": "0fa53bda01a0c76f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 pound jumbo shrimp, peeled and deveined",
+        "searchTerm": "jumbo shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "1 teaspoon lemon-pepper seasoning",
+        "searchTerm": "lemon-pepper seasoning",
+        "normalizedName": "Lemon-Pepper Seasoning"
+      },
+      {
+        "ingredient": "2 onions, cut into strips",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 green bell peppers, cut into strips",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 (1 ounce) package fajita seasoning",
+        "searchTerm": "fajita seasoning",
+        "normalizedName": "Fajita Seasoning"
+      },
+      {
+        "ingredient": "8 flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sheet pan",
+        "searchTerm": "sheet pan"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Keep shrimp and vegetables on separate areas of the pan initially to control cooking time",
+      "Toss everything together near the end so shrimp doesn't overcook"
+    ],
+    "coachingPrompt": "Guide the user on timing so shrimp cooks through while peppers and onions char slightly, and suggest warm tortilla serving options."
+  },
+  "timestamp": "2026-02-06T05:59:34.208Z"
+}

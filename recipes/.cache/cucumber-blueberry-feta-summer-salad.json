@@ -1,0 +1,78 @@
+{
+  "contentHash": "e6d4e1e16fc4735e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cucumbers - halved, seeded, and cut into 1/8-inch slices",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "2 cups blueberries",
+        "searchTerm": "blueberries",
+        "normalizedName": "Blueberry"
+      },
+      {
+        "ingredient": "1 cup crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "½ cup chopped scallions",
+        "searchTerm": "scallions",
+        "normalizedName": "Scallion"
+      },
+      {
+        "ingredient": "¼ cup finely chopped flat-leaf parsley",
+        "searchTerm": "flat-leaf parsley",
+        "normalizedName": "Flat-Leaf Parsley"
+      },
+      {
+        "ingredient": "3 tablespoons extra-virgin olive oil",
+        "searchTerm": "extra-virgin olive oil",
+        "normalizedName": "Extra-Virgin Olive Oil"
+      },
+      {
+        "ingredient": "2 tablespoons white wine vinegar",
+        "searchTerm": "white wine vinegar",
+        "normalizedName": "White Wine Vinegar"
+      },
+      {
+        "ingredient": "1 teaspoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Handle blueberries gently to avoid crushing",
+      "Combine dressing ingredients separately before tossing",
+      "Assemble just before serving to keep ingredients fresh"
+    ],
+    "coachingPrompt": "What's the best order to add ingredients when assembling this salad to keep the blueberries intact?"
+  },
+  "timestamp": "2026-02-06T04:48:44.376Z"
+}

@@ -1,0 +1,52 @@
+{
+  "contentHash": "4c429c84ec2c956c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (4 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 teaspoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 ¾ cups confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "rubber spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Ensure butter and cream cheese are fully softened for smooth mixing",
+      "Add sugar gradually to avoid lumps and achieve desired consistency"
+    ],
+    "coachingPrompt": "Guide the user through achieving the right frosting consistency by adjusting sugar gradually. Emphasize the importance of room temperature ingredients for proper emulsification."
+  },
+  "timestamp": "2026-02-06T02:02:41.062Z"
+}

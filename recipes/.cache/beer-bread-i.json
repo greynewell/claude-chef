@@ -1,0 +1,43 @@
+{
+  "contentHash": "1df0b2306003caba",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 fluid ounce) can or bottle beer",
+        "searchTerm": "beer",
+        "normalizedName": "Beer"
+      },
+      {
+        "ingredient": "3 cups self-rising flour",
+        "searchTerm": "self-rising flour",
+        "normalizedName": "Self-Rising Flour"
+      },
+      {
+        "ingredient": "3 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Loaf pan or round baking dish",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "This no-yeast bread relies on beer's carbonation for rise—don't overmix or you'll lose the bubbles",
+      "Beer bread is best served warm and fresh; it has a tender crumb from the minimal mixing",
+      "The beer flavor is subtle; the sugar balances it with slight sweetness"
+    ],
+    "coachingPrompt": "Guide the cook to understand this is a quick bread: minimal mixing yields tender crumb, and the beer provides both flavor and leavening."
+  },
+  "timestamp": "2026-02-05T23:49:25.675Z"
+}

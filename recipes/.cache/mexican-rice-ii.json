@@ -1,0 +1,63 @@
+{
+  "contentHash": "8baf6de4836209ee",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 cup uncooked long-grain rice",
+        "searchTerm": "long-grain rice",
+        "normalizedName": "Long-Grain Rice"
+      },
+      {
+        "ingredient": "1 teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground cumin",
+        "searchTerm": "cumin",
+        "normalizedName": "Cumin"
+      },
+      {
+        "ingredient": "¼ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ cup tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "2 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Lid",
+        "searchTerm": "pot lid"
+      }
+    ],
+    "cookingTips": [
+      "Brown rice in oil until golden for deeper, more complex flavor",
+      "Tomato sauce adds acidity which helps separate rice grains",
+      "Simmer covered on low heat for 15-18 minutes without stirring"
+    ],
+    "coachingPrompt": "Do you find toasting rice improves the flavor in your cooking? Would guidance on browning techniques help?"
+  },
+  "timestamp": "2026-02-06T12:22:08.190Z"
+}

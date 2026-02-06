@@ -1,0 +1,52 @@
+{
+  "contentHash": "47d87b0a0459d9fc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 wooden skewers",
+        "searchTerm": "wooden skewers",
+        "normalizedName": "Wooden Skewer"
+      },
+      {
+        "ingredient": "1 pound large shrimp, peeled and deveined",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "3 ounces pesto",
+        "searchTerm": "pesto",
+        "normalizedName": "Pesto"
+      },
+      {
+        "ingredient": "3 tablespoons chopped fresh basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      },
+      {
+        "ingredient": "1 lemon, sliced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "wooden skewers",
+        "searchTerm": "wooden skewers"
+      },
+      {
+        "name": "bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Soak wooden skewers in water for at least 20 minutes before grilling",
+      "Shrimp cooks quickly—only 2-3 minutes per side on the grill"
+    ],
+    "coachingPrompt": "How can you tell when shrimp is perfectly cooked without overdoing it?"
+  },
+  "timestamp": "2026-02-06T08:22:04.023Z"
+}

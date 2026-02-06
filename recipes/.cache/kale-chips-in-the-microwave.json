@@ -1,0 +1,43 @@
+{
+  "contentHash": "0f07e43f7f39e02b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 bunch flat-leaf kale - ribs trimmed away and discarded and leaves cut into 2-inch pieces",
+        "searchTerm": "kale",
+        "normalizedName": "Kale"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil, or to taste",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "sea salt to taste",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "microwave",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "microwave-safe plate",
+        "searchTerm": "plate"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Pat kale completely dry with paper towels to remove all moisture before cooking",
+      "Toss kale lightly with oil to coat evenly without making pieces soggy",
+      "Microwave in batches for 3-5 minutes, checking frequently as cooking time varies by microwave power"
+    ],
+    "coachingPrompt": "Guide the user on achieving crispy chips without burning by explaining the importance of dry kale and monitoring during cooking."
+  },
+  "timestamp": "2026-02-06T10:33:56.221Z"
+}

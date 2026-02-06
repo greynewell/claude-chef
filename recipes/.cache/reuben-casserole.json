@@ -1,0 +1,53 @@
+{
+  "contentHash": "98dac1f70deafa02",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices rye bread, cubed",
+        "searchTerm": "rye bread",
+        "normalizedName": "Rye Bread"
+      },
+      {
+        "ingredient": "1 (16 ounce) can sauerkraut, drained and rinsed",
+        "searchTerm": "sauerkraut",
+        "normalizedName": "Sauerkraut"
+      },
+      {
+        "ingredient": "1 pound deli sliced corned beef, cut into strips",
+        "searchTerm": "corned beef",
+        "normalizedName": "Corned Beef"
+      },
+      {
+        "ingredient": "¾ cup Russian-style salad dressing",
+        "searchTerm": "russian dressing",
+        "normalizedName": "Russian-Style Salad Dressing"
+      },
+      {
+        "ingredient": "2 cups shredded Swiss cheese",
+        "searchTerm": "swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Cube bread into uniform pieces for even cooking and texture",
+      "Rinse sauerkraut to reduce saltiness and acidity",
+      "Layer bread, sauerkraut, corned beef, and dressing for even flavor distribution"
+    ],
+    "coachingPrompt": "How do we translate the flavors of a classic deli Reuben into a satisfying casserole?"
+  },
+  "timestamp": "2026-02-06T16:09:17.997Z"
+}

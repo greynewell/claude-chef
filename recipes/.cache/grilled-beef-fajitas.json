@@ -1,0 +1,68 @@
+{
+  "contentHash": "b3aeca027021f8ae",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (1 ounce) package fajita seasoning mix",
+        "searchTerm": "fajita seasoning",
+        "normalizedName": "Fajita Seasoning"
+      },
+      {
+        "ingredient": "1 pound boneless beef top round steak",
+        "searchTerm": "beef top round",
+        "normalizedName": "Beef Top Round Steak"
+      },
+      {
+        "ingredient": "1 medium red or yellow bell pepper, cut into strips",
+        "searchTerm": "bell pepper",
+        "normalizedName": "Bell Pepper"
+      },
+      {
+        "ingredient": "1 medium green bell pepper, cut into strips",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 medium onion, cut into 1/4-inch slices",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "8 (8 inch) flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "Salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "aluminum foil",
+        "searchTerm": "aluminum foil"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Season beef and vegetables with fajita seasoning and marinate for 30 minutes",
+      "Grill beef over high heat for 4-5 minutes per side; grill peppers and onions in foil packet",
+      "Slice beef thinly against the grain and serve immediately with warm tortillas"
+    ],
+    "coachingPrompt": "Help the user achieve properly sliced beef and synchronize timing of meat and vegetables."
+  },
+  "timestamp": "2026-02-06T08:10:19.111Z"
+}

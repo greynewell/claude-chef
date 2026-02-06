@@ -1,0 +1,53 @@
+{
+  "contentHash": "de313dfe61203aa7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "oil for frying",
+        "searchTerm": "frying oil",
+        "normalizedName": "Frying Oil"
+      },
+      {
+        "ingredient": "½ (8 ounce) package cream cheese, at room temperature",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "9 tablespoons white sugar, divided",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons ground cinnamon, divided",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "¼ (16 ounce) package wonton wrappers, at room temperature",
+        "searchTerm": "wonton wrappers",
+        "normalizedName": "Wonton Wrapper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep Skillet",
+        "searchTerm": "deep skillet"
+      },
+      {
+        "name": "Shallow Dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "Paper Towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Keep wonton wrappers covered with a damp towel to prevent drying out",
+      "Use a small amount of water on wrapper edges to seal properly",
+      "Fry at 350°F until golden brown, about 2-3 minutes per side"
+    ],
+    "coachingPrompt": "These wontons need proper sealing to prevent filling from leaking. What technique ensures secure crimping?"
+  },
+  "timestamp": "2026-02-06T03:26:39.991Z"
+}

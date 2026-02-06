@@ -1,0 +1,73 @@
+{
+  "contentHash": "2cddcaae193d71c2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "asparagus",
+        "searchTerm": "asparagus fresh",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "unsalted butter",
+        "searchTerm": "butter unsalted",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "flour all purpose",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "milk",
+        "searchTerm": "milk cold",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "kosher salt",
+        "searchTerm": "salt kosher",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "sharp white Cheddar cheese",
+        "searchTerm": "cheddar cheese white sharp",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "stand mixer",
+        "searchTerm": "stand mixer"
+      },
+      {
+        "name": "soufflé dish",
+        "searchTerm": "souffle dish"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Separate eggs carefully to avoid any yolk in whites, which prevents peaks",
+      "Make béchamel sauce smooth before folding in egg yolks",
+      "Don't open oven door during baking as temperature changes collapse soufflé"
+    ],
+    "coachingPrompt": "What's the critical technique for whipping egg whites to stiff peaks, and why is it essential for a risen soufflé?"
+  },
+  "timestamp": "2026-02-06T01:55:55.346Z"
+}

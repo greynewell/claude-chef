@@ -1,0 +1,44 @@
+{
+  "contentHash": "81971c298924093e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (16 ounce) can pumpkin puree",
+        "searchTerm": "pumpkin puree",
+        "normalizedName": "Pumpkin Puree"
+      },
+      {
+        "ingredient": "1 (14 ounce) can sweetened condensed milk",
+        "searchTerm": "sweetened condensed milk",
+        "normalizedName": "Sweetened Condensed Milk"
+      },
+      {
+        "ingredient": "1 teaspoon pumpkin pie spice",
+        "searchTerm": "pumpkin pie spice",
+        "normalizedName": "Pumpkin Pie Spice"
+      },
+      {
+        "ingredient": "1 (9 inch) unbaked pie crust",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      }
+    ],
+    "gear": [
+      "Pie Dish",
+      "Mixing Bowl",
+      "Whisk"
+    ],
+    "cookingTips": [
+      "Mix filling until smooth to avoid lumps",
+      "Place pie on lower oven rack for crisper crust",
+      "Cool completely before slicing—pie continues setting as it cools"
+    ],
+    "coachingPrompt": "Do you prefer homemade or store-bought pie crust? Would you like any texture variations?"
+  },
+  "timestamp": "2026-02-06T17:51:31.810Z"
+}

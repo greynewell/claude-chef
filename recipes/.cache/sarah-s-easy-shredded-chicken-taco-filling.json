@@ -1,0 +1,57 @@
+{
+  "contentHash": "ba698a8736e3b0ab",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 teaspoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 tablespoon minced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 pinch ground cumin",
+        "searchTerm": "cumin",
+        "normalizedName": "Cumin"
+      },
+      {
+        "ingredient": "1 pinch chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "¼ cup tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Two forks",
+        "searchTerm": "forks"
+      },
+      {
+        "name": "Measuring spoons",
+        "searchTerm": "spoons"
+      }
+    ],
+    "cookingTips": [
+      "Cook chicken until internal temperature reaches 165°F, then shred while still warm for easier handling",
+      "Toast cumin and chili powder in the skillet briefly before adding other ingredients to enhance spice flavors"
+    ],
+    "coachingPrompt": "Help the user create flavorful, simple chicken taco filling by understanding proper chicken cooking and spice blooming techniques."
+  },
+  "timestamp": "2026-02-06T16:55:39.151Z"
+}

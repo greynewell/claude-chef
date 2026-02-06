@@ -1,0 +1,53 @@
+{
+  "contentHash": "522be19d34c4a329",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) can refried beans",
+        "searchTerm": "refried beans",
+        "normalizedName": "Refried Bean"
+      },
+      {
+        "ingredient": "¾ onion, diced",
+        "searchTerm": "yellow onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "5 (10 inch) flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "1 cup salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar or Colby Jack cheese",
+        "searchTerm": "cheddar cheese shredded",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 baking dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "knife and cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Layer ingredients in order: beans, tortillas, salsa, cheese to prevent soggy bottom",
+      "Cover with foil for first 25 minutes to prevent cheese from browning too quickly",
+      "Let rest 5 minutes after baking to allow layers to set"
+    ],
+    "coachingPrompt": "Guide me through assembling and baking this layered casserole step-by-step"
+  },
+  "timestamp": "2026-02-05T21:29:18.466Z"
+}

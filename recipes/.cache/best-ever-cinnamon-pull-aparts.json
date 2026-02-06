@@ -1,0 +1,53 @@
+{
+  "contentHash": "f35e7fb176a04c26",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 (10 ounce) cans refrigerated biscuit dough",
+        "searchTerm": "refrigerated biscuit dough",
+        "normalizedName": "Refrigerated Biscuit Dough"
+      },
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "4 tablespoons ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "¼ cup melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup chopped pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Bundt Pan",
+        "searchTerm": "bundt cake pan"
+      },
+      {
+        "name": "Shallow Bowl",
+        "searchTerm": "shallow bowl"
+      },
+      {
+        "name": "Pastry Brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Mix sugar and cinnamon in a shallow bowl for easy coating",
+      "Layer biscuit pieces with cinnamon-sugar and pecans for even distribution",
+      "Let assembled buns sit 10 minutes before baking for easier handling"
+    ],
+    "coachingPrompt": "Guide the cook through assembling the pull-aparts in a bundt pan and suggest baking instructions."
+  },
+  "timestamp": "2026-02-05T23:58:35.594Z"
+}

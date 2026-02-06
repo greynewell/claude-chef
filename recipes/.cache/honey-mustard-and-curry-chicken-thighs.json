@@ -1,0 +1,57 @@
+{
+  "contentHash": "01fd7ce2e49d26b7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 skinless chicken thighs",
+        "searchTerm": "chicken thighs",
+        "normalizedName": "Chicken Thigh"
+      },
+      {
+        "ingredient": "½ cup liquid honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "¼ cup prepared mustard",
+        "searchTerm": "prepared mustard",
+        "normalizedName": "Prepared Mustard"
+      },
+      {
+        "ingredient": "1 teaspoon curry powder",
+        "searchTerm": "curry powder",
+        "normalizedName": "Curry Powder"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon dried tarragon",
+        "searchTerm": "dried tarragon",
+        "normalizedName": "Dried Tarragon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Marinate chicken for at least 30 minutes for deeper flavor",
+      "Baste chicken with marinade halfway through cooking for even glazing"
+    ],
+    "coachingPrompt": "What temperature should chicken thighs reach internally for food safety?"
+  },
+  "timestamp": "2026-02-06T09:23:39.304Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "f4f894f99e6d2257",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 jalapeno peppers, halved lengthwise and seeded",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "½ cup peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "8 slices bacon, cut in half",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "small spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use a small spoon or piping bag to fill jalapeno halves evenly with peanut butter",
+      "Ensure bacon is wrapped snugly to prevent it from sliding off during cooking",
+      "Bake at 400°F for 20-25 minutes until bacon is crispy and peppers are tender"
+    ],
+    "coachingPrompt": "Guide the user through filling techniques and remind them of the sweet-savory-spicy flavor profile this creates."
+  },
+  "timestamp": "2026-02-05T22:54:35.192Z"
+}

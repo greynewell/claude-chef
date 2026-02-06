@@ -1,0 +1,63 @@
+{
+  "contentHash": "995cbadea1d674be",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 cups apple cider",
+        "searchTerm": "apple cider",
+        "normalizedName": "Apple Cider"
+      },
+      {
+        "ingredient": "¼ cup real maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "2 cinnamon sticks",
+        "searchTerm": "cinnamon sticks",
+        "normalizedName": "Cinnamon Stick"
+      },
+      {
+        "ingredient": "6 whole cloves",
+        "searchTerm": "cloves",
+        "normalizedName": "Clove"
+      },
+      {
+        "ingredient": "6 whole allspice berries",
+        "searchTerm": "allspice",
+        "normalizedName": "Allspice"
+      },
+      {
+        "ingredient": "1 orange peel, cut into strips",
+        "searchTerm": "orange peel",
+        "normalizedName": "Orange Peel"
+      },
+      {
+        "ingredient": "1 lemon peel, cut into strips",
+        "searchTerm": "lemon peel",
+        "normalizedName": "Lemon Peel"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Strainer",
+        "searchTerm": "strainer"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Heat gently to avoid scorching the delicate apple cider flavor",
+      "Add citrus peels for complexity; remove before serving",
+      "Whole spices can be left in for aroma and visual appeal if strained carefully"
+    ],
+    "coachingPrompt": "Guide the user through infusing whole spices without overpowering the apple cider's natural sweetness."
+  },
+  "timestamp": "2026-02-06T09:27:19.863Z"
+}

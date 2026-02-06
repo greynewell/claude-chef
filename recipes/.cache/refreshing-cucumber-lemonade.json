@@ -1,0 +1,48 @@
+{
+  "contentHash": "0a14fbf002313819",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cucumber, sliced",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "6 lemons, juiced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pitcher",
+        "searchTerm": "pitcher"
+      },
+      {
+        "name": "Citrus juicer",
+        "searchTerm": "citrus juicer"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Make simple syrup by dissolving sugar in hot water, then cool before adding to lemonade",
+      "Slice cucumber thinly and muddle gently with sugar to release flavor without bitter pith",
+      "Chill thoroughly and serve over ice, adjusting sweetness and lemon juice to taste"
+    ],
+    "coachingPrompt": "Teach the cook how to craft a refreshing infused beverage by properly extracting cucumber flavor and balancing sweetness with fresh lemon juice."
+  },
+  "timestamp": "2026-02-06T16:06:24.842Z"
+}

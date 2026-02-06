@@ -1,0 +1,77 @@
+{
+  "contentHash": "e84a1f14d510b857",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ large red onion, diced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "¼ cup cubed pancetta",
+        "searchTerm": "pancetta",
+        "normalizedName": "Pancetta"
+      },
+      {
+        "ingredient": "1 (10 ounce) box frozen chopped spinach - thawed, drained and squeezed dry",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Frozen Spinach"
+      },
+      {
+        "ingredient": "3 tablespoons feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "4 (1 ounce) slices Provolone cheese",
+        "searchTerm": "Provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      },
+      {
+        "ingredient": "1 sheet frozen puff pastry, thawed",
+        "searchTerm": "puff pastry",
+        "normalizedName": "Puff Pastry"
+      },
+      {
+        "ingredient": "1 egg white",
+        "searchTerm": "egg white",
+        "normalizedName": "Egg White"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Small bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook pancetta until crispy and drain on paper towels to avoid excess grease in the filling",
+      "Layer Provolone on the puff pastry before adding spinach mixture to create a barrier that prevents sogginess",
+      "Brush egg white on pastry edges for a golden, even bake"
+    ],
+    "coachingPrompt": "Help the user build flavor through pancetta rendering and manage moisture in the spinach filling, then guide through layering and pastry handling."
+  },
+  "timestamp": "2026-02-06T19:16:45.206Z"
+}

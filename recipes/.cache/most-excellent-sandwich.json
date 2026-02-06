@@ -1,0 +1,53 @@
+{
+  "contentHash": "ff388ad68f5a7cad",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices whole wheat bread, toasted",
+        "searchTerm": "whole wheat bread",
+        "normalizedName": "Whole Wheat Bread"
+      },
+      {
+        "ingredient": "½ (8 ounce) package cream cheese, room temperature",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 medium tomato, sliced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 (5 ounce) package alfalfa sprouts",
+        "searchTerm": "alfalfa sprouts",
+        "normalizedName": "Alfalfa Sprout"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "bread knife"
+      },
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread while still warm to soften cream cheese spread",
+      "Pat tomato slices dry to prevent bread from becoming soggy",
+      "Layer ingredients in order: cheese, tomato, sprouts for best texture and flavor"
+    ],
+    "coachingPrompt": "Guide the user on assembly technique and explain how toasting bread creates structural integrity to support wet ingredients."
+  },
+  "timestamp": "2026-02-06T12:52:50.043Z"
+}

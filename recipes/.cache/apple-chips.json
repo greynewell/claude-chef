@@ -1,0 +1,43 @@
+{
+  "contentHash": "ab8d6b6bf64d1799",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 Golden Delicious apples, cored and thinly sliced",
+        "searchTerm": "Golden Delicious apples",
+        "normalizedName": "Golden Delicious Apple"
+      },
+      {
+        "ingredient": "1 ½ teaspoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mandoline or sharp knife",
+        "searchTerm": "mandoline"
+      },
+      {
+        "name": "Baking sheets",
+        "searchTerm": "baking sheets"
+      },
+      {
+        "name": "Parchment paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Slice apples uniformly thin for even drying",
+      "Golden Delicious apples are sweet and hold their shape well",
+      "Bake at low temperature for 1-2 hours until crispy"
+    ],
+    "coachingPrompt": "Would you prefer these chips sweet with cinnamon-sugar or savory?"
+  },
+  "timestamp": "2026-02-05T22:10:36.299Z"
+}

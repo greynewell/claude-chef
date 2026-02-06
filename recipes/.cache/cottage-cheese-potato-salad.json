@@ -1,0 +1,82 @@
+{
+  "contentHash": "8c2aa64ae303c474",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "4 large potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 cup diced celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "½ cup sliced radishes",
+        "searchTerm": "radishes",
+        "normalizedName": "Radish"
+      },
+      {
+        "ingredient": "½ cup diced green bell pepper",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "½ cup diced green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 cup cottage cheese",
+        "searchTerm": "cottage cheese",
+        "normalizedName": "Cottage Cheese"
+      },
+      {
+        "ingredient": "¾ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 teaspoons salt, or to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon sliced black olives",
+        "searchTerm": "black olives",
+        "normalizedName": "Black Olive"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Boil potatoes whole until just tender, then cool before cubing to maintain texture",
+      "Add dressing while potatoes are still slightly warm for better absorption of flavors"
+    ],
+    "coachingPrompt": "Do you prefer waxy or starchy potatoes? I can help you choose the best variety for potato salad."
+  },
+  "timestamp": "2026-02-06T03:55:25.470Z"
+}

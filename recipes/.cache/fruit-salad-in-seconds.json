@@ -1,0 +1,43 @@
+{
+  "contentHash": "a5b4e7917bc5e149",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pint fresh strawberries, sliced",
+        "searchTerm": "fresh strawberries",
+        "normalizedName": "Fresh Strawberry"
+      },
+      {
+        "ingredient": "1 pound seedless green grapes, halved",
+        "searchTerm": "seedless green grapes",
+        "normalizedName": "Seedless Green Grape"
+      },
+      {
+        "ingredient": "3 bananas, peeled and sliced",
+        "searchTerm": "bananas",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "1 (8 ounce) container strawberry yogurt",
+        "searchTerm": "strawberry yogurt",
+        "normalizedName": "Strawberry Yogurt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Slice bananas just before serving to prevent browning",
+      "Toss gently with yogurt to coat without mashing fruit"
+    ],
+    "coachingPrompt": "This is a quick breakfast or dessert—want ideas for add-ins like granola?"
+  },
+  "timestamp": "2026-02-06T07:09:25.663Z"
+}

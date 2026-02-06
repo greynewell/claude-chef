@@ -1,0 +1,73 @@
+{
+  "contentHash": "19b9e8fb676ea13d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "ice cube",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 tablespoons arrowroot powder",
+        "searchTerm": "arrowroot powder",
+        "normalizedName": "Arrowroot Powder"
+      },
+      {
+        "ingredient": "1 cup ice water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 small head cauliflower, cut into bite-size pieces",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      },
+      {
+        "ingredient": "1 small head broccoli, cut into bite-size pieces",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "1 small red bell pepper, cut into bite-size pieces",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "10 baby carrots",
+        "searchTerm": "baby carrots",
+        "normalizedName": "Baby Carrot"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep fryer or deep pot",
+        "searchTerm": "deep pot"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "deep fry thermometer"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Keep batter extremely cold with ice water for crispiest texture",
+      "Arrowroot powder helps achieve lighter, crispier coating than flour alone",
+      "Maintain oil temperature at 350-375°F and fry in small batches"
+    ],
+    "coachingPrompt": "Help me achieve crispy, light tempura coating and manage frying temperature correctly."
+  },
+  "timestamp": "2026-02-06T21:40:28.009Z"
+}

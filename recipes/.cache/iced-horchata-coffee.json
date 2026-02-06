@@ -1,0 +1,63 @@
+{
+  "contentHash": "9acacae4f9a8dc80",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup uncooked white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "Rice"
+      },
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup raw almonds",
+        "searchTerm": "almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "16 ounces Gevalia® Cold Brew Concentrate",
+        "searchTerm": "cold brew coffee concentrate",
+        "normalizedName": "Cold Brew Coffee Concentrate"
+      },
+      {
+        "ingredient": "1 tablespoon blue agave nectar",
+        "searchTerm": "agave nectar",
+        "normalizedName": "Agave Nectar"
+      },
+      {
+        "ingredient": "1 tray ice cubes",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      },
+      {
+        "ingredient": "4 cinnamon sticks",
+        "searchTerm": "cinnamon sticks",
+        "normalizedName": "Cinnamon Stick"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Strainer",
+        "searchTerm": "fine mesh strainer"
+      },
+      {
+        "name": "Pitcher",
+        "searchTerm": "glass pitcher"
+      }
+    ],
+    "cookingTips": [
+      "Soak rice and almonds overnight for easier blending",
+      "Strain horchata through cheesecloth for smooth texture",
+      "Chill all components before serving for optimal temperature"
+    ],
+    "coachingPrompt": "Help the user blend a creamy horchata base and properly balance it with cold brew coffee concentrate for a smooth, refreshing drink."
+  },
+  "timestamp": "2026-02-06T09:38:28.182Z"
+}

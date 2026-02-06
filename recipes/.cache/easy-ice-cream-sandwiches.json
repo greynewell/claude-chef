@@ -1,0 +1,62 @@
+{
+  "contentHash": "1a8217dbd0c44e8c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (18.25 ounce) package chocolate cake mix",
+        "searchTerm": "chocolate cake mix",
+        "normalizedName": "Chocolate Cake Mix"
+      },
+      {
+        "ingredient": "½ cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup semisweet chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Chocolate Chip"
+      },
+      {
+        "ingredient": "½ cup butterscotch chips",
+        "searchTerm": "butterscotch chips",
+        "normalizedName": "Butterscotch Chip"
+      },
+      {
+        "ingredient": "½ gallon vanilla ice cream, softened",
+        "searchTerm": "vanilla ice cream",
+        "normalizedName": "Vanilla Ice Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "Cookie Scoop",
+        "searchTerm": "cookie scoop"
+      }
+    ],
+    "cookingTips": [
+      "Soften ice cream for 10 minutes before assembly for easier spreading",
+      "Chill finished sandwiches before serving for structural integrity"
+    ],
+    "coachingPrompt": "Would you like to add mix-ins to the ice cream or use different chip varieties?"
+  },
+  "timestamp": "2026-02-06T05:48:45.980Z"
+}

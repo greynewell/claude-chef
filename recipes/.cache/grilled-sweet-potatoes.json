@@ -1,0 +1,63 @@
+{
+  "contentHash": "7f11c4fe34dd94f2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 large sweet potatoes, cut into 1-inch cubes",
+        "searchTerm": "sweet potatoes",
+        "normalizedName": "Sweet Potato"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon ground cumin",
+        "searchTerm": "cumin",
+        "normalizedName": "Cumin"
+      },
+      {
+        "ingredient": "¼ teaspoon cayenne pepper, or more to taste",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill basket",
+        "searchTerm": "grill basket"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "grill tongs"
+      }
+    ],
+    "cookingTips": [
+      "Parboil sweet potato cubes for 5 minutes before grilling to ensure they cook through",
+      "Use a grill basket to prevent small pieces from falling through the grates",
+      "Toss cubes halfway through cooking for even caramelization on all sides"
+    ],
+    "coachingPrompt": "How can the butter and brown sugar caramelize on the grill to create a glaze without burning?"
+  },
+  "timestamp": "2026-02-06T08:28:21.680Z"
+}

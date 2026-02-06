@@ -1,0 +1,83 @@
+{
+  "contentHash": "d034f076a0cf4664",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (750 milliliter) bottle dry white wine",
+        "searchTerm": "dry white wine",
+        "normalizedName": "Dry White Wine"
+      },
+      {
+        "ingredient": "2 medium onions, chopped",
+        "searchTerm": "onions",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "20 fresh basil leaves, chopped",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "20 whole green peppercorns",
+        "searchTerm": "green peppercorns",
+        "normalizedName": "Green Peppercorn"
+      },
+      {
+        "ingredient": "1 quart fish stock",
+        "searchTerm": "fish stock",
+        "normalizedName": "Fish Stock"
+      },
+      {
+        "ingredient": "4 (8 ounce) salmon fillets",
+        "searchTerm": "salmon fillets",
+        "normalizedName": "Salmon"
+      },
+      {
+        "ingredient": "1 ¼ cups heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "1 tablespoon cold butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (16 ounce) package dry fettuccini pasta",
+        "searchTerm": "fettuccini pasta",
+        "normalizedName": "Fettuccini Pasta"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "4 sprigs fresh dill weed, for garnish",
+        "searchTerm": "fresh dill",
+        "normalizedName": "Dill"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot for pasta",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Saucepan for wine reduction",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Skillet for salmon",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Reduce white wine by half before adding stock to concentrate flavor",
+      "Add cold butter at the end off heat to create a silky sauce",
+      "Cook salmon last so it stays warm while pasta finishes"
+    ],
+    "coachingPrompt": "Guide the cook through making a restaurant-quality wine reduction while managing three cooking tasks in parallel."
+  },
+  "timestamp": "2026-02-06T16:50:28.758Z"
+}

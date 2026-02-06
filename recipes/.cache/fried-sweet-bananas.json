@@ -1,0 +1,48 @@
+{
+  "contentHash": "e33a8d3ec4f0c072",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 firm bananas",
+        "searchTerm": "firm bananas",
+        "normalizedName": "Firm Banana"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 ¼ teaspoons ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "3 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "shallow bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Use firm bananas that are slightly underripe to prevent mushiness",
+      "Mix sugar and cinnamon in a shallow dish for easy coating",
+      "Fry over medium heat until caramelized on both sides, about 2 minutes per side"
+    ],
+    "coachingPrompt": "This is a simple dessert that comes together quickly. Do you prefer your bananas more or less caramelized?"
+  },
+  "timestamp": "2026-02-06T07:06:48.972Z"
+}

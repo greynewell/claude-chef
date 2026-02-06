@@ -1,0 +1,53 @@
+{
+  "contentHash": "6130937d40f1f115",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (18 ounce) jar smooth peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 ¼ cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "36 milk chocolate candy kisses (such as Hershey's Kisses®), unwrapped",
+        "searchTerm": "chocolate kisses",
+        "normalizedName": "Chocolate Kiss"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "baking sheets",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Roll dough in sugar before baking for crispy edges",
+      "Press chocolate kiss into warm cookies immediately after removing from oven",
+      "Don't use natural peanut butter; it won't hold together properly"
+    ],
+    "coachingPrompt": "Help the user make simple three-ingredient cookies and explain why pressing in chocolate kisses while cookies are warm creates the best texture."
+  },
+  "timestamp": "2026-02-06T22:16:42.826Z"
+}

@@ -1,0 +1,73 @@
+{
+  "contentHash": "f65c17619caf607c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups fresh basil leaves",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "2 tablespoons crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "¼ cup freshly grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "¼ cup pine nuts, toasted",
+        "searchTerm": "pine nuts",
+        "normalizedName": "Pine Nut"
+      },
+      {
+        "ingredient": "1 artichoke heart, roughly chopped",
+        "searchTerm": "artichoke heart",
+        "normalizedName": "Artichoke Heart"
+      },
+      {
+        "ingredient": "2 tablespoons chopped oil-packed sun-dried tomatoes",
+        "searchTerm": "sun-dried tomatoes",
+        "normalizedName": "Sun-Dried Tomato"
+      },
+      {
+        "ingredient": "½ cup extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 pinch salt and black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch salt and black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food Processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Measuring Cups",
+        "searchTerm": "measuring cups"
+      },
+      {
+        "name": "Glass Jar",
+        "searchTerm": "glass jar"
+      }
+    ],
+    "cookingTips": [
+      "Pulse ingredients in food processor rather than blending for better texture",
+      "Toast pine nuts before adding to enhance their flavor",
+      "Store in a glass jar with a thin layer of olive oil on top to preserve freshness"
+    ],
+    "coachingPrompt": "Guide the user through creating a unique Mediterranean pesto with feta instead of traditional pine nut pesto."
+  },
+  "timestamp": "2026-02-06T06:35:20.094Z"
+}

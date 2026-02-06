@@ -1,0 +1,78 @@
+{
+  "contentHash": "cd0a2cf69150bd10",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ pound bacon, chopped",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 pound split peas, rinsed",
+        "searchTerm": "split peas",
+        "normalizedName": "Split Pea"
+      },
+      {
+        "ingredient": "⅓ (20 ounce) package frozen southern-style hash brown potatoes",
+        "searchTerm": "hash browns frozen",
+        "normalizedName": "Hash Brown"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 carrots, peeled and diced",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "3 ribs celery, diced",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pinch red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "8 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Rinse split peas thoroughly to reduce foam during cooking",
+      "Brown bacon first for enhanced flavor before adding to slow cooker",
+      "Add hash browns in the last 30 minutes to prevent mushiness"
+    ],
+    "coachingPrompt": "How can you build deeper flavor in this soup by toasting the split peas or developing fond from the bacon?"
+  },
+  "timestamp": "2026-02-06T18:18:18.950Z"
+}

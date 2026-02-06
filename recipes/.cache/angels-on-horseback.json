@@ -1,0 +1,58 @@
+{
+  "contentHash": "485f7b366c884bb1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 shucked oysters",
+        "searchTerm": "oysters",
+        "normalizedName": "Oyster"
+      },
+      {
+        "ingredient": "12 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "⅛ teaspoon smoked paprika",
+        "searchTerm": "smoked paprika",
+        "normalizedName": "Smoked Paprika"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Paper Towel",
+        "searchTerm": "paper towel"
+      }
+    ],
+    "cookingTips": [
+      "Pat oysters dry completely before wrapping so bacon adheres properly",
+      "Wrap each oyster tightly with bacon and secure with a toothpick if needed",
+      "Bake at 400°F for 12-15 minutes until bacon is crispy; don't overcook oysters or they become rubbery"
+    ],
+    "coachingPrompt": "How do I keep the bacon from slipping off the oysters while cooking? What temperature should I use?"
+  },
+  "timestamp": "2026-02-05T22:05:40.836Z"
+}

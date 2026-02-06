@@ -1,0 +1,78 @@
+{
+  "contentHash": "1b287e50ecf3e1aa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup bulgur",
+        "searchTerm": "bulgur",
+        "normalizedName": "Bulgur"
+      },
+      {
+        "ingredient": "3 tomatoes, seeded and chopped",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "2 cucumbers, peeled and chopped",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "3 green onions, chopped",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 cup chopped fresh parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "⅓ cup fresh mint leaves",
+        "searchTerm": "mint",
+        "normalizedName": "Mint"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ cup lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "⅔ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Seed tomatoes and cucumbers before chopping to remove excess moisture",
+      "Toast bulgur lightly in a dry pan before hydrating for nuttier flavor",
+      "Whisk lemon juice and oil together separately, then dress salad just before serving"
+    ],
+    "coachingPrompt": "Would you like guidance on seeding tomatoes to prevent a watery salad?"
+  },
+  "timestamp": "2026-02-06T20:12:30.870Z"
+}

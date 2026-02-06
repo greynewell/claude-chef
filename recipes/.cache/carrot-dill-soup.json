@@ -1,0 +1,68 @@
+{
+  "contentHash": "38771585ba35dc13",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound carrots, sliced",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 teaspoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 teaspoons minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 ½ cups chicken stock",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "¾ cup 2% milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh dill",
+        "searchTerm": "fresh dill",
+        "normalizedName": "Fresh Dill"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh chives",
+        "searchTerm": "fresh chives",
+        "normalizedName": "Fresh Chives"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Immersion blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Fresh dill and chives should be added at the very end to preserve their delicate flavor",
+      "Slice carrots uniformly so they cook evenly and blend smoothly",
+      "Add milk gently at the end to create a creamy texture without curdling"
+    ],
+    "coachingPrompt": "This is a light, fresh soup. Emphasize the timing of adding fresh herbs for maximum flavor and explain why gentle heating with milk prevents curdling."
+  },
+  "timestamp": "2026-02-06T01:31:26.729Z"
+}

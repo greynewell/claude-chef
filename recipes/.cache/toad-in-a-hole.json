@@ -1,0 +1,48 @@
+{
+  "contentHash": "af48d69ad2e3ae7e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices bread",
+        "searchTerm": "bread slices",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "2 tablespoons butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "6 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "6 slices Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Plate",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Cut a hole in bread slightly smaller than egg yolk to contain runny white",
+      "Butter both sides of bread for even toasting and flavor",
+      "Add cheese just before egg is fully cooked for melting effect"
+    ],
+    "coachingPrompt": "What's your preferred egg doneness level? Would you like variations for runny vs. set yolks?"
+  },
+  "timestamp": "2026-02-06T20:51:17.456Z"
+}

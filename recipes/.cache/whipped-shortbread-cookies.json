@@ -1,0 +1,53 @@
+{
+  "contentHash": "56771723959d53e8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 ½ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ cup confectioners' sugar",
+        "searchTerm": "confectioners sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "¼ cup red maraschino cherries, quartered",
+        "searchTerm": "red maraschino cherries",
+        "normalizedName": "Maraschino Cherry"
+      },
+      {
+        "ingredient": "¼ cup green maraschino cherries, quartered",
+        "searchTerm": "green maraschino cherries",
+        "normalizedName": "Maraschino Cherry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Whip butter and sugar together until very light and fluffy for tender cookies",
+      "Gently fold in flour to avoid overworking dough",
+      "Don't overbake shortbread; remove when edges are barely golden"
+    ],
+    "coachingPrompt": "Guide the user on whipping butter for maximum volume and gentle flour incorporation to achieve delicate texture."
+  },
+  "timestamp": "2026-02-06T22:02:06.178Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "420456d3b71a4347",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 zucchini, peeled and sliced",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "1 clove garlic, peeled",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons dry bread crumbs, or more as needed",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil, or more as needed",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "three shallow bowls",
+        "searchTerm": "shallow bowl"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Salt zucchini slices ahead of time and pat dry to remove excess moisture, preventing soggy results",
+      "Use a standard breading method: flour, beaten egg, bread crumbs for optimal texture"
+    ],
+    "coachingPrompt": "Guide the user through proper breading technique and the importance of removing moisture from zucchini."
+  },
+  "timestamp": "2026-02-06T05:54:15.932Z"
+}

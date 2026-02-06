@@ -1,0 +1,73 @@
+{
+  "contentHash": "e8dd1c673ba282d3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves - pounded to 1/4 inch thickness",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "⅓ cup hoisin sauce",
+        "searchTerm": "hoisin sauce",
+        "normalizedName": "Hoisin Sauce"
+      },
+      {
+        "ingredient": "⅓ cup orange juice",
+        "searchTerm": "orange juice",
+        "normalizedName": "Orange Juice"
+      },
+      {
+        "ingredient": "1 (11 ounce) can mandarin oranges, drained",
+        "searchTerm": "mandarin oranges",
+        "normalizedName": "Mandarin Orange"
+      },
+      {
+        "ingredient": "1 tablespoon chopped green onions",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "¼ cup chopped cashews",
+        "searchTerm": "cashews",
+        "normalizedName": "Cashew"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "Meat mallet",
+        "searchTerm": "tenderizer"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken evenly for uniform cooking and tender result",
+      "Toast cashews before adding to preserve their crunch",
+      "Add mandarin oranges at the end to prevent them from breaking down"
+    ],
+    "coachingPrompt": "Guide the user through proper chicken pounding technique and explain how to control sauce consistency."
+  },
+  "timestamp": "2026-02-06T11:50:51.893Z"
+}

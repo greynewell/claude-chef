@@ -1,0 +1,53 @@
+{
+  "contentHash": "903800d058577fae",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups all-purpose flour, divided",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ cup butter, cut into 12 cubes, frozen",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "6 tablespoons ice water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pastry cutter",
+        "searchTerm": "pastry cutter"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "rolling pin",
+        "searchTerm": "rolling pin"
+      }
+    ],
+    "cookingTips": [
+      "Keep all ingredients cold for the flakiest pastry crust",
+      "Work quickly to prevent butter from warming and melting into the flour",
+      "Use ice water and add gradually until dough just comes together"
+    ],
+    "coachingPrompt": "Flaky pastry depends on cold butter staying separate from flour. How experienced are you with hand-mixing pie dough?"
+  },
+  "timestamp": "2026-02-06T01:00:44.484Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "162c51524395e536",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cucumbers, peeled and diced",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "2 tablespoons nonfat plain yogurt (such as Mountain High®)",
+        "searchTerm": "plain yogurt",
+        "normalizedName": "Plain Yogurt"
+      },
+      {
+        "ingredient": "½ clove garlic, crushed, or to taste",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon crushed dried mint, or to taste",
+        "searchTerm": "dried mint",
+        "normalizedName": "Dried Mint"
+      },
+      {
+        "ingredient": "2 pinches salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Fork or mortar",
+        "searchTerm": "mortar and pestle"
+      }
+    ],
+    "cookingTips": [
+      "Salt the diced cucumber and let it sit briefly to remove excess moisture",
+      "Crush garlic fresh rather than using minced for more authentic flavor",
+      "Add mint just before serving to preserve its fresh aroma"
+    ],
+    "coachingPrompt": "How can I prevent this yogurt-based salad from becoming watery after it's been made?"
+  },
+  "timestamp": "2026-02-05T22:21:43.076Z"
+}

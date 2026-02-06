@@ -1,0 +1,77 @@
+{
+  "contentHash": "2c23e05f70f8f1e7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ pound bacon, diced",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "¾ cup diced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cups hot water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 cups diced potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 ½ pounds cod fillets",
+        "searchTerm": "cod fillets",
+        "normalizedName": "Cod Fillet"
+      },
+      {
+        "ingredient": "3 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 (12 ounce) can evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 ½ teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Render bacon first to provide rich, smoky backbone for the chowder",
+      "Boil potatoes until fork-tender before adding fish to ensure even cooking"
+    ],
+    "coachingPrompt": "Guide the user to add the fish fillets in the last few minutes and gently break them into chunks as they cook."
+  },
+  "timestamp": "2026-02-06T04:26:12.762Z"
+}

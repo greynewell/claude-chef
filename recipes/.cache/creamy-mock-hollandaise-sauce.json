@@ -1,0 +1,52 @@
+{
+  "contentHash": "c1999c890e9d423c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 ounces cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 egg yolks",
+        "searchTerm": "egg yolks",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "2 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "¼ teaspoon fine salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ cup milk, or as needed",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Double Boiler",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Use a double boiler to prevent egg yolks from scrambling",
+      "Add milk gradually while whisking to achieve desired consistency"
+    ],
+    "coachingPrompt": "Mock hollandaise simplifies the traditional sauce. How would you prevent the eggs from cooking and breaking the sauce?"
+  },
+  "timestamp": "2026-02-06T04:29:01.707Z"
+}

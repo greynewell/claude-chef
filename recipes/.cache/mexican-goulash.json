@@ -1,0 +1,63 @@
+{
+  "contentHash": "5f076b4be7597a4a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "½ onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (12 ounce) package elbow macaroni",
+        "searchTerm": "elbow macaroni",
+        "normalizedName": "Elbow Macaroni"
+      },
+      {
+        "ingredient": "½ pound processed cheese (such as Velveeta®), diced",
+        "searchTerm": "processed cheese",
+        "normalizedName": "Processed Cheese"
+      },
+      {
+        "ingredient": "1 ½ cups salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "1 (15 ounce) can pinto beans, drained and rinsed",
+        "searchTerm": "pinto beans",
+        "normalizedName": "Pinto Bean"
+      },
+      {
+        "ingredient": "1 (14 ounce) can whole kernel corn, drained",
+        "searchTerm": "corn",
+        "normalizedName": "Corn"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef completely and drain fat to avoid greasy goulash",
+      "Cook pasta separately and al dente before combining",
+      "Stir in processed cheese on low heat to prevent scorching"
+    ],
+    "coachingPrompt": "Help the user brown the beef and onion, cook the pasta separately, then combine everything with beans, corn, and salsa for a one-pot meal."
+  },
+  "timestamp": "2026-02-06T12:19:44.975Z"
+}

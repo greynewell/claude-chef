@@ -1,0 +1,42 @@
+{
+  "contentHash": "a5c5481f4c64aacc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 prepared soda bread farl",
+        "searchTerm": "soda bread farl",
+        "normalizedName": "Soda Bread Farl"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil for frying",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 pinch salt, or to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "kitchen tongs"
+      }
+    ],
+    "cookingTips": [
+      "Use medium heat to warm through without drying out the delicate bread",
+      "Oil should shimmer but not smoke for gentle frying"
+    ],
+    "coachingPrompt": "What's the difference between potato and soda farls, and how will you prevent drying them out?"
+  },
+  "timestamp": "2026-02-06T07:04:45.288Z"
+}

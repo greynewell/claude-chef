@@ -1,0 +1,63 @@
+{
+  "contentHash": "6ef16a1156d57db2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 potatoes, cut into wedges",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 tablespoons shredded Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "2 teaspoons curry powder",
+        "searchTerm": "curry powder",
+        "normalizedName": "Curry Powder"
+      },
+      {
+        "ingredient": "1 teaspoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Toss potato wedges with oil and seasonings in a bowl before spreading on baking sheet",
+      "Arrange in a single layer and roast at 425°F for 25-30 minutes until golden and crispy",
+      "Stir halfway through cooking for even browning on all sides"
+    ],
+    "coachingPrompt": "Help the user create crispy, well-seasoned cottage fries by explaining the importance of even coating and proper spacing on the baking sheet."
+  },
+  "timestamp": "2026-02-06T04:51:44.426Z"
+}

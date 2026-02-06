@@ -1,0 +1,63 @@
+{
+  "contentHash": "8f2e580f1c4752f4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 jalapeno peppers",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 (28 ounce) can whole peeled tomatoes with juice",
+        "searchTerm": "canned tomatoes",
+        "normalizedName": "Canned Tomato"
+      },
+      {
+        "ingredient": "½ teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground cumin",
+        "searchTerm": "ground cumin",
+        "normalizedName": "Ground Cumin"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "¼ teaspoon ground white pepper",
+        "searchTerm": "white pepper",
+        "normalizedName": "White Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon chopped cilantro",
+        "searchTerm": "fresh cilantro",
+        "normalizedName": "Fresh Cilantro"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "blender or food processor"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Wear gloves when handling hot peppers to protect your skin from oils",
+      "Blend to desired consistency - chunky or smooth is a matter of preference",
+      "Let flavors meld for at least 30 minutes before serving"
+    ],
+    "coachingPrompt": "What level of spice heat is achieved with this amount of jalapenos? How would you adjust for milder salsa?"
+  },
+  "timestamp": "2026-02-06T09:05:35.277Z"
+}

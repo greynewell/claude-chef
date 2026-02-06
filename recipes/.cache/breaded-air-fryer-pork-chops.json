@@ -1,0 +1,53 @@
+{
+  "contentHash": "4404b087d5752128",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 boneless, center-cut pork chops, 1-inch thick",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "1 teaspoon Cajun seasoning",
+        "searchTerm": "Cajun seasoning",
+        "normalizedName": "Cajun Seasoning"
+      },
+      {
+        "ingredient": "1 ½ cups cheese and garlic flavored croutons",
+        "searchTerm": "croutons",
+        "normalizedName": "Crouton"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Food Processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Shallow Dish",
+        "searchTerm": "shallow dish"
+      }
+    ],
+    "cookingTips": [
+      "Pulse croutons to fine breadcrumb texture for even coating",
+      "Pat pork chops dry before breading for better adherence",
+      "Air fry at 400°F for 12-15 minutes until internal temperature reaches 145°F"
+    ],
+    "coachingPrompt": "Would you prefer a spicier Cajun coating or a milder seasoning profile?"
+  },
+  "timestamp": "2026-02-06T00:36:51.353Z"
+}

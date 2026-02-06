@@ -1,0 +1,42 @@
+{
+  "contentHash": "7e13b8606ff4976c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 hot dog buns",
+        "searchTerm": "hot dog bun",
+        "normalizedName": "Hot Dog Bun"
+      },
+      {
+        "ingredient": "4 teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 teaspoons garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "sheet pan"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "brush"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Soften butter before spreading for even coverage",
+      "Toast at 400°F for 5-7 minutes until golden and fragrant"
+    ],
+    "coachingPrompt": "Show the user how to transform simple hot dog buns into garlic bread using basic pantry staples."
+  },
+  "timestamp": "2026-02-06T06:18:17.926Z"
+}

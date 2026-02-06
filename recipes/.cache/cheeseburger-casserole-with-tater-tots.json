@@ -1,0 +1,58 @@
+{
+  "contentHash": "53f4e393612fd88a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 large onion, chopped into 1-inch pieces",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "butter-flavored cooking spray (such as Pam®)",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "2 pounds ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "2 (10.75 ounce) cans condensed golden mushroom soup (such as Campbell's®)",
+        "searchTerm": "mushroom soup",
+        "normalizedName": "Golden Mushroom Soup"
+      },
+      {
+        "ingredient": "3 cups shredded sharp Cheddar cheese",
+        "searchTerm": "sharp cheddar",
+        "normalizedName": "Sharp Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 (32 ounce) package frozen bite-size potato nuggets (such as Tater Tots®)",
+        "searchTerm": "tater tots",
+        "normalizedName": "Tater Tot"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown onions with the beef for deeper flavor development",
+      "Add Tater Tots in the last 20-30 minutes of baking to maintain crispness",
+      "Stir the base mixture before adding Tater Tots to ensure even distribution"
+    ],
+    "coachingPrompt": "What's the timing strategy to get Tater Tots crispy on top while the beef mixture stays hot and thick?"
+  },
+  "timestamp": "2026-02-06T01:47:00.222Z"
+}

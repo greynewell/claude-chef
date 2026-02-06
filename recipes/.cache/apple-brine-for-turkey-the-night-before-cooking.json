@@ -1,0 +1,53 @@
+{
+  "contentHash": "ff606d3a2db7bcb8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 quarts apple juice",
+        "searchTerm": "apple juice",
+        "normalizedName": "Apple Juice"
+      },
+      {
+        "ingredient": "1 gallon cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "6 cloves garlic, peeled and crushed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "5 pounds ice cubes",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Brining Container",
+        "searchTerm": "large pot or container"
+      },
+      {
+        "name": "Measuring Cups",
+        "searchTerm": "measuring cups"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Dissolve salt completely in warm water before cooling with ice",
+      "Crush garlic cloves to release more flavor into brine",
+      "Keep turkey submerged in brine and refrigerated overnight for 8-12 hours"
+    ],
+    "coachingPrompt": "Explain to the user how brining works to keep turkey moist and how apple juice adds subtle sweetness and flavor."
+  },
+  "timestamp": "2026-02-05T22:09:40.775Z"
+}

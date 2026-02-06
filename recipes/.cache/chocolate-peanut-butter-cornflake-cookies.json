@@ -1,0 +1,42 @@
+{
+  "contentHash": "305e9509a6a0a85b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Chocolate Chip"
+      },
+      {
+        "ingredient": "2 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "3 cups cornflakes",
+        "searchTerm": "cornflakes cereal",
+        "normalizedName": "Cornflake"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "double boiler",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Melt chocolate and peanut butter gently over low heat to prevent seizing",
+      "Fold in cornflakes gently to maintain texture and avoid crushing"
+    ],
+    "coachingPrompt": "Show how to fold delicate cereal into melted chocolate without losing crunch."
+  },
+  "timestamp": "2026-02-06T03:09:46.607Z"
+}

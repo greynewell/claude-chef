@@ -1,0 +1,63 @@
+{
+  "contentHash": "f36ff21d26ffa647",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds sliced beef liver",
+        "searchTerm": "beef liver sliced",
+        "normalizedName": "Beef Liver"
+      },
+      {
+        "ingredient": "1 ½ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ cup butter, divided",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 large Vidalia onions",
+        "searchTerm": "Vidalia onions",
+        "normalizedName": "Vidalia Onion"
+      },
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "cast iron skillet 12 inch"
+      },
+      {
+        "name": "Shallow bowl",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "kitchen tongs"
+      }
+    ],
+    "cookingTips": [
+      "Soak liver in milk for 30 minutes to reduce gamey flavor before cooking",
+      "Cook liver until just browned outside but still slightly pink inside to avoid toughness",
+      "Caramelize onions slowly in butter for sweetness that balances liver's richness"
+    ],
+    "coachingPrompt": "Guide me through soaking the liver, dredging it in flour, and cooking it with caramelized onions until tender."
+  },
+  "timestamp": "2026-02-05T21:32:44.686Z"
+}

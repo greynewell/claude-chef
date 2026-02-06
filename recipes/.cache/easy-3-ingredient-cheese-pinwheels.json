@@ -1,0 +1,43 @@
+{
+  "contentHash": "ae5f53668eb137ed",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "frozen puff pastry, thawed",
+        "searchTerm": "puff pastry",
+        "normalizedName": "Puff Pastry"
+      },
+      {
+        "ingredient": "cream cheese with herbs",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "sliced Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "sharp knife"
+      },
+      {
+        "name": "Rolling Pin",
+        "searchTerm": "rolling pin"
+      }
+    ],
+    "cookingTips": [
+      "Thaw puff pastry completely but keep it cool before using",
+      "Spread cream cheese in an even thin layer to prevent leakage during baking",
+      "Chill rolled pastry for 20 minutes before slicing for cleaner cuts"
+    ],
+    "coachingPrompt": "Guide the baker through rolling, filling, and slicing pinwheels to achieve uniform spirals and even browning."
+  },
+  "timestamp": "2026-02-06T05:28:59.761Z"
+}

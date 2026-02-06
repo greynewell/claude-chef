@@ -1,0 +1,38 @@
+{
+  "contentHash": "8fc421a108d57de6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (15 ounce) can chili",
+        "searchTerm": "canned chili",
+        "normalizedName": "Canned Chili"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "shredded cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Microwave-safe bowl",
+        "searchTerm": "microwave bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Microwave in 30-second intervals, stirring between each to ensure even melting",
+      "Use a food processor to blend ingredients until smooth if you prefer a creamier consistency"
+    ],
+    "coachingPrompt": "What's the quickest way to make a simple but delicious chili cheese dip?"
+  },
+  "timestamp": "2026-02-06T02:49:54.681Z"
+}

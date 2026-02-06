@@ -1,0 +1,58 @@
+{
+  "contentHash": "e39e05ff4662df11",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices Italian bread",
+        "searchTerm": "Italian bread",
+        "normalizedName": "Italian Bread"
+      },
+      {
+        "ingredient": "1 tablespoon softened butter, divided",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon prepared pesto sauce, divided",
+        "searchTerm": "pesto sauce",
+        "normalizedName": "Pesto"
+      },
+      {
+        "ingredient": "1 slice provolone cheese",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      },
+      {
+        "ingredient": "2 slices tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 slice American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Spread pesto on the inside of bread for flavor without sogginess",
+      "Layer cheeses and tomato evenly for consistent melting",
+      "Use medium heat to melt cheese without burning bread"
+    ],
+    "coachingPrompt": "How can you balance the richness of two cheeses with the brightness of pesto and fresh tomato?"
+  },
+  "timestamp": "2026-02-06T14:40:08.638Z"
+}

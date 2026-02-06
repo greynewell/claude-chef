@@ -1,0 +1,63 @@
+{
+  "contentHash": "74dd70970c665f09",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "3 medium baking potatoes",
+        "searchTerm": "baking potato",
+        "normalizedName": "Baking Potato"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 large onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (16 ounce) can salmon",
+        "searchTerm": "canned salmon",
+        "normalizedName": "Salmon"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "cooking pot"
+      },
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "large bowl"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Sauté onions in olive oil until translucent to soften their bite and add depth",
+      "Drain canned salmon well and remove any large bones for better texture",
+      "Use parsley as garnish just before serving to maintain freshness"
+    ],
+    "coachingPrompt": "Teach the cook how to build layers of flavor by cooking onions and combining fresh and canned proteins."
+  },
+  "timestamp": "2026-02-06T16:39:14.374Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "b83c825c2cfb5898",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups dry roasted peanuts",
+        "searchTerm": "peanuts",
+        "normalizedName": "Peanut"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup light corn syrup",
+        "searchTerm": "corn syrup",
+        "normalizedName": "Corn Syrup"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Microwave",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "Microwave-Safe Bowl",
+        "searchTerm": "microwave bowl"
+      },
+      {
+        "name": "Buttered Baking Sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Monitor the sugar mixture closely as it can burn quickly in the microwave",
+      "Add baking soda at the very end and stir quickly for a light, airy brittle",
+      "Spread on a buttered sheet immediately before it hardens and cracks completely"
+    ],
+    "coachingPrompt": "Guide the user on recognizing proper caramel color and quick action after adding baking soda."
+  },
+  "timestamp": "2026-02-06T12:25:46.980Z"
+}

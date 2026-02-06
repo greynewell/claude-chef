@@ -1,0 +1,38 @@
+{
+  "contentHash": "33a8e0ffdafa0a01",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 graham crackers",
+        "searchTerm": "graham crackers",
+        "normalizedName": "Graham Cracker"
+      },
+      {
+        "ingredient": "2 milk chocolate candy bars",
+        "searchTerm": "milk chocolate",
+        "normalizedName": "Milk Chocolate"
+      },
+      {
+        "ingredient": "12 marshmallows",
+        "searchTerm": "marshmallows",
+        "normalizedName": "Marshmallow"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Broiler Pan",
+        "searchTerm": "broiler pan"
+      },
+      {
+        "name": "Wooden Skewer",
+        "searchTerm": "wooden skewer"
+      }
+    ],
+    "cookingTips": [
+      "Watch marshmallows constantly as they burn quickly under the broiler",
+      "Have all components ready before broiling for quick assembly"
+    ],
+    "coachingPrompt": "How close should marshmallows be to the broiler element to get the perfect golden exterior?"
+  },
+  "timestamp": "2026-02-06T00:47:08.149Z"
+}

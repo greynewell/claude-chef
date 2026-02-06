@@ -1,0 +1,53 @@
+{
+  "contentHash": "1272bad4bd418431",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "roast beef with gravy",
+        "searchTerm": "canned roast beef",
+        "normalizedName": "Roast Beef"
+      },
+      {
+        "ingredient": "shredded pepper Jack cheese",
+        "searchTerm": "pepper jack cheese",
+        "normalizedName": "Pepper Jack Cheese"
+      },
+      {
+        "ingredient": "diced green chiles",
+        "searchTerm": "canned green chiles",
+        "normalizedName": "Green Chile"
+      },
+      {
+        "ingredient": "corn tortillas",
+        "searchTerm": "corn tortillas",
+        "normalizedName": "Corn Tortilla"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep skillet or deep fryer",
+        "searchTerm": "deep skillet"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "kitchen tongs"
+      }
+    ],
+    "cookingTips": [
+      "Warm tortillas before rolling to make them more pliable and less likely to crack",
+      "Roll tightly and secure with toothpicks to prevent unrolling during frying",
+      "Fry at 350°F until golden brown on all sides for crispy exterior"
+    ],
+    "coachingPrompt": "What's the best way to keep taquitos from unrolling and absorbing too much oil while frying?"
+  },
+  "timestamp": "2026-02-06T15:40:18.489Z"
+}

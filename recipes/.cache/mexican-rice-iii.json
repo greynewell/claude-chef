@@ -1,0 +1,93 @@
+{
+  "contentHash": "2fdf90b75e24e629",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup long grain white rice",
+        "searchTerm": "long-grain rice",
+        "normalizedName": "Long-Grain Rice"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 ½ cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "½ onion, finely chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ green bell pepper, finely chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 fresh jalapeno pepper, chopped",
+        "searchTerm": "jalapeno",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 tomato, seeded and chopped",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 cube chicken bouillon",
+        "searchTerm": "chicken bouillon",
+        "normalizedName": "Chicken Bouillon"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ teaspoon ground cumin",
+        "searchTerm": "cumin",
+        "normalizedName": "Cumin"
+      },
+      {
+        "ingredient": "½ cup chopped fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "1 clove garlic, halved",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Lid",
+        "searchTerm": "pot lid"
+      }
+    ],
+    "cookingTips": [
+      "Add fresh vegetables near end of cooking to maintain color and crunch",
+      "Toast rice in oil for 2-3 minutes before adding broth for better texture",
+      "Dissolve bouillon cube in warm broth before adding for even distribution"
+    ],
+    "coachingPrompt": "Do you prefer whole vegetables in rice or more finely diced? Would tips on vegetable timing help?"
+  },
+  "timestamp": "2026-02-06T12:22:08.190Z"
+}

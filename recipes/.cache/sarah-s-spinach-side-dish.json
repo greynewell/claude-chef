@@ -1,0 +1,57 @@
+{
+  "contentHash": "2ff22723b9153319",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon whipped butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 pinch garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "1 pinch kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "¼ cup low-fat milk",
+        "searchTerm": "low-fat milk",
+        "normalizedName": "Low-Fat Milk"
+      },
+      {
+        "ingredient": "1 (10 ounce) package frozen chopped spinach",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Frozen Spinach"
+      }
+    ],
+    "gear": [
+      {
+        "name": "small saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Squeeze the thawed spinach thoroughly to remove excess moisture, which prevents a watery dish",
+      "Make a smooth roux by whisking flour into melted butter over low heat before adding milk"
+    ],
+    "coachingPrompt": "Guide the user on creating a silky cream sauce base and why properly drained spinach is critical for texture."
+  },
+  "timestamp": "2026-02-06T16:56:40.394Z"
+}

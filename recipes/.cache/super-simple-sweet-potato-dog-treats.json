@@ -1,0 +1,47 @@
+{
+  "contentHash": "ae496dbe5a221816",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 sweet potato",
+        "searchTerm": "sweet potato",
+        "normalizedName": "Sweet Potato"
+      },
+      {
+        "ingredient": "2 ½ cups whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "¼ cup unsweetened applesauce",
+        "searchTerm": "applesauce",
+        "normalizedName": "Unsweetened Applesauce"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Cookie cutters",
+        "searchTerm": "cookie cutters"
+      }
+    ],
+    "cookingTips": [
+      "Cook sweet potato until soft, then mash thoroughly for even distribution",
+      "Store treats in an airtight container for freshness"
+    ],
+    "coachingPrompt": "Remind the user these are pet treats and emphasize food safety for dogs."
+  },
+  "timestamp": "2026-02-06T19:53:07.396Z"
+}

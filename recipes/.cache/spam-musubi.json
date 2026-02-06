@@ -1,0 +1,73 @@
+{
+  "contentHash": "bdfa8c2f78597bd1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups uncooked short-grain white rice",
+        "searchTerm": "short-grain white rice",
+        "normalizedName": "Short-Grain White Rice"
+      },
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "6 tablespoons rice vinegar",
+        "searchTerm": "rice vinegar",
+        "normalizedName": "Rice Vinegar"
+      },
+      {
+        "ingredient": "¼ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "¼ cup oyster sauce",
+        "searchTerm": "oyster sauce",
+        "normalizedName": "Oyster Sauce"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 (12 ounce) container fully cooked luncheon meat (e.g. Spam)",
+        "searchTerm": "Spam",
+        "normalizedName": "Spam"
+      },
+      {
+        "ingredient": "5 sheets sushi nori (dry seaweed)",
+        "searchTerm": "nori seaweed",
+        "normalizedName": "Nori"
+      },
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Rice Cooker",
+        "searchTerm": "rice cooker"
+      },
+      {
+        "name": "Sushi Mat",
+        "searchTerm": "bamboo mat"
+      },
+      {
+        "name": "Sharp Knife",
+        "searchTerm": "sushi knife"
+      }
+    ],
+    "cookingTips": [
+      "Season rice while still warm to allow vinegar and sugar to absorb",
+      "Cool rice to room temperature before assembling musubi",
+      "Slice Spam and pan-fry briefly with soy sauce glaze before assembling"
+    ],
+    "coachingPrompt": "Why is it important to season the rice while it's still hot, and how will you cool it properly?"
+  },
+  "timestamp": "2026-02-06T18:48:30.878Z"
+}

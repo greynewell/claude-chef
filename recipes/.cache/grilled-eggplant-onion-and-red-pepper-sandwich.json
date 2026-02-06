@@ -1,0 +1,73 @@
+{
+  "contentHash": "7d4691434d966974",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 purple eggplant, peeled and cut into 1/2-inch slices",
+        "searchTerm": "purple eggplant",
+        "normalizedName": "Purple Eggplant"
+      },
+      {
+        "ingredient": "2 tablespoons grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "¼ teaspoon dried oregano",
+        "searchTerm": "oregano",
+        "normalizedName": "Oregano"
+      },
+      {
+        "ingredient": "1 sweet onion, cut in 1/4-inch slices",
+        "searchTerm": "sweet onion",
+        "normalizedName": "Sweet Onion"
+      },
+      {
+        "ingredient": "1 sweet red bell pepper, broadly sliced",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "2 sandwich rolls",
+        "searchTerm": "sandwich rolls",
+        "normalizedName": "Sandwich Roll"
+      },
+      {
+        "ingredient": "2 slices provolone cheese",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill brush",
+        "searchTerm": "grill brush"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "grill tongs"
+      }
+    ],
+    "cookingTips": [
+      "Slice vegetables uniformly for even cooking across all pieces",
+      "Grill eggplant until it becomes tender and develops grill marks, about 3-4 minutes per side",
+      "Toast sandwich rolls on the grill to add texture and prevent sogginess from vegetables"
+    ],
+    "coachingPrompt": "Guide the user on how to layer grilled vegetables for maximum flavor impact in a sandwich and timing the toasting of rolls."
+  },
+  "timestamp": "2026-02-06T08:15:36.945Z"
+}

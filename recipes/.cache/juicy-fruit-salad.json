@@ -1,0 +1,53 @@
+{
+  "contentHash": "a6849156459852c3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 can pineapple chunks with juice",
+        "searchTerm": "pineapple chunks",
+        "normalizedName": "Pineapple"
+      },
+      {
+        "ingredient": "1 apple, peeled, cored and diced",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "1 orange, peeled, diced and juice reserved",
+        "searchTerm": "orange",
+        "normalizedName": "Orange"
+      },
+      {
+        "ingredient": "1 banana, sliced",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "1 cup seedless green grapes, halved",
+        "searchTerm": "green grapes",
+        "normalizedName": "Green Grape"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Prepare fruit salad close to serving time to prevent apple and banana from browning",
+      "Use citrus juices to toss cut fruit immediately to prevent oxidation",
+      "Keep chilled until serving to maintain crispness and refreshing temperature"
+    ],
+    "coachingPrompt": "This simple fruit salad benefits from smart prep timing. Guide the cook on preventing browning and maintaining color and texture."
+  },
+  "timestamp": "2026-02-06T10:30:51.204Z"
+}

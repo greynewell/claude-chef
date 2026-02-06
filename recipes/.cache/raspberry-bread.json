@@ -1,0 +1,67 @@
+{
+  "contentHash": "0a4ad22c6a29cea7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup fat free raspberry-flavored yogurt",
+        "searchTerm": "raspberry yogurt",
+        "normalizedName": "Raspberry Yogurt"
+      },
+      {
+        "ingredient": "3 tablespoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "3 tablespoons canola oil",
+        "searchTerm": "canola oil",
+        "normalizedName": "Canola Oil"
+      },
+      {
+        "ingredient": "3 ¼ cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 ¼ teaspoons active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "1 tablespoon water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bread machine",
+        "searchTerm": "bread machine"
+      },
+      {
+        "name": "loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "If using a bread machine, follow manufacturer's instructions for ingredient order",
+      "Check dough consistency after initial mixing; adjust water if needed"
+    ],
+    "coachingPrompt": "This is a yeast bread with yogurt for flavor and moisture. Guide the user through proper ingredient ordering for bread machine use or hand kneading."
+  },
+  "timestamp": "2026-02-06T15:55:29.844Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "ed7ae20dd0e39967",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 ounces spaghetti",
+        "searchTerm": "spaghetti",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 teaspoons garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "2 teaspoons ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon minced onion",
+        "searchTerm": "minced onion",
+        "normalizedName": "Minced Onion"
+      },
+      {
+        "ingredient": "1 tablespoon dried rosemary",
+        "searchTerm": "dried rosemary",
+        "normalizedName": "Dried Rosemary"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta until very al dente as it will continue cooking when mixed with hot butter and eggs",
+      "Beat eggs well before adding to the hot pan to ensure they scramble evenly",
+      "Work quickly after adding eggs to create a creamy sauce rather than scrambled eggs"
+    ],
+    "coachingPrompt": "Are you familiar with tempering eggs into hot pasta without creating scrambled egg pieces?"
+  },
+  "timestamp": "2026-02-06T06:14:17.690Z"
+}

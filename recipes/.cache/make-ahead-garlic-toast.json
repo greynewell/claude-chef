@@ -1,0 +1,52 @@
+{
+  "contentHash": "6412fe8750456cdc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "⅓ cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 teaspoon dried parsley",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 (1 pound) loaf Italian bread, cut into 1 inch slices",
+        "searchTerm": "italian bread",
+        "normalizedName": "Italian Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Prepare butter mixture ahead and refrigerate, then spread on bread slices just before toasting",
+      "Toast until golden and crispy, about 3-4 minutes at 400°F"
+    ],
+    "coachingPrompt": "Help the user prepare the garlic butter mixture in advance and determine optimal toasting time for crispy results."
+  },
+  "timestamp": "2026-02-06T11:47:22.132Z"
+}

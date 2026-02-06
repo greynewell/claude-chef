@@ -1,0 +1,48 @@
+{
+  "contentHash": "6eb2b04fe0c481fc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups rice vinegar",
+        "searchTerm": "rice vinegar",
+        "normalizedName": "Rice Vinegar"
+      },
+      {
+        "ingredient": "1 ½ cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 ½ tablespoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅛ lemon, juiced",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "glass jar",
+        "searchTerm": "glass jar"
+      }
+    ],
+    "cookingTips": [
+      "Heat gently to dissolve sugar and salt without boiling, which can evaporate vinegar flavor",
+      "Cool completely before using on rice to prevent cooking the rice and making it mushy",
+      "Store in an airtight glass jar at room temperature; it will keep for several months"
+    ],
+    "coachingPrompt": "What's the balance between sweet, salty, and tangy in good sushi vinegar, and why does temperature matter?"
+  },
+  "timestamp": "2026-02-06T20:42:42.193Z"
+}

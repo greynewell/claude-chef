@@ -1,5 +1,6 @@
 import * as fs from 'fs';
 import * as path from 'path';
+import { execSync } from 'child_process';
 import { buildSite } from '../src/generator/index';
 import { writeCache } from '../src/enrichment/cache';
 import { CacheEntry } from '../src/enrichment/types';
@@ -8,56 +9,64 @@ const OUTPUT_DIR = path.resolve(__dirname, '../.test-output');
 const RECIPES_DIR = path.resolve(__dirname, '../recipes');
 const TEST_ENRICHED_RECIPES_DIR = path.resolve(__dirname, '../.test-enriched-recipes');
 
+/** Remove a directory that may contain thousands of files (fs.rmSync struggles on macOS with large dirs). */
+function forceRemoveDir(dir: string): void {
+  if (fs.existsSync(dir)) {
+    try {
+      fs.rmSync(dir, { recursive: true });
+    } catch {
+      // Fall back to system rm for large directories
+      execSync(`find ${JSON.stringify(dir)} -delete 2>/dev/null || rm -rf ${JSON.stringify(dir)}`);
+    }
+  }
+}
+
 describe('Site Generator (integration)', () => {
   beforeAll(() => {
-    if (fs.existsSync(OUTPUT_DIR)) {
-      fs.rmSync(OUTPUT_DIR, { recursive: true });
-    }
+    forceRemoveDir(OUTPUT_DIR);
   });
 
   afterAll(() => {
-    if (fs.existsSync(OUTPUT_DIR)) {
-      fs.rmSync(OUTPUT_DIR, { recursive: true });
-    }
+    forceRemoveDir(OUTPUT_DIR);
   });
 
-  it('should generate HTML files for each recipe', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should generate HTML files for each recipe', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const files = fs.readdirSync(OUTPUT_DIR).filter(f => f.endsWith('.html'));
     expect(files.length).toBeGreaterThanOrEqual(1);
     expect(files).toContain('teriyaki-and-sesame-seed-chicken.html');
   });
 
-  it('should generate an index.html', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should generate an index.html', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     expect(fs.existsSync(path.join(OUTPUT_DIR, 'index.html'))).toBe(true);
   });
 
-  it('should generate a sitemap.xml', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should generate a sitemap.xml', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const sitemapPath = path.join(OUTPUT_DIR, 'sitemap.xml');
     expect(fs.existsSync(sitemapPath)).toBe(true);
     const content = fs.readFileSync(sitemapPath, 'utf-8');
     expect(content).toContain('<urlset');
   });
 
-  it('should generate a robots.txt', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should generate a robots.txt', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const robotsPath = path.join(OUTPUT_DIR, 'robots.txt');
     expect(fs.existsSync(robotsPath)).toBe(true);
     const content = fs.readFileSync(robotsPath, 'utf-8');
     expect(content).toContain('User-agent');
   });
 
-  it('should include JSON-LD in generated recipe pages', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should include JSON-LD in generated recipe pages', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const html = fs.readFileSync(path.join(OUTPUT_DIR, 'teriyaki-and-sesame-seed-chicken.html'), 'utf-8');
     expect(html).toContain('application/ld+json');
     expect(html).toContain('"@type":"Recipe"');
   });
 
-  it('should strip hyperlinks from recipe body content', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should strip hyperlinks from recipe body content', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const html = fs.readFileSync(path.join(OUTPUT_DIR, 'teriyaki-and-sesame-seed-chicken.html'), 'utf-8');
     // Extract article body only - the git-meta and nav elements intentionally have links
     const articleMatch = html.match(/<article[^>]*>([\s\S]*?)<\/article>/);
@@ -65,23 +74,23 @@ describe('Site Generator (integration)', () => {
     expect(articleMatch![1]).not.toMatch(/href="https?:\/\//);
   });
 
-  it('should generate a CNAME file for custom domain', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should generate a CNAME file for custom domain', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const cnamePath = path.join(OUTPUT_DIR, 'CNAME');
     expect(fs.existsSync(cnamePath)).toBe(true);
     const content = fs.readFileSync(cnamePath, 'utf-8').trim();
     expect(content).toBe('claudechef.com');
   });
 
-  it('should use claudechef.com domain in sitemap URLs', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should use claudechef.com domain in sitemap URLs', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const content = fs.readFileSync(path.join(OUTPUT_DIR, 'sitemap.xml'), 'utf-8');
     expect(content).toContain('https://claudechef.com/');
     expect(content).not.toContain('github.io');
   });
 
-  it('should include the footer CTA in all pages', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should include the footer CTA in all pages', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     // Check root HTML files
     const rootFiles = fs.readdirSync(OUTPUT_DIR).filter(f => f.endsWith('.html'));
     for (const file of rootFiles) {
@@ -101,8 +110,8 @@ describe('Site Generator (integration)', () => {
     }
   });
 
-  it('should create taxonomy subdirectories', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should create taxonomy subdirectories', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     expect(fs.existsSync(path.join(OUTPUT_DIR, 'category'))).toBe(true);
     expect(fs.existsSync(path.join(OUTPUT_DIR, 'cuisine'))).toBe(true);
     expect(fs.existsSync(path.join(OUTPUT_DIR, 'ingredient'))).toBe(true);
@@ -114,16 +123,16 @@ describe('Site Generator (integration)', () => {
     expect(fs.existsSync(path.join(OUTPUT_DIR, 'author'))).toBe(true);
   });
 
-  it('should generate hub pages for actual recipe values', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should generate hub pages for actual recipe values', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     // Recipes have category: Main Course, Side Dish and cuisine: Japanese-American
     expect(fs.existsSync(path.join(OUTPUT_DIR, 'category', 'main-course.html'))).toBe(true);
     expect(fs.existsSync(path.join(OUTPUT_DIR, 'category', 'side-dish.html'))).toBe(true);
     expect(fs.existsSync(path.join(OUTPUT_DIR, 'cuisine', 'japanese-american.html'))).toBe(true);
   });
 
-  it('should generate taxonomy index pages', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should generate taxonomy index pages', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     expect(fs.existsSync(path.join(OUTPUT_DIR, 'category', 'index.html'))).toBe(true);
     expect(fs.existsSync(path.join(OUTPUT_DIR, 'cuisine', 'index.html'))).toBe(true);
     expect(fs.existsSync(path.join(OUTPUT_DIR, 'ingredient', 'index.html'))).toBe(true);
@@ -135,8 +144,8 @@ describe('Site Generator (integration)', () => {
     expect(fs.existsSync(path.join(OUTPUT_DIR, 'author', 'index.html'))).toBe(true);
   });
 
-  it('should generate hub pages for new taxonomy types', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should generate hub pages for new taxonomy types', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     expect(fs.existsSync(path.join(OUTPUT_DIR, 'ingredient', 'chicken.html'))).toBe(true);
     expect(fs.existsSync(path.join(OUTPUT_DIR, 'allergy', 'soy.html'))).toBe(true);
     expect(fs.existsSync(path.join(OUTPUT_DIR, 'flavor', 'umami.html'))).toBe(true);
@@ -145,8 +154,8 @@ describe('Site Generator (integration)', () => {
     expect(fs.existsSync(path.join(OUTPUT_DIR, 'skill_level', 'easy.html'))).toBe(true);
   });
 
-  it('should include hub pages in sitemap', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should include hub pages in sitemap', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const content = fs.readFileSync(path.join(OUTPUT_DIR, 'sitemap.xml'), 'utf-8');
     expect(content).toContain('category/main-course.html');
     expect(content).toContain('category/index.html');
@@ -160,14 +169,14 @@ describe('Site Generator (integration)', () => {
     expect(content).toContain('author/grey-newell.html');
   });
 
-  it('should include CollectionPage JSON-LD in hub pages', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should include CollectionPage JSON-LD in hub pages', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const html = fs.readFileSync(path.join(OUTPUT_DIR, 'category', 'main-course.html'), 'utf-8');
     expect(html).toContain('CollectionPage');
   });
 
-  it('should include Install, About, and Contribute nav links in all HTML pages', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should include Install, About, and Contribute nav links in all HTML pages', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const recipeHtml = fs.readFileSync(path.join(OUTPUT_DIR, 'teriyaki-and-sesame-seed-chicken.html'), 'utf-8');
     expect(recipeHtml).toContain('/install.html');
     expect(recipeHtml).toContain('Install');
@@ -179,19 +188,19 @@ describe('Site Generator (integration)', () => {
     expect(indexHtml).toContain('Install');
   });
 
-  it('should generate an about.html', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should generate an about.html', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     expect(fs.existsSync(path.join(OUTPUT_DIR, 'about.html'))).toBe(true);
   });
 
-  it('should include about.html in sitemap', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should include about.html in sitemap', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const content = fs.readFileSync(path.join(OUTPUT_DIR, 'sitemap.xml'), 'utf-8');
     expect(content).toContain('about.html');
   });
 
-  it('should include About nav link in generated pages', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should include About nav link in generated pages', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const indexHtml = fs.readFileSync(path.join(OUTPUT_DIR, 'index.html'), 'utf-8');
     expect(indexHtml).toContain('href="/about.html"');
     expect(indexHtml).toContain('About');
@@ -204,19 +213,19 @@ describe('Site Generator (integration)', () => {
     expect(aboutHtml).toContain('How Claude Chef Works');
   });
 
-  it('should generate a contribute.html', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should generate a contribute.html', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     expect(fs.existsSync(path.join(OUTPUT_DIR, 'contribute.html'))).toBe(true);
   });
 
-  it('should include contribute.html in sitemap', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should include contribute.html in sitemap', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const content = fs.readFileSync(path.join(OUTPUT_DIR, 'sitemap.xml'), 'utf-8');
     expect(content).toContain('contribute.html');
   });
 
-  it('should include Contribute nav link in generated pages', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should include Contribute nav link in generated pages', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const indexHtml = fs.readFileSync(path.join(OUTPUT_DIR, 'index.html'), 'utf-8');
     expect(indexHtml).toContain('href="/contribute.html"');
     expect(indexHtml).toContain('Contribute');
@@ -228,19 +237,19 @@ describe('Site Generator (integration)', () => {
     expect(contributeHtml).toContain('Contribute a Recipe');
   });
 
-  it('should generate a favorites.html', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should generate a favorites.html', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     expect(fs.existsSync(path.join(OUTPUT_DIR, 'favorites.html'))).toBe(true);
   });
 
-  it('should include favorites.html in sitemap', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should include favorites.html in sitemap', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const content = fs.readFileSync(path.join(OUTPUT_DIR, 'sitemap.xml'), 'utf-8');
     expect(content).toContain('favorites.html');
   });
 
-  it('should include Install nav link in generated pages', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should include Install nav link in generated pages', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const indexHtml = fs.readFileSync(path.join(OUTPUT_DIR, 'index.html'), 'utf-8');
     expect(indexHtml).toContain('href="/install.html"');
     expect(indexHtml).toContain('Install');
@@ -249,13 +258,13 @@ describe('Site Generator (integration)', () => {
     expect(recipeHtml).toContain('href="/install.html"');
   });
 
-  it('should add .favorite class to recipe cards on index page when favorites.json exists', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should add .favorite class to recipe cards on index page when favorites.json exists', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const indexHtml = fs.readFileSync(path.join(OUTPUT_DIR, 'index.html'), 'utf-8');
     expect(indexHtml).toContain('recipe-card favorite');
   });
 
-  it('should generate favorites.html with empty state when favorites.json is missing', () => {
+  it('should generate favorites.html with empty state when favorites.json is missing', async () => {
     const tempRoot = path.resolve(__dirname, '../.test-no-fav-root');
     const tempRecipesDir = path.join(tempRoot, 'recipes');
     const tempOutput = path.join(tempRoot, 'output');
@@ -266,7 +275,7 @@ describe('Site Generator (integration)', () => {
       path.join(tempRecipesDir, 'teriyaki-and-sesame-seed-chicken.md')
     );
     try {
-      buildSite(tempRecipesDir, tempOutput);
+      await buildSite(tempRecipesDir, tempOutput);
       const favHtml = fs.readFileSync(path.join(tempOutput, 'favorites.html'), 'utf-8');
       expect(favHtml).toContain('No favorites yet');
     } finally {
@@ -274,7 +283,7 @@ describe('Site Generator (integration)', () => {
     }
   });
 
-  it('should silently ignore invalid slugs in favorites.json', () => {
+  it('should silently ignore invalid slugs in favorites.json', async () => {
     const tempRoot = path.resolve(__dirname, '../.test-invalid-fav-root');
     const tempRecipesDir = path.join(tempRoot, 'recipes');
     const tempOutput = path.join(tempRoot, 'output');
@@ -287,7 +296,7 @@ describe('Site Generator (integration)', () => {
     // Write favorites.json with mix of valid and invalid slugs
     fs.writeFileSync(path.join(tempRoot, 'favorites.json'), '["teriyaki-and-sesame-seed-chicken", "nonexistent-recipe"]');
     try {
-      buildSite(tempRecipesDir, tempOutput);
+      await buildSite(tempRecipesDir, tempOutput);
       expect(fs.existsSync(path.join(tempOutput, 'favorites.html'))).toBe(true);
       const favHtml = fs.readFileSync(path.join(tempOutput, 'favorites.html'), 'utf-8');
       // Should include the valid recipe but not crash on the invalid one
@@ -298,34 +307,34 @@ describe('Site Generator (integration)', () => {
     }
   });
 
-  it('should contain servings slider in generated recipe pages', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should contain servings slider in generated recipe pages', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const html = fs.readFileSync(path.join(OUTPUT_DIR, 'teriyaki-and-sesame-seed-chicken.html'), 'utf-8');
     expect(html).toContain('servings-slider');
   });
 
-  it('should contain ingredient-list class in generated recipe pages', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should contain ingredient-list class in generated recipe pages', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const html = fs.readFileSync(path.join(OUTPUT_DIR, 'teriyaki-and-sesame-seed-chicken.html'), 'utf-8');
     expect(html).toContain('ingredient-list');
   });
 
-  it('should contain data-base-servings in generated recipe pages', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should contain data-base-servings in generated recipe pages', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const html = fs.readFileSync(path.join(OUTPUT_DIR, 'teriyaki-and-sesame-seed-chicken.html'), 'utf-8');
     expect(html).toContain('data-base-servings');
   });
 
-  it('should include skill badge on generated recipe pages', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should include skill badge on generated recipe pages', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const html = fs.readFileSync(path.join(OUTPUT_DIR, 'teriyaki-and-sesame-seed-chicken.html'), 'utf-8');
     expect(html).toContain('skill-badge');
     expect(html).toContain('/skill_level/easy.html');
     expect(html).toContain('Easy');
   });
 
-  it('should include linked taxonomy pills on generated recipe pages', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should include linked taxonomy pills on generated recipe pages', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const html = fs.readFileSync(path.join(OUTPUT_DIR, 'teriyaki-and-sesame-seed-chicken.html'), 'utf-8');
     expect(html).toContain('class="meta-pill tax-category"');
     expect(html).toContain('/category/main-course.html');
@@ -337,51 +346,51 @@ describe('Site Generator (integration)', () => {
     expect(html).toContain('/tool/skillet.html');
   });
 
-  it('should use friendly descriptions in ingredient hub pages', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should use friendly descriptions in ingredient hub pages', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const html = fs.readFileSync(path.join(OUTPUT_DIR, 'ingredient', 'chicken.html'), 'utf-8');
     expect(html).toContain('Recipes with Chicken');
   });
 
-  it('should use inverted allergy hub page titles', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should use inverted allergy hub page titles', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const html = fs.readFileSync(path.join(OUTPUT_DIR, 'allergy', 'soy.html'), 'utf-8');
     expect(html).toContain('No Soy Recipes');
   });
 
-  it('should generate author hub pages', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should generate author hub pages', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     expect(fs.existsSync(path.join(OUTPUT_DIR, 'author', 'index.html'))).toBe(true);
     expect(fs.existsSync(path.join(OUTPUT_DIR, 'author', 'grey-newell.html'))).toBe(true);
   });
 
-  it('should include recipe-byline on generated recipe pages', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should include recipe-byline on generated recipe pages', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const html = fs.readFileSync(path.join(OUTPUT_DIR, 'teriyaki-and-sesame-seed-chicken.html'), 'utf-8');
     expect(html).toContain('recipe-byline');
     expect(html).toContain('/author/grey-newell.html');
   });
 
-  it('should use Person type in JSON-LD on generated recipe pages', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should use Person type in JSON-LD on generated recipe pages', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const html = fs.readFileSync(path.join(OUTPUT_DIR, 'teriyaki-and-sesame-seed-chicken.html'), 'utf-8');
     expect(html).toContain('"@type":"Person"');
   });
 
-  it('should use friendly indexDescription in taxonomy index pages', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should use friendly indexDescription in taxonomy index pages', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const html = fs.readFileSync(path.join(OUTPUT_DIR, 'ingredient', 'index.html'), 'utf-8');
     expect(html).toContain('Find recipes by key ingredient');
   });
 
-  it('should include teriyaki-roasted-broccoli in favorites page', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should include teriyaki-roasted-broccoli in favorites page', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const html = fs.readFileSync(path.join(OUTPUT_DIR, 'favorites.html'), 'utf-8');
     expect(html).toContain('teriyaki-roasted-broccoli');
   });
 
-  it('should generate llms.txt with expected content', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should generate llms.txt with expected content', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const llmsPath = path.join(OUTPUT_DIR, 'llms.txt');
     expect(fs.existsSync(llmsPath)).toBe(true);
     const content = fs.readFileSync(llmsPath, 'utf-8');
@@ -391,8 +400,8 @@ describe('Site Generator (integration)', () => {
     expect(content).toContain('## Cuisines');
   });
 
-  it('should generate feed.xml with valid RSS', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should generate feed.xml with valid RSS', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const feedPath = path.join(OUTPUT_DIR, 'feed.xml');
     expect(fs.existsSync(feedPath)).toBe(true);
     const content = fs.readFileSync(feedPath, 'utf-8');
@@ -401,8 +410,8 @@ describe('Site Generator (integration)', () => {
     expect(content).toContain('<item>');
   });
 
-  it('should generate per-category feed.xml files', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should generate per-category feed.xml files', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const categoryFeedPath = path.join(OUTPUT_DIR, 'category', 'main-course', 'feed.xml');
     expect(fs.existsSync(categoryFeedPath)).toBe(true);
     const content = fs.readFileSync(categoryFeedPath, 'utf-8');
@@ -410,8 +419,8 @@ describe('Site Generator (integration)', () => {
     expect(content).toContain('Main Course');
   });
 
-  it('should include footer links in generated HTML pages', () => {
-    buildSite(RECIPES_DIR, OUTPUT_DIR);
+  it('should include footer links in generated HTML pages', async () => {
+    await buildSite(RECIPES_DIR, OUTPUT_DIR);
     const html = fs.readFileSync(path.join(OUTPUT_DIR, 'index.html'), 'utf-8');
     expect(html).toContain('footer-links');
     expect(html).toContain('href="/sitemap.xml"');
@@ -419,7 +428,7 @@ describe('Site Generator (integration)', () => {
     expect(html).toContain('href="/feed.xml"');
   });
 
-  it('should not include enrichment sections when no cache exists', () => {
+  it('should not include enrichment sections when no cache exists', async () => {
     const noCacheRecipesDir = path.resolve(__dirname, '../.test-no-cache-recipes');
     const noCacheOutput = path.resolve(__dirname, '../.test-no-cache-output');
     if (fs.existsSync(noCacheRecipesDir)) fs.rmSync(noCacheRecipesDir, { recursive: true });
@@ -431,7 +440,7 @@ describe('Site Generator (integration)', () => {
       path.join(noCacheRecipesDir, 'teriyaki-and-sesame-seed-chicken.md')
     );
     try {
-      buildSite(noCacheRecipesDir, noCacheOutput);
+      await buildSite(noCacheRecipesDir, noCacheOutput);
       const html = fs.readFileSync(path.join(noCacheOutput, 'teriyaki-and-sesame-seed-chicken.html'), 'utf-8');
       expect(html).not.toContain('Shop Ingredients');
       expect(html).not.toContain('Cook with AI');
@@ -441,7 +450,7 @@ describe('Site Generator (integration)', () => {
     }
   });
 
-  it('should include enrichment sections when cache exists', () => {
+  it('should include enrichment sections when cache exists', async () => {
     // Set up a temp recipes dir with one recipe and a cache
     const enrichedOutput = path.resolve(__dirname, '../.test-enriched-output');
     if (fs.existsSync(TEST_ENRICHED_RECIPES_DIR)) {
@@ -463,7 +472,7 @@ describe('Site Generator (integration)', () => {
     const cacheEntry: CacheEntry = {
       contentHash: hash,
       enrichment: {
-        ingredients: [{ ingredient: '1 cup teriyaki sauce', searchTerm: 'teriyaki sauce' }],
+        ingredients: [{ ingredient: '1 cup teriyaki sauce', searchTerm: 'teriyaki sauce', normalizedName: 'Teriyaki Sauce' }],
         gear: [{ name: 'Large skillet', searchTerm: 'skillet' }],
         cookingTips: ['Pat chicken dry'],
         coachingPrompt: 'Guide me through teriyaki chicken.',
@@ -477,7 +486,7 @@ describe('Site Generator (integration)', () => {
     process.env.AMAZON_AFFILIATE_TAG = 'test-20';
 
     try {
-      buildSite(TEST_ENRICHED_RECIPES_DIR, enrichedOutput);
+      await buildSite(TEST_ENRICHED_RECIPES_DIR, enrichedOutput);
       const html = fs.readFileSync(path.join(enrichedOutput, 'teriyaki-and-sesame-seed-chicken.html'), 'utf-8');
       expect(html).toContain('Shop Ingredients');
       expect(html).toContain('Gear');

@@ -1,0 +1,53 @@
+{
+  "contentHash": "63a14d6c51a7ed54",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 bananas",
+        "searchTerm": "bananas",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "1 cup frozen pineapple",
+        "searchTerm": "frozen pineapple",
+        "normalizedName": "Pineapple"
+      },
+      {
+        "ingredient": "2 tablespoons almond butter",
+        "searchTerm": "almond butter",
+        "normalizedName": "Almond Butter"
+      },
+      {
+        "ingredient": "1 tablespoon chia seeds",
+        "searchTerm": "chia seeds",
+        "normalizedName": "Chia Seed"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "tall glass",
+        "searchTerm": "glass"
+      },
+      {
+        "name": "measuring spoons",
+        "searchTerm": "measuring spoons"
+      }
+    ],
+    "cookingTips": [
+      "Use frozen banana for a thicker, creamier smoothie texture",
+      "Add chia seeds last and blend briefly to keep some texture",
+      "Adjust water amount for desired consistency"
+    ],
+    "coachingPrompt": "How do the natural sweetness of banana and pineapple complement the nuttiness of almond butter?"
+  },
+  "timestamp": "2026-02-06T02:19:41.777Z"
+}

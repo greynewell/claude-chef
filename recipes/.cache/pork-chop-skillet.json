@@ -1,0 +1,54 @@
+{
+  "contentHash": "543102ae4eaec3aa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 boneless pork chops",
+        "searchTerm": "boneless pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "1 ¼ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (6 ounce) package long grain and wild rice mix with herbs",
+        "searchTerm": "wild rice mix",
+        "normalizedName": "Wild Rice Mix"
+      },
+      {
+        "ingredient": "1 (15.25 ounce) can corn, undrained",
+        "searchTerm": "corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can diced Italian-style tomatoes, undrained",
+        "searchTerm": "Italian tomatoes",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet with lid",
+        "searchTerm": "skillet with lid"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Don't skip browning the pork chops first—it adds depth to the final dish",
+      "Use the liquid from the canned vegetables to help cook the rice evenly",
+      "Keep the lid on while simmering to trap steam and ensure rice cooks through"
+    ],
+    "coachingPrompt": "Guide the user through the browning step and then explain how to create a proper steaming environment. Emphasize the importance of not removing the lid during cooking."
+  },
+  "timestamp": "2026-02-06T15:05:33.536Z"
+}

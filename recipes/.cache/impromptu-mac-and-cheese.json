@@ -1,0 +1,58 @@
+{
+  "contentHash": "3885e6890b7981ab",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup uncooked macaroni",
+        "searchTerm": "macaroni",
+        "normalizedName": "Macaroni"
+      },
+      {
+        "ingredient": "1 link of precooked chicken and cheese sausage",
+        "searchTerm": "chicken sausage",
+        "normalizedName": "Chicken Sausage"
+      },
+      {
+        "ingredient": "1 tablespoon milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 teaspoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "¼ cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta until al dente, then drain well before mixing",
+      "Slice sausage thinly to distribute flavor throughout",
+      "Heat all components together briefly to meld flavors"
+    ],
+    "coachingPrompt": "How can you transform minimal ingredients into a satisfying protein-rich pasta dish?"
+  },
+  "timestamp": "2026-02-06T09:39:23.244Z"
+}

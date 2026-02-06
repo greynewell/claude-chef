@@ -1,0 +1,62 @@
+{
+  "contentHash": "d61a58d2dd480bde",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds potatoes, peeled and cut into thick wedges",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "⅓ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 lemons, juiced",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "3 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "Knife for cutting",
+        "searchTerm": "chef knife"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes into evenly-sized wedges to ensure uniform cooking throughout",
+      "Stir potatoes occasionally and baste with pan juices to develop a crispy exterior"
+    ],
+    "coachingPrompt": "How would you achieve crispy potatoes while keeping them moist inside, and when would you add the broth?"
+  },
+  "timestamp": "2026-02-06T08:03:36.803Z"
+}

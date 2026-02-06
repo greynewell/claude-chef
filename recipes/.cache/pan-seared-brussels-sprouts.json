@@ -1,0 +1,59 @@
+{
+  "contentHash": "394e78b32f21b313",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "20 Brussels sprouts",
+        "searchTerm": "brussels sprouts",
+        "normalizedName": "Brussels Sprout"
+      },
+      {
+        "ingredient": "2 teaspoons Dijon mustard",
+        "searchTerm": "dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "2 teaspoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 tablespoons sliced almonds",
+        "searchTerm": "sliced almonds",
+        "normalizedName": "Sliced Almond"
+      },
+      {
+        "ingredient": "2 tablespoons dried cherries",
+        "searchTerm": "dried cherries",
+        "normalizedName": "Dried Cherry"
+      },
+      {
+        "ingredient": "1 pinch sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Halve Brussels sprouts and cook flat-side down for maximum caramelization",
+      "The Dijon mustard and honey create a sweet-savory glaze when tossed together",
+      "Toast almonds separately to prevent them from burning in the pan"
+    ],
+    "coachingPrompt": "Should I cook the almonds and cherries in the pan or separately? How do I prevent the honey glaze from burning?"
+  },
+  "timestamp": "2026-02-06T14:04:31.528Z"
+}

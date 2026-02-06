@@ -1,0 +1,93 @@
+{
+  "contentHash": "1158b19e7b2b1ff0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "spaghetti",
+        "searchTerm": "spaghetti",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "hard-cooked egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "carrot",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "frozen petite pea",
+        "searchTerm": "peas",
+        "normalizedName": "Pea"
+      },
+      {
+        "ingredient": "frozen fully cooked salad shrimp",
+        "searchTerm": "cooked shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "crab meat",
+        "searchTerm": "crab meat",
+        "normalizedName": "Crab Meat"
+      },
+      {
+        "ingredient": "mayonnaise",
+        "searchTerm": "mayo",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Break spaghetti before cooking for easy eating in salad",
+      "Cool pasta completely before mixing with dressing to prevent sogginess",
+      "Fold in seafood gently at the end to avoid breaking delicate pieces"
+    ],
+    "coachingPrompt": "This is a mayo-based seafood salad. How will you prevent it from becoming watery as it sits?"
+  },
+  "timestamp": "2026-02-06T10:32:48.837Z"
+}

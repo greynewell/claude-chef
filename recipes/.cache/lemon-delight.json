@@ -1,0 +1,63 @@
+{
+  "contentHash": "4b101e941bfe6009",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup ground pecans",
+        "searchTerm": "pecan",
+        "normalizedName": "Pecan"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 cup confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "1 (21 ounce) can lemon pie filling",
+        "searchTerm": "lemon pie filling",
+        "normalizedName": "Lemon Pie Filling"
+      },
+      {
+        "ingredient": "1 (12 ounce) container frozen whipped topping, thawed",
+        "searchTerm": "whipped topping",
+        "normalizedName": "Whipped Topping"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "electric mixer"
+      }
+    ],
+    "cookingTips": [
+      "Toast pecan mixture in oven to enhance nutty flavor before pressing into pan",
+      "Bring cream cheese to room temperature for smooth, lump-free filling",
+      "Layer components just before serving to maintain whipped topping's texture"
+    ],
+    "coachingPrompt": "Help the baker create layers with complementary textures: nutty crust, creamy middle, and light topping. Discuss assembly timing."
+  },
+  "timestamp": "2026-02-06T11:11:40.280Z"
+}

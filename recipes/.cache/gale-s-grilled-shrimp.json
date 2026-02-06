@@ -1,0 +1,43 @@
+{
+  "contentHash": "652a89d55cb0ff81",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds unpeeled medium shrimp",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "1 (12 ounce) can beer",
+        "searchTerm": "beer",
+        "normalizedName": "Beer"
+      },
+      {
+        "ingredient": "1 tablespoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "skewers",
+        "searchTerm": "skewers"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "grill tongs"
+      }
+    ],
+    "cookingTips": [
+      "Marinate shrimp in beer and garlic for at least 30 minutes for flavor infusion",
+      "Keep shrimp in shells during cooking to retain moisture and flavor",
+      "Grill only 2-3 minutes per side to avoid overcooking"
+    ],
+    "coachingPrompt": "Guide the griller on marinating shrimp briefly and grilling to perfect doneness while maintaining tender texture."
+  },
+  "timestamp": "2026-02-06T07:13:53.552Z"
+}

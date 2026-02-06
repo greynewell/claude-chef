@@ -1,0 +1,67 @@
+{
+  "contentHash": "277ad7ed8908c452",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "1 tablespoon mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 pinch salt and ground black pepper",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch salt and ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 teaspoons marmalade",
+        "searchTerm": "marmalade",
+        "normalizedName": "Marmalade"
+      },
+      {
+        "ingredient": "4 potato chips",
+        "searchTerm": "potato chips",
+        "normalizedName": "Potato Chip"
+      },
+      {
+        "ingredient": "2 pieces pineapple",
+        "searchTerm": "pineapple",
+        "normalizedName": "Pineapple"
+      },
+      {
+        "ingredient": "4 sardines",
+        "searchTerm": "sardines",
+        "normalizedName": "Sardine"
+      }
+    ],
+    "gear": [
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "butter knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread lightly to add structure for wet ingredients without making it too crispy to bite through",
+      "Drain sardines thoroughly and pat dry before assembling to prevent soggy bread"
+    ],
+    "coachingPrompt": "Help the user understand how sweet marmalade and pineapple complement savory sardines in an unconventional pairing."
+  },
+  "timestamp": "2026-02-06T16:56:40.395Z"
+}

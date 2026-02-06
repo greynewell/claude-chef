@@ -1,0 +1,53 @@
+{
+  "contentHash": "1de8df83f694a7f2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅛ teaspoon powdered saffron",
+        "searchTerm": "saffron",
+        "normalizedName": "Saffron"
+      },
+      {
+        "ingredient": "2 cups boiling water, divided",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup uncooked long-grain white rice, not rinsed",
+        "searchTerm": "long grain white rice",
+        "normalizedName": "Long Grain White Rice"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan with lid",
+        "searchTerm": "saucepan with lid"
+      },
+      {
+        "name": "Kettle",
+        "searchTerm": "kettle"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Steep saffron in 2 tablespoons boiling water for 5 minutes to release color and flavor",
+      "Toast rice in butter briefly before adding water to improve texture",
+      "Do not rinse rice—starch helps create fluffy, separate grains"
+    ],
+    "coachingPrompt": "Explain the importance of steeping saffron separately and why toasting rice enhances the final texture."
+  },
+  "timestamp": "2026-02-06T09:41:39.053Z"
+}

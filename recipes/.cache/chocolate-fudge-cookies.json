@@ -1,0 +1,48 @@
+{
+  "contentHash": "14f5ac991200fc2e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (18.25 ounce) package devil's food cake mix",
+        "searchTerm": "devils food cake mix",
+        "normalizedName": "Devils Food Cake Mix"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 cup semi-sweet chocolate chips",
+        "searchTerm": "semi-sweet chocolate chips",
+        "normalizedName": "Semisweet Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Mix cake mix with just 2 ingredients for ease and minimal cleanup",
+      "Fold in chocolate chips gently to avoid overmixing the dough",
+      "Bake at slightly lower temperature to keep edges chewy"
+    ],
+    "coachingPrompt": "Help me make ultra-easy fudgy chocolate cookies using cake mix as a shortcut ingredient."
+  },
+  "timestamp": "2026-02-06T03:07:05.279Z"
+}

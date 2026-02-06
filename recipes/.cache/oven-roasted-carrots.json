@@ -1,0 +1,53 @@
+{
+  "contentHash": "e3d28f2f500fb638",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound carrots, peeled and cut into 3-inch-long pieces",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon Italian seasoning",
+        "searchTerm": "Italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      },
+      {
+        "ingredient": "¼ cup chopped pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      },
+      {
+        "ingredient": "¼ cup panko bread crumbs",
+        "searchTerm": "panko bread crumbs",
+        "normalizedName": "Panko Bread Crumb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Toss carrots with olive oil and Italian seasoning, then spread on baking sheet",
+      "Roast at 400°F for 15 minutes until carrots begin to caramelize",
+      "Top with pecan and panko mixture, then roast for another 5-7 minutes until topping is golden and crunchy"
+    ],
+    "coachingPrompt": "Show the user how to create a textured, elegant side dish by topping roasted carrots with a pecan-panko crust."
+  },
+  "timestamp": "2026-02-06T13:53:13.283Z"
+}

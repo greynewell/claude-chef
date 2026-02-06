@@ -1,0 +1,64 @@
+{
+  "contentHash": "73320840f6226f8b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 multi grain wraps",
+        "searchTerm": "multi grain wraps",
+        "normalizedName": "Multi Grain Wrap"
+      },
+      {
+        "ingredient": "2 tablespoons Neufchatel cheese",
+        "searchTerm": "Neufchatel cheese",
+        "normalizedName": "Neufchatel Cheese"
+      },
+      {
+        "ingredient": "2 leaves romaine lettuce",
+        "searchTerm": "romaine lettuce",
+        "normalizedName": "Romaine Lettuce"
+      },
+      {
+        "ingredient": "1 cup fresh spinach",
+        "searchTerm": "fresh spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "6 slices deli sliced roast beef",
+        "searchTerm": "roast beef deli",
+        "normalizedName": "Roast Beef"
+      },
+      {
+        "ingredient": "2 slices reduced-fat Swiss cheese",
+        "searchTerm": "Swiss cheese reduced-fat",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "6 cherry tomatoes, halved",
+        "searchTerm": "cherry tomatoes",
+        "normalizedName": "Cherry Tomato"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Sharp knife",
+        "searchTerm": "serrated knife"
+      }
+    ],
+    "cookingTips": [
+      "Spread Neufchatel cheese thinly on wrap to act as a moisture barrier",
+      "Layer ingredients in order: lettuce, spinach, roast beef, cheese, tomatoes",
+      "Wrap tightly and cut diagonally for presentation"
+    ],
+    "coachingPrompt": "Help the user understand how to layer wraps for structural integrity and explain why Neufchatel cheese is a lighter choice than cream cheese."
+  },
+  "timestamp": "2026-02-05T23:41:38.112Z"
+}

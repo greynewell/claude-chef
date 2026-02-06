@@ -1,0 +1,62 @@
+{
+  "contentHash": "f29e102a05e84ca2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup ricotta cheese plus 2 tablespoons",
+        "searchTerm": "ricotta cheese",
+        "normalizedName": "Ricotta Cheese"
+      },
+      {
+        "ingredient": "½ cup skim milk",
+        "searchTerm": "skim milk",
+        "normalizedName": "Skim Milk"
+      },
+      {
+        "ingredient": "2 eggs, separated",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¾ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon canola oil",
+        "searchTerm": "canola oil",
+        "normalizedName": "Canola Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "griddle",
+        "searchTerm": "griddle"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Beat egg whites separately until stiff peaks form, then fold gently into batter for fluffy pancakes",
+      "Keep finished pancakes warm in a low oven while cooking remaining batches"
+    ],
+    "coachingPrompt": "Explain how whipped egg whites create airiness and why gentle folding preserves that texture."
+  },
+  "timestamp": "2026-02-06T20:39:38.693Z"
+}

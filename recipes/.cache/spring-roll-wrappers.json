@@ -1,0 +1,43 @@
+{
+  "contentHash": "f9e24d1664506458",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 tablespoon cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "nonstick skillet",
+        "searchTerm": "nonstick skillet"
+      },
+      {
+        "name": "bench scraper",
+        "searchTerm": "bench scraper"
+      }
+    ],
+    "cookingTips": [
+      "Keep dough covered and let rest 30 minutes for gluten relaxation",
+      "Use nonstick or lightly oiled skillet to prevent sticking",
+      "Stack finished wrappers between parchment paper while cooling"
+    ],
+    "coachingPrompt": "Teach the technique of cooking thin, delicate wrappers at the right temperature for proper texture."
+  },
+  "timestamp": "2026-02-06T19:20:05.159Z"
+}

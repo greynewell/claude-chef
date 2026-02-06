@@ -1,0 +1,53 @@
+{
+  "contentHash": "cce84bd4ba7567b8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound carrots, cut into 2 inch pieces",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 tablespoons butter, diced",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Cook carrots until tender-crisp before glazing",
+      "Stir frequently to prevent sticking",
+      "Brown sugar creates a caramelized coating when mixed with butter"
+    ],
+    "coachingPrompt": "Guide proper cooking time and glaze consistency for glazed carrots."
+  },
+  "timestamp": "2026-02-06T01:18:28.873Z"
+}

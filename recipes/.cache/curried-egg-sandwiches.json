@@ -1,0 +1,58 @@
+{
+  "contentHash": "b027f8894259a16e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 hard-cooked eggs, peeled and chopped",
+        "searchTerm": "hard-cooked eggs",
+        "normalizedName": "Hard-Cooked Egg"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon curry powder",
+        "searchTerm": "curry powder",
+        "normalizedName": "Curry Powder"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "8 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Use freshly boiled hard-cooked eggs for the best texture and flavor",
+      "Chop eggs finely and evenly for a uniform filling consistency",
+      "Add curry powder gradually, tasting as you go, since its potency varies by brand"
+    ],
+    "coachingPrompt": "Help the user create a quick, elegant sandwich filling by explaining how curry powder transforms simple egg salad into something more interesting."
+  },
+  "timestamp": "2026-02-06T04:51:44.429Z"
+}

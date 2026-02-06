@@ -1,0 +1,73 @@
+{
+  "contentHash": "1980fc3c1c50bc8e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup frozen orange juice concentrate, thawed and undiluted",
+        "searchTerm": "orange juice concentrate",
+        "normalizedName": "Orange Juice Concentrate"
+      },
+      {
+        "ingredient": "3 tablespoons fresh lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "¼ cup hoisin sauce",
+        "searchTerm": "hoisin sauce",
+        "normalizedName": "Hoisin Sauce"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "¼ cup sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 tablespoons minced peeled fresh ginger",
+        "searchTerm": "fresh ginger root",
+        "normalizedName": "Ginger"
+      },
+      {
+        "ingredient": "3 cloves fresh garlic, minced",
+        "searchTerm": "fresh garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 pounds chicken wings",
+        "searchTerm": "chicken wings",
+        "normalizedName": "Chicken Wing"
+      },
+      {
+        "ingredient": "3 medium green onions, thinly sliced",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "sheet pan"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "cooking tongs"
+      }
+    ],
+    "cookingTips": [
+      "Toss wings with sauce halfway through baking for even coating",
+      "Bake at 400°F for 40-45 minutes until wings are golden and crispy",
+      "Garnish with sliced green onions just before serving"
+    ],
+    "coachingPrompt": "Help the cook create sticky, glazed wings with bright citrus and warming ginger flavors."
+  },
+  "timestamp": "2026-02-06T07:29:02.477Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "f1528ab059275d75",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "8 ounces shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "⅛ cup bacon bits",
+        "searchTerm": "bacon bits",
+        "normalizedName": "Bacon Bit"
+      },
+      {
+        "ingredient": "1 (16 ounce) container sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep fryer or pot",
+        "searchTerm": "fryer"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "slotted spoon"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Dry potato skins thoroughly before frying to achieve crispy texture",
+      "Fry at 350°F for golden-brown skins without burning",
+      "Add cheese while skins are still hot so it melts evenly"
+    ],
+    "coachingPrompt": "How do we get crispy, golden potato skins that stay crunchy even after toppings are added?"
+  },
+  "timestamp": "2026-02-06T16:09:17.994Z"
+}

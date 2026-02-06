@@ -1,0 +1,42 @@
+{
+  "contentHash": "5d6ff5e98e7d2fb3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 cup water, or as needed",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (3 pound) roasted chicken (drippings from chicken)",
+        "searchTerm": "chicken drippings",
+        "normalizedName": "Chicken Drippings"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Measuring cups",
+        "searchTerm": "measuring cup"
+      }
+    ],
+    "cookingTips": [
+      "Create a roux with flour and chicken fat before adding liquid to prevent lumps",
+      "Whisk constantly while adding water to maintain smooth gravy consistency"
+    ],
+    "coachingPrompt": "Show me how to make a smooth gravy without lumps using the pan drippings"
+  },
+  "timestamp": "2026-02-06T17:49:04.650Z"
+}

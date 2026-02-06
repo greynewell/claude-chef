@@ -1,0 +1,73 @@
+{
+  "contentHash": "86e58b0ddfbfbd9c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 pounds chuck roast",
+        "searchTerm": "chuck roast",
+        "normalizedName": "Chuck Roast"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 packet dry onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 carrots, chopped",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 potatoes, peeled and cubed",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 stalk celery, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Sear the roast on all sides in a hot pan before slow cooking for deeper flavor",
+      "Chop vegetables consistently so they cook evenly",
+      "Add vegetables in the last 2 hours to prevent them from becoming mushy"
+    ],
+    "coachingPrompt": "What technique ensures the meat is fork-tender while vegetables stay intact?"
+  },
+  "timestamp": "2026-02-06T11:58:21.799Z"
+}

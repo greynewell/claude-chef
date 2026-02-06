@@ -1,0 +1,62 @@
+{
+  "contentHash": "fbc89a4a2b65ab95",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups heavy whipping cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Whipping Cream"
+      },
+      {
+        "ingredient": "1 ½ cups whole milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup brewed espresso, chilled",
+        "searchTerm": "brewed espresso",
+        "normalizedName": "Brewed Espresso"
+      },
+      {
+        "ingredient": "¼ cup chocolate syrup",
+        "searchTerm": "chocolate syrup",
+        "normalizedName": "Chocolate Syrup"
+      },
+      {
+        "ingredient": "¾ cup cocoa roast almonds, chopped",
+        "searchTerm": "cocoa roast almond",
+        "normalizedName": "Cocoa Roast Almond"
+      },
+      {
+        "ingredient": "4 ounces dark chocolate, chopped",
+        "searchTerm": "dark chocolate",
+        "normalizedName": "Dark Chocolate"
+      }
+    ],
+    "gear": [
+      {
+        "name": "ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Chill the cream mixture thoroughly before churning to achieve a smooth, creamy texture",
+      "Add nuts and chocolate pieces during the last few minutes of churning to prevent them from sinking"
+    ],
+    "coachingPrompt": "How will you balance the espresso and chocolate syrup flavors, and when should you add the almonds and chocolate?"
+  },
+  "timestamp": "2026-02-06T12:37:15.938Z"
+}

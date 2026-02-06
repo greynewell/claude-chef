@@ -1,0 +1,48 @@
+{
+  "contentHash": "b5b726d538daed1f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups seeded and chopped jalapeno pepper",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "2 (8 ounce) packages cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 pounds ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "8 hamburger buns, split",
+        "searchTerm": "hamburger buns",
+        "normalizedName": "Hamburger Bun"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "grill or skillet",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Mix jalapenos and cream cheese thoroughly before incorporating into beef",
+      "Form patties gently and evenly to ensure uniform cooking",
+      "Cook until internal temperature reaches 160°F for food safety"
+    ],
+    "coachingPrompt": "Show me how to make juicy hamburgers filled with creamy jalapeno and cheese."
+  },
+  "timestamp": "2026-02-06T04:15:10.450Z"
+}

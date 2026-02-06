@@ -1,0 +1,43 @@
+{
+  "contentHash": "16365905e91e65d2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ¼ cups durum wheat semolina flour",
+        "searchTerm": "semolina flour",
+        "normalizedName": "Semolina Flour"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "Cavatelli Maker or Ridged Surface",
+        "searchTerm": "cavatelli maker"
+      }
+    ],
+    "cookingTips": [
+      "Add water gradually as semolina absorbs differently than wheat flour",
+      "Knead until smooth and elastic, about 10 minutes",
+      "Use cavatelli maker or press dough with fork on ridged surface to create grooves for sauce"
+    ],
+    "coachingPrompt": "What makes semolina flour different from all-purpose flour? Why are the grooves in cavatelli important?"
+  },
+  "timestamp": "2026-02-06T09:11:17.021Z"
+}

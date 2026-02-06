@@ -1,0 +1,44 @@
+{
+  "contentHash": "7c6765a352faa3aa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ Granny Smith apple, cored",
+        "searchTerm": "Granny Smith apple",
+        "normalizedName": "Granny Smith Apple"
+      },
+      {
+        "ingredient": "3 green grapes, halved",
+        "searchTerm": "green grapes",
+        "normalizedName": "Green Grape"
+      },
+      {
+        "ingredient": "1 teaspoon cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "small plate",
+        "searchTerm": "plate"
+      },
+      {
+        "name": "butter knife",
+        "searchTerm": "butter knife"
+      }
+    ],
+    "cookingTips": [
+      "Use a tart green apple for best visual contrast and flavor",
+      "Halve grapes carefully to create realistic frog legs",
+      "Soften cream cheese slightly for easier spreading as frog glue"
+    ],
+    "coachingPrompt": "Help the user create an engaging snack by arranging apple and fruit pieces into a frog shape using cream cheese as an adhesive."
+  },
+  "timestamp": "2026-02-05T22:13:41.944Z"
+}

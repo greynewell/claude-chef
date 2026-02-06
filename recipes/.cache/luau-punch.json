@@ -1,0 +1,42 @@
+{
+  "contentHash": "d19cefe3946ad4d2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (46 fluid ounce) can pineapple juice",
+        "searchTerm": "pineapple juice",
+        "normalizedName": "Pineapple Juice"
+      },
+      {
+        "ingredient": "1 (6 ounce) can frozen orange juice concentrate, thawed",
+        "searchTerm": "frozen orange juice concentrate",
+        "normalizedName": "Frozen Orange Juice Concentrate"
+      },
+      {
+        "ingredient": "2 liters lemon-lime flavored carbonated beverage",
+        "searchTerm": "lemon lime soda",
+        "normalizedName": "Lemon-Lime Soda"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large punch bowl",
+        "searchTerm": "punch bowl"
+      },
+      {
+        "name": "Ladle",
+        "searchTerm": "ladle"
+      },
+      {
+        "name": "Ice bucket",
+        "searchTerm": "ice bucket"
+      }
+    ],
+    "cookingTips": [
+      "Add carbonated beverage just before serving to maintain fizz",
+      "Freeze pineapple chunks in ice molds to chill without diluting"
+    ],
+    "coachingPrompt": "How can you enhance this simple punch with presentation and temperature management?"
+  },
+  "timestamp": "2026-02-06T11:39:09.590Z"
+}

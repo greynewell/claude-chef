@@ -1,0 +1,63 @@
+{
+  "contentHash": "9b6cec4ec8012aa3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ avocado, peeled and pitted",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "¼ cup chopped green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 teaspoon prepared yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      },
+      {
+        "ingredient": "¼ teaspoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Add avocado just before serving to prevent browning",
+      "Use hard-boiled eggs at room temperature",
+      "Adjust mustard and seasonings to taste"
+    ],
+    "coachingPrompt": "How can you prevent avocado from browning and maintain freshness in this salad?"
+  },
+  "timestamp": "2026-02-06T11:23:19.523Z"
+}

@@ -1,0 +1,62 @@
+{
+  "contentHash": "661f13f6f2500bfc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 (.25 ounce) package active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "2 tablespoons molasses",
+        "searchTerm": "molasses",
+        "normalizedName": "Molasses"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "7 ½ cups rye flour, divided",
+        "searchTerm": "rye flour",
+        "normalizedName": "Rye Flour"
+      },
+      {
+        "ingredient": "1 tablespoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 tablespoons caraway seed",
+        "searchTerm": "caraway seed",
+        "normalizedName": "Caraway Seed"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "stand mixer or spoon",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "loaf pan",
+        "searchTerm": "loaf pan"
+      }
+    ],
+    "cookingTips": [
+      "Warm milk to 110°F before adding yeast to activate it properly",
+      "Rye dough is denser than wheat; expect slower rising and denser crumb"
+    ],
+    "coachingPrompt": "I'm baking rye bread with molasses and caraway seeds. What temperature should the milk be and how long should it rise?"
+  },
+  "timestamp": "2026-02-06T21:02:53.899Z"
+}

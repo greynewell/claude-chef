@@ -1,0 +1,43 @@
+{
+  "contentHash": "4d68ac051338790d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 naan bread",
+        "searchTerm": "naan bread",
+        "normalizedName": "Naan Bread"
+      },
+      {
+        "ingredient": "1 slice ham, or to taste",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "1 slice Cheddar cheese, or to taste",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet or griddle",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Layer ham and cheese on naan before heating for even melting",
+      "Heat on griddle or skillet over medium heat for 2-3 minutes until cheese melts",
+      "Fold naan in half or cut into pieces for easy serving as a sandwich"
+    ],
+    "coachingPrompt": "This is a simple ham and cheese naan sandwich. Would you prefer a crispy exterior or soft texture? Do you want suggestions for additional toppings or serving accompaniments?"
+  },
+  "timestamp": "2026-02-06T13:05:48.698Z"
+}

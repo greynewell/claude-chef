@@ -1,0 +1,58 @@
+{
+  "contentHash": "e278a2a0849445b5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound leftover ham bone with meat attached",
+        "searchTerm": "ham bone",
+        "normalizedName": "Ham Bone"
+      },
+      {
+        "ingredient": "1 cup chopped onions",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 teaspoons freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pound dried split peas",
+        "searchTerm": "split peas",
+        "normalizedName": "Split Pea"
+      },
+      {
+        "ingredient": "1 cup chopped carrots",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "Use freshly ground black pepper for better flavor than pre-ground",
+      "Add vegetables at different times so they cook at appropriate rates",
+      "Strain soup and blend if a creamier texture is preferred"
+    ],
+    "coachingPrompt": "Help the cook build flavor through layering aromatics and manage cook times for tender vegetables in a hearty soup."
+  },
+  "timestamp": "2026-02-06T19:19:04.839Z"
+}

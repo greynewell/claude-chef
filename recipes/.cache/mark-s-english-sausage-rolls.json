@@ -1,0 +1,47 @@
+{
+  "contentHash": "0b2916274690b37b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package pork sausagemeat",
+        "searchTerm": "pork sausagemeat",
+        "normalizedName": "Pork Sausagemeat"
+      },
+      {
+        "ingredient": "1 (17.25 ounce) package frozen puff pastry sheets, thawed",
+        "searchTerm": "puff pastry",
+        "normalizedName": "Puff Pastry"
+      },
+      {
+        "ingredient": "¼ cup Dijon mustard",
+        "searchTerm": "dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "1 beaten egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Keep puff pastry thawed but cold; work quickly to prevent pastry from becoming warm and difficult to handle",
+      "The Dijon mustard layer prevents pastry from becoming soggy and adds a tangy element to balance rich sausage"
+    ],
+    "coachingPrompt": "Guide the user through wrapping sausage in pastry with proper sealing technique and how an egg wash creates a beautiful golden finish."
+  },
+  "timestamp": "2026-02-06T12:01:25.713Z"
+}

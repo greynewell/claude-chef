@@ -1,0 +1,43 @@
+{
+  "contentHash": "2632ab40ad4b545e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 ounces red grape tomatoes, halved",
+        "searchTerm": "grape tomatoes",
+        "normalizedName": "Grape Tomato"
+      },
+      {
+        "ingredient": "¼ teaspoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Parchment Paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cut tomatoes uniformly for consistent drying time",
+      "Use minimal oil to prevent pooling and achieve a concentrated flavor",
+      "Check progress frequently as drying time varies by tomato size"
+    ],
+    "coachingPrompt": "Guide the user on achieving the right balance between soft-dried and fully dehydrated tomatoes based on their preference."
+  },
+  "timestamp": "2026-02-05T21:47:32.521Z"
+}

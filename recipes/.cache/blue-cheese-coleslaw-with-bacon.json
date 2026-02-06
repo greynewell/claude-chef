@@ -1,0 +1,59 @@
+{
+  "contentHash": "186582d4943f8068",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup blue cheese salad dressing",
+        "searchTerm": "blue cheese dressing",
+        "normalizedName": "Blue Cheese Dressing"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (16 ounce) bag coleslaw mix",
+        "searchTerm": "coleslaw mix",
+        "normalizedName": "Coleslaw Mix"
+      },
+      {
+        "ingredient": "1 (2.5 ounce) package cooked real bacon pieces",
+        "searchTerm": "bacon pieces",
+        "normalizedName": "Bacon Piece"
+      },
+      {
+        "ingredient": "1 cup quartered cherry tomatoes",
+        "searchTerm": "cherry tomatoes",
+        "normalizedName": "Cherry Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "large mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Mix dressing with mayonnaise before adding to vegetables for creamy consistency",
+      "Add bacon pieces just before serving to prevent them from becoming soggy",
+      "Refrigerate for at least 30 minutes before serving for better flavor development"
+    ],
+    "coachingPrompt": "When should you add the bacon pieces to the coleslaw?"
+  },
+  "timestamp": "2026-02-06T00:18:58.191Z"
+}

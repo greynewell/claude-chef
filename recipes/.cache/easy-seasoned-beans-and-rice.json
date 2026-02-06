@@ -1,0 +1,58 @@
+{
+  "contentHash": "a193227d091161aa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ¾ cups Swanson® Chicken Broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "½ teaspoon ground cumin",
+        "searchTerm": "ground cumin",
+        "normalizedName": "Ground Cumin"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 medium onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 small green pepper, chopped",
+        "searchTerm": "green pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "¾ cup uncooked regular long-grain white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "1 (15 ounce) can kidney beans, rinsed and drained",
+        "searchTerm": "kidney beans",
+        "normalizedName": "Kidney Bean"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Rinse rice briefly before cooking to remove excess starch",
+      "Add beans near the end to prevent them from breaking down"
+    ],
+    "coachingPrompt": "Guide the user on proper rice-to-liquid ratio and suggest bringing to a boil before reducing heat for even cooking."
+  },
+  "timestamp": "2026-02-06T05:59:34.206Z"
+}

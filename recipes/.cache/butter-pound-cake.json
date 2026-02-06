@@ -1,0 +1,63 @@
+{
+  "contentHash": "2a0882e45a0edd33",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "6 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "3 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 pint heavy whipping cream",
+        "searchTerm": "heavy whipping cream",
+        "normalizedName": "Heavy Whipping Cream"
+      },
+      {
+        "ingredient": "1 tablespoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 teaspoons lemon extract",
+        "searchTerm": "lemon extract",
+        "normalizedName": "Lemon Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Loaf Pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "Electric Mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "Wire Rack",
+        "searchTerm": "cooling rack"
+      }
+    ],
+    "cookingTips": [
+      "Cream butter and sugar for 3-5 minutes until light and fluffy to incorporate air",
+      "Add eggs one at a time, beating well after each addition",
+      "Do not overmix batter once flour is added to prevent dense cake"
+    ],
+    "coachingPrompt": "What is the proper technique for creating a light, tender crumb in traditional pound cake?"
+  },
+  "timestamp": "2026-02-06T00:59:42.655Z"
+}

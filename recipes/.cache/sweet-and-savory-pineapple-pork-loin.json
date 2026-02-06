@@ -1,0 +1,58 @@
+{
+  "contentHash": "1afe142d88a77f9a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 tablespoon Dijon mustard",
+        "searchTerm": "dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ (3 pound) pork loin",
+        "searchTerm": "pork loin",
+        "normalizedName": "Pork Loin"
+      },
+      {
+        "ingredient": "½ (8 ounce) can pineapple chunks",
+        "searchTerm": "pineapple chunks canned",
+        "normalizedName": "Pineapple"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Roasting Pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Basting Brush",
+        "searchTerm": "basting brush"
+      }
+    ],
+    "cookingTips": [
+      "Sear the pork loin before roasting to develop a golden crust",
+      "Use a meat thermometer to ensure the internal temperature reaches 145°F",
+      "Let the pork rest for 5-10 minutes after cooking before slicing"
+    ],
+    "coachingPrompt": "Guide the user on how to balance honey sweetness with Dijon mustard's tang for the perfect glaze."
+  },
+  "timestamp": "2026-02-06T19:58:42.450Z"
+}

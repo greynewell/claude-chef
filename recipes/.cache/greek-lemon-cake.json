@@ -1,0 +1,73 @@
+{
+  "contentHash": "3ed2f851b4c1cb80",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups cake flour",
+        "searchTerm": "cake flour",
+        "normalizedName": "Cake Flour"
+      },
+      {
+        "ingredient": "1 teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "6 eggs, separated",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 cups white sugar, divided",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 teaspoons grated lemon zest",
+        "searchTerm": "lemon zest",
+        "normalizedName": "Lemon Zest"
+      },
+      {
+        "ingredient": "2 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 cup plain whole-milk yogurt",
+        "searchTerm": "yogurt",
+        "normalizedName": "Yogurt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixer or whisk",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "cake pan",
+        "searchTerm": "cake pan"
+      },
+      {
+        "name": "microplane zester",
+        "searchTerm": "zester"
+      }
+    ],
+    "cookingTips": [
+      "Separate eggs when cold, then bring to room temperature before beating for maximum volume",
+      "Use freshly grated lemon zest for intense flavor—avoid pre-packaged zest",
+      "Alternate adding dry ingredients and yogurt to maintain batter consistency"
+    ],
+    "coachingPrompt": "Guide the user through properly whipping egg whites and folding them gently into the batter without deflating."
+  },
+  "timestamp": "2026-02-06T08:01:18.202Z"
+}

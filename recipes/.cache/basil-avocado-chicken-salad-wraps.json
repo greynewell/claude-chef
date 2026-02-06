@@ -1,0 +1,72 @@
+{
+  "contentHash": "493cc83bf33a2ca7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ripe avocados",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 lime, juiced",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "½ teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 cups chopped cooked chicken",
+        "searchTerm": "cooked chicken",
+        "normalizedName": "Chicken"
+      },
+      {
+        "ingredient": "¼ cup raisins",
+        "searchTerm": "raisin",
+        "normalizedName": "Raisin"
+      },
+      {
+        "ingredient": "¼ cup chopped walnuts",
+        "searchTerm": "walnut",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "2 heads Bibb lettuce",
+        "searchTerm": "bibb lettuce",
+        "normalizedName": "Bibb Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Toss avocado with lime juice immediately after mashing to prevent browning",
+      "Assemble wraps just before serving to keep lettuce leaves crisp and prevent sogginess"
+    ],
+    "coachingPrompt": "Will you prepare this ahead? If so, keep avocado and lime juice separate until service."
+  },
+  "timestamp": "2026-02-05T23:34:21.978Z"
+}

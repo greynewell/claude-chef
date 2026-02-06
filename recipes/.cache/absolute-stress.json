@@ -1,0 +1,53 @@
+{
+  "contentHash": "150cba86311d532d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 fluid ounce vodka",
+        "searchTerm": "vodka",
+        "normalizedName": "Vodka"
+      },
+      {
+        "ingredient": "1 fluid ounce dark rum",
+        "searchTerm": "dark rum",
+        "normalizedName": "Dark Rum"
+      },
+      {
+        "ingredient": "1 fluid ounce peach schnapps",
+        "searchTerm": "peach schnapps",
+        "normalizedName": "Peach Schnapps"
+      },
+      {
+        "ingredient": "1 fluid ounce orange juice",
+        "searchTerm": "orange juice",
+        "normalizedName": "Orange Juice"
+      },
+      {
+        "ingredient": "1 fluid ounce cranberry juice",
+        "searchTerm": "cranberry juice",
+        "normalizedName": "Cranberry Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cocktail shaker",
+        "searchTerm": "cocktail shaker"
+      },
+      {
+        "name": "Jigger",
+        "searchTerm": "jigger measure"
+      },
+      {
+        "name": "Highball glass",
+        "searchTerm": "highball glass"
+      }
+    ],
+    "cookingTips": [
+      "Shake vigorously with ice for 10-15 seconds to properly chill and combine",
+      "Strain into ice-filled glass for smooth, cold cocktail",
+      "Garnish with orange wheel or cherry for visual appeal"
+    ],
+    "coachingPrompt": "Guide me through measuring, shaking, and straining this cocktail with proper technique."
+  },
+  "timestamp": "2026-02-05T21:32:44.695Z"
+}

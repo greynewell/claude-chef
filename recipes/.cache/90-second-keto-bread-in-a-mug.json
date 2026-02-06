@@ -1,0 +1,53 @@
+{
+  "contentHash": "b5434173c40d3e02",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "⅓ cup blanched almond flour",
+        "searchTerm": "almond flour",
+        "normalizedName": "Almond Flour"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ teaspoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Microwave-safe mug",
+        "searchTerm": "microwave mug"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Blanched almond flour produces a lighter, fluffier result",
+      "Don't overfill the mug as the bread will rise during cooking",
+      "Let cool for 30 seconds before eating to set properly"
+    ],
+    "coachingPrompt": "Help me combine the ingredients smoothly and time the microwave cooking for perfect texture."
+  },
+  "timestamp": "2026-02-05T21:30:03.108Z"
+}

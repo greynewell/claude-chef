@@ -1,0 +1,57 @@
+{
+  "contentHash": "0c8288957a856459",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 ounces dry bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "2 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "¾ (16 ounce) jar spaghetti sauce",
+        "searchTerm": "spaghetti sauce",
+        "normalizedName": "Spaghetti Sauce"
+      },
+      {
+        "ingredient": "2 ounces shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Shallow Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking Dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "frying pan"
+      }
+    ],
+    "cookingTips": [
+      "Bread chicken breasts by dipping in egg then coating evenly with bread crumbs",
+      "Layer sauce between breaded chicken and cheese for even heating and melting"
+    ],
+    "coachingPrompt": "What's the best way to layer this dish so everything cooks evenly and the cheese gets perfectly melted?"
+  },
+  "timestamp": "2026-02-06T02:37:48.280Z"
+}

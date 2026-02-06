@@ -1,0 +1,72 @@
+{
+  "contentHash": "712ff8f37630cf6a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 cup pastry flour",
+        "searchTerm": "pastry flour",
+        "normalizedName": "Pastry Flour"
+      },
+      {
+        "ingredient": "1 cup warm water (110 degrees F/45 degrees C)",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 teaspoon active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "1 tablespoon applesauce",
+        "searchTerm": "applesauce",
+        "normalizedName": "Applesauce"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ½ teaspoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Stand Mixer",
+        "searchTerm": "stand mixer"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Rolling Pin",
+        "searchTerm": "rolling pin"
+      }
+    ],
+    "cookingTips": [
+      "Use water at exactly 110°F to activate yeast properly without killing it",
+      "Let dough rise in a warm, draft-free place for 1-2 hours until doubled",
+      "Bake on the lowest oven rack at 475°F for puffed, hollow pita bread"
+    ],
+    "coachingPrompt": "Guide the user through proper yeast activation and achieving the signature pita pocket structure."
+  },
+  "timestamp": "2026-02-06T14:52:12.377Z"
+}

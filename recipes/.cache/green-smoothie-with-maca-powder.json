@@ -1,0 +1,63 @@
+{
+  "contentHash": "5aed12e6ddb1a971",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups chopped frozen pineapple",
+        "searchTerm": "frozen pineapple",
+        "normalizedName": "Frozen Pineapple"
+      },
+      {
+        "ingredient": "1 cup fresh spinach",
+        "searchTerm": "fresh spinach",
+        "normalizedName": "Fresh Spinach"
+      },
+      {
+        "ingredient": "1 frozen chopped banana",
+        "searchTerm": "frozen banana",
+        "normalizedName": "Frozen Banana"
+      },
+      {
+        "ingredient": "½ avocado",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "2 tablespoons almond butter",
+        "searchTerm": "almond butter",
+        "normalizedName": "Almond Butter"
+      },
+      {
+        "ingredient": "1 teaspoon maca powder",
+        "searchTerm": "maca powder",
+        "normalizedName": "Maca Powder"
+      },
+      {
+        "ingredient": "3 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      },
+      {
+        "name": "serving glasses",
+        "searchTerm": "glasses"
+      }
+    ],
+    "cookingTips": [
+      "Freeze banana and pineapple ahead of time for a thick, creamy smoothie consistency",
+      "Add spinach in smaller handfuls and blend between additions to prevent chunks from accumulating",
+      "Use frozen fruit instead of ice to keep the smoothie from becoming watered down"
+    ],
+    "coachingPrompt": "Encourage the user to blend greens first with liquid, then add frozen fruit, for the smoothest texture."
+  },
+  "timestamp": "2026-02-06T08:08:33.010Z"
+}

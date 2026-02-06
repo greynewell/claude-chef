@@ -1,4 +1,4 @@
-import { ParsedRecipe, RecipeJsonLd, HowToStep, BreadcrumbJsonLd, WebSiteJsonLd, ItemListJsonLd, CollectionPageJsonLd, TaxonomyType, TaxonomyDescriptions, TaxonomyEntry, Taxonomy } from '../types';
+import { ParsedRecipe, RecipeJsonLd, HowToStep, BreadcrumbJsonLd, WebSiteJsonLd, ItemListJsonLd, CollectionPageJsonLd, TaxonomyType, TaxonomyDescriptions, TaxonomyEntry, Taxonomy, FAQ } from '../types';
 import { toSlug } from './taxonomy';
 
 const BRANDED_KEYWORDS = ['Claude Chef', 'AI Cooking', 'Home Cooking'];
@@ -277,5 +277,26 @@ export function generateHubBreadcrumbJsonLd(
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: items,
+  };
+}
+
+/**
+ * Generate FAQPage JSON-LD structured data for recipe FAQs.
+ * See: https://schema.org/FAQPage
+ */
+export function generateFAQPageJsonLd(faqs: FAQ[]): object | null {
+  if (!faqs || faqs.length === 0) return null;
+
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map(faq => ({
+      '@type': 'Question',
+      name: faq.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: faq.answer,
+      },
+    })),
   };
 }

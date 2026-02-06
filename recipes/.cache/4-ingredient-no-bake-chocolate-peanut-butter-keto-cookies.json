@@ -1,0 +1,48 @@
+{
+  "contentHash": "52e2650b5624f06b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups peanut butter",
+        "searchTerm": "natural peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "½ cup yacon syrup",
+        "searchTerm": "yacon syrup",
+        "normalizedName": "Yacon Syrup"
+      },
+      {
+        "ingredient": "¾ cup coconut flour",
+        "searchTerm": "coconut flour",
+        "normalizedName": "Coconut Flour"
+      },
+      {
+        "ingredient": "2 cups vegan chocolate chips",
+        "searchTerm": "vegan chocolate chips",
+        "normalizedName": "Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "rubber spatula"
+      },
+      {
+        "name": "Refrigerator",
+        "searchTerm": "refrigerator"
+      }
+    ],
+    "cookingTips": [
+      "Mix peanut butter and syrup thoroughly before adding coconut flour to avoid lumps",
+      "Melt chocolate chips in short microwave bursts, stirring between each to prevent scorching",
+      "Refrigerate mixture for at least 1 hour for easier handling and shaping"
+    ],
+    "coachingPrompt": "Walk me through the no-bake process including mixing, melting chocolate, and setting time"
+  },
+  "timestamp": "2026-02-05T21:28:54.996Z"
+}

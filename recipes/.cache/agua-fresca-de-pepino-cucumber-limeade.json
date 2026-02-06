@@ -1,0 +1,48 @@
+{
+  "contentHash": "562dabe440c5fb09",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 cups water, or to taste",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 cucumbers, peeled and chopped",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "½ cup freshly squeezed lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "¼ cup granular sucralose sweetener",
+        "searchTerm": "sucralose sweetener",
+        "normalizedName": "Sucralose Sweetener"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Strainer",
+        "searchTerm": "fine mesh strainer"
+      },
+      {
+        "name": "Pitcher",
+        "searchTerm": "serving pitcher"
+      }
+    ],
+    "cookingTips": [
+      "Blend cucumbers with a small amount of water first, then strain through cheesecloth for smoothness",
+      "Use fresh limes for best flavor; adjust sweetness gradually",
+      "Serve immediately over ice for optimal freshness and temperature"
+    ],
+    "coachingPrompt": "Guide me through blending and straining cucumber limeade for a smooth, refreshing drink"
+  },
+  "timestamp": "2026-02-05T21:35:52.354Z"
+}

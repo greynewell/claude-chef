@@ -1,0 +1,62 @@
+{
+  "contentHash": "79aebc31c90d2055",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups warm water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "7 tablespoons sourdough starter discard",
+        "searchTerm": "sourdough starter",
+        "normalizedName": "Sourdough Starter"
+      },
+      {
+        "ingredient": "1 ½ teaspoons active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "2 cups whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "2 cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "1 ¾ teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Stand Mixer",
+        "searchTerm": "stand mixer"
+      },
+      {
+        "name": "Loaf Pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Use sourdough discard at room temperature for best results",
+      "Allow dough to rise in a warm, draft-free location for 1-2 hours until doubled",
+      "Score the top of the loaf before baking for better oven spring"
+    ],
+    "coachingPrompt": "What role does the sourdough starter play in flavor development compared to using only commercial yeast?"
+  },
+  "timestamp": "2026-02-06T18:37:33.171Z"
+}

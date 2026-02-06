@@ -1,0 +1,53 @@
+{
+  "contentHash": "5865d62fd7d48cfd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 cloves garlic, crushed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "¼ cup Italian-seasoned bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "shallow baking dish",
+        "searchTerm": "shallow baking dish"
+      },
+      {
+        "name": "large skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Crush garlic and let sit for 10 minutes before cooking to develop full flavor potential",
+      "Brown chicken in oil before finishing in the oven to develop crust and ensure doneness",
+      "Use a meat thermometer to ensure internal temperature reaches 165°F"
+    ],
+    "coachingPrompt": "What's the benefit of crushing garlic and letting it sit before cooking?"
+  },
+  "timestamp": "2026-02-06T07:17:37.594Z"
+}

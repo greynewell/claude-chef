@@ -1,0 +1,58 @@
+{
+  "contentHash": "eb252e307b48f5a4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (20 ounce) package chocolate sandwich cookies",
+        "searchTerm": "chocolate sandwich cookies",
+        "normalizedName": "Chocolate Sandwich Cookie"
+      },
+      {
+        "ingredient": "½ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 (3.5 ounce) packages instant vanilla pudding mix",
+        "searchTerm": "vanilla pudding mix",
+        "normalizedName": "Instant Vanilla Pudding Mix"
+      },
+      {
+        "ingredient": "3 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (8 ounce) container frozen whipped topping, thawed",
+        "searchTerm": "whipped topping",
+        "normalizedName": "Whipped Topping"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "9x13 baking dish",
+        "searchTerm": "baking dish"
+      }
+    ],
+    "cookingTips": [
+      "Use melted butter to bind crushed cookies together for a more cohesive base layer",
+      "Press the cookie mixture firmly into the dish to create a stable foundation",
+      "Fold whipped topping gently into pudding mixture to maintain airy texture"
+    ],
+    "coachingPrompt": "How would you create distinct layers to make this dessert visually interesting?"
+  },
+  "timestamp": "2026-02-06T05:17:06.451Z"
+}

@@ -1,0 +1,68 @@
+{
+  "contentHash": "e6fd494b02d9eb88",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "white wine",
+        "searchTerm": "white wine",
+        "normalizedName": "White Wine"
+      },
+      {
+        "ingredient": "white clam sauce",
+        "searchTerm": "clam sauce",
+        "normalizedName": "Clam Sauce"
+      },
+      {
+        "ingredient": "crushed red pepper",
+        "searchTerm": "red pepper flake",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "pasta",
+        "searchTerm": "pasta",
+        "normalizedName": "Pasta"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use quality clam sauce as the base for authentic flavor",
+      "Don't overcook pasta; serve al dente with sauce",
+      "Add heat gradually with red pepper flakes to taste"
+    ],
+    "coachingPrompt": "Are you familiar with clam sauce dishes? Would you like suggestions for pasta shapes that work well with this sauce?"
+  },
+  "timestamp": "2026-02-06T14:17:55.573Z"
+}

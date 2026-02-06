@@ -1,0 +1,53 @@
+{
+  "contentHash": "c6e29fc5be0ea318",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 very ripe bananas",
+        "searchTerm": "bananas",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "2 cups rolled oats",
+        "searchTerm": "rolled oats",
+        "normalizedName": "Oat"
+      },
+      {
+        "ingredient": "1 cup raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      },
+      {
+        "ingredient": "⅓ cup plain yogurt",
+        "searchTerm": "yogurt",
+        "normalizedName": "Yogurt"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "These are naturally sweetened - use very ripe bananas",
+      "Press cookies gently onto baking sheet to prevent spreading",
+      "Store in airtight container for up to 5 days"
+    ],
+    "coachingPrompt": "This is a healthier cookie option. Would you like to add any mix-ins like nuts or coconut?"
+  },
+  "timestamp": "2026-02-05T23:20:59.254Z"
+}

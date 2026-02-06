@@ -1,0 +1,48 @@
+{
+  "contentHash": "ca97399e65cf0706",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (6 pound) fully-cooked, bone-in ham",
+        "searchTerm": "bone-in ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "1 fresh pineapple",
+        "searchTerm": "fresh pineapple",
+        "normalizedName": "Pineapple"
+      },
+      {
+        "ingredient": "2 (6 ounce) cans pineapple juice",
+        "searchTerm": "pineapple juice",
+        "normalizedName": "Pineapple Juice"
+      },
+      {
+        "ingredient": "1 cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Roasting Pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "Basting Brush",
+        "searchTerm": "basting brush"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Score the ham's surface in a crosshatch pattern to allow the glaze to penetrate",
+      "Baste the ham every 15 minutes during cooking for a glossy, caramelized finish",
+      "Use fresh pineapple chunks as garnish after cooking for visual appeal"
+    ],
+    "coachingPrompt": "Guide the cook through scoring techniques and the importance of frequent basting for glazed meats."
+  },
+  "timestamp": "2026-02-06T00:48:57.934Z"
+}

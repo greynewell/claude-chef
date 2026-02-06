@@ -1,0 +1,68 @@
+{
+  "contentHash": "a60ae9f9d8fdaf5f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ pound extra lean ground beef",
+        "searchTerm": "extra lean ground beef",
+        "normalizedName": "Extra Lean Ground Beef"
+      },
+      {
+        "ingredient": "2 (1 ounce) slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 slices mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "2 slices ham",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "1 slice fresh tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Cook ground beef until browned and crumbled, breaking up as it cooks",
+      "Fry egg to desired doneness - over easy works best for sandwiches",
+      "Layer ingredients in order: bread, sauce, beef, cheese, ham, tomato, egg"
+    ],
+    "coachingPrompt": "What order should you layer ingredients in for the best flavor and structural integrity?"
+  },
+  "timestamp": "2026-02-06T19:50:31.440Z"
+}

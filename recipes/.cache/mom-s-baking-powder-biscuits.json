@@ -1,0 +1,53 @@
+{
+  "contentHash": "6fa2dd340d5a3863",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 ½ teaspoons baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "¾ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "5 tablespoons shortening",
+        "searchTerm": "shortening",
+        "normalizedName": "Shortening"
+      },
+      {
+        "ingredient": "¾ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "biscuit cutter",
+        "searchTerm": "biscuit cutter"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Keep shortening and milk cold to create flaky layers",
+      "Don't overwork the dough—handle it minimally after mixing",
+      "Cut biscuits straight down without twisting to encourage rising"
+    ],
+    "coachingPrompt": "Guide the user through creating tender, flaky biscuits by understanding the importance of cold ingredients and gentle handling."
+  },
+  "timestamp": "2026-02-06T12:41:18.143Z"
+}

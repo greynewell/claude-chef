@@ -1,0 +1,78 @@
+{
+  "contentHash": "5ec506fc22333928",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) package jumbo pasta shells",
+        "searchTerm": "jumbo pasta shells",
+        "normalizedName": "Jumbo Pasta Shell"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (32 ounce) container ricotta cheese",
+        "searchTerm": "ricotta cheese",
+        "normalizedName": "Ricotta Cheese"
+      },
+      {
+        "ingredient": "1 pound shredded mozzarella cheese, divided",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "8 ounces grated Parmesan cheese, divided",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon dried parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (28 ounce) jar pasta sauce",
+        "searchTerm": "pasta sauce",
+        "normalizedName": "Pasta Sauce"
+      },
+      {
+        "ingredient": "8 ounces sliced fresh mushrooms",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      }
+    ],
+    "cookingTips": [
+      "Combine ricotta and eggs gently to avoid overworking the mixture",
+      "Reserve some mozzarella and Parmesan for topping before mixing filling",
+      "Layer sauce on bottom of dish, add stuffed shells, then top with remaining sauce and reserved cheese"
+    ],
+    "coachingPrompt": "Guide the user on how to fold cheeses together properly and how to prevent the dish from drying out during baking."
+  },
+  "timestamp": "2026-02-06T19:42:27.509Z"
+}

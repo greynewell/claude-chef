@@ -1,0 +1,52 @@
+{
+  "contentHash": "e6aaa372dbf51828",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup bottled Bloody Mary mix",
+        "searchTerm": "Bloody Mary mix",
+        "normalizedName": "Bloody Mary Mix"
+      },
+      {
+        "ingredient": "1 tablespoon hot pepper sauce",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      },
+      {
+        "ingredient": "1 lemon, juiced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "2 pounds large shrimp, peeled and deveined",
+        "searchTerm": "large shrimp",
+        "normalizedName": "Large Shrimp"
+      },
+      {
+        "ingredient": "2 pounds halibut fillets, cubed",
+        "searchTerm": "halibut fillets",
+        "normalizedName": "Halibut Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "Citrus Juicer",
+        "searchTerm": "citrus juicer"
+      }
+    ],
+    "cookingTips": [
+      "Cook shrimp and halibut separately or add shrimp after halibut since they cook at different rates",
+      "Don't overcrowd the pan; cook in batches for better browning and even cooking"
+    ],
+    "coachingPrompt": "This seafood mixture combines shrimp and halibut in a spicy Bloody Mary sauce. How will you manage the different cooking times for these two proteins?"
+  },
+  "timestamp": "2026-02-06T00:18:08.959Z"
+}

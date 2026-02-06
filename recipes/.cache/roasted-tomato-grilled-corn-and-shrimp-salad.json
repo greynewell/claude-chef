@@ -1,0 +1,77 @@
+{
+  "contentHash": "9dbc1886d8c7e6ea",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "Marie's® Roasted Tomato with Parmesan & Basil Vinaigrette",
+        "searchTerm": "roasted tomato vinaigrette",
+        "normalizedName": "Roasted Tomato Vinaigrette"
+      },
+      {
+        "ingredient": "8 large shrimp, peeled and deveined, or more to taste",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "Skewers (if wooden, soak in water the night before)",
+        "searchTerm": "skewers",
+        "normalizedName": "Skewer"
+      },
+      {
+        "ingredient": "2 ears corn, husks removed",
+        "searchTerm": "corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "1 zucchini, sliced",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "3 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ cup cherry tomatoes, halved",
+        "searchTerm": "cherry tomatoes",
+        "normalizedName": "Cherry Tomato"
+      },
+      {
+        "ingredient": "¼ cup red onion, diced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "¼ cup crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "Basil leaves for garnish",
+        "searchTerm": "basil",
+        "normalizedName": "Basil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill or grill pan",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "skewers",
+        "searchTerm": "metal skewers"
+      },
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Soak wooden skewers for 30 minutes before grilling to prevent burning",
+      "Grill corn and vegetables for char marks, don't overcook shrimp"
+    ],
+    "coachingPrompt": "Help the cook coordinate timing between grilled components and avoid overcooking delicate shrimp."
+  },
+  "timestamp": "2026-02-06T16:29:36.642Z"
+}

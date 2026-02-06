@@ -1,0 +1,48 @@
+{
+  "contentHash": "2ab04ddc9a629871",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 sweet potatoes, peeled and cubed",
+        "searchTerm": "sweet potatoes",
+        "normalizedName": "Sweet Potato"
+      },
+      {
+        "ingredient": "¾ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¾ cup maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Potato Masher",
+        "searchTerm": "potato masher"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Boil sweet potato cubes until very tender, about 12-15 minutes",
+      "Drain thoroughly and return to warm pot to evaporate excess moisture",
+      "Warm milk and butter together before stirring in for creamier texture"
+    ],
+    "coachingPrompt": "Guide the user through boiling sweet potatoes until very soft, draining, and mashing with warm butter, milk, and maple syrup."
+  },
+  "timestamp": "2026-02-06T12:05:02.254Z"
+}

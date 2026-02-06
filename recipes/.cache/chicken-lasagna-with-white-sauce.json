@@ -1,0 +1,77 @@
+{
+  "contentHash": "5f48b7d9d9d4c2d3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "2 (10.75 ounce) cans condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 ½ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 pint part-skim ricotta cheese",
+        "searchTerm": "ricotta cheese",
+        "normalizedName": "Ricotta Cheese"
+      },
+      {
+        "ingredient": "12 lasagne noodles, cooked and drained",
+        "searchTerm": "lasagne noodles",
+        "normalizedName": "Lasagne Noodle"
+      },
+      {
+        "ingredient": "2 cups diced, cooked chicken meat",
+        "searchTerm": "cooked chicken",
+        "normalizedName": "Chicken Meat"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 inch baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Large bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Pot for cooking noodles",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Grater",
+        "searchTerm": "grater"
+      }
+    ],
+    "cookingTips": [
+      "Drain spinach thoroughly to prevent excess moisture in layers",
+      "Layer ingredients starting with sauce to prevent noodles from sticking to bottom",
+      "Cover with foil while baking to prevent cheese from browning too quickly"
+    ],
+    "coachingPrompt": "Help the user build distinct layers and manage moisture for a cohesive, not-watery lasagna."
+  },
+  "timestamp": "2026-02-06T02:34:27.689Z"
+}

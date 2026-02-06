@@ -1,0 +1,63 @@
+{
+  "contentHash": "e1c4c3a7795b591c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package linguine pasta",
+        "searchTerm": "linguine pasta",
+        "normalizedName": "Linguine Pasta"
+      },
+      {
+        "ingredient": "2 pounds abalone without shell",
+        "searchTerm": "abalone",
+        "normalizedName": "Abalone"
+      },
+      {
+        "ingredient": "3 limes, juiced",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "3 cloves garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 green bell peppers, sliced",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar Alfredo sauce",
+        "searchTerm": "Alfredo sauce",
+        "normalizedName": "Alfredo Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Abalone is delicate and should be sautéed quickly over high heat to prevent toughening",
+      "Slice abalone thinly against the grain if possible for maximum tenderness",
+      "Fresh lime juice brightens the rich Alfredo sauce; add at the end for best flavor"
+    ],
+    "coachingPrompt": "Help the cook understand proper abalone handling, quick cooking technique, and balancing citrus with cream sauce."
+  },
+  "timestamp": "2026-02-06T17:01:37.063Z"
+}

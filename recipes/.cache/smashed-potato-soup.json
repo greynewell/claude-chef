@@ -1,0 +1,73 @@
+{
+  "contentHash": "9cb7144b28234b5a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 ½ pounds potatoes, peeled and cut into 3/4-inch cubes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "½ cup chopped yellow or red sweet pepper",
+        "searchTerm": "bell pepper",
+        "normalizedName": "Bell Pepper"
+      },
+      {
+        "ingredient": "1 ½ teaspoons bottled roasted garlic",
+        "searchTerm": "roasted garlic",
+        "normalizedName": "Roasted Garlic"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 ½ cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "½ cup whipping cream, half-and-half or light cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "½ cup thinly sliced green onions",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 tablespoon chopped green onions, for garnish",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "immersion blender",
+        "searchTerm": "immersion blender"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "cooking pot"
+      }
+    ],
+    "cookingTips": [
+      "Cook potatoes until very tender for easy mashing",
+      "Use immersion blender for chunky texture or regular blender for smooth",
+      "Stir in cheese and cream at the end to prevent curdling"
+    ],
+    "coachingPrompt": "Guide the baker through slow cooker timing and techniques for achieving the desired soup consistency."
+  },
+  "timestamp": "2026-02-06T18:21:25.353Z"
+}

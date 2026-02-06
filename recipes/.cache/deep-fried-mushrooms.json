@@ -1,0 +1,62 @@
+{
+  "contentHash": "fb269086f176012f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 pound button mushrooms, quartered",
+        "searchTerm": "button mushrooms",
+        "normalizedName": "Button Mushroom"
+      },
+      {
+        "ingredient": "2 cups oil for frying, or as needed",
+        "searchTerm": "frying oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep fryer or large pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "cooking thermometer"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Slotted spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Make a thin batter by whisking flour, egg, water, and garlic salt for light, crispy coating",
+      "Pat mushrooms dry before battering to reduce oil absorption",
+      "Fry at 350°F in batches for 2-3 minutes until golden brown"
+    ],
+    "coachingPrompt": "Help the cook create a light, crispy batter coating for tender mushroom pieces."
+  },
+  "timestamp": "2026-02-06T05:06:05.288Z"
+}

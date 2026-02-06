@@ -1,0 +1,63 @@
+{
+  "contentHash": "166d8e950e276470",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound fresh broccoli, cut into spears",
+        "searchTerm": "fresh broccoli",
+        "normalizedName": "Fresh Broccoli"
+      },
+      {
+        "ingredient": "1 ½ cups cubed cooked chicken or turkey",
+        "searchTerm": "cooked chicken",
+        "normalizedName": "Cooked Chicken"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can Campbell's® Condensed Broccoli Cheese Soup or Campbell's® Condensed 98% Fat Free Broccoli Cheese Soup*",
+        "searchTerm": "broccoli cheese soup",
+        "normalizedName": "Broccoli Cheese Soup"
+      },
+      {
+        "ingredient": "⅓ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons dry bread crumbs",
+        "searchTerm": "bread crumb",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "1 tablespoon butter or margarine, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Blanch broccoli briefly before assembling to ensure it cooks evenly during baking",
+      "Stir soup and milk together smoothly before combining with other ingredients",
+      "Top with toasted bread crumbs just before baking for maximum crunch"
+    ],
+    "coachingPrompt": "Should I precook the broccoli, and if so, how much so it's not overcooked by the time the casserole is done?"
+  },
+  "timestamp": "2026-02-06T01:16:48.920Z"
+}

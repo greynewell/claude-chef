@@ -1,0 +1,43 @@
+{
+  "contentHash": "4321ab96d8cc379d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 French baguette, cut into diagonal 1/2 inch slices",
+        "searchTerm": "French baguette",
+        "normalizedName": "French Baguette"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 cup finely grated Parmigiano-Reggiano cheese",
+        "searchTerm": "Parmigiano-Reggiano cheese",
+        "normalizedName": "Parmigiano-Reggiano Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Microplane",
+        "searchTerm": "microplane grater"
+      },
+      {
+        "name": "Pastry Brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Slice baguette on a diagonal to maximize surface area for crisping",
+      "Brush oil lightly to avoid greasy crisps—too much oil prevents crispness",
+      "Watch oven carefully as these toast quickly and can burn in moments"
+    ],
+    "coachingPrompt": "Guide the user through achieving the perfect golden, crispy texture and explain why fresh Parmigiano-Reggiano makes all the difference."
+  },
+  "timestamp": "2026-02-06T14:09:46.906Z"
+}

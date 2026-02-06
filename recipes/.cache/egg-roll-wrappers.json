@@ -1,0 +1,53 @@
+{
+  "contentHash": "f7d1e99f9b66b951",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¾ cup cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅞ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 tablespoons peanut oil",
+        "searchTerm": "peanut oil",
+        "normalizedName": "Peanut Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "nonstick skillet or crepe pan",
+        "searchTerm": "nonstick skillet or crepe pan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Batter should be thin, like pancake batter, for delicate wrappers",
+      "Cook on medium-low heat to avoid browning",
+      "Cool wrappers on a flat surface before stacking"
+    ],
+    "coachingPrompt": "What texture should the batter be for properly thin egg roll wrappers?"
+  },
+  "timestamp": "2026-02-06T06:10:03.526Z"
+}

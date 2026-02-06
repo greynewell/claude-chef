@@ -1,0 +1,48 @@
+{
+  "contentHash": "2548a65d06c970ce",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "frozen whipped topping",
+        "searchTerm": "whipped topping",
+        "normalizedName": "Whipped Topping"
+      },
+      {
+        "ingredient": "instant vanilla pudding mix",
+        "searchTerm": "vanilla pudding mix",
+        "normalizedName": "Vanilla Pudding Mix"
+      },
+      {
+        "ingredient": "milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "coffee-flavored liqueur",
+        "searchTerm": "Kahlua",
+        "normalizedName": "Kahlua"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "serving bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Thaw whipped topping completely for smooth incorporation",
+      "Mix pudding and milk first, then fold in whipped topping gently",
+      "Chill until serving to maintain proper texture"
+    ],
+    "coachingPrompt": "This no-bake dip relies on proper folding technique. How will you maintain the fluffy texture while combining all ingredients?"
+  },
+  "timestamp": "2026-02-06T10:32:48.837Z"
+}

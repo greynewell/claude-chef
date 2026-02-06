@@ -1,0 +1,73 @@
+{
+  "contentHash": "74156859f0ccbd17",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "2 cups salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "1 (16 ounce) can chili beans, drained",
+        "searchTerm": "chili bean",
+        "normalizedName": "Chili Bean"
+      },
+      {
+        "ingredient": "3 cups tortilla chips, crushed",
+        "searchTerm": "tortilla chip",
+        "normalizedName": "Tortilla Chip"
+      },
+      {
+        "ingredient": "2 cups sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 (2 ounce) can sliced black olives, drained",
+        "searchTerm": "black olive",
+        "normalizedName": "Black Olive"
+      },
+      {
+        "ingredient": "½ cup chopped green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "½ cup chopped fresh tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown meat thoroughly before combining with other ingredients",
+      "Layer ingredients for even baking and distribution",
+      "Bake at 350°F for 25-30 minutes until bubbly and heated through"
+    ],
+    "coachingPrompt": "Help the user understand how layering prevents a soggy casserole by keeping crispy tortilla chips on top and sour cream mixed into the middle."
+  },
+  "timestamp": "2026-02-06T05:51:21.837Z"
+}

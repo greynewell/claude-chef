@@ -1,0 +1,48 @@
+{
+  "contentHash": "27d9c7dc1d18ddf8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 teaspoons Sriracha sauce",
+        "searchTerm": "Sriracha sauce",
+        "normalizedName": "Sriracha Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "1 (12 ounce) container fully cooked luncheon meat, sliced into fries",
+        "searchTerm": "SPAM",
+        "normalizedName": "SPAM"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Knife for slicing",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Small bowl for sauce",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Chill SPAM for easier slicing into uniform fries",
+      "Mix dipping sauce ahead of time and refrigerate",
+      "Watch during cooking as SPAM can brown quickly due to its fat content"
+    ],
+    "coachingPrompt": "Guide me through making crispy SPAM fries with a spicy dipping sauce in an air fryer."
+  },
+  "timestamp": "2026-02-05T21:47:01.124Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "72cc0a1e793af72c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggplants",
+        "searchTerm": "eggplant",
+        "normalizedName": "Eggplant"
+      },
+      {
+        "ingredient": "½ cup canola oil",
+        "searchTerm": "canola oil",
+        "normalizedName": "Canola Oil"
+      },
+      {
+        "ingredient": "2 tablespoons plain yogurt",
+        "searchTerm": "plain yogurt",
+        "normalizedName": "Yogurt"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 small onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Roast eggplants whole until skin blackens and flesh becomes very soft",
+      "Scoop flesh from skin and chop or blend for different texture preferences",
+      "Let roasted eggplant cool before mixing with yogurt to prevent curdling"
+    ],
+    "coachingPrompt": "How do you know when roasted eggplant is done? Why cool before mixing with yogurt?"
+  },
+  "timestamp": "2026-02-06T16:32:17.108Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "9c7f51a15bb739c5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 tablespoons unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "¼ cup cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "⅛ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 ¾ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 tablespoons butter, room temperature",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "serving bowls",
+        "searchTerm": "bowls"
+      }
+    ],
+    "cookingTips": [
+      "Whisk cocoa and cornstarch together with sugar first to prevent lumps",
+      "Heat milk slowly while whisking constantly to avoid scorching",
+      "Simmer for 1-2 minutes after thickening to cook out cornstarch taste"
+    ],
+    "coachingPrompt": "This classic pudding is all about smooth texture and preventing lumps. Guide the baker through proper whisking technique and explain the importance of cooking the cornstarch adequately."
+  },
+  "timestamp": "2026-02-06T03:05:01.530Z"
+}

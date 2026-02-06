@@ -1,0 +1,58 @@
+{
+  "contentHash": "2b2d61c91aaa20b2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "24 French bread slices, 1/2 inch thick",
+        "searchTerm": "french bread",
+        "normalizedName": "French Bread"
+      },
+      {
+        "ingredient": "⅔ cup fig jam",
+        "searchTerm": "fig jam",
+        "normalizedName": "Fig Jam"
+      },
+      {
+        "ingredient": "¼ cup chopped toasted walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "¼ pound prosciutto, cut into 24 pieces",
+        "searchTerm": "prosciutto",
+        "normalizedName": "Prosciutto"
+      },
+      {
+        "ingredient": "1 ½ cups KRAFT Shredded Triple Cheddar Cheese with a TOUCH OF PHILADELPHIA",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh rosemary",
+        "searchTerm": "fresh rosemary",
+        "normalizedName": "Fresh Rosemary"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread slices lightly to prevent sogginess from jam",
+      "Assemble crostini just before serving for maximum crispness",
+      "Warm prosciutto slightly to enhance its flavor and aroma"
+    ],
+    "coachingPrompt": "What temperature and timing should I use to toast these crostini until they're crispy but not burnt?"
+  },
+  "timestamp": "2026-02-06T06:38:22.977Z"
+}

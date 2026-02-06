@@ -1,0 +1,68 @@
+{
+  "contentHash": "2dc968c53351e247",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "¼ cup broken pieces vermicelli pasta",
+        "searchTerm": "vermicelli pasta",
+        "normalizedName": "Vermicelli Pasta"
+      },
+      {
+        "ingredient": "3 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon chicken bouillon granules",
+        "searchTerm": "chicken bouillon",
+        "normalizedName": "Chicken Bouillon"
+      },
+      {
+        "ingredient": "2 teaspoons dried parsley",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley"
+      },
+      {
+        "ingredient": "¼ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "¼ teaspoon onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan with lid",
+        "searchTerm": "pot with lid"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Toast the vermicelli in butter before adding rice for deeper flavor",
+      "Use a tight-fitting lid to trap steam and cook rice evenly",
+      "Fluff rice with a fork after cooking and let rest 5 minutes"
+    ],
+    "coachingPrompt": "Walk me through toasting the vermicelli, building the broth, and cooking the rice mixture properly."
+  },
+  "timestamp": "2026-02-05T21:30:03.108Z"
+}

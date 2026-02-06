@@ -1,0 +1,63 @@
+{
+  "contentHash": "f62d0fd072c2f5be",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cauliflower florets",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      },
+      {
+        "ingredient": "vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "almonds",
+        "searchTerm": "almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "panko bread crumbs",
+        "searchTerm": "panko bread crumbs",
+        "normalizedName": "Panko Bread Crumb"
+      },
+      {
+        "ingredient": "dried thyme",
+        "searchTerm": "dried thyme",
+        "normalizedName": "Dried Thyme"
+      }
+    ],
+    "gear": [
+      {
+        "name": "air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      }
+    ],
+    "cookingTips": [
+      "Finely chop or process almonds to ensure even coating",
+      "Don't overcrowd the air fryer basket for crispy results",
+      "Shake the basket halfway through cooking for consistent browning"
+    ],
+    "coachingPrompt": "Walk me through making crispy air-fried cauliflower with a crunchy almond-Parmesan coating."
+  },
+  "timestamp": "2026-02-05T21:36:41.924Z"
+}

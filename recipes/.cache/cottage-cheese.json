@@ -1,0 +1,43 @@
+{
+  "contentHash": "8952f2cc48543071",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 tablespoon vinegar",
+        "searchTerm": "vinegar",
+        "normalizedName": "Vinegar"
+      },
+      {
+        "ingredient": "1 pinch salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Cheesecloth",
+        "searchTerm": "cheesecloth"
+      },
+      {
+        "name": "Strainer",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Heat milk slowly to prevent scorching and ensure proper curd formation",
+      "Line strainer with cheesecloth to catch curds while allowing whey to drain",
+      "Rinse curds with cold water for milder flavor"
+    ],
+    "coachingPrompt": "Explain the science of curdling milk with acid and how to achieve desired curd size and texture."
+  },
+  "timestamp": "2026-02-06T03:56:20.728Z"
+}

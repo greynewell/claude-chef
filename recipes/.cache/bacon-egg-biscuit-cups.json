@@ -1,0 +1,53 @@
+{
+  "contentHash": "8cf1bbe566c6a7df",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices bacon",
+        "searchTerm": "bacon slices",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 (16.3 ounce) can refrigerated biscuit dough",
+        "searchTerm": "biscuit dough",
+        "normalizedName": "Biscuit Dough"
+      },
+      {
+        "ingredient": "6 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup Borden® Cheddar and Monterey Jack Shreds",
+        "searchTerm": "cheddar monterey jack cheese",
+        "normalizedName": "Cheddar Monterey Jack Cheese"
+      },
+      {
+        "ingredient": "3 tablespoons Borden® Cheddar and Monterey Jack Shreds, for topping",
+        "searchTerm": "cheddar monterey jack cheese",
+        "normalizedName": "Cheddar Monterey Jack Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "muffin tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Press biscuit dough into muffin cups to create shell for filling",
+      "Partially cook bacon before adding to cups so it crisps fully during baking",
+      "Bake at 375°F for 15-18 minutes until eggs are set and biscuits are golden"
+    ],
+    "coachingPrompt": "Guide the user in assembling individual breakfast portions that are easy to reheat and transport."
+  },
+  "timestamp": "2026-02-05T22:51:06.701Z"
+}

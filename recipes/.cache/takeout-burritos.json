@@ -1,0 +1,73 @@
+{
+  "contentHash": "ed1a394553011d02",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "white rice",
+        "searchTerm": "rice",
+        "normalizedName": "Rice"
+      },
+      {
+        "ingredient": "lime juice",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "rotisserie chicken",
+        "searchTerm": "chicken",
+        "normalizedName": "Chicken"
+      },
+      {
+        "ingredient": "black beans",
+        "searchTerm": "black beans",
+        "normalizedName": "Black Bean"
+      },
+      {
+        "ingredient": "flour tortillas",
+        "searchTerm": "tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "pico de gallo salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "romaine lettuce",
+        "searchTerm": "lettuce",
+        "normalizedName": "Romaine Lettuce"
+      },
+      {
+        "ingredient": "sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Rice Cooker or Pot",
+        "searchTerm": "rice cooker"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Large Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Warm tortillas before filling to prevent tearing",
+      "Don't overfill burritos; they should be manageable to wrap",
+      "Lime-cilantro rice can be made ahead and refrigerated"
+    ],
+    "coachingPrompt": "Are you looking to meal prep these? They freeze well wrapped individually for quick lunches."
+  },
+  "timestamp": "2026-02-06T20:16:19.233Z"
+}

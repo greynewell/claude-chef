@@ -1,0 +1,44 @@
+{
+  "contentHash": "a92fa32d7c0e2713",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 hot dogs",
+        "searchTerm": "hot dogs",
+        "normalizedName": "Hot Dog"
+      },
+      {
+        "ingredient": "6 split hot dog buns",
+        "searchTerm": "hot dog buns",
+        "normalizedName": "Hot Dog Bun"
+      },
+      {
+        "ingredient": "1 (15 ounce) can HORMEL® Chili With Beans",
+        "searchTerm": "canned chili with beans",
+        "normalizedName": "Canned Chili"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Place hot dogs in buns before baking to keep them aligned",
+      "Heat chili separately or mix with cheese before topping for better distribution",
+      "Cheese melts evenly if baked uncovered at 350°F"
+    ],
+    "coachingPrompt": "What's the easiest way to assemble and bake chili cheese hot dogs in the oven?"
+  },
+  "timestamp": "2026-02-05T23:02:18.403Z"
+}

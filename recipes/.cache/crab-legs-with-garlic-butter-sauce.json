@@ -1,0 +1,58 @@
+{
+  "contentHash": "3f5dc59655405552",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound Snow Crab clusters, thawed if necessary",
+        "searchTerm": "snow crab clusters",
+        "normalizedName": "Snow Crab"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 ½ teaspoons dried parsley",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley"
+      },
+      {
+        "ingredient": "⅛ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon fresh-ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Small saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Cracking tool",
+        "searchTerm": "crab cracker"
+      }
+    ],
+    "cookingTips": [
+      "Thaw crab clusters ahead of time for even cooking",
+      "Infuse butter with garlic over low heat without browning",
+      "Boil or steam crab legs 4-5 minutes if thawed, 6-8 if frozen"
+    ],
+    "coachingPrompt": "Help the user prepare a simple but elegant garlic butter sauce and time the cooking perfectly for tender crab."
+  },
+  "timestamp": "2026-02-06T04:02:47.145Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "3b5e54d3465dfe16",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar chunky salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "10 (10 inch) flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "spreading knife",
+        "searchTerm": "butter knife"
+      },
+      {
+        "name": "serrated knife",
+        "searchTerm": "serrated knife"
+      }
+    ],
+    "cookingTips": [
+      "Mix cream cheese with salsa before spreading for easier application",
+      "Spread filling evenly, leaving a small border to prevent overflow when rolling",
+      "Chill at least 30 minutes to firm up before slicing"
+    ],
+    "coachingPrompt": "How would you balance the moisture from the salsa without making the rollups too wet?"
+  },
+  "timestamp": "2026-02-06T21:02:02.317Z"
+}

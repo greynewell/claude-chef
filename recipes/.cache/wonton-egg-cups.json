@@ -1,0 +1,67 @@
+{
+  "contentHash": "19b3c8d86a79f726",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound sausage",
+        "searchTerm": "sausage",
+        "normalizedName": "Sausage"
+      },
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 (10 ounce) package mini wonton wrappers",
+        "searchTerm": "wonton wrappers",
+        "normalizedName": "Wonton Wrapper"
+      },
+      {
+        "ingredient": "¼ cup grated Manchego cheese",
+        "searchTerm": "manchego cheese",
+        "normalizedName": "Manchego Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Muffin Tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Press wonton wrappers gently into muffin tins to form cups",
+      "Cook sausage and drain before adding to egg mixture"
+    ],
+    "coachingPrompt": "What temperature and time should I use to bake these egg cups?"
+  },
+  "timestamp": "2026-02-06T22:15:40.828Z"
+}

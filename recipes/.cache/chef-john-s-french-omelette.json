@@ -1,0 +1,53 @@
+{
+  "contentHash": "3cf12d822ecab998",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 fresh eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ teaspoon kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "½ teaspoon cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 tablespoons unsalted butter, divided",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      },
+      {
+        "ingredient": "1 pinch cayenne or white pepper",
+        "searchTerm": "white pepper",
+        "normalizedName": "White Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Non-stick skillet or well-seasoned pan",
+        "searchTerm": "non-stick skillet"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "rubber spatula"
+      }
+    ],
+    "cookingTips": [
+      "Add water to eggs for fluffier texture and easier cooking",
+      "Keep heat medium-high and tilt pan to let uncooked egg flow to edges",
+      "Fold omelette in half when still slightly wet in center for custard-like texture"
+    ],
+    "coachingPrompt": "Guide the user on constant motion and proper pan tilting to achieve a perfectly folded French omelette."
+  },
+  "timestamp": "2026-02-06T02:03:44.679Z"
+}

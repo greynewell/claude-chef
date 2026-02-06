@@ -1,0 +1,58 @@
+{
+  "contentHash": "31c06b30e40ba788",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup shredded cabbage",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "½ carrot, shredded",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ teaspoon soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 slices bread, toasted",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread first to provide a sturdy base for the egg mixture",
+      "Shred vegetables finely so they cook quickly with the egg",
+      "Cook over medium heat to avoid burning the toast"
+    ],
+    "coachingPrompt": "This is a quick breakfast sandwich. What other vegetables could you add for more nutrition?"
+  },
+  "timestamp": "2026-02-06T20:52:12.882Z"
+}

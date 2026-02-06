@@ -1,0 +1,43 @@
+{
+  "contentHash": "d0062af0f6f71161",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups mashed raspberries",
+        "searchTerm": "raspberries",
+        "normalizedName": "Raspberry"
+      },
+      {
+        "ingredient": "4 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon freshly squeezed lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Candy thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "Sterilized jars",
+        "searchTerm": "canning jars"
+      }
+    ],
+    "cookingTips": [
+      "Cook to the gel point (220°F) for proper jam consistency without pectin",
+      "Stir occasionally to prevent sticking and ensure even cooking",
+      "Use sterilized jars and process immediately for safe storage"
+    ],
+    "coachingPrompt": "How can you determine when jam has reached the proper gel point without a thermometer?"
+  },
+  "timestamp": "2026-02-06T15:56:22.478Z"
+}

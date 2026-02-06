@@ -1,0 +1,58 @@
+{
+  "contentHash": "bcb204399f7a4cce",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 small yellow squash, sliced",
+        "searchTerm": "yellow squash",
+        "normalizedName": "Yellow Squash"
+      },
+      {
+        "ingredient": "2 small zucchini, sliced",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "1 small onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 red bell pepper, minced",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 ½ tablespoons extra-virgin olive oil",
+        "searchTerm": "extra-virgin olive oil",
+        "normalizedName": "Extra-Virgin Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon lemon-pepper seasoning",
+        "searchTerm": "lemon pepper seasoning",
+        "normalizedName": "Lemon Pepper Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Grill Basket",
+        "searchTerm": "grill basket"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Slice vegetables uniformly so they cook at the same rate",
+      "Use a grill basket to keep vegetables together and prevent loss",
+      "Grill for 8-10 minutes total, stirring occasionally, until tender and lightly charred"
+    ],
+    "coachingPrompt": "Mixed grilled vegetables are a perfect side. Would you like tips on preparing vegetables ahead or storing grilled vegetables?"
+  },
+  "timestamp": "2026-02-06T08:19:21.209Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "3bb235d38ce78b37",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices bacon, cut into small pieces",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 pounds summer squash, sliced diagonally 1/2 inch thick",
+        "searchTerm": "summer squash",
+        "normalizedName": "Summer Squash"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy first, then use rendered fat to sauté vegetables",
+      "Slice squash uniformly for even cooking throughout",
+      "Keep heat medium-high to caramelize squash slightly without steaming"
+    ],
+    "coachingPrompt": "What's your preferred cooking method for summer vegetables? I can suggest variations for this simple, versatile side dish."
+  },
+  "timestamp": "2026-02-06T17:59:10.570Z"
+}

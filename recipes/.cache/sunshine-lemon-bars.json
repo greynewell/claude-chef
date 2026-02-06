@@ -1,0 +1,53 @@
+{
+  "contentHash": "b0a0e33f247faf50",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 package Duncan Hines® Moist Deluxe® Lemon Cake Mix",
+        "searchTerm": "lemon cake mix",
+        "normalizedName": "Lemon Cake Mix"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 large egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (14 ounce) can sweetened condensed milk",
+        "searchTerm": "sweetened condensed milk",
+        "normalizedName": "Sweetened Condensed Milk"
+      },
+      {
+        "ingredient": "½ cup lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking pan",
+        "searchTerm": "9x13 baking pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Mix cake mix with butter and egg until crumbly for the crust layer",
+      "Use freshly squeezed lemon juice for best flavor in the topping",
+      "Bake at recommended temperature until set but still slightly jiggly in center"
+    ],
+    "coachingPrompt": "How does the cake mix layer act as a base, and why is the condensed milk and lemon combination effective?"
+  },
+  "timestamp": "2026-02-06T19:50:31.440Z"
+}

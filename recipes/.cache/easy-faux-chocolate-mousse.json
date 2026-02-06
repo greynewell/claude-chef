@@ -1,0 +1,48 @@
+{
+  "contentHash": "080def3a5981ec66",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) container mascarpone cheese",
+        "searchTerm": "mascarpone cheese",
+        "normalizedName": "Mascarpone Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons heavy whipping cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "¼ cup chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "microwave or double boiler",
+        "searchTerm": "microwave"
+      }
+    ],
+    "cookingTips": [
+      "Melt chocolate chips gently in microwave or over double boiler to prevent seizing",
+      "Let melted chocolate cool slightly before folding into mascarpone to avoid curdling",
+      "Whip until fluffy for light mousse texture; do not overwhip or mixture will become grainy"
+    ],
+    "coachingPrompt": "How can I get a silky, light mousse texture without using raw eggs or excessive whipping?"
+  },
+  "timestamp": "2026-02-06T05:44:19.733Z"
+}

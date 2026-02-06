@@ -1,0 +1,52 @@
+{
+  "contentHash": "7422b78f2dcec46f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups milk chocolate chips",
+        "searchTerm": "milk chocolate chips",
+        "normalizedName": "Milk Chocolate Chip"
+      },
+      {
+        "ingredient": "3 tablespoons heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "2 tablespoons cherry brandy",
+        "searchTerm": "cherry brandy",
+        "normalizedName": "Cherry Brandy"
+      },
+      {
+        "ingredient": "1 tablespoon strong brewed coffee",
+        "searchTerm": "coffee",
+        "normalizedName": "Coffee"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "fondue pot or double boiler",
+        "searchTerm": "fondue pot"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "fondue forks",
+        "searchTerm": "fondue forks"
+      }
+    ],
+    "cookingTips": [
+      "Melt chocolate gently over low heat to prevent seizing",
+      "Keep fondue warm but not hot to maintain smooth consistency"
+    ],
+    "coachingPrompt": "I'm making chocolate fondue with cherry brandy and coffee. How should I melt the chocolate and keep it at the right consistency?"
+  },
+  "timestamp": "2026-02-06T21:02:53.898Z"
+}

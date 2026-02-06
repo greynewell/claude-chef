@@ -1,0 +1,53 @@
+{
+  "contentHash": "b44004c0caabc5e7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (1 pound) loaf processed cheese",
+        "searchTerm": "processed cheese velveeta",
+        "normalizedName": "Processed Cheese"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 pounds ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "4 (10 ounce) cans diced tomatoes with green chile peppers",
+        "searchTerm": "diced tomatoes green chile rotel",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "1 (1.25 ounce) package taco seasoning",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "serving spoon",
+        "searchTerm": "serving spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly and drain excess fat before combining",
+      "Add canned tomatoes with their liquid for extra flavor and moisture",
+      "Stir in cheese at the end over low heat to prevent scorching"
+    ],
+    "coachingPrompt": "Guide the cook through browning beef properly and melting cheese into a cohesive dip without breaking the texture."
+  },
+  "timestamp": "2026-02-06T15:34:58.288Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "99eb67234a8b1f2b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (7 ounce) can chipotle peppers in adobo sauce",
+        "searchTerm": "chipotle peppers",
+        "normalizedName": "Chipotle Pepper"
+      },
+      {
+        "ingredient": "¼ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "3 tablespoons lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "3 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 teaspoon all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Blend until completely smooth for a professional glaze consistency",
+      "Simmer gently to thicken without breaking down the honey",
+      "Apply sauce to wings in the last 5 minutes of cooking for best adhesion"
+    ],
+    "coachingPrompt": "Should I apply this sauce before or after cooking? How thick should the final glaze be?"
+  },
+  "timestamp": "2026-02-06T09:20:56.000Z"
+}

@@ -1,0 +1,68 @@
+{
+  "contentHash": "6f73ee083df5fe50",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups 2% milk",
+        "searchTerm": "2% milk",
+        "normalizedName": "2% Milk"
+      },
+      {
+        "ingredient": "2 cups heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "1 cup sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 teaspoon peppermint extract",
+        "searchTerm": "peppermint extract",
+        "normalizedName": "Peppermint Extract"
+      },
+      {
+        "ingredient": "3 drops green food coloring (Optional)",
+        "searchTerm": "green food coloring",
+        "normalizedName": "Green Food Coloring"
+      },
+      {
+        "ingredient": "1 cup miniature semisweet chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Semisweet Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Dissolve sugar completely in liquid before churning to prevent grainy texture",
+      "Chill mixture thoroughly before churning for faster freezing and smoother results",
+      "Add chocolate chips in final minutes of churning to distribute evenly"
+    ],
+    "coachingPrompt": "Help the user understand why proper ingredient temperature and churning technique create smooth, creamy ice cream texture."
+  },
+  "timestamp": "2026-02-06T05:52:19.797Z"
+}

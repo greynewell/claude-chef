@@ -1,0 +1,67 @@
+{
+  "contentHash": "b002fc0379a2d22e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup hazelnuts, ground",
+        "searchTerm": "hazelnuts",
+        "normalizedName": "Hazelnut"
+      },
+      {
+        "ingredient": "½ cup sifted confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "⅛ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 cups sifted confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "1 vanilla bean",
+        "searchTerm": "vanilla bean",
+        "normalizedName": "Vanilla Bean"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "cookie press or piping bag",
+        "searchTerm": "piping bag"
+      }
+    ],
+    "cookingTips": [
+      "Toast hazelnuts before grinding for richer, more complex flavor",
+      "Chill dough between batches to maintain crescent shape"
+    ],
+    "coachingPrompt": "Do you have a cookie press, and would you prefer to toast the hazelnuts yourself?"
+  },
+  "timestamp": "2026-02-06T21:50:10.870Z"
+}

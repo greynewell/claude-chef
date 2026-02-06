@@ -1,0 +1,68 @@
+{
+  "contentHash": "bf676350a21afe62",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 (10 ounce) packages frozen chopped broccoli",
+        "searchTerm": "frozen broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "3 (14.5 ounce) cans chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "6 tablespoons margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 ½ pounds processed cheese food (eg. Velveeta), cubed",
+        "searchTerm": "processed cheese",
+        "normalizedName": "Processed Cheese Food"
+      },
+      {
+        "ingredient": "1 pinch ground white pepper",
+        "searchTerm": "white pepper",
+        "normalizedName": "White Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "soup pot"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Make a roux with margarine and flour to create a smooth base",
+      "Add cheese off heat to prevent breaking and lumping",
+      "Add broth gradually to avoid lumps; use immersion blender if needed for smooth texture"
+    ],
+    "coachingPrompt": "This soup uses processed cheese for smoothness. How would making it with sharp cheddar change the flavor profile?"
+  },
+  "timestamp": "2026-02-06T00:42:37.299Z"
+}

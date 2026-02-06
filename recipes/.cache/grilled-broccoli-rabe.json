@@ -1,0 +1,53 @@
+{
+  "contentHash": "691b9596dbd56d03",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 bunch broccoli rabe, trimmed and rinsed",
+        "searchTerm": "broccoli rabe",
+        "normalizedName": "Broccoli Rabe"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "¼ teaspoon crushed red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill basket",
+        "searchTerm": "grill basket"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Blanch broccoli rabe briefly before grilling to partially cook and tenderize",
+      "Use a grill basket or skewer lengthwise to prevent pieces from falling through grates",
+      "The slight charring enhances the natural bitterness of broccoli rabe"
+    ],
+    "coachingPrompt": "Why is broccoli rabe more bitter than regular broccoli? How does grilling and charring affect its flavor profile?"
+  },
+  "timestamp": "2026-02-06T08:11:12.956Z"
+}

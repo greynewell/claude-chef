@@ -1,0 +1,72 @@
+{
+  "contentHash": "cabd07478bc99571",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅔ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 ⅓ cups sifted all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¾ teaspoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "1 quart vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "¼ cup confectioners' sugar for dusting",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep Fryer or Pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Candy Thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "Funnel or Squeeze Bottle",
+        "searchTerm": "funnel"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "kitchen tongs"
+      }
+    ],
+    "cookingTips": [
+      "Sift flour before measuring for lighter, airier funnel cakes",
+      "Batter should be consistency of thin pancake batter",
+      "Fry until both sides are golden brown, about 2 minutes per side"
+    ],
+    "coachingPrompt": "Help the user understand that this simpler batter uses baking powder for leavening rather than baking soda. Explain the importance of sifting flour and maintaining proper oil temperature for best results."
+  },
+  "timestamp": "2026-02-06T07:12:37.289Z"
+}

@@ -1,0 +1,78 @@
+{
+  "contentHash": "bb22836e3f86c433",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ears fresh corn, shucked",
+        "searchTerm": "corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "3 large avocados",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "7 ounces black beans, rinsed and drained",
+        "searchTerm": "black beans",
+        "normalizedName": "Black Bean"
+      },
+      {
+        "ingredient": "1 jalapeno pepper, seeded and finely chopped",
+        "searchTerm": "jalapeno",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 small bunch cilantro, roughly chopped",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "2 limes",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "1 pinch sea salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "12 corn tortillas",
+        "searchTerm": "corn tortillas",
+        "normalizedName": "Corn Tortilla"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill pan",
+        "searchTerm": "grill pan"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Grill avocado halves cut-side down for 2-3 minutes until lightly charred",
+      "Char corn directly over heat and rotate for even browning",
+      "Assemble tacos just before serving to prevent sogginess"
+    ],
+    "coachingPrompt": "Help the user understand the timing for grilling avocados without overcooking them and achieving charred corn kernels."
+  },
+  "timestamp": "2026-02-06T08:10:19.107Z"
+}

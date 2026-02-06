@@ -1,0 +1,44 @@
+{
+  "contentHash": "1e37276753697910",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups canned coconut milk",
+        "searchTerm": "coconut milk",
+        "normalizedName": "Coconut Milk"
+      },
+      {
+        "ingredient": "¼ cup cane sugar",
+        "searchTerm": "cane sugar",
+        "normalizedName": "Cane Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 cup long grain white rice",
+        "searchTerm": "long grain white rice",
+        "normalizedName": "Long Grain White Rice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan with lid",
+        "searchTerm": "saucepan with lid"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Shake canned coconut milk well before opening to incorporate cream and liquid",
+      "Stir rice occasionally while cooking to prevent sticking",
+      "Let pudding cool before serving - it continues to thicken as temperature drops"
+    ],
+    "coachingPrompt": "Would you like to add any toppings like toasted coconut flakes or tropical fruit?"
+  },
+  "timestamp": "2026-02-06T04:58:05.047Z"
+}

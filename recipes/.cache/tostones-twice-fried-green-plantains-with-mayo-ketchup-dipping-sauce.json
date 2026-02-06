@@ -1,0 +1,57 @@
+{
+  "contentHash": "903d0190c08abbb2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "½ cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "1 large clove garlic, pressed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "3 cups canola oil for frying",
+        "searchTerm": "canola oil",
+        "normalizedName": "Canola Oil"
+      },
+      {
+        "ingredient": "2 green plantains, peeled and cut into 1 1/2-inch chunks",
+        "searchTerm": "green plantains",
+        "normalizedName": "Green Plantain"
+      },
+      {
+        "ingredient": "1 pinch garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep fryer or pot",
+        "searchTerm": "fryer"
+      },
+      {
+        "name": "plantain press or heavy object",
+        "searchTerm": "plantain press"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Press plantains between two spatulas or in a plantain press to flatten evenly",
+      "The mayo-ketchup sauce can be made ahead and refrigerated"
+    ],
+    "coachingPrompt": "I'm making twice-fried tostones with a garlic dipping sauce. How do I flatten them between frying and what's the best oil temperature?"
+  },
+  "timestamp": "2026-02-06T21:02:53.895Z"
+}

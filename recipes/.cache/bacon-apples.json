@@ -1,0 +1,48 @@
+{
+  "contentHash": "33745f4d96db9b53",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 apples, cored",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "¼ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "4 slices cooked bacon, crumbled",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Core apples from top, leaving bottom intact to contain filling",
+      "Combine brown sugar and cinnamon to create a sweet spice mixture",
+      "Bake until apples are tender but still hold their shape"
+    ],
+    "coachingPrompt": "What's the ideal baking temperature and time to cook apples through without them collapsing?"
+  },
+  "timestamp": "2026-02-05T22:49:20.387Z"
+}

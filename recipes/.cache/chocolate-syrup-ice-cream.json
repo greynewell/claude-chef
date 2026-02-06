@@ -1,0 +1,53 @@
+{
+  "contentHash": "7f0dce2c9a97a85b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pints heavy cream, chilled",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "⅓ cup unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "¾ cup chocolate syrup",
+        "searchTerm": "chocolate syrup",
+        "normalizedName": "Chocolate Syrup"
+      },
+      {
+        "ingredient": "2 (14 ounce) cans sweetened condensed milk",
+        "searchTerm": "sweetened condensed milk",
+        "normalizedName": "Sweetened Condensed Milk"
+      },
+      {
+        "ingredient": "¼ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Keep all ingredients chilled before mixing for best results",
+      "Mix cocoa powder with chocolate syrup to avoid lumps",
+      "Follow ice cream maker instructions for proper freezing time"
+    ],
+    "coachingPrompt": "Advise on the importance of chilling ingredients and the proper technique for incorporating cocoa powder smoothly."
+  },
+  "timestamp": "2026-02-06T03:13:30.661Z"
+}

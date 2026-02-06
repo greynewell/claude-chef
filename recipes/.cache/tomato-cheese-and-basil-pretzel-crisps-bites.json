@@ -1,0 +1,48 @@
+{
+  "contentHash": "1a433d7a21a80c59",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (7.2 ounce) package Original Snack Factory® Pretzel Crisps®",
+        "searchTerm": "pretzel crisps",
+        "normalizedName": "Pretzel Crisp"
+      },
+      {
+        "ingredient": "1 pint cherry tomatoes, sliced",
+        "searchTerm": "cherry tomato",
+        "normalizedName": "Cherry Tomato"
+      },
+      {
+        "ingredient": "1 (4 ounce) package fresh basil, thinly sliced",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "serving platter",
+        "searchTerm": "serving platter"
+      }
+    ],
+    "cookingTips": [
+      "Slice cherry tomatoes just before assembling to maintain freshness",
+      "Pat tomatoes dry to prevent pretzel crisps from becoming soggy",
+      "Assemble bites close to serving time for best texture"
+    ],
+    "coachingPrompt": "What's the best way to prevent moisture from the tomatoes from softening the pretzel crisps?"
+  },
+  "timestamp": "2026-02-06T20:56:11.481Z"
+}

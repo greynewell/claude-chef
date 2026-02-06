@@ -1,0 +1,43 @@
+{
+  "contentHash": "3a04c0763f949934",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup Hellmann's® or Best Foods® Real Mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "4 (5 ounce) boneless, skinless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "4 teaspoons Italian seasoned dry bread crumbs",
+        "searchTerm": "Italian bread crumbs",
+        "normalizedName": "Italian Seasoned Bread Crumb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "shallow bowl",
+        "searchTerm": "shallow bowl"
+      }
+    ],
+    "cookingTips": [
+      "Mix mayonnaise with Parmesan before coating chicken for better adhesion",
+      "Bake at 400°F for 20-25 minutes until chicken reaches 165°F internally"
+    ],
+    "coachingPrompt": "Why does mayonnaise work so well as a binder for this crust compared to other options?"
+  },
+  "timestamp": "2026-02-06T14:10:37.097Z"
+}

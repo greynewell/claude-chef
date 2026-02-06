@@ -1,0 +1,57 @@
+{
+  "contentHash": "97a10fbf9536b66d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 ½ cups lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "3 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 ¼ cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons dried lavender flowers",
+        "searchTerm": "dried lavender",
+        "normalizedName": "Dried Lavender"
+      },
+      {
+        "ingredient": "1 ½ teaspoons dried hibiscus petals",
+        "searchTerm": "dried hibiscus",
+        "normalizedName": "Dried Hibiscus Petal"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pitcher",
+        "searchTerm": "pitcher"
+      },
+      {
+        "name": "strainer",
+        "searchTerm": "fine mesh strainer"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "stirring spoon"
+      }
+    ],
+    "cookingTips": [
+      "Steep dried flowers separately, then combine for better flavor control",
+      "Chill lemonade thoroughly before serving for best taste"
+    ],
+    "coachingPrompt": "How would you extract maximum flavor from dried flowers without over-steeping?"
+  },
+  "timestamp": "2026-02-06T11:02:08.911Z"
+}

@@ -1,0 +1,73 @@
+{
+  "contentHash": "0b9c9eb00c8ab4f2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (24 ounce) jar Ragu® Old World Style® Traditional Pasta Sauce",
+        "searchTerm": "pasta sauce",
+        "normalizedName": "Pasta Sauce"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 cloves garlic, pressed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 green bell pepper, sliced",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 red bell pepper, sliced",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 small yellow onion, sliced",
+        "searchTerm": "yellow onion",
+        "normalizedName": "Yellow Onion"
+      },
+      {
+        "ingredient": "½ pound deli sliced Angus roast beef",
+        "searchTerm": "roast beef deli meat",
+        "normalizedName": "Roast Beef"
+      },
+      {
+        "ingredient": "6 slices provolone cheese",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      },
+      {
+        "ingredient": "6 hoagie buns",
+        "searchTerm": "hoagie bun",
+        "normalizedName": "Hoagie Bun"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Sauté peppers and onions until softened before adding beef for better flavor development",
+      "Warm the hoagie buns before assembling to prevent sogginess",
+      "Layer cheese on warm beef so it melts from residual heat"
+    ],
+    "coachingPrompt": "How can you build maximum flavor in this sandwich by properly caramelizing the vegetables?"
+  },
+  "timestamp": "2026-02-06T16:57:46.243Z"
+}

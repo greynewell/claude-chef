@@ -1,0 +1,58 @@
+{
+  "contentHash": "89bfcae6b8e6de42",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "1 cup bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "⅓ cup rolled oats",
+        "searchTerm": "rolled oats",
+        "normalizedName": "Rolled Oat"
+      },
+      {
+        "ingredient": "1 teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 ½ cups buttermilk",
+        "searchTerm": "buttermilk",
+        "normalizedName": "Buttermilk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking Pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Mix dry ingredients thoroughly before adding buttermilk to ensure even distribution of baking soda",
+      "Form dough gently into a round and score a cross on top for even baking and traditional appearance",
+      "Bake at 450°F for 45-50 minutes until a knife inserted in the center comes out clean"
+    ],
+    "coachingPrompt": "Teach the user about the chemical reaction between baking soda and buttermilk and explain why minimal handling creates a rustic, crumbly texture."
+  },
+  "timestamp": "2026-02-06T10:00:37.180Z"
+}

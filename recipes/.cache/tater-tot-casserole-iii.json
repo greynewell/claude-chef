@@ -1,0 +1,58 @@
+{
+  "contentHash": "0841137387f178a9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "10 ¾ fluid ounces skim milk",
+        "searchTerm": "skim milk",
+        "normalizedName": "Skim Milk"
+      },
+      {
+        "ingredient": "1 teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "1 can French style green beans",
+        "searchTerm": "green beans",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "½ package tater tots",
+        "searchTerm": "tater tots",
+        "normalizedName": "Tater Tot"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef until no pink remains, drain excess fat",
+      "Whisk soup with milk until smooth before adding",
+      "Drain green beans thoroughly to prevent watery casserole"
+    ],
+    "coachingPrompt": "How does draining vegetables properly affect the final texture of a casserole?"
+  },
+  "timestamp": "2026-02-06T20:21:31.199Z"
+}

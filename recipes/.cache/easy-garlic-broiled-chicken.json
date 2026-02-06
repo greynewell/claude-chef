@@ -1,0 +1,63 @@
+{
+  "contentHash": "e9b8a0d7e9f20b13",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 tablespoons minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "3 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "¼ teaspoon black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon dried parsley",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley"
+      },
+      {
+        "ingredient": "6 boneless chicken thighs, with skin",
+        "searchTerm": "chicken thighs",
+        "normalizedName": "Chicken Thigh"
+      },
+      {
+        "ingredient": "dried parsley, to taste",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "broiler pan",
+        "searchTerm": "broiler pan"
+      },
+      {
+        "name": "small saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Position pan 4-6 inches from broiler to prevent burning",
+      "Baste chicken with garlic butter halfway through cooking",
+      "Skin-on thighs stay juicier than breasts; don't skip the skin"
+    ],
+    "coachingPrompt": "Guide the user on proper broiler distance and the importance of basting to achieve crispy skin and juicy meat."
+  },
+  "timestamp": "2026-02-06T05:45:16.338Z"
+}

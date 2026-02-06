@@ -1,0 +1,68 @@
+{
+  "contentHash": "97aa021b57d84025",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 quart milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup uncooked grits",
+        "searchTerm": "grits",
+        "normalizedName": "Grit"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon white pepper",
+        "searchTerm": "white pepper",
+        "normalizedName": "White Pepper"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "⅓ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Stir grits constantly while cooking to prevent lumps",
+      "Use both Cheddar and Parmesan for complex cheese flavor",
+      "Let grits cool before baking for better structure"
+    ],
+    "coachingPrompt": "How will you ensure the grits are smooth and lump-free?"
+  },
+  "timestamp": "2026-02-06T01:48:50.555Z"
+}

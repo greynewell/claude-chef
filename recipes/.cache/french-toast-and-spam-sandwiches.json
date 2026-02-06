@@ -1,0 +1,48 @@
+{
+  "contentHash": "03cf5f5c1ca1c87e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) container fully cooked luncheon meat (e.g. Spam)",
+        "searchTerm": "Spam",
+        "normalizedName": "Spam"
+      },
+      {
+        "ingredient": "5 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "8 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "shallow bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Slice Spam into thin pieces for even cooking",
+      "Whisk eggs and milk together until well combined before dipping bread",
+      "Cook French toast over medium heat to ensure the egg custard cooks through"
+    ],
+    "coachingPrompt": "This is a hearty comfort food combination. How will you cook the Spam for best texture?"
+  },
+  "timestamp": "2026-02-06T06:55:51.194Z"
+}

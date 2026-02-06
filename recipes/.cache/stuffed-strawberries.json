@@ -1,0 +1,48 @@
+{
+  "contentHash": "861ed2bdabf5bcd3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pint fresh strawberries",
+        "searchTerm": "strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "½ cup confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons orange flavored liqueur",
+        "searchTerm": "orange liqueur",
+        "normalizedName": "Orange Liqueur"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Piping Bag",
+        "searchTerm": "piping bag"
+      },
+      {
+        "name": "Paring Knife",
+        "searchTerm": "paring knife"
+      }
+    ],
+    "cookingTips": [
+      "Select strawberries of similar size for uniform appearance and easier filling",
+      "Remove a small core from the top of each strawberry using a paring knife to create a pocket",
+      "Chill cream cheese mixture until it reaches piping consistency, about 15 minutes"
+    ],
+    "coachingPrompt": "Guide the user on properly coring strawberries without cutting too deep or damaging the fruit, and how to pipe filling evenly."
+  },
+  "timestamp": "2026-02-06T19:42:27.515Z"
+}

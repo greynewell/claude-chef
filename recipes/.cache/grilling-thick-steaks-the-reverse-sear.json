@@ -1,0 +1,57 @@
+{
+  "contentHash": "eb7d88e4081c84b7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "porterhouse steak",
+        "searchTerm": "porterhouse steak",
+        "normalizedName": "Porterhouse Steak"
+      },
+      {
+        "ingredient": "sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "hickory wood chips",
+        "searchTerm": "hickory wood chips",
+        "normalizedName": "Hickory Wood Chip"
+      },
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "grill grates",
+        "searchTerm": "grill grates"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "grill tongs"
+      }
+    ],
+    "cookingTips": [
+      "Start thick steaks on cooler side of grill with indirect heat to reach target internal temperature",
+      "Sear briefly over high heat at the end to develop crust and caramelization",
+      "Let steak rest 5-10 minutes after cooking to allow juices to redistribute throughout the meat"
+    ],
+    "coachingPrompt": "Why does reverse searing work better for thick steaks than traditional direct heat methods?"
+  },
+  "timestamp": "2026-02-06T08:31:06.343Z"
+}

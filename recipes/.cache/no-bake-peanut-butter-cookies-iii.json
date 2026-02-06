@@ -1,0 +1,58 @@
+{
+  "contentHash": "7dc40d5a91d8ff5c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¾ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¾ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 ½ cups peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "4 ½ cups quick-cooking oats",
+        "searchTerm": "oats",
+        "normalizedName": "Quick-Cooking Oat"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Bring mixture to a rolling boil and cook for exactly 1 minute for proper setting consistency",
+      "Drop spoonfuls quickly onto parchment paper as mixture hardens rapidly",
+      "Allow cookies to cool at room temperature without refrigeration for best texture"
+    ],
+    "coachingPrompt": "Guide the user on achieving the right boiling time and working with the quick-setting mixture."
+  },
+  "timestamp": "2026-02-06T13:17:09.206Z"
+}

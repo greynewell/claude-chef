@@ -1,0 +1,58 @@
+{
+  "contentHash": "c0c9c7014085d0c4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (12 ounce) cans evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      },
+      {
+        "ingredient": "4 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 (8 ounce) cans oysters, drained",
+        "searchTerm": "oysters canned",
+        "normalizedName": "Oyster"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "Drain oysters well and add them at the end to prevent overcooking",
+      "Heat milk and water separately before combining to prevent curdling",
+      "Simmer gently rather than boil to maintain creamy texture"
+    ],
+    "coachingPrompt": "Guide the user through gentle heating techniques to create a smooth, creamy stew without curdling the evaporated milk."
+  },
+  "timestamp": "2026-02-06T15:41:12.347Z"
+}

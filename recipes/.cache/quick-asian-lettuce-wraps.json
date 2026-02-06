@@ -1,0 +1,93 @@
+{
+  "contentHash": "35291bb07143b278",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "uncooked white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "ground pork",
+        "searchTerm": "ground pork",
+        "normalizedName": "Ground Pork"
+      },
+      {
+        "ingredient": "green onions",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "firm tofu",
+        "searchTerm": "firm tofu",
+        "normalizedName": "Firm Tofu"
+      },
+      {
+        "ingredient": "carrots",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "hoisin sauce",
+        "searchTerm": "hoisin sauce",
+        "normalizedName": "Hoisin Sauce"
+      },
+      {
+        "ingredient": "soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "sesame oil",
+        "searchTerm": "sesame oil",
+        "normalizedName": "Sesame Oil"
+      },
+      {
+        "ingredient": "hot chile paste",
+        "searchTerm": "hot chile paste",
+        "normalizedName": "Hot Chile Paste"
+      },
+      {
+        "ingredient": "iceberg lettuce",
+        "searchTerm": "iceberg lettuce",
+        "normalizedName": "Iceberg Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "rice cooker",
+        "searchTerm": "rice cooker"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Press the tofu between paper towels to remove excess moisture before cubing",
+      "Keep lettuce leaves chilled until serving for crispness",
+      "Prepare all ingredients before cooking as the stir-fry comes together quickly"
+    ],
+    "coachingPrompt": "What techniques should I use to make sure the pork and tofu stay tender and the lettuce leaves don't wilt?"
+  },
+  "timestamp": "2026-02-06T15:40:18.488Z"
+}

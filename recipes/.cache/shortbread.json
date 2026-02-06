@@ -1,0 +1,47 @@
+{
+  "contentHash": "c15c368ab76aa57e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup unsalted butter",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "⅓ cup white rice flour",
+        "searchTerm": "rice flour",
+        "normalizedName": "Rice Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "cookie sheet"
+      },
+      {
+        "name": "Fork or hands",
+        "searchTerm": "mixing tools"
+      }
+    ],
+    "cookingTips": [
+      "Rice flour adds a tender, sandy texture—don't overmix the dough",
+      "Chill dough before baking to prevent spreading and maintain crisp texture"
+    ],
+    "coachingPrompt": "Why does rice flour make shortbread more tender than all-purpose flour alone?"
+  },
+  "timestamp": "2026-02-06T17:28:35.229Z"
+}

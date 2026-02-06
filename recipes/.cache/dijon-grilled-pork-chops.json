@@ -1,0 +1,53 @@
+{
+  "contentHash": "da923b13c5dc8d9c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 tablespoons Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "6 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "3 tablespoons unsweetened apple juice",
+        "searchTerm": "apple juice",
+        "normalizedName": "Apple Juice"
+      },
+      {
+        "ingredient": "3 tablespoons Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "4 (8 ounce) bone-in pork loin chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "outdoor grill"
+      },
+      {
+        "name": "Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "instant read thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Apply glaze in the last few minutes of grilling to prevent burning",
+      "Pork chops are done at 145°F internal temperature for food safety",
+      "Let chops rest 5 minutes after grilling for juiciness"
+    ],
+    "coachingPrompt": "How do I create a sticky glaze on grilled pork chops that caramelizes without burning?"
+  },
+  "timestamp": "2026-02-06T05:14:56.093Z"
+}

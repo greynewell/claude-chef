@@ -1,0 +1,58 @@
+{
+  "contentHash": "2041ae8929910dcf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ teaspoon prepared mustard",
+        "searchTerm": "prepared mustard",
+        "normalizedName": "Prepared Mustard"
+      },
+      {
+        "ingredient": "1 tablespoon creamy salad dressing",
+        "searchTerm": "salad dressing",
+        "normalizedName": "Salad Dressing"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pinch paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "This is a minimal ingredient version—perfect for learning basics",
+      "Salad dressing adds tanginess that plain mayo cannot",
+      "Chill before serving for best flavor development"
+    ],
+    "coachingPrompt": "What makes this minimal ingredient version work despite its simplicity?"
+  },
+  "timestamp": "2026-02-06T05:12:59.434Z"
+}

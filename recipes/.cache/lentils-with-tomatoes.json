@@ -1,0 +1,68 @@
+{
+  "contentHash": "bb6ed99e32d83ee7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 quart water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup dry lentils",
+        "searchTerm": "lentils",
+        "normalizedName": "Lentil"
+      },
+      {
+        "ingredient": "3 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 medium green bell pepper, chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 medium onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 ½ cups peeled, seeded, and chopped tomatoes",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Seed the tomatoes to remove excess moisture so the dish isn't watery",
+      "Sauté the bell pepper and onion until softened before adding other ingredients to build flavor",
+      "Fresh tomatoes work best; if using canned, reduce the amount of cooking liquid slightly"
+    ],
+    "coachingPrompt": "Help the user create a simple, rustic lentil dish where sweet bell peppers and fresh tomatoes are the stars."
+  },
+  "timestamp": "2026-02-06T11:21:32.396Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "51282e9a0c382872",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices Italian bread",
+        "searchTerm": "italian bread",
+        "normalizedName": "Italian Bread"
+      },
+      {
+        "ingredient": "4 slices ripe tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "4 leaves fresh basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      },
+      {
+        "ingredient": "4 slices fresh mozzarella cheese",
+        "searchTerm": "fresh mozzarella",
+        "normalizedName": "Fresh Mozzarella Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons extra virgin olive oil, divided",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 tablespoons balsamic vinegar, divided",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Use room temperature ingredients for best flavor - especially fresh mozzarella",
+      "Slice tomatoes right before assembling to prevent sogginess"
+    ],
+    "coachingPrompt": "This is a simple fresh sandwich. Do you want tips on selecting quality fresh mozzarella and ripe tomatoes?"
+  },
+  "timestamp": "2026-02-06T13:41:08.024Z"
+}

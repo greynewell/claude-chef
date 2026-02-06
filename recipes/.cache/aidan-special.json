@@ -1,0 +1,63 @@
+{
+  "contentHash": "0680f382cc1960c9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 slices rye bread",
+        "searchTerm": "rye bread",
+        "normalizedName": "Rye Bread"
+      },
+      {
+        "ingredient": "4 slices Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "2 ounces turkey breast",
+        "searchTerm": "turkey breast",
+        "normalizedName": "Turkey Breast"
+      },
+      {
+        "ingredient": "2 slices tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "2 slices cooked bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 ounce Russian salad dressing",
+        "searchTerm": "Russian dressing",
+        "normalizedName": "Russian Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet or griddle",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "serrated knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Butter the bread generously for a golden, crispy exterior when grilling",
+      "Layer cold cuts and cheese so they heat evenly during cooking",
+      "Cook the sandwich on medium heat to allow cheese to melt while bread toasts"
+    ],
+    "coachingPrompt": "Help me make a classic turkey and bacon club sandwich with Swiss cheese on rye."
+  },
+  "timestamp": "2026-02-05T21:36:23.118Z"
+}

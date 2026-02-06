@@ -1,0 +1,88 @@
+---
+title: "Oven-Roasted Turkey Breast"
+description: "This medium-level main course features butter, garlic and is ready in about 1 hour and 50 minutes. Serves 6."
+author: "Takestu2Tango"
+prep_time: PT15M
+cook_time: PT1H35M
+servings: 6
+calories: 385
+recipe_category: Main Course
+keywords:
+  - breast
+  - course
+  - main
+  - oven
+  - roasted
+  - turkey
+recipe_ingredients:
+  - "Butter"
+  - "Garlic"
+  - "Paprika"
+  - "Italian Seasoning"
+  - "Salt-Free Garlic Herb Seasoning Blend"
+  - "Salt Black Pepper"
+  - "Turkey Breast Skin"
+  - "Shallot"
+  - "Splash Dry White Wine"
+  - "Chicken Stock"
+  - "All-Purpose Flour"
+  - "Half-And-Half"
+allergies:
+  - Dairy
+  - Gluten
+flavors:
+  - Savory
+tools:
+  - Oven
+  - Skillet
+  - Mixing Bowl
+  - Whisk
+skill_level: Medium
+source_url: "https://www.allrecipes.com/recipe/229658/oven-roasted-turkey-breast/"
+---
+
+## Ingredients
+
+- ¼ cup butter, softened
+- 1 clove garlic, minced
+- 1 teaspoon paprika
+- 1 teaspoon Italian seasoning
+- ½ teaspoon salt-free garlic and herb seasoning blend (such as Mrs. Dash®)
+- salt and ground black pepper to taste
+- 1 (3 pound) turkey breast with skin
+- 1 teaspoon minced shallot
+- 1 tablespoon butter
+- 1 splash dry white wine
+- 1 cup chicken stock
+- 3 tablespoons all-purpose flour
+- 2 tablespoons half-and-half  (Optional)
+
+## Instructions
+
+1. Preheat oven to 350 degrees F (175 degrees C).
+2. Mix 1/4 cup butter, garlic, paprika, Italian seasoning, garlic and herb seasoning, salt, and black pepper in a bowl. Place turkey breast with skin side up into a roasting pan. Loosen skin with your fingers; brush half the butter mixture over the turkey breast and underneath the skin. Reserve remaining butter mixture. Tent turkey breast loosely with aluminum foil.
+3. Roast in the preheated oven for 1 hour; baste turkey breast with remaining butter mixture. Return to oven and roast until the juices run clear and an instant-read meat thermometer inserted into the thickest part of the breast, not touching bone, reads 165 degrees F (65 degrees C), about 30 more minutes. Let turkey breast rest 10 to 15 minutes before serving.
+4. While turkey is resting, transfer pan drippings to a skillet. Skim off excess grease, leaving about 1 tablespoon in skillet. Place skillet over low heat; cook and stir shallot in turkey grease until opaque, about 5 minutes.
+5. Melt 1 tablespoon butter in skillet with shallot and whisk in white wine, scraping any browned bits of food from skillet. Whisk in chicken stock and flour until smooth. Bring to a simmer, whisking constantly, until thickened. For a creamier, lighter gravy, whisk in half-and-half.
+
+## Frequently Asked Questions
+
+### How long does it take to make Oven-Roasted Turkey Breast?
+
+This recipe takes approximately 1 hour and 50 minutes from start to finish — 15 minutes of prep and 95 minutes of cooking. It is rated as medium difficulty.
+
+### How many servings does this Oven-Roasted Turkey Breast recipe make?
+
+This recipe yields 6 servings. You can adjust the serving size using the servings slider above the ingredient list.
+
+### Can I make Oven-Roasted Turkey Breast ahead of time? How should I store leftovers?
+
+Store leftovers in an airtight container in the refrigerator for up to 3-4 days.
+
+### How many calories are in Oven-Roasted Turkey Breast?
+
+Each serving contains approximately 385 calories. The recipe serves 6.
+
+### What temperature should I use for Oven-Roasted Turkey Breast?
+
+Follow the temperature specified in the recipe instructions. Make sure to preheat your oven fully.

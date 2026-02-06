@@ -1,0 +1,67 @@
+{
+  "contentHash": "98e9a80556cf625a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 pound) whole turkey",
+        "searchTerm": "whole turkey",
+        "normalizedName": "Whole Turkey"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh sage",
+        "searchTerm": "fresh sage",
+        "normalizedName": "Sage"
+      },
+      {
+        "ingredient": "2 tablespoons ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons celery salt",
+        "searchTerm": "celery salt",
+        "normalizedName": "Celery Salt"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 (12 ounce) jar honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "½ pound mesquite wood chips",
+        "searchTerm": "mesquite wood chips",
+        "normalizedName": "Mesquite Wood Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "smoker",
+        "searchTerm": "smoker"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Soak wood chips for at least 30 minutes before smoking",
+      "Baste turkey with honey glaze in the last hour of smoking for a glossy finish"
+    ],
+    "coachingPrompt": "Advise the user to maintain smoker temperature around 225°F, allowing approximately 12-15 minutes per pound for a 12-pound turkey."
+  },
+  "timestamp": "2026-02-06T09:24:29.256Z"
+}

@@ -1,0 +1,62 @@
+{
+  "contentHash": "7a50237abea3e94d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ cup balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "4 cloves garlic, pressed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "4 (3 ounce) fillets salmon",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh cilantro",
+        "searchTerm": "fresh cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "1 ½ teaspoons garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Instant-read thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Marinate salmon for at least 30 minutes before cooking for optimal flavor",
+      "Cook salmon to an internal temperature of 145°F for moist, tender results"
+    ],
+    "coachingPrompt": "Guide the user on proper marinating times and suggest serving accompaniments."
+  },
+  "timestamp": "2026-02-06T12:12:36.647Z"
+}

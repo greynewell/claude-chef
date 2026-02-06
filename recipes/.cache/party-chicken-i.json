@@ -1,0 +1,53 @@
+{
+  "contentHash": "3f7c2253595f8048",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 skinless, boneless chicken breasts",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "4 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 (4 ounce) jar dried beef",
+        "searchTerm": "dried beef",
+        "normalizedName": "Dried Beef"
+      },
+      {
+        "ingredient": "1 cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of chicken soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream of Chicken Soup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Wrap chicken breasts with bacon and dried beef for added flavor and moisture",
+      "Mix sour cream with soup to create a rich, creamy sauce",
+      "Bake covered to keep chicken moist, then uncover at end for slight browning"
+    ],
+    "coachingPrompt": "Guide the user in layering flavors with bacon-wrapped chicken and creating a silky sauce for a classic comfort dish."
+  },
+  "timestamp": "2026-02-06T14:12:40.625Z"
+}

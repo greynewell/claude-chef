@@ -1,0 +1,53 @@
+{
+  "contentHash": "56aeed45fd1d7989",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ⅓ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ cup fat-free milk",
+        "searchTerm": "fat-free milk",
+        "normalizedName": "Fat-Free Milk"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "pizza pan",
+        "searchTerm": "pizza pan"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Mix dough just until combined - too much kneading will develop gluten and toughen the crust",
+      "Spread dough on oiled pan and let rest 5 minutes before adding toppings for easier handling",
+      "Par-bake crust for 8-10 minutes before adding toppings for crispier result"
+    ],
+    "coachingPrompt": "How does this simple formula create pizza crust without yeast fermentation time?"
+  },
+  "timestamp": "2026-02-06T13:19:56.737Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "720f350862525fa7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 (2 ounce) hot dogs",
+        "searchTerm": "hot dogs",
+        "normalizedName": "Hot Dog"
+      },
+      {
+        "ingredient": "4 slices cold center-cut, thinly sliced bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 roll (blank)s large hot dog buns",
+        "searchTerm": "hot dog buns",
+        "normalizedName": "Hot Dog Bun"
+      },
+      {
+        "ingredient": "2 tablespoons prepared yellow mustard, or to taste",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      },
+      {
+        "ingredient": "2 tablespoons dill pickle relish, or to taste",
+        "searchTerm": "dill pickle relish",
+        "normalizedName": "Dill Pickle Relish"
+      },
+      {
+        "ingredient": "2 teaspoons diced red onion, or to taste",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "2 tablespoons diced tomato, or to taste",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet or griddle",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Wrap bacon tightly around hot dogs and secure with toothpicks if needed",
+      "Cook bacon until crispy before serving so it doesn't slide off the hot dog"
+    ],
+    "coachingPrompt": "How will you cook the bacon-wrapped hot dogs evenly without burning the outside?"
+  },
+  "timestamp": "2026-02-05T22:53:49.046Z"
+}

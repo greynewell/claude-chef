@@ -1,0 +1,72 @@
+{
+  "contentHash": "4df033bb7deb0432",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound dried pinto beans",
+        "searchTerm": "dried pinto beans",
+        "normalizedName": "Dried Pinto Bean"
+      },
+      {
+        "ingredient": "½ pound bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 (12 fluid ounce) bottle dark lager-style beer (such as Shiner Bock®)",
+        "searchTerm": "dark lager beer",
+        "normalizedName": "Dark Lager Beer"
+      },
+      {
+        "ingredient": "1 bunch cilantro, chopped",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "1 bunch green onions, chopped",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can diced tomatoes",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "1 fresh jalapeno pepper",
+        "searchTerm": "fresh jalapeno pepper",
+        "normalizedName": "Fresh Jalapeno Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Soak beans overnight to reduce cooking time and improve digestibility",
+      "Beer adds depth and helps tenderize the beans"
+    ],
+    "coachingPrompt": "Help the user understand how beer, cilantro, and spices create an authentic Tex-Mex flavored bean dish that's both hearty and flavorful."
+  },
+  "timestamp": "2026-02-06T18:39:20.488Z"
+}

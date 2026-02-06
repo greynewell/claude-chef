@@ -1,0 +1,88 @@
+{
+  "contentHash": "cfa838556bad440c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 Roma tomatoes",
+        "searchTerm": "roma tomatoes",
+        "normalizedName": "Roma Tomato"
+      },
+      {
+        "ingredient": "½ cup diced white onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 tablespoons chopped cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "¼ jalapeno pepper",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "¼ teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "1 pound lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 tablespoons taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning"
+      },
+      {
+        "ingredient": "½ cup shredded pepper Jack cheese",
+        "searchTerm": "pepper jack cheese",
+        "normalizedName": "Pepper Jack Cheese"
+      },
+      {
+        "ingredient": "12 frozen empanada wrappers",
+        "searchTerm": "empanada wrappers",
+        "normalizedName": "Empanada Wrapper"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 tablespoon water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "sheet pan"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Cool the meat filling completely before assembling to prevent wrapper damage",
+      "Seal empanada edges firmly with fork tines for a professional appearance",
+      "Brush with egg wash before baking for a golden, glossy finish"
+    ],
+    "coachingPrompt": "These are portable handheld items. How will you keep the filling moist while ensuring the wrapper is crispy and golden?"
+  },
+  "timestamp": "2026-02-06T20:13:27.049Z"
+}

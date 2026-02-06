@@ -1,0 +1,54 @@
+{
+  "contentHash": "083e9c90f0f98018",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 (32 ounce) package frozen bite-size potato nuggets",
+        "searchTerm": "tater tots",
+        "normalizedName": "Tater Tot"
+      },
+      {
+        "ingredient": "½ teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "¼ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "2 tablespoons chopped green onions",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Bake tater tots until golden and crispy before adding toppings",
+      "Crumble bacon while still warm for even distribution",
+      "Return to oven briefly to melt cheese without burning tots"
+    ],
+    "coachingPrompt": "How will you time the addition of toppings to keep the tots crispy?"
+  },
+  "timestamp": "2026-02-06T01:48:50.554Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "9bdc504f5e3c4e90",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound sliced bacon, cut into thirds",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 (20 ounce) can pineapple chunks in juice, drained",
+        "searchTerm": "pineapple chunks",
+        "normalizedName": "Pineapple Chunk"
+      },
+      {
+        "ingredient": "½ cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¼ cup chili sauce",
+        "searchTerm": "chili sauce",
+        "normalizedName": "Chili Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Drain pineapple chunks well to prevent soggy bacon",
+      "Mix brown sugar, mayo, and chili sauce together as a glaze before or after baking",
+      "Bake at 400°F for 20-25 minutes, stirring halfway through for even cooking"
+    ],
+    "coachingPrompt": "Help the user understand the sweet and savory flavor profile and when to apply the glaze for best results."
+  },
+  "timestamp": "2026-02-05T22:54:35.192Z"
+}

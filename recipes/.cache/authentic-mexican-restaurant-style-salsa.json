@@ -1,0 +1,53 @@
+{
+  "contentHash": "33a9cee979f24b8b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (28 ounce) can crushed tomatoes",
+        "searchTerm": "crushed tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "10 slices pickled jalapeno peppers with juice",
+        "searchTerm": "pickled jalapeno",
+        "normalizedName": "Pickled Jalapeno"
+      },
+      {
+        "ingredient": "10 cilantro leaves",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use the pickling juice from the jalapenos to add tang and depth",
+      "Pulse blend to achieve a chunky salsa texture, not smooth",
+      "Taste and adjust seasoning before serving"
+    ],
+    "coachingPrompt": "Guide the user to balance the heat from jalapenos with the acidity of tomatoes for restaurant-quality salsa."
+  },
+  "timestamp": "2026-02-05T22:37:54.058Z"
+}

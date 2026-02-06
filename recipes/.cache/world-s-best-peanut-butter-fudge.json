@@ -1,0 +1,58 @@
+{
+  "contentHash": "9ae045fac09ff8c1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (7 ounce) jar marshmallow creme",
+        "searchTerm": "marshmallow creme",
+        "normalizedName": "Marshmallow Creme"
+      },
+      {
+        "ingredient": "12 ounces peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "⅔ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "candy thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "8x8 baking pan",
+        "searchTerm": "baking pan"
+      }
+    ],
+    "cookingTips": [
+      "Monitor temperature carefully; soft ball stage is critical (234-240°F)",
+      "Stir in peanut butter quickly but thoroughly after reaching temperature",
+      "Pour into greased pan immediately; fudge sets quickly"
+    ],
+    "coachingPrompt": "Guide the user through making creamy peanut butter fudge by emphasizing proper temperature control and quick handling once off heat."
+  },
+  "timestamp": "2026-02-06T22:16:42.826Z"
+}

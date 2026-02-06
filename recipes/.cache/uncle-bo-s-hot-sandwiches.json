@@ -1,0 +1,73 @@
+{
+  "contentHash": "71a1f16ae91e3282",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "chipped chopped ham",
+        "searchTerm": "ham chipped chopped",
+        "normalizedName": "Chipped Chopped Ham"
+      },
+      {
+        "ingredient": "onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "barbecue sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "sweet chili sauce",
+        "searchTerm": "sweet chili sauce",
+        "normalizedName": "Sweet Chili Sauce"
+      },
+      {
+        "ingredient": "sweet pickle relish",
+        "searchTerm": "sweet pickle relish",
+        "normalizedName": "Sweet Pickle Relish"
+      },
+      {
+        "ingredient": "sweet pickle slices",
+        "searchTerm": "sweet pickle slices",
+        "normalizedName": "Sweet Pickle Slice"
+      },
+      {
+        "ingredient": "Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "hamburger bun",
+        "searchTerm": "hamburger bun",
+        "normalizedName": "Hamburger Bun"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon first and reserve fat for sautéing onions",
+      "Mix all sauces together before adding to ham mixture",
+      "Warm sandwiches briefly in oven to melt cheese perfectly"
+    ],
+    "coachingPrompt": "What's the best way to assemble and warm these sandwiches to get melted cheese and hot filling?"
+  },
+  "timestamp": "2026-02-06T21:28:38.625Z"
+}

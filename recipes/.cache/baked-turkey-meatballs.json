@@ -1,0 +1,49 @@
+{
+  "contentHash": "7dc582221f19c8eb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "ground turkey",
+        "searchTerm": "ground turkey",
+        "normalizedName": "Ground Turkey"
+      },
+      {
+        "ingredient": "Italian bread crumbs",
+        "searchTerm": "italian breadcrumbs",
+        "normalizedName": "Italian Bread Crumb"
+      },
+      {
+        "ingredient": "thinly sliced baby spinach",
+        "searchTerm": "spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "egg",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      },
+      {
+        "ingredient": "garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      "baking sheet",
+      "mixing bowl",
+      "spoon"
+    ],
+    "cookingTips": [
+      "Don't overmix; stir until just combined to prevent dense, tough meatballs",
+      "Use an ice cream scoop for uniform sizing so all meatballs cook evenly",
+      "Bake at 375°F for 15-18 minutes on a lined sheet; they're done when internal temp reaches 165°F"
+    ],
+    "coachingPrompt": "What's the best way to keep ground turkey meatballs tender and moist during baking?"
+  },
+  "timestamp": "2026-02-05T23:15:22.647Z"
+}

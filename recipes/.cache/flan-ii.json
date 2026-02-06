@@ -1,0 +1,56 @@
+{
+  "contentHash": "91ae42121a3aefa0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 egg yolks, beaten",
+        "searchTerm": "egg yolk",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "⅜ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "flan dish",
+        "searchTerm": "flan dish"
+      },
+      {
+        "name": "water bath",
+        "searchTerm": "water bath"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Temper eggs by slowly adding hot milk while whisking to prevent scrambling",
+      "Strain mixture through fine sieve for silky texture"
+    ],
+    "coachingPrompt": "Guide the user on tempering eggs and explain the importance of gentle cooking for smooth custard"
+  },
+  "timestamp": "2026-02-06T06:45:51.101Z"
+}

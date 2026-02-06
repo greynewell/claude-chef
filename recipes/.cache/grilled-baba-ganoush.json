@@ -1,0 +1,73 @@
+{
+  "contentHash": "26c62d28d5a30b1e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 large eggplant",
+        "searchTerm": "eggplant",
+        "normalizedName": "Eggplant"
+      },
+      {
+        "ingredient": "3 tablespoons tahini",
+        "searchTerm": "tahini",
+        "normalizedName": "Tahini"
+      },
+      {
+        "ingredient": "3 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¾ teaspoon smoked paprika",
+        "searchTerm": "smoked paprika",
+        "normalizedName": "Smoked Paprika"
+      },
+      {
+        "ingredient": "½ teaspoon cumin",
+        "searchTerm": "cumin",
+        "normalizedName": "Cumin"
+      },
+      {
+        "ingredient": "3 tablespoons chopped fresh parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "¼ cup extra virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Grill whole eggplants until skin is charred and flesh is very soft, about 20-30 minutes",
+      "Scoop flesh out of charred skin while still warm for easier processing",
+      "Blend until smooth and creamy, adjusting tahini and lemon juice to taste"
+    ],
+    "coachingPrompt": "Guide the user through charring eggplants completely and extracting the flesh for the smoothest baba ganoush."
+  },
+  "timestamp": "2026-02-06T08:10:19.108Z"
+}

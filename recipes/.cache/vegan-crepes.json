@@ -1,0 +1,62 @@
+{
+  "contentHash": "37a3982e3504a2cf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup soy milk",
+        "searchTerm": "soy milk",
+        "normalizedName": "Soy Milk"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup melted soy margarine",
+        "searchTerm": "soy margarine",
+        "normalizedName": "Soy Margarine"
+      },
+      {
+        "ingredient": "1 tablespoon turbinado sugar",
+        "searchTerm": "turbinado sugar",
+        "normalizedName": "Turbinado Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "1 cup unbleached all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "crepe pan",
+        "searchTerm": "crepe pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Let batter rest for 30 minutes before cooking for best results",
+      "Use medium heat and swirl pan quickly for thin, even crepes"
+    ],
+    "coachingPrompt": "Guide them on achieving proper batter consistency - should be pourable like thin pancake batter. Help them with tilting pan technique for even coating."
+  },
+  "timestamp": "2026-02-06T21:36:16.113Z"
+}

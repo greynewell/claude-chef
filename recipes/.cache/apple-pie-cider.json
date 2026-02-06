@@ -1,0 +1,48 @@
+{
+  "contentHash": "258b801092c756dc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 gallon apple juice",
+        "searchTerm": "apple juice",
+        "normalizedName": "Apple Juice"
+      },
+      {
+        "ingredient": "1 gallon apple cider",
+        "searchTerm": "apple cider",
+        "normalizedName": "Apple Cider"
+      },
+      {
+        "ingredient": "3 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "8 cinnamon sticks",
+        "searchTerm": "cinnamon sticks",
+        "normalizedName": "Cinnamon Stick"
+      },
+      {
+        "ingredient": "1 (750 milliliter) bottle 190 proof grain alcohol",
+        "searchTerm": "grain alcohol",
+        "normalizedName": "Grain Alcohol"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Heat cider and juice together but add alcohol after cooling to preserve proof",
+      "Cinnamon sticks infuse better if left in during serving"
+    ],
+    "coachingPrompt": "Why should the alcohol be added after cooling rather than during heating?"
+  },
+  "timestamp": "2026-02-05T22:14:36.331Z"
+}

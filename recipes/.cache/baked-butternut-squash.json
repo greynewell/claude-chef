@@ -1,0 +1,53 @@
+{
+  "contentHash": "95ef980ac5070c72",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 butternut squash, halved lengthwise and seeded",
+        "searchTerm": "butternut squash",
+        "normalizedName": "Butternut Squash"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon butter, divided",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "sharp knife"
+      }
+    ],
+    "cookingTips": [
+      "Cut squash in half and scoop out seeds for easier preparation",
+      "Place cut-side down on baking sheet with small amount of water to steam",
+      "Bake at 375°F for 35-40 minutes until flesh is very tender"
+    ],
+    "coachingPrompt": "Guide the user through roasting squash until tender, with a simple butter and seasoning finish."
+  },
+  "timestamp": "2026-02-05T23:00:03.768Z"
+}

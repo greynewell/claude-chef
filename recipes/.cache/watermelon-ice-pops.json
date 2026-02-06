@@ -1,0 +1,53 @@
+{
+  "contentHash": "419225997e4a58cb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups watermelon, seeded and diced",
+        "searchTerm": "watermelon",
+        "normalizedName": "Watermelon"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 tablespoon fresh lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "ice pop molds",
+        "searchTerm": "popsicle molds"
+      },
+      {
+        "name": "fine-mesh sieve",
+        "searchTerm": "fine-mesh sieve"
+      }
+    ],
+    "cookingTips": [
+      "Blend watermelon and strain to remove pulp for smooth ice pops",
+      "Mix water, honey, lemon, and sugar; combine with strained watermelon",
+      "Fill molds, insert sticks, and freeze for 6-8 hours until solid"
+    ],
+    "coachingPrompt": "What's the best ratio of fruit to liquid to get ice pops that freeze properly but aren't rock hard?"
+  },
+  "timestamp": "2026-02-06T21:59:14.867Z"
+}

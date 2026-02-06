@@ -1,0 +1,53 @@
+{
+  "contentHash": "f41f2a5d0d2213f9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package crescent dough sheet",
+        "searchTerm": "crescent dough",
+        "normalizedName": "Crescent Dough"
+      },
+      {
+        "ingredient": "4 ounces garlic and herb cream cheese spread",
+        "searchTerm": "garlic herb cream cheese",
+        "normalizedName": "Garlic And Herb Cream Cheese"
+      },
+      {
+        "ingredient": "1 large egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 tablespoon water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 teaspoons everything bagel seasoning",
+        "searchTerm": "everything bagel seasoning",
+        "normalizedName": "Everything Bagel Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Pastry Brush",
+        "searchTerm": "pastry brush"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Brush egg wash evenly for a golden, shiny finish",
+      "Bake at 375°F for 12-15 minutes until edges are puffed and golden",
+      "Fill crescent triangles generously but don't overstuff"
+    ],
+    "coachingPrompt": "What temperature and time should I use to bake these everything bagel crescent bites?"
+  },
+  "timestamp": "2026-02-06T06:24:33.742Z"
+}

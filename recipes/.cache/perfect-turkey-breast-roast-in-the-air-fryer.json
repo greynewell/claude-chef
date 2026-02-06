@@ -1,0 +1,63 @@
+{
+  "contentHash": "6934961a04d6b622",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (3 pound) frozen turkey breast roast",
+        "searchTerm": "frozen turkey breast",
+        "normalizedName": "Turkey Breast Roast"
+      },
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "⅓ cup kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "⅓ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 pinch seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Small Bowl",
+        "searchTerm": "small bowl"
+      }
+    ],
+    "cookingTips": [
+      "Brine the turkey breast before cooking to ensure moisture retention",
+      "Use a meat thermometer to check for doneness at 165°F",
+      "Let meat rest 10 minutes before slicing for better texture"
+    ],
+    "coachingPrompt": "Explain how brining prevents the white meat from drying out and why resting time is essential before carving."
+  },
+  "timestamp": "2026-02-06T14:37:03.420Z"
+}

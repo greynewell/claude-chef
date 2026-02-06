@@ -1,0 +1,63 @@
+{
+  "contentHash": "16ca3d3c50c55ae4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 teaspoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can diced tomatoes with green peppers and onions",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "¼ cup sun-dried tomato pesto",
+        "searchTerm": "sun dried tomato pesto",
+        "normalizedName": "Sun-Dried Tomato Pesto"
+      },
+      {
+        "ingredient": "1 (14 ounce) can artichoke hearts in water, drained and quartered",
+        "searchTerm": "artichoke hearts",
+        "normalizedName": "Artichoke Heart"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Season chicken before cooking for better flavor distribution",
+      "Sear chicken briefly first for better browning and texture",
+      "Ensure chicken reaches 165°F internal temperature for food safety"
+    ],
+    "coachingPrompt": "Why should you brown the chicken before adding the sauce?"
+  },
+  "timestamp": "2026-02-05T22:22:37.832Z"
+}

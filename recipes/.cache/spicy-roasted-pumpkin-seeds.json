@@ -1,0 +1,53 @@
+{
+  "contentHash": "cb993fe6c01efd14",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups pumpkin seeds",
+        "searchTerm": "pumpkin seeds",
+        "normalizedName": "Pumpkin Seed"
+      },
+      {
+        "ingredient": "½ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Stir seeds every 10 minutes for even toasting and prevent burning",
+      "Use melted butter for better seasoning adhesion than oil",
+      "Cool completely after roasting for maximum crunch"
+    ],
+    "coachingPrompt": "What roasting temperature and duration will give you golden, crispy seeds without scorching?"
+  },
+  "timestamp": "2026-02-06T19:06:16.344Z"
+}

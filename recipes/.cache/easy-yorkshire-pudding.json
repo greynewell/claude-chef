@@ -1,0 +1,48 @@
+{
+  "contentHash": "8683a12b48f36a1d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "muffin tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Let batter rest for 30 minutes before baking for better rise",
+      "Preheat muffin tin with oil until smoking for maximum puff",
+      "Don't open oven door during baking or puddings will collapse"
+    ],
+    "coachingPrompt": "What's the secret to achieving tall, puffy Yorkshire puddings that don't deflate?"
+  },
+  "timestamp": "2026-02-06T06:07:16.212Z"
+}

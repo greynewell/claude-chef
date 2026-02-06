@@ -1,0 +1,44 @@
+{
+  "contentHash": "a2e8756f31c5c669",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 red apples",
+        "searchTerm": "red apples",
+        "normalizedName": "Red Apple"
+      },
+      {
+        "ingredient": "¼ cup raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      },
+      {
+        "ingredient": "1 tablespoon peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "8 thin pretzel sticks",
+        "searchTerm": "pretzel sticks",
+        "normalizedName": "Pretzel Stick"
+      }
+    ],
+    "gear": [
+      {
+        "name": "small plate",
+        "searchTerm": "plate"
+      },
+      {
+        "name": "butter knife",
+        "searchTerm": "butter knife"
+      }
+    ],
+    "cookingTips": [
+      "Halve apples and scoop a small hollow to create the ladybug body",
+      "Use peanut butter as adhesive to attach raisins as spots",
+      "Stick pretzel pieces into apple halves for antennae"
+    ],
+    "coachingPrompt": "Help the user create a fun, nutritious snack by transforming apples into creative ladybug shapes using simple ingredients."
+  },
+  "timestamp": "2026-02-05T22:13:41.945Z"
+}

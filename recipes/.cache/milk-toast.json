@@ -1,0 +1,53 @@
+{
+  "contentHash": "49977948c96f5316",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "⅓ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 ½ tablespoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "6 slices white bread, toasted",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "3 pinches ground cinnamon, or to taste",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "Shallow bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Heat milk gently to avoid curdling and preserve creaminess",
+      "Toast bread until golden for better texture that holds up in warm milk",
+      "Serve immediately while bread is still somewhat crisp and milk is warm"
+    ],
+    "coachingPrompt": "How can you achieve the right balance between crispy toast and milk-softened bread?"
+  },
+  "timestamp": "2026-02-06T12:27:44.316Z"
+}

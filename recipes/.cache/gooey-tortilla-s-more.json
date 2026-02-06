@@ -1,0 +1,43 @@
+{
+  "contentHash": "015f5978d4f43a66",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10 ounce) package large marshmallows, frozen",
+        "searchTerm": "marshmallows",
+        "normalizedName": "Marshmallow"
+      },
+      {
+        "ingredient": "1 (13.5 ounce) package graham crackers, crumbled",
+        "searchTerm": "graham crackers",
+        "normalizedName": "Graham Cracker"
+      },
+      {
+        "ingredient": "1 (12 ounce) bag semisweet chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Semisweet Chocolate Chip"
+      },
+      {
+        "ingredient": "8 (10 inch) flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Keep marshmallows frozen until cooking to prevent premature melting",
+      "Use medium heat to allow chocolate to melt evenly while crisping the tortilla"
+    ],
+    "coachingPrompt": "What's the best technique to layer and heat these ingredients so everything melts together without burning the tortilla?"
+  },
+  "timestamp": "2026-02-06T07:43:27.072Z"
+}

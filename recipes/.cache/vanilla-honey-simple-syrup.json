@@ -1,0 +1,43 @@
+{
+  "contentHash": "18ec48c6e0a0710c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 teaspoons milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 teaspoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 tablespoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "2 teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Heat gently and stir until honey and butter are fully incorporated",
+      "Store in a clean glass jar in the refrigerator for up to 2 weeks"
+    ],
+    "coachingPrompt": "How would you use this syrup and why is the ratio of liquid to flavoring important?"
+  },
+  "timestamp": "2026-02-06T21:32:14.898Z"
+}

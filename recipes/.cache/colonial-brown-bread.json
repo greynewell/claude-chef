@@ -1,0 +1,58 @@
+{
+  "contentHash": "7c549c3c2286ead2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups buttermilk",
+        "searchTerm": "buttermilk",
+        "normalizedName": "Buttermilk"
+      },
+      {
+        "ingredient": "4 cups whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "1 ⅓ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "4 teaspoons baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Bread Pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Mix ingredients gently until just combined; overmixing develops gluten and toughens the bread",
+      "Divide dough evenly between two loaf pans for consistent baking",
+      "Test doneness with a toothpick inserted in the center; it should come out clean"
+    ],
+    "coachingPrompt": "Explain the importance of not overmixing quick breads and proper fill levels for loaf pans."
+  },
+  "timestamp": "2026-02-06T03:45:52.406Z"
+}

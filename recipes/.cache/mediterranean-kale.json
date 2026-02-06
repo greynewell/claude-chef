@@ -1,0 +1,63 @@
+{
+  "contentHash": "57a7587bfdc9ddea",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 cups chopped kale",
+        "searchTerm": "kale",
+        "normalizedName": "Kale"
+      },
+      {
+        "ingredient": "2 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil, or as needed",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Massage raw kale with a pinch of salt to soften it before cooking",
+      "Cook over medium-high heat and keep stirring to prevent burning",
+      "Lemon juice brightens the dish and prevents kale from tasting bitter"
+    ],
+    "coachingPrompt": "What's the best technique to soften kale while keeping it slightly crispy and not mushy?"
+  },
+  "timestamp": "2026-02-06T12:11:34.465Z"
+}

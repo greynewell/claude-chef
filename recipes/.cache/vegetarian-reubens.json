@@ -1,0 +1,58 @@
+{
+  "contentHash": "68bec7a1b87551db",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound smoked Cheddar cheese, shredded",
+        "searchTerm": "smoked cheddar cheese",
+        "normalizedName": "Smoked Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 cup thousand island salad dressing, or to taste",
+        "searchTerm": "thousand island dressing",
+        "normalizedName": "Thousand Island Dressing"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar sauerkraut, drained",
+        "searchTerm": "sauerkraut",
+        "normalizedName": "Sauerkraut"
+      },
+      {
+        "ingredient": "12 slices dark rye bread",
+        "searchTerm": "dark rye bread",
+        "normalizedName": "Dark Rye Bread"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tomatoes, sliced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread before assembly to provide structural support for fillings",
+      "Drain sauerkraut well to prevent soggy sandwiches",
+      "Build sandwiches quickly and cook immediately for best results"
+    ],
+    "coachingPrompt": "Guide the user on proper Reuben assembly order and teach grilled sandwich technique for even browning"
+  },
+  "timestamp": "2026-02-06T21:45:14.218Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "bb14544d277b1d86",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ onion, sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ cup balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "5 cloves garlic, crushed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Mason jar",
+        "searchTerm": "mason jar"
+      },
+      {
+        "name": "Egg slicer or knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Boil eggs until hard-cooked, then shock in ice water for easier peeling",
+      "Allow pickled eggs to sit in the brine for at least 24 hours for best flavor development"
+    ],
+    "coachingPrompt": "Walk through the brining process and explain how the vinegar and sugar balance creates the pickled flavor."
+  },
+  "timestamp": "2026-02-05T23:19:00.877Z"
+}

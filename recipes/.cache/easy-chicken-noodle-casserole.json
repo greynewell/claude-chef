@@ -1,0 +1,68 @@
+{
+  "contentHash": "599c12e0507a60b1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (3 pound) chicken - cooked, deboned and shredded",
+        "searchTerm": "cooked chicken",
+        "normalizedName": "Cooked Chicken"
+      },
+      {
+        "ingredient": "6 ounces spaghetti",
+        "searchTerm": "spaghetti",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of chicken soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream of Chicken Soup"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook spaghetti 1-2 minutes under al dente since it will continue cooking in the oven",
+      "Mix pasta, chicken, and sauce gently to avoid breaking noodles",
+      "Top with cheese and bake at 350°F for 25-30 minutes until bubbly and golden"
+    ],
+    "coachingPrompt": "Help the cook understand the importance of cooking pasta slightly under to prevent mushiness in the final casserole."
+  },
+  "timestamp": "2026-02-06T05:38:57.931Z"
+}

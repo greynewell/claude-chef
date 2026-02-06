@@ -1,0 +1,53 @@
+{
+  "contentHash": "00ec90e41f46ebb1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup brewed coffee",
+        "searchTerm": "brewed coffee",
+        "normalizedName": "Brewed Coffee"
+      },
+      {
+        "ingredient": "2 large pasteurized egg yolks",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup avocado",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "¼ cup ice cubes",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      },
+      {
+        "ingredient": "1 tablespoon coconut sugar",
+        "searchTerm": "coconut sugar",
+        "normalizedName": "Coconut Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons coconut oil, melted",
+        "searchTerm": "coconut oil",
+        "normalizedName": "Coconut Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Use pasteurized eggs for food safety when consuming raw or lightly cooked",
+      "Blend avocado thoroughly to create creamy texture without visible chunks"
+    ],
+    "coachingPrompt": "How does the avocado contribute to the smoothie's texture, and what would be a good dairy-free substitute?"
+  },
+  "timestamp": "2026-02-06T01:05:23.651Z"
+}

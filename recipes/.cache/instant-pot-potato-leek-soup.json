@@ -1,0 +1,63 @@
+{
+  "contentHash": "d85bfe8247da0775",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup chopped leeks, white part only",
+        "searchTerm": "leeks",
+        "normalizedName": "Leek"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "3 large russet potatoes, peeled and cubed",
+        "searchTerm": "russet potatoes",
+        "normalizedName": "Russet Potato"
+      },
+      {
+        "ingredient": "2 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 cup fat free half-and-half",
+        "searchTerm": "half-and-half",
+        "normalizedName": "Half-And-Half"
+      },
+      {
+        "ingredient": "1 tablespoon seasoned salt blend",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Instant Pot",
+        "searchTerm": "instant pot pressure cooker"
+      },
+      {
+        "name": "Immersion Blender",
+        "searchTerm": "immersion blender"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Clean leeks thoroughly by slicing lengthwise and rinsing between layers to remove soil",
+      "Use only the white and light green parts of leeks for milder, more delicate flavor",
+      "Blend soup partially for a chunky texture, or fully for a smooth, velvety finish"
+    ],
+    "coachingPrompt": "Guide the user on properly cleaning and preparing leeks. Explain how this elegant vegetable adds a mild onion-like sweetness that pairs beautifully with potatoes and cream."
+  },
+  "timestamp": "2026-02-06T09:55:00.663Z"
+}

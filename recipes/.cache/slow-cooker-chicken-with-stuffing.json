@@ -1,0 +1,53 @@
+{
+  "contentHash": "12b9dd7d82c83f7a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "boneless, skinless chicken breasts",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "cream of chicken soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream of Chicken Soup"
+      },
+      {
+        "ingredient": "stuffing mix",
+        "searchTerm": "stuffing mix",
+        "normalizedName": "Stuffing Mix"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Prepare stuffing mix according to package directions and layer over chicken",
+      "Place chicken in slow cooker first, then layer stuffing on top",
+      "Cook on low setting to prevent stuffing from becoming mushy"
+    ],
+    "coachingPrompt": "Guide the user on proper layering technique and cooking time to achieve tender chicken with fluffy stuffing."
+  },
+  "timestamp": "2026-02-06T18:08:28.916Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "a1bd2dd297533d63",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices whole grain bread",
+        "searchTerm": "whole grain bread",
+        "normalizedName": "Whole Grain Bread"
+      },
+      {
+        "ingredient": "1 tablespoon Country Crock® Spread",
+        "searchTerm": "butter spread",
+        "normalizedName": "Butter Spread"
+      },
+      {
+        "ingredient": "1 medium tomato, sliced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "4 ounces sliced Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill or griddle",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Spread butter substitute on outer bread surfaces for even browning",
+      "Cook on medium heat to allow cheese to melt while toasting bread",
+      "Use fresh, ripe tomatoes for best flavor and minimal excess moisture"
+    ],
+    "coachingPrompt": "Why is the outer surface of bread buttered rather than the inside? How does temperature control affect melting?"
+  },
+  "timestamp": "2026-02-06T08:11:12.959Z"
+}

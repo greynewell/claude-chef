@@ -1,0 +1,53 @@
+{
+  "contentHash": "3554d4c6f2f5cd64",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons bacon-flavored mayonnaise (such as Baconnaise®)",
+        "searchTerm": "bacon mayonnaise",
+        "normalizedName": "Bacon Mayonnaise"
+      },
+      {
+        "ingredient": "6 jalapeno pepper, halved lengthwise",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "12 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "12 toothpicks (Optional)",
+        "searchTerm": "toothpicks",
+        "normalizedName": "Toothpick"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Small bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Mix cream cheese and bacon mayo until smooth before filling peppers for consistent flavor distribution",
+      "Wrap bacon tightly around each popper and use toothpicks to secure if needed during baking",
+      "Place poppers seam-side down on the baking sheet to prevent filling from leaking out"
+    ],
+    "coachingPrompt": "How does adding bacon-flavored mayo enhance the filling beyond regular cream cheese?"
+  },
+  "timestamp": "2026-02-05T22:58:19.110Z"
+}

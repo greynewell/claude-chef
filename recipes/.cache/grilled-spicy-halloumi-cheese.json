@@ -1,0 +1,53 @@
+{
+  "contentHash": "14f709f288334c78",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 ounces halloumi cheese, sliced",
+        "searchTerm": "halloumi cheese",
+        "normalizedName": "Halloumi Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon Sriracha sauce",
+        "searchTerm": "Sriracha sauce",
+        "normalizedName": "Sriracha Sauce"
+      },
+      {
+        "ingredient": "2 teaspoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "¼ teaspoon black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill pan",
+        "searchTerm": "grill pan"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "grill tongs"
+      }
+    ],
+    "cookingTips": [
+      "Don't move halloumi on grill - let it develop a golden crust on each side",
+      "High melting point of halloumi allows it to char without losing structure",
+      "Serve immediately while warm for the best creamy texture"
+    ],
+    "coachingPrompt": "How does the heat of Sriracha complement the richness and chew of grilled halloumi?"
+  },
+  "timestamp": "2026-02-06T08:27:19.808Z"
+}

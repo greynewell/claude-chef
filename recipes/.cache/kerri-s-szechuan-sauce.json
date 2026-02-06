@@ -1,0 +1,63 @@
+{
+  "contentHash": "f4d4e0212434415d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons oyster sauce",
+        "searchTerm": "oyster sauce",
+        "normalizedName": "Oyster Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons rice wine",
+        "searchTerm": "rice wine",
+        "normalizedName": "Rice Wine"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 teaspoons ground white pepper",
+        "searchTerm": "white pepper",
+        "normalizedName": "White Pepper"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 tablespoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Measuring spoons",
+        "searchTerm": "measuring spoons"
+      }
+    ],
+    "cookingTips": [
+      "Mix cornstarch with a small amount of cold water before adding to hot sauce",
+      "Whisk thoroughly to ensure no lumps form when heating",
+      "This sauce thickens as it heats, so heat gently and stir constantly"
+    ],
+    "coachingPrompt": "How do you prevent lumps when using cornstarch as a thickener?"
+  },
+  "timestamp": "2026-02-06T10:40:11.623Z"
+}

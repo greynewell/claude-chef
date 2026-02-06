@@ -1,0 +1,52 @@
+{
+  "contentHash": "6a579e1fde06b138",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 (6 ounce) filet mignon steaks",
+        "searchTerm": "filet mignon",
+        "normalizedName": "Filet Mignon"
+      },
+      {
+        "ingredient": "1 (16 ounce) bottle Italian dressing",
+        "searchTerm": "italian dressing",
+        "normalizedName": "Italian Dressing"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "¼ cup minced jalapeno pepper",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "20 slices thinly sliced bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Marinate steaks in Italian dressing before stuffing to enhance tenderness and flavor",
+      "Wrap bacon around steaks to keep filling intact while cooking and add smoky flavor"
+    ],
+    "coachingPrompt": "How will you maintain medium-rare doneness while ensuring the filling heats through? What's your timing strategy?"
+  },
+  "timestamp": "2026-02-06T19:39:25.374Z"
+}

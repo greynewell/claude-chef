@@ -1,0 +1,63 @@
+{
+  "contentHash": "a11145f124ac7ac3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup teriyaki sauce",
+        "searchTerm": "teriyaki sauce",
+        "normalizedName": "Teriyaki Sauce"
+      },
+      {
+        "ingredient": "½ cup apple juice",
+        "searchTerm": "apple juice",
+        "normalizedName": "Apple Juice"
+      },
+      {
+        "ingredient": "2 tablespoons brown sugar, or more to taste",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "½ teaspoon freshly cracked black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 (6 ounce) fillets salmon",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Fish Spatula",
+        "searchTerm": "fish spatula"
+      },
+      {
+        "name": "Basting Brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Marinate salmon for 2-4 hours for maximum flavor absorption",
+      "Apply glaze during the last few minutes of cooking to prevent burning",
+      "Cook skin-side down first, then flip for even cooking"
+    ],
+    "coachingPrompt": "What's the ideal internal temperature for grilled salmon?"
+  },
+  "timestamp": "2026-02-06T08:29:19.219Z"
+}

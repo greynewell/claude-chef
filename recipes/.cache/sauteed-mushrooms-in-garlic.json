@@ -1,0 +1,48 @@
+{
+  "contentHash": "b5c68fac88ac3fb6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 pounds sliced fresh mushrooms",
+        "searchTerm": "fresh mushrooms",
+        "normalizedName": "Fresh Mushroom"
+      },
+      {
+        "ingredient": "4 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "1 cup red wine",
+        "searchTerm": "red wine",
+        "normalizedName": "Red Wine"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cut mushrooms evenly so they cook uniformly",
+      "Let mushrooms release their moisture first, then cook until golden"
+    ],
+    "coachingPrompt": "How do you extract maximum flavor from mushrooms when sautéing?"
+  },
+  "timestamp": "2026-02-06T17:02:24.116Z"
+}

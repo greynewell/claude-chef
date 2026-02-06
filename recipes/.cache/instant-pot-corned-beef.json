@@ -1,0 +1,48 @@
+{
+  "contentHash": "a8bd88f53cefdbce",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (12 fluid ounce) can or bottle beer",
+        "searchTerm": "beer",
+        "normalizedName": "Beer"
+      },
+      {
+        "ingredient": "4 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 (3 pound) corned beef brisket with spice packet",
+        "searchTerm": "corned beef brisket",
+        "normalizedName": "Corned Beef Brisket"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Instant Pot",
+        "searchTerm": "instant pot"
+      },
+      {
+        "name": "Trivet",
+        "searchTerm": "instant pot trivet"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "kitchen tongs"
+      }
+    ],
+    "cookingTips": [
+      "Ensure the brisket is fully submerged in liquid for even cooking",
+      "The spice packet is essential - do not discard it",
+      "Allow natural pressure release for 10-15 minutes before quick releasing"
+    ],
+    "coachingPrompt": "Guide the user through selecting quality corned beef and explain why the beer adds depth to the broth."
+  },
+  "timestamp": "2026-02-06T09:49:33.378Z"
+}

@@ -1,0 +1,42 @@
+{
+  "contentHash": "ba9d87c71469bfab",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon fresh lavender blossoms",
+        "searchTerm": "fresh lavender",
+        "normalizedName": "Fresh Lavender"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "strainer",
+        "searchTerm": "fine mesh strainer"
+      },
+      {
+        "name": "jar",
+        "searchTerm": "glass jar"
+      }
+    ],
+    "cookingTips": [
+      "Steep lavender after removing from heat for subtler flavor",
+      "Store in refrigerator for up to 2 weeks"
+    ],
+    "coachingPrompt": "How do you infuse delicate floral flavors into syrup without over-steeping?"
+  },
+  "timestamp": "2026-02-06T11:02:08.912Z"
+}

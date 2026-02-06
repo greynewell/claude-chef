@@ -1,0 +1,58 @@
+{
+  "contentHash": "2eadc99b7c876f15",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "aluminum foil",
+        "searchTerm": "aluminum foil",
+        "normalizedName": "Aluminum Foil"
+      },
+      {
+        "ingredient": "2 large white onions",
+        "searchTerm": "onions",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "8 ounces baby bella mushrooms",
+        "searchTerm": "bella mushrooms",
+        "normalizedName": "Baby Bella Mushroom"
+      },
+      {
+        "ingredient": "2 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "4 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "5 tablespoons steak seasoning",
+        "searchTerm": "steak seasoning",
+        "normalizedName": "Steak Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "aluminum foil",
+        "searchTerm": "foil"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Create foil packets by layering vegetables and butter between two sheets with shiny side facing in",
+      "Seal edges tightly but leave slight venting so steam escapes gradually during grilling",
+      "Grill packets for 15-20 minutes until vegetables are tender and onions become translucent"
+    ],
+    "coachingPrompt": "Guide the user through making a simple vegetable side dish in foil packets with proper steaming."
+  },
+  "timestamp": "2026-02-06T08:20:21.777Z"
+}

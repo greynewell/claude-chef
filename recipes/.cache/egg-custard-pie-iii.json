@@ -1,0 +1,68 @@
+{
+  "contentHash": "96eab43d37ffa871",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "½ teaspoon ground nutmeg",
+        "searchTerm": "ground nutmeg",
+        "normalizedName": "Ground Nutmeg"
+      },
+      {
+        "ingredient": "1 recipe pastry for a 9 inch single crust pie",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pie Dish",
+        "searchTerm": "9 inch pie dish"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Whisk ingredients until well combined and sugar is mostly dissolved",
+      "Use freshly grated nutmeg for superior flavor over ground",
+      "Bake until custard is set but still slightly jiggly in the center"
+    ],
+    "coachingPrompt": "Help me achieve the perfect custard consistency with proper whisking technique."
+  },
+  "timestamp": "2026-02-06T06:09:11.308Z"
+}

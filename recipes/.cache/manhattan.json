@@ -1,0 +1,48 @@
+{
+  "contentHash": "694948624481b000",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 fluid ounces bourbon",
+        "searchTerm": "bourbon",
+        "normalizedName": "Bourbon"
+      },
+      {
+        "ingredient": "½ fluid ounce sweet vermouth",
+        "searchTerm": "sweet vermouth",
+        "normalizedName": "Sweet Vermouth"
+      },
+      {
+        "ingredient": "1 maraschino cherry (Optional)",
+        "searchTerm": "maraschino cherry",
+        "normalizedName": "Maraschino Cherry"
+      },
+      {
+        "ingredient": "½ cup ice",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing glass",
+        "searchTerm": "mixing glass"
+      },
+      {
+        "name": "bar spoon",
+        "searchTerm": "bar spoon"
+      },
+      {
+        "name": "cocktail strainer",
+        "searchTerm": "cocktail strainer"
+      }
+    ],
+    "cookingTips": [
+      "Chill the coupe glass in the freezer while preparing the drink",
+      "Stir ingredients gently with ice until well-chilled and diluted",
+      "Strain into the glass and garnish with the cherry on a pick"
+    ],
+    "coachingPrompt": "I'm making a Manhattan cocktail. What's the right ratio of bourbon to vermouth?"
+  },
+  "timestamp": "2026-02-06T11:52:41.835Z"
+}

@@ -1,0 +1,62 @@
+{
+  "contentHash": "052bd72677b41f59",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 pounds red potatoes, peeled and cut into chunks",
+        "searchTerm": "red potato",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (8 ounce) container sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 ½ cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "2 teaspoons garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "potato masher",
+        "searchTerm": "potato masher"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Keep potatoes in large chunks initially to prevent them from breaking down during cooking",
+      "Add dairy ingredients in the last 30 minutes of cooking to prevent curdling"
+    ],
+    "coachingPrompt": "Why should you add cream cheese and sour cream toward the end of slow cooking?"
+  },
+  "timestamp": "2026-02-06T07:19:14.394Z"
+}

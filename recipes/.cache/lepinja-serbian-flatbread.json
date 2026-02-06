@@ -1,0 +1,57 @@
+{
+  "contentHash": "c451975fa1c5781b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (.25 ounce) package active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "2 tablespoons warm milk (110 to 115 degrees F)",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 cup warm water (110 to 115 degrees F)",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 ⅓ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "kitchen scale",
+        "searchTerm": "kitchen scale"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Ensure liquid temperature is exactly 110-115°F to properly activate yeast",
+      "Allow dough to rise in a warm, draft-free location for best results"
+    ],
+    "coachingPrompt": "What signs indicate your dough has risen sufficiently for shaping?"
+  },
+  "timestamp": "2026-02-06T11:22:27.682Z"
+}

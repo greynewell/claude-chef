@@ -1,0 +1,63 @@
+{
+  "contentHash": "1bcb8c77b7506d60",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (18.25 ounce) package yellow cake mix",
+        "searchTerm": "yellow cake mix",
+        "normalizedName": "Yellow Cake Mix"
+      },
+      {
+        "ingredient": "1 (3.4 ounce) package instant pistachio pudding mix",
+        "searchTerm": "pistachio pudding mix",
+        "normalizedName": "Instant Pistachio Pudding Mix"
+      },
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 ½ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "½ teaspoon almond extract",
+        "searchTerm": "almond extract",
+        "normalizedName": "Almond Extract"
+      },
+      {
+        "ingredient": "7 drops green food coloring",
+        "searchTerm": "green food coloring",
+        "normalizedName": "Green Food Coloring"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cake Pan",
+        "searchTerm": "round cake pan"
+      },
+      {
+        "name": "Electric Mixer",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Mix ingredients on medium speed for 1-2 minutes until well combined",
+      "Use green food coloring to enhance pistachio flavor perception",
+      "Bake at 350°F for 30-35 minutes until toothpick comes out clean"
+    ],
+    "coachingPrompt": "Guide the user on achieving the right pistachio green color and flavor balance with the pudding mix."
+  },
+  "timestamp": "2026-02-06T14:52:12.376Z"
+}

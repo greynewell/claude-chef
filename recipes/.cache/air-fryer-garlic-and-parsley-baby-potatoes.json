@@ -1,0 +1,53 @@
+{
+  "contentHash": "f9981abb526a2c42",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound baby potatoes",
+        "searchTerm": "baby potatoes",
+        "normalizedName": "Baby Potato"
+      },
+      {
+        "ingredient": "1 tablespoon avocado oil",
+        "searchTerm": "avocado oil",
+        "normalizedName": "Avocado Oil"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon granulated garlic",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Granulated Garlic"
+      },
+      {
+        "ingredient": "½ teaspoon dried parsley",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes into uniform sizes so they cook evenly",
+      "Toss potatoes thoroughly with oil and seasonings for even distribution",
+      "Shake the basket halfway through cooking to ensure all sides brown nicely"
+    ],
+    "coachingPrompt": "Guide me through preparing and air-frying garlic and parsley baby potatoes until golden"
+  },
+  "timestamp": "2026-02-05T21:43:38.977Z"
+}

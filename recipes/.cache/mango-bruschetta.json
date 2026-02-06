@@ -1,0 +1,48 @@
+{
+  "contentHash": "16f8c70dd7ae7ab5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (1 pound) loaf French bread, cut into 1/2 inch pieces",
+        "searchTerm": "French bread",
+        "normalizedName": "French Bread"
+      },
+      {
+        "ingredient": "1 mango - peeled, seeded and diced",
+        "searchTerm": "mango",
+        "normalizedName": "Mango"
+      },
+      {
+        "ingredient": "1 tablespoon fresh basil, minced",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      },
+      {
+        "ingredient": "1 cup grated Romano cheese",
+        "searchTerm": "Romano cheese",
+        "normalizedName": "Romano Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "serrated knife",
+        "searchTerm": "serrated knife"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread slices lightly to prevent sogginess",
+      "Dice mango just before serving to maintain freshness",
+      "Combine mango mixture and cheese just before topping bread"
+    ],
+    "coachingPrompt": "How can you prevent the bruschetta from becoming soggy while keeping the toppings fresh and flavorful?"
+  },
+  "timestamp": "2026-02-06T11:51:49.608Z"
+}

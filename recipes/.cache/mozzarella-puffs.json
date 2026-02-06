@@ -1,0 +1,43 @@
+{
+  "contentHash": "0923786539bfe899",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (7.5 ounce) package refrigerated buttermilk biscuit dough",
+        "searchTerm": "buttermilk biscuit dough",
+        "normalizedName": "Buttermilk Biscuit Dough"
+      },
+      {
+        "ingredient": "1 teaspoon dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Oregano"
+      },
+      {
+        "ingredient": "3 ounces mozzarella cheese, cut into 3/4 inch cubes",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Ensure mozzarella cubes are cold to prevent excessive melting during baking",
+      "Don't overstuff the biscuits or cheese will leak out during cooking"
+    ],
+    "coachingPrompt": "Walk me through how to wrap biscuit dough around cheese cubes to create a sealed puff without leaking."
+  },
+  "timestamp": "2026-02-06T12:54:50.673Z"
+}

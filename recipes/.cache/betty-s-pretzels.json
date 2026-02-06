@@ -1,0 +1,43 @@
+{
+  "contentHash": "79b9109b8e63cb20",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "24 ounces bite-size pretzels",
+        "searchTerm": "pretzels",
+        "normalizedName": "Pretzel"
+      },
+      {
+        "ingredient": "1 package dry onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      },
+      {
+        "ingredient": "1 cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large bowl",
+        "searchTerm": "large bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Toss pretzels gently to coat evenly without breaking them",
+      "Spread in single layer on baking sheet for even toasting",
+      "Store in airtight container to maintain crispness"
+    ],
+    "coachingPrompt": "This is a quick snack mix. What temperature and timing would you recommend for toasting without burning?"
+  },
+  "timestamp": "2026-02-06T00:06:44.532Z"
+}

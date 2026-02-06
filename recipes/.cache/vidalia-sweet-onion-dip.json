@@ -1,0 +1,48 @@
+{
+  "contentHash": "27469cd5206291ab",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 cups shredded Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "2 cups thinly sliced Vidalia sweet onion",
+        "searchTerm": "Vidalia onion",
+        "normalizedName": "Vidalia Onion"
+      },
+      {
+        "ingredient": "hot sauce, or to taste",
+        "searchTerm": "hot sauce",
+        "normalizedName": "Hot Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      }
+    ],
+    "cookingTips": [
+      "Toast the onions lightly to reduce raw bite and add caramelization",
+      "Bake warm for melted, creamy dip or serve cold"
+    ],
+    "coachingPrompt": "Will you serve this warm or cold, and how much heat from hot sauce do you prefer?"
+  },
+  "timestamp": "2026-02-06T21:50:10.870Z"
+}

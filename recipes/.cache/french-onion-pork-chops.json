@@ -1,0 +1,58 @@
+{
+  "contentHash": "f9471c14b797fe1c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "4 bone-in pork chops",
+        "searchTerm": "bone-in pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream Of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 (1 ounce) package dry onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      },
+      {
+        "ingredient": "⅓ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 tablespoon dry sherry",
+        "searchTerm": "dry sherry",
+        "normalizedName": "Dry Sherry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "lid or foil",
+        "searchTerm": "pot lid"
+      }
+    ],
+    "cookingTips": [
+      "Sear pork chops in olive oil until golden brown on both sides before adding sauce",
+      "Simmer covered over medium-low heat for 20-25 minutes until pork reaches 145°F internal temperature",
+      "The condensed soups create a creamy sauce that keeps pork chops moist"
+    ],
+    "coachingPrompt": "How does searing the pork chops first improve the final dish? What's the ideal internal temperature for pork chops?"
+  },
+  "timestamp": "2026-02-06T06:55:00.394Z"
+}

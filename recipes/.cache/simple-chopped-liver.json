@@ -1,0 +1,57 @@
+{
+  "contentHash": "4ccfcacea2adc1b7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons canola oil",
+        "searchTerm": "canola oil",
+        "normalizedName": "Canola Oil"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pound chicken livers, rinsed and trimmed",
+        "searchTerm": "chicken livers",
+        "normalizedName": "Chicken Liver"
+      },
+      {
+        "ingredient": "2 onions, chopped",
+        "searchTerm": "onions",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 pinch white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cook livers until just cooked through but still slightly soft for a better texture",
+      "Caramelize onions well before combining with livers for added depth"
+    ],
+    "coachingPrompt": "Guide me through cooking liver properly without making it tough or rubbery"
+  },
+  "timestamp": "2026-02-06T17:49:04.651Z"
+}

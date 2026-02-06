@@ -1,0 +1,53 @@
+{
+  "contentHash": "281774827c60637e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "6 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon rock salt",
+        "searchTerm": "rock salt",
+        "normalizedName": "Rock Salt"
+      },
+      {
+        "ingredient": "2 teaspoons ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 pounds salmon fillets",
+        "searchTerm": "salmon fillets",
+        "normalizedName": "Salmon Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food dehydrator",
+        "searchTerm": "food dehydrator"
+      },
+      {
+        "name": "Glass baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Slicing knife",
+        "searchTerm": "slicing knife"
+      }
+    ],
+    "cookingTips": [
+      "Slice salmon against the grain for more tender jerky",
+      "Marinate for at least 8 hours for maximum flavor penetration",
+      "Pat salmon dry before dehydrating to improve texture and prevent case hardening"
+    ],
+    "coachingPrompt": "Do you have access to a dehydrator, or would you prefer oven-drying instructions?"
+  },
+  "timestamp": "2026-02-06T05:26:01.786Z"
+}

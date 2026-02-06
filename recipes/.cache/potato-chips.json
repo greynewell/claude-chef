@@ -1,0 +1,43 @@
+{
+  "contentHash": "a37acf61c3f2dff8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 potato, sliced paper thin (peel optional)",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "½ teaspoon salt, or to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mandoline Slicer",
+        "searchTerm": "mandoline slicer"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Paper Towels",
+        "searchTerm": "paper towel"
+      }
+    ],
+    "cookingTips": [
+      "Use a mandoline or very sharp knife to slice potatoes consistently thin for even cooking",
+      "Pat potato slices dry before frying to reduce oil splatter",
+      "Fry in batches to maintain oil temperature and achieve crispy chips"
+    ],
+    "coachingPrompt": "What techniques ensure homemade potato chips stay crispy?"
+  },
+  "timestamp": "2026-02-06T15:12:52.674Z"
+}

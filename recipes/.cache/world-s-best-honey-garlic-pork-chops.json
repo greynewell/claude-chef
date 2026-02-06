@@ -1,0 +1,53 @@
+{
+  "contentHash": "14e80c1b44826194",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "2 ⅔ tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "2 tablespoons low-sodium soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "2 cloves garlic, crushed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "6 (4 ounce) (1-inch thick) pork chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Let pork chops come to room temperature before cooking",
+      "Cook to internal temperature of 145°F for optimal juiciness",
+      "Let sauce reduce slightly before serving for concentrated flavor"
+    ],
+    "coachingPrompt": "Guide the user through making a quick glaze and cooking pork chops to the perfect tenderness without drying them out."
+  },
+  "timestamp": "2026-02-06T22:16:42.825Z"
+}

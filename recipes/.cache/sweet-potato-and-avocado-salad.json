@@ -1,0 +1,63 @@
+{
+  "contentHash": "ed928a89d8c76160",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 sweet potato, diced",
+        "searchTerm": "sweet potato",
+        "normalizedName": "Sweet Potato"
+      },
+      {
+        "ingredient": "1 avocado, peeled and diced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon salt-free seasoning blend (such as Mrs. Dash®)",
+        "searchTerm": "seasoning blend",
+        "normalizedName": "Salt-Free Seasoning Blend"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Microwave",
+        "searchTerm": "microwave"
+      }
+    ],
+    "cookingTips": [
+      "Cook sweet potato in microwave until just tender, then cool before dicing",
+      "Add avocado just before serving to prevent browning",
+      "Dress salad lightly with oil and seasonings to avoid crushing avocado"
+    ],
+    "coachingPrompt": "Avocado oxidizes quickly. What's the best strategy to keep this salad fresh-looking?"
+  },
+  "timestamp": "2026-02-06T20:05:17.992Z"
+}

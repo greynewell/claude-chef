@@ -1,0 +1,88 @@
+{
+  "contentHash": "7a51300684fb6cc8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 cup chopped fresh green beans",
+        "searchTerm": "green bean",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "1 ¼ cups cubed turnips",
+        "searchTerm": "turnip",
+        "normalizedName": "Turnip"
+      },
+      {
+        "ingredient": "½ cup chopped leeks",
+        "searchTerm": "leek",
+        "normalizedName": "Leek"
+      },
+      {
+        "ingredient": "½ cup chopped carrots",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "⅓ cup barley",
+        "searchTerm": "barley",
+        "normalizedName": "Barley"
+      },
+      {
+        "ingredient": "1 ½ pounds Brussels sprouts, trimmed and cut in half",
+        "searchTerm": "brussels sprout",
+        "normalizedName": "Brussels Sprout"
+      },
+      {
+        "ingredient": "½ cup chopped green bell pepper",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Make a roux with butter and flour for thickening, cooking it briefly to remove raw flour taste",
+      "Add barley early so it has time to cook through and soften",
+      "Prep all vegetables before cooking to streamline the process"
+    ],
+    "coachingPrompt": "This is a hearty vegetable and barley soup. Will you make a roux to thicken it or leave it brothier?"
+  },
+  "timestamp": "2026-02-06T00:51:42.394Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "0216110f5b04a144",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup unpopped popcorn",
+        "searchTerm": "popcorn kernels",
+        "normalizedName": "Popcorn Kernel"
+      },
+      {
+        "ingredient": "1 teaspoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Microwave-Safe Bag or Bowl",
+        "searchTerm": "microwave popcorn container"
+      },
+      {
+        "name": "Microwave",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "Lid",
+        "searchTerm": "microwave lid"
+      }
+    ],
+    "cookingTips": [
+      "Coat popcorn kernels lightly with oil for optimal popping in the microwave",
+      "Cover bowl loosely to allow steam to escape while keeping kernels contained",
+      "Stop microwave when popping slows to 2-3 seconds between pops to avoid burnt kernels"
+    ],
+    "coachingPrompt": "Help the user understand microwave popping mechanics and how to achieve perfect popcorn."
+  },
+  "timestamp": "2026-02-06T12:25:46.981Z"
+}

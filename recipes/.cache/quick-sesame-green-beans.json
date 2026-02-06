@@ -1,0 +1,63 @@
+{
+  "contentHash": "1a1e18e362737587",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 ounces fresh green beans, trimmed",
+        "searchTerm": "fresh green beans",
+        "normalizedName": "Fresh Green Bean"
+      },
+      {
+        "ingredient": "2 tablespoons low sodium soy sauce",
+        "searchTerm": "low sodium soy sauce",
+        "normalizedName": "Low Sodium Soy Sauce"
+      },
+      {
+        "ingredient": "½ tablespoon miso paste",
+        "searchTerm": "miso paste",
+        "normalizedName": "Miso Paste"
+      },
+      {
+        "ingredient": "½ teaspoon red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "4 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon grated fresh ginger root",
+        "searchTerm": "fresh ginger",
+        "normalizedName": "Fresh Ginger"
+      },
+      {
+        "ingredient": "1 tablespoon sesame seeds, toasted",
+        "searchTerm": "sesame seeds",
+        "normalizedName": "Sesame Seed"
+      }
+    ],
+    "gear": [
+      {
+        "name": "wok or large skillet",
+        "searchTerm": "wok"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Toast sesame seeds in a dry pan just before serving to maximize nutty flavor",
+      "Blanch green beans lightly before stir-frying to ensure tender-crisp texture",
+      "Whisk miso with soy sauce to dissolve before adding to maintain smooth sauce"
+    ],
+    "coachingPrompt": "Help the user balance umami flavors from miso and soy sauce with fresh garlic and ginger, and achieve tender-crisp vegetables."
+  },
+  "timestamp": "2026-02-06T15:45:17.898Z"
+}

@@ -1,0 +1,39 @@
+{
+  "contentHash": "1bcab361f0a6598c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 stick butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "6 ounces thick-cut bacon, diced",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "3/4 cup diced sweet onion",
+        "searchTerm": "sweet onion",
+        "normalizedName": "Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Medium saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon slowly until crispy to render maximum fat for flavor",
+      "Caramelize onions gently over medium heat for sweetness and depth",
+      "Use the rendered bacon fat—don't drain it—for rich, savory sauce"
+    ],
+    "coachingPrompt": "Walk through how caramelized onions and rendered bacon fat create an umami-rich sauce ideal for potatoes, vegetables, or meat."
+  },
+  "timestamp": "2026-02-06T21:26:51.512Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "36886662650ab68c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds fresh asparagus, trimmed",
+        "searchTerm": "fresh asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "5 tablespoons butter, divided",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "Flour"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "6 slices bread, toasted",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cut asparagus into uniform pieces so they cook evenly",
+      "Make a béchamel sauce separately and combine with cooked asparagus for best results"
+    ],
+    "coachingPrompt": "Why is cutting vegetables into uniform sizes important for even cooking?"
+  },
+  "timestamp": "2026-02-06T04:19:02.256Z"
+}

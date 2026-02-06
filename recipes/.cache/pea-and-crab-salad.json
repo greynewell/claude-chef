@@ -1,0 +1,58 @@
+{
+  "contentHash": "2cf52df8024d8479",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "14 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 ¼ pounds imitation crabmeat, flaked",
+        "searchTerm": "imitation crabmeat",
+        "normalizedName": "Imitation Crabmeat"
+      },
+      {
+        "ingredient": "1 (16 ounce) package frozen green peas",
+        "searchTerm": "frozen peas",
+        "normalizedName": "Frozen Pea"
+      },
+      {
+        "ingredient": "¾ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 teaspoons onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      },
+      {
+        "ingredient": "1 ½ cups diced tomatoes",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      },
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then drain on paper towels and crumble when cool",
+      "Thaw peas and drain thoroughly to prevent watery salad",
+      "Reserve some bacon pieces to garnish top just before serving"
+    ],
+    "coachingPrompt": "Guide the cook on properly cooking and draining bacon to achieve crispness without excessive grease in the final salad."
+  },
+  "timestamp": "2026-02-06T14:19:55.139Z"
+}

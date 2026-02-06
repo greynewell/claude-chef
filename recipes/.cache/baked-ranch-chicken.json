@@ -1,0 +1,48 @@
+{
+  "contentHash": "976a5585e5cb220c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 cups dry bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "1 cup ranch-style salad dressing (such as Hidden Valley® Original Ranch®)",
+        "searchTerm": "ranch dressing",
+        "normalizedName": "Ranch Dressing"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves - lightly pounded to an even thickness",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "shallow dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "meat mallet",
+        "searchTerm": "meat mallet"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken to even thickness to ensure uniform cooking",
+      "Coat chicken by dipping in ranch dressing, then rolling in bread crumbs",
+      "Bake at 375°F for 20-25 minutes until golden brown and internal temperature reaches 165°F"
+    ],
+    "coachingPrompt": "How does using ranch dressing as both seasoning and binding agent affect the final crust?"
+  },
+  "timestamp": "2026-02-05T23:11:39.013Z"
+}

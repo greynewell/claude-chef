@@ -1,0 +1,53 @@
+{
+  "contentHash": "1829155ada7295c3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pint fresh strawberries, hulled",
+        "searchTerm": "fresh strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "¼ cup white sugar, or more to taste",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ teaspoon balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "1 teaspoon cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "strainer",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Hull strawberries by removing the leafy top with a small knife or strawberry huller",
+      "Cornstarch slurry should be mixed with cold water before adding to prevent lumps",
+      "For a chunkier sauce, skip the straining step"
+    ],
+    "coachingPrompt": "How do you prefer your berry sauce - smooth or with texture? Would you like suggestions for using this sauce?"
+  },
+  "timestamp": "2026-02-06T07:01:44.244Z"
+}

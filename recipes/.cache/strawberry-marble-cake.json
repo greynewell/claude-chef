@@ -1,0 +1,63 @@
+{
+  "contentHash": "db1609c2a57a4e43",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (18.25 ounce) package marble cake mix",
+        "searchTerm": "marble cake mix",
+        "normalizedName": "Marble Cake Mix"
+      },
+      {
+        "ingredient": "1 (3 ounce) package strawberry flavored Jell-O®",
+        "searchTerm": "strawberry gelatin",
+        "normalizedName": "Strawberry Gelatin"
+      },
+      {
+        "ingredient": "1 cup boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (1.3 ounce) envelope whipped topping mix",
+        "searchTerm": "whipped topping mix",
+        "normalizedName": "Whipped Topping Mix"
+      },
+      {
+        "ingredient": "1 (3.5 ounce) package instant vanilla pudding mix",
+        "searchTerm": "vanilla pudding mix",
+        "normalizedName": "Vanilla Pudding Mix"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cake pan",
+        "searchTerm": "cake pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Prepare gelatin and let it cool slightly before pouring over baked cake",
+      "Pierce cake with fork to allow gelatin to absorb evenly",
+      "Chill cake completely before adding whipped topping layer"
+    ],
+    "coachingPrompt": "What's the best way to incorporate the gelatin into this cake without making it soggy?"
+  },
+  "timestamp": "2026-02-06T19:34:24.688Z"
+}

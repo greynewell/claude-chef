@@ -1,0 +1,63 @@
+{
+  "contentHash": "c3da9396762f5698",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "8 ounces cooked ham, crumbled",
+        "searchTerm": "cooked ham",
+        "normalizedName": "Cooked Ham"
+      },
+      {
+        "ingredient": "1 cup diced red bell pepper",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 cup diced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Muffin tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Distribute fillings evenly among muffin cups for consistent portions",
+      "Bake at 350°F for 20-25 minutes until a knife inserted in the center comes out clean",
+      "Cool in the tin for 5 minutes before removing to prevent falling apart"
+    ],
+    "coachingPrompt": "Help the cook understand how to batch-prepare grab-and-go breakfast items and why proper egg-to-filling ratio matters for structure."
+  },
+  "timestamp": "2026-02-06T14:00:05.628Z"
+}

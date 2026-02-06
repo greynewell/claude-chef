@@ -1,0 +1,73 @@
+{
+  "contentHash": "7862c31612873dca",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup extra virgin olive oil",
+        "searchTerm": "extra virgin olive oil",
+        "normalizedName": "Extra Virgin Olive Oil"
+      },
+      {
+        "ingredient": "¼ cup lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "3 tablespoons chopped fresh oregano",
+        "searchTerm": "fresh oregano",
+        "normalizedName": "Fresh Oregano"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 teaspoons minced fresh rosemary",
+        "searchTerm": "fresh rosemary",
+        "normalizedName": "Fresh Rosemary"
+      },
+      {
+        "ingredient": "1 teaspoon dried tarragon",
+        "searchTerm": "dried tarragon",
+        "normalizedName": "Dried Tarragon"
+      },
+      {
+        "ingredient": "1 (4.5 pound) whole chicken, spatchcocked",
+        "searchTerm": "whole chicken",
+        "normalizedName": "Whole Chicken"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "grill tongs"
+      }
+    ],
+    "cookingTips": [
+      "Spatchcock (butterfly) the chicken for even cooking and maximum surface area",
+      "Marinate for 4-8 hours or overnight for herb flavors to penetrate",
+      "Grill skin-side down first to render fat and create crispy skin"
+    ],
+    "coachingPrompt": "How do the Mediterranean herbs create an authentic Greek flavor profile while keeping the chicken moist?"
+  },
+  "timestamp": "2026-02-06T08:27:19.808Z"
+}

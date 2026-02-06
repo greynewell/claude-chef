@@ -1,0 +1,48 @@
+{
+  "contentHash": "9ab183b6614ff4e1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "chocolate ice cream",
+        "searchTerm": "chocolate ice cream",
+        "normalizedName": "Chocolate Ice Cream"
+      },
+      {
+        "ingredient": "jumbo craft sticks",
+        "searchTerm": "popsicle sticks",
+        "normalizedName": "Popsicle Stick"
+      },
+      {
+        "ingredient": "semisweet chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Semisweet Chocolate Chip"
+      },
+      {
+        "ingredient": "coconut oil",
+        "searchTerm": "coconut oil",
+        "normalizedName": "Coconut Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "Shallow bowl or dish",
+        "searchTerm": "shallow dish"
+      }
+    ],
+    "cookingTips": [
+      "Work quickly with softened ice cream—shape into bars and insert sticks, then refreeze",
+      "Keep chocolate coating at proper temperature (slightly melted) for smooth, thin coating",
+      "Freeze coated bars immediately on parchment to prevent melting"
+    ],
+    "coachingPrompt": "Why soften ice cream before molding? How does coconut oil create a brittle chocolate shell?"
+  },
+  "timestamp": "2026-02-06T11:44:08.185Z"
+}

@@ -1,0 +1,47 @@
+{
+  "contentHash": "1065ba64599a4d64",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "20 saltine crackers",
+        "searchTerm": "saltine crackers",
+        "normalizedName": "Saltine Cracker"
+      },
+      {
+        "ingredient": "1 (6 ounce) can tomato paste",
+        "searchTerm": "tomato paste",
+        "normalizedName": "Tomato Paste"
+      },
+      {
+        "ingredient": "10 (4 ounce) links sausage (such as Eckrich® Smok-y Breakfast Sausage)",
+        "searchTerm": "breakfast sausage links",
+        "normalizedName": "Breakfast Sausage"
+      },
+      {
+        "ingredient": "5 slices American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "toaster oven or broiler",
+        "searchTerm": "toaster oven"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook sausage links first, then slice or crumble before assembling for even distribution",
+      "Broil or bake at high temperature just until cheese melts and edges are golden—watch carefully to prevent burning"
+    ],
+    "coachingPrompt": "Should I cook the sausage first or raw, and how do I prevent the saltines from getting too soggy?"
+  },
+  "timestamp": "2026-02-06T04:05:54.808Z"
+}

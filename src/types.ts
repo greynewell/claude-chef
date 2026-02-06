@@ -17,12 +17,19 @@ export interface RecipeFrontmatter {
   sauces?: string[];
   tools?: string[];
   skill_level?: string;
+  source_url?: string;
+}
+
+export interface FAQ {
+  question: string;
+  answer: string;
 }
 
 export interface ParsedRecipe {
   frontmatter: RecipeFrontmatter;
   ingredients: string[];
   instructions: string[];
+  faqs: FAQ[];
   body: string;
   slug: string;
   sourceFile: string;
@@ -90,7 +97,7 @@ export interface ItemListJsonLd {
   }[];
 }
 
-export type TaxonomyType = 'category' | 'cuisine' | 'ingredient' | 'allergy' | 'flavor' | 'sauce' | 'tool' | 'skill_level' | 'author';
+export type TaxonomyType = 'category' | 'cuisine' | 'ingredient' | 'flavor' | 'sauce' | 'tool' | 'skill_level';
 
 export interface TaxonomyDescriptions {
   hubTitle: (name: string) => string;

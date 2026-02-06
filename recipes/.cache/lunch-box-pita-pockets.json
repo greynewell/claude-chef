@@ -1,0 +1,53 @@
+{
+  "contentHash": "7c16f7a508a88e6c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup deli ham, chopped",
+        "searchTerm": "deli ham",
+        "normalizedName": "Deli Ham"
+      },
+      {
+        "ingredient": "½ cup shredded lettuce",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "¼ cup shredded carrot",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "¼ cup Ranch dressing",
+        "searchTerm": "Ranch dressing",
+        "normalizedName": "Ranch Dressing"
+      },
+      {
+        "ingredient": "1 pita bread round, cut in half",
+        "searchTerm": "pita bread",
+        "normalizedName": "Pita Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Small bowl",
+        "searchTerm": "small mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Keep lettuce and carrot in separate containers until assembly to prevent sogginess",
+      "Pack dressing separately and add just before eating for better texture",
+      "Cut pita just before packing to keep it fresh and prevent drying out"
+    ],
+    "coachingPrompt": "How would you modify this pita pocket recipe to accommodate different dietary restrictions or preferences?"
+  },
+  "timestamp": "2026-02-06T11:40:17.602Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "a3602d6ed785cb7e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 ounces imitation crabmeat, flaked",
+        "searchTerm": "imitation crab meat",
+        "normalizedName": "Imitation Crab Meat"
+      },
+      {
+        "ingredient": "¼ cup low-fat sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "½ onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (10 ounce) can enchilada sauce",
+        "searchTerm": "enchilada sauce",
+        "normalizedName": "Enchilada Sauce"
+      },
+      {
+        "ingredient": "¼ cup skim milk",
+        "searchTerm": "skim milk",
+        "normalizedName": "Skim Milk"
+      },
+      {
+        "ingredient": "6 (8 inch) low-fat flour tortilla",
+        "searchTerm": "flour tortilla",
+        "normalizedName": "Flour Tortilla"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "shallow baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Warm tortillas slightly before filling so they don't crack when rolling",
+      "Spread a thin layer of sauce on the baking dish bottom to prevent sticking"
+    ],
+    "coachingPrompt": "Help the user fill and roll enchiladas while keeping the filling intact."
+  },
+  "timestamp": "2026-02-06T05:41:38.390Z"
+}

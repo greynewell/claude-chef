@@ -1,0 +1,63 @@
+{
+  "contentHash": "9f47997b7f8b4a60",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 bunch kale, large stems discarded, leaves finely chopped",
+        "searchTerm": "kale",
+        "normalizedName": "Kale"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon apple cider vinegar",
+        "searchTerm": "apple cider vinegar",
+        "normalizedName": "Apple Cider Vinegar"
+      },
+      {
+        "ingredient": "1 apple, diced",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "⅓ cup feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "¼ cup currants",
+        "searchTerm": "currants",
+        "normalizedName": "Currant"
+      },
+      {
+        "ingredient": "¼ cup toasted pine nuts",
+        "searchTerm": "pine nuts",
+        "normalizedName": "Pine Nut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Massage kale with salt and vinegar for 2-3 minutes to break down cell walls and soften",
+      "Toast pine nuts in a dry pan over medium heat for 2-3 minutes until fragrant",
+      "Combine all ingredients just before serving to prevent apple oxidation"
+    ],
+    "coachingPrompt": "Explain the science of massaging kale and guide the user through proper toasting technique for pine nuts."
+  },
+  "timestamp": "2026-02-06T10:33:56.218Z"
+}

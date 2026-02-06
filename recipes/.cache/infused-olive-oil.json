@@ -1,0 +1,53 @@
+{
+  "contentHash": "0a3c042f7085844a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon coarsely ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh basil",
+        "searchTerm": "basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "½ teaspoon coarse sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "1 pinch crushed red pepper",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Glass Bottle or Jar",
+        "searchTerm": "glass bottle"
+      },
+      {
+        "name": "Strainer",
+        "searchTerm": "strainer"
+      },
+      {
+        "name": "Funnel",
+        "searchTerm": "funnel"
+      }
+    ],
+    "cookingTips": [
+      "Use dried herbs or ensure fresh herbs are completely dry to prevent mold growth",
+      "Let infusion sit for 1-2 weeks in a cool, dark place before using for best flavor",
+      "Store in a cool, dark place and use within 3 months for food safety"
+    ],
+    "coachingPrompt": "Are you planning to use fresh or dried herbs? Fresh herbs require careful drying to avoid spoilage—would you like guidance on that?"
+  },
+  "timestamp": "2026-02-06T09:44:01.983Z"
+}

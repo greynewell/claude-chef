@@ -1,0 +1,53 @@
+{
+  "contentHash": "ff20445cc3142614",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (11.5 ounce) cans condensed bean with bacon soup",
+        "searchTerm": "bean with bacon soup",
+        "normalizedName": "Bean with Bacon Soup"
+      },
+      {
+        "ingredient": "1 (1 ounce) package taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning Mix"
+      },
+      {
+        "ingredient": "8 ounces sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "¼ cup salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "½ cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker or saucepan",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "serving bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Mix all ingredients in slow cooker on low for 1-2 hours or simmer in saucepan over low heat",
+      "Stir occasionally to prevent sticking and ensure even heating",
+      "Serve warm with tortilla chips or crackers"
+    ],
+    "coachingPrompt": "Will you be making this in a slow cooker for a party, or on the stovetop?"
+  },
+  "timestamp": "2026-02-06T20:12:30.871Z"
+}

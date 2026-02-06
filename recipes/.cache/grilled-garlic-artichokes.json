@@ -1,0 +1,58 @@
+{
+  "contentHash": "f39347390d2fa5ab",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 large artichokes",
+        "searchTerm": "artichokes",
+        "normalizedName": "Artichoke"
+      },
+      {
+        "ingredient": "1 lemon, quartered",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "¾ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "4 cloves garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Steam artichokes first to soften before grilling (about 20 minutes)",
+      "Brush with garlic oil immediately before and during grilling",
+      "Grill cut-side down for char marks and caramelization"
+    ],
+    "coachingPrompt": "Guide the user through preparing artichokes and achieving perfect charred edges while keeping them tender inside."
+  },
+  "timestamp": "2026-02-06T08:16:33.676Z"
+}

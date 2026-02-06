@@ -1,0 +1,54 @@
+{
+  "contentHash": "79e7dc8bb98eea7e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 Granny Smith apples, cored and chopped",
+        "searchTerm": "Granny Smith apple",
+        "normalizedName": "Granny Smith Apple"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "⅓ cup diced celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "¾ cup red seedless grapes, halved",
+        "searchTerm": "red seedless grapes",
+        "normalizedName": "Red Seedless Grape"
+      },
+      {
+        "ingredient": "¼ cup coarsely chopped walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "1 (8 ounce) container low-fat peach yogurt",
+        "searchTerm": "peach yogurt",
+        "normalizedName": "Peach Yogurt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Toss apples with lemon juice immediately after cutting to prevent browning",
+      "Toast walnuts lightly in a dry pan to enhance their flavor and crunch",
+      "Fold in yogurt gently just before serving to prevent over-mixing"
+    ],
+    "coachingPrompt": "Help the user balance tart apples, sweet grapes, and creamy yogurt for a refreshing composed salad."
+  },
+  "timestamp": "2026-02-06T11:05:15.900Z"
+}

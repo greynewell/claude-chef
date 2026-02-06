@@ -1,0 +1,58 @@
+{
+  "contentHash": "6346911e9eb5e1fc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound fresh spinach -- cleaned, stemmed, and dried",
+        "searchTerm": "fresh spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "2 large stalks of rhubarb, cut diagonally into thin slices",
+        "searchTerm": "rhubarb",
+        "normalizedName": "Rhubarb"
+      },
+      {
+        "ingredient": "water to cover",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons sweet red wine vinegar",
+        "searchTerm": "red wine vinegar",
+        "normalizedName": "Red Wine Vinegar"
+      },
+      {
+        "ingredient": "6 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "salad bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Blanch rhubarb briefly to soften while retaining slight crunch",
+      "Whisk dressing ingredients together before tossing with salad",
+      "Use freshly dried spinach to prevent watery salad"
+    ],
+    "coachingPrompt": "How long will you cook the rhubarb to achieve your preferred texture?"
+  },
+  "timestamp": "2026-02-06T16:12:04.555Z"
+}

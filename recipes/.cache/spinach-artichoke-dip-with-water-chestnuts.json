@@ -1,0 +1,68 @@
+{
+  "contentHash": "12dfe03164cccf20",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "artichoke hearts",
+        "searchTerm": "artichoke hearts",
+        "normalizedName": "Artichoke Heart"
+      },
+      {
+        "ingredient": "spinach",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "water chestnuts",
+        "searchTerm": "water chestnuts",
+        "normalizedName": "Water Chestnut"
+      },
+      {
+        "ingredient": "sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "Romano cheese",
+        "searchTerm": "romano cheese",
+        "normalizedName": "Romano Cheese"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      }
+    ],
+    "cookingTips": [
+      "Drain and finely chop water chestnuts for even texture distribution",
+      "Mix all ingredients until well combined before baking",
+      "Bake at 350°F for 25-30 minutes until heated through and bubbly"
+    ],
+    "coachingPrompt": "Will you serve this as a cold dip or heated, and do you have a preferred serving vessel?"
+  },
+  "timestamp": "2026-02-06T19:14:40.646Z"
+}

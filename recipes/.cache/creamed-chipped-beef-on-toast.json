@@ -1,0 +1,53 @@
+{
+  "contentHash": "f2d5966978fd6f27",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 ½ cups warm milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 (8 ounce) jar dried beef",
+        "searchTerm": "dried beef",
+        "normalizedName": "Dried Beef"
+      },
+      {
+        "ingredient": "1 pinch cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      }
+    ],
+    "cookingTips": [
+      "Use warm milk to prevent lumps when making the roux sauce",
+      "Shred the dried beef finely for better distribution",
+      "Toast bread until golden for structural integrity"
+    ],
+    "coachingPrompt": "I'm making creamed chipped beef on toast. How do I make sure my sauce is smooth and lump-free?"
+  },
+  "timestamp": "2026-02-06T04:19:52.023Z"
+}

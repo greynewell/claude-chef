@@ -1,0 +1,62 @@
+{
+  "contentHash": "514b27605f0ee96f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 head garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 yellow onion, sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 Granny Smith apple - peeled, cored and sliced",
+        "searchTerm": "Granny Smith apple",
+        "normalizedName": "Granny Smith Apple"
+      },
+      {
+        "ingredient": "1 (8 ounce) wedge Brie cheese",
+        "searchTerm": "Brie cheese",
+        "normalizedName": "Brie Cheese"
+      },
+      {
+        "ingredient": "1 sheet frozen puff pastry, thawed",
+        "searchTerm": "puff pastry",
+        "normalizedName": "Puff Pastry"
+      },
+      {
+        "ingredient": "1 tablespoon melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Roast garlic head whole wrapped in foil for creamy spread",
+      "Toss apple slices with lemon juice to prevent browning"
+    ],
+    "coachingPrompt": "Should garlic be roasted separately or cooked with the onions?"
+  },
+  "timestamp": "2026-02-05T22:59:09.363Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "36bee3d985f9bc79",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup uncooked white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 tablespoon fresh lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 tablespoon fresh thyme leaves",
+        "searchTerm": "thyme",
+        "normalizedName": "Thyme"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan with lid",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Toast rice briefly in butter before adding liquid for nutty flavor",
+      "Maintain steady simmer and don't stir once liquid is added",
+      "Let rice rest 5 minutes covered before fluffing with fork"
+    ],
+    "coachingPrompt": "How can subtle lemon and thyme brighten rice without overpowering it?"
+  },
+  "timestamp": "2026-02-06T11:18:02.064Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "5b637c31f6fb5c0c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound smoked pork butt",
+        "searchTerm": "smoked pork butt",
+        "normalizedName": "Smoked Pork Butt"
+      },
+      {
+        "ingredient": "water to cover",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 pounds red potatoes, peeled",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "1 head cabbage, cored and quartered",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot with lid",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Simmer the pork for 45-60 minutes until tender before adding vegetables to infuse the broth with flavor",
+      "Add potatoes before cabbage since they take longer to cook; cabbage only needs 10-15 minutes",
+      "The cooking liquid becomes a flavorful broth that enhances all ingredients"
+    ],
+    "coachingPrompt": "Guide the cook through building layers of flavor by properly sequencing the addition of vegetables based on cooking times."
+  },
+  "timestamp": "2026-02-06T05:20:01.328Z"
+}

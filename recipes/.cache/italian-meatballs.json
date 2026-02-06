@@ -1,0 +1,63 @@
+{
+  "contentHash": "b27d00a3aeb61f3a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "5 tablespoons ground oregano",
+        "searchTerm": "oregano",
+        "normalizedName": "Oregano"
+      },
+      {
+        "ingredient": "5 tablespoons dried parsley, crushed",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley"
+      },
+      {
+        "ingredient": "1 clove garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 (1 ounce) package dry onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      },
+      {
+        "ingredient": "2 cups Italian-style dry bread crumbs",
+        "searchTerm": "Italian bread crumb",
+        "normalizedName": "Italian Bread Crumb"
+      },
+      {
+        "ingredient": "3 (28 ounce) jars spaghetti sauce",
+        "searchTerm": "spaghetti sauce",
+        "normalizedName": "Spaghetti Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      }
+    ],
+    "cookingTips": [
+      "Don't overwork the meat mixture to keep meatballs tender",
+      "Wet your hands to prevent mixture from sticking",
+      "Brown meatballs before simmering in sauce for better flavor"
+    ],
+    "coachingPrompt": "Help the user understand proper meatball sizing and the importance of not overhandling the meat."
+  },
+  "timestamp": "2026-02-06T10:08:24.309Z"
+}

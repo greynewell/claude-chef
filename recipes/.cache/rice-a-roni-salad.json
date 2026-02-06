@@ -1,0 +1,73 @@
+{
+  "contentHash": "d2854f810f6df30e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10.75 ounce) package chicken flavored rice mix (e.g. Rice A Roni)",
+        "searchTerm": "chicken flavored rice mix",
+        "normalizedName": "Chicken Flavored Rice Mix"
+      },
+      {
+        "ingredient": "1 bunch green onions, chopped",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 (8 ounce) can water chestnuts, drained and chopped",
+        "searchTerm": "water chestnut",
+        "normalizedName": "Water Chestnut"
+      },
+      {
+        "ingredient": "1 cup chopped celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 cup chopped cooked chicken breast meat",
+        "searchTerm": "cooked chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 dash Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cup"
+      }
+    ],
+    "cookingTips": [
+      "Cook rice mix according to package directions and cool completely",
+      "Use rotisserie chicken for convenience and better flavor",
+      "Prepare salad a few hours ahead to allow flavors to meld"
+    ],
+    "coachingPrompt": "Will you use store-bought rotisserie chicken to save time?"
+  },
+  "timestamp": "2026-02-06T16:12:04.557Z"
+}

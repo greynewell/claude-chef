@@ -1,0 +1,53 @@
+{
+  "contentHash": "f77cbec80b4b9958",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (19 ounce) can black beans",
+        "searchTerm": "black beans",
+        "normalizedName": "Black Bean"
+      },
+      {
+        "ingredient": "½ cup salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 tablespoons taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "can opener",
+        "searchTerm": "opener"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef first, then add rinsed black beans to reduce sodium and gas",
+      "Use salsa as the liquid base to add flavor instead of plain water",
+      "Simmer for 5-10 minutes to meld the flavors together"
+    ],
+    "coachingPrompt": "This is a quick, nutritious filling. How will you balance the taco seasoning with the existing flavors in salsa and beans?"
+  },
+  "timestamp": "2026-02-06T20:13:27.051Z"
+}

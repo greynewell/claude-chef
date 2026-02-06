@@ -1,0 +1,43 @@
+{
+  "contentHash": "7ea9ea39ce6c4b8d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "¼ cup A.1. Original Steak Sauce, divided",
+        "searchTerm": "A.1. steak sauce",
+        "normalizedName": "A.1. Steak Sauce"
+      },
+      {
+        "ingredient": "4 hamburger buns, split",
+        "searchTerm": "hamburger buns",
+        "normalizedName": "Hamburger Bun"
+      },
+      {
+        "ingredient": "4 lettuce leaves",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce Leaf"
+      },
+      {
+        "ingredient": "4 slices tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      "grill or skillet",
+      "spatula",
+      "meat thermometer"
+    ],
+    "cookingTips": [
+      "Mix A.1. sauce into ground beef mixture before forming patties for even flavor",
+      "Cook burgers to 160°F internal temperature for food safety"
+    ],
+    "coachingPrompt": "You're making burgers flavored with A.1. sauce. Are you mixing it into the meat or using it as a topping?"
+  },
+  "timestamp": "2026-02-05T21:51:35.514Z"
+}

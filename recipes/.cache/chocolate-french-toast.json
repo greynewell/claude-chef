@@ -1,0 +1,63 @@
+{
+  "contentHash": "b35443da58b70d24",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅔ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "⅓ cup unsweetened cocoa powder",
+        "searchTerm": "unsweetened cocoa powder",
+        "normalizedName": "Unsweetened Cocoa Powder"
+      },
+      {
+        "ingredient": "⅛ teaspoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "8 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "shallow bowl",
+        "searchTerm": "shallow bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Whisk egg mixture thoroughly to incorporate cocoa powder evenly",
+      "Dip bread quickly to avoid soaking, which causes soggy french toast",
+      "Cook on medium-high heat until golden brown on each side"
+    ],
+    "coachingPrompt": "Help me create decadent chocolate french toast that's crispy outside and custardy inside."
+  },
+  "timestamp": "2026-02-06T03:07:05.278Z"
+}

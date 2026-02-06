@@ -1,0 +1,50 @@
+{
+  "contentHash": "c4a2d79f0ca81c36",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices bacon, chopped",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 medium (2-1/2\" dia)s sweet onions, cut into thin strips",
+        "searchTerm": "sweet onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 tablespoons molasses",
+        "searchTerm": "molasses",
+        "normalizedName": "Molasses"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet"
+      },
+      {
+        "name": "wooden spoon"
+      },
+      {
+        "name": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon first to render fat, then use it to cook onions",
+      "Reduce heat to medium-low and stir frequently for 30-40 minutes",
+      "Molasses adds depth and helps with caramelization"
+    ],
+    "coachingPrompt": "How does using bacon fat enhance the caramelization of onions?"
+  },
+  "timestamp": "2026-02-06T01:24:18.053Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "385aba4f75d574a9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (5 pound) bone-in ham",
+        "searchTerm": "bone-in ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "⅓ cup prepared yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      },
+      {
+        "ingredient": "⅓ cup maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "2 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "2 teaspoons onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Score the ham's surface in a crosshatch pattern to allow glaze to penetrate",
+      "Baste ham with glaze every 15 minutes during roasting for build-up of caramelized coating",
+      "Let ham rest 10 minutes after roasting before carving to retain juices"
+    ],
+    "coachingPrompt": "How can you layer glaze application to build complex sweet and savory flavor on the ham's surface?"
+  },
+  "timestamp": "2026-02-06T16:22:46.949Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "c074a8d236f5bc77",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 pinch salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream Of Mushroom Soup"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 (16 ounce) package frozen tater tots",
+        "searchTerm": "tater tots frozen",
+        "normalizedName": "Frozen Potato Nugget"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef completely before combining with soup for best flavor development",
+      "Arrange tater tots in a single layer on top for maximum crispiness",
+      "Bake until tots are golden and cheese is bubbly, typically 35-40 minutes"
+    ],
+    "coachingPrompt": "What's the simplest way to combine your ingredients while keeping the tater tot topping crispy?"
+  },
+  "timestamp": "2026-02-06T20:22:33.367Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "5a5db74fba505099",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 pound boneless sirloin steak, cut into thin slices",
+        "searchTerm": "sirloin steak",
+        "normalizedName": "Sirloin Steak"
+      },
+      {
+        "ingredient": "1 (14 ounce) bag Birds Eye® Recipe Ready Broccoli Stir Fry",
+        "searchTerm": "frozen broccoli stir fry",
+        "normalizedName": "Frozen Broccoli"
+      },
+      {
+        "ingredient": "½ cup prepared stir-fry sauce",
+        "searchTerm": "stir-fry sauce",
+        "normalizedName": "Stir-Fry Sauce"
+      },
+      {
+        "ingredient": "1 (10 ounce) bag Birds Eye® Steamfresh® Long Grain White Rice, cooked according to package directions",
+        "searchTerm": "white rice frozen",
+        "normalizedName": "White Rice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet or wok",
+        "searchTerm": "wok"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Sharp knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Cut beef against the grain for maximum tenderness",
+      "Prepare all ingredients before cooking as stir-fries cook quickly",
+      "Use high heat to get a nice sear on the beef"
+    ],
+    "coachingPrompt": "Guide the user through proper knife techniques for slicing steak thinly and maintaining consistent heat during stir-frying."
+  },
+  "timestamp": "2026-02-05T23:41:38.107Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "75f0570b9b75c708",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 Gala apple, peeled, cored, and thinly sliced",
+        "searchTerm": "gala apple",
+        "normalizedName": "Gala Apple"
+      },
+      {
+        "ingredient": "½ teaspoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "8 tablespoons creamy peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "8 slices whole wheat bread",
+        "searchTerm": "whole wheat bread",
+        "normalizedName": "Whole Wheat Bread"
+      },
+      {
+        "ingredient": "¼ cup unsalted butter",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "griddle",
+        "searchTerm": "griddle"
+      },
+      {
+        "name": "bread knife",
+        "searchTerm": "bread knife"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread lightly before grilling to prevent sogginess",
+      "Slice apples thinly and toss with cinnamon and sugar just before assembly to prevent browning"
+    ],
+    "coachingPrompt": "How can we keep the peanut butter from leaking out while grilling these sandwiches?"
+  },
+  "timestamp": "2026-02-06T08:22:04.019Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "b77d817f488dd3d3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons sun-dried tomatoes packed in oil, drained and chopped",
+        "searchTerm": "sun-dried tomatoes",
+        "normalizedName": "Sun-Dried Tomato"
+      },
+      {
+        "ingredient": "1 tablespoon capers, drained",
+        "searchTerm": "capers",
+        "normalizedName": "Caper"
+      },
+      {
+        "ingredient": "2 tilapia fillets",
+        "searchTerm": "tilapia fillets",
+        "normalizedName": "Tilapia Fillet"
+      },
+      {
+        "ingredient": "1 tablespoon oil from the jar of sun-dried tomatoes",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "2 tablespoons kalamata olives, pitted and chopped",
+        "searchTerm": "kalamata olives",
+        "normalizedName": "Kalamata Olive"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Pat tilapia fillets dry before cooking for better browning",
+      "Use medium-high heat to cook fish gently without drying it out",
+      "Reserve some sun-dried tomato oil for finishing the dish"
+    ],
+    "coachingPrompt": "How would you balance the briny capers and olives with the acidity of lemon juice?"
+  },
+  "timestamp": "2026-02-06T12:13:41.160Z"
+}

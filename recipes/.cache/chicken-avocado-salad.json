@@ -1,0 +1,53 @@
+{
+  "contentHash": "fb823bb4a3418197",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 avocados - peeled, pitted and diced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 pound grilled skinless, boneless chicken breast, diced",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "½ cup finely chopped red onion",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "½ cup chopped fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "¼ cup balsamic vinaigrette salad dressing",
+        "searchTerm": "balsamic vinaigrette",
+        "normalizedName": "Balsamic Vinaigrette"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Chef's Knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Grill chicken breasts and let cool before dicing to ensure proper cooking",
+      "Prepare avocado last and toss gently with other ingredients to avoid breaking pieces",
+      "Use fresh cilantro and squeeze lime in dressing for bright flavors"
+    ],
+    "coachingPrompt": "What's the best way to time this salad so all components are fresh and avocado doesn't brown?"
+  },
+  "timestamp": "2026-02-06T02:25:30.561Z"
+}

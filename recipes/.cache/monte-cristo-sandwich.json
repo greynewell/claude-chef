@@ -1,0 +1,68 @@
+{
+  "contentHash": "93d359e93651bd62",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "1 teaspoon mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon prepared mustard",
+        "searchTerm": "prepared mustard",
+        "normalizedName": "Prepared Mustard"
+      },
+      {
+        "ingredient": "2 slices cooked ham",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "2 slices cooked turkey meat",
+        "searchTerm": "turkey",
+        "normalizedName": "Turkey"
+      },
+      {
+        "ingredient": "1 slice Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "shallow bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Mix egg and milk well to create an even custard for consistent coating",
+      "Let assembled sandwich sit briefly before dipping so fillings don't fall out",
+      "Medium heat prevents excessive browning before the inside warms through"
+    ],
+    "coachingPrompt": "This is a classic, simpler version of Monte Cristo. How do you achieve a golden exterior while keeping the cheese melted and ham warm?"
+  },
+  "timestamp": "2026-02-06T12:49:06.981Z"
+}

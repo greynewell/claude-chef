@@ -1,0 +1,43 @@
+{
+  "contentHash": "4a39fc4508c264fe",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds chicken wing pieces, drumettes and flats",
+        "searchTerm": "chicken wing pieces",
+        "normalizedName": "Chicken Wing"
+      },
+      {
+        "ingredient": "½ cup orange marmalade",
+        "searchTerm": "orange marmalade",
+        "normalizedName": "Orange Marmalade"
+      },
+      {
+        "ingredient": "¼ cup sweet chili sauce",
+        "searchTerm": "sweet chili sauce",
+        "normalizedName": "Sweet Chili Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "bowl for mixing glaze",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Toss wings in glaze halfway through baking for even coating",
+      "Arrange wings on foil-lined sheet for easy cleanup",
+      "Broil for 2-3 minutes at the end to caramelize the glaze"
+    ],
+    "coachingPrompt": "Help the cook understand the balance of sweet marmalade and chili heat, and explain when to apply glaze for best results."
+  },
+  "timestamp": "2026-02-06T20:02:26.434Z"
+}

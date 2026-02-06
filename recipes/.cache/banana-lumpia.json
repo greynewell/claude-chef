@@ -1,0 +1,52 @@
+{
+  "contentHash": "997523f747579385",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "oil for deep frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "¼ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "6 large bananas, halved crosswise and then lengthwise",
+        "searchTerm": "bananas",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "24 lumpia wrappers, defrosted",
+        "searchTerm": "lumpia wrappers",
+        "normalizedName": "Lumpia Wrapper"
+      },
+      {
+        "ingredient": "1 tablespoon water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep Fryer or Heavy Pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "cooking thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Keep lumpia wrappers covered with a damp towel to prevent drying while working",
+      "Oil should be 350°F for optimal crispiness without burning"
+    ],
+    "coachingPrompt": "Have you made lumpia before? Start with a test piece to get your oil temperature just right."
+  },
+  "timestamp": "2026-02-05T23:23:45.037Z"
+}

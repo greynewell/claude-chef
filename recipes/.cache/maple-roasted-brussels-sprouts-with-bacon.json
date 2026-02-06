@@ -1,0 +1,57 @@
+{
+  "contentHash": "16cd43d13b676efe",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound Brussels sprouts",
+        "searchTerm": "brussels sprouts",
+        "normalizedName": "Brussels Sprout"
+      },
+      {
+        "ingredient": "¼ cup extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "3 tablespoons pure maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "4 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon separately or add partway through so it crisps without overcooking vegetables",
+      "Toss Brussels sprouts with maple syrup and oil to ensure even caramelization",
+      "Roast at 400°F for 20-25 minutes, stirring occasionally, for crispy edges"
+    ],
+    "coachingPrompt": "Guide the user on balancing bacon crispness with vegetable roasting time."
+  },
+  "timestamp": "2026-02-06T11:55:22.809Z"
+}

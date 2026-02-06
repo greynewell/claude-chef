@@ -1,0 +1,93 @@
+{
+  "contentHash": "b06e648e12e2ca68",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "rolled oats",
+        "searchTerm": "oats",
+        "normalizedName": "Rolled Oat"
+      },
+      {
+        "ingredient": "baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "cold unsalted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Unsalted Butter"
+      },
+      {
+        "ingredient": "buttermilk",
+        "searchTerm": "buttermilk",
+        "normalizedName": "Buttermilk"
+      },
+      {
+        "ingredient": "large egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "orange zest",
+        "searchTerm": "orange",
+        "normalizedName": "Orange"
+      },
+      {
+        "ingredient": "dried currants",
+        "searchTerm": "currants",
+        "normalizedName": "Dried Currant"
+      },
+      {
+        "ingredient": "golden raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Golden Raisin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "bench scraper",
+        "searchTerm": "bench scraper"
+      }
+    ],
+    "cookingTips": [
+      "Keep all ingredients cold and handle the dough minimally to avoid toughness",
+      "Use fresh buttermilk; it's essential for proper leavening",
+      "Cut a deep cross on top of the loaf before baking to allow steam to escape"
+    ],
+    "coachingPrompt": "Emphasize the importance of not overworking the dough and using the buttermilk reaction with baking soda for leavening rather than yeast."
+  },
+  "timestamp": "2026-02-06T02:05:54.516Z"
+}

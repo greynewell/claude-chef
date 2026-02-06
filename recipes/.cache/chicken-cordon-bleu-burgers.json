@@ -1,0 +1,68 @@
+{
+  "contentHash": "8fb5011315cc2b7a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "¼ cup prepared yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      },
+      {
+        "ingredient": "¼ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "6 skinless, boneless chicken breast halves - pounded flat",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 teaspoons onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      },
+      {
+        "ingredient": "12 slices deli ham",
+        "searchTerm": "deli ham",
+        "normalizedName": "Deli Ham"
+      },
+      {
+        "ingredient": "12 slices Swiss cheese",
+        "searchTerm": "swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "12 onion buns",
+        "searchTerm": "onion buns",
+        "normalizedName": "Onion Bun"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill or skillet",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "meat mallet",
+        "searchTerm": "meat mallet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken evenly to uniform thickness for even cooking",
+      "Layer ham and cheese before cooking or add after to keep them secure",
+      "Toasting buns adds texture and prevents sogginess"
+    ],
+    "coachingPrompt": "This combines cordon bleu flavors with burger format. At what point should you add the ham and cheese—before or after cooking?"
+  },
+  "timestamp": "2026-02-06T02:28:44.914Z"
+}

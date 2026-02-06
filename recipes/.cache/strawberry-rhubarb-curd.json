@@ -1,0 +1,63 @@
+{
+  "contentHash": "a2dbc961e46d1ac3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup diced fresh rhubarb",
+        "searchTerm": "fresh rhubarb",
+        "normalizedName": "Rhubarb"
+      },
+      {
+        "ingredient": "½ cup diced fresh strawberries",
+        "searchTerm": "fresh strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "3 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 egg yolk",
+        "searchTerm": "egg yolk",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "¼ cup sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "double boiler",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "fine mesh strainer",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Cook over gentle heat in a double boiler to prevent curdling eggs",
+      "Whisk constantly for smooth, silky texture without lumps or graininess",
+      "Strain finished curd through fine mesh to remove any cooked egg bits and fruit pulp"
+    ],
+    "coachingPrompt": "Fruit curd is delicate and requires gentle heat. What's the best temperature indicator that your curd is done?"
+  },
+  "timestamp": "2026-02-06T19:35:26.814Z"
+}

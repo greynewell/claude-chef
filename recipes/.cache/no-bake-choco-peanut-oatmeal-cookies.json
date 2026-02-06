@@ -1,0 +1,62 @@
+{
+  "contentHash": "bd061aa700de47d2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "white sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 tablespoons unsweetened cocoa powder",
+        "searchTerm": "unsweetened cocoa powder",
+        "normalizedName": "Unsweetened Cocoa Powder"
+      },
+      {
+        "ingredient": "3 tablespoons crunchy peanut butter",
+        "searchTerm": "crunchy peanut butter",
+        "normalizedName": "Crunchy Peanut Butter"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 cups rolled oats",
+        "searchTerm": "rolled oats",
+        "normalizedName": "Rolled Oat"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Parchment Paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Bring mixture to a rolling boil and maintain it for exactly 1 minute before adding oats",
+      "Drop onto parchment quickly as the mixture hardens fast"
+    ],
+    "coachingPrompt": "Have you made stovetop cookies before? The timing is critical for the right texture."
+  },
+  "timestamp": "2026-02-06T13:15:30.742Z"
+}

@@ -1,0 +1,44 @@
+{
+  "contentHash": "1ac6f20c6426c5ac",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 ounces oyster mushrooms",
+        "searchTerm": "oyster mushrooms",
+        "normalizedName": "Oyster Mushroom"
+      },
+      {
+        "ingredient": "1 ½ tablespoons extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "sheet pan",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Clean mushrooms gently with damp cloth rather than washing",
+      "Toss mushrooms with oil just before roasting to prevent sogginess",
+      "Roast at 400°F for 12-15 minutes until golden brown"
+    ],
+    "coachingPrompt": "How should oyster mushrooms be cleaned before cooking?"
+  },
+  "timestamp": "2026-02-06T05:57:41.951Z"
+}

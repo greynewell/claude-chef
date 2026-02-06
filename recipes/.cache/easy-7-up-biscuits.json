@@ -1,0 +1,48 @@
+{
+  "contentHash": "1a270823e689b39c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "baking mix",
+        "searchTerm": "Bisquick",
+        "normalizedName": "Baking Mix"
+      },
+      {
+        "ingredient": "lemon-lime soda",
+        "searchTerm": "7-Up",
+        "normalizedName": "Lemon-Lime Soda"
+      },
+      {
+        "ingredient": "sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Measuring Cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Use cold sour cream straight from the refrigerator for flakier texture",
+      "Don't overmix the dough to keep biscuits tender",
+      "Brush with melted butter before baking for a golden top"
+    ],
+    "coachingPrompt": "Explain how the soda provides lift and tang while keeping ingredients minimal, and guide proper mixing technique for tender biscuits."
+  },
+  "timestamp": "2026-02-06T05:28:59.761Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "4266daa316a98204",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 (14 ounce) cans chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 teaspoon chicken bouillon granules",
+        "searchTerm": "chicken bouillon",
+        "normalizedName": "Chicken Bouillon Granule"
+      },
+      {
+        "ingredient": "1 (12 ounce) package egg noodles",
+        "searchTerm": "egg noodles",
+        "normalizedName": "Egg Noodle"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Bring broth to a rolling boil before adding noodles to ensure even cooking",
+      "Stir noodles occasionally to prevent sticking to the bottom of the pot",
+      "Cook noodles until al dente to maintain texture; don't overcook"
+    ],
+    "coachingPrompt": "How can you enhance this simple side dish with additional flavor or texture elements?"
+  },
+  "timestamp": "2026-02-05T22:01:33.561Z"
+}

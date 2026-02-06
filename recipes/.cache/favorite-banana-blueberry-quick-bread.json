@@ -1,0 +1,77 @@
+{
+  "contentHash": "cbb8166d047c47b5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup fresh blueberries",
+        "searchTerm": "fresh blueberry",
+        "normalizedName": "Blueberry"
+      },
+      {
+        "ingredient": "1 ⅝ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ cup quick cooking oats",
+        "searchTerm": "quick cooking oat",
+        "normalizedName": "Oat"
+      },
+      {
+        "ingredient": "½ cup chopped pecans",
+        "searchTerm": "pecan",
+        "normalizedName": "Pecan"
+      },
+      {
+        "ingredient": "1 teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ cup shortening",
+        "searchTerm": "shortening",
+        "normalizedName": "Shortening"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup mashed bananas",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Coat blueberries lightly in flour before folding in to prevent sinking",
+      "Use very ripe bananas for maximum sweetness and moisture"
+    ],
+    "coachingPrompt": "Walk the user through making a moist quick bread by creaming shortening and sugar, adding bananas and eggs, then folding in blueberries and nuts gently."
+  },
+  "timestamp": "2026-02-06T06:32:15.785Z"
+}

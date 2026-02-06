@@ -1,0 +1,58 @@
+{
+  "contentHash": "8ebd2f6899f84b7d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "8 jalapeno peppers, or more to taste, seeded and minced",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "5 slices cooked bacon, crumbled",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "½ cup sweet corn kernels",
+        "searchTerm": "corn kernels",
+        "normalizedName": "Corn Kernel"
+      },
+      {
+        "ingredient": "¼ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Mix all ingredients thoroughly to distribute bacon and corn evenly",
+      "Bake at 350°F for 20-25 minutes until bubbly and lightly golden on top",
+      "Serve warm with tortilla chips or crackers for scooping"
+    ],
+    "coachingPrompt": "Should this dip be served hot or cold, and what would be the best vessels to keep it at temperature?"
+  },
+  "timestamp": "2026-02-06T10:15:43.197Z"
+}

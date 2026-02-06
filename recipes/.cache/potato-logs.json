@@ -1,0 +1,63 @@
+{
+  "contentHash": "da9f885aad250938",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 quarts oil for deep frying",
+        "searchTerm": "frying oil",
+        "normalizedName": "Oil"
+      },
+      {
+        "ingredient": "4 large potatoes, peeled and chopped",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 pinch Italian-style seasoning",
+        "searchTerm": "italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      },
+      {
+        "ingredient": "1 egg yolk",
+        "searchTerm": "egg yolk",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 egg white",
+        "searchTerm": "egg white",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "1 cup dry bread crumbs",
+        "searchTerm": "dry bread crumb",
+        "normalizedName": "Dry Bread Crumb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Potato Masher",
+        "searchTerm": "potato masher"
+      },
+      {
+        "name": "Three Shallow Dishes",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "Deep Fryer",
+        "searchTerm": "deep fryer"
+      }
+    ],
+    "cookingTips": [
+      "Boil potatoes until very tender, then mash while warm for smooth texture",
+      "Form logs on a floured surface and chill before breading",
+      "Double coating (flour, egg white, breadcrumbs) creates extra-crispy exterior"
+    ],
+    "coachingPrompt": "Guide the user through shaping and breading potato logs for maximum crispness. What's the proper technique for uniform, appealing results?"
+  },
+  "timestamp": "2026-02-06T15:13:50.726Z"
+}

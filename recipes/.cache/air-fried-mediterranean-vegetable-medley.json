@@ -1,0 +1,78 @@
+{
+  "contentHash": "1ef9dc82876a2176",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "eggplant",
+        "searchTerm": "eggplant",
+        "normalizedName": "Eggplant"
+      },
+      {
+        "ingredient": "zucchini",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "summer squash",
+        "searchTerm": "summer squash",
+        "normalizedName": "Summer Squash"
+      },
+      {
+        "ingredient": "shiitake mushrooms",
+        "searchTerm": "shiitake mushrooms",
+        "normalizedName": "Shiitake Mushroom"
+      },
+      {
+        "ingredient": "grape tomatoes",
+        "searchTerm": "grape tomatoes",
+        "normalizedName": "Grape Tomato"
+      },
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "dried oregano",
+        "searchTerm": "oregano",
+        "normalizedName": "Oregano"
+      },
+      {
+        "ingredient": "kosher salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "lemon zest",
+        "searchTerm": "lemon zest",
+        "normalizedName": "Lemon Zest"
+      }
+    ],
+    "gear": [
+      {
+        "name": "air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "mandoline or knife",
+        "searchTerm": "mandoline"
+      }
+    ],
+    "cookingTips": [
+      "Slice all vegetables uniformly for even cooking throughout",
+      "Don't overcrowd air fryer basket; cook vegetables in batches if needed",
+      "Toss with lemon zest and fresh herbs after cooking for bright flavors"
+    ],
+    "coachingPrompt": "Help me slice and season the Mediterranean vegetables, then air fry them until tender and lightly charred."
+  },
+  "timestamp": "2026-02-05T21:37:13.643Z"
+}

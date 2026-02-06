@@ -1,0 +1,58 @@
+{
+  "contentHash": "0d4b2d676b47cf2b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 large zucchini, thinly sliced",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 large onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar spaghetti sauce",
+        "searchTerm": "spaghetti sauce",
+        "normalizedName": "Spaghetti Sauce"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "mandoline slicer",
+        "searchTerm": "mandoline slicer"
+      }
+    ],
+    "cookingTips": [
+      "Slice zucchini thin and uniform for even cooking",
+      "Layer zucchini and sauce to ensure flavor distribution",
+      "Bake covered at 375°F for 25 minutes, then uncovered for 10 minutes until cheese melts"
+    ],
+    "coachingPrompt": "How do you layer zucchini and sauce for best results?"
+  },
+  "timestamp": "2026-02-06T22:28:19.420Z"
+}

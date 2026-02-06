@@ -1,0 +1,58 @@
+{
+  "contentHash": "8e53992e113ed5f1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15 ounce) can asparagus",
+        "searchTerm": "canned asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "½ cup milk (Optional)",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 tablespoon butter (Optional)",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Blend soup for a smoother texture if desired",
+      "Add milk gradually to control consistency",
+      "Heat through without boiling to preserve milk texture"
+    ],
+    "coachingPrompt": "Guide the user on whether to blend for creaminess versus chunky texture, and how to adjust seasoning since broth is already salted."
+  },
+  "timestamp": "2026-02-05T22:32:34.575Z"
+}

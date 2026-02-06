@@ -1,0 +1,78 @@
+{
+  "contentHash": "a8611c1d6764c115",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "boneless, skinless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "red potatoes",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "baby carrots",
+        "searchTerm": "baby carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "condensed cream of chicken soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream of Chicken Soup"
+      },
+      {
+        "ingredient": "chicken bouillon cubes",
+        "searchTerm": "chicken bouillon",
+        "normalizedName": "Chicken Bouillon Cube"
+      },
+      {
+        "ingredient": "garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "celery salt",
+        "searchTerm": "celery salt",
+        "normalizedName": "Celery Salt"
+      },
+      {
+        "ingredient": "black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "frozen mixed vegetables",
+        "searchTerm": "frozen mixed vegetables",
+        "normalizedName": "Frozen Mixed Vegetable"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Cube chicken and potatoes uniformly for even cooking",
+      "Add frozen vegetables in last 30 minutes to preserve texture",
+      "Stew will thicken naturally as it cooks; don't add thickening agents if you prefer brothier consistency"
+    ],
+    "coachingPrompt": "Guide the user through building a hearty stew with proper vegetable timing and achieving the right consistency."
+  },
+  "timestamp": "2026-02-06T18:08:28.915Z"
+}

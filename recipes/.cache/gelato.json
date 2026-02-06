@@ -1,0 +1,48 @@
+{
+  "contentHash": "b23c64866e6b6e02",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 cup heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "4 egg yolks",
+        "searchTerm": "egg yolks",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "½ cup sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Heat milk and cream together, then slowly temper egg yolks to prevent scrambling",
+      "Cook custard to 170°F for food safety with raw eggs",
+      "Chill base completely before churning for best texture"
+    ],
+    "coachingPrompt": "What's the proper technique for tempering eggs safely while creating a smooth custard base?"
+  },
+  "timestamp": "2026-02-06T07:22:58.335Z"
+}

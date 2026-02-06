@@ -1,0 +1,53 @@
+{
+  "contentHash": "33023c3f6c622314",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10 ounce) package frozen green peas",
+        "searchTerm": "frozen green peas",
+        "normalizedName": "Frozen Green Pea"
+      },
+      {
+        "ingredient": "¼ cup heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Potato Masher",
+        "searchTerm": "potato masher"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook peas according to package directions and reserve some cooking liquid to adjust consistency while mashing",
+      "Mash peas to desired texture; some prefer smooth and creamy while others like a bit of texture from whole peas",
+      "Fold in heavy cream gently after mashing to keep the dish light and airy rather than dense"
+    ],
+    "coachingPrompt": "Help the user achieve the perfect balance between creamy and textured for traditional British mushy peas."
+  },
+  "timestamp": "2026-02-06T13:00:25.520Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "9aea75c5fcd00f47",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 potatoes, peeled and cubed",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "2 leeks, chopped",
+        "searchTerm": "leeks",
+        "normalizedName": "Leek"
+      },
+      {
+        "ingredient": "2 teaspoons margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "1 ½ cups heavy whipping cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Whipping Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "immersion blender",
+        "searchTerm": "immersion blender"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Clean leeks thoroughly by splitting and rinsing between layers for sand",
+      "Simmer potatoes until very tender for easy blending",
+      "Use an immersion blender for a smooth soup or leave slightly chunky if preferred"
+    ],
+    "coachingPrompt": "Help the user understand leek preparation and suggest serving options like crusty bread or bacon bits."
+  },
+  "timestamp": "2026-02-06T05:56:03.394Z"
+}

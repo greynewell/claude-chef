@@ -1,0 +1,63 @@
+{
+  "contentHash": "8e9334c36ba0164c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 fluid ounce) can or bottle chile sauce",
+        "searchTerm": "chili sauce",
+        "normalizedName": "Chili Sauce"
+      },
+      {
+        "ingredient": "2 teaspoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "9 ounces grape jelly",
+        "searchTerm": "grape jelly",
+        "normalizedName": "Grape Jelly"
+      },
+      {
+        "ingredient": "1 pound lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 large onion, grated",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Grate onion directly into beef mixture for even distribution and better binding",
+      "Brown meatballs in skillet before transferring to sauce",
+      "Heat sauce gently to prevent jelly from scorching on the bottom"
+    ],
+    "coachingPrompt": "How does grating onion affect the texture and binding of the meatballs?"
+  },
+  "timestamp": "2026-02-06T19:59:40.998Z"
+}

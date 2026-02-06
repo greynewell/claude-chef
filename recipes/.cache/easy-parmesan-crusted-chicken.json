@@ -1,0 +1,47 @@
+{
+  "contentHash": "2fe1152e3a70092c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup Hellmann's® Real Mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "4 (5 ounce) boneless, skinless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "4 teaspoons Italian-seasoned dry bread crumbs",
+        "searchTerm": "Italian bread crumbs",
+        "normalizedName": "Italian Bread Crumb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "shallow bowl",
+        "searchTerm": "shallow bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Mix mayonnaise and Parmesan thoroughly and spread evenly on chicken for consistent crusting",
+      "Bake at a moderate temperature to prevent the crust from burning before the chicken cooks through"
+    ],
+    "coachingPrompt": "Help the user understand how mayonnaise acts as a binding agent and keeps the chicken moist during baking."
+  },
+  "timestamp": "2026-02-06T05:54:15.932Z"
+}

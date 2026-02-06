@@ -1,0 +1,78 @@
+{
+  "contentHash": "d85415fbb9b59265",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "kabocha squash",
+        "searchTerm": "kabocha squash",
+        "normalizedName": "Kabocha Squash"
+      },
+      {
+        "ingredient": "extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic clove",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "medium raw shrimp",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "ground cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Hollow out kabocha squash halves carefully to avoid puncturing the skin",
+      "Precook squash partially to ensure it's tender when filled and baked",
+      "Use room temperature cream cheese to mix easily with warm shrimp"
+    ],
+    "coachingPrompt": "You're cooking shrimp inside a squash shell. How will you manage timing so the shrimp doesn't overcook while the squash finishes?"
+  },
+  "timestamp": "2026-02-06T10:32:48.836Z"
+}

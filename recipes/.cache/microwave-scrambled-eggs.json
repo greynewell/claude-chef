@@ -1,0 +1,48 @@
+{
+  "contentHash": "501f3a14470f945b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "8 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "microwave",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "microwave-safe bowl",
+        "searchTerm": "microwave safe bowl"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Whisk eggs thoroughly before microwaving for fluffy texture",
+      "Cook in 30-second intervals, stirring between each, to prevent overcooking",
+      "Remove from microwave while still slightly moist as they continue to cook from residual heat"
+    ],
+    "coachingPrompt": "How can you achieve creamy scrambled eggs in a microwave without constant stirring?"
+  },
+  "timestamp": "2026-02-06T12:26:40.267Z"
+}

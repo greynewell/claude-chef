@@ -1,0 +1,53 @@
+{
+  "contentHash": "c24130d0cd707fda",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups almond flour",
+        "searchTerm": "almond flour",
+        "normalizedName": "Almond Flour"
+      },
+      {
+        "ingredient": "1 tablespoon gluten-free baking powder",
+        "searchTerm": "gluten-free baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "1 teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "2 ½ cups shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "2 ounces cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Mozzarella cheese must be shredded fresh, not pre-shredded, for proper texture",
+      "Let dough cool slightly before handling as hot cheese is slippery"
+    ],
+    "coachingPrompt": "Guide the baker through handling a sticky, cheese-based dough to form bagel shapes."
+  },
+  "timestamp": "2026-02-06T05:46:00.706Z"
+}

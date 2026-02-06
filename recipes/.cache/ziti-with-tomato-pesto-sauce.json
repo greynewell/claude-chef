@@ -1,0 +1,53 @@
+{
+  "contentHash": "2bdbd2f15753a56e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 ounces ziti pasta",
+        "searchTerm": "ziti pasta",
+        "normalizedName": "Ziti Pasta"
+      },
+      {
+        "ingredient": "2 tablespoons pesto",
+        "searchTerm": "pesto sauce",
+        "normalizedName": "Pesto Sauce"
+      },
+      {
+        "ingredient": "1 (26 ounce) jar tomato basil pasta sauce",
+        "searchTerm": "tomato basil sauce",
+        "normalizedName": "Tomato Basil Sauce"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pasta pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Stir pesto into sauce off heat to preserve fresh basil flavor",
+      "Don't overcook pasta; al dente texture works best",
+      "Reserve pasta water to adjust sauce consistency"
+    ],
+    "coachingPrompt": "Guide me through layering pesto and tomato flavors without one overpowering the other."
+  },
+  "timestamp": "2026-02-06T22:24:18.441Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "979c4e44a85ca0d5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup fresh blueberries",
+        "searchTerm": "blueberries",
+        "normalizedName": "Blueberry"
+      },
+      {
+        "ingredient": "½ cup sliced fresh strawberries",
+        "searchTerm": "strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "1 teaspoon white sugar (Optional)",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "6 tablespoons granola, or as needed",
+        "searchTerm": "granola",
+        "normalizedName": "Granola"
+      },
+      {
+        "ingredient": "1 (6 ounce) container nonfat vanilla Greek yogurt",
+        "searchTerm": "Greek yogurt",
+        "normalizedName": "Greek Yogurt"
+      },
+      {
+        "ingredient": "1 teaspoon lemon zest",
+        "searchTerm": "lemon zest",
+        "normalizedName": "Lemon Zest"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Parfait glass",
+        "searchTerm": "glass"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Layer ingredients just before eating to prevent granola from becoming soggy",
+      "Add lemon zest at the end for bright, fresh flavor"
+    ],
+    "coachingPrompt": "Help the user understand the importance of layering order and timing to maintain texture contrast in this breakfast parfait."
+  },
+  "timestamp": "2026-02-06T08:04:32.983Z"
+}

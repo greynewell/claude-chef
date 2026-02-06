@@ -1,0 +1,42 @@
+{
+  "contentHash": "523313c7eadd6635",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (0.13 ounce) package unsweetened, fruit-flavored soft drink mix",
+        "searchTerm": "drink mix",
+        "normalizedName": "Fruit-Flavored Drink Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "glass bottles",
+        "searchTerm": "glass bottles"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Dissolve sugar completely in boiling water for clear syrup",
+      "Cool syrup completely before adding to bottles to prevent lid condensation"
+    ],
+    "coachingPrompt": "Explain how unsweetened drink mix provides flavor without adding extra sugar, and discuss storage tips for homemade syrup."
+  },
+  "timestamp": "2026-02-06T18:29:39.154Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "551c79b574d627ec",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound bulk pork sausage",
+        "searchTerm": "pork sausage",
+        "normalizedName": "Pork Sausage"
+      },
+      {
+        "ingredient": "8 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 ½ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground mustard",
+        "searchTerm": "mustard",
+        "normalizedName": "Mustard"
+      },
+      {
+        "ingredient": "6 slices white bread, cut into 1/2-inch cubes",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook sausage until fully browned and crumbled, then drain excess fat",
+      "Assemble casserole in layers: bread cubes, sausage, then cheese",
+      "Allow assembled casserole to chill overnight for best texture and flavor integration"
+    ],
+    "coachingPrompt": "How does chilling overnight transform the texture and flavor of this breakfast casserole?"
+  },
+  "timestamp": "2026-02-06T16:57:46.245Z"
+}

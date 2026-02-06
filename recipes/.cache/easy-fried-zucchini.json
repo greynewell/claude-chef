@@ -1,0 +1,58 @@
+{
+  "contentHash": "999d899ee7dbe54c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 zucchinis, cut into 1/2-inch slices",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 sleeve buttery round crackers (such as Ritz®), crushed",
+        "searchTerm": "round crackers",
+        "normalizedName": "Round Cracker"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "shallow bowls",
+        "searchTerm": "bowls"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Don't overcrowd the pan; fry zucchini in batches for even browning",
+      "The cracker coating adds butter flavor; don't substitute with bread crumbs",
+      "Fry until golden on both sides, about 2-3 minutes per side"
+    ],
+    "coachingPrompt": "Guide the user on spacing and heat management to achieve crispy, golden zucchini chips without sogginess."
+  },
+  "timestamp": "2026-02-06T05:45:16.336Z"
+}

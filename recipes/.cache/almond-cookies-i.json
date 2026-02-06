@@ -1,0 +1,58 @@
+{
+  "contentHash": "fd983c846077d3cc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "white sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "ground almonds",
+        "searchTerm": "almond flour",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "amaretto liqueur",
+        "searchTerm": "amaretto",
+        "normalizedName": "Amaretto Liqueur"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "cookie sheet"
+      },
+      {
+        "name": "Electric mixer",
+        "searchTerm": "hand mixer"
+      }
+    ],
+    "cookingTips": [
+      "Ground almonds add moisture and richness; use finely ground for best texture",
+      "Amaretto liqueur brings subtle almond depth to the cookies",
+      "Cream butter and sugar until pale and fluffy for tender cookies"
+    ],
+    "coachingPrompt": "Help the user understand how amaretto enhances almond flavor and the importance of proper creaming."
+  },
+  "timestamp": "2026-02-05T21:53:34.910Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "d3125a1bb5ab30ad",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound cooked shrimp (tails removed), cut in bite-sized pieces",
+        "searchTerm": "cooked shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "2 seedless oranges (in slices or chunks)",
+        "searchTerm": "seedless oranges",
+        "normalizedName": "Orange"
+      },
+      {
+        "ingredient": "2 cups small broccoli florets, crisp-cooked",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "¼ cup chopped fresh mint leaves",
+        "searchTerm": "fresh mint",
+        "normalizedName": "Mint"
+      },
+      {
+        "ingredient": "¼ cup sliced almonds",
+        "searchTerm": "sliced almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "1 (6 ounce) container fat-free Key lime yogurt",
+        "searchTerm": "key lime yogurt",
+        "normalizedName": "Yogurt"
+      },
+      {
+        "ingredient": "2 tablespoons fresh lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Salad Bowl",
+        "searchTerm": "salad bowl"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Use pre-cooked shrimp to save time on prep",
+      "Steam broccoli just until tender-crisp for best texture",
+      "Toss salad gently to avoid crushing delicate shrimp and avocado"
+    ],
+    "coachingPrompt": "Help the user select quality pre-cooked shrimp and balance the bright citrus and mint flavors."
+  },
+  "timestamp": "2026-02-06T15:46:17.034Z"
+}

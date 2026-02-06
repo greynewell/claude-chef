@@ -1,0 +1,48 @@
+{
+  "contentHash": "f8edb06bf92320c0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (18 ounce) package frozen or fresh gnocchi",
+        "searchTerm": "gnocchi",
+        "normalizedName": "Gnocchi"
+      },
+      {
+        "ingredient": "1 pound bulk Italian sausage",
+        "searchTerm": "Italian sausage",
+        "normalizedName": "Italian Sausage"
+      },
+      {
+        "ingredient": "1 (14 ounce) jar spaghetti sauce",
+        "searchTerm": "spaghetti sauce",
+        "normalizedName": "Spaghetti Sauce"
+      },
+      {
+        "ingredient": "1 ½ cups shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Casserole Dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "Large Skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausage thoroughly before combining with other ingredients",
+      "Combine gnocchi, sausage, and sauce gently to avoid breaking gnocchi",
+      "Bake until cheese is bubbly and golden, about 25-30 minutes"
+    ],
+    "coachingPrompt": "What's the best way to layer and bake gnocchi with meat sauce and cheese?"
+  },
+  "timestamp": "2026-02-06T07:39:23.185Z"
+}

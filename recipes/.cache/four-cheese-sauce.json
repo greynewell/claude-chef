@@ -1,0 +1,58 @@
+{
+  "contentHash": "9cdaec425a293e20",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups heavy whipping cream",
+        "searchTerm": "heavy whipping cream",
+        "normalizedName": "Heavy Whipping Cream"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese grated",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "½ cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese shredded",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "½ cup shredded provolone cheese",
+        "searchTerm": "provolone cheese shredded",
+        "normalizedName": "Provolone Cheese"
+      },
+      {
+        "ingredient": "½ cup grated Romano cheese",
+        "searchTerm": "romano cheese grated",
+        "normalizedName": "Romano Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "heat source",
+        "searchTerm": "stovetop"
+      }
+    ],
+    "cookingTips": [
+      "Heat cream and butter slowly to avoid scorching before adding cheese",
+      "Add cheeses gradually while whisking constantly to prevent clumping and ensure smooth sauce",
+      "Keep heat at medium or lower to prevent the sauce from breaking; cheese should melt into a silky texture"
+    ],
+    "coachingPrompt": "What techniques prevent a four-cheese sauce from becoming grainy or separating?"
+  },
+  "timestamp": "2026-02-06T06:51:48.270Z"
+}

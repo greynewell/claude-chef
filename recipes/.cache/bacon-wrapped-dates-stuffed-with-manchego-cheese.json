@@ -1,0 +1,43 @@
+{
+  "contentHash": "d7d964710cd106cd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 ounces manchego cheese, cut into 24 small cubes",
+        "searchTerm": "manchego cheese",
+        "normalizedName": "Manchego Cheese"
+      },
+      {
+        "ingredient": "24 dried pitted dates",
+        "searchTerm": "pitted dates",
+        "normalizedName": "Date"
+      },
+      {
+        "ingredient": "8 slices bacon, cut into thirds",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "24 wooden toothpicks",
+        "searchTerm": "wooden toothpicks",
+        "normalizedName": "Toothpick"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Cut manchego into uniform cubes so each date gets an equal portion",
+      "Secure with toothpicks through the center to prevent cheese from escaping during cooking"
+    ],
+    "coachingPrompt": "How will you prevent the manchego from melting out of the dates?"
+  },
+  "timestamp": "2026-02-05T22:53:49.046Z"
+}

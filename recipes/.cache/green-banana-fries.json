@@ -1,0 +1,46 @@
+{
+  "contentHash": "af7fea24f82aa8f6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 small unripe (green) bananas",
+        "searchTerm": "green bananas",
+        "normalizedName": "Green Banana"
+      },
+      {
+        "ingredient": "1 quart oil for frying, or as needed",
+        "searchTerm": "oil",
+        "normalizedName": "Oil"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep fryer or heavy pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Use unripe bananas that are still green; ripe bananas will fall apart during frying",
+      "Cut bananas into uniform thickness for even cooking and oil absorption"
+    ],
+    "coachingPrompt": "Explain the difference between using green bananas versus ripe bananas and why firmness is crucial for this recipe."
+  },
+  "timestamp": "2026-02-06T08:04:32.986Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "e823f7c0a2c84728",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups refrigerated hash brown potatoes",
+        "searchTerm": "hash browns",
+        "normalizedName": "Hash Brown"
+      },
+      {
+        "ingredient": "4 Jones Dairy Farm All Natural Golden Brown® Chicken Sausage Patties",
+        "searchTerm": "chicken sausage patties",
+        "normalizedName": "Chicken Sausage Patty"
+      },
+      {
+        "ingredient": "3 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 slices deli rye bread",
+        "searchTerm": "rye bread",
+        "normalizedName": "Rye Bread"
+      },
+      {
+        "ingredient": "4 slices Havarti or Gouda cheese",
+        "searchTerm": "havarti cheese",
+        "normalizedName": "Havarti Cheese"
+      },
+      {
+        "ingredient": "4 slices Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Griddle or second skillet",
+        "searchTerm": "griddle"
+      }
+    ],
+    "cookingTips": [
+      "Cook hash browns until crispy and golden on both sides before removing from skillet",
+      "Cook sausage patties until edges brown, then break into pieces to distribute throughout sandwich",
+      "Butter bread generously and use medium heat on griddle to melt cheese while browning bread evenly"
+    ],
+    "coachingPrompt": "This breakfast sandwich stacks multiple textures - do you want to cook components separately and then assemble, or finish everything in one skillet?"
+  },
+  "timestamp": "2026-02-06T02:41:00.986Z"
+}

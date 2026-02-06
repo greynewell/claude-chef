@@ -1,0 +1,53 @@
+{
+  "contentHash": "02f809cf45825283",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 zucchini",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "3 tablespoons butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "½ cup freshly grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Slice zucchini lengthwise for larger surface area and fewer pieces to manage",
+      "Mix garlic butter ahead of time and chill for easier application",
+      "Grill zucchini until tender-crisp, about 3-4 minutes per side"
+    ],
+    "coachingPrompt": "Help the user slice zucchini properly and apply toppings for even coverage and optimal flavor."
+  },
+  "timestamp": "2026-02-06T08:16:33.676Z"
+}

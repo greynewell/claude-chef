@@ -1,0 +1,53 @@
+{
+  "contentHash": "5173074e41e063ff",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 large potatoes, sliced lengthwise into 1/2-inch circles and cut into 1/2-inch strips",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "¼ teaspoon coarse sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon cracked black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cast iron skillet",
+        "searchTerm": "cast iron skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Soak cut potatoes in water for 30 minutes to remove excess starch for crispier results",
+      "Don't stir too frequently; allow them to develop golden crust",
+      "Season while hot so salt and pepper adhere properly"
+    ],
+    "coachingPrompt": "Why does soaking potato slices before frying significantly improve their crispness?"
+  },
+  "timestamp": "2026-02-06T16:51:21.299Z"
+}

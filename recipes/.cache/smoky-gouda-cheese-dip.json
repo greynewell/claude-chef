@@ -1,0 +1,52 @@
+{
+  "contentHash": "f570a99156442a83",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ⅛ cups mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 cups shredded smoked Gouda cheese",
+        "searchTerm": "smoked Gouda cheese",
+        "normalizedName": "Smoked Gouda Cheese"
+      },
+      {
+        "ingredient": "1 cup shredded Gouda cheese with chipotle peppers",
+        "searchTerm": "Gouda cheese with chipotle",
+        "normalizedName": "Gouda Cheese with Chipotle Pepper"
+      },
+      {
+        "ingredient": "¾ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "4 ounces chopped cooked bacon",
+        "searchTerm": "cooked bacon",
+        "normalizedName": "Cooked Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "mixing spoon"
+      },
+      {
+        "name": "serving bowl",
+        "searchTerm": "serving bowl"
+      }
+    ],
+    "cookingTips": [
+      "Mix all ingredients cold and serve immediately or heat gently",
+      "Chop bacon finely to distribute evenly throughout"
+    ],
+    "coachingPrompt": "Help the user combine ingredients smoothly and decide between cold and warm serving"
+  },
+  "timestamp": "2026-02-06T18:26:30.031Z"
+}

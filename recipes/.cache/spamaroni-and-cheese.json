@@ -1,0 +1,53 @@
+{
+  "contentHash": "07a9626ef3abe936",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 (14 ounce) package deluxe macaroni and cheese dinner mix",
+        "searchTerm": "mac and cheese box",
+        "normalizedName": "Macaroni and Cheese Mix"
+      },
+      {
+        "ingredient": "1 (12 ounce) can luncheon meat (such as Spam), cut into 1/4-inch cubes",
+        "searchTerm": "Spam",
+        "normalizedName": "Spam"
+      },
+      {
+        "ingredient": "¼ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup Italian-style bread crumbs",
+        "searchTerm": "Italian bread crumbs",
+        "normalizedName": "Italian Bread Crumb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "Large Pot",
+        "searchTerm": "pasta pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Cut Spam into uniform ¼-inch cubes for consistent cooking",
+      "Brown Spam cubes in a separate skillet before adding to the pasta",
+      "Sprinkle bread crumbs on top before baking for a crispy crust"
+    ],
+    "coachingPrompt": "Why would browning the Spam separately improve the dish's overall flavor and texture?"
+  },
+  "timestamp": "2026-02-06T18:48:30.879Z"
+}

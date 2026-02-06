@@ -1,0 +1,63 @@
+{
+  "contentHash": "c1c69c99869e0ec6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 ears fresh corn, shucked",
+        "searchTerm": "fresh corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "½ cup finely diced red onion",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "2 ½ tablespoons red wine vinegar",
+        "searchTerm": "red wine vinegar",
+        "normalizedName": "Red Wine Vinegar"
+      },
+      {
+        "ingredient": "2 ½ tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ teaspoon kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "5 tablespoons thinly sliced fresh basil leaves",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Basil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cut corn kernels at a slight angle to the cob to maximize yield without damaging the cob",
+      "For raw corn salad, select the sweetest corn available - taste test at the market",
+      "Add fresh basil just before serving to preserve its vibrant color and flavor"
+    ],
+    "coachingPrompt": "Do you prefer raw or blanched corn kernels in this salad? Would you like to add any proteins?"
+  },
+  "timestamp": "2026-02-06T07:01:44.245Z"
+}

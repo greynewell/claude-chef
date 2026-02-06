@@ -1,0 +1,44 @@
+{
+  "contentHash": "0d3f764674d81705",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package baby carrots",
+        "searchTerm": "baby carrots",
+        "normalizedName": "Baby Carrot"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "½ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Steam carrots until tender-crisp before glazing",
+      "Melt butter and brown sugar together until fully combined",
+      "Add cooked carrots to glaze and simmer for 2-3 minutes to coat evenly"
+    ],
+    "coachingPrompt": "When should you add the carrots to the glaze to achieve the best coating?"
+  },
+  "timestamp": "2026-02-06T20:01:32.481Z"
+}

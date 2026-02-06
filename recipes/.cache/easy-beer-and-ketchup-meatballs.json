@@ -1,0 +1,53 @@
+{
+  "contentHash": "9c3b89840c4c90dc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (28 ounce) bottle ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "24 fluid ounces beer",
+        "searchTerm": "beer",
+        "normalizedName": "Beer"
+      },
+      {
+        "ingredient": "1 ½ pounds ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "2 teaspoons garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown meatballs before slow cooking for better texture and browning",
+      "Stir sauce occasionally to prevent settling",
+      "Use the slow cooker on low for 2-3 hours or high for 1-2 hours"
+    ],
+    "coachingPrompt": "How do you prevent meatballs from becoming tough while cooking in sauce?"
+  },
+  "timestamp": "2026-02-06T05:33:17.117Z"
+}

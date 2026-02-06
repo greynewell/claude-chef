@@ -1,0 +1,53 @@
+{
+  "contentHash": "dcdb4f9c831e8126",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup dried bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "2 teaspoons Italian seasoning",
+        "searchTerm": "Italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "5 skinless, boneless chicken breasts",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Shallow Dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken breasts to uniform thickness for even cooking",
+      "Let breaded chicken rest for 5 minutes before cooking so coating adheres better",
+      "Use medium-high heat and don't move the chicken too often to develop a golden crust"
+    ],
+    "coachingPrompt": "This is a simplified Chicken Parmesan without the sauce—how would you build flavor without the tomato sauce component?"
+  },
+  "timestamp": "2026-02-06T17:54:58.119Z"
+}

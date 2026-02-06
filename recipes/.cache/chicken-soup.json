@@ -1,0 +1,58 @@
+{
+  "contentHash": "a04d47ee57e4cd03",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 boneless chicken breast half, cooked and diced",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 carrots, chopped",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 zucchini, diced",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ teaspoon chicken broth base",
+        "searchTerm": "chicken broth base",
+        "normalizedName": "Chicken Broth Base"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook vegetables separately if desired to control texture",
+      "Add cooked chicken near the end to prevent overcooking",
+      "Simmer for 15-20 minutes to allow flavors to meld"
+    ],
+    "coachingPrompt": "How can I make this simple soup more flavorful with minimal ingredients?"
+  },
+  "timestamp": "2026-02-06T02:42:06.510Z"
+}

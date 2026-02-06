@@ -1,0 +1,47 @@
+{
+  "contentHash": "10457a9e9c977fc9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 quart oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 cup dry pancake mix",
+        "searchTerm": "pancake mix",
+        "normalizedName": "Pancake Mix"
+      },
+      {
+        "ingredient": "1 large Spanish onion, sliced into rings",
+        "searchTerm": "Spanish onion",
+        "normalizedName": "Spanish Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep fryer or pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "Slotted spoon",
+        "searchTerm": "slotted spoon"
+      },
+      {
+        "name": "Paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Use large Spanish onions for rings that hold together during frying",
+      "Separate onion rings after slicing so they don't clump together",
+      "Pancake mix already contains leavening—this creates light, crispy rings without a heavy batter"
+    ],
+    "coachingPrompt": "This is a minimal-ingredient, maximum-flavor approach to onion rings. Why does pancake mix work so well as a coating, and how does oil temperature matter?"
+  },
+  "timestamp": "2026-02-06T13:40:15.797Z"
+}

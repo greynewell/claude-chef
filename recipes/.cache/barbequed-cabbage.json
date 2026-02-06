@@ -1,0 +1,48 @@
+{
+  "contentHash": "9d311ac3411db442",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ head cabbage, cut into thick shreds",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "½ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "freshly ground pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill Basket",
+        "searchTerm": "grill basket"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "grill tongs"
+      },
+      {
+        "name": "Medium Heat Source",
+        "searchTerm": "grill"
+      }
+    ],
+    "cookingTips": [
+      "Use a grill basket to prevent cabbage shreds from falling through grates",
+      "Toss cabbage frequently for even cooking and caramelization",
+      "The salty soy sauce will reduce as the cabbage cooks, intensifying flavors"
+    ],
+    "coachingPrompt": "This simple recipe relies on the interplay of umami (soy), butter, and vegetables. What cooking stage should you add the butter for best results?"
+  },
+  "timestamp": "2026-02-05T23:30:41.324Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "7d00fe5c586e71be",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 cup shredded cooked chicken",
+        "searchTerm": "shredded cooked chicken",
+        "normalizedName": "Shredded Cooked Chicken"
+      },
+      {
+        "ingredient": "¼ cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons ranch dressing",
+        "searchTerm": "ranch dressing",
+        "normalizedName": "Ranch Dressing"
+      },
+      {
+        "ingredient": "1 tablespoon butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 ½ teaspoons hot pepper sauce, or more to taste",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      },
+      {
+        "ingredient": "20 wonton wrappers",
+        "searchTerm": "wonton wrappers",
+        "normalizedName": "Wonton Wrapper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep frying pan or pot",
+        "searchTerm": "deep skillet"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "small mixing bowl"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Mix chicken filling ingredients until well combined",
+      "Place small spoonful of filling in center of wrapper and fold into triangle",
+      "Fry at 350°F for 1-2 minutes until golden crispy, working in batches"
+    ],
+    "coachingPrompt": "Teach user proper wonton folding technique and advise on maintaining oil temperature for consistent crispiness."
+  },
+  "timestamp": "2026-02-06T04:37:42.869Z"
+}

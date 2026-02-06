@@ -1,0 +1,63 @@
+{
+  "contentHash": "17299a44143bf228",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "chopped imitation crabmeat",
+        "searchTerm": "imitation crab",
+        "normalizedName": "Imitation Crab"
+      },
+      {
+        "ingredient": "onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "serrano peppers",
+        "searchTerm": "serrano peppers",
+        "normalizedName": "Serrano Pepper"
+      },
+      {
+        "ingredient": "pickled jalapeno peppers",
+        "searchTerm": "pickled jalapeno",
+        "normalizedName": "Pickled Jalapeno Pepper"
+      },
+      {
+        "ingredient": "cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Chef's knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Serving spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Soften cream cheese first by letting it sit at room temperature",
+      "Fold ingredients gently to avoid breaking up the imitation crab",
+      "Taste and adjust heat level with additional serrano or jalapeno peppers"
+    ],
+    "coachingPrompt": "This simple seafood-style dip relies on fresh ingredients and proper folding technique. How will you balance the heat and flavor while keeping the texture light and creamy?"
+  },
+  "timestamp": "2026-02-06T12:23:03.143Z"
+}

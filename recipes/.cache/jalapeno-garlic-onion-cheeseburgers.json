@@ -1,0 +1,57 @@
+{
+  "contentHash": "d950259152053882",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 fresh jalapeno chile pepper, finely chopped",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 small onion, finely chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 pound lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "4 slices pepperjack cheese",
+        "searchTerm": "pepperjack cheese",
+        "normalizedName": "Pepperjack Cheese"
+      },
+      {
+        "ingredient": "4 hamburger buns",
+        "searchTerm": "hamburger buns",
+        "normalizedName": "Hamburger Bun"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill or skillet",
+        "searchTerm": "grill pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Don't overwork the ground beef when mixing to keep burgers tender",
+      "Make a small indent in the center of each patty to prevent them from puffing up while cooking"
+    ],
+    "coachingPrompt": "Help the user combine seasonings with ground beef gently and cook patties to medium (160°F) for food safety."
+  },
+  "timestamp": "2026-02-06T10:14:39.292Z"
+}

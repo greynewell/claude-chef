@@ -1,0 +1,47 @@
+{
+  "contentHash": "cdd0ab6614ebc955",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "3 plantains, peeled and sliced into 1-inch pieces",
+        "searchTerm": "plantains",
+        "normalizedName": "Plantain"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "garlic powder to taste",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep fryer or pot",
+        "searchTerm": "fryer"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Use green plantains for tostones; ripe yellow ones will be too soft",
+      "Fry at 350°F until golden, then flatten and fry again for crispness"
+    ],
+    "coachingPrompt": "I'm making tostones (fried plantains). Do I need to fry them twice and how do I flatten them properly?"
+  },
+  "timestamp": "2026-02-06T21:02:53.895Z"
+}

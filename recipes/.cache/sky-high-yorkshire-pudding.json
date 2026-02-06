@@ -1,0 +1,48 @@
+{
+  "contentHash": "6023868406bb1d1e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "muffin tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Let batter rest for 30 minutes before baking for better structure",
+      "Preheat oil in muffin tin until smoking for maximum rise",
+      "Don't open oven door during baking or puddings will deflate"
+    ],
+    "coachingPrompt": "What techniques ensure Yorkshire puddings rise tall and crispy instead of staying flat?"
+  },
+  "timestamp": "2026-02-06T18:00:08.957Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "7ded8feb014f0c3e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 ⅓ gallons cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (2 ounce) bottle root beer extract",
+        "searchTerm": "root beer extract",
+        "normalizedName": "Root Beer Extract"
+      },
+      {
+        "ingredient": "4 pounds dry ice",
+        "searchTerm": "dry ice",
+        "normalizedName": "Dry Ice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Bottles",
+        "searchTerm": "glass bottles"
+      },
+      {
+        "name": "Heat-safe gloves",
+        "searchTerm": "insulated gloves"
+      }
+    ],
+    "cookingTips": [
+      "Dissolve sugar in boiling water first, then cool completely before adding extract",
+      "Use dry ice for carbonation; handle with thick gloves and in well-ventilated area",
+      "Wait until dry ice has fully sublimated before sealing bottles"
+    ],
+    "coachingPrompt": "How do I safely carbonate root beer with dry ice for optimal fizz?"
+  },
+  "timestamp": "2026-02-06T09:17:13.646Z"
+}

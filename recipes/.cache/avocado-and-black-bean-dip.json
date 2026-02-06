@@ -1,0 +1,54 @@
+{
+  "contentHash": "122e938382530084",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 avocado - peeled, pitted, and mashed",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "½ (15 ounce) can black beans, drained and rinsed",
+        "searchTerm": "black beans",
+        "normalizedName": "Black Bean"
+      },
+      {
+        "ingredient": "1 tablespoon lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "1 clove garlic, minced, or more to taste",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "⅓ cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 pinch sea salt to taste",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Mash avocado to desired consistency while maintaining some texture; aim for chunky rather than smooth",
+      "Add lime juice immediately to preserve avocado color and prevent oxidation",
+      "Mix in black beans gently to maintain texture contrast between creamy avocado and firm beans"
+    ],
+    "coachingPrompt": "How do you keep avocado from browning while achieving the right texture balance with black beans, and what flavor bridges both ingredients?"
+  },
+  "timestamp": "2026-02-05T22:40:06.727Z"
+}

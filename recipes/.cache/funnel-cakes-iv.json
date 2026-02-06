@@ -1,0 +1,72 @@
+{
+  "contentHash": "125f2f29ca4d0e1e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 teaspoons baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "3 ⅔ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 quart vegetable oil for frying, or as needed",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 tablespoons confectioners' sugar, or as needed",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep Fryer or Heavy Pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Funnel Cake Funnel or Squeeze Bottle",
+        "searchTerm": "funnel"
+      },
+      {
+        "name": "Candy/Deep Fry Thermometer",
+        "searchTerm": "deep fry thermometer"
+      },
+      {
+        "name": "Slotted Spoon or Tongs",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "This recipe yields richer cakes due to higher egg content",
+      "Oil temperature should be between 365-375°F",
+      "Allow batter to rest 5 minutes after mixing for better texture"
+    ],
+    "coachingPrompt": "Guide the user on the difference between this recipe and the others - it has more eggs and baking powder, creating a denser, richer cake. Explain proper pouring technique for the characteristic spiral pattern."
+  },
+  "timestamp": "2026-02-06T07:12:37.290Z"
+}

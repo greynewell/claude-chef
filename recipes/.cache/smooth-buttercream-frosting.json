@@ -1,0 +1,52 @@
+{
+  "contentHash": "157d21043ee661bb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup vegetable shortening",
+        "searchTerm": "vegetable shortening",
+        "normalizedName": "Vegetable Shortening"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 ½ teaspoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "5 cups confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "3 tablespoons milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "rubber spatula"
+      }
+    ],
+    "cookingTips": [
+      "Beat butter and shortening until light and fluffy before adding sugar",
+      "Add powdered sugar gradually to avoid lumps and over-mixing"
+    ],
+    "coachingPrompt": "Teach the user proper creaming technique and gradual incorporation of sugar for smooth frosting"
+  },
+  "timestamp": "2026-02-06T18:26:30.031Z"
+}

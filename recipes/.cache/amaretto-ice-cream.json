@@ -1,0 +1,53 @@
+{
+  "contentHash": "bb3872507f8ea6ec",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups heavy whipping cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Whipping Cream"
+      },
+      {
+        "ingredient": "1 cup half-and-half",
+        "searchTerm": "half-and-half",
+        "normalizedName": "Half-And-Half"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "5 tablespoons amaretto liqueur (such as Disaronno®)",
+        "searchTerm": "amaretto liqueur",
+        "normalizedName": "Amaretto Liqueur"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "freezer",
+        "searchTerm": "freezer"
+      }
+    ],
+    "cookingTips": [
+      "Chill mixture thoroughly before churning for best texture",
+      "Add amaretto in the last few minutes of churning to preserve flavor",
+      "Transfer to airtight container and freeze for 4+ hours for scoopable consistency"
+    ],
+    "coachingPrompt": "How can I achieve a smooth, creamy texture without ice crystals forming?"
+  },
+  "timestamp": "2026-02-05T21:57:19.791Z"
+}

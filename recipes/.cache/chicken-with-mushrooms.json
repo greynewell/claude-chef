@@ -1,0 +1,63 @@
+{
+  "contentHash": "948aeb43d5947065",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups sliced mushrooms",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup seasoned bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "6 ounces mozzarella cheese, sliced",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "¾ cup chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "shallow bowls for breading",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "meat mallet",
+        "searchTerm": "meat mallet"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken breasts to even thickness for consistent cooking",
+      "Dredge in egg and breadcrumbs for a crispy exterior",
+      "Top with cheese in the last 2-3 minutes of cooking to melt"
+    ],
+    "coachingPrompt": "Teach the user the proper breading technique for juicy, crispy chicken."
+  },
+  "timestamp": "2026-02-06T02:46:40.327Z"
+}

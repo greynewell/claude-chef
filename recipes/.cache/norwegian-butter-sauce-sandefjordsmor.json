@@ -1,0 +1,57 @@
+{
+  "contentHash": "5431155e55db561d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 lemons, juiced",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "½ cup heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "5 tablespoons cold, unsalted butter, cut into cubes",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "cayenne pepper, to taste",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh Italian parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "strainer",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Use cold butter cut into small cubes for emulsification",
+      "Keep heat medium to prevent breaking the sauce"
+    ],
+    "coachingPrompt": "How can you prevent the butter sauce from breaking or separating?"
+  },
+  "timestamp": "2026-02-06T13:22:07.177Z"
+}

@@ -1,0 +1,67 @@
+{
+  "contentHash": "d0c5252be5dc1122",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) jar Alfredo sauce",
+        "searchTerm": "Alfredo sauce",
+        "normalizedName": "Alfredo Sauce"
+      },
+      {
+        "ingredient": "1 pound salmon fillets",
+        "searchTerm": "salmon fillets",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "1 lemon, juiced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "1 tablespoon vinegar",
+        "searchTerm": "vinegar",
+        "normalizedName": "Vinegar"
+      },
+      {
+        "ingredient": "1 teaspoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "1 teaspoon dried parsley",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley"
+      },
+      {
+        "ingredient": "1 (16 ounce) package uncooked rotini pasta",
+        "searchTerm": "rotini pasta",
+        "normalizedName": "Rotini Pasta"
+      },
+      {
+        "ingredient": "1 (6 ounce) package shredded Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Don't overcook salmon; it should flake easily and still be moist inside",
+      "Toss pasta gently with sauce to coat evenly without breaking the salmon apart"
+    ],
+    "coachingPrompt": "How can we keep the salmon intact when combining it with the hot pasta?"
+  },
+  "timestamp": "2026-02-06T01:53:00.001Z"
+}

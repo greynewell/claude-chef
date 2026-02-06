@@ -1,0 +1,78 @@
+{
+  "contentHash": "767efde4a2c2d282",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "½ sweet onion, chopped",
+        "searchTerm": "sweet onion",
+        "normalizedName": "Sweet Onion"
+      },
+      {
+        "ingredient": "1 (4 ounce) package chopped fresh mushrooms",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 egg white",
+        "searchTerm": "egg white",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "1 teaspoon seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "6 slices Swiss cheese",
+        "searchTerm": "swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "6 hamburger buns",
+        "searchTerm": "hamburger buns",
+        "normalizedName": "Hamburger Bun"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet or Grill",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Large Mixing Bowl",
+        "searchTerm": "large mixing bowl"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Handle ground beef mixture gently when combining ingredients to avoid compacting, which makes tough burgers",
+      "Use egg white as a binder rather than whole egg to keep patties from becoming too dense",
+      "Make a slight indent in the center of each patty with your thumb to prevent them from puffing up during cooking"
+    ],
+    "coachingPrompt": "Guide the user through burger assembly, emphasizing gentle mixing and proper cooking temperature for juicy patties."
+  },
+  "timestamp": "2026-02-06T13:00:25.519Z"
+}

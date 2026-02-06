@@ -1,0 +1,48 @@
+{
+  "contentHash": "ae824593fa9abc59",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 sheet frozen puff pastry, thawed",
+        "searchTerm": "puff pastry",
+        "normalizedName": "Puff Pastry"
+      },
+      {
+        "ingredient": "7 ounces shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "6 slices mortadella",
+        "searchTerm": "mortadella",
+        "normalizedName": "Mortadella"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "sharp knife",
+        "searchTerm": "sharp knife"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Layer filling evenly across pastry for consistent pinwheels",
+      "Roll tightly to prevent filling from spilling during baking",
+      "Brush with egg wash for golden color"
+    ],
+    "coachingPrompt": "Help the user understand proper pastry rolling technique and optimal slice thickness for these appetizers."
+  },
+  "timestamp": "2026-02-06T10:08:24.312Z"
+}

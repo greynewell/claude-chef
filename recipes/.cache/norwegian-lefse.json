@@ -1,0 +1,57 @@
+{
+  "contentHash": "547229e2a4e49bdf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 pounds potatoes, peeled",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "⅓ cup heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "1 tablespoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 ½ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "ricer",
+        "searchTerm": "ricer"
+      },
+      {
+        "name": "lefse roller and board",
+        "searchTerm": "lefse roller"
+      }
+    ],
+    "cookingTips": [
+      "Use a ricer for smooth, lump-free potatoes",
+      "Work with cooled dough for best handling"
+    ],
+    "coachingPrompt": "Why is using a ricer important for lefse texture, and how should you cool the potatoes?"
+  },
+  "timestamp": "2026-02-06T13:22:07.178Z"
+}

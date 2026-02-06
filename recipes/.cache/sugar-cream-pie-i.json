@@ -1,0 +1,67 @@
+{
+  "contentHash": "ab2265e968851ec9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (9 inch) pie crust, baked",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      },
+      {
+        "ingredient": "4 tablespoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "4 tablespoons butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 ¼ cups half-and-half cream",
+        "searchTerm": "half and half",
+        "normalizedName": "Half-and-Half Cream"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 tablespoons butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "pie dish",
+        "searchTerm": "pie dish"
+      }
+    ],
+    "cookingTips": [
+      "Whisk cornstarch with sugar before adding liquid to prevent lumps",
+      "Cool filling to room temperature before pouring into crust to prevent sogginess"
+    ],
+    "coachingPrompt": "Will you serve this pie warm or chilled, and does that affect your timeline?"
+  },
+  "timestamp": "2026-02-06T19:44:10.586Z"
+}

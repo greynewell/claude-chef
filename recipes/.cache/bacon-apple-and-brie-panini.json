@@ -1,0 +1,58 @@
+{
+  "contentHash": "7a0a7a7b8df342d2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter, room temperature",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "1 teaspoon Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "3 slices Brie cheese",
+        "searchTerm": "Brie cheese",
+        "normalizedName": "Brie Cheese"
+      },
+      {
+        "ingredient": "1 Fuji apple, thinly sliced",
+        "searchTerm": "Fuji apple",
+        "normalizedName": "Fuji Apple"
+      },
+      {
+        "ingredient": "4 strips cooked bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Panini Press",
+        "searchTerm": "panini press"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Slice apples just before assembly to prevent browning",
+      "Butter the outside of bread for golden, crispy exterior",
+      "Press until cheese is melted but apple slices retain some firmness"
+    ],
+    "coachingPrompt": "How do you balance the cooking time to melt the Brie without making the apple mushy?"
+  },
+  "timestamp": "2026-02-05T22:49:20.386Z"
+}

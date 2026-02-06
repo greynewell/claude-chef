@@ -1,0 +1,53 @@
+{
+  "contentHash": "67b7df7b97f41b81",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup fresh strawberries",
+        "searchTerm": "fresh strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "1 cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup confectioners' sugar, sifted",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 ½ cups confectioners' sugar, sifted, divided",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "sifter",
+        "searchTerm": "sifter"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Strain pureed strawberries to remove excess moisture and prevent frosting from becoming runny",
+      "Keep butter at room temperature for proper creaming and smooth consistency",
+      "Sift powdered sugar to eliminate lumps for silky texture"
+    ],
+    "coachingPrompt": "Help the user understand the critical balance between strawberry juice and powdered sugar to achieve proper consistency. Discuss how to prevent a weeping frosting."
+  },
+  "timestamp": "2026-02-06T16:00:32.949Z"
+}

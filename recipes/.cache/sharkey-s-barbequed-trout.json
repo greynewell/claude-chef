@@ -1,0 +1,57 @@
+{
+  "contentHash": "bfa310f9a9c65d3c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 teaspoon dried rosemary",
+        "searchTerm": "dried rosemary",
+        "normalizedName": "Dried Rosemary"
+      },
+      {
+        "ingredient": "⅔ cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "2 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "6 (6 ounce) fillets rainbow trout",
+        "searchTerm": "rainbow trout fillets",
+        "normalizedName": "Rainbow Trout Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Basting brush",
+        "searchTerm": "basting brush"
+      },
+      {
+        "name": "Fish grill basket",
+        "searchTerm": "fish grill basket"
+      }
+    ],
+    "cookingTips": [
+      "Oil the grill grates well to prevent delicate fish from sticking",
+      "Baste frequently with the barbecue sauce but add sauce only in the last few minutes to prevent burning"
+    ],
+    "coachingPrompt": "Help the user manage grill heat for delicate fish and time the sauce application to avoid charring."
+  },
+  "timestamp": "2026-02-06T17:24:06.229Z"
+}

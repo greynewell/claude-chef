@@ -1,0 +1,43 @@
+{
+  "contentHash": "1d50d3270e1d4c12",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 cups chopped fresh rhubarb",
+        "searchTerm": "rhubarb",
+        "normalizedName": "Rhubarb"
+      },
+      {
+        "ingredient": "3 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 (3 ounce) package strawberry flavored Jell-O®",
+        "searchTerm": "strawberry gelatin",
+        "normalizedName": "Strawberry Gelatin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "jam jars",
+        "searchTerm": "jar"
+      },
+      {
+        "name": "candy thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Cook rhubarb and sugar together first to release juices before adding gelatin",
+      "Reach soft-ball stage (220°F) for proper jam consistency",
+      "Sterilize jars before filling and seal while hot for shelf stability"
+    ],
+    "coachingPrompt": "Will you use a candy thermometer to ensure proper jam set?"
+  },
+  "timestamp": "2026-02-06T16:12:04.556Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "c728a087f9d75fdb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (9 inch) unbaked pie crust",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      },
+      {
+        "ingredient": "3 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup dark corn syrup",
+        "searchTerm": "dark corn syrup",
+        "normalizedName": "Dark Corn Syrup"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ cup melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 cup pecan halves",
+        "searchTerm": "pecan halves",
+        "normalizedName": "Pecan"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pie pan",
+        "searchTerm": "pie pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Cover pie edges with foil if browning too quickly",
+      "Fill pie crust with pecans before pouring filling to prevent sinking",
+      "Let cool completely before slicing for clean cuts"
+    ],
+    "coachingPrompt": "Do you prefer a gooey center or a more set pie filling?"
+  },
+  "timestamp": "2026-02-06T05:55:06.301Z"
+}

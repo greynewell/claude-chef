@@ -1,0 +1,58 @@
+{
+  "contentHash": "ffc310e458f882ad",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 potatoes",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 (15 ounce) can sliced beets",
+        "searchTerm": "canned beet",
+        "normalizedName": "Beet"
+      },
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "cooking pot"
+      },
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "large bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Peel potatoes while still warm for easier handling",
+      "Drain beets thoroughly to prevent pink discoloration of other ingredients",
+      "Mix ingredients gently to avoid mashing the potatoes"
+    ],
+    "coachingPrompt": "Guide the cook through the simple steps of this Costa Rican interpretation of Russian potato salad, emphasizing ingredient prep and gentle mixing."
+  },
+  "timestamp": "2026-02-06T16:39:14.373Z"
+}

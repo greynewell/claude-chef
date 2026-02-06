@@ -1,0 +1,43 @@
+{
+  "contentHash": "b752aa29484ef1e0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds smoked haddock fillets",
+        "searchTerm": "smoked haddock",
+        "normalizedName": "Smoked Haddock"
+      },
+      {
+        "ingredient": "2 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¼ cup melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 cups warm milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Soak smoked haddock briefly in milk before baking to reduce saltiness",
+      "Make a simple béchamel sauce with the flour and butter for creamier results"
+    ],
+    "coachingPrompt": "What is your preferred milk type - whole milk, 2%, or something else? This will affect creaminess."
+  },
+  "timestamp": "2026-02-06T17:48:18.600Z"
+}

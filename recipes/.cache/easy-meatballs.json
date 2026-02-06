@@ -1,0 +1,68 @@
+{
+  "contentHash": "1f8b3f996403b52b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons Italian seasoning",
+        "searchTerm": "Italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      },
+      {
+        "ingredient": "2 teaspoons chopped fresh basil",
+        "searchTerm": "basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "2 pounds ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "½ cup panko bread crumbs",
+        "searchTerm": "panko bread crumb",
+        "normalizedName": "Panko Bread Crumb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Don't overmix the meat mixture; keep it loose for tender meatballs",
+      "Chill mixture 30 minutes before shaping for easier handling",
+      "Bake at 400°F for 15-20 minutes until internal temperature reaches 160°F"
+    ],
+    "coachingPrompt": "Guide the user on proper mixing technique to combine seasonings evenly without compacting the meat, which would result in tough meatballs."
+  },
+  "timestamp": "2026-02-06T05:51:21.835Z"
+}

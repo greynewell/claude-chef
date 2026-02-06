@@ -1,0 +1,53 @@
+{
+  "contentHash": "e3780a7da1ddf284",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (8 ounce) package shredded Colby-Monterey Jack cheese",
+        "searchTerm": "Colby-Monterey Jack cheese",
+        "normalizedName": "Colby-Monterey Jack Cheese"
+      },
+      {
+        "ingredient": "1 (12 ounce) package wonton wrappers",
+        "searchTerm": "wonton wrappers",
+        "normalizedName": "Wonton Wrapper"
+      },
+      {
+        "ingredient": "water, or as needed",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 cups vegetable oil, or as needed",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Deep Fryer or Deep Pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "cooking thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Cook ground beef with finely diced onions and seasonings before filling wontons",
+      "Use wet fingers to seal wonton edges and prevent them from opening during frying",
+      "Fry at 350°F until golden brown, about 2-3 minutes per batch"
+    ],
+    "coachingPrompt": "What filling flavors would complement the cheese and beef in these wontons?"
+  },
+  "timestamp": "2026-02-06T01:47:58.973Z"
+}

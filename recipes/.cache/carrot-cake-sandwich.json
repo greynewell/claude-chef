@@ -1,0 +1,58 @@
+{
+  "contentHash": "50910038ebf165bc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cinnamon-raisin English muffin, halved",
+        "searchTerm": "English muffin",
+        "normalizedName": "English Muffin"
+      },
+      {
+        "ingredient": "3 baby carrots, shredded",
+        "searchTerm": "baby carrots",
+        "normalizedName": "Baby Carrot"
+      },
+      {
+        "ingredient": "1 pinch ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      },
+      {
+        "ingredient": "1 tablespoon crunchy peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 tablespoon whipped cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "¼ cup clover sprouts",
+        "searchTerm": "sprouts",
+        "normalizedName": "Sprout"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grater",
+        "searchTerm": "grater"
+      },
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Toast the English muffin until lightly golden for structural integrity",
+      "Shred carrots just before assembly to maintain freshness",
+      "Spread cream cheese first as a base layer to keep muffin from getting soggy"
+    ],
+    "coachingPrompt": "This is a quick breakfast or snack. Help the user understand layering order: cream cheese base, peanut butter, shredded carrots, and sprouts for maximum texture and flavor."
+  },
+  "timestamp": "2026-02-06T01:31:26.727Z"
+}

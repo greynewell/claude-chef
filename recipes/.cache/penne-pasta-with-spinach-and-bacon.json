@@ -1,0 +1,58 @@
+{
+  "contentHash": "0e277deae0f6e660",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) package penne pasta",
+        "searchTerm": "penne pasta",
+        "normalizedName": "Penne Pasta"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil, divided",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "6 slices bacon, chopped",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 tablespoons minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can diced tomatoes",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "1 bunch fresh spinach, rinsed and torn into bite-size pieces",
+        "searchTerm": "spinach",
+        "normalizedName": "Spinach"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then use fat to sauté garlic for maximum flavor",
+      "Add spinach at the very end and stir gently to avoid breaking it down",
+      "The residual heat will wilt the spinach perfectly"
+    ],
+    "coachingPrompt": "How do I prevent the spinach from becoming mushy in this dish?"
+  },
+  "timestamp": "2026-02-06T14:31:00.374Z"
+}

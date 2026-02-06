@@ -1,0 +1,73 @@
+{
+  "contentHash": "4504387a3eb6ea03",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 large hard-boiled eggs, peeled and cut into chunks",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "4 large hard-boiled egg whites, cut into chunks",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup low-fat mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¼ cup chopped fresh chives",
+        "searchTerm": "fresh chives",
+        "normalizedName": "Fresh Chives"
+      },
+      {
+        "ingredient": "1 teaspoon Dijon mustard",
+        "searchTerm": "dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "½ teaspoon celery salt",
+        "searchTerm": "celery salt",
+        "normalizedName": "Celery Salt"
+      },
+      {
+        "ingredient": "½ teaspoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "½ teaspoon kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "½ teaspoon freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Pot for boiling eggs",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Boil eggs for 12 minutes, then cool in ice water for easy peeling",
+      "Use extra egg whites instead of yolks for a lighter, healthier version",
+      "Chop fresh chives just before adding for maximum flavor"
+    ],
+    "coachingPrompt": "Guide me through boiling and peeling eggs, then combining them with dressing ingredients properly."
+  },
+  "timestamp": "2026-02-05T21:30:03.108Z"
+}

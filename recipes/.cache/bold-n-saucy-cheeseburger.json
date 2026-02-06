@@ -1,0 +1,58 @@
+{
+  "contentHash": "d75ffa10c2cc5139",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound extra lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "¼ cup A.1. Bold & Spicy Steak Sauce, divided",
+        "searchTerm": "A.1. steak sauce",
+        "normalizedName": "A.1. Steak Sauce"
+      },
+      {
+        "ingredient": "4 slices red onion",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "4 each KRAFT 2% Milk Singles",
+        "searchTerm": "American cheese slice",
+        "normalizedName": "American Cheese"
+      },
+      {
+        "ingredient": "4 roll whole wheat hamburger buns, split",
+        "searchTerm": "whole wheat hamburger bun",
+        "normalizedName": "Whole Wheat Hamburger Bun"
+      },
+      {
+        "ingredient": "4 slices tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet or griddle",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Burger spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Small bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Mix half the steak sauce into the ground beef before forming patties for deeper flavor",
+      "Toast the buns lightly and spread remaining sauce on them before adding patties",
+      "Add cheese during the last 30 seconds of cooking and cover to melt evenly"
+    ],
+    "coachingPrompt": "This is a simple but flavorful burger built on quality beef and bold sauce. Help the user create patties with the right thickness and manage the cooking temperature for a juicy result."
+  },
+  "timestamp": "2026-02-06T00:28:57.359Z"
+}

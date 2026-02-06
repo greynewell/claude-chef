@@ -1,0 +1,63 @@
+{
+  "contentHash": "83fb6d2673e39714",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups chicken stock",
+        "searchTerm": "chicken stock",
+        "normalizedName": "Chicken Stock"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "¼ cup finely diced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 bay leaf",
+        "searchTerm": "bay leaf",
+        "normalizedName": "Bay Leaf"
+      },
+      {
+        "ingredient": "1 cup uncooked basmati rice",
+        "searchTerm": "basmati rice",
+        "normalizedName": "Basmati Rice"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon unsalted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan with lid",
+        "searchTerm": "pot with lid"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Toast rice in oil before adding liquid to enhance nutty flavor",
+      "Don't stir rice once liquid is added; let steam penetrate grains",
+      "Fluff with fork after cooking for light, separated grains"
+    ],
+    "coachingPrompt": "What's the key to achieving fluffy, separate grains of basmati rice with perfect tenderness?"
+  },
+  "timestamp": "2026-02-05T23:35:17.690Z"
+}

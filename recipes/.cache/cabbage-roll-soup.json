@@ -1,0 +1,83 @@
+{
+  "contentHash": "48bb040c71deeb23",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups converted long-grain white rice",
+        "searchTerm": "long-grain rice",
+        "normalizedName": "Rice"
+      },
+      {
+        "ingredient": "3 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (20 ounce) jar pasta sauce (such as Ragu®)",
+        "searchTerm": "pasta sauce",
+        "normalizedName": "Pasta Sauce"
+      },
+      {
+        "ingredient": "1 (10 ounce) can tomato soup",
+        "searchTerm": "tomato soup",
+        "normalizedName": "Tomato Soup"
+      },
+      {
+        "ingredient": "3 ½ pounds cabbage, cut into bite-size pieces",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 dash hot pepper sauce",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cook rice separately first to ensure it doesn't absorb all the liquid and make soup too thick",
+      "Brown the ground beef with onion before adding to soup for better flavor",
+      "Add hot pepper sauce at the end so you can control the final heat level"
+    ],
+    "coachingPrompt": "Do you prefer cooking rice separately or directly in the soup? I can help you with either method."
+  },
+  "timestamp": "2026-02-06T01:07:24.077Z"
+}

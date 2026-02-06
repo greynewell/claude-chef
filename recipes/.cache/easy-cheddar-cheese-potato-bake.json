@@ -1,0 +1,48 @@
+{
+  "contentHash": "2bf1e60590a2afdd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 potatoes, peeled and sliced",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cheddar cheese soup",
+        "searchTerm": "cheddar cheese soup",
+        "normalizedName": "Cheddar Cheese Soup"
+      },
+      {
+        "ingredient": "1 ¼ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Mandoline slicer",
+        "searchTerm": "mandoline slicer"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Slice potatoes uniformly for even cooking throughout the casserole",
+      "Layer potatoes and sauce mixture evenly to ensure consistent flavor distribution",
+      "Cover with foil during baking to prevent drying; uncover at the end for browning"
+    ],
+    "coachingPrompt": "How can you prevent the potatoes from becoming mushy in this cheesy bake?"
+  },
+  "timestamp": "2026-02-06T05:37:01.980Z"
+}

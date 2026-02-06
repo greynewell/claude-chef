@@ -1,0 +1,49 @@
+{
+  "contentHash": "e559e3cb5886adc5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 Mission® Large/Burrito-size Flour Tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "8 tablespoons JIF® Peanut Butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "4 tablespoons SMUCKER'S® Strawberry Jam",
+        "searchTerm": "strawberry jam",
+        "normalizedName": "Strawberry Jam"
+      },
+      {
+        "ingredient": "1 cup fresh blueberries",
+        "searchTerm": "blueberries",
+        "normalizedName": "Blueberry"
+      },
+      {
+        "ingredient": "1 cup diced fresh strawberries",
+        "searchTerm": "strawberries",
+        "normalizedName": "Strawberry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Warm tortillas slightly to make them pliable and prevent tearing",
+      "Spread peanut butter thinly and evenly for better distribution",
+      "Pack berries gently and roll tightly to prevent filling from escaping"
+    ],
+    "coachingPrompt": "Should you heat this burrito after rolling, and how might that change the texture?"
+  },
+  "timestamp": "2026-02-06T21:49:18.087Z"
+}

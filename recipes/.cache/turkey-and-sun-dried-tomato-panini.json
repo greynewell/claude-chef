@@ -1,0 +1,53 @@
+{
+  "contentHash": "456447774cd63c0f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter, or more if needed",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 slices ciabatta bread",
+        "searchTerm": "ciabatta bread",
+        "normalizedName": "Ciabatta Bread"
+      },
+      {
+        "ingredient": "6 slices deli-style sliced turkey breast",
+        "searchTerm": "deli-style turkey breast",
+        "normalizedName": "Deli-Style Turkey Breast"
+      },
+      {
+        "ingredient": "2 slices provolone cheese",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      },
+      {
+        "ingredient": "3 sun-dried tomatoes packed in oil, drained and chopped",
+        "searchTerm": "sun-dried tomatoes",
+        "normalizedName": "Sun-Dried Tomato"
+      },
+      {
+        "ingredient": "½ teaspoon Italian seasoning",
+        "searchTerm": "Italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "panini press or skillet",
+        "searchTerm": "panini press"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Toast ciabatta lightly before assembling to provide structural support and prevent sogginess",
+      "Use sun-dried tomatoes packed in oil for maximum flavor; chop them fine for even distribution"
+    ],
+    "coachingPrompt": "Help me make a crispy panini with melted cheese where sun-dried tomatoes add concentrated flavor."
+  },
+  "timestamp": "2026-02-06T21:18:02.588Z"
+}

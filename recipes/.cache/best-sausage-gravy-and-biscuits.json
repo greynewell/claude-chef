@@ -1,0 +1,68 @@
+{
+  "contentHash": "0234c55ba82692ed",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound bulk country sausage",
+        "searchTerm": "country sausage",
+        "normalizedName": "Country Sausage"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 ½ cups milk, or more as needed",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 teaspoons hot sauce",
+        "searchTerm": "hot sauce",
+        "normalizedName": "Hot Sauce"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "6 medium hot biscuits, split",
+        "searchTerm": "biscuits",
+        "normalizedName": "Biscuit"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Cook sausage until browned, then use the rendered fat to create the roux for gravy",
+      "Whisk constantly while adding milk to prevent lumps in the gravy",
+      "Adjust milk quantity to reach desired consistency; thicker for biscuits, thinner for pouring"
+    ],
+    "coachingPrompt": "Coach the user through creating a smooth, lump-free roux and achieving the right gravy consistency. Emphasize the importance of low-medium heat to prevent curdling."
+  },
+  "timestamp": "2026-02-06T00:03:47.583Z"
+}

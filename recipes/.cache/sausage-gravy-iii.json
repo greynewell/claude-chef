@@ -1,0 +1,58 @@
+{
+  "contentHash": "e5ef677e4a856360",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground pork sausage",
+        "searchTerm": "pork sausage",
+        "normalizedName": "Pork Sausage"
+      },
+      {
+        "ingredient": "2 tablespoons margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "¼ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "4 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausage thoroughly and remove from skillet, leaving drippings for roux",
+      "Make a smooth roux with margarine and flour before adding milk gradually",
+      "Return sausage to gravy and simmer until thickened, about 10 minutes"
+    ],
+    "coachingPrompt": "This variation uses more milk for a thinner gravy. How would you serve this with biscuits or over hash browns?"
+  },
+  "timestamp": "2026-02-06T16:59:36.790Z"
+}

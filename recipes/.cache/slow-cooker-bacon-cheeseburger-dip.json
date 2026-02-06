@@ -1,0 +1,58 @@
+{
+  "contentHash": "f4cf47595380b10b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 ounces bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "½ pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (10 ounce) can diced tomatoes with green chile peppers",
+        "searchTerm": "diced tomatoes with green chiles",
+        "normalizedName": "Diced Tomato with Green Chile"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, cut into cubes",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 (8 ounce) package shredded Cheddar-Monterey Jack cheese blend",
+        "searchTerm": "cheddar monterey jack cheese",
+        "normalizedName": "Cheddar-Monterey Jack Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Serving Spoon",
+        "searchTerm": "serving spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon and ground beef completely before adding to slow cooker",
+      "Keep on low/warm setting and stir occasionally to prevent scorching",
+      "Serve with tortilla chips, crackers, or bread cubes"
+    ],
+    "coachingPrompt": "Explain how to keep cheese-based dips creamy and warm throughout serving without separating or breaking."
+  },
+  "timestamp": "2026-02-06T18:04:11.979Z"
+}

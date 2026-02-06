@@ -1,0 +1,57 @@
+{
+  "contentHash": "9a5f1edd05fb4310",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "30 jalapeno peppers",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "30 small smoked sausages",
+        "searchTerm": "smoked sausages",
+        "normalizedName": "Smoked Sausage"
+      },
+      {
+        "ingredient": "1 (1 pound) package thin-sliced bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "60 toothpicks",
+        "searchTerm": "toothpicks",
+        "normalizedName": "Toothpick"
+      },
+      {
+        "ingredient": "½ cup barbeque sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "small spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "oven mitts",
+        "searchTerm": "oven mitts"
+      }
+    ],
+    "cookingTips": [
+      "Halve and seed jalapenos carefully to create uniform pockets for filling",
+      "Wrap bacon tightly around the sausage-filled pepper for secure cooking"
+    ],
+    "coachingPrompt": "Guide the user through assembling these appetizers ahead of time, then show how to bake at 400°F until bacon is crispy."
+  },
+  "timestamp": "2026-02-06T06:41:36.109Z"
+}

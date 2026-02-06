@@ -1,0 +1,58 @@
+{
+  "contentHash": "e73f847a86c5dd35",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "red enchilada sauce",
+        "searchTerm": "enchilada sauce",
+        "normalizedName": "Enchilada Sauce"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "reduced-sodium taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning Mix"
+      },
+      {
+        "ingredient": "boneless, skinless chicken breasts",
+        "searchTerm": "chicken breasts",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "shredded Mexican cheese blend",
+        "searchTerm": "mexican cheese blend",
+        "normalizedName": "Mexican Cheese Blend"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Shred chicken after slow cooking for easy quesadilla assembly",
+      "Cook tortillas in a skillet on high heat for crispy exterior and melted cheese",
+      "Drain excess liquid from chicken mixture before assembling quesadillas to prevent sogginess"
+    ],
+    "coachingPrompt": "Guide the user through preparing the slow cooker filling and properly assembling and cooking quesadillas for best texture."
+  },
+  "timestamp": "2026-02-06T18:08:28.915Z"
+}

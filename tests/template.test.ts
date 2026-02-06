@@ -1,4 +1,4 @@
-import { renderRecipePage, renderIndexPage, renderHubPage, renderTaxonomyIndexPage, renderAboutPage, renderContributePage, renderFavoritesPage, renderRecipeCard, RECIPES_PER_PAGE, computePagination } from '../src/generator/template';
+import { renderRecipePage, renderIndexPage, renderHubPage, renderTaxonomyIndexPage, renderAboutPage, renderContributePage, renderFavoritesPage, renderRecipeCard, RECIPES_PER_PAGE, computePagination, baseStyles, mainScript } from '../src/generator/template';
 import { ParsedRecipe, RecipeJsonLd, Taxonomy, TaxonomyDescriptions, TaxonomyEntry } from '../src/types';
 import { EnrichmentResult } from '../src/enrichment/types';
 import { AffiliateLink } from '../src/affiliates/types';
@@ -17,6 +17,7 @@ const mockRecipe: ParsedRecipe = {
   ingredients: ['100g flour', '200ml water'],
   instructions: ['Mix flour and water.', 'Bake at 200C.'],
   body: '## Ingredients\n\n- 100g flour\n- 200ml water\n\n## Instructions\n\n1. Mix flour and water.\n2. Bake at 200C.',
+  faqs: [],
   slug: 'test-recipe',
   sourceFile: 'test-recipe.md',
 };
@@ -116,7 +117,7 @@ describe('Template Renderer', () => {
 
     it('should render Shop Ingredients section with affiliate links when enrichment is provided', () => {
       const enrichment: EnrichmentResult = {
-        ingredients: [{ ingredient: '100g flour', searchTerm: 'flour' }],
+        ingredients: [{ ingredient: '100g flour', searchTerm: 'flour', normalizedName: 'Flour' }],
         gear: [],
         cookingTips: ['Sift flour'],
         coachingPrompt: 'Guide me.',
@@ -132,7 +133,7 @@ describe('Template Renderer', () => {
 
     it('should render Gear section when enrichment has gear items', () => {
       const enrichment: EnrichmentResult = {
-        ingredients: [{ ingredient: '100g flour', searchTerm: 'flour' }],
+        ingredients: [{ ingredient: '100g flour', searchTerm: 'flour', normalizedName: 'Flour' }],
         gear: [{ name: 'Mixing Bowl', searchTerm: 'mixing bowl' }],
         cookingTips: ['Tip'],
         coachingPrompt: 'Guide.',
@@ -149,8 +150,8 @@ describe('Template Renderer', () => {
     it('should render buy-all actions in shop section when affiliate links exist', () => {
       const enrichment: EnrichmentResult = {
         ingredients: [
-          { ingredient: '100g flour', searchTerm: 'flour' },
-          { ingredient: '200ml water', searchTerm: 'water' },
+          { ingredient: '100g flour', searchTerm: 'flour', normalizedName: 'Flour' },
+          { ingredient: '200ml water', searchTerm: 'water', normalizedName: 'Water' },
         ],
         gear: [],
         cookingTips: ['Tip'],
@@ -172,7 +173,7 @@ describe('Template Renderer', () => {
 
     it('should render copy list button in gear section even without affiliate links for gear', () => {
       const enrichment: EnrichmentResult = {
-        ingredients: [{ ingredient: '100g flour', searchTerm: 'flour' }],
+        ingredients: [{ ingredient: '100g flour', searchTerm: 'flour', normalizedName: 'Flour' }],
         gear: [{ name: 'Mixing Bowl', searchTerm: 'mixing bowl' }],
         cookingTips: ['Tip'],
         coachingPrompt: 'Guide.',
@@ -200,7 +201,7 @@ describe('Template Renderer', () => {
 
     it('should HTML-encode ampersands in data-urls attribute', () => {
       const enrichment: EnrichmentResult = {
-        ingredients: [{ ingredient: '100g flour', searchTerm: 'flour' }],
+        ingredients: [{ ingredient: '100g flour', searchTerm: 'flour', normalizedName: 'Flour' }],
         gear: [],
         cookingTips: ['Tip'],
         coachingPrompt: 'Guide.',
@@ -218,9 +219,9 @@ describe('Template Renderer', () => {
       expect(dataUrlsMatch![1]).not.toContain('&tag=');
     });
 
-    it('should include buy-all script when shop or gear sections exist', () => {
+    it('should include external main.js script when shop or gear sections exist', () => {
       const enrichment: EnrichmentResult = {
-        ingredients: [{ ingredient: '100g flour', searchTerm: 'flour' }],
+        ingredients: [{ ingredient: '100g flour', searchTerm: 'flour', normalizedName: 'Flour' }],
         gear: [],
         cookingTips: ['Tip'],
         coachingPrompt: 'Guide.',
@@ -229,8 +230,10 @@ describe('Template Renderer', () => {
         { provider: 'Amazon', term: 'flour', url: 'https://amazon.com/s?k=flour' },
       ];
       const html = renderRecipePage(mockRecipe, mockJsonLd, 'abc123', { enrichment, affiliateLinks });
-      expect(html).toContain('[data-buy-all]');
-      expect(html).toContain('[data-copy-list]');
+      expect(html).toContain('<script src="/main.js"></script>');
+      // buy-all and copy-list buttons should still be in the HTML via data attributes
+      expect(html).toContain('data-buy-all');
+      expect(html).toContain('data-copy-list');
     });
 
     it('should render Cook with AI section with copy button when cookModePrompt is provided', () => {
@@ -307,6 +310,7 @@ describe('Template Renderer', () => {
         ingredients: ['1 head broccoli'],
         instructions: ['Roast broccoli.'],
         body: '## Ingredients\n\n- 1 head broccoli',
+        faqs: [],
         slug: 'teriyaki-roasted-broccoli',
         sourceFile: 'teriyaki-roasted-broccoli.md',
       };
@@ -393,10 +397,12 @@ describe('Template Renderer', () => {
       expect(html).toContain('data-text="A test recipe description."');
     });
 
-    it('should include share JavaScript', () => {
+    it('should include external main.js for share functionality', () => {
       const html = renderRecipePage(mockRecipe, mockJsonLd, 'abc123');
-      expect(html).toContain('navigator.share');
-      expect(html).toContain('navigator.clipboard.writeText');
+      expect(html).toContain('<script src="/main.js"></script>');
+      // Share buttons with data attributes should still be in the HTML
+      expect(html).toContain('data-share');
+      expect(html).toContain('data-copy-link');
     });
 
     it('should include About nav link', () => {
@@ -543,12 +549,13 @@ describe('Template Renderer', () => {
       expect(html).toContain('<span class="calories-value">500</span> cal');
     });
 
-    it('should include portion scaling JavaScript', () => {
+    it('should include portion scaling data attributes and external script', () => {
       const html = renderRecipePage(mockRecipe, mockJsonLd, 'abc123');
       expect(html).toContain('data-base-servings');
-      expect(html).toContain('snapFraction');
-      expect(html).toContain('formatQty');
-      expect(html).toContain('.servings-btn');
+      expect(html).toContain('data-base-calories');
+      expect(html).toContain('servings-range');
+      expect(html).toContain('servings-input');
+      expect(html).toContain('<script src="/main.js"></script>');
     });
 
     it('should render non-scalable ingredients without data-base-qty', () => {
@@ -578,23 +585,47 @@ describe('Template Renderer', () => {
       expect(html).not.toContain('a class="meta-pill"');
     });
 
-    it('should include CSS for linked pill hover style', () => {
-      const html = renderRecipePage(mockRecipe, mockJsonLd, 'abc123');
-      expect(html).toContain('a.meta-pill:hover');
+    it('should include CSS for linked pill hover style in baseStyles', () => {
+      const css = baseStyles();
+      expect(css).toContain('a.meta-pill:hover');
     });
 
-    it('should include CSS for skill badge variants', () => {
-      const html = renderRecipePage(mockRecipe, mockJsonLd, 'abc123');
-      expect(html).toContain('.skill-badge.easy');
-      expect(html).toContain('.skill-badge.intermediate');
-      expect(html).toContain('.skill-badge.advanced');
+    it('should include CSS for skill badge variants in baseStyles', () => {
+      const css = baseStyles();
+      expect(css).toContain('.skill-badge.easy');
+      expect(css).toContain('.skill-badge.intermediate');
+      expect(css).toContain('.skill-badge.advanced');
+    });
+
+    it('should include share handlers in mainScript', () => {
+      const js = mainScript();
+      expect(js).toContain('[data-share]');
+      expect(js).toContain('[data-copy-link]');
+      expect(js).toContain('navigator.share');
+      expect(js).toContain('navigator.clipboard.writeText');
+    });
+
+    it('should include servings slider logic in mainScript', () => {
+      const js = mainScript();
+      expect(js).toContain('data-base-servings');
+      expect(js).toContain('snapFraction');
+      expect(js).toContain('formatQty');
+      expect(js).toContain('setServings');
+      expect(js).toContain('.servings-btn');
+    });
+
+    it('should include buy-all and copy-list handlers in mainScript', () => {
+      const js = mainScript();
+      expect(js).toContain('[data-copy-list]');
+      expect(js).toContain('[data-buy-all]');
+      expect(js).toContain('window.open');
     });
   });
 
   describe('renderIndexPage', () => {
-    it('should list all recipes with links', () => {
+    it('should show recipe in favorites section when marked as favorite', () => {
       const recipes = [mockRecipe];
-      const html = renderIndexPage(recipes);
+      const html = renderIndexPage(recipes, { favoriteSlugs: ['test-recipe'] });
       expect(html).toContain('Test Recipe');
       expect(html).toContain('test-recipe');
     });
@@ -794,20 +825,43 @@ describe('Template Renderer', () => {
       expect(html).toContain('recipe-card favorite');
     });
 
-    it('should not add .favorite class when slug does not match', () => {
-      const html = renderIndexPage([mockRecipe], { favoriteSlugs: ['other-recipe'] });
-      expect(html).toContain('class="recipe-card"');
+    it('should not add .favorite class to recipes not in favoriteSlugs', () => {
+      // Create a recipe with a category so it appears in category showcase
+      const recipeWithCategory: ParsedRecipe = {
+        ...mockRecipe,
+        frontmatter: { ...mockRecipe.frontmatter, recipe_category: 'Main Course' }
+      };
+      // Provide taxonomies so category showcase appears
+      const taxonomies = [{
+        type: 'category' as const,
+        label: 'Categories',
+        labelSingular: 'Category',
+        entries: [{ name: 'Main Course', slug: 'main-course', recipes: [recipeWithCategory] }],
+        descriptions: {
+          hubTitle: () => '',
+          hubMetaDescription: () => '',
+          hubSubheading: () => '',
+          indexDescription: '',
+          collectionDescription: () => '',
+        }
+      }];
+      const html = renderIndexPage([recipeWithCategory], { favoriteSlugs: ['other-recipe'], taxonomies });
+      // The recipe should appear in category showcase without .favorite class
+      expect(html).toContain('recipe-card');
       expect(html).not.toMatch(/recipe-card favorite">\s*\n\s*<a href="test-recipe/);
     });
 
-    it('should show All Recipes heading when favorites section is present', () => {
+    it('should show favorites in favorites section when favoriteSlugs present', () => {
       const html = renderIndexPage([mockRecipe], { favoriteSlugs: ['test-recipe'] });
-      expect(html).toContain('All Recipes');
+      // Favorites section should contain the recipe
+      expect(html).toContain('favorites-section');
+      expect(html).toContain('Test Recipe');
     });
 
-    it('should not show All Recipes heading when no favorites section', () => {
+    it('should show recipe count in hero when no favorites', () => {
       const html = renderIndexPage([mockRecipe]);
-      expect(html).not.toContain('All Recipes');
+      // When no favorites or categories, at least the count is shown
+      expect(html).toContain('1 Recipes');
     });
   });
 
@@ -1697,6 +1751,7 @@ describe('Template Renderer', () => {
       ingredients: ['400g salmon', '60ml soy sauce'],
       instructions: ['Marinate salmon.', 'Bake at 200C.'],
       body: '## Ingredients\n\n- 400g salmon\n- 60ml soy sauce\n\n## Instructions\n\n1. Marinate salmon.\n2. Bake at 200C.',
+      faqs: [],
       slug: 'teriyaki-salmon',
       sourceFile: 'teriyaki-salmon.md',
     };

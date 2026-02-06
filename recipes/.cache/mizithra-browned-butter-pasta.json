@@ -1,0 +1,42 @@
+{
+  "contentHash": "dd4d974a3ffe98bc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound spaghetti",
+        "searchTerm": "spaghetti",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "1 cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¾ pound Mizithra cheese",
+        "searchTerm": "Mizithra cheese",
+        "normalizedName": "Mizithra Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "pasta tongs",
+        "searchTerm": "pasta tongs"
+      }
+    ],
+    "cookingTips": [
+      "Brown the butter over medium heat until it develops a nutty aroma and golden color",
+      "Toss pasta with browned butter immediately to prevent it from cooling and solidifying"
+    ],
+    "coachingPrompt": "How will you brown the butter without burning it, and when should you add the cheese for optimal melting?"
+  },
+  "timestamp": "2026-02-06T12:37:15.935Z"
+}

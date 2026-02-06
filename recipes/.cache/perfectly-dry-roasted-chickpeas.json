@@ -1,0 +1,43 @@
+{
+  "contentHash": "c0be51471adcba60",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15 ounce) can chickpeas",
+        "searchTerm": "canned chickpeas",
+        "normalizedName": "Canned Chickpea"
+      },
+      {
+        "ingredient": "1 teaspoon mixed spice",
+        "searchTerm": "mixed spice",
+        "normalizedName": "Mixed Spice"
+      },
+      {
+        "ingredient": "sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Paper Towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Thoroughly dry chickpeas with paper towels for maximum crispness",
+      "Toss with oil and spices before roasting for even flavor distribution",
+      "Roast at high temperature until completely crispy, stirring halfway through"
+    ],
+    "coachingPrompt": "Explain why thoroughly drying chickpeas is essential for achieving crispness and how to achieve consistent roasting."
+  },
+  "timestamp": "2026-02-06T14:37:03.421Z"
+}

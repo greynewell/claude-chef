@@ -1,0 +1,58 @@
+{
+  "contentHash": "f639ba538e1cc600",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound seashell pasta",
+        "searchTerm": "pasta shells",
+        "normalizedName": "Pasta"
+      },
+      {
+        "ingredient": "1 (10 ounce) package frozen chopped spinach",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "7 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon dried red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Thaw spinach and squeeze out excess water before adding to avoid watery pasta",
+      "Toast garlic gently in olive oil to prevent burning and bitterness",
+      "Toss hot pasta with spinach mixture immediately for better absorption"
+    ],
+    "coachingPrompt": "Simple pasta dishes rely on quality ingredients and timing. Are you using fresh garlic?"
+  },
+  "timestamp": "2026-02-06T19:13:54.854Z"
+}

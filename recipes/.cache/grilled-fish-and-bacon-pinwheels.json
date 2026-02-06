@@ -1,0 +1,48 @@
+{
+  "contentHash": "0f7c92925eddb8ad",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "3 pounds skinned and boned cobia fillet",
+        "searchTerm": "cobia fillet",
+        "normalizedName": "Cobia Fillet"
+      },
+      {
+        "ingredient": "8 metal skewers",
+        "searchTerm": "metal skewers",
+        "normalizedName": "Metal Skewer"
+      },
+      {
+        "ingredient": "1 cup barbecue sauce, or as needed",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "sharp fillet knife"
+      },
+      {
+        "name": "brush",
+        "searchTerm": "basting brush"
+      }
+    ],
+    "cookingTips": [
+      "Wrap fish pieces with bacon strips spiraling around them before skewering",
+      "Use two skewers per pinwheel to prevent spinning during grilling",
+      "Pre-cook bacon partially so it crisps properly alongside the fish"
+    ],
+    "coachingPrompt": "Guide the user on wrapping delicate fish with bacon and using double skewers for stability during cooking."
+  },
+  "timestamp": "2026-02-06T08:15:36.946Z"
+}

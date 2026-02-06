@@ -1,0 +1,53 @@
+{
+  "contentHash": "b93347ff71d06a29",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tomatillos, husked and quartered",
+        "searchTerm": "tomatillo",
+        "normalizedName": "Tomatillo"
+      },
+      {
+        "ingredient": "½ bunch cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "2 pickled jalapeno peppers",
+        "searchTerm": "pickled jalapeno",
+        "normalizedName": "Pickled Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 (16 ounce) container fat-free sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "2 (1 ounce) packages ranch dressing mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Ranch Dressing Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender or Food Processor",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Blend tomatillos, cilantro, and jalapenos until smooth before folding into sour cream",
+      "Use fat-free sour cream as the base to maintain creamy texture with lower calories",
+      "Whisk in ranch dressing mix thoroughly to distribute seasoning evenly"
+    ],
+    "coachingPrompt": "Would you blend everything together or keep the dressing chunky with visible herbs and peppers?"
+  },
+  "timestamp": "2026-02-06T10:15:43.199Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "294290c54c37e769",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 large beets, assorted colors",
+        "searchTerm": "fresh beets",
+        "normalizedName": "Beet"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup apple cider vinegar",
+        "searchTerm": "apple cider vinegar",
+        "normalizedName": "Apple Cider Vinegar"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon fleur de sel (sea salt flakes)",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mandoline slicer",
+        "searchTerm": "mandoline slicer"
+      },
+      {
+        "name": "food dehydrator",
+        "searchTerm": "dehydrator"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Slice beets uniformly thin (1/8 inch) using mandoline for even dehydration",
+      "Toss beet slices in vinegar and oil mixture before dehydrating for enhanced flavor",
+      "Dehydrate at 135°F for 3-4 hours until crispy, checking frequently toward end"
+    ],
+    "coachingPrompt": "How thin should I slice the beets and what's the optimal dehydration temperature?"
+  },
+  "timestamp": "2026-02-06T05:07:12.924Z"
+}

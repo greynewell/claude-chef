@@ -1,0 +1,73 @@
+{
+  "contentHash": "dbdb73f5a36e4cd2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups fresh baby spinach",
+        "searchTerm": "baby spinach",
+        "normalizedName": "Baby Spinach"
+      },
+      {
+        "ingredient": "1 avocado - peeled, pitted, and cut into 1/2-inch pieces",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "6 hard-boiled egg whites, chopped into 1/2-inch pieces",
+        "searchTerm": "egg whites",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "2 tablespoons light mayonnaise",
+        "searchTerm": "light mayonnaise",
+        "normalizedName": "Light Mayonnaise"
+      },
+      {
+        "ingredient": "1 celery stalk, cut into 1/4-inch pieces (Optional)",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "2 tablespoons sliced black olives, or to taste",
+        "searchTerm": "black olives",
+        "normalizedName": "Black Olive"
+      },
+      {
+        "ingredient": "2 teaspoons freshly squeezed lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "½ teaspoon sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Add lemon juice to avocado immediately to prevent browning",
+      "Use light mayo to keep the salad lower in calories",
+      "Combine greens and other ingredients separately, then toss just before serving"
+    ],
+    "coachingPrompt": "Would you like this as a composed salad or mixed together - affects how long it stays fresh?"
+  },
+  "timestamp": "2026-02-06T06:10:55.752Z"
+}

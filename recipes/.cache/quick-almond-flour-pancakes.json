@@ -1,0 +1,58 @@
+{
+  "contentHash": "0205c0309a5d27ef",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup almond flour",
+        "searchTerm": "almond flour",
+        "normalizedName": "Almond Flour"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 tablespoon maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon oil",
+        "searchTerm": "oil",
+        "normalizedName": "Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "griddle or skillet",
+        "searchTerm": "griddle"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Mix batter thoroughly but do not overmix, as almond flour produces denser pancakes",
+      "Let batter rest for 5 minutes before cooking for better structure",
+      "Use medium-low heat and longer cooking time than traditional pancakes"
+    ],
+    "coachingPrompt": "Help the cook create tender gluten-free pancakes using almond flour and understand its unique baking properties."
+  },
+  "timestamp": "2026-02-06T15:34:58.289Z"
+}

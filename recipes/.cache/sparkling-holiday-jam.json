@@ -1,0 +1,53 @@
+{
+  "contentHash": "75d16bd21c8e987c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 1/2 quarts strawberries",
+        "searchTerm": "strawberry",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "1 package fresh cranberries",
+        "searchTerm": "cranberry",
+        "normalizedName": "Cranberry"
+      },
+      {
+        "ingredient": "2 packages powdered fruit pectin",
+        "searchTerm": "powdered pectin",
+        "normalizedName": "Powdered Fruit Pectin"
+      },
+      {
+        "ingredient": "1 teaspoon margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "5 pounds sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "candy thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "jar canning kit",
+        "searchTerm": "canning jars"
+      }
+    ],
+    "cookingTips": [
+      "Coarsely chop the berries so they maintain texture and don't become completely smooth",
+      "The margarine reduces foaming as the jam cooks",
+      "Bring the mixture to a rolling boil and maintain it for the full time specified with the pectin"
+    ],
+    "coachingPrompt": "How do I know when my jam has reached the proper gel stage, and what's the best way to test it?"
+  },
+  "timestamp": "2026-02-06T18:50:22.356Z"
+}

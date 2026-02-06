@@ -1,0 +1,43 @@
+{
+  "contentHash": "39542666fb899e09",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 carrots, washed",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 teaspoons extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mandoline slicer",
+        "searchTerm": "slicer"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "sheet pan"
+      },
+      {
+        "name": "Parchment paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Slice carrots as thin and uniformly as possible for even cooking and maximum crispness",
+      "Pat sliced carrots dry before oiling to ensure crispiness",
+      "Bake at low temperature (around 300°F) to dry out rather than bake the chips"
+    ],
+    "coachingPrompt": "These are healthy baked chips. Emphasize the importance of uniform thin slicing for even cooking and explain why low heat dries them out rather than browning them too much."
+  },
+  "timestamp": "2026-02-06T01:31:26.729Z"
+}

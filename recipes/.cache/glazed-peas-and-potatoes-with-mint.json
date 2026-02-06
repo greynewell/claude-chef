@@ -1,0 +1,59 @@
+{
+  "contentHash": "e61dc7f313036171",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups shelled fresh peas",
+        "searchTerm": "fresh peas",
+        "normalizedName": "Pea"
+      },
+      {
+        "ingredient": "¾ pound new or red potatoes, unpeeled, cut into 1/2-inch cubes",
+        "searchTerm": "new potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "2 tablespoons unsalted butter",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup low-sodium vegetable or chicken broth",
+        "searchTerm": "vegetable broth",
+        "normalizedName": "Vegetable Broth"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "1 tablespoon thinly sliced fresh mint",
+        "searchTerm": "fresh mint",
+        "normalizedName": "Mint"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes into uniform 1/2-inch pieces for even cooking",
+      "Add peas near the end to preserve their bright color and crisp texture",
+      "Toss gently with fresh herbs just before serving to maintain their vibrant flavor"
+    ],
+    "coachingPrompt": "How can you ensure the potatoes and peas cook at the same rate, and when is the best time to add each?"
+  },
+  "timestamp": "2026-02-06T07:33:16.394Z"
+}

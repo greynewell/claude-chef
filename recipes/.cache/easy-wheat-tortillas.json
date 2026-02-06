@@ -1,0 +1,53 @@
+{
+  "contentHash": "8bc6ee1a994d8443",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon cold water, or more as needed",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Rolling Pin",
+        "searchTerm": "rolling pin"
+      },
+      {
+        "name": "Skillet or Griddle",
+        "searchTerm": "griddle"
+      }
+    ],
+    "cookingTips": [
+      "Keep butter cold and work it into flour quickly to create a tender crumb texture",
+      "Add water gradually until dough just comes together, handling minimally",
+      "Roll dough between parchment paper to prevent sticking without adding excess flour"
+    ],
+    "coachingPrompt": "These homemade wheat tortillas use a simple butter-based dough. How does minimal handling preserve tenderness?"
+  },
+  "timestamp": "2026-02-06T06:06:22.572Z"
+}

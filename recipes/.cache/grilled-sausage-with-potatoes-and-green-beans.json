@@ -1,0 +1,73 @@
+{
+  "contentHash": "87aeccc106b7f1b5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ pound fresh green beans, trimmed and halved",
+        "searchTerm": "green beans",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "½ pound red potatoes, quartered",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "1 large onion, sliced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 pound smoked sausage, cut into 1 inch pieces",
+        "searchTerm": "smoked sausage",
+        "normalizedName": "Smoked Sausage"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 teaspoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "⅓ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill basket",
+        "searchTerm": "grill basket"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Parboil potatoes slightly before grilling so they cook evenly with sausage",
+      "Use a grill basket to prevent vegetables from falling through the grates",
+      "Cut vegetables uniformly for consistent cooking"
+    ],
+    "coachingPrompt": "Guide the user through building a complete one-grill meal with properly timed sausage and vegetables."
+  },
+  "timestamp": "2026-02-06T08:25:10.180Z"
+}

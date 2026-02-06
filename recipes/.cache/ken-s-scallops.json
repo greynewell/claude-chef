@@ -1,0 +1,63 @@
+{
+  "contentHash": "fce281c9fbe2abf3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "extra virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Extra Virgin Olive Oil"
+      },
+      {
+        "ingredient": "garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "fresh basil leaves, chopped",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      },
+      {
+        "ingredient": "scallops, rinsed and patted dry",
+        "searchTerm": "scallops",
+        "normalizedName": "Scallop"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "lemon wedge",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Paper Towels",
+        "searchTerm": "paper towel"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Pat scallops completely dry before cooking to achieve proper searing",
+      "Use high heat and don't move scallops while searing to develop golden crust",
+      "Cook only 2-3 minutes per side for tender, not rubbery texture"
+    ],
+    "coachingPrompt": "Emphasize the importance of dry scallops for a good crust. Explain proper searing technique and why not to overcook delicate seafood."
+  },
+  "timestamp": "2026-02-06T10:39:09.366Z"
+}

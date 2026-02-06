@@ -1,0 +1,43 @@
+{
+  "contentHash": "301f5a564e0f58da",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup diced fresh pineapple",
+        "searchTerm": "fresh pineapple",
+        "normalizedName": "Fresh Pineapple"
+      },
+      {
+        "ingredient": "2 ounces triple sec",
+        "searchTerm": "triple sec",
+        "normalizedName": "Triple Sec"
+      },
+      {
+        "ingredient": "20 ounces chilled dry sparkling wine",
+        "searchTerm": "sparkling wine",
+        "normalizedName": "Dry Sparkling Wine"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Champagne flutes",
+        "searchTerm": "champagne flutes"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Pitcher",
+        "searchTerm": "pitcher"
+      }
+    ],
+    "cookingTips": [
+      "Use fresh pineapple for optimal flavor versus canned or juiced",
+      "Chill all components including glasses beforehand for best serving temperature",
+      "Divide pineapple among glasses first, then add triple sec, then top with sparkling wine"
+    ],
+    "coachingPrompt": "Guide the user on the proper layering technique and suggest this is ideal for brunch service with fresh fruit emphasizing quality ingredients."
+  },
+  "timestamp": "2026-02-06T06:59:40.427Z"
+}

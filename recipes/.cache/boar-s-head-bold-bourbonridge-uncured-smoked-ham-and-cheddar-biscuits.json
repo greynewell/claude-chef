@@ -1,0 +1,49 @@
+{
+  "contentHash": "1cf5c40f40733a44",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 biscuits, halved",
+        "searchTerm": "biscuits",
+        "normalizedName": "Biscuit"
+      },
+      {
+        "ingredient": "2 tablespoons butter, room temperature",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 tablespoons Black Mission fig jam",
+        "searchTerm": "fig jam",
+        "normalizedName": "Fig Jam"
+      },
+      {
+        "ingredient": "12 ounces Boar's Head Bold® BourbonRidge™ Uncured Smoked Ham",
+        "searchTerm": "smoked ham",
+        "normalizedName": "Smoked Ham"
+      },
+      {
+        "ingredient": "12 ounces Boar's Head Sharp Wisconsin Cheddar Cheese, sliced",
+        "searchTerm": "sharp cheddar cheese",
+        "normalizedName": "Sharp Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Use room temperature butter to spread easily without tearing biscuits",
+      "Toast biscuits lightly for better texture and to warm through",
+      "Layer ingredients in order: biscuit, butter, fig jam, ham, cheese for best flavor balance"
+    ],
+    "coachingPrompt": "Show me how to assemble elegant open-faced biscuits with smoky ham, sharp cheddar, and fig jam."
+  },
+  "timestamp": "2026-02-06T00:26:38.118Z"
+}

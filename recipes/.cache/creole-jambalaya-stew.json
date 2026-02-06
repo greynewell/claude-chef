@@ -1,0 +1,83 @@
+{
+  "contentHash": "4713c9cd4263a7fd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can diced tomatoes",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "2 medium onions, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 stalks celery, sliced",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 large green bell pepper, coarsely chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "6 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 teaspoons Creole seasoning",
+        "searchTerm": "Creole seasoning",
+        "normalizedName": "Creole Seasoning"
+      },
+      {
+        "ingredient": "½ pound andouille sausage, sliced",
+        "searchTerm": "andouille sausage",
+        "normalizedName": "Andouille Sausage"
+      },
+      {
+        "ingredient": "½ pound turkey kielbasa, sliced",
+        "searchTerm": "turkey kielbasa",
+        "normalizedName": "Turkey Kielbasa"
+      },
+      {
+        "ingredient": "1 cup uncooked white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "1 pound uncooked medium shrimp, peeled and deveined",
+        "searchTerm": "medium shrimp",
+        "normalizedName": "Medium Shrimp"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Measuring Cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausages and kielbasa first to render fat and develop deep flavor before adding vegetables",
+      "Cook the holy trinity (onion, celery, bell pepper) until softened to build the traditional jambalaya base",
+      "Add shrimp in final 5 minutes—just until pink—to prevent rubbery texture; cover and let residual heat finish cooking"
+    ],
+    "coachingPrompt": "Guide the user through creating authentic jambalaya with properly cooked rice and three proteins. Emphasize the holy trinity base and proper shrimp timing."
+  },
+  "timestamp": "2026-02-06T04:35:33.086Z"
+}

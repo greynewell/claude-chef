@@ -1,0 +1,63 @@
+{
+  "contentHash": "44001f9b6ba3daab",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "10 potatoes, peeled and grated",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "2 onions, peeled and grated",
+        "searchTerm": "onions",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "5 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅓ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Grater or food processor",
+        "searchTerm": "grater"
+      }
+    ],
+    "cookingTips": [
+      "Grate potatoes and onions just before mixing to prevent browning",
+      "Squeeze excess moisture from grated potatoes using clean kitchen towel",
+      "Bake at 350°F for 45-50 minutes until top is golden and center is set"
+    ],
+    "coachingPrompt": "Help the user remove excess moisture from potatoes for the best texture in the finished kugel."
+  },
+  "timestamp": "2026-02-06T13:33:01.128Z"
+}

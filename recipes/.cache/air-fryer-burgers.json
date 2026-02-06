@@ -1,0 +1,63 @@
+{
+  "contentHash": "649153fc4970110b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "½ red onion, diced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "1 teaspoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Ground Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon hot English mustard",
+        "searchTerm": "English mustard",
+        "normalizedName": "Hot English Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Air Fryer Basket",
+        "searchTerm": "air fryer basket"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Mix ingredients gently—overworking the beef creates tough burgers",
+      "Form patties slightly larger than final size as they shrink during cooking",
+      "Cook at 350°F for 10-12 minutes, flipping halfway through for even cooking"
+    ],
+    "coachingPrompt": "Help me combine the beef mixture, form patties, and air fry them to the desired doneness."
+  },
+  "timestamp": "2026-02-05T21:40:54.284Z"
+}

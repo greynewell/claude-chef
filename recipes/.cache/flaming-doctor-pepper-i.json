@@ -1,0 +1,38 @@
+{
+  "contentHash": "caa73ca27b0ea8b4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup beer",
+        "searchTerm": "beer",
+        "normalizedName": "Beer"
+      },
+      {
+        "ingredient": "1 fluid ounce amaretto liqueur",
+        "searchTerm": "amaretto liqueur",
+        "normalizedName": "Amaretto Liqueur"
+      },
+      {
+        "ingredient": "¼ fluid ounce 151 proof rum",
+        "searchTerm": "151 proof rum",
+        "normalizedName": "151 Proof Rum"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing glass",
+        "searchTerm": "mixing glass"
+      },
+      {
+        "name": "bar spoon",
+        "searchTerm": "bar spoon"
+      }
+    ],
+    "cookingTips": [
+      "Chill glass before mixing for optimal temperature",
+      "Use high-proof rum carefully due to flammable nature"
+    ],
+    "coachingPrompt": "Remind the user this is a potent cocktail requiring careful handling of high-proof spirits"
+  },
+  "timestamp": "2026-02-06T06:45:51.099Z"
+}

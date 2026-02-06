@@ -1,0 +1,53 @@
+{
+  "contentHash": "1199adac9faf9c37",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup buttermilk",
+        "searchTerm": "buttermilk",
+        "normalizedName": "Buttermilk"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Candy Thermometer",
+        "searchTerm": "candy thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Baking soda will cause the mixture to foam; stir constantly to prevent overflow",
+      "Syrup thickens as it cools, so don't overcook or it will be too thick",
+      "Perfect topping for pancakes and waffles"
+    ],
+    "coachingPrompt": "Guide the cook through managing the chemical reaction between buttermilk and baking soda, and achieving the right syrup consistency."
+  },
+  "timestamp": "2026-02-06T07:49:32.461Z"
+}

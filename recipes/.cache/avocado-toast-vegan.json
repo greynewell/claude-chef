@@ -1,0 +1,73 @@
+{
+  "contentHash": "dba435d8d9d07d25",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices whole-grain bread",
+        "searchTerm": "whole-grain bread",
+        "normalizedName": "Whole Grain Bread"
+      },
+      {
+        "ingredient": "1 avocado, halved and pitted",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "1 ½ teaspoons extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ lemon, juiced",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ teaspoon onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "spreading knife",
+        "searchTerm": "butter knife"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread until golden for structural support",
+      "Drizzle olive oil on warm toast for absorption",
+      "Add lemon juice just before serving to prevent browning"
+    ],
+    "coachingPrompt": "What combination of seasonings brings out the best flavor in simple avocado on toast?"
+  },
+  "timestamp": "2026-02-05T22:43:14.836Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "3d2a4e25819e2fc0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 (19 ounce) cans New England clam chowder",
+        "searchTerm": "New England clam chowder",
+        "normalizedName": "New England Clam Chowder"
+      },
+      {
+        "ingredient": "4 (6.5 ounce) cans minced clams",
+        "searchTerm": "minced clams",
+        "normalizedName": "Minced Clam"
+      },
+      {
+        "ingredient": "5 (10.75 ounce) cans condensed cream of potato soup",
+        "searchTerm": "cream of potato soup",
+        "normalizedName": "Cream of Potato Soup"
+      },
+      {
+        "ingredient": "4 pints half-and-half cream",
+        "searchTerm": "half-and-half cream",
+        "normalizedName": "Half-And-Half Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "This is a bulk recipe; scale down if needed for smaller servings",
+      "Stir constantly to avoid sticking and ensure even heating",
+      "Heat gently after adding cream to prevent curdling"
+    ],
+    "coachingPrompt": "Guide the user through this large-batch recipe, emphasizing the importance of gentle heat and patience when adding cream."
+  },
+  "timestamp": "2026-02-06T03:28:40.815Z"
+}

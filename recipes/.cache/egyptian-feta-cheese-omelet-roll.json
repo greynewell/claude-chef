@@ -1,0 +1,53 @@
+{
+  "contentHash": "7075b25510132558",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ teaspoon black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "3 tablespoons crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "1 teaspoon milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Non-stick skillet",
+        "searchTerm": "non-stick skillet"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Beat eggs with milk for a fluffier texture",
+      "Use medium heat to cook the omelet slowly and evenly",
+      "Roll gently while warm to avoid cracking"
+    ],
+    "coachingPrompt": "Guide users through creating a tender omelet with proper heat control. Emphasize the importance of spreading feta evenly and rolling at the right moment before the eggs fully set."
+  },
+  "timestamp": "2026-02-06T06:15:22.618Z"
+}

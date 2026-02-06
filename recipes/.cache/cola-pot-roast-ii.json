@@ -1,0 +1,73 @@
+{
+  "contentHash": "5dddefded3d30f4d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 pounds beef sirloin roast",
+        "searchTerm": "beef sirloin roast",
+        "normalizedName": "Beef Sirloin Roast"
+      },
+      {
+        "ingredient": "3 carrots",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "3 stalks celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 clove garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ (.75 ounce) packet dry brown gravy mix",
+        "searchTerm": "brown gravy mix",
+        "normalizedName": "Brown Gravy Mix"
+      },
+      {
+        "ingredient": "2 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (1 ounce) package dry onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "10 fluid ounces cola-flavored carbonated beverage",
+        "searchTerm": "cola",
+        "normalizedName": "Cola"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Dutch Oven",
+        "searchTerm": "dutch oven"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Sear the roast in a hot pot before adding liquid to develop a flavorful crust",
+      "Cook low and slow to allow the meat to become tender and absorb the flavors of the gravy",
+      "Cola adds depth and subtle sweetness that balances the savory soup mixes"
+    ],
+    "coachingPrompt": "Guide the user through building flavor with a seared roast and explain how cola enhances the umami-rich gravy."
+  },
+  "timestamp": "2026-02-06T03:43:38.258Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "e0b73f7eb8d9f608",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "9 Hawaiian bread rolls",
+        "searchTerm": "hawaiian roll",
+        "normalizedName": "Hawaiian Roll"
+      },
+      {
+        "ingredient": "1 can teriyaki flavor luncheon meat",
+        "searchTerm": "spam teriyaki",
+        "normalizedName": "Teriyaki Spam"
+      },
+      {
+        "ingredient": "3 pineapple rings",
+        "searchTerm": "pineapple ring",
+        "normalizedName": "Pineapple Ring"
+      },
+      {
+        "ingredient": "3 tablespoons sriracha hot sauce",
+        "searchTerm": "sriracha",
+        "normalizedName": "Sriracha"
+      },
+      {
+        "ingredient": "1 tablespoon lime juice",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "small bowl"
+      }
+    ],
+    "cookingTips": [
+      "Brown spam slices in a skillet to caramelize the teriyaki coating and add texture",
+      "Char pineapple rings lightly to bring out sweetness and add grilled flavor",
+      "Mix sriracha with lime juice and brush onto buns before assembling for better distribution"
+    ],
+    "coachingPrompt": "How can you balance the sweet Hawaiian roll and pineapple with the savory teriyaki spam and spicy sriracha?"
+  },
+  "timestamp": "2026-02-06T19:09:40.470Z"
+}

@@ -1,0 +1,52 @@
+{
+  "contentHash": "b1c9ae43ec198976",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 cup Sauvignon Blanc wine",
+        "searchTerm": "Sauvignon Blanc wine",
+        "normalizedName": "Sauvignon Blanc"
+      },
+      {
+        "ingredient": "8 ounces Gruyere cheese",
+        "searchTerm": "Gruyere cheese",
+        "normalizedName": "Gruyere Cheese"
+      },
+      {
+        "ingredient": "8 ounces Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "fondue pot",
+        "searchTerm": "fondue pot"
+      },
+      {
+        "name": "fondue forks",
+        "searchTerm": "fondue forks"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Shred cheese from whole blocks for better melting and emulsification",
+      "Keep heat at medium to prevent cheese from scorching or becoming grainy"
+    ],
+    "coachingPrompt": "Use freshly shredded cheese rather than pre-shredded for creamier consistency. Toss cheese with flour before adding to wine to prevent clumping."
+  },
+  "timestamp": "2026-02-06T00:05:41.797Z"
+}

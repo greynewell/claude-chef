@@ -1,0 +1,48 @@
+{
+  "contentHash": "2ca5eca12c9c6911",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (3 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "½ pound imitation crabmeat",
+        "searchTerm": "imitation crabmeat",
+        "normalizedName": "Imitation Crabmeat"
+      },
+      {
+        "ingredient": "2 green onions, chopped",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "12 small (4 inch) pita breads, halved",
+        "searchTerm": "pita bread",
+        "normalizedName": "Pita Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Serving plate",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Soften cream cheese at room temperature for easy mixing",
+      "Chop green onions finely for even distribution in filling",
+      "Warm pita bread slightly before filling to make handling easier"
+    ],
+    "coachingPrompt": "Help the user create an easy handheld appetizer by combining simple ingredients and filling pitas evenly."
+  },
+  "timestamp": "2026-02-06T04:02:47.146Z"
+}

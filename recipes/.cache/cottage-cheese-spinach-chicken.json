@@ -1,0 +1,58 @@
+{
+  "contentHash": "be42a5477f059a8b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10 ounce) package frozen chopped spinach, thawed",
+        "searchTerm": "spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "½ yellow onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 cup cottage cheese",
+        "searchTerm": "cottage cheese",
+        "normalizedName": "Cottage Cheese"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 tablespoons Cajun-style seasoning",
+        "searchTerm": "cajun seasoning",
+        "normalizedName": "Cajun Seasoning"
+      },
+      {
+        "ingredient": "2 tablespoons melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Meat Mallet",
+        "searchTerm": "meat mallet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken breasts to even thickness for uniform cooking",
+      "Squeeze excess moisture from thawed spinach to prevent watery filling",
+      "Use meat thermometer to ensure chicken reaches 165°F internal temperature"
+    ],
+    "coachingPrompt": "Guide on proper chicken-pounding technique and how to seal the filling without it leaking during cooking."
+  },
+  "timestamp": "2026-02-06T03:56:20.728Z"
+}

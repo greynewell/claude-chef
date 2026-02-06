@@ -1,0 +1,54 @@
+{
+  "contentHash": "4eab7c95e718916d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 slice leftover meatloaf",
+        "searchTerm": "meatloaf",
+        "normalizedName": "Meatloaf"
+      },
+      {
+        "ingredient": "1 tablespoon margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "2 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "1 teaspoon ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "3 slices Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "½ teaspoon prepared yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Butter or margarine the bread before placing in skillet for crispier exterior",
+      "Use leftover meatloaf to reduce waste and create a unique sandwich",
+      "Medium heat prevents burning while melting cheese throughout"
+    ],
+    "coachingPrompt": "How do you make the perfect grilled cheese without burning?"
+  },
+  "timestamp": "2026-02-06T12:09:04.987Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "58f104be398f5cd6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (2 pound) loaf processed cheese food (such as Velveeta®), cut into 8 pieces",
+        "searchTerm": "processed cheese food",
+        "normalizedName": "Processed Cheese Food"
+      },
+      {
+        "ingredient": "2 (7 ounce) jars pimento peppers, drained and chopped",
+        "searchTerm": "pimento peppers",
+        "normalizedName": "Pimento Pepper"
+      },
+      {
+        "ingredient": "¼ cup tarragon vinegar",
+        "searchTerm": "tarragon vinegar",
+        "normalizedName": "Tarragon Vinegar"
+      },
+      {
+        "ingredient": "¼ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¼ cup unsalted butter",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Double boiler",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Use a double boiler to melt processed cheese smoothly without scorching",
+      "Cut cheese into pieces for faster and more even melting",
+      "Fold in remaining ingredients gently after cheese has cooled slightly"
+    ],
+    "coachingPrompt": "Explain why a double boiler is essential for melting processed cheese and how to avoid a broken or grainy texture."
+  },
+  "timestamp": "2026-02-05T22:33:33.018Z"
+}

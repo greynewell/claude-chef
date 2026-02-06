@@ -1,0 +1,58 @@
+{
+  "contentHash": "e4014abb56fae1fd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups quick-cooking oats",
+        "searchTerm": "oats",
+        "normalizedName": "Oat"
+      },
+      {
+        "ingredient": "1 cup shredded coconut",
+        "searchTerm": "coconut",
+        "normalizedName": "Coconut"
+      },
+      {
+        "ingredient": "¼ cup unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "cookie sheets",
+        "searchTerm": "baking sheets"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "This is a no-bake recipe - cook on stovetop until mixture reaches soft-ball stage",
+      "Drop onto parchment paper quickly as mixture sets rapidly",
+      "Let cool completely before removing from paper to avoid sticking"
+    ],
+    "coachingPrompt": "These are no-bake macaroons. What temperature should the mixture reach and how do you test for doneness?"
+  },
+  "timestamp": "2026-02-06T13:26:58.668Z"
+}

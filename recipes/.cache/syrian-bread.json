@@ -1,0 +1,57 @@
+{
+  "contentHash": "24d034cf38242ee8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1.063 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "½ teaspoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 ½ teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "3 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 ½ teaspoons active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "stand mixer",
+        "searchTerm": "stand mixer"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Watch dough carefully while baking - pita-style breads puff up quickly and can burn",
+      "Let dough rest after kneading for better extensibility"
+    ],
+    "coachingPrompt": "Syrian bread typically creates a pocket when baked properly. What oven temperature and technique produces this characteristic pocket?"
+  },
+  "timestamp": "2026-02-06T20:11:32.907Z"
+}

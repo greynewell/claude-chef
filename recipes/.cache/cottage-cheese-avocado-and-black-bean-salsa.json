@@ -1,0 +1,62 @@
+{
+  "contentHash": "ec3c628189f0a49c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ear corn, husked and cleaned",
+        "searchTerm": "fresh corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "1 (15 ounce) can reduced sodium black beans",
+        "searchTerm": "black beans",
+        "normalizedName": "Black Bean"
+      },
+      {
+        "ingredient": "1 (32 ounce) container 1% fat cottage cheese",
+        "searchTerm": "cottage cheese",
+        "normalizedName": "Cottage Cheese"
+      },
+      {
+        "ingredient": "1 avocado - peeled, pitted, and diced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "2 roma (plum) tomatoes, seeded and diced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "2 cups salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "1 (13.5 ounce) package tortilla chips, if desired",
+        "searchTerm": "tortilla chips",
+        "normalizedName": "Tortilla Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Add avocado just before serving to prevent browning",
+      "If using fresh corn, lightly blanch and cool before cutting off the cob"
+    ],
+    "coachingPrompt": "Do you prefer fresh corn or frozen? I can adjust prep instructions accordingly."
+  },
+  "timestamp": "2026-02-06T03:55:25.469Z"
+}

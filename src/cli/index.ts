@@ -55,10 +55,30 @@ if (command === 'submit') {
     console.error('ANTHROPIC_API_KEY environment variable is required for enrichment.');
     process.exit(1);
   }
-  const recipesDir = args[2] || path.resolve(__dirname, '../../recipes');
-  const slug = args[1] || undefined;
+
+  // Parse arguments
+  let slug: string | undefined;
+  let batch: number | undefined;
+  let batchSize: number | undefined;
+  let recipesDir = path.resolve(__dirname, '../../recipes');
+
+  for (let i = 1; i < args.length; i++) {
+    if (args[i] === '--batch' && args[i + 1]) {
+      batch = parseInt(args[i + 1], 10);
+      i++;
+    } else if (args[i] === '--batch-size' && args[i + 1]) {
+      batchSize = parseInt(args[i + 1], 10);
+      i++;
+    } else if (args[i] === '--dir' && args[i + 1]) {
+      recipesDir = args[i + 1];
+      i++;
+    } else if (!args[i].startsWith('--')) {
+      slug = args[i];
+    }
+  }
+
   const client = new ClaudeClient(apiKey);
-  enrichCommand(recipesDir, client, slug).catch(err => {
+  enrichCommand(recipesDir, client, { slug, batch, batchSize }).catch(err => {
     console.error('Enrichment failed:', err);
     process.exit(1);
   });
@@ -66,6 +86,8 @@ if (command === 'submit') {
   console.log('Usage:');
   console.log('  chef submit [recipes-dir]   Lint all recipes for submission readiness.');
   console.log('  chef create "Title"         Scaffold a new recipe markdown file.');
-  console.log('  chef enrich [slug]          Enrich recipes via LLM (requires ANTHROPIC_API_KEY).');
+  console.log('  chef enrich [slug]          Enrich a single recipe by slug.');
+  console.log('  chef enrich --batch N       Enrich N recipes total (skips cached).');
+  console.log('  chef enrich --batch-size N  Recipes per API call (default: 5).');
   process.exit(1);
 }

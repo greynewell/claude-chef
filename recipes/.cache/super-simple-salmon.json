@@ -1,0 +1,57 @@
+{
+  "contentHash": "ab843717aa9821ff",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 tablespoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "4 (6 ounce) salmon",
+        "searchTerm": "salmon fillets",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 lemon wedges",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon Wedge"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Cook salmon skin-side down for better texture and protection",
+      "Target 145°F internal temperature; avoid overcooking which makes it dry"
+    ],
+    "coachingPrompt": "Help the user cook salmon properly without drying it out."
+  },
+  "timestamp": "2026-02-06T19:53:07.396Z"
+}

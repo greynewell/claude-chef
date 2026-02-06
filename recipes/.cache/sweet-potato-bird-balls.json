@@ -1,0 +1,54 @@
+{
+  "contentHash": "ae1b5214c03c5908",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 large sweet potato",
+        "searchTerm": "sweet potato",
+        "normalizedName": "Sweet Potato"
+      },
+      {
+        "ingredient": "1 cup frozen mixed vegetables, thawed",
+        "searchTerm": "mixed vegetables",
+        "normalizedName": "Mixed Vegetable"
+      },
+      {
+        "ingredient": "1 banana",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "½ cup raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      },
+      {
+        "ingredient": "1 cup diced apples",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "1 ½ cups quick-cooking oatmeal, corn flakes, granola, or similar cereal",
+        "searchTerm": "oatmeal",
+        "normalizedName": "Oatmeal"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Steam sweet potato until tender before mashing",
+      "Dice all ingredients uniformly for consistent ball texture",
+      "Refrigerate mixture for 30 minutes before forming for easier handling"
+    ],
+    "coachingPrompt": "Is this recipe for human consumption or pet food? Ingredient choices may differ based on intended use."
+  },
+  "timestamp": "2026-02-06T20:06:20.421Z"
+}

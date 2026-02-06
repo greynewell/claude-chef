@@ -1,0 +1,58 @@
+{
+  "contentHash": "723e131aa2d0487c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 (16 ounce) cans pork and beans",
+        "searchTerm": "pork and beans",
+        "normalizedName": "Pork and Bean"
+      },
+      {
+        "ingredient": "8 slices cooked bacon, crumbled",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 Granny Smith apples - peeled, cored, and diced",
+        "searchTerm": "granny smith apple",
+        "normalizedName": "Granny Smith Apple"
+      },
+      {
+        "ingredient": "1 ⅓ cups barbeque sauce",
+        "searchTerm": "bbq sauce",
+        "normalizedName": "Barbeque Sauce"
+      },
+      {
+        "ingredient": "1 cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "¼ cup raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Drain and rinse canned beans to reduce sodium",
+      "Mix all ingredients in bowl before transferring to baking dish",
+      "Bake uncovered at 375°F for 45-60 minutes until bubbly"
+    ],
+    "coachingPrompt": "Should canned beans be rinsed, and how do you know when baked beans are finished cooking?"
+  },
+  "timestamp": "2026-02-05T22:08:45.891Z"
+}

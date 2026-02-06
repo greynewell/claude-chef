@@ -1,0 +1,62 @@
+{
+  "contentHash": "85fc10f9de338b55",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "⅔ cup unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "⅛ teaspoon sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 tablespoons brewed espresso or strong coffee",
+        "searchTerm": "espresso",
+        "normalizedName": "Espresso"
+      },
+      {
+        "ingredient": "½ teaspoon almond extract",
+        "searchTerm": "almond extract",
+        "normalizedName": "Almond Extract"
+      },
+      {
+        "ingredient": "2 tablespoons coffee liqueur (such as Kahlua®)  (Optional)",
+        "searchTerm": "coffee liqueur",
+        "normalizedName": "Coffee Liqueur"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Simmer cocoa mixture gently to dissolve cocoa powder smoothly without burning",
+      "Chill base thoroughly before churning for best texture and smoothness"
+    ],
+    "coachingPrompt": "Help me create a sophisticated chocolate sorbet with espresso depth and a subtle almond note."
+  },
+  "timestamp": "2026-02-06T03:12:35.580Z"
+}

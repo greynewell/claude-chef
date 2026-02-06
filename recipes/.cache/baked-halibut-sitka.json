@@ -1,0 +1,58 @@
+{
+  "contentHash": "d486036d8ad975e2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds halibut fillet, cut into 6 pieces",
+        "searchTerm": "halibut fillet",
+        "normalizedName": "Halibut Fillet"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 bunch green onions, chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "½ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 teaspoon dried dill weed",
+        "searchTerm": "dried dill",
+        "normalizedName": "Dried Dill"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Combine mayo and sour cream topping just before serving to prevent sogginess",
+      "Don't overbake halibut—check for flaking after 12 minutes"
+    ],
+    "coachingPrompt": "Why combine mayo and sour cream instead of using just one, and when should you add the topping?"
+  },
+  "timestamp": "2026-02-05T23:06:08.420Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "2986aa71fd733fd4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "4 cups tomato juice",
+        "searchTerm": "tomato juice",
+        "normalizedName": "Tomato Juice"
+      },
+      {
+        "ingredient": "1 (15 ounce) can whole kernel corn, drained",
+        "searchTerm": "corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "1 (15 ounce) can kidney beans",
+        "searchTerm": "kidney beans",
+        "normalizedName": "Kidney Bean"
+      },
+      {
+        "ingredient": "1 (8 ounce) can tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "½ (1.25 ounce) package taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Can Opener",
+        "searchTerm": "can opener"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly before adding vegetables to develop deeper flavor",
+      "Drain canned beans and corn to control liquid consistency",
+      "Simmer for at least 20 minutes to allow flavors to meld"
+    ],
+    "coachingPrompt": "Ask the user about preferred toppings like sour cream, tortilla strips, or shredded cheese to customize the soup experience."
+  },
+  "timestamp": "2026-02-05T23:40:31.728Z"
+}

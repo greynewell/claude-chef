@@ -1,0 +1,48 @@
+{
+  "contentHash": "24034c2af06e88d3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups sugar snap peas, strings removed",
+        "searchTerm": "sugar snap peas",
+        "normalizedName": "Sugar Snap Pea"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic cloves",
+        "normalizedName": "Garlic Clove"
+      },
+      {
+        "ingredient": "2 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet or wok",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Remove strings from sugar snap peas before cooking for pleasant eating experience",
+      "Cook at high heat for just 2-3 minutes to maintain crunchiness",
+      "Use fresh garlic for maximum flavor impact"
+    ],
+    "coachingPrompt": "Sugar snap peas are naturally sweet—are you comfortable letting their flavor shine with minimal seasoning? Quick cooking preference?"
+  },
+  "timestamp": "2026-02-06T19:28:45.474Z"
+}

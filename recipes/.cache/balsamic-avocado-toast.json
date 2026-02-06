@@ -1,0 +1,58 @@
+{
+  "contentHash": "3e5d37b2cd3448fa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 slice French bread",
+        "searchTerm": "French bread",
+        "normalizedName": "French Bread"
+      },
+      {
+        "ingredient": "2 teaspoons balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "¼ avocado, sliced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 dash paprika, or to taste",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "salt and freshly cracked black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and freshly cracked black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Toast the bread until crispy so it supports the avocado without getting soggy",
+      "Choose a ripe but not overripe avocado that slices cleanly",
+      "Drizzle balsamic just before serving to prevent soaking into the toast"
+    ],
+    "coachingPrompt": "Help me create the perfect balance of crispy toast, creamy avocado, and sweet-tart balsamic."
+  },
+  "timestamp": "2026-02-05T23:17:11.418Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "c1eac131bb57cbe7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup quinoa, rinsed",
+        "searchTerm": "quinoa",
+        "normalizedName": "Quinoa"
+      },
+      {
+        "ingredient": "2 cups shelled edamame",
+        "searchTerm": "edamame",
+        "normalizedName": "Edamame"
+      },
+      {
+        "ingredient": "2 cups diced firm tofu",
+        "searchTerm": "firm tofu",
+        "normalizedName": "Firm Tofu"
+      },
+      {
+        "ingredient": "2 teaspoons soy sauce, or to taste",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon Chinese hot mustard, or to taste",
+        "searchTerm": "Chinese hot mustard",
+        "normalizedName": "Chinese Hot Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Rinse quinoa thoroughly before cooking to remove bitter saponins",
+      "Let quinoa cool completely before combining with tofu to maintain texture separation"
+    ],
+    "coachingPrompt": "How should I prepare the tofu and cook the quinoa for optimal texture in this salad?"
+  },
+  "timestamp": "2026-02-06T20:53:15.050Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "0c56969b1a75f548",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (4 ounce) cod loins",
+        "searchTerm": "cod fillet",
+        "normalizedName": "Cod"
+      },
+      {
+        "ingredient": "1 pinch salt and freshly ground black pepper",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and freshly ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 lemon",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "2 teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 shallot, thinly sliced",
+        "searchTerm": "shallot",
+        "normalizedName": "Shallot"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sous Vide Machine",
+        "searchTerm": "immersion circulator"
+      },
+      {
+        "name": "Vacuum Bags",
+        "searchTerm": "vacuum sealer bags"
+      },
+      {
+        "name": "Cooking Thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Cook cod at 158°F (70°C) for delicate, flaking texture without drying",
+      "Shallots and butter create a light pan sauce when finished"
+    ],
+    "coachingPrompt": "Guide the user on gentle cooking temperatures for delicate white fish and how sous vide prevents the common problem of overcooked, dry cod."
+  },
+  "timestamp": "2026-02-06T18:38:23.425Z"
+}

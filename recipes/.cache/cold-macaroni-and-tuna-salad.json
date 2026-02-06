@@ -1,0 +1,63 @@
+{
+  "contentHash": "6a75d2f2e8b81d34",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 ¾ cups macaroni",
+        "searchTerm": "macaroni pasta",
+        "normalizedName": "Macaroni"
+      },
+      {
+        "ingredient": "½ (10 ounce) package frozen English peas",
+        "searchTerm": "frozen peas",
+        "normalizedName": "Frozen Pea"
+      },
+      {
+        "ingredient": "2 (5 ounce) cans tuna, drained",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Canned Tuna"
+      },
+      {
+        "ingredient": "3 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Hard boil eggs and chill before chopping to prevent yolk discoloration",
+      "Rinse macaroni with cold water after cooking to stop the cooking process",
+      "Drain tuna well and break it into small flakes for even distribution"
+    ],
+    "coachingPrompt": "How can I make this classic tuna macaroni salad creamy but not heavy?"
+  },
+  "timestamp": "2026-02-06T03:44:35.598Z"
+}

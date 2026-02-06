@@ -1,0 +1,58 @@
+{
+  "contentHash": "e9ab03654561f292",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (18.25 ounce) package German chocolate cake mix",
+        "searchTerm": "German chocolate cake mix",
+        "normalizedName": "German Chocolate Cake Mix"
+      },
+      {
+        "ingredient": "14 ounces individually wrapped caramels",
+        "searchTerm": "caramels",
+        "normalizedName": "Caramel"
+      },
+      {
+        "ingredient": "1 (5 ounce) can evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      },
+      {
+        "ingredient": "¾ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup chopped pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      },
+      {
+        "ingredient": "1 cup semisweet chocolate chips",
+        "searchTerm": "semisweet chocolate chips",
+        "normalizedName": "Semisweet Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Prepare cake batter according to package directions, but use evaporated milk as part of liquid",
+      "Melt caramels with evaporated milk over low heat, stirring frequently to prevent burning",
+      "Layer cake, caramel sauce, pecans, and chocolate chips in the pan for turtle-like appearance"
+    ],
+    "coachingPrompt": "Why does layering the caramel sauce in the middle of baking create the signature turtle cake texture?"
+  },
+  "timestamp": "2026-02-06T21:22:31.006Z"
+}

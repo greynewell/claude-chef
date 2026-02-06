@@ -1,0 +1,58 @@
+{
+  "contentHash": "557ae3a917844033",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups crushed ice",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      },
+      {
+        "ingredient": "2 (1.5 fluid ounce) jiggers vodka",
+        "searchTerm": "vodka",
+        "normalizedName": "Vodka"
+      },
+      {
+        "ingredient": "2 (1.5 fluid ounce) jiggers coffee flavored liqueur",
+        "searchTerm": "coffee liqueur",
+        "normalizedName": "Coffee Flavored Liqueur"
+      },
+      {
+        "ingredient": "2 (1.5 fluid ounce) jiggers Irish cream liqueur",
+        "searchTerm": "Irish cream liqueur",
+        "normalizedName": "Irish Cream Liqueur"
+      },
+      {
+        "ingredient": "2 tablespoons chocolate syrup",
+        "searchTerm": "chocolate syrup",
+        "normalizedName": "Chocolate Syrup"
+      },
+      {
+        "ingredient": "½ cup whipped cream",
+        "searchTerm": "whipped cream",
+        "normalizedName": "Whipped Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Tall glass",
+        "searchTerm": "glass"
+      },
+      {
+        "name": "Bar jigger",
+        "searchTerm": "jigger"
+      }
+    ],
+    "cookingTips": [
+      "Use crushed ice rather than cubes for better blending and smoother texture",
+      "Drizzle chocolate syrup into the glass before pouring for visual effect",
+      "Blend just before serving to maintain proper consistency"
+    ],
+    "coachingPrompt": "Guide the bartender on proper spirit measurements, blending timing, and presentation for a frozen cocktail."
+  },
+  "timestamp": "2026-02-06T07:08:40.803Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "b995948becbf2dc5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15 ounce) package pretzels",
+        "searchTerm": "pretzels",
+        "normalizedName": "Pretzel"
+      },
+      {
+        "ingredient": "¾ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 (1 ounce) package dry Ranch-style dressing mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Dressing Mix"
+      },
+      {
+        "ingredient": "3 tablespoons garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "3 tablespoons dried dill weed",
+        "searchTerm": "dried dill",
+        "normalizedName": "Dill"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Storage container",
+        "searchTerm": "storage container"
+      }
+    ],
+    "cookingTips": [
+      "Use fresh pretzels from the bakery section for better texture than stale packaged varieties",
+      "Toss gently to coat evenly without crushing; let sit 1-2 hours before serving to absorb flavors",
+      "Store in airtight container; pretzels stay crispy for up to 5 days"
+    ],
+    "coachingPrompt": "Guide the user on achieving even coating distribution and explain how to maintain crispness during storage."
+  },
+  "timestamp": "2026-02-06T12:00:25.721Z"
+}

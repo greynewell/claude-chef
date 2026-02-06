@@ -1,0 +1,53 @@
+{
+  "contentHash": "f575e4075e8249d3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ¾ cups confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "6 tablespoons unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "6 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "5 tablespoons evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "electric mixer",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "offset spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Sift cocoa powder before adding to prevent lumps in the frosting",
+      "Cream butter and sugar together for 2-3 minutes until light and fluffy before adding milk",
+      "Add evaporated milk gradually while beating to achieve the right spreading consistency"
+    ],
+    "coachingPrompt": "Do you need this frosting thicker for piping decorations or thinner for spreading? Adjust milk quantity accordingly."
+  },
+  "timestamp": "2026-02-06T04:25:03.039Z"
+}

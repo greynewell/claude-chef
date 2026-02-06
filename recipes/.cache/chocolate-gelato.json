@@ -1,0 +1,62 @@
+{
+  "contentHash": "d0dc030046b04edf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ¼ cups whole milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "⅝ cup white sugar, divided",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "⅓ cup heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "⅓ cup unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "⅔ cup chopped dark chocolate",
+        "searchTerm": "dark chocolate",
+        "normalizedName": "Dark Chocolate"
+      },
+      {
+        "ingredient": "4 egg yolks",
+        "searchTerm": "egg yolks",
+        "normalizedName": "Egg Yolk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "candy thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Temper egg yolks carefully to avoid scrambling by slowly adding hot milk mixture",
+      "Chill custard completely before churning for best texture",
+      "Use a quality ice cream maker and follow manufacturer's instructions for optimal results"
+    ],
+    "coachingPrompt": "Guide the user through custard-making and tempering techniques to create silky smooth gelato without ice crystals or graininess."
+  },
+  "timestamp": "2026-02-06T03:08:01.747Z"
+}

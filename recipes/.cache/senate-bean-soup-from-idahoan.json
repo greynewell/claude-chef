@@ -1,0 +1,83 @@
+{
+  "contentHash": "431b03f5d22d120e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (4 ounce) package Idahoan Roasted Garlic Flavored Mashed Potatoes, dry",
+        "searchTerm": "instant mashed potatoes",
+        "normalizedName": "Instant Mashed Potato Mix"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 yellow onion, chopped",
+        "searchTerm": "yellow onion",
+        "normalizedName": "Yellow Onion"
+      },
+      {
+        "ingredient": "2 stalks celery, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "2 carrots, chopped",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "2 (32 fluid ounce) containers vegetable stock",
+        "searchTerm": "vegetable broth",
+        "normalizedName": "Vegetable Stock"
+      },
+      {
+        "ingredient": "1 smoked ham bone",
+        "searchTerm": "ham bone",
+        "normalizedName": "Smoked Ham Bone"
+      },
+      {
+        "ingredient": "2 (14.5 ounce) cans white beans, rinsed and drained",
+        "searchTerm": "white beans",
+        "normalizedName": "White Bean"
+      },
+      {
+        "ingredient": "½ bunch parsley, chopped",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      },
+      {
+        "ingredient": "Salt and pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "Salt and pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "stock pot"
+      },
+      {
+        "name": "knife and cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "stirring spoon"
+      }
+    ],
+    "cookingTips": [
+      "Simmer soup low and slow for 1-2 hours to extract maximum flavor from ham bone",
+      "Remove ham bone, shred any remaining meat, and return to soup",
+      "Add instant potato mix at the end to achieve the right consistency without early thickening"
+    ],
+    "coachingPrompt": "How can I build deep, savory flavors in bean soup using a ham bone?"
+  },
+  "timestamp": "2026-02-06T17:20:01.383Z"
+}

@@ -1,0 +1,78 @@
+{
+  "contentHash": "b65788d0c40f8a43",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup minced shallot",
+        "searchTerm": "shallots",
+        "normalizedName": "Shallot"
+      },
+      {
+        "ingredient": "2 cups chicken broth, divided",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "2 ounces cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "½ cup heavy whipping cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "8 ounces shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese shredded",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "6 ounces frozen broccoli rice",
+        "searchTerm": "broccoli rice frozen",
+        "normalizedName": "Broccoli Rice"
+      },
+      {
+        "ingredient": "½ teaspoon garlic granules",
+        "searchTerm": "garlic granules",
+        "normalizedName": "Garlic Granule"
+      },
+      {
+        "ingredient": "1 teaspoon xanthan gum",
+        "searchTerm": "xanthan gum",
+        "normalizedName": "Xanthan Gum"
+      },
+      {
+        "ingredient": "freshly ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "immersion blender",
+        "searchTerm": "immersion blender"
+      }
+    ],
+    "cookingTips": [
+      "Add xanthan gum slowly while whisking to avoid lumps in soup",
+      "Stir in cream cheese in small pieces so it melts smoothly without curdling",
+      "For smoother texture, use immersion blender to partially puree soup while keeping some texture"
+    ],
+    "coachingPrompt": "Do you want a chunky vegetable soup or smooth and creamy? This determines your blending approach."
+  },
+  "timestamp": "2026-02-06T10:41:12.042Z"
+}

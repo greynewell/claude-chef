@@ -1,0 +1,53 @@
+{
+  "contentHash": "d38b530cf9c46d64",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 pig tails, rinsed",
+        "searchTerm": "pig tails",
+        "normalizedName": "Pig Tail"
+      },
+      {
+        "ingredient": "6 cloves garlic, halved",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 onion, coarsely chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 teaspoon red pepper flakes, or to taste",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Blanch pig tails first to remove any impurities and reduce gaminess",
+      "Simmer gently for 2-3 hours until meat is tender and falls from the bone",
+      "The resulting broth becomes deeply flavored for use in other dishes"
+    ],
+    "coachingPrompt": "Help the user understand nose-to-tail cooking and explain how slow simmering creates rich, gelatinous broths from humble cuts."
+  },
+  "timestamp": "2026-02-06T18:42:18.255Z"
+}

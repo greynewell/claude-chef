@@ -1,0 +1,72 @@
+{
+  "contentHash": "8ea1e9e70e400fd6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 ounce) package egg noodles",
+        "searchTerm": "egg noodles",
+        "normalizedName": "Egg Noodle"
+      },
+      {
+        "ingredient": "¼ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 cup frozen green peas",
+        "searchTerm": "frozen peas",
+        "normalizedName": "Frozen Pea"
+      },
+      {
+        "ingredient": "2 (5 ounce) cans tuna, drained",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Canned Tuna"
+      },
+      {
+        "ingredient": "2 (10.75 ounce) cans condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "½ (4.5 ounce) can sliced mushrooms",
+        "searchTerm": "sliced mushrooms",
+        "normalizedName": "Sliced Mushroom"
+      },
+      {
+        "ingredient": "1 cup crushed potato chips",
+        "searchTerm": "potato chips",
+        "normalizedName": "Potato Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Casserole Dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cook noodles one minute under the package time to maintain some firmness since they'll cook further in the oven",
+      "Mix all ingredients gently to avoid breaking up the noodles and tuna",
+      "Sprinkle potato chips on top just before the final baking stage for best crunch and flavor"
+    ],
+    "coachingPrompt": "Help the user avoid overcooked, mushy noodles by understanding the two-stage cooking process. Guide them on achieving a creamy, cohesive casserole with textural contrast."
+  },
+  "timestamp": "2026-02-06T00:03:47.585Z"
+}

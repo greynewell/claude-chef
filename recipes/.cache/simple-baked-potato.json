@@ -1,0 +1,53 @@
+{
+  "contentHash": "a8923ffe8f0e2675",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 teaspoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 ½ teaspoons garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "6 medium potatoes, scrubbed",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Prick potatoes with a fork before baking to prevent bursting",
+      "Bake at 400°F for about 50-60 minutes until tender inside"
+    ],
+    "coachingPrompt": "Would you like to add toppings like sour cream, cheese, or bacon bits to these baked potatoes?"
+  },
+  "timestamp": "2026-02-06T17:48:18.600Z"
+}

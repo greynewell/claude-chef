@@ -1,0 +1,53 @@
+{
+  "contentHash": "2228423a5f85c6e6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16.3 ounce) can Pillsbury® Grands!® refrigerated biscuits (any variety)",
+        "searchTerm": "grands biscuits",
+        "normalizedName": "Refrigerated Biscuit"
+      },
+      {
+        "ingredient": "8 slices American cheese",
+        "searchTerm": "american cheese",
+        "normalizedName": "American Cheese"
+      },
+      {
+        "ingredient": "8 ounces thinly sliced deli ham",
+        "searchTerm": "deli ham",
+        "normalizedName": "Deli Ham"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Mix egg and water to create egg wash for golden color",
+      "Layer ham and cheese in center of flattened biscuit",
+      "Fold biscuit edges up and seal before baking"
+    ],
+    "coachingPrompt": "How can you prevent the filling from escaping while creating a golden, sealed exterior?"
+  },
+  "timestamp": "2026-02-06T07:56:07.931Z"
+}

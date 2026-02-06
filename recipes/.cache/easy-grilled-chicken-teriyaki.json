@@ -1,0 +1,52 @@
+{
+  "contentHash": "4887c2ba8862e74a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 cup teriyaki sauce",
+        "searchTerm": "teriyaki sauce",
+        "normalizedName": "Teriyaki Sauce"
+      },
+      {
+        "ingredient": "¼ cup lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "2 teaspoons minced fresh garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 teaspoons sesame oil",
+        "searchTerm": "sesame oil",
+        "normalizedName": "Sesame Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill or grill pan",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "shallow dish for marinating",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "instant-read thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Marinate chicken for at least 30 minutes to develop flavor",
+      "Don't cook at too high heat or the sugars in teriyaki sauce will burn"
+    ],
+    "coachingPrompt": "Guide the cook to marinate and grill chicken with teriyaki without charring the outside."
+  },
+  "timestamp": "2026-02-06T05:46:00.708Z"
+}

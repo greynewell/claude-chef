@@ -1,0 +1,43 @@
+{
+  "contentHash": "2a3dabd0263367ee",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "20 chicken wings",
+        "searchTerm": "chicken wings",
+        "normalizedName": "Chicken Wing"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "3 teaspoons garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "3 teaspoons ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill or grill pan",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Pat wings dry before oiling for crisper skin on the grill",
+      "Oil the grill grates well to prevent sticking and ensure good char marks"
+    ],
+    "coachingPrompt": "Help the cook achieve crispy, well-seasoned grilled wings with even cooking throughout."
+  },
+  "timestamp": "2026-02-06T05:46:00.709Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "241a5beb0b6322c5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ Smithfield® Applewood Smoked Bacon Seasoned Pork Loin Filet, cooked and finely diced",
+        "searchTerm": "smoked pork loin",
+        "normalizedName": "Smoked Pork Loin"
+      },
+      {
+        "ingredient": "1 (12 ounce) package pimento cheese spread",
+        "searchTerm": "pimento cheese spread",
+        "normalizedName": "Pimento Cheese Spread"
+      },
+      {
+        "ingredient": "3 tablespoons barbecue sauce",
+        "searchTerm": "BBQ sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon smoked paprika",
+        "searchTerm": "smoked paprika",
+        "normalizedName": "Smoked Paprika"
+      },
+      {
+        "ingredient": "4 (10 inch) flour tortillas",
+        "searchTerm": "flour tortilla",
+        "normalizedName": "Flour Tortilla"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "small mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Warm tortillas before filling to prevent cracking",
+      "Mix pimento cheese with BBQ sauce and paprika for a smooth filling",
+      "Dice pork finely so it distributes evenly throughout each rollup"
+    ],
+    "coachingPrompt": "Teach the cook how to properly warm tortillas and distribute fillings for rollups that hold together when served."
+  },
+  "timestamp": "2026-02-05T23:38:26.771Z"
+}

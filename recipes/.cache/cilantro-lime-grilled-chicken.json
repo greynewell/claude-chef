@@ -1,0 +1,52 @@
+{
+  "contentHash": "2a306bf5743b1799",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "limes",
+        "searchTerm": "limes",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "whole chicken",
+        "searchTerm": "chicken",
+        "normalizedName": "Chicken"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Let marinade penetrate for at least 2-4 hours or overnight",
+      "Use indirect heat to prevent charring while ensuring the chicken cooks through"
+    ],
+    "coachingPrompt": "What's the ideal internal temperature for grilled chicken pieces?"
+  },
+  "timestamp": "2026-02-06T03:20:38.523Z"
+}

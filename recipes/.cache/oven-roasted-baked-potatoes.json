@@ -1,0 +1,53 @@
+{
+  "contentHash": "a1c610ca2106b338",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 fingerling potatoes, cubed",
+        "searchTerm": "fingerling potatoes",
+        "normalizedName": "Fingerling Potato"
+      },
+      {
+        "ingredient": "1 large onion, cubed",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 tablespoons coconut oil, melted",
+        "searchTerm": "coconut oil",
+        "normalizedName": "Coconut Oil"
+      },
+      {
+        "ingredient": "2 tablespoons minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes and onions into uniform cubes for even cooking",
+      "Toss with melted coconut oil and garlic to coat all surfaces evenly",
+      "Roast at 425°F for 25-30 minutes, stirring halfway, until potatoes are golden and crispy at the edges"
+    ],
+    "coachingPrompt": "Show the user how to roast fingerling potatoes until crispy outside and tender inside using coconut oil."
+  },
+  "timestamp": "2026-02-06T13:53:13.281Z"
+}

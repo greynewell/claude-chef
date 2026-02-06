@@ -1,0 +1,39 @@
+{
+  "contentHash": "b035f4872fa8d4b3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "2 tablespoons butter, divided",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 slices processed American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet or griddle",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Butter the bread on the outside for even browning and golden crust",
+      "Cook on medium heat to allow cheese to melt completely while bread toasts",
+      "Press gently with spatula to help cheese melt evenly"
+    ],
+    "coachingPrompt": "What's the ideal heat level to achieve a crispy exterior while melting the cheese throughout?"
+  },
+  "timestamp": "2026-02-06T12:27:44.313Z"
+}

@@ -1,0 +1,73 @@
+{
+  "contentHash": "d968deb9e23f3702",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup plain yogurt",
+        "searchTerm": "plain yogurt",
+        "normalizedName": "Plain Yogurt"
+      },
+      {
+        "ingredient": "¼ cup Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "1 tablespoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "¼ cup fresh lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "3 tablespoons chopped fresh dill",
+        "searchTerm": "fresh dill",
+        "normalizedName": "Fresh Dill"
+      },
+      {
+        "ingredient": "1 pound salmon",
+        "searchTerm": "salmon fillets",
+        "normalizedName": "Salmon"
+      },
+      {
+        "ingredient": "1 cup white wine",
+        "searchTerm": "white wine",
+        "normalizedName": "White Wine"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup chopped shallots",
+        "searchTerm": "shallots",
+        "normalizedName": "Shallot"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "serving spoon"
+      }
+    ],
+    "cookingTips": [
+      "Poach salmon gently at a simmer (not boiling) to keep flesh tender and moist",
+      "Whisk sauce ingredients until smooth and emulsified for creamy consistency",
+      "Fresh dill should be added just before serving to preserve its bright flavor"
+    ],
+    "coachingPrompt": "Guide the user through gentle poaching technique and sauce emulsification to create a restaurant-quality dish with tender salmon."
+  },
+  "timestamp": "2026-02-06T15:45:17.896Z"
+}

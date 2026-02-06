@@ -1,0 +1,53 @@
+{
+  "contentHash": "6effaeef499d8a72",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 tablespoon Dijon mustard",
+        "searchTerm": "dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "2 tablespoons white wine vinegar",
+        "searchTerm": "white wine vinegar",
+        "normalizedName": "White Wine Vinegar"
+      },
+      {
+        "ingredient": "1 teaspoon red hot sauce",
+        "searchTerm": "hot sauce",
+        "normalizedName": "Hot Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "serving bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cool hard-boiled eggs completely in ice bath for easier peeling",
+      "Process yolks until smooth to avoid lumps in the dip",
+      "Taste and adjust seasonings before serving—flavors deepen when dip sits"
+    ],
+    "coachingPrompt": "This transforms a classic appetizer into a convenient dip format. Would you like serving suggestions with different vegetables or crackers, or tips on achieving the perfect dip consistency?"
+  },
+  "timestamp": "2026-02-06T05:12:08.651Z"
+}

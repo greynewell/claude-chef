@@ -1,0 +1,48 @@
+{
+  "contentHash": "ef438a41db31fa18",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "20 tortilla chips",
+        "searchTerm": "tortilla chips",
+        "normalizedName": "Tortilla Chip"
+      },
+      {
+        "ingredient": "¼ pound smoked beef sausage",
+        "searchTerm": "smoked beef sausage",
+        "normalizedName": "Smoked Beef Sausage"
+      },
+      {
+        "ingredient": "½ cup Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "¼ cup barbeque sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cook and slice sausage into small rounds for even distribution across nachos",
+      "Layer chips, sausage, then cheese on baking sheet for proper melting",
+      "Broil briefly until cheese melts, then drizzle barbecue sauce just before serving"
+    ],
+    "coachingPrompt": "This is a quick appetizer or snack. Do you prefer serving hot nachos immediately after cooking, or do you need make-ahead options?"
+  },
+  "timestamp": "2026-02-05T23:37:23.226Z"
+}

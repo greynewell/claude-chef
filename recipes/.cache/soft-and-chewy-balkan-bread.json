@@ -1,0 +1,62 @@
+{
+  "contentHash": "af740825b1f31a96",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅔ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "⅓ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 ½ teaspoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 ½ teaspoons active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "2 cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "kitchen towel",
+        "searchTerm": "kitchen towel"
+      }
+    ],
+    "cookingTips": [
+      "Warm milk to 110°F before adding yeast to activate properly",
+      "Let dough rise until doubled, about 1 hour, for chewy texture"
+    ],
+    "coachingPrompt": "This bread is meant to be soft and chewy. How does the milk and oil contribute to that texture?"
+  },
+  "timestamp": "2026-02-06T18:30:28.896Z"
+}

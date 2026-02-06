@@ -1,0 +1,48 @@
+{
+  "contentHash": "a62aa61785db41d5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 red grapefruit, refrigerated",
+        "searchTerm": "red grapefruit",
+        "normalizedName": "Red Grapefruit"
+      },
+      {
+        "ingredient": "1 tablespoon softened butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Aluminum Foil",
+        "searchTerm": "aluminum foil"
+      },
+      {
+        "name": "Small Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Keep grapefruit refrigerated before cooking for easier handling and better texture",
+      "Mix butter, brown sugar, and cinnamon in advance for quick assembly",
+      "Broil at high temperature for 3-5 minutes until sugar caramelizes"
+    ],
+    "coachingPrompt": "Guide me through halving the grapefruit, topping with butter mixture, and air frying until caramelized."
+  },
+  "timestamp": "2026-02-05T21:40:54.284Z"
+}

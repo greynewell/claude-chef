@@ -1,0 +1,48 @@
+{
+  "contentHash": "9feb182771fdc765",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 tablespoon red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "½ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "¼ cup Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Toast red pepper flakes briefly to intensify heat flavor",
+      "Don't add all the flakes at once; build heat gradually",
+      "Cook chicken to 165°F internal temperature for safety"
+    ],
+    "coachingPrompt": "How can I control the heat level in this dish? Should I toast the pepper flakes first?"
+  },
+  "timestamp": "2026-02-06T09:20:56.004Z"
+}

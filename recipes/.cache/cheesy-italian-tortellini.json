@@ -1,0 +1,68 @@
+{
+  "contentHash": "6f39cc64970b40a8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "½ pound Italian sausage, casings removed",
+        "searchTerm": "italian sausage",
+        "normalizedName": "Italian Sausage"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar marinara sauce",
+        "searchTerm": "marinara sauce",
+        "normalizedName": "Marinara Sauce"
+      },
+      {
+        "ingredient": "1 (4.5 ounce) can sliced mushrooms",
+        "searchTerm": "sliced mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can Italian-style diced tomatoes, undrained",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 (9 ounce) package refrigerated or fresh cheese tortellini",
+        "searchTerm": "cheese tortellini",
+        "normalizedName": "Cheese Tortellini"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "½ cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "soup pot"
+      },
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown meat thoroughly and drain excess fat before adding sauce",
+      "Cook tortellini separately and add near the end to prevent mushiness",
+      "Stir in cheeses after removing from heat to prevent overcooking"
+    ],
+    "coachingPrompt": "Build a rich sauce base by browning both meats, then layer in canned ingredients. Keep tortellini separate until the end to maintain texture."
+  },
+  "timestamp": "2026-02-06T01:52:06.550Z"
+}

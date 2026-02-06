@@ -1,0 +1,53 @@
+{
+  "contentHash": "75d2bd94cbb18228",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "12 jalapeno peppers, halved lengthwise and seeded",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "2 ounces cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 ounces shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "¼ cup panko bread crumbs",
+        "searchTerm": "panko bread crumbs",
+        "normalizedName": "Panko Bread Crumb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "piping bag",
+        "searchTerm": "piping bag"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Seed and halve jalapenos carefully, removing the white membrane for less heat if desired",
+      "Mix cream cheese and Cheddar together, then pipe or spoon into pepper halves for even filling",
+      "Top with panko bread crumbs mixed with a small amount of oil for a golden, crispy finish"
+    ],
+    "coachingPrompt": "Show how to safely handle and seed jalapenos, explain cream cheese and Cheddar ratio for ideal texture, and timing for melting and crisping."
+  },
+  "timestamp": "2026-02-05T23:07:02.923Z"
+}

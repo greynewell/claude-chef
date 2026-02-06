@@ -7,7 +7,7 @@ const TEST_RECIPES_DIR = path.resolve(__dirname, '../.test-enrich-recipes');
 const CACHE_DIR = path.join(TEST_RECIPES_DIR, '.cache');
 
 const mockEnrichment: EnrichmentResult = {
-  ingredients: [{ ingredient: 'flour', searchTerm: 'all purpose flour' }],
+  ingredients: [{ ingredient: 'flour', searchTerm: 'all purpose flour', normalizedName: 'Flour' }],
   gear: [{ name: 'bowl', searchTerm: 'mixing bowl' }],
   cookingTips: ['Sift flour'],
   coachingPrompt: 'Step by step guide.',

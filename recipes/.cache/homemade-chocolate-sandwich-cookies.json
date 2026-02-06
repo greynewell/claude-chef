@@ -1,0 +1,43 @@
+{
+  "contentHash": "b9ac8ac0bbb10784",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (18.25 ounce) packages devil's food cake mix",
+        "searchTerm": "devil's food cake mix",
+        "normalizedName": "Devil's Food Cake Mix"
+      },
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup shortening",
+        "searchTerm": "shortening",
+        "normalizedName": "Shortening"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Electric Mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Combine all ingredients and mix until dough forms, about 1-2 minutes",
+      "Scoop dough onto baking sheets using consistent portions for uniform cooking",
+      "Allow cookies to cool completely on baking sheet before removing"
+    ],
+    "coachingPrompt": "Guide the user through quick cookie making using cake mix and explain the importance of proper mixing."
+  },
+  "timestamp": "2026-02-06T09:12:20.785Z"
+}

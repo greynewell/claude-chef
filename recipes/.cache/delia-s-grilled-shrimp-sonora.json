@@ -1,0 +1,63 @@
+{
+  "contentHash": "ae3a0fbc5ea5d7a1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ cup Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 bunch Italian flat leaf parsley, chopped",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pound jumbo shrimp in shells",
+        "searchTerm": "jumbo shrimp",
+        "normalizedName": "Shrimp"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "outdoor grill"
+      },
+      {
+        "name": "grill basket",
+        "searchTerm": "grill basket"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Whisk together butter, oil, and cheese to create compound butter baste",
+      "Brush shrimp generously with butter mixture before and during grilling",
+      "Grill over medium-high heat for 2-3 minutes per side until pink and cooked through"
+    ],
+    "coachingPrompt": "How should I prepare the butter mixture and how long should the shrimp grill?"
+  },
+  "timestamp": "2026-02-06T05:07:12.925Z"
+}

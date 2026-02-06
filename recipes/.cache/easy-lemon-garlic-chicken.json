@@ -1,0 +1,49 @@
+{
+  "contentHash": "778fc7b4557051c8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 (6 ounce) chicken breasts",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "½ cup chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "2 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken breasts to even thickness for consistent cooking",
+      "Don't overcook; chicken is done at 165°F internal temperature",
+      "Let chicken rest 5 minutes before serving for juicier meat"
+    ],
+    "coachingPrompt": "How comfortable are you with pan-searing chicken? Would you like tips on achieving golden skin?"
+  },
+  "timestamp": "2026-02-06T05:50:30.633Z"
+}

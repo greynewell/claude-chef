@@ -1,0 +1,68 @@
+{
+  "contentHash": "09f31989a25cd6e5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 tablespoon chopped chipotle chile in adobo sauce",
+        "searchTerm": "chipotle pepper in adobo",
+        "normalizedName": "Chipotle Pepper"
+      },
+      {
+        "ingredient": "2 teaspoons adobo sauce from chipotle peppers",
+        "searchTerm": "adobo sauce",
+        "normalizedName": "Adobo Sauce"
+      },
+      {
+        "ingredient": "4 (10 inch) whole wheat tortillas",
+        "searchTerm": "whole wheat tortillas",
+        "normalizedName": "Whole Wheat Tortilla"
+      },
+      {
+        "ingredient": "½ pound sliced smoked turkey",
+        "searchTerm": "smoked turkey slices",
+        "normalizedName": "Smoked Turkey"
+      },
+      {
+        "ingredient": "1 (8 ounce) package Shredded Monterey jack cheese",
+        "searchTerm": "monterey jack cheese",
+        "normalizedName": "Monterey Jack Cheese"
+      },
+      {
+        "ingredient": "1 avocado - peeled, pitted and sliced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "4 romaine lettuce leaves",
+        "searchTerm": "romaine lettuce",
+        "normalizedName": "Romaine Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Mix chipotle mayo ahead of time and refrigerate for flavors to meld",
+      "Slice avocado just before assembly to prevent browning",
+      "Warm tortillas briefly to make them more pliable for rolling"
+    ],
+    "coachingPrompt": "Guide the user on layering ingredients strategically in a wrap to keep it from falling apart, and tips for cutting wraps cleanly."
+  },
+  "timestamp": "2026-02-06T18:58:56.515Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "d10ce02eaea40705",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound frozen shrimp, thawed and peeled",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 teaspoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "¼ teaspoon pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pinch finely chopped parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Metal skewers",
+        "searchTerm": "metal skewers"
+      },
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      }
+    ],
+    "cookingTips": [
+      "Soak skewers in water for 30 minutes before grilling if using wooden skewers",
+      "Don't overcook shrimp; cook just until pink and opaque, about 2-3 minutes per side"
+    ],
+    "coachingPrompt": "Help the user properly thread shrimp onto skewers and suggest grilling temperature for perfectly cooked kabobs."
+  },
+  "timestamp": "2026-02-06T07:21:44.569Z"
+}

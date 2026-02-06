@@ -1,0 +1,48 @@
+{
+  "contentHash": "810ef8270e263f00",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 skin-on, bone-in chicken thighs",
+        "searchTerm": "chicken thighs",
+        "normalizedName": "Chicken Thigh"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 pinch garlic powder, or to taste",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Pat chicken dry before seasoning to maximize skin crispiness",
+      "Bake skin-side up at 425°F for 35-40 minutes",
+      "Internal temperature should reach 165°F at thickest part"
+    ],
+    "coachingPrompt": "Emphasize the importance of letting the chicken rest before serving to keep meat juicy and help achieve crispy skin."
+  },
+  "timestamp": "2026-02-06T04:37:42.867Z"
+}

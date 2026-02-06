@@ -1,0 +1,78 @@
+{
+  "contentHash": "67699ff7948e19f0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "short-grain white rice",
+        "searchTerm": "short grain white rice",
+        "normalizedName": "Short-Grain White Rice"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "rice vinegar",
+        "searchTerm": "rice vinegar",
+        "normalizedName": "Rice Vinegar"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "imitation crabmeat",
+        "searchTerm": "imitation crab",
+        "normalizedName": "Imitation Crabmeat"
+      },
+      {
+        "ingredient": "mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "nori",
+        "searchTerm": "nori seaweed",
+        "normalizedName": "Nori"
+      },
+      {
+        "ingredient": "sesame seeds",
+        "searchTerm": "sesame seeds",
+        "normalizedName": "Sesame Seed"
+      },
+      {
+        "ingredient": "cucumber",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "avocados",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Rice cooker",
+        "searchTerm": "rice cooker"
+      },
+      {
+        "name": "Sushi mat",
+        "searchTerm": "sushi mat"
+      },
+      {
+        "name": "Sharp knife",
+        "searchTerm": "sharp knife"
+      }
+    ],
+    "cookingTips": [
+      "Cool rice to room temperature before rolling; warm rice will tear the nori",
+      "Wet your hands with water when handling rice to prevent sticking",
+      "Keep a damp cloth nearby to wipe the knife between cuts for clean, even pieces"
+    ],
+    "coachingPrompt": "How do you roll sushi tightly without crushing the rice or tearing the nori?"
+  },
+  "timestamp": "2026-02-06T01:15:44.020Z"
+}

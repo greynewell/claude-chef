@@ -1,0 +1,48 @@
+{
+  "contentHash": "9e2643bead58f901",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds skirt steak, pounded flat",
+        "searchTerm": "skirt steak",
+        "normalizedName": "Skirt Steak"
+      },
+      {
+        "ingredient": "10 (.18 ounce) packets sazon seasoning with coriander and achiote, such as Goya®",
+        "searchTerm": "sazon seasoning",
+        "normalizedName": "Sazon Seasoning"
+      },
+      {
+        "ingredient": "1 tablespoon white pepper",
+        "searchTerm": "white pepper",
+        "normalizedName": "White Pepper"
+      },
+      {
+        "ingredient": "½ (12 fluid ounce) bottle Mexican beer (such as Corona®)",
+        "searchTerm": "Mexican beer",
+        "normalizedName": "Mexican Beer"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Meat mallet",
+        "searchTerm": "meat mallet"
+      },
+      {
+        "name": "Large shallow dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Grill or skillet",
+        "searchTerm": "grill"
+      }
+    ],
+    "cookingTips": [
+      "Pound the steak with a meat mallet to tenderize and create even thickness",
+      "White pepper is milder and more subtle than black pepper; use it generously for delicate flavor",
+      "Beer tenderizes the meat and adds subtle malty notes; don't skip it"
+    ],
+    "coachingPrompt": "How do I pound the steak evenly without tearing it, and how should I cook it to get a nice crust?"
+  },
+  "timestamp": "2026-02-05T22:21:43.077Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "7d6251ec7916a116",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 ounces blue cheese, crumbled",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (1 pound) loaf white bread, crusts trimmed",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "1 (10 ounce) package frozen cut asparagus",
+        "searchTerm": "frozen asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "½ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Rolling Pin",
+        "searchTerm": "rolling pin"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Shallow Bowl",
+        "searchTerm": "shallow bowl"
+      }
+    ],
+    "cookingTips": [
+      "Thaw frozen asparagus and pat dry to prevent soggy wraps",
+      "Flatten bread slices completely to allow for tight rolling",
+      "Mix cheeses thoroughly until evenly combined"
+    ],
+    "coachingPrompt": "Help the user understand the proper technique for flattening bread without tearing and rolling tightly to hold the filling."
+  },
+  "timestamp": "2026-02-05T22:32:34.575Z"
+}

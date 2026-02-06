@@ -1,0 +1,42 @@
+{
+  "contentHash": "ad1e0dbff5c5c993",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (7 pound) pork shoulder roast, trimmed and cut into chunks",
+        "searchTerm": "pork shoulder",
+        "normalizedName": "Pork Shoulder"
+      },
+      {
+        "ingredient": "3 (12 fluid ounce) cans or bottles root beer",
+        "searchTerm": "root beer",
+        "normalizedName": "Root Beer"
+      },
+      {
+        "ingredient": "1 (18 ounce) bottle barbeque sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker or Dutch oven",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "meat shredding forks",
+        "searchTerm": "forks"
+      },
+      {
+        "name": "large pot or skillet",
+        "searchTerm": "pot"
+      }
+    ],
+    "cookingTips": [
+      "Slow cook pork in root beer for 8-10 hours on low until extremely tender and easily shredded",
+      "Shred meat directly in cooking liquid, then drain and mix with barbecue sauce"
+    ],
+    "coachingPrompt": "Guide the cook on low-and-slow cooking methods that result in fall-apart-tender pulled pork."
+  },
+  "timestamp": "2026-02-06T17:47:31.398Z"
+}

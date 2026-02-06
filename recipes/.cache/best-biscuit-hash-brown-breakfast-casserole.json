@@ -1,0 +1,60 @@
+{
+  "contentHash": "5caa6a253f3dc4ad",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 teaspoon butter, or as needed",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (16 ounce) package bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 (16 ounce) can refrigerated biscuit dough",
+        "searchTerm": "refrigerated biscuit dough",
+        "normalizedName": "Refrigerated Biscuit Dough"
+      },
+      {
+        "ingredient": "8 frozen hash brown patties, or to taste",
+        "searchTerm": "frozen hash brown patties",
+        "normalizedName": "Frozen Hash Brown Patty"
+      },
+      {
+        "ingredient": "8 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¾ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 cups shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish"
+      },
+      {
+        "name": "oven"
+      },
+      {
+        "name": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, crumble, and reserve for even distribution",
+      "Arrange biscuits evenly across bottom and sides for structural integrity",
+      "Whisk eggs with milk before pouring to ensure even distribution throughout casserole"
+    ],
+    "coachingPrompt": "Help the user layer ingredients strategically for balanced flavors and textures in each serving"
+  },
+  "timestamp": "2026-02-05T23:54:28.046Z"
+}

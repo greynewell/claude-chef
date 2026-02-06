@@ -1,0 +1,42 @@
+{
+  "contentHash": "a9bfc80f51f65ebb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 frankfurters",
+        "searchTerm": "frankfurters",
+        "normalizedName": "Frankfurter"
+      },
+      {
+        "ingredient": "8 slices American processed cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      },
+      {
+        "ingredient": "1 (10 ounce) package refrigerated biscuit dough",
+        "searchTerm": "biscuit dough",
+        "normalizedName": "Biscuit Dough"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Wrap biscuit dough around cheese-wrapped frankfurters tightly to prevent opening during baking",
+      "Bake until golden brown for crispy exterior that contrasts with tender interior"
+    ],
+    "coachingPrompt": "What's the best way to wrap biscuit dough around the frankfurters to ensure even cooking and attractive appearance?"
+  },
+  "timestamp": "2026-02-06T14:46:17.301Z"
+}

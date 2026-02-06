@@ -1,0 +1,52 @@
+{
+  "contentHash": "f95fe29139595197",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "venison backstrap",
+        "searchTerm": "venison backstrap",
+        "normalizedName": "Venison Backstrap"
+      },
+      {
+        "ingredient": "apple cider",
+        "searchTerm": "apple cider",
+        "normalizedName": "Apple Cider"
+      },
+      {
+        "ingredient": "bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "barbecue sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "basting brush",
+        "searchTerm": "basting brush"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "grill tongs"
+      }
+    ],
+    "cookingTips": [
+      "Marinate venison in apple cider for at least 4 hours to tenderize and add flavor",
+      "Wrap chunks with bacon to add fat and flavor to lean game meat",
+      "Use meat thermometer to avoid overcooking - venison is best at medium-rare (130-135°F)"
+    ],
+    "coachingPrompt": "How does apple cider marinade address the challenges of cooking lean game meat?"
+  },
+  "timestamp": "2026-02-06T08:31:06.341Z"
+}

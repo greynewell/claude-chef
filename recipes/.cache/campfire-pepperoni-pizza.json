@@ -1,0 +1,48 @@
+{
+  "contentHash": "9603715ea6239d4b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound refrigerated pizza dough",
+        "searchTerm": "pizza dough",
+        "normalizedName": "Pizza Dough"
+      },
+      {
+        "ingredient": "¼ cup pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "½ cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "½ cup sliced pepperoni",
+        "searchTerm": "pepperoni",
+        "normalizedName": "Pepperoni"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cast iron skillet or pizza pan",
+        "searchTerm": "cast iron skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Campfire grate",
+        "searchTerm": "grate"
+      }
+    ],
+    "cookingTips": [
+      "Let pizza dough come to room temperature before pressing into skillet; cold dough resists stretching",
+      "Precook crust over fire for 2-3 minutes before adding toppings to prevent soggy bottom",
+      "Keep toppings minimal so cheese melts before crust burns; too much weight presses down crust"
+    ],
+    "coachingPrompt": "What's the best technique for cooking pizza in a cast iron skillet over a campfire without burning the bottom?"
+  },
+  "timestamp": "2026-02-06T01:16:48.921Z"
+}

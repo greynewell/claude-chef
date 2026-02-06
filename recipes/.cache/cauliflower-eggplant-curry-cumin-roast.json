@@ -1,0 +1,63 @@
+{
+  "contentHash": "b41376841cf241e6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 eggplant, peeled and sliced",
+        "searchTerm": "eggplant",
+        "normalizedName": "Eggplant"
+      },
+      {
+        "ingredient": "1 small head cauliflower, chopped",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon curry powder",
+        "searchTerm": "curry powder",
+        "normalizedName": "Curry Powder"
+      },
+      {
+        "ingredient": "1 teaspoon ground cumin",
+        "searchTerm": "ground cumin",
+        "normalizedName": "Ground Cumin"
+      },
+      {
+        "ingredient": "½ teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "6 fresh basil leaves, sliced",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Salt eggplant slices and let sit for 15 minutes before cooking to reduce moisture",
+      "Toss vegetables in oil and spices evenly to ensure consistent seasoning",
+      "Roast at high temperature until vegetables are caramelized and tender"
+    ],
+    "coachingPrompt": "What temperature and time would you use to roast these vegetables until they are caramelized?"
+  },
+  "timestamp": "2026-02-06T01:36:35.340Z"
+}

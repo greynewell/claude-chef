@@ -1,0 +1,48 @@
+{
+  "contentHash": "a79a26cfa670e14d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "½ cup light corn syrup",
+        "searchTerm": "corn syrup",
+        "normalizedName": "Corn Syrup"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 cups cornflakes cereal",
+        "searchTerm": "cornflakes cereal",
+        "normalizedName": "Cornflakes Cereal"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Heat peanut butter and syrup together gently to avoid burning",
+      "Fold cereal in carefully to keep pieces intact",
+      "Drop onto parchment paper with a spoon for rustic appearance"
+    ],
+    "coachingPrompt": "These are no-bake candies. How do I combine the hot ingredients with cereal without crushing it?"
+  },
+  "timestamp": "2026-02-06T14:24:01.081Z"
+}

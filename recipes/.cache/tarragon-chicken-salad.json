@@ -1,0 +1,73 @@
+{
+  "contentHash": "08b0ae8ab356c481",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups cubed, cooked chicken meat",
+        "searchTerm": "cooked chicken",
+        "normalizedName": "Cooked Chicken"
+      },
+      {
+        "ingredient": "1 ½ cups chopped celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "¼ cup chopped fresh chives",
+        "searchTerm": "fresh chives",
+        "normalizedName": "Fresh Chive"
+      },
+      {
+        "ingredient": "½ cup plain low-fat yogurt",
+        "searchTerm": "plain yogurt",
+        "normalizedName": "Plain Yogurt"
+      },
+      {
+        "ingredient": "¼ cup reduced fat sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 ½ teaspoons dried tarragon",
+        "searchTerm": "dried tarragon",
+        "normalizedName": "Dried Tarragon"
+      },
+      {
+        "ingredient": "2 tablespoons blanched slivered almonds",
+        "searchTerm": "slivered almonds",
+        "normalizedName": "Slivered Almond"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Use yogurt and sour cream instead of mayo for lighter, tangier salad",
+      "Dry roast almonds lightly before adding for enhanced nutty flavor",
+      "Mix gently to keep chicken chunks intact rather than shredding"
+    ],
+    "coachingPrompt": "This lighter version uses Greek yogurt for creaminess. Guide the cook to balance herbs and dairy without heaviness."
+  },
+  "timestamp": "2026-02-06T20:19:39.559Z"
+}

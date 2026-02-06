@@ -1,0 +1,48 @@
+{
+  "contentHash": "0e1f9fd9aa96f337",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound coarsely ground coffee beans",
+        "searchTerm": "ground coffee",
+        "normalizedName": "Ground Coffee"
+      },
+      {
+        "ingredient": "4 ½ cups cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "cheesecloth",
+        "searchTerm": "cheesecloth",
+        "normalizedName": "Cheesecloth"
+      },
+      {
+        "ingredient": "coffee filters",
+        "searchTerm": "coffee filters",
+        "normalizedName": "Coffee Filter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Jar",
+        "searchTerm": "mason jar"
+      },
+      {
+        "name": "Cheesecloth",
+        "searchTerm": "cheesecloth"
+      },
+      {
+        "name": "Strainer",
+        "searchTerm": "fine mesh strainer"
+      }
+    ],
+    "cookingTips": [
+      "Use a coarse grind specifically for cold brew to prevent over-extraction and bitterness",
+      "Steep for 12-24 hours at room temperature or in the refrigerator for smoothest flavor",
+      "Store concentrate in the refrigerator for up to 2 weeks for convenience"
+    ],
+    "coachingPrompt": "Explain the cold brew process and how steeping removes acidity and bitterness compared to hot brewing methods."
+  },
+  "timestamp": "2026-02-06T03:43:38.259Z"
+}

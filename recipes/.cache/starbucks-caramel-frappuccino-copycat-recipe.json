@@ -1,0 +1,49 @@
+{
+  "contentHash": "4bbee8e2b5ed73db",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups ice",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      },
+      {
+        "ingredient": "1 cup strong brewed coffee, cooled",
+        "searchTerm": "brewed coffee",
+        "normalizedName": "Brewed Coffee"
+      },
+      {
+        "ingredient": "1 cup low-fat milk",
+        "searchTerm": "low-fat milk",
+        "normalizedName": "Low-Fat Milk"
+      },
+      {
+        "ingredient": "⅓ cup caramel sauce",
+        "searchTerm": "caramel sauce",
+        "normalizedName": "Caramel Sauce"
+      },
+      {
+        "ingredient": "3 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Glass",
+        "searchTerm": "glass"
+      }
+    ],
+    "cookingTips": [
+      "Cool the brewed coffee completely before blending to avoid melting ice too quickly",
+      "Use crushed ice for smoother blending than cubed ice",
+      "Blend on high speed for 30-45 seconds until completely smooth and slushy"
+    ],
+    "coachingPrompt": "This homemade frappuccino replicates a popular coffee shop drink. Chill the coffee and blend thoroughly for the right texture."
+  },
+  "timestamp": "2026-02-06T19:23:08.789Z"
+}

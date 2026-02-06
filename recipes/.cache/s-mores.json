@@ -1,0 +1,39 @@
+{
+  "contentHash": "acf933e70e461435",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 large marshmallow",
+        "searchTerm": "marshmallow",
+        "normalizedName": "Marshmallow"
+      },
+      {
+        "ingredient": "1 graham cracker",
+        "searchTerm": "graham cracker",
+        "normalizedName": "Graham Cracker"
+      },
+      {
+        "ingredient": "1 (1.5 ounce) bar chocolate candy bar",
+        "searchTerm": "chocolate bar",
+        "normalizedName": "Chocolate Bar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "campfire",
+        "searchTerm": "campfire"
+      },
+      {
+        "name": "roasting stick",
+        "searchTerm": "roasting stick"
+      }
+    ],
+    "cookingTips": [
+      "Toast marshmallow slowly over medium heat for golden exterior and creamy interior",
+      "Warm chocolate slightly on graham cracker before sandwiching for better melting",
+      "Work quickly once cooked to prevent marshmallow from hardening"
+    ],
+    "coachingPrompt": "How can I achieve the perfect golden marshmallow without burning it?"
+  },
+  "timestamp": "2026-02-06T16:41:06.397Z"
+}

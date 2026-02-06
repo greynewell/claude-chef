@@ -1,0 +1,53 @@
+{
+  "contentHash": "fb53105f2f55c282",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons softened butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 slices whole wheat bread",
+        "searchTerm": "whole wheat bread",
+        "normalizedName": "Whole Wheat Bread"
+      },
+      {
+        "ingredient": "2 slices sharp Cheddar cheese",
+        "searchTerm": "sharp cheddar cheese",
+        "normalizedName": "Sharp Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 dill pickle, sliced",
+        "searchTerm": "dill pickle",
+        "normalizedName": "Dill Pickle"
+      },
+      {
+        "ingredient": "2 thin slices Vidalia or other sweet onion",
+        "searchTerm": "vidalia onion",
+        "normalizedName": "Vidalia Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Slice pickles and onions thinly for better melting and flavor integration",
+      "The acidity of pickles complements sharp Cheddar perfectly",
+      "Use medium heat to allow cheese to melt while whole wheat bread toasts evenly"
+    ],
+    "coachingPrompt": "Explain how the tangy-salty pickle and sweet onion balance each other with sharp Cheddar, and guide on proper heat management for whole wheat bread."
+  },
+  "timestamp": "2026-02-06T08:12:09.121Z"
+}

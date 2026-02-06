@@ -1,0 +1,58 @@
+{
+  "contentHash": "4fec69734a31ed4d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (15 ounce) cans cut green beans, drained",
+        "searchTerm": "canned green beans",
+        "normalizedName": "Canned Green Bean"
+      },
+      {
+        "ingredient": "¾ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 (2.8 ounce) can French fried onions",
+        "searchTerm": "French fried onions",
+        "normalizedName": "French Fried Onion"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Reserve some crispy onions to add after baking so they stay crunchy",
+      "Mix soup and milk until smooth to avoid lumps",
+      "Bake at 350°F for about 25-30 minutes until bubbly"
+    ],
+    "coachingPrompt": "This classic casserole relies on the textural contrast of crispy onions. How will you preserve their crunch while ensuring the green beans heat through completely?"
+  },
+  "timestamp": "2026-02-06T08:05:31.756Z"
+}

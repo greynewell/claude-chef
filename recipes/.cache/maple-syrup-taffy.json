@@ -1,0 +1,42 @@
+{
+  "contentHash": "76651949655355f1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups real maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "1 gallon clean fresh snow",
+        "searchTerm": "snow",
+        "normalizedName": "Snow"
+      },
+      {
+        "ingredient": "15 wooden pop sticks",
+        "searchTerm": "wooden sticks",
+        "normalizedName": "Wooden Stick"
+      }
+    ],
+    "gear": [
+      {
+        "name": "candy thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "stove"
+      }
+    ],
+    "cookingTips": [
+      "Heat maple syrup to exactly 237°F (soft-ball stage) for proper taffy consistency",
+      "Use fresh, clean snow to prevent contamination and ensure food safety",
+      "Pour hot syrup in thin lines on snow and roll onto sticks while still warm"
+    ],
+    "coachingPrompt": "Guide the user on reaching the proper temperature and handling hot syrup safely."
+  },
+  "timestamp": "2026-02-06T11:55:22.811Z"
+}

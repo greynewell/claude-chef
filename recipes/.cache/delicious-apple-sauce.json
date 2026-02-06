@@ -1,0 +1,48 @@
+{
+  "contentHash": "a678de95283bf65f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 apples - peeled, cored and shredded",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "blender or food mill",
+        "searchTerm": "blender"
+      }
+    ],
+    "cookingTips": [
+      "Combine all ingredients in saucepan and bring to simmer over medium heat",
+      "Cook for 10-15 minutes, stirring occasionally, until apples break down completely",
+      "Puree with immersion blender or pass through food mill for smooth consistency, or leave chunky"
+    ],
+    "coachingPrompt": "How long should the apples simmer and do you want smooth or chunky applesauce?"
+  },
+  "timestamp": "2026-02-06T05:07:12.926Z"
+}

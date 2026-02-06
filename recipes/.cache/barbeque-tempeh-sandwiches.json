@@ -1,0 +1,63 @@
+{
+  "contentHash": "5a39f922bd8afe8d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup barbecue sauce, your choice",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "1 (8 ounce) package tempeh, crumbled",
+        "searchTerm": "tempeh",
+        "normalizedName": "Tempeh"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 red bell pepper, seeded and chopped",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 green bell pepper, seeded and chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 medium onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "4 kaiser rolls, split and toasted",
+        "searchTerm": "kaiser rolls",
+        "normalizedName": "Kaiser Roll"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      }
+    ],
+    "cookingTips": [
+      "Crumble tempeh into bite-sized pieces to maximize surface area for browning",
+      "Cook tempeh mixture until slightly crispy before adding barbecue sauce for best texture",
+      "Toast rolls lightly to prevent them from becoming soggy from filling"
+    ],
+    "coachingPrompt": "Tempeh is a fermented soy product with a nutty flavor. How would this complement different barbecue sauce styles?"
+  },
+  "timestamp": "2026-02-05T23:30:41.324Z"
+}

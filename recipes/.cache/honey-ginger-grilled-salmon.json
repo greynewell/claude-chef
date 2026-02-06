@@ -1,0 +1,63 @@
+{
+  "contentHash": "767d73f198f5e8db",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 teaspoon ground ginger",
+        "searchTerm": "ginger",
+        "normalizedName": "Ginger"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "⅓ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "⅓ cup orange juice",
+        "searchTerm": "orange juice",
+        "normalizedName": "Orange Juice"
+      },
+      {
+        "ingredient": "¼ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 green onion, chopped",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 (1 1/2-pound) salmon fillet",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Fish spatula",
+        "searchTerm": "fish spatula"
+      },
+      {
+        "name": "Small bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Whisk glaze ingredients together before applying to salmon",
+      "Oil grill grates well to prevent sticking",
+      "Cook salmon skin-side down for 70% of cooking time"
+    ],
+    "coachingPrompt": "What's the benefit of grilling salmon versus baking it for this honey-ginger preparation?"
+  },
+  "timestamp": "2026-02-06T09:21:45.101Z"
+}

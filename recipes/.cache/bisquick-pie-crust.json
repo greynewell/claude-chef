@@ -1,0 +1,42 @@
+{
+  "contentHash": "6a368e09092332a6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup baking mix (such as Bisquick®)",
+        "searchTerm": "baking mix",
+        "normalizedName": "Baking Mix"
+      },
+      {
+        "ingredient": "¼ cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons boiling water, or more as needed",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pie pan",
+        "searchTerm": "pie pan"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Mix dough until it just comes together without overmixing",
+      "Press dough gently into pie pan without stretching"
+    ],
+    "coachingPrompt": "This is a minimal-ingredient pie crust using Bisquick. Guide on achieving proper consistency with boiling water and handling dough gently."
+  },
+  "timestamp": "2026-02-06T00:09:43.512Z"
+}

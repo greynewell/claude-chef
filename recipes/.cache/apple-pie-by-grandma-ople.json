@@ -1,0 +1,58 @@
+{
+  "contentHash": "cd61303c9d9e1c32",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 recipe pastry for a 9 inch double crust pie",
+        "searchTerm": "pie dough",
+        "normalizedName": "Pie Dough"
+      },
+      {
+        "ingredient": "½ cup unsalted butter",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      },
+      {
+        "ingredient": "3 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "8 Granny Smith apples - peeled, cored and sliced",
+        "searchTerm": "Granny Smith apples",
+        "normalizedName": "Granny Smith Apple"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pie dish",
+        "searchTerm": "pie dish"
+      },
+      {
+        "name": "rolling pin",
+        "searchTerm": "rolling pin"
+      }
+    ],
+    "cookingTips": [
+      "Granny Smith apples provide tartness to balance sweetness and hold shape during baking",
+      "Create a butter roux with flour for smooth sauce; avoid lumps by whisking constantly"
+    ],
+    "coachingPrompt": "Why does this recipe use both white and brown sugar rather than just one type?"
+  },
+  "timestamp": "2026-02-05T22:14:36.330Z"
+}

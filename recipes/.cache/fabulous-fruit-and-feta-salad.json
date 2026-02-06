@@ -1,0 +1,63 @@
+{
+  "contentHash": "171105708961fb03",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "mixed salad greens",
+        "searchTerm": "mixed greens",
+        "normalizedName": "Mixed Salad Green"
+      },
+      {
+        "ingredient": "mandarin oranges",
+        "searchTerm": "mandarin oranges",
+        "normalizedName": "Mandarin Orange"
+      },
+      {
+        "ingredient": "walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "red onion",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "raspberry vinaigrette dressing",
+        "searchTerm": "raspberry vinaigrette",
+        "normalizedName": "Raspberry Vinaigrette"
+      },
+      {
+        "ingredient": "black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Salad Bowl",
+        "searchTerm": "salad bowl"
+      },
+      {
+        "name": "Salad Spinner",
+        "searchTerm": "salad spinner"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "salad tongs"
+      }
+    ],
+    "cookingTips": [
+      "Dry greens thoroughly with a salad spinner to prevent dressing from becoming diluted",
+      "Toast walnuts lightly in a dry skillet to enhance their flavor and crunch",
+      "Assemble salad just before serving and dress at the last moment for maximum freshness"
+    ],
+    "coachingPrompt": "Would you like to make your own vinaigrette, or are you happy using a store-bought dressing?"
+  },
+  "timestamp": "2026-02-06T06:26:26.179Z"
+}

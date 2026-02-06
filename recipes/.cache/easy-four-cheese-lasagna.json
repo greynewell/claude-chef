@@ -1,0 +1,58 @@
+{
+  "contentHash": "26721dd630f83555",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "16 ounces uncooked lasagna noodles",
+        "searchTerm": "lasagna noodles",
+        "normalizedName": "Lasagna Noodle"
+      },
+      {
+        "ingredient": "1 (26 ounce) can spaghetti sauce",
+        "searchTerm": "spaghetti sauce",
+        "normalizedName": "Spaghetti Sauce"
+      },
+      {
+        "ingredient": "1 pound cottage cheese",
+        "searchTerm": "cottage cheese",
+        "normalizedName": "Cottage Cheese"
+      },
+      {
+        "ingredient": "8 ounces shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "8 ounces shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Cook noodles al dente to prevent mushiness when baked",
+      "Layer ingredients strategically: sauce, noodles, cheese mixture in repeating layers",
+      "Let lasagna rest 15 minutes after baking before cutting for cleaner, easier portions"
+    ],
+    "coachingPrompt": "How can I build maximum cheese flavor and texture in this four-cheese lasagna?"
+  },
+  "timestamp": "2026-02-06T05:44:19.736Z"
+}

@@ -1,0 +1,47 @@
+{
+  "contentHash": "ea2d74b73c382c18",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 hot dogs",
+        "searchTerm": "hot dogs",
+        "normalizedName": "Hot Dog"
+      },
+      {
+        "ingredient": "8 pinches celery salt",
+        "searchTerm": "celery salt",
+        "normalizedName": "Celery Salt"
+      },
+      {
+        "ingredient": "8 slices processed American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      },
+      {
+        "ingredient": "1 (12 ounce) bottle barbeque sauce",
+        "searchTerm": "barbeque sauce",
+        "normalizedName": "Barbeque Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Toothpicks",
+        "searchTerm": "toothpicks"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Roll hot dog in cheese before cooking to prevent melting too quickly",
+      "Use toothpicks to hold cheese in place during cooking"
+    ],
+    "coachingPrompt": "Guide the cook through assembling and securing cheese wraps. Suggest plating and sauce application techniques."
+  },
+  "timestamp": "2026-02-06T06:29:22.513Z"
+}

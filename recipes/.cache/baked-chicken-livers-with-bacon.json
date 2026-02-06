@@ -1,0 +1,52 @@
+{
+  "contentHash": "5b170bd3acaed919",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound chicken livers, rinsed and trimmed",
+        "searchTerm": "chicken livers",
+        "normalizedName": "Chicken Liver"
+      },
+      {
+        "ingredient": "1 cup prepared yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      },
+      {
+        "ingredient": "1 (4 ounce) can chopped black olives, drained",
+        "searchTerm": "black olives",
+        "normalizedName": "Black Olive"
+      },
+      {
+        "ingredient": "1 pound bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "toothpicks",
+        "searchTerm": "toothpicks",
+        "normalizedName": "Toothpick"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Rinse chicken livers thoroughly and pat dry before coating with mustard",
+      "Wrap bacon around each liver and olive to keep them together during baking"
+    ],
+    "coachingPrompt": "What's the best way to ensure bacon crisps while keeping the chicken livers moist?"
+  },
+  "timestamp": "2026-02-05T23:01:02.497Z"
+}

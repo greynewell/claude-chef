@@ -1,0 +1,43 @@
+{
+  "contentHash": "78ae631d324d26df",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 bunch kale",
+        "searchTerm": "kale",
+        "normalizedName": "Kale"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Wash and thoroughly dry kale; excess moisture prevents crisping",
+      "Remove thick stems and tear into chip-sized pieces for uniform cooking",
+      "Toss lightly with oil (less is more) to avoid greasy chips; spread in single layer for even crisping"
+    ],
+    "coachingPrompt": "Explain why drying kale is critical, teach proper tearing technique, and show how minimal oil creates maximum crispiness."
+  },
+  "timestamp": "2026-02-05T23:07:02.923Z"
+}

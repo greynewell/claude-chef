@@ -1,0 +1,42 @@
+{
+  "contentHash": "11f498c703382512",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound sliced bacon, cut in half",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 pound pitted dates",
+        "searchTerm": "pitted dates",
+        "normalizedName": "Date"
+      },
+      {
+        "ingredient": "4 ounces blue cheese",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "toothpicks",
+        "searchTerm": "toothpicks"
+      }
+    ],
+    "cookingTips": [
+      "Stuff dates generously with blue cheese before wrapping in bacon",
+      "Arrange on parchment paper with seam-side down to prevent unraveling"
+    ],
+    "coachingPrompt": "How much blue cheese should you use to balance the salty bacon and sweet dates?"
+  },
+  "timestamp": "2026-02-05T22:53:49.046Z"
+}

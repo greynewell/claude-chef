@@ -1,0 +1,62 @@
+{
+  "contentHash": "0388c3a293582200",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "1 medium jalapeno",
+        "searchTerm": "jalapeno",
+        "normalizedName": "Jalapeno"
+      },
+      {
+        "ingredient": "1 clove garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon rice wine vinegar",
+        "searchTerm": "rice wine vinegar",
+        "normalizedName": "Rice Wine Vinegar"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅛ teaspoon black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 (6 ounce) fillets salmon fillets",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Slice the jalapeno thinly for even heat distribution in the glaze",
+      "Don't overcook salmon; target 12-15 minutes at 400°F for moist flesh"
+    ],
+    "coachingPrompt": "Guide the user to brush the maple-jalapeno glaze evenly on salmon and monitor internal temperature to prevent drying out."
+  },
+  "timestamp": "2026-02-06T06:41:36.106Z"
+}

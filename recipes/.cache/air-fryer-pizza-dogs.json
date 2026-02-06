@@ -1,0 +1,58 @@
+{
+  "contentHash": "7a2b604aadf72665",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 hot dogs",
+        "searchTerm": "hot dogs frankfurters",
+        "normalizedName": "Hot Dog"
+      },
+      {
+        "ingredient": "4 slices pepperoni, halved",
+        "searchTerm": "pepperoni slices",
+        "normalizedName": "Pepperoni"
+      },
+      {
+        "ingredient": "½ cup pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "2 hot dog buns",
+        "searchTerm": "hot dog buns",
+        "normalizedName": "Hot Dog Bun"
+      },
+      {
+        "ingredient": "¼ cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese shredded",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "2 teaspoons sliced olives",
+        "searchTerm": "black olives sliced",
+        "normalizedName": "Black Olive"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Small bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Assemble hot dogs with sauce and toppings just before cooking",
+      "Don't overfill - cheese and sauce will bubble during cooking",
+      "Watch for cheese to melt and brown for best results"
+    ],
+    "coachingPrompt": "Guide me through assembling and cooking pizza dogs in the air fryer with proper topping placement and cooking time."
+  },
+  "timestamp": "2026-02-05T21:45:23.208Z"
+}

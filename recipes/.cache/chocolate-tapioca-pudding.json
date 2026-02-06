@@ -1,0 +1,63 @@
+{
+  "contentHash": "d1767534cf7e0067",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "3 tablespoons quick-cooking tapioca",
+        "searchTerm": "tapioca",
+        "normalizedName": "Tapioca"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup chopped chocolate",
+        "searchTerm": "chocolate",
+        "normalizedName": "Chocolate"
+      },
+      {
+        "ingredient": "3 tablespoons unsweetened cocoa powder  (Optional)",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "serving bowls",
+        "searchTerm": "serving bowls"
+      }
+    ],
+    "cookingTips": [
+      "Soak tapioca pearls for 5 minutes before cooking to reduce cooking time",
+      "Temper the egg by slowly adding hot milk mixture while whisking",
+      "Chill pudding for at least 2 hours before serving"
+    ],
+    "coachingPrompt": "Emphasize the importance of proper egg tempering to prevent scrambling and achieve silky texture."
+  },
+  "timestamp": "2026-02-06T03:13:30.662Z"
+}

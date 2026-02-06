@@ -1,0 +1,53 @@
+{
+  "contentHash": "1eb4980907b5e39d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅓ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "6 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "4 chipotle peppers in adobo sauce",
+        "searchTerm": "chipotle peppers",
+        "normalizedName": "Chipotle Pepper"
+      },
+      {
+        "ingredient": "6 skinless, boneless chicken breasts",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "2 (15 ounce) cans black beans, drained and rinsed",
+        "searchTerm": "canned black beans",
+        "normalizedName": "Black Bean"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Blend chipotle peppers and honey until smooth for even distribution of heat",
+      "Cook on low for 6-8 hours for tender, fall-apart chicken",
+      "Adjust heat level by removing seeds from chipotle peppers before blending"
+    ],
+    "coachingPrompt": "How can I control the spice level in this dish? What side dishes pair well with this smoky-sweet chicken?"
+  },
+  "timestamp": "2026-02-06T09:20:56.000Z"
+}

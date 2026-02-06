@@ -1,0 +1,49 @@
+{
+  "contentHash": "ac31e1c20ef2cfcc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10 ounce) bag mixed salad greens",
+        "searchTerm": "mixed salad greens",
+        "normalizedName": "Mixed Salad Green"
+      },
+      {
+        "ingredient": "2 tablespoons shredded Mexican four-cheese blend",
+        "searchTerm": "Mexican cheese blend",
+        "normalizedName": "Mexican Cheese Blend"
+      },
+      {
+        "ingredient": "½ cup red seedless grapes",
+        "searchTerm": "red seedless grapes",
+        "normalizedName": "Red Seedless Grape"
+      },
+      {
+        "ingredient": "1 avocado, pitted, peeled and sliced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "¼ cup blue cheese salad dressing",
+        "searchTerm": "blue cheese dressing",
+        "normalizedName": "Blue Cheese Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "salad bowl",
+        "searchTerm": "salad bowl"
+      }
+    ],
+    "cookingTips": [
+      "Slice avocado just before serving to prevent browning, or toss with lemon juice",
+      "Add dressing right before serving to prevent wilting the delicate greens",
+      "Halve the grapes for easier eating if desired"
+    ],
+    "coachingPrompt": "What technique prevents avocado from browning after slicing?"
+  },
+  "timestamp": "2026-02-06T00:18:58.190Z"
+}

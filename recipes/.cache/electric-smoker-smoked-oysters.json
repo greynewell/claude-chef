@@ -1,0 +1,43 @@
+{
+  "contentHash": "55ef504d787bcfe6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 each fresh oysters in shells, rinsed and scrubbed clean",
+        "searchTerm": "fresh oysters",
+        "normalizedName": "Oyster"
+      },
+      {
+        "ingredient": "2 pinches salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 tablespoons Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Electric Smoker",
+        "searchTerm": "electric smoker"
+      },
+      {
+        "name": "Oyster Knife",
+        "searchTerm": "oyster knife"
+      },
+      {
+        "name": "Grate",
+        "searchTerm": "smoking grate"
+      }
+    ],
+    "cookingTips": [
+      "Scrub oyster shells thoroughly under cold water before smoking to remove sand and debris",
+      "Smoke at 225°F for 30-45 minutes until oysters open slightly",
+      "Use mild wood chips like apple or cherry to avoid overpowering delicate oyster flavor"
+    ],
+    "coachingPrompt": "What smoking temperature and duration would you recommend for opening oysters while preserving their briny flavor?"
+  },
+  "timestamp": "2026-02-06T06:16:27.940Z"
+}

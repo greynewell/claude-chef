@@ -1,0 +1,63 @@
+{
+  "contentHash": "5746e2c1c302eb5d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 teaspoon mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "1 slice jalapeno Jack cheese",
+        "searchTerm": "jalapeno Jack cheese",
+        "normalizedName": "Jalapeno Jack Cheese"
+      },
+      {
+        "ingredient": "1 roma tomato, thinly sliced",
+        "searchTerm": "roma tomato",
+        "normalizedName": "Roma Tomato"
+      },
+      {
+        "ingredient": "1 slice mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "4 leaves fresh basil, chiffonade",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      },
+      {
+        "ingredient": "1 slice Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Use a light hand with mayonnaise so the sandwich doesn't become greasy",
+      "Cook on medium heat to allow the cheese to melt completely",
+      "Slice the tomato thinly to prevent the bread from becoming soggy"
+    ],
+    "coachingPrompt": "Guide the user through building and cooking a gourmet grilled cheese and explain the technique for cutting basil chiffonade."
+  },
+  "timestamp": "2026-02-06T20:45:51.172Z"
+}

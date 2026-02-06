@@ -1,0 +1,47 @@
+{
+  "contentHash": "6f53a52a33857e13",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 cups dry milk powder",
+        "searchTerm": "powdered milk",
+        "normalizedName": "Powdered Milk"
+      },
+      {
+        "ingredient": "4 ¾ cups sifted confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "1 ¾ cups unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Unsweetened Cocoa Powder"
+      },
+      {
+        "ingredient": "1 ¾ cups powdered non-dairy creamer",
+        "searchTerm": "non-dairy creamer",
+        "normalizedName": "Powdered Non-Dairy Creamer"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Sifter",
+        "searchTerm": "flour sifter"
+      },
+      {
+        "name": "Storage container",
+        "searchTerm": "airtight container"
+      }
+    ],
+    "cookingTips": [
+      "Sift cocoa powder multiple times to remove clumps",
+      "Store in airtight container in cool, dry place for up to 3 months"
+    ],
+    "coachingPrompt": "What measurements of milk and water should I use when preparing a cup of hot cocoa from this mix?"
+  },
+  "timestamp": "2026-02-06T09:29:09.839Z"
+}

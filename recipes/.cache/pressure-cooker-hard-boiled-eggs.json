@@ -1,0 +1,48 @@
+{
+  "contentHash": "afeb19aaf26304df",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups water, or as needed",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "8 fresh eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "4 cups cold water",
+        "searchTerm": "cold water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "4 cups ice cubes",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pressure Cooker",
+        "searchTerm": "pressure cooker"
+      },
+      {
+        "name": "Trivet Rack",
+        "searchTerm": "trivet rack"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Older eggs peel more easily than very fresh eggs",
+      "Immediate ice bath stops cooking and prevents gray ring around yolks",
+      "Use the trivet rack to elevate eggs above water"
+    ],
+    "coachingPrompt": "Show the user why pressure cooking eggs produces perfectly cooked results every time and how the ice bath is crucial for ideal texture."
+  },
+  "timestamp": "2026-02-06T15:18:53.458Z"
+}

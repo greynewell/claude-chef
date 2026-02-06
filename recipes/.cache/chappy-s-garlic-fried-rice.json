@@ -1,0 +1,63 @@
+{
+  "contentHash": "d744393d5830e251",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup uncooked white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "1 teaspoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 small onion, minced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 large clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon diced chile pepper",
+        "searchTerm": "chile pepper",
+        "normalizedName": "Chile Pepper"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 tablespoon sesame oil (Optional)",
+        "searchTerm": "sesame oil",
+        "normalizedName": "Sesame Oil"
+      }
+    ],
+    "gear": [
+      "Rice cooker or pot",
+      "Wok",
+      "Wooden spoon"
+    ],
+    "cookingTips": [
+      "Use day-old or cooled rice that's been refrigerated to prevent mushiness",
+      "Cook egg separately, then add to rice at the end for distinct egg pieces"
+    ],
+    "coachingPrompt": "Explain why day-old rice works better than fresh-cooked rice for fried rice and the technique for getting each grain separate."
+  },
+  "timestamp": "2026-02-06T01:40:30.866Z"
+}

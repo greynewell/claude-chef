@@ -1,0 +1,68 @@
+{
+  "contentHash": "34288495a2351d9e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 large eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "3 (6 inch) corn tortillas, coarsely chopped",
+        "searchTerm": "corn tortilla",
+        "normalizedName": "Corn Tortilla"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon chopped green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "½ cup diced cooked ham",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Whisk eggs with milk before cooking for fluffier texture",
+      "Soften tortilla pieces in butter first before adding egg mixture",
+      "Add ham and green onion for savory depth and fresh flavor"
+    ],
+    "coachingPrompt": "How does milk in the egg mixture change the texture compared to cooking eggs plain?"
+  },
+  "timestamp": "2026-02-06T12:26:40.271Z"
+}

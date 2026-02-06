@@ -1,0 +1,38 @@
+{
+  "contentHash": "b203e1fc5bfb5155",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 (14 ounce) package frozen mixed red, yellow, and green bell pepper strips, thawed and drained",
+        "searchTerm": "mixed bell peppers frozen",
+        "normalizedName": "Mixed Bell Pepper"
+      },
+      {
+        "ingredient": "2 pounds 93% lean ground turkey",
+        "searchTerm": "ground turkey",
+        "normalizedName": "Ground Turkey"
+      },
+      {
+        "ingredient": "1 cup Italian-seasoned bread crumbs",
+        "searchTerm": "italian breadcrumbs",
+        "normalizedName": "Italian-Seasoned Bread Crumb"
+      }
+    ],
+    "gear": [
+      "loaf pan",
+      "mixing bowl",
+      "meat thermometer"
+    ],
+    "cookingTips": [
+      "Mix meatloaf gently - overmixing creates dense texture",
+      "Use a meat thermometer to ensure 165°F internal temperature"
+    ],
+    "coachingPrompt": "Lean ground turkey needs careful handling to stay moist. What technique prevents this meatloaf from becoming dry?"
+  },
+  "timestamp": "2026-02-06T04:14:24.332Z"
+}

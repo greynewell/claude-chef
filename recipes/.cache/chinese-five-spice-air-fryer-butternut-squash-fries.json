@@ -1,0 +1,58 @@
+{
+  "contentHash": "fbfbfb737de21e43",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 large butternut squash, peeled and cut into \"fries\"",
+        "searchTerm": "butternut squash",
+        "normalizedName": "Butternut Squash"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon Chinese five-spice powder",
+        "searchTerm": "five-spice powder",
+        "normalizedName": "Five-Spice Powder"
+      },
+      {
+        "ingredient": "1 tablespoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 teaspoons sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "2 teaspoons black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Large Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Vegetable Peeler",
+        "searchTerm": "vegetable peeler"
+      }
+    ],
+    "cookingTips": [
+      "Cut squash into uniform-sized fries for even cooking in air fryer",
+      "Toss fries with oil and spices just before cooking to prevent sogginess",
+      "Shake basket halfway through cooking for even browning"
+    ],
+    "coachingPrompt": "Air fryer cooking is quick and healthy. Would you like guidance on air fryer temperatures and times?"
+  },
+  "timestamp": "2026-02-06T02:53:04.723Z"
+}

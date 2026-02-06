@@ -1,0 +1,58 @@
+{
+  "contentHash": "ca0988259e561888",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 ounces elbow macaroni",
+        "searchTerm": "elbow macaroni",
+        "normalizedName": "Elbow Macaroni"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "8 ounces cubed processed cheese food",
+        "searchTerm": "processed cheese",
+        "normalizedName": "Processed Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Make a roux with butter and flour before adding milk to prevent lumps",
+      "Cook pasta until just al dente to avoid mushiness after baking",
+      "Mix cheese sauce with pasta while hot for even coating"
+    ],
+    "coachingPrompt": "Guide the user through creating a smooth cheese sauce by explaining the roux technique and proper melting of cheese."
+  },
+  "timestamp": "2026-02-06T11:42:13.870Z"
+}

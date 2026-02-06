@@ -1,0 +1,63 @@
+{
+  "contentHash": "c5f8f8a74b8af115",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups cooked, finely chopped chicken meat",
+        "searchTerm": "cooked chicken",
+        "normalizedName": "Chicken"
+      },
+      {
+        "ingredient": "1 ½ cups seasoned dry bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "2 eggs, lightly beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 cups sauteed chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh parsley",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "deep fryer or heavy pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      }
+    ],
+    "cookingTips": [
+      "Chill the mixture for at least 30 minutes before forming croquettes for easier handling",
+      "Use a meat thermometer to ensure internal temperature reaches 165°F",
+      "Fry at 350°F for 2-3 minutes until golden brown"
+    ],
+    "coachingPrompt": "How can you shape and fry these croquettes to achieve a crispy exterior while keeping the inside moist?"
+  },
+  "timestamp": "2026-02-06T11:06:18.588Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "0f3106671bbeb2db",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup reduced-calorie mayonnaise",
+        "searchTerm": "mayonnaise reduced calorie",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 cup chopped cooked shrimp meat",
+        "searchTerm": "cooked shrimp chopped",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese shredded",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 cup Parmesan cheese",
+        "searchTerm": "Parmesan cheese grated",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "2 (12 ounce) packages sourdough English muffins",
+        "searchTerm": "sourdough English muffins",
+        "normalizedName": "English Muffin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spreader",
+        "searchTerm": "spreader knife"
+      }
+    ],
+    "cookingTips": [
+      "Combine shrimp and cheese mixture, then spread thickly on muffin halves before toasting",
+      "Toast under broiler for 3-4 minutes until golden and cheese is melted; watch carefully to prevent burning",
+      "Can prepare topping ahead and refrigerate muffins until ready to broil"
+    ],
+    "coachingPrompt": "Guide me through combining the shrimp and cheese mixture, then broiling it on English muffins until golden."
+  },
+  "timestamp": "2026-02-05T21:32:44.696Z"
+}

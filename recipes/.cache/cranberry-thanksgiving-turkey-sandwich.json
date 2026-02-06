@@ -1,0 +1,53 @@
+{
+  "contentHash": "ee54c25d662f69d6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices wheat bread",
+        "searchTerm": "wheat bread",
+        "normalizedName": "Wheat Bread"
+      },
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¼ cup shredded lettuce",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "4 ounces sliced Butterball® Maple Honey Turkey",
+        "searchTerm": "turkey",
+        "normalizedName": "Turkey"
+      },
+      {
+        "ingredient": "2 tablespoons whole berry cranberry sauce",
+        "searchTerm": "cranberry sauce",
+        "normalizedName": "Cranberry Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "plate",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Layer ingredients in order: bread, mayo, lettuce, turkey, cranberry sauce for best distribution",
+      "Toast bread lightly for better structure and warmth",
+      "Use whole berry cranberry sauce for texture contrast with soft bread and turkey"
+    ],
+    "coachingPrompt": "How do I assemble a sandwich to prevent sogginess, and why does toasting bread improve the structure?"
+  },
+  "timestamp": "2026-02-06T04:11:13.257Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "ed6597f445b6fff1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¾ cup butter, cut into pieces",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "⅔ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 ½ cups quick cooking oats",
+        "searchTerm": "oats",
+        "normalizedName": "Oat"
+      },
+      {
+        "ingredient": "1 cup crushed chocolate sandwich cookies (such as Oreo®)",
+        "searchTerm": "oreo cookies",
+        "normalizedName": "Oreo Cookie"
+      },
+      {
+        "ingredient": "1 (4 ounce) package cookies and cream instant pudding mix (such as Jell-O® Oreo®)",
+        "searchTerm": "pudding mix",
+        "normalizedName": "Pudding Mix"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Candy thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Work quickly once mixture is removed from heat to avoid hardening",
+      "Use a candy thermometer for consistency control",
+      "Scoop cookies onto parchment paper immediately for best results"
+    ],
+    "coachingPrompt": "Help the user master the timing of no-bake cookies by understanding the right consistency and working quickly with the hot mixture."
+  },
+  "timestamp": "2026-02-06T13:47:11.235Z"
+}

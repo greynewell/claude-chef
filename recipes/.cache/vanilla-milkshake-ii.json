@@ -1,0 +1,38 @@
+{
+  "contentHash": "e55103045da61e48",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 scoop vanilla ice cream",
+        "searchTerm": "vanilla ice cream",
+        "normalizedName": "Vanilla Ice Cream"
+      },
+      {
+        "ingredient": "1 cup half-and-half cream",
+        "searchTerm": "half-and-half",
+        "normalizedName": "Half-and-Half Cream"
+      },
+      {
+        "ingredient": "⅛ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "tall glass",
+        "searchTerm": "glass"
+      }
+    ],
+    "cookingTips": [
+      "Use cold ingredients and blend just until smooth to avoid over-mixing",
+      "Serve immediately for best texture and temperature"
+    ],
+    "coachingPrompt": "What's the ideal consistency for a milkshake and how do you adjust it?"
+  },
+  "timestamp": "2026-02-06T21:32:14.899Z"
+}

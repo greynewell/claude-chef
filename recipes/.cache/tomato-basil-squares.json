@@ -1,0 +1,63 @@
+{
+  "contentHash": "41cc712d2c8c906d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10 ounce) container refrigerated pizza crust",
+        "searchTerm": "pizza crust",
+        "normalizedName": "Pizza Crust"
+      },
+      {
+        "ingredient": "¼ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¼ cup freshly grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Basil"
+      },
+      {
+        "ingredient": "1 clove garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "3 roma (plum) tomatoes",
+        "searchTerm": "roma tomato",
+        "normalizedName": "Roma Tomato"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Spread mayonnaise mixture evenly for consistent flavor",
+      "Slice tomatoes thinly and pat dry to prevent soggy crust",
+      "Top with mozzarella last so it melts over the tomatoes"
+    ],
+    "coachingPrompt": "Help the user manage moisture in baked tomato dishes and achieve golden, crispy crust."
+  },
+  "timestamp": "2026-02-06T20:55:14.263Z"
+}

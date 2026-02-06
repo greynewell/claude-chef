@@ -1,0 +1,58 @@
+{
+  "contentHash": "c1a6ecd94c7a5cd9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 pound chopped cooked ham",
+        "searchTerm": "cooked ham",
+        "normalizedName": "Cooked Ham"
+      },
+      {
+        "ingredient": "1 pound American cheese, cut into pieces",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      },
+      {
+        "ingredient": "1 (14 ounce) jar pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "1 tablespoon dried oregano",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      },
+      {
+        "ingredient": "8 hamburger buns",
+        "searchTerm": "hamburger buns",
+        "normalizedName": "Hamburger Bun"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef first, drain fat before adding other ingredients",
+      "Stir in ham and cheese until melted",
+      "Heat pizza sauce gently to prevent scorching"
+    ],
+    "coachingPrompt": "What's the best way to combine all these ingredients without the cheese scorching? Low heat and stirring?"
+  },
+  "timestamp": "2026-02-06T15:38:36.243Z"
+}

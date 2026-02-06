@@ -1,0 +1,48 @@
+{
+  "contentHash": "dfde18cc41f735ed",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 bunch kale, stems removed and leaves ripped into bite-size pieces",
+        "searchTerm": "kale",
+        "normalizedName": "Kale"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil, or more as needed",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 clove garlic, pressed (Optional)",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon vinegar",
+        "searchTerm": "vinegar",
+        "normalizedName": "Vinegar"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Pat kale completely dry before tossing to ensure crispiness",
+      "Spread in single layer and bake at 300°F for 20-25 minutes, stirring halfway through"
+    ],
+    "coachingPrompt": "Help the user transform leafy kale into crispy, flavorful snacks with minimal oil."
+  },
+  "timestamp": "2026-02-06T21:46:17.530Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "8dc397bf64163dd2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅓ cup chopped pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 ½ cups half-and-half cream",
+        "searchTerm": "half and half",
+        "normalizedName": "Half-and-Half Cream"
+      },
+      {
+        "ingredient": "½ cup heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Ice Cream Maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "instant read thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Toast pecans in butter to deepen their flavor before adding to custard",
+      "Temper eggs carefully when combining with hot mixture to avoid scrambling",
+      "Chill custard thoroughly before churning for best texture and overrun"
+    ],
+    "coachingPrompt": "How do you properly temper eggs and achieve smooth, creamy ice cream texture?"
+  },
+  "timestamp": "2026-02-06T00:59:42.654Z"
+}

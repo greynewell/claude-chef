@@ -1,0 +1,63 @@
+{
+  "contentHash": "1e7362a7a71c75ed",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 large carrots",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "10 baby red potatoes",
+        "searchTerm": "baby red potatoes",
+        "normalizedName": "Baby Red Potato"
+      },
+      {
+        "ingredient": "1 onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "4 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (4 pound) corned beef brisket with spice packet",
+        "searchTerm": "corned beef brisket",
+        "normalizedName": "Corned Beef Brisket"
+      },
+      {
+        "ingredient": "6 ounces beer",
+        "searchTerm": "beer",
+        "normalizedName": "Beer"
+      },
+      {
+        "ingredient": "½ head cabbage",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Rinse corned beef brisket before cooking to reduce saltiness if desired",
+      "Add cabbage in the last hour to prevent it from becoming mushy",
+      "Use beer to add depth; alcohol cooks off during slow cooking"
+    ],
+    "coachingPrompt": "What's the ideal cooking time and temperature to achieve tender brisket without drying it out?"
+  },
+  "timestamp": "2026-02-06T18:09:20.493Z"
+}

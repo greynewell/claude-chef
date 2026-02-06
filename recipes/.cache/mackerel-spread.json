@@ -1,0 +1,48 @@
+{
+  "contentHash": "4231d3a9ab8e7621",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound smoked mackerel",
+        "searchTerm": "smoked mackerel",
+        "normalizedName": "Smoked Mackerel"
+      },
+      {
+        "ingredient": "4 ounces cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "½ cup softened butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 lemon, juiced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Rubber spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Remove all bones and skin from the smoked mackerel before blending for a smooth spread",
+      "Ensure butter and cream cheese are softened to room temperature for easier blending",
+      "Add lemon juice slowly, tasting as you go to avoid over-acidifying the spread"
+    ],
+    "coachingPrompt": "Guide the user on achieving a smooth texture and balancing the rich mackerel with creamy dairy and bright lemon."
+  },
+  "timestamp": "2026-02-06T11:43:13.918Z"
+}

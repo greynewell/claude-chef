@@ -1,0 +1,38 @@
+{
+  "contentHash": "921c0e4ce2c381a5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups nonfat Greek yogurt",
+        "searchTerm": "Greek yogurt",
+        "normalizedName": "Greek Yogurt"
+      },
+      {
+        "ingredient": "⅔ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "ice cream maker",
+        "searchTerm": "ice cream machine"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Chill mixture thoroughly before churning for best results",
+      "Freeze in an airtight container and scoop while still soft"
+    ],
+    "coachingPrompt": "Why is chilling the mixture before churning important for ice cream texture?"
+  },
+  "timestamp": "2026-02-06T21:32:14.898Z"
+}

@@ -1,0 +1,68 @@
+{
+  "contentHash": "04c61fff535c84eb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 ounces dry fettuccine pasta",
+        "searchTerm": "fettuccine pasta",
+        "normalizedName": "Fettuccine Pasta"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "¾ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "½ cup margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "¼ teaspoon dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "1 pinch ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot for pasta",
+        "searchTerm": "pasta pot"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Keep cream cheese and other ingredients at room temperature for smooth sauce",
+      "Reserve pasta water to thin sauce to desired consistency",
+      "Toss pasta with sauce immediately while both are hot to prevent clumping"
+    ],
+    "coachingPrompt": "This sauce relies on smooth emulsification of cream cheese and margarine. Help the user understand proper heat control to avoid breaking the sauce and how reserved pasta water adjusts consistency."
+  },
+  "timestamp": "2026-02-06T16:00:32.949Z"
+}

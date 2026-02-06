@@ -1,0 +1,49 @@
+{
+  "contentHash": "30d8652e582eb61c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "whole wheat tortillas",
+        "searchTerm": "whole wheat tortillas",
+        "normalizedName": "Whole Wheat Tortilla"
+      },
+      {
+        "ingredient": "hickory flavor baked tofu",
+        "searchTerm": "baked tofu",
+        "normalizedName": "Baked Tofu"
+      },
+      {
+        "ingredient": "shredded sharp Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "fresh baby spinach",
+        "searchTerm": "spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "Ranch dressing",
+        "searchTerm": "ranch dressing",
+        "normalizedName": "Ranch Dressing"
+      },
+      {
+        "ingredient": "grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      "baking sheet",
+      "knife",
+      "oven"
+    ],
+    "cookingTips": [
+      "Pre-warm tortillas slightly so they're pliable and less likely to crack",
+      "Layer ingredients strategically: spread dressing first to prevent sogginess",
+      "Wrap tightly with seam side down; bake at 375°F for 12-15 minutes until crispy"
+    ],
+    "coachingPrompt": "How can I prevent the tortilla from getting soggy while keeping the spinach fresh?"
+  },
+  "timestamp": "2026-02-05T23:15:22.645Z"
+}

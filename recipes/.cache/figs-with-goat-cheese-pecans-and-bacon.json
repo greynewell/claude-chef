@@ -1,0 +1,48 @@
+{
+  "contentHash": "51450396c410f7f1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 figs, halved",
+        "searchTerm": "fresh figs",
+        "normalizedName": "Fig"
+      },
+      {
+        "ingredient": "6 ounces goat cheese",
+        "searchTerm": "goat cheese",
+        "normalizedName": "Goat Cheese"
+      },
+      {
+        "ingredient": "½ cup toasted, chopped pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      },
+      {
+        "ingredient": "3 slices bacon, cut in half",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy and drain on paper towels to prevent sogginess",
+      "Toast pecans separately to bring out their flavor before adding",
+      "Assemble just before serving to maintain the contrast between warm bacon and cool goat cheese"
+    ],
+    "coachingPrompt": "What's the best order to assemble these so the bacon stays crispy and the cheese is creamy?"
+  },
+  "timestamp": "2026-02-06T06:38:22.980Z"
+}

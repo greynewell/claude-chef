@@ -1,0 +1,47 @@
+{
+  "contentHash": "23bc2e2379e744d7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "1 tablespoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "1 cup unsalted natural peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 cup skim milk",
+        "searchTerm": "skim milk",
+        "normalizedName": "Skim Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Use natural peanut butter without added sugar for healthier dog treats",
+      "Bake at 350°F for 20-25 minutes until golden brown"
+    ],
+    "coachingPrompt": "This is a dog treat recipe. Ensure ingredients are pet-safe and portion sizes are appropriate for dog treats."
+  },
+  "timestamp": "2026-02-06T00:09:43.510Z"
+}

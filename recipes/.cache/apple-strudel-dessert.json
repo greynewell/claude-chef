@@ -1,0 +1,39 @@
+{
+  "contentHash": "8cd5d23a6c734797",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 packages refrigerated crescent roll dough",
+        "searchTerm": "crescent roll dough",
+        "normalizedName": "Crescent Roll Dough"
+      },
+      {
+        "ingredient": "1 can apple pie filling",
+        "searchTerm": "apple pie filling",
+        "normalizedName": "Apple Pie Filling"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "rolling pin",
+        "searchTerm": "rolling pin"
+      }
+    ],
+    "cookingTips": [
+      "Unroll crescent dough and press into pan to seal perforations",
+      "Spread filling evenly, leaving borders for top layer",
+      "Roll out second dough package and arrange on top"
+    ],
+    "coachingPrompt": "Explain this shortcut strudel using convenient ingredients and help the user understand the assembly and layering technique."
+  },
+  "timestamp": "2026-02-05T22:16:31.411Z"
+}

@@ -1,0 +1,47 @@
+{
+  "contentHash": "eaa2f332e5c34306",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) container pico de gallo salsa",
+        "searchTerm": "pico de gallo salsa",
+        "normalizedName": "Pico De Gallo Salsa"
+      },
+      {
+        "ingredient": "1 pound cooked small shrimp",
+        "searchTerm": "cooked shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "1 jalapeno pepper, seeded and chopped",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 avocado - peeled, pitted, and chopped",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef knife"
+      },
+      {
+        "name": "Serving Bowl",
+        "searchTerm": "serving bowl"
+      }
+    ],
+    "cookingTips": [
+      "Add avocado just before serving to prevent browning",
+      "Use pre-cooked shrimp to save time and ensure food safety"
+    ],
+    "coachingPrompt": "How would you prepare this dish to ensure the avocado stays fresh and the shrimp is properly distributed throughout?"
+  },
+  "timestamp": "2026-02-06T14:46:17.291Z"
+}

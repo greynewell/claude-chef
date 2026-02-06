@@ -1,0 +1,43 @@
+{
+  "contentHash": "3a5ca8a68c84ebda",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups Greek yogurt",
+        "searchTerm": "Greek yogurt",
+        "normalizedName": "Greek Yogurt"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Chill yogurt mixture for at least 2 hours before churning for best results",
+      "Freeze the ice cream maker bowl overnight as directed by manufacturer",
+      "Add toppings like berries or granola immediately after scooping while still soft"
+    ],
+    "coachingPrompt": "How does Greek yogurt change the texture and tang compared to regular yogurt-based frozen yogurt?"
+  },
+  "timestamp": "2026-02-06T04:34:28.253Z"
+}

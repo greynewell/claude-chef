@@ -1,0 +1,63 @@
+{
+  "contentHash": "f9636fbcd7b4ea06",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ¼ cups whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "2 teaspoons baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon artificial sweetener",
+        "searchTerm": "artificial sweetener",
+        "normalizedName": "Artificial Sweetener"
+      },
+      {
+        "ingredient": "½ cup blueberries",
+        "searchTerm": "blueberry",
+        "normalizedName": "Blueberry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Griddle or skillet",
+        "searchTerm": "griddle"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Let batter rest 5 minutes before cooking for fluffier pancakes",
+      "Scatter blueberries on pancakes just after pouring onto griddle",
+      "Cook on medium heat to avoid burning the exterior before cooking the interior"
+    ],
+    "coachingPrompt": "Show me the right griddle temperature and cooking time to achieve fluffy whole wheat pancakes."
+  },
+  "timestamp": "2026-02-06T22:09:18.436Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "669c1bf8b4ece396",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "lemon zest",
+        "searchTerm": "lemon zest",
+        "normalizedName": "Lemon Zest"
+      },
+      {
+        "ingredient": "freshly squeezed lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "lemon extract",
+        "searchTerm": "lemon extract",
+        "normalizedName": "Lemon Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "fine mesh strainer",
+        "searchTerm": "fine mesh strainer"
+      }
+    ],
+    "cookingTips": [
+      "Chill the mixture thoroughly before churning for best texture",
+      "Strain the mixture through fine mesh to remove zest for a smooth texture",
+      "Use an ice cream maker for proper freezing and aeration"
+    ],
+    "coachingPrompt": "Guide the user through proper chilling and churning techniques to achieve a smooth, scoopable sorbet rather than a frozen block."
+  },
+  "timestamp": "2026-02-06T02:05:54.518Z"
+}

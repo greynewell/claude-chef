@@ -1,0 +1,53 @@
+{
+  "contentHash": "6edb7d139500be35",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 loaf processed cheese (such as Velveeta®), cubed",
+        "searchTerm": "processed cheese loaf",
+        "normalizedName": "Processed Cheese"
+      },
+      {
+        "ingredient": "1 pound bulk spicy pork sausage",
+        "searchTerm": "spicy pork sausage",
+        "normalizedName": "Spicy Pork Sausage"
+      },
+      {
+        "ingredient": "1 jar hot salsa",
+        "searchTerm": "hot salsa",
+        "normalizedName": "Hot Salsa"
+      },
+      {
+        "ingredient": "½ cup hot pepper sauce (such as Frank's RedHot®)",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      },
+      {
+        "ingredient": "3 large jalapeno peppers, chopped",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausage completely before adding to prevent greasiness",
+      "Use a slow cooker to keep dip warm and maintain consistency",
+      "Stir occasionally to prevent cheese from sticking to bottom"
+    ],
+    "coachingPrompt": "This is a hearty, spicy dip for game day. How would you keep it warm and creamy throughout a party?"
+  },
+  "timestamp": "2026-02-06T00:06:44.534Z"
+}

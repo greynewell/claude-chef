@@ -1,0 +1,53 @@
+{
+  "contentHash": "5f094daf64a325b3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 purple sweet potato",
+        "searchTerm": "purple sweet potato",
+        "normalizedName": "Purple Sweet Potato"
+      },
+      {
+        "ingredient": "1 teaspoon coconut oil",
+        "searchTerm": "coconut oil",
+        "normalizedName": "Coconut Oil"
+      },
+      {
+        "ingredient": "3 tablespoons boiled peanuts",
+        "searchTerm": "peanuts",
+        "normalizedName": "Peanut"
+      },
+      {
+        "ingredient": "1 tablespoon peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 tablespoon coconut cream, or more to taste",
+        "searchTerm": "coconut cream",
+        "normalizedName": "Coconut Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Microwave or Oven",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "Fork or Masher",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "Small Bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Microwave sweet potato for 5-7 minutes or bake until very soft",
+      "Scoop flesh from skin while warm and mash immediately",
+      "Stir in peanut butter and coconut cream while potato is still warm"
+    ],
+    "coachingPrompt": "Show the user how to quickly microwave or bake a purple sweet potato, then mash with peanut butter and coconut cream for a unique side dish."
+  },
+  "timestamp": "2026-02-06T12:05:02.253Z"
+}

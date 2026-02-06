@@ -1,0 +1,53 @@
+{
+  "contentHash": "0c48fd3e786f2177",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 quart vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "32 peeled and deveined medium shrimp, tail-on",
+        "searchTerm": "medium shrimp",
+        "normalizedName": "Medium Shrimp"
+      },
+      {
+        "ingredient": "1 (4 ounce) can pickled jalapeno peppers, cut into slivers",
+        "searchTerm": "pickled jalapenos",
+        "normalizedName": "Pickled Jalapeno"
+      },
+      {
+        "ingredient": "16 slices bacon, cut in half",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "32 toothpicks",
+        "searchTerm": "toothpicks",
+        "normalizedName": "Toothpick"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep fryer or pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "cooking thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Pat shrimp dry before stuffing to ensure bacon crisps properly",
+      "Insert jalapeno sliver into each shrimp before wrapping with bacon",
+      "Secure with toothpick and fry at 350°F until bacon is crispy, about 3-4 minutes"
+    ],
+    "coachingPrompt": "What's the best way to assemble these so the bacon wraps tightly and cooks evenly with the shrimp?"
+  },
+  "timestamp": "2026-02-05T21:57:19.792Z"
+}

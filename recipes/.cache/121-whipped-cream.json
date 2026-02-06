@@ -1,0 +1,44 @@
+{
+  "contentHash": "1a4efe5d82a50a5f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup heavy whipping cream",
+        "searchTerm": "heavy whipping cream",
+        "normalizedName": "Heavy Whipping Cream"
+      },
+      {
+        "ingredient": "2 tablespoons superfine sugar",
+        "searchTerm": "superfine sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "metal bowl",
+        "searchTerm": "stainless steel mixing bowl"
+      },
+      {
+        "name": "whisk attachment",
+        "searchTerm": "electric mixer whisk attachment"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "handheld electric mixer"
+      }
+    ],
+    "cookingTips": [
+      "Chilling the bowl and whisk attachment is crucial—cold equipment helps cream whip faster and reach stiff peaks more easily",
+      "Use superfine sugar instead of granulated sugar as it dissolves more quickly and creates a smoother texture",
+      "Watch for stiff peaks carefully; overbeating can turn whipped cream into butter, so stop as soon as sharp peaks form",
+      "For best results, use heavy whipping cream that is as cold as possible before starting"
+    ],
+    "coachingPrompt": "I'm making whipped cream from scratch using heavy whipping cream, superfine sugar, and vanilla extract. Please guide me through the process step-by-step. Include tips on: how to properly chill my equipment, how to tell when the cream transitions from foamy to soft peaks to stiff peaks, the correct beating technique with an electric mixer, how to add the sugar and vanilla at the right time, and how to recognize when it's done to avoid overbeating. Also explain what stiff peaks should look like and why proper technique matters."
+  },
+  "timestamp": "2026-02-05T21:23:11.011Z"
+}

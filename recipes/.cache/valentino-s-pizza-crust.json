@@ -1,0 +1,57 @@
+{
+  "contentHash": "9f1504ef27c76b0b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup warm water",
+        "searchTerm": "water warm",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 ¼ teaspoons active dry yeast",
+        "searchTerm": "yeast active dry",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "3 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 ½ cups all-purpose flour",
+        "searchTerm": "flour all-purpose",
+        "normalizedName": "All-Purpose Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Pizza pan",
+        "searchTerm": "pizza pan"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Ensure water temperature is between 110-115°F for proper yeast activation",
+      "Let dough rise in a warm, draft-free location"
+    ],
+    "coachingPrompt": "Guide the user through yeast activation, kneading, and shaping pizza dough for optimal rise and texture."
+  },
+  "timestamp": "2026-02-06T21:31:32.710Z"
+}

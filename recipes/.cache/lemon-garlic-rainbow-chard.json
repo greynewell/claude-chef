@@ -1,0 +1,48 @@
+{
+  "contentHash": "8c0fea4c71228e6b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 bunches rainbow chard, trimmed and rinsed",
+        "searchTerm": "rainbow chard",
+        "normalizedName": "Rainbow Chard"
+      },
+      {
+        "ingredient": "6 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "6 cloves garlic, sliced, or to taste",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 pinch crushed red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Separate chard stems from leaves; cook stems longer",
+      "Don't overcook leaves; they wilt quickly and should remain tender"
+    ],
+    "coachingPrompt": "How would you prevent this chard from becoming mushy while cooking?"
+  },
+  "timestamp": "2026-02-06T11:12:32.534Z"
+}

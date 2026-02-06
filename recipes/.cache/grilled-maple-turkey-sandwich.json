@@ -1,0 +1,58 @@
+{
+  "contentHash": "cd7ad8e92366fc77",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 strips bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "4 ounces sliced deli-style maple turkey",
+        "searchTerm": "maple turkey",
+        "normalizedName": "Maple Turkey"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 slices raisin black bread",
+        "searchTerm": "raisin bread",
+        "normalizedName": "Raisin Bread"
+      },
+      {
+        "ingredient": "4 slices Swiss cheese",
+        "searchTerm": "swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons honey mustard",
+        "searchTerm": "honey mustard",
+        "normalizedName": "Honey Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy first, then use its fat to toast the bread for extra flavor",
+      "Butter bread generously on the outside for better browning and crispness",
+      "Layer cheese between turkey and bread so it melts properly from residual heat"
+    ],
+    "coachingPrompt": "Help the user build a balanced sweet and savory sandwich with proper toasting technique."
+  },
+  "timestamp": "2026-02-06T08:20:21.772Z"
+}

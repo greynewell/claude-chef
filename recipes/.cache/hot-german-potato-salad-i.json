@@ -1,0 +1,53 @@
+{
+  "contentHash": "a8be7f6e14d2d286",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "4 large eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 pound bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 medium head escarole",
+        "searchTerm": "escarole",
+        "normalizedName": "Escarole"
+      },
+      {
+        "ingredient": "¼ cup apple cider vinegar",
+        "searchTerm": "apple cider vinegar",
+        "normalizedName": "Apple Cider Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Boil potatoes until just tender, then slice while still warm for better vinegar absorption",
+      "Cook bacon until crispy, then reserve drippings for dressing",
+      "Combine all ingredients while still warm so potatoes absorb the vinegar dressing"
+    ],
+    "coachingPrompt": "Explain the importance of temperature in German potato salad and suggest variations with different greens or bacon types."
+  },
+  "timestamp": "2026-02-06T09:30:05.080Z"
+}

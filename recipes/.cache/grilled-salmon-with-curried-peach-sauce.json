@@ -1,0 +1,58 @@
+{
+  "contentHash": "9315819732bad45a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 fresh peaches, peeled and diced",
+        "searchTerm": "peaches",
+        "normalizedName": "Peach"
+      },
+      {
+        "ingredient": "¼ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 teaspoon curry powder",
+        "searchTerm": "curry powder",
+        "normalizedName": "Curry Powder"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 salmon steaks",
+        "searchTerm": "salmon steaks",
+        "normalizedName": "Salmon Steak"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Simmer peach sauce gently to develop flavors without reducing too much",
+      "Use ripe peaches for natural sweetness and aromatic quality",
+      "Season salmon just before grilling to prevent salt drawing out moisture"
+    ],
+    "coachingPrompt": "Guide the user through combining sweet peaches and warm curry spices to create an exotic sauce for salmon."
+  },
+  "timestamp": "2026-02-06T08:25:10.179Z"
+}

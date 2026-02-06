@@ -1,0 +1,58 @@
+{
+  "contentHash": "acd8901d632a70e6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cans turkey chili with beans",
+        "searchTerm": "canned turkey chili",
+        "normalizedName": "Canned Turkey Chili"
+      },
+      {
+        "ingredient": "1 package corn bread muffin mix",
+        "searchTerm": "cornbread mix",
+        "normalizedName": "Cornbread Mix"
+      },
+      {
+        "ingredient": "⅓ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Heat chili in the baking dish before adding cornbread topping for better cooking",
+      "Prepare cornbread batter according to package directions, adding milk and egg until just combined",
+      "Bake at 400°F for 18-22 minutes until cornbread topping is golden and a toothpick comes out clean"
+    ],
+    "coachingPrompt": "Guide the user through assembling a quick comfort food dinner using shortcut ingredients while explaining how the cornbread topping complements the chili."
+  },
+  "timestamp": "2026-02-06T18:51:18.164Z"
+}

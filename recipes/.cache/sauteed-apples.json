@@ -1,0 +1,58 @@
+{
+  "contentHash": "40d10e8fd7bb03ad",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 large tart apples - peeled, cored and sliced 1/4 inch thick",
+        "searchTerm": "tart apple",
+        "normalizedName": "Tart Apple"
+      },
+      {
+        "ingredient": "2 teaspoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "½ cup cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use tart apple varieties like Granny Smith to balance the sweetness of the brown sugar",
+      "Slice apples uniformly for even cooking and a better presentation",
+      "The cornstarch thickens the sauce; whisk it with cold water first to prevent lumps"
+    ],
+    "coachingPrompt": "Coach on apple selection, slicing consistency, and achieving the right sauce thickness without overcooking the fruit."
+  },
+  "timestamp": "2026-02-06T17:01:37.063Z"
+}

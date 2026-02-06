@@ -1,0 +1,53 @@
+{
+  "contentHash": "a807e8d622954887",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "4 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "3 tablespoons baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "2 tablespoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 ½ cups warm milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Deep Fryer or Dutch Oven",
+        "searchTerm": "deep pot"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Combine dry ingredients thoroughly to ensure even distribution of baking powder for consistent rise",
+      "Mix in milk gradually until dough is soft but not sticky; adjust with small amounts of water or flour",
+      "Maintain oil at 375°F and fry until bread sounds hollow when tapped on the bottom"
+    ],
+    "coachingPrompt": "How does the generous amount of baking powder in this recipe affect the rise and interior structure?"
+  },
+  "timestamp": "2026-02-06T13:08:53.830Z"
+}

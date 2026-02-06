@@ -1,0 +1,58 @@
+{
+  "contentHash": "aa093abc97287e43",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "dashi stock",
+        "searchTerm": "dashi",
+        "normalizedName": "Dashi Stock"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "mirin",
+        "searchTerm": "mirin",
+        "normalizedName": "Mirin"
+      },
+      {
+        "ingredient": "soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Tamagoyaki Pan",
+        "searchTerm": "tamagoyaki pan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Work quickly as the omelette cooks; rolling while warm is key",
+      "Use a special tamagoyaki pan for the characteristic rectangular shape",
+      "The mixture should be slightly sweet with umami from dashi and soy"
+    ],
+    "coachingPrompt": "This technique takes practice. Would you like step-by-step guidance on the rolling motion?"
+  },
+  "timestamp": "2026-02-06T20:16:19.234Z"
+}

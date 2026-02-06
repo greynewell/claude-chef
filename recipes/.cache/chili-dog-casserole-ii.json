@@ -1,0 +1,44 @@
+{
+  "contentHash": "f45a1b0a554aeb81",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (15 ounce) cans chili with beans",
+        "searchTerm": "canned chili with beans",
+        "normalizedName": "Canned Chili"
+      },
+      {
+        "ingredient": "1 (16 ounce) package beef frankfurters",
+        "searchTerm": "hot dogs",
+        "normalizedName": "Beef Frankfurter"
+      },
+      {
+        "ingredient": "10 (8 inch) flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "1 (8 ounce) package Cheddar cheese, shredded",
+        "searchTerm": "shredded cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Slice frankfurters lengthwise and nestle into tortilla centers before rolling",
+      "Layer tortillas seam-side down to prevent unrolling during baking",
+      "Bake covered at 350°F for 25 minutes, then uncovered 10 minutes to melt cheese"
+    ],
+    "coachingPrompt": "How do I make a satisfying chili dog casserole with tortillas and cheese?"
+  },
+  "timestamp": "2026-02-06T02:49:54.683Z"
+}

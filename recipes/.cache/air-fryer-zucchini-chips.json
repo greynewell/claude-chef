@@ -1,0 +1,52 @@
+{
+  "contentHash": "6849031c8c083d83",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup panko bread crumbs",
+        "searchTerm": "panko bread crumbs",
+        "normalizedName": "Panko Bread Crumb"
+      },
+      {
+        "ingredient": "¾ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 medium zucchini, thinly sliced",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "1 large egg, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Mandoline Slicer",
+        "searchTerm": "mandoline slicer"
+      },
+      {
+        "name": "Paper Towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Salt zucchini slices and let sit for 5 minutes, then pat dry to remove excess moisture",
+      "Don't overcrowd the air fryer basket for even cooking and crisping"
+    ],
+    "coachingPrompt": "Why is removing moisture from zucchini critical for achieving crispy chips?"
+  },
+  "timestamp": "2026-02-05T21:48:26.746Z"
+}

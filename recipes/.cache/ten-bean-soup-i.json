@@ -1,0 +1,63 @@
+{
+  "contentHash": "ddb2e2ca6eb1e149",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "dry mixed beans",
+        "searchTerm": "mixed beans",
+        "normalizedName": "Mixed Bean"
+      },
+      {
+        "ingredient": "bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "celery, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "stock pot"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Soak mixed beans overnight to reduce cooking time and improve digestibility",
+      "Cook bacon first and render fat to use as soup base for more flavor",
+      "Simmer gently for 1.5-2 hours until beans are tender but not mushy"
+    ],
+    "coachingPrompt": "Guide the user through proper bean soaking and explain how bacon fat builds a rich, savory foundation for the soup."
+  },
+  "timestamp": "2026-02-06T20:23:26.336Z"
+}

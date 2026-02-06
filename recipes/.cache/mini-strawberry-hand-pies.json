@@ -1,0 +1,47 @@
+{
+  "contentHash": "a2aafa118d73ea0b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ (15 ounce) package refrigerated pie crust",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      },
+      {
+        "ingredient": "1 cup diced fresh strawberries",
+        "searchTerm": "fresh strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "2 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 large egg, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Cookie cutter",
+        "searchTerm": "cookie cutter"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Use fresh strawberries at peak ripeness for best flavor",
+      "Press pastry edges with fork to seal properly"
+    ],
+    "coachingPrompt": "What size cookie cutter would you use for ideal hand pie proportions?"
+  },
+  "timestamp": "2026-02-06T12:32:52.194Z"
+}

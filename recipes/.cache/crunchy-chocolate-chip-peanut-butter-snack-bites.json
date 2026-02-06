@@ -1,0 +1,53 @@
+{
+  "contentHash": "eb9e8b9c64879265",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup large flake rolled oats",
+        "searchTerm": "rolled oats",
+        "normalizedName": "Rolled Oat"
+      },
+      {
+        "ingredient": "½ cup KRAFT Crunchy Peanut Butter",
+        "searchTerm": "crunchy peanut butter",
+        "normalizedName": "Crunchy Peanut Butter"
+      },
+      {
+        "ingredient": "¼ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "½ cup salted peanuts, chopped",
+        "searchTerm": "salted peanuts",
+        "normalizedName": "Salted Peanut"
+      },
+      {
+        "ingredient": "½ cup BAKER'S Semi-Sweet Chocolate Chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Plate",
+        "searchTerm": "serving plate"
+      }
+    ],
+    "cookingTips": [
+      "Use crunchy peanut butter for texture as specified in the recipe",
+      "Chop peanuts into consistent size for even bites",
+      "Mix gently to avoid crushing oats and peanuts unnecessarily"
+    ],
+    "coachingPrompt": "Guide the cook through combining ingredients while preserving texture and creating uniform no-bake snack bites."
+  },
+  "timestamp": "2026-02-06T04:43:41.185Z"
+}

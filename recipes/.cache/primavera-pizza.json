@@ -1,0 +1,43 @@
+{
+  "contentHash": "5fe61c182b29ae71",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 inch) prebaked pizza crust",
+        "searchTerm": "pizza crust",
+        "normalizedName": "Pizza Crust"
+      },
+      {
+        "ingredient": "¾ cup Ragu® Old World Style® Margherita Smooth Pasta Sauce",
+        "searchTerm": "pasta sauce",
+        "normalizedName": "Pasta Sauce"
+      },
+      {
+        "ingredient": "2 cups assorted sliced fresh vegetables (bell peppers, zucchini and/or blanched broccoli)",
+        "searchTerm": "fresh vegetables",
+        "normalizedName": "Fresh Vegetable"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "brush for sauce",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Spread sauce evenly to prevent soggy crust in any one spot",
+      "Arrange vegetables in a single layer so they cook evenly and don't release excess moisture"
+    ],
+    "coachingPrompt": "Guide the user through quick assembly and baking of this vegetable pizza, and suggest ideal oven temperature and time."
+  },
+  "timestamp": "2026-02-06T15:19:47.089Z"
+}

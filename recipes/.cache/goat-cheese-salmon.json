@@ -1,0 +1,53 @@
+{
+  "contentHash": "2910077ebf0acd14",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 salmon fillets",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "½ cup herbed goat cheese",
+        "searchTerm": "goat cheese",
+        "normalizedName": "Goat Cheese"
+      },
+      {
+        "ingredient": "¼ cup prepared Dijon mustard mayonnaise blend",
+        "searchTerm": "Dijon mustard mayo",
+        "normalizedName": "Dijon Mustard Mayonnaise"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "knife for spreading",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Place salmon skin-side down on parchment for even cooking and easy cleanup",
+      "Mix goat cheese with mustard mayo gently to create a creamy topping",
+      "Bake at 400°F for 12-15 minutes until salmon flakes easily"
+    ],
+    "coachingPrompt": "Help me know when the salmon is cooked through and how to properly apply the goat cheese topping."
+  },
+  "timestamp": "2026-02-06T07:40:21.549Z"
+}

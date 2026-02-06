@@ -1,0 +1,63 @@
+{
+  "contentHash": "01cceddcb40b6922",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup chopped fresh mint",
+        "searchTerm": "fresh mint",
+        "normalizedName": "Fresh Mint Leaf"
+      },
+      {
+        "ingredient": "2 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 lime, juiced",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "1 teaspoon ground ginger",
+        "searchTerm": "ground ginger",
+        "normalizedName": "Ground Ginger"
+      },
+      {
+        "ingredient": "1 teaspoon coconut sugar",
+        "searchTerm": "coconut sugar",
+        "normalizedName": "Coconut Sugar"
+      },
+      {
+        "ingredient": "1 ½ pounds salmon, skin on",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon"
+      },
+      {
+        "ingredient": "2 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "instant-read thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Pat salmon skin dry for better browning",
+      "Let marinade sit for 15-30 minutes to develop flavor",
+      "Cook to 145°F internal temperature for perfect doneness"
+    ],
+    "coachingPrompt": "How will you achieve crispy skin while keeping the fish moist? What's your cooking method?"
+  },
+  "timestamp": "2026-02-06T12:34:30.454Z"
+}

@@ -1,0 +1,47 @@
+{
+  "contentHash": "83bbb6644259e79c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "½ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "3 tablespoons chopped fresh dill weed",
+        "searchTerm": "fresh dill",
+        "normalizedName": "Fresh Dill Weed"
+      },
+      {
+        "ingredient": "½ pound smoked marlin",
+        "searchTerm": "smoked marlin",
+        "normalizedName": "Smoked Marlin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Flake the smoked fish finely to distribute flavor evenly",
+      "Taste and adjust dill; fresh dill can be quite strong"
+    ],
+    "coachingPrompt": "Encourage the user to taste and balance the dill flavor appropriately."
+  },
+  "timestamp": "2026-02-06T19:53:07.397Z"
+}

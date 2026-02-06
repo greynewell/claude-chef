@@ -1,0 +1,48 @@
+{
+  "contentHash": "05f665279103fe20",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices (1/2 inch thick) hearty country bread",
+        "searchTerm": "country bread",
+        "normalizedName": "Country Bread"
+      },
+      {
+        "ingredient": "4 slices roasted turkey breast",
+        "searchTerm": "roasted turkey breast",
+        "normalizedName": "Roasted Turkey Breast"
+      },
+      {
+        "ingredient": "1 slice pepperjack cheese",
+        "searchTerm": "pepperjack cheese",
+        "normalizedName": "Pepperjack Cheese"
+      },
+      {
+        "ingredient": "2 teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 teaspoons strawberry preserves",
+        "searchTerm": "strawberry preserves",
+        "normalizedName": "Strawberry Preserves"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread lightly before assembly to prevent sogginess from preserves",
+      "Butter bread and warm in skillet for a panini-style sandwich"
+    ],
+    "coachingPrompt": "How can you balance the sweetness of preserves with the spice of pepperjack?"
+  },
+  "timestamp": "2026-02-06T20:01:32.479Z"
+}

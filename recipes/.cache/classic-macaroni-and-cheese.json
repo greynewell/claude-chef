@@ -1,0 +1,58 @@
+{
+  "contentHash": "677bb08e023201cb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package macaroni",
+        "searchTerm": "macaroni",
+        "normalizedName": "Macaroni"
+      },
+      {
+        "ingredient": "1 pound sharp Cheddar cheese, sliced",
+        "searchTerm": "sharp Cheddar cheese",
+        "normalizedName": "Sharp Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (12 fluid ounce) can evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use sharp Cheddar for more pronounced cheese flavor",
+      "Layer noodles and cheese rather than stirring to distribute evenly",
+      "Evaporated milk creates a creamier sauce than regular milk"
+    ],
+    "coachingPrompt": "Help the cook understand the advantage of layering versus mixing, and why sharp Cheddar and evaporated milk are key to a superior mac and cheese."
+  },
+  "timestamp": "2026-02-06T03:32:51.083Z"
+}

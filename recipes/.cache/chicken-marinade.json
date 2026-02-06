@@ -1,0 +1,58 @@
+{
+  "contentHash": "c25ac38fc7f5015e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "½ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 tablespoon cooking sherry",
+        "searchTerm": "cooking sherry",
+        "normalizedName": "Cooking Sherry"
+      },
+      {
+        "ingredient": "3 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "3 cloves garlic, crushed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "4 boneless, skinless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl or dish",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Resealable bag or container",
+        "searchTerm": "storage container"
+      }
+    ],
+    "cookingTips": [
+      "Whisk marinade components together to fully dissolve brown sugar",
+      "Marinate chicken for at least 2 hours, or up to 24 hours for deeper flavor",
+      "Bring marinated chicken to room temperature for 20 minutes before cooking for even cooking"
+    ],
+    "coachingPrompt": "Guide the user to balance the salty, sweet, and savory components for an optimal Asian-style marinade."
+  },
+  "timestamp": "2026-02-06T02:34:27.691Z"
+}

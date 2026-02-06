@@ -1,0 +1,58 @@
+{
+  "contentHash": "b83b5051b3911023",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 gallons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 cups brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 cup pork seasoning (such as Fraboni's® Porketta®)",
+        "searchTerm": "pork seasoning",
+        "normalizedName": "Pork Seasoning"
+      },
+      {
+        "ingredient": "1 cup garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 cup onion powder",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      },
+      {
+        "ingredient": "4 ounces pink speed-cure salt",
+        "searchTerm": "curing salt",
+        "normalizedName": "Curing Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Brine Container",
+        "searchTerm": "brining bucket"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Refrigerator",
+        "searchTerm": "refrigerator"
+      }
+    ],
+    "cookingTips": [
+      "Dissolve brown sugar completely before adding ribs to ensure even brine distribution",
+      "Use pink curing salt (not table salt) for proper preservation and flavor",
+      "Brine ribs for 12-24 hours in refrigeration for optimal results"
+    ],
+    "coachingPrompt": "This is a dry brine with high concentrations of powder seasonings. How would you ensure even distribution without clumping?"
+  },
+  "timestamp": "2026-02-05T23:30:41.324Z"
+}

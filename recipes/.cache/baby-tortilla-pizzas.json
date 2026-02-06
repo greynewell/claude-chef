@@ -1,0 +1,53 @@
+{
+  "contentHash": "f232768f643485b7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 (8 ounce) package flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "½ cup pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "shredded mozzarella",
+        "normalizedName": "Shredded Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 (8 ounce) package sliced pepperoni",
+        "searchTerm": "pepperoni slices",
+        "normalizedName": "Pepperoni"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Lightly spray tortillas to make them crispier when baked",
+      "Spread sauce evenly and don't overfill or toppings will slide off",
+      "Bake just until cheese melts for soft, pliable pizza"
+    ],
+    "coachingPrompt": "Help me assemble these quick, kid-friendly pizzas on tortilla bases."
+  },
+  "timestamp": "2026-02-05T22:47:30.099Z"
+}

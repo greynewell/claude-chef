@@ -1,0 +1,42 @@
+{
+  "contentHash": "d9e8d5a1bb86cb27",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups strawberries, rinsed, hulled, and quartered",
+        "searchTerm": "strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "1 tablespoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 teaspoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Glass bowl",
+        "searchTerm": "glass bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook over medium heat to preserve strawberry flavor and color",
+      "Stir occasionally to ensure even cooking without breaking down berries too much"
+    ],
+    "coachingPrompt": "How does this minimal ingredient list maintain fruit integrity while creating a cohesive compote?"
+  },
+  "timestamp": "2026-02-06T11:39:09.588Z"
+}

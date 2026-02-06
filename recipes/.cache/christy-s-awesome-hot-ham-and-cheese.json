@@ -1,0 +1,54 @@
+{
+  "contentHash": "b1fa78addff1a846",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices whole grain bread",
+        "searchTerm": "whole grain bread",
+        "normalizedName": "Whole Grain Bread"
+      },
+      {
+        "ingredient": "2 teaspoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 slices Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "2 thin slices deli ham",
+        "searchTerm": "deli ham",
+        "normalizedName": "Deli Ham"
+      },
+      {
+        "ingredient": "1 teaspoon mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon whole grain mustard",
+        "searchTerm": "whole grain mustard",
+        "normalizedName": "Whole Grain Mustard"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Butter the bread lightly for even browning on both sides",
+      "Heat the skillet to medium to avoid burning bread while cheese melts",
+      "Press gently with spatula for crispy exterior and melted interior"
+    ],
+    "coachingPrompt": "Help the user achieve the perfect grilled cheese sandwich with melted Swiss cheese and crispy, golden bread."
+  },
+  "timestamp": "2026-02-06T03:18:52.194Z"
+}

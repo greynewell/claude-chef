@@ -1,0 +1,53 @@
+{
+  "contentHash": "8f7b9aa79555b086",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (.25 ounce) package active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "1 cup warm water (110 degrees F/45 degrees C)",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 ½ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 quart vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 tablespoons confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep frying pot",
+        "searchTerm": "deep pot"
+      },
+      {
+        "name": "candy thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Ensure water temperature is exactly 110°F for proper yeast activation",
+      "Let dough rise for 1 hour until doubled in size before frying",
+      "Fry at 350°F (175°C) until golden brown on both sides, about 2-3 minutes total"
+    ],
+    "coachingPrompt": "Guide the user through the yeast fermentation process and help them achieve light, airy fried dough."
+  },
+  "timestamp": "2026-02-06T22:22:02.387Z"
+}

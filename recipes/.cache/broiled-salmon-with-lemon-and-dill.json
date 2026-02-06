@@ -1,0 +1,58 @@
+{
+  "contentHash": "8db49520dd07f680",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds salmon, skinned and deboned",
+        "searchTerm": "salmon",
+        "normalizedName": "Salmon"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 lemon",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "½ tablespoon chopped fresh dill, or more to taste",
+        "searchTerm": "dill",
+        "normalizedName": "Dill"
+      },
+      {
+        "ingredient": "½ tablespoon garlic powder, or more to taste",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "broiler pan",
+        "searchTerm": "broiler pan"
+      },
+      {
+        "name": "microplane grater",
+        "searchTerm": "microplane grater"
+      }
+    ],
+    "cookingTips": [
+      "Use fresh dill for best flavor over dried",
+      "Add lemon slices on top of salmon for brightness"
+    ],
+    "coachingPrompt": "How do you keep salmon from drying out under high broiler heat?"
+  },
+  "timestamp": "2026-02-06T00:46:15.322Z"
+}

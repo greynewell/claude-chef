@@ -1,0 +1,48 @@
+{
+  "contentHash": "a32cd1e85ab5acfb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 teaspoons Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "4 slices whole-grain bread",
+        "searchTerm": "whole-grain bread",
+        "normalizedName": "Whole-Grain Bread"
+      },
+      {
+        "ingredient": "2 ounces shredded pepperjack cheese",
+        "searchTerm": "pepperjack cheese",
+        "normalizedName": "Pepperjack Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Waffle Iron",
+        "searchTerm": "waffle iron"
+      },
+      {
+        "name": "Small Knife",
+        "searchTerm": "butter knife"
+      },
+      {
+        "name": "Plate",
+        "searchTerm": "serving plate"
+      }
+    ],
+    "cookingTips": [
+      "Spread mayonnaise on outside of bread for crispier, more flavorful crust than butter",
+      "Add mustard inside with cheese for subtle tangy depth",
+      "Close waffle iron gently to avoid compressing sandwich and squeezing out filling"
+    ],
+    "coachingPrompt": "How does cooking a grilled cheese in a waffle iron change texture compared to a skillet?"
+  },
+  "timestamp": "2026-02-06T21:53:15.667Z"
+}

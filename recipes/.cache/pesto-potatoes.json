@@ -1,0 +1,48 @@
+{
+  "contentHash": "aa24f853956ec333",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 small new potatoes, cut into 1-inch pieces",
+        "searchTerm": "new potato",
+        "normalizedName": "New Potato"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "3 tablespoons basil pesto",
+        "searchTerm": "basil pesto",
+        "normalizedName": "Basil Pesto"
+      },
+      {
+        "ingredient": "1 teaspoon kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Boil potatoes until just tender to maintain shape and texture",
+      "Toss warm potatoes with pesto for better flavor absorption",
+      "Use kosher salt for more even seasoning distribution"
+    ],
+    "coachingPrompt": "How can you turn a simple boiled potato side dish into something special with fresh pesto?"
+  },
+  "timestamp": "2026-02-06T14:40:08.640Z"
+}

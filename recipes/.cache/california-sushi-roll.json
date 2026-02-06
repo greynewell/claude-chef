@@ -1,0 +1,68 @@
+{
+  "contentHash": "2fe79389b8905f81",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "jasmine rice",
+        "searchTerm": "jasmine rice",
+        "normalizedName": "Jasmine Rice"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "rice vinegar",
+        "searchTerm": "rice vinegar",
+        "normalizedName": "Rice Vinegar"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "nori",
+        "searchTerm": "nori seaweed",
+        "normalizedName": "Nori"
+      },
+      {
+        "ingredient": "cucumber",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "imitation crab",
+        "searchTerm": "imitation crab",
+        "normalizedName": "Imitation Crabmeat"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sushi mat",
+        "searchTerm": "sushi mat"
+      },
+      {
+        "name": "Rice cooker",
+        "searchTerm": "rice cooker"
+      },
+      {
+        "name": "Sharp knife",
+        "searchTerm": "sharp knife"
+      }
+    ],
+    "cookingTips": [
+      "Jasmine rice has more flavor than sushi rice; toast it lightly if desired for deeper taste",
+      "Fill the rolling mat about 1/3 full with rice for proper rolling tension",
+      "Cut rolls with a very sharp, wet knife to prevent crushing ingredients"
+    ],
+    "coachingPrompt": "What technique ensures your sushi rolls are evenly filled and properly sealed at the seams?"
+  },
+  "timestamp": "2026-02-06T01:15:44.021Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "48831dbd795f188a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¾ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "¼ cup sesame oil",
+        "searchTerm": "sesame oil",
+        "normalizedName": "Sesame Oil"
+      },
+      {
+        "ingredient": "4 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "3 green onions, chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "2 tablespoons sesame seeds",
+        "searchTerm": "sesame seeds",
+        "normalizedName": "Sesame Seed"
+      },
+      {
+        "ingredient": "5 pounds beef short ribs",
+        "searchTerm": "beef short ribs",
+        "normalizedName": "Beef Short Rib"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "grilling tongs"
+      }
+    ],
+    "cookingTips": [
+      "Mix marinade until sugar is fully dissolved before adding ribs",
+      "Marinate for 6-8 hours for optimal flavor development",
+      "Grill over medium-high heat until caramelized and cooked through, about 4-5 minutes per side"
+    ],
+    "coachingPrompt": "Help the user manage the grill temperature to prevent sugar from burning while ensuring the meat cooks evenly throughout."
+  },
+  "timestamp": "2026-02-06T10:33:56.217Z"
+}

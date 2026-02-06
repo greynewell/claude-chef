@@ -1,0 +1,53 @@
+{
+  "contentHash": "0b8b662170390181",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices white bread",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 teaspoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 slice whole wheat bread",
+        "searchTerm": "whole wheat bread",
+        "normalizedName": "Whole Wheat Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "spreading knife",
+        "searchTerm": "spreading knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Toast the bread lightly to add structure and prevent sogginess",
+      "Spread the butter and peanut butter evenly to all corners for consistent flavor in each bite",
+      "Cut the sandwich diagonally to create towers that stand upright"
+    ],
+    "coachingPrompt": "Help the user create a simple yet satisfying treat. Guide them on balancing the bread types for interesting texture and flavor combinations."
+  },
+  "timestamp": "2026-02-06T04:30:10.114Z"
+}

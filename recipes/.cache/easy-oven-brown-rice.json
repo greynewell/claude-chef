@@ -1,0 +1,43 @@
+{
+  "contentHash": "2ae8d2e3d2191829",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups brown rice",
+        "searchTerm": "brown rice",
+        "normalizedName": "Brown Rice"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 cups boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "oven-safe pot or casserole dish",
+        "searchTerm": "oven-safe pot"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Use a covered pot to trap steam and ensure fluffy rice",
+      "Boil water before adding to rice for faster cooking"
+    ],
+    "coachingPrompt": "Help the user understand the ratio of water to rice (2:1) and the importance of not stirring during cooking."
+  },
+  "timestamp": "2026-02-06T05:54:15.927Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "cf8ed8ff6596bdcf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 ounces fresh strawberries, hulled and sliced",
+        "searchTerm": "strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "1 tablespoon sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 center-cut slice of watermelon, about 1 inch thick",
+        "searchTerm": "watermelon",
+        "normalizedName": "Watermelon"
+      },
+      {
+        "ingredient": "1 cup whipped cream, or to taste",
+        "searchTerm": "whipped cream",
+        "normalizedName": "Whipped Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Choose a ripe watermelon and cut a thick center slice for structural integrity",
+      "Macerate strawberries lightly with sugar before topping",
+      "Serve immediately after assembly to prevent watermelon from becoming soggy"
+    ],
+    "coachingPrompt": "What makes watermelon an effective base for a fruit dessert, and what are its structural limitations?"
+  },
+  "timestamp": "2026-02-06T19:36:23.951Z"
+}

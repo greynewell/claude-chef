@@ -1,0 +1,53 @@
+{
+  "contentHash": "041b1f298b0eaebd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 cup beef drippings",
+        "searchTerm": "beef drippings",
+        "normalizedName": "Beef Drippings"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Muffin tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Let batter rest at least 30 minutes before baking to allow flour to fully hydrate",
+      "Preheat muffin tin with hot beef drippings until smoking—this is essential for rise",
+      "Don't open oven door during baking or puddings will collapse"
+    ],
+    "coachingPrompt": "How do I get Yorkshire puddings to puff up and stay puffy? What's the temperature secret?"
+  },
+  "timestamp": "2026-02-06T07:54:16.414Z"
+}

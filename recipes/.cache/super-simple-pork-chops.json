@@ -1,0 +1,42 @@
+{
+  "contentHash": "8817fabfe18c9b33",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 boneless pork loin chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Boneless Pork Loin Chop"
+      },
+      {
+        "ingredient": "¼ cup apple juice",
+        "searchTerm": "apple juice",
+        "normalizedName": "Apple Juice"
+      },
+      {
+        "ingredient": "¼ cup maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Don't overcook pork chops; 145°F internal temperature keeps them moist",
+      "Let meat rest for a few minutes before serving to retain juices"
+    ],
+    "coachingPrompt": "Emphasize the importance of not overdoing the pork to maintain tenderness."
+  },
+  "timestamp": "2026-02-06T19:53:07.396Z"
+}

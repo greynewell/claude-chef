@@ -1,0 +1,68 @@
+{
+  "contentHash": "5dc3f95cd7ee5bca",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 ½ pounds ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (14 ounce) can diced tomatoes with green chile peppers (such as RO*TEL®), undrained",
+        "searchTerm": "diced tomatoes with green chile",
+        "normalizedName": "Diced Tomatoes With Green Chile"
+      },
+      {
+        "ingredient": "1 sleeve buttery round crackers (such as Ritz®), crushed",
+        "searchTerm": "buttery round cracker",
+        "normalizedName": "Buttery Round Cracker"
+      },
+      {
+        "ingredient": "1 teaspoon onion flakes  (Optional)",
+        "searchTerm": "onion flake",
+        "normalizedName": "Onion Flake"
+      },
+      {
+        "ingredient": "1 ½ teaspoons garlic powder, or to taste",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 ½ teaspoons seasoned salt, or to taste",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper, or to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "loaf pan",
+        "searchTerm": "9x5 loaf pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "large mixing bowl"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "instant-read thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Don't overmix the meatloaf; handle it minimally to keep it tender and moist",
+      "Use the canned tomatoes with juice to keep meatloaf moist during baking",
+      "Crushed crackers help bind the mixture while adding seasoning and tenderness"
+    ],
+    "coachingPrompt": "This uses ingredients found in many pantries. How does the combination of canned tomatoes and crackers create an easy but flavorful meatloaf?"
+  },
+  "timestamp": "2026-02-06T20:41:45.184Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "8bde16d074193fe9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "½ cup chutney",
+        "searchTerm": "chutney",
+        "normalizedName": "Chutney"
+      },
+      {
+        "ingredient": "1 teaspoon curry powder",
+        "searchTerm": "curry powder",
+        "normalizedName": "Curry Powder"
+      },
+      {
+        "ingredient": "2 teaspoons lime zest",
+        "searchTerm": "lime zest",
+        "normalizedName": "Lime Zest"
+      },
+      {
+        "ingredient": "¼ cup fresh lime juice",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "4 cups diced, cooked chicken breast meat",
+        "searchTerm": "cooked chicken breast",
+        "normalizedName": "Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Chef's Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Microplane or Zester",
+        "searchTerm": "zester"
+      }
+    ],
+    "cookingTips": [
+      "Use rotisserie chicken to save time and add extra flavor",
+      "Zest lime before juicing for best flavor",
+      "Let salad sit 15 minutes for flavors to meld together"
+    ],
+    "coachingPrompt": "Guide the cook to balance sweetness of chutney with acidity from lime and spice from curry."
+  },
+  "timestamp": "2026-02-06T03:19:50.990Z"
+}

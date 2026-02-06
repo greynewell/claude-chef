@@ -1,0 +1,62 @@
+{
+  "contentHash": "df54d6821ab30d1c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (10.75 ounce) cans cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 (8 ounce) package sliced fresh mushrooms",
+        "searchTerm": "fresh mushrooms",
+        "normalizedName": "Fresh Mushroom"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 small onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 pounds beef tips, cut into bite-size pieces",
+        "searchTerm": "beef tips",
+        "normalizedName": "Beef Tip"
+      },
+      {
+        "ingredient": "1 (8 ounce) package wide egg noodles",
+        "searchTerm": "egg noodles",
+        "normalizedName": "Wide Egg Noodle"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Large pot",
+        "searchTerm": "pasta pot"
+      },
+      {
+        "name": "Knife for cutting",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Cut beef into uniform pieces for even cooking throughout",
+      "Cook pasta separately and combine just before serving to prevent mushiness",
+      "Sauté mushrooms and onion in butter before adding to slow cooker for deeper flavor"
+    ],
+    "coachingPrompt": "Help the user understand how to build fond through sautéing and timing pasta cooking to prevent overcooking in stroganoff."
+  },
+  "timestamp": "2026-02-06T06:01:36.217Z"
+}

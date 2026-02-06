@@ -1,0 +1,52 @@
+{
+  "contentHash": "67794a479c41773a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (6 ounce) salmon fillet, frozen",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "1 teaspoon sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 dash liquid smoke flavoring",
+        "searchTerm": "liquid smoke",
+        "normalizedName": "Liquid Smoke"
+      },
+      {
+        "ingredient": "2 tablespoons butter, divided",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "lid",
+        "searchTerm": "skillet lid"
+      }
+    ],
+    "cookingTips": [
+      "Cook salmon skin-side down first to create a crispy exterior",
+      "Don't flip until the skin releases easily; salmon is delicate"
+    ],
+    "coachingPrompt": "Guide the user on cooking frozen salmon properly and achieving crispy skin"
+  },
+  "timestamp": "2026-02-06T18:26:30.030Z"
+}

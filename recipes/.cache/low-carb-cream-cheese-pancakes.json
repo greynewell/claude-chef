@@ -1,0 +1,48 @@
+{
+  "contentHash": "bdbd97b32115e7f7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 ounces cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 packet stevia",
+        "searchTerm": "stevia",
+        "normalizedName": "Stevia"
+      },
+      {
+        "ingredient": "½ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender or food processor",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Non-stick skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula for flipping",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Blend ingredients until completely smooth for best texture",
+      "Cook on medium-low heat to prevent burning the outside before inside cooks",
+      "These pancakes are delicate - flip carefully with a thin spatula"
+    ],
+    "coachingPrompt": "This is a quick breakfast hack. How can you customize these pancakes with toppings you already have?"
+  },
+  "timestamp": "2026-02-06T11:36:10.175Z"
+}

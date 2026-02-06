@@ -1,0 +1,53 @@
+{
+  "contentHash": "f1adaddd19d7a2ed",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 mackerel fillets",
+        "searchTerm": "mackerel fillet",
+        "normalizedName": "Mackerel Fillet"
+      },
+      {
+        "ingredient": "¼ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "¼ cup mirin (Japanese sweet wine)",
+        "searchTerm": "mirin",
+        "normalizedName": "Mirin"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ tablespoon grated fresh ginger root",
+        "searchTerm": "fresh ginger",
+        "normalizedName": "Fresh Ginger"
+      }
+    ],
+    "gear": [
+      {
+        "name": "broiler pan",
+        "searchTerm": "broiler pan"
+      },
+      {
+        "name": "small bowl for glaze",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven with broiler",
+        "searchTerm": "broiler"
+      }
+    ],
+    "cookingTips": [
+      "Mix soy sauce, mirin, sugar, and ginger together as a glaze before broiling",
+      "Brush mackerel with glaze midway through cooking for better flavor and moisture",
+      "Don't overcook; mackerel is done when it flakes easily with a fork"
+    ],
+    "coachingPrompt": "How long should I broil mackerel, and should I apply the glaze before or during cooking?"
+  },
+  "timestamp": "2026-02-06T10:20:07.380Z"
+}

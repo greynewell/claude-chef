@@ -1,0 +1,44 @@
+{
+  "contentHash": "9d02642363b09f93",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 mango - peeled, seeded, and cut into chunks",
+        "searchTerm": "mango",
+        "normalizedName": "Mango"
+      },
+      {
+        "ingredient": "1 banana, peeled and chopped",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "1 cup orange juice",
+        "searchTerm": "orange juice",
+        "normalizedName": "Orange Juice"
+      },
+      {
+        "ingredient": "1 cup vanilla nonfat yogurt",
+        "searchTerm": "vanilla yogurt",
+        "normalizedName": "Vanilla Yogurt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Measuring Cup",
+        "searchTerm": "measuring cup"
+      }
+    ],
+    "cookingTips": [
+      "Peel and seed mango before freezing for easier blending",
+      "Use frozen fruit for a thicker, creamier smoothie",
+      "Blend on high speed until completely smooth"
+    ],
+    "coachingPrompt": "How can you achieve a smooth consistency, and what's the best texture for a tropical smoothie?"
+  },
+  "timestamp": "2026-02-06T07:33:16.403Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "f1ad4fa2e0d78765",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅓ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "⅓ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 lime, juiced",
+        "searchTerm": "lime juice",
+        "normalizedName": "Lime Juice"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 teaspoon Archer Farms™ ancho chile powder",
+        "searchTerm": "ancho chile powder",
+        "normalizedName": "Ancho Chile Powder"
+      },
+      {
+        "ingredient": "8 ears corn, grilled",
+        "searchTerm": "corn",
+        "normalizedName": "Corn"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "brush or spoon",
+        "searchTerm": "basting brush"
+      }
+    ],
+    "cookingTips": [
+      "Grill corn until lightly charred for smoky flavor before coating",
+      "Mix mayo and sour cream coating ahead and chill until serving",
+      "Apply coating generously and sprinkle cheese and chile powder on fresh coating"
+    ],
+    "coachingPrompt": "How should you grill the corn to get the best flavor for elote?"
+  },
+  "timestamp": "2026-02-06T06:17:20.158Z"
+}

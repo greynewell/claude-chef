@@ -1,0 +1,48 @@
+{
+  "contentHash": "d13039aaf0807a06",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 (16 ounce) package bologna",
+        "searchTerm": "bologna",
+        "normalizedName": "Bologna"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar creamy salad dressing",
+        "searchTerm": "creamy salad dressing",
+        "normalizedName": "Creamy Salad Dressing"
+      },
+      {
+        "ingredient": "1 cup sweet pickle relish",
+        "searchTerm": "sweet pickle relish",
+        "normalizedName": "Sweet Pickle Relish"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food processor or grinder",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Hard-boil eggs first and let cool completely before chopping for easier handling",
+      "Use a food processor to finely chop bologna quickly and evenly",
+      "Chill the mixture for at least 1 hour before serving for better flavor development"
+    ],
+    "coachingPrompt": "This retro sandwich spread is quick and budget-friendly. Help the user chop ingredients uniformly and achieve a creamy, cohesive mixture for easy spreading."
+  },
+  "timestamp": "2026-02-06T00:28:57.359Z"
+}

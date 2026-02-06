@@ -1,0 +1,63 @@
+{
+  "contentHash": "8911516e0cba42ab",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 large skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 (12 ounce) package broccoli coleslaw mix",
+        "searchTerm": "broccoli slaw",
+        "normalizedName": "Broccoli Coleslaw"
+      },
+      {
+        "ingredient": "1 teaspoon sesame oil, or to taste",
+        "searchTerm": "sesame oil",
+        "normalizedName": "Sesame Oil"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup peanut sauce",
+        "searchTerm": "peanut sauce",
+        "normalizedName": "Peanut Sauce"
+      },
+      {
+        "ingredient": "1 pinch salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Cut chicken into bite-size pieces before cooking for quick, even cooking",
+      "Don't overcook the broccoli slaw—add it near the end to keep it crisp",
+      "Use a jar of quality peanut sauce to save time without sacrificing flavor"
+    ],
+    "coachingPrompt": "Remind the user to not crowd the pan when cooking chicken, working in batches if needed for proper browning and even cooking."
+  },
+  "timestamp": "2026-02-06T20:30:54.666Z"
+}

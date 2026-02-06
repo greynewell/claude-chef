@@ -1,0 +1,48 @@
+{
+  "contentHash": "c90172d668c7927d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "oil",
+        "searchTerm": "oil",
+        "normalizedName": "Oil"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "yellow cornmeal",
+        "searchTerm": "cornmeal yellow",
+        "normalizedName": "Yellow Cornmeal"
+      },
+      {
+        "ingredient": "seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "measuring cups and spoons",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Heat oil in skillet until very hot for crispiest edges",
+      "Use boiling water for proper texture",
+      "Don't overmix the batter"
+    ],
+    "coachingPrompt": "What's the technique to get crispy edges and a tender center on this hot water cornbread?"
+  },
+  "timestamp": "2026-02-06T21:28:38.625Z"
+}

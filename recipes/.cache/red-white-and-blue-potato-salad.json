@@ -1,0 +1,53 @@
+{
+  "contentHash": "052398f9a26cc251",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound medium purple potatoes, scrubbed",
+        "searchTerm": "purple potatoes",
+        "normalizedName": "Purple Potato"
+      },
+      {
+        "ingredient": "2 bunches red radishes, trimmed and diced",
+        "searchTerm": "red radishes",
+        "normalizedName": "Red Radish"
+      },
+      {
+        "ingredient": "½ white onion, diced",
+        "searchTerm": "white onion",
+        "normalizedName": "White Onion"
+      },
+      {
+        "ingredient": "½ cup crumbled blue cheese",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      },
+      {
+        "ingredient": "3 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "cooking pot"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "salad bowl"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "cutting knife"
+      }
+    ],
+    "cookingTips": [
+      "Cook potatoes until just tender; avoid overcooking for better texture",
+      "Dress warm potatoes to absorb flavors better",
+      "Add blue cheese last to prevent crumbling during mixing"
+    ],
+    "coachingPrompt": "Guide the user through selecting and preparing potatoes that hold shape, and explain how purple potatoes and red radishes create the patriotic color scheme."
+  },
+  "timestamp": "2026-02-06T16:05:21.057Z"
+}

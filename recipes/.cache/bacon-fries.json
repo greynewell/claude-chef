@@ -1,0 +1,48 @@
+{
+  "contentHash": "ee80a417aeefff73",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 (28 ounce) package frozen steak fries",
+        "searchTerm": "frozen steak fries",
+        "normalizedName": "Frozen Steak Fries"
+      },
+      {
+        "ingredient": "1 (16 ounce) package bacon slices, halved",
+        "searchTerm": "bacon slices",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "¼ teaspoon seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Arrange bacon pieces evenly over fries for consistent crisping",
+      "Bake at 400°F for 25-30 minutes, stirring halfway through to prevent sticking",
+      "Drain on paper towels after baking to remove excess bacon fat"
+    ],
+    "coachingPrompt": "Guide the user in achieving crispy bacon and perfectly cooked fries that cook together harmoniously."
+  },
+  "timestamp": "2026-02-05T22:51:06.702Z"
+}

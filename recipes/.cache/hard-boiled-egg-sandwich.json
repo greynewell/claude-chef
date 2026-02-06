@@ -1,0 +1,63 @@
+{
+  "contentHash": "7c45dc251fd2df8d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices white bread, toasted",
+        "searchTerm": "white bread",
+        "normalizedName": "White Bread"
+      },
+      {
+        "ingredient": "1 tablespoon butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons whipped cream cheese",
+        "searchTerm": "whipped cream cheese",
+        "normalizedName": "Whipped Cream Cheese"
+      },
+      {
+        "ingredient": "1 hard-boiled egg, sliced",
+        "searchTerm": "hard-boiled egg",
+        "normalizedName": "Hard-Boiled Egg"
+      },
+      {
+        "ingredient": "5 dashes hot pepper sauce (such as Frank's RedHot®), or to taste",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      },
+      {
+        "ingredient": "1 pinch salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Toast the bread to provide structure and prevent sogginess from the cream cheese and egg",
+      "Use softened butter spread first as a barrier before the cream cheese for better adhesion",
+      "Slice the hard-boiled egg just before assembly and arrange it evenly across both bread slices"
+    ],
+    "coachingPrompt": "This simple sandwich gets a kick from hot sauce and creaminess from cream cheese. Would you like to toast the bread until crispy or lightly golden?"
+  },
+  "timestamp": "2026-02-06T08:45:37.993Z"
+}

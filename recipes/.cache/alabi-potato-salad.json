@@ -1,0 +1,68 @@
+{
+  "contentHash": "4da03c5298c8deb0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 pounds potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 cup dill pickle relish",
+        "searchTerm": "dill pickle relish",
+        "normalizedName": "Dill Pickle Relish"
+      },
+      {
+        "ingredient": "¼ cup prepared yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      },
+      {
+        "ingredient": "12 hard-cooked eggs, peeled and chopped",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 cups chopped celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "2 teaspoons paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "20 buttery round crackers",
+        "searchTerm": "buttery crackers",
+        "normalizedName": "Buttery Cracker"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Cook potatoes until just fork-tender, then cool before chopping to avoid mushiness",
+      "Add dressing while potatoes are still slightly warm to help flavors absorb",
+      "Refrigerate at least 2 hours before serving to allow flavors to meld"
+    ],
+    "coachingPrompt": "Help the user achieve the right potato texture and explain how warm potatoes absorb dressing better than cold ones."
+  },
+  "timestamp": "2026-02-05T21:49:27.923Z"
+}

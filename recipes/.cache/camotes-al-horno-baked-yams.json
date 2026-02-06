@@ -1,0 +1,48 @@
+{
+  "contentHash": "f57a982631cc5812",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 small yams",
+        "searchTerm": "yam",
+        "normalizedName": "Yam"
+      },
+      {
+        "ingredient": "6 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "6 teaspoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "3 teaspoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Fork for pricking",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Prick yams with fork before baking to prevent them from bursting",
+      "Place on baking sheet to catch any drips and prevent oven mess",
+      "Yams are done when a knife slides through easily; baking time varies with size"
+    ],
+    "coachingPrompt": "At what oven temperature and for how long should I bake small yams until tender?"
+  },
+  "timestamp": "2026-02-06T01:16:48.919Z"
+}

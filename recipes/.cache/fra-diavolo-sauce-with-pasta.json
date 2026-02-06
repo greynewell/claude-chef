@@ -1,0 +1,77 @@
+{
+  "contentHash": "f83b7370e82adbb9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 tablespoons olive oil, divided",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "6 cloves garlic, crushed",
+        "searchTerm": "garlic fresh",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "3 cups whole peeled tomatoes with liquid, chopped",
+        "searchTerm": "tomatoes canned whole peeled",
+        "normalizedName": "Canned Tomato"
+      },
+      {
+        "ingredient": "1 ½ teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon crushed red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "1 (16 ounce) package linguine pasta",
+        "searchTerm": "linguine pasta",
+        "normalizedName": "Linguine Pasta"
+      },
+      {
+        "ingredient": "8 ounces small shrimp, peeled and deveined",
+        "searchTerm": "shrimp small",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "8 ounces bay scallops",
+        "searchTerm": "scallops bay",
+        "normalizedName": "Bay Scallop"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh parsley",
+        "searchTerm": "parsley fresh",
+        "normalizedName": "Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "pasta strainer",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Sauté garlic in olive oil until fragrant, then add crushed red pepper flakes to bloom the spice flavor",
+      "Simmer tomato sauce for 10 minutes before adding seafood to allow flavors to develop",
+      "Cook shrimp and scallops just until opaque, typically 3-5 minutes, to avoid toughness"
+    ],
+    "coachingPrompt": "What timing strategy ensures the seafood is perfectly cooked while the pasta finishes cooking?"
+  },
+  "timestamp": "2026-02-06T06:51:48.272Z"
+}

@@ -1,0 +1,62 @@
+{
+  "contentHash": "8515afc00df8cd2d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅓ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "4 tablespoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "1 (14 ounce) can corn kernels, drained",
+        "searchTerm": "corn kernels",
+        "normalizedName": "Corn Kernel"
+      },
+      {
+        "ingredient": "2 (14.75 ounce) cans cream-style corn",
+        "searchTerm": "cream corn",
+        "normalizedName": "Cream-Style Corn"
+      }
+    ],
+    "gear": [
+      {
+        "name": "casserole dish",
+        "searchTerm": "9x13 casserole dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Combine both whole kernel and cream-style corn for texture variety",
+      "Bake in water bath to ensure custard sets evenly without curdling"
+    ],
+    "coachingPrompt": "Guide the user through tempering eggs and achieving a silky custard texture in this savory-sweet corn pudding."
+  },
+  "timestamp": "2026-02-06T07:50:24.328Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "6edc55c9ec9b5fb2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups shredded potato",
+        "searchTerm": "shredded potatoes",
+        "normalizedName": "Shredded Potato"
+      },
+      {
+        "ingredient": "¼ cup grated onion",
+        "searchTerm": "grated onion",
+        "normalizedName": "Grated Onion"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "6 saltine crackers, or as needed, crushed",
+        "searchTerm": "saltine crackers",
+        "normalizedName": "Saltine Cracker"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ cup vegetable oil, or as needed",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet or frying pan",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Squeeze excess moisture from shredded potatoes to prevent soggy latkes",
+      "Keep oil hot but not smoking for crispy golden results",
+      "Fry in batches to avoid overcrowding the pan"
+    ],
+    "coachingPrompt": "Teach the user how to remove excess moisture and achieve crispy-edged, golden latkes with a tender interior."
+  },
+  "timestamp": "2026-02-06T12:45:08.411Z"
+}

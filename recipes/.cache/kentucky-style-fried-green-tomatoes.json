@@ -1,0 +1,63 @@
+{
+  "contentHash": "e6d92f33c8fc748f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup bacon grease",
+        "searchTerm": "bacon grease",
+        "normalizedName": "Bacon Grease"
+      },
+      {
+        "ingredient": "⅓ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¾ cup cornmeal",
+        "searchTerm": "cornmeal",
+        "normalizedName": "Cornmeal"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 green tomato, cut into 1/4 inch slices",
+        "searchTerm": "green tomato",
+        "normalizedName": "Green Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Shallow dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Pat tomato slices dry before breading to ensure crispy coating",
+      "Maintain oil temperature around 350°F for even browning",
+      "Fry in batches to avoid overcrowding the skillet"
+    ],
+    "coachingPrompt": "Why is it important to pat green tomatoes dry before frying?"
+  },
+  "timestamp": "2026-02-06T10:40:11.622Z"
+}

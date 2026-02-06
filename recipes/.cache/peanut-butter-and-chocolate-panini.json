@@ -1,0 +1,48 @@
+{
+  "contentHash": "31fe64ae2df5fb59",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 teaspoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup crunchy peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "8 slices firm bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "½ cup semi-sweet chocolate chips",
+        "searchTerm": "semi-sweet chocolate chips",
+        "normalizedName": "Semisweet Chocolate Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Panini Press",
+        "searchTerm": "panini press"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Small Bowl",
+        "searchTerm": "small bowl"
+      }
+    ],
+    "cookingTips": [
+      "Use firm bread to prevent sogginess",
+      "Spread peanut butter and chocolate evenly on bread before pressing",
+      "Cook on medium-high heat until bread is golden and chocolate is melted"
+    ],
+    "coachingPrompt": "Suggest using day-old bread that's firm enough to handle the panini press without tearing, and remind the user to work quickly so chocolate melts into sandwich."
+  },
+  "timestamp": "2026-02-06T14:23:07.953Z"
+}

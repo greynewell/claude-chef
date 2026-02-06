@@ -1,0 +1,63 @@
+{
+  "contentHash": "350f362cfc2089a4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (14 ounce) package prebaked pizza crust",
+        "searchTerm": "pizza crust",
+        "normalizedName": "Pizza Crust"
+      },
+      {
+        "ingredient": "1 cup diced cooked chicken breast",
+        "searchTerm": "cooked chicken breast",
+        "normalizedName": "Cooked Chicken Breast"
+      },
+      {
+        "ingredient": "3 tablespoons Buffalo wing sauce",
+        "searchTerm": "buffalo wing sauce",
+        "normalizedName": "Buffalo Wing Sauce"
+      },
+      {
+        "ingredient": "½ cup Buffalo wing sauce",
+        "searchTerm": "buffalo wing sauce",
+        "normalizedName": "Buffalo Wing Sauce"
+      },
+      {
+        "ingredient": "1 (4 ounce) package crumbled blue cheese",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      },
+      {
+        "ingredient": "1 stalk celery, thinly sliced",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Cheese Grater",
+        "searchTerm": "box grater"
+      }
+    ],
+    "cookingTips": [
+      "Preheat oven according to crust package directions for best crust texture",
+      "Spread sauce evenly and don't overload toppings to avoid soggy pizza",
+      "Bake until cheese is melted and edges are golden brown"
+    ],
+    "coachingPrompt": "Guide the user to build their pizza efficiently by prepping all toppings before assembly."
+  },
+  "timestamp": "2026-02-06T21:04:02.862Z"
+}

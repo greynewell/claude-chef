@@ -1,0 +1,63 @@
+{
+  "contentHash": "9ab408fcfba02bbe",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can diced tomatoes with juice",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "½ cup long grain white rice",
+        "searchTerm": "long grain white rice",
+        "normalizedName": "Long Grain White Rice"
+      },
+      {
+        "ingredient": "¾ cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet or saucepan",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Measuring cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef completely before adding other ingredients to prevent raw beef texture",
+      "Use long grain rice as it maintains its shape better during cooking than short grain",
+      "Allow rice to fully absorb liquid before serving for best texture"
+    ],
+    "coachingPrompt": "Guide the cook on how to time the cooking so rice and meat finish simultaneously for a cohesive dish."
+  },
+  "timestamp": "2026-02-06T08:44:34.908Z"
+}

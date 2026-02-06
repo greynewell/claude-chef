@@ -1,0 +1,58 @@
+{
+  "contentHash": "19c01eec692358ba",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 (11 ounce) package butterscotch chips",
+        "searchTerm": "butterscotch chips",
+        "normalizedName": "Butterscotch Chip"
+      },
+      {
+        "ingredient": "1 cup peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 cup flaked coconut",
+        "searchTerm": "coconut",
+        "normalizedName": "Coconut Flake"
+      },
+      {
+        "ingredient": "1 cup chopped walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "3 ½ cups miniature marshmallows",
+        "searchTerm": "marshmallows",
+        "normalizedName": "Marshmallow"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking pan",
+        "searchTerm": "baking pan"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Melt butter and butterscotch chips together slowly to prevent burning",
+      "Fold in marshmallows gently at the end to maintain shape",
+      "Refrigerate until set before cutting"
+    ],
+    "coachingPrompt": "Would you like suggestions for ingredient substitutions—such as using pecans instead of walnuts?"
+  },
+  "timestamp": "2026-02-06T14:25:35.852Z"
+}

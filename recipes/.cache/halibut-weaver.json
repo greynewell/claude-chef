@@ -1,0 +1,58 @@
+{
+  "contentHash": "1ec47e51b1ef9331",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds halibut",
+        "searchTerm": "halibut",
+        "normalizedName": "Halibut"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 cup shredded Monterey Jack cheese",
+        "searchTerm": "monterey jack cheese",
+        "normalizedName": "Monterey Jack Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon dried dill weed",
+        "searchTerm": "dill",
+        "normalizedName": "Dill Weed"
+      },
+      {
+        "ingredient": "1 teaspoon mustard powder",
+        "searchTerm": "mustard powder",
+        "normalizedName": "Mustard Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Combine mayonnaise, cheeses, dill, and mustard into a cohesive topping",
+      "Spread topping evenly across halibut for consistent browning",
+      "Bake at 350°F for 20-25 minutes until fish flakes and topping is golden"
+    ],
+    "coachingPrompt": "Help me layer the cheese and herb topping on the halibut for an even cook and attractive presentation."
+  },
+  "timestamp": "2026-02-06T08:38:42.447Z"
+}

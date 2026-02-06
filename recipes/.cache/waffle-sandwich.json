@@ -1,0 +1,53 @@
+{
+  "contentHash": "45acaf6203f4e28a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 links pork sausage",
+        "searchTerm": "pork sausage",
+        "normalizedName": "Pork Sausage"
+      },
+      {
+        "ingredient": "1 slice Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 frozen waffles, toasted",
+        "searchTerm": "frozen waffles",
+        "normalizedName": "Frozen Waffle"
+      },
+      {
+        "ingredient": "¼ Red Delicious apple, sliced very thin",
+        "searchTerm": "Red Delicious apple",
+        "normalizedName": "Red Delicious Apple"
+      },
+      {
+        "ingredient": "½ teaspoon cinnamon-sugar",
+        "searchTerm": "cinnamon sugar",
+        "normalizedName": "Cinnamon Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Cook sausage links until crispy to provide textural contrast with soft waffle",
+      "Slice apples very thin to ensure they warm through but don't dry out",
+      "Assemble sandwich while waffle is still warm so cheese begins to soften"
+    ],
+    "coachingPrompt": "What sweet and savory flavor balance makes this unusual sweet-savory waffle sandwich work?"
+  },
+  "timestamp": "2026-02-06T21:53:15.668Z"
+}

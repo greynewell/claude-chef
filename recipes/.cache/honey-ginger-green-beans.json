@@ -1,0 +1,53 @@
+{
+  "contentHash": "2d3ebc831d166661",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds fresh green beans, trimmed",
+        "searchTerm": "green beans",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "¾ cup reduced-sodium soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 tablespoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon minced fresh ginger root",
+        "searchTerm": "ginger",
+        "normalizedName": "Ginger"
+      },
+      {
+        "ingredient": "1 cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Trim ends of green beans consistently for neat appearance",
+      "Mince garlic and ginger finely for better distribution of flavor",
+      "Green beans should be tender-crisp, not soft"
+    ],
+    "coachingPrompt": "How would you prevent the honey from burning while cooking the green beans?"
+  },
+  "timestamp": "2026-02-06T09:21:45.101Z"
+}

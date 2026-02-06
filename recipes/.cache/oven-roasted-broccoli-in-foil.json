@@ -1,0 +1,53 @@
+{
+  "contentHash": "ed07372dad3b5e8f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound small broccoli florets",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "sea salt to taste",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "fresh ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "aluminum foil",
+        "searchTerm": "aluminum foil"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Tear off large sheets of foil and create loose packets to allow steam circulation",
+      "Toss broccoli with oil, salt, and pepper before dividing into foil packets",
+      "Bake at 400°F for 12-15 minutes, then carefully open foil and top with Parmesan"
+    ],
+    "coachingPrompt": "Help the user cook broccoli in foil packets for a steamed-roasted texture that's tender and flavorful."
+  },
+  "timestamp": "2026-02-06T13:53:13.281Z"
+}

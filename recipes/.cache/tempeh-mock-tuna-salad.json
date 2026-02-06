@@ -1,0 +1,78 @@
+{
+  "contentHash": "0994022fbf8a0953",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "vegetable broth",
+        "searchTerm": "vegetable broth",
+        "normalizedName": "Vegetable Broth"
+      },
+      {
+        "ingredient": "tempeh",
+        "searchTerm": "tempeh",
+        "normalizedName": "Tempeh"
+      },
+      {
+        "ingredient": "soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "seaweed flakes or granules",
+        "searchTerm": "seaweed",
+        "normalizedName": "Seaweed Flake"
+      },
+      {
+        "ingredient": "red onion, minced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "celery, chopped",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "dill pickles, chopped",
+        "searchTerm": "dill pickles",
+        "normalizedName": "Dill Pickle"
+      },
+      {
+        "ingredient": "soy mayonnaise",
+        "searchTerm": "vegan mayonnaise",
+        "normalizedName": "Soy Mayonnaise"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Simmer tempeh in broth with soy sauce until tender and flaked, about 15 minutes",
+      "Add seaweed flakes to mimic ocean umami flavor of tuna",
+      "Chill salad for at least 1 hour before serving for better flavor melding"
+    ],
+    "coachingPrompt": "Help the user understand how seaweed and soy sauce create tuna-like umami, and guide them on texture balance with mayonnaise and vegetables."
+  },
+  "timestamp": "2026-02-06T20:23:26.335Z"
+}

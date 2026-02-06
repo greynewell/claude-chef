@@ -1,0 +1,63 @@
+{
+  "contentHash": "c5960b17283a91dc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (4 pound) chicken, cut into pieces",
+        "searchTerm": "whole chicken",
+        "normalizedName": "Chicken"
+      },
+      {
+        "ingredient": "1 cup buttermilk",
+        "searchTerm": "buttermilk",
+        "normalizedName": "Buttermilk"
+      },
+      {
+        "ingredient": "2 cups all-purpose flour for coating",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 quarts vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large cast iron skillet or deep fryer",
+        "searchTerm": "cast iron skillet"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "cooking thermometer"
+      },
+      {
+        "name": "shallow bowl for buttermilk",
+        "searchTerm": "shallow bowl"
+      }
+    ],
+    "cookingTips": [
+      "Soak chicken in buttermilk for at least 4 hours or overnight for tenderness",
+      "Maintain oil at 350°F and fry 12-15 minutes per batch",
+      "Let coated chicken rest 15 minutes before frying for better crust adhesion"
+    ],
+    "coachingPrompt": "What's your strategy for keeping the coating from falling off during frying?"
+  },
+  "timestamp": "2026-02-06T04:39:42.733Z"
+}

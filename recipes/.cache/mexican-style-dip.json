@@ -1,0 +1,63 @@
+{
+  "contentHash": "05ddbb60560911ef",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "extra-lean ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "chopped jalapeno pepper",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "shredded Mexican-style cheese",
+        "searchTerm": "Mexican cheese blend",
+        "normalizedName": "Mexican Cheese Blend"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly before adding cream cheese to avoid clumping",
+      "Heat cream cheese gently to prevent separating or burning",
+      "Keep warm in a slow cooker or warm oven for serving"
+    ],
+    "coachingPrompt": "This party dip combines cream cheese and meat, which can be tricky when heated together. How will you heat and combine ingredients to maintain a smooth, cohesive texture?"
+  },
+  "timestamp": "2026-02-06T12:23:03.142Z"
+}

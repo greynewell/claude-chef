@@ -1,0 +1,48 @@
+{
+  "contentHash": "6dd30871e66532ec",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (1 1/4 inch thick) pork chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "2 large sweet potatoes",
+        "searchTerm": "sweet potatoes",
+        "normalizedName": "Sweet Potato"
+      },
+      {
+        "ingredient": "2 slices onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 apples - peeled, cored and sliced",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      }
+    ],
+    "gear": [
+      {
+        "name": "foil packets or parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Use heavy-duty foil or parchment to create individual packets that trap steam and keep ingredients moist",
+      "Slice sweet potatoes thin so they cook through in the same time as the pork chops",
+      "Assemble packets ahead of time and refrigerate until ready to bake"
+    ],
+    "coachingPrompt": "Guide the user through assembling foil packets evenly so all components cook at the same rate. Emphasize sealing tightly to retain moisture and flavor."
+  },
+  "timestamp": "2026-02-06T15:05:33.535Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "0b38d0079b53294e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 tablespoons salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "2 green onions, chopped",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "8 slices sourdough bread",
+        "searchTerm": "sourdough bread",
+        "normalizedName": "Sourdough Bread"
+      },
+      {
+        "ingredient": "½ pound deli-sliced turkey",
+        "searchTerm": "sliced turkey",
+        "normalizedName": "Sliced Turkey"
+      },
+      {
+        "ingredient": "4 slices pepperjack cheese",
+        "searchTerm": "pepperjack cheese",
+        "normalizedName": "Pepperjack Cheese"
+      },
+      {
+        "ingredient": "4 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "griddle",
+        "searchTerm": "griddle"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Spread mayo-salsa mixture evenly on bread before assembling",
+      "Butter outer surfaces for golden, crispy grilled bread",
+      "Grill on medium heat to melt cheese before bread burns"
+    ],
+    "coachingPrompt": "How do you achieve crispy bread with melted cheese on a grill?"
+  },
+  "timestamp": "2026-02-06T08:18:25.701Z"
+}

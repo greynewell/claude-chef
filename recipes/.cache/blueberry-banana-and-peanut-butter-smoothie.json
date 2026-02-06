@@ -1,0 +1,63 @@
+{
+  "contentHash": "d72ccdaace5b14fd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon flax seed meal or wheat germ",
+        "searchTerm": "flax seed meal",
+        "normalizedName": "Flax Seed Meal"
+      },
+      {
+        "ingredient": "1 banana",
+        "searchTerm": "bananas",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "½ cup frozen blueberries",
+        "searchTerm": "frozen blueberries",
+        "normalizedName": "Frozen Blueberry"
+      },
+      {
+        "ingredient": "1 tablespoon peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 teaspoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "½ cup plain yogurt",
+        "searchTerm": "plain yogurt",
+        "normalizedName": "Plain Yogurt"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "high-power blender"
+      },
+      {
+        "name": "Measuring Cups",
+        "searchTerm": "liquid measuring cups"
+      },
+      {
+        "name": "Glasses",
+        "searchTerm": "tall smoothie glasses"
+      }
+    ],
+    "cookingTips": [
+      "Freeze banana slices in advance for creamier texture without excess ice",
+      "Add flax seed meal last to maintain nutritional integrity",
+      "Blend on high speed for 45-60 seconds for smooth consistency"
+    ],
+    "coachingPrompt": "Do you understand how to layer ingredients in the blender for optimal texture and complete incorporation?"
+  },
+  "timestamp": "2026-02-06T00:20:44.741Z"
+}

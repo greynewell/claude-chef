@@ -1,0 +1,59 @@
+{
+  "contentHash": "69e1aada99a446ad",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (32 ounce) package frozen French fries",
+        "searchTerm": "frozen french fries",
+        "normalizedName": "Frozen French Fry"
+      },
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 ½ cups pizza sauce, or to taste",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "1 teaspoon oregano",
+        "searchTerm": "oregano",
+        "normalizedName": "Oregano"
+      },
+      {
+        "ingredient": "1 (12 ounce) package shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 (8 ounce) package sliced pepperoni",
+        "searchTerm": "pepperoni",
+        "normalizedName": "Pepperoni"
+      },
+      {
+        "ingredient": "1 teaspoon dried parsley flakes",
+        "searchTerm": "parsley",
+        "normalizedName": "Parsley Flake"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cook fries until golden before adding toppings to ensure crispiness",
+      "Add cheese in the last few minutes of baking so it melts without burning",
+      "Layer pepperoni evenly for consistent pizza flavor throughout"
+    ],
+    "coachingPrompt": "What's the best order to add toppings to frozen fries so they cook properly and cheese melts evenly?"
+  },
+  "timestamp": "2026-02-06T10:20:07.377Z"
+}

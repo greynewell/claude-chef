@@ -1,0 +1,63 @@
+{
+  "contentHash": "59b734fefc244381",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (1.25 ounce) package dry taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning Mix"
+      },
+      {
+        "ingredient": "1 cup ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (14 ounce) package prepared pizza dough, or as needed",
+        "searchTerm": "pizza dough",
+        "normalizedName": "Pizza Dough"
+      },
+      {
+        "ingredient": "½ cup pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "¼ teaspoon ground cumin",
+        "searchTerm": "cumin",
+        "normalizedName": "Cumin"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ¼ cups shredded mild Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly and drain excess fat before adding seasoning",
+      "Spread pizza sauce evenly to prevent soggy dough bottoms",
+      "Add cheese in the last few minutes of baking for optimal melting"
+    ],
+    "coachingPrompt": "Walk the user through browning the beef with taco seasoning, spreading it on pizza dough, and topping with sauce and cheese before baking."
+  },
+  "timestamp": "2026-02-06T12:19:44.975Z"
+}

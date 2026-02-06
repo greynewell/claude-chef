@@ -1,0 +1,53 @@
+{
+  "contentHash": "e0a52c7265f2b7a6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (1 ounce) packet Hidden Valley® Original Ranch® Salad Dressing & Seasoning Mix",
+        "searchTerm": "ranch seasoning mix",
+        "normalizedName": "Ranch Seasoning Mix"
+      },
+      {
+        "ingredient": "6 pork loin rib chops, about 1 inch thick",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "1 dash paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "fresh cracked black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Bring pork chops to room temperature before cooking for even doneness",
+      "Use a meat thermometer to ensure internal temperature reaches 145°F",
+      "Let pork rest 3 minutes after cooking before serving"
+    ],
+    "coachingPrompt": "Would you like suggestions for sides that pair well with ranch-seasoned pork?"
+  },
+  "timestamp": "2026-02-06T13:48:11.179Z"
+}

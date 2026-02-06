@@ -1,0 +1,53 @@
+{
+  "contentHash": "3c54f0e90afd5818",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ⅓ pounds ube (purple yam), peeled and cut into 1/4-inch-thick fries",
+        "searchTerm": "purple yam ube",
+        "normalizedName": "Ube"
+      },
+      {
+        "ingredient": "2 teaspoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon sriracha-flavored salt",
+        "searchTerm": "sriracha salt",
+        "normalizedName": "Sriracha Salt"
+      },
+      {
+        "ingredient": "⅓ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "2 teaspoons sriracha sauce, or more to taste",
+        "searchTerm": "sriracha sauce",
+        "normalizedName": "Sriracha Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Sharp Knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "Small Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cut fries evenly for consistent cooking times",
+      "Soak cut yam in water for 20 minutes to reduce starchiness",
+      "Toss fries halfway through cooking for even browning"
+    ],
+    "coachingPrompt": "Show me how to cut the purple yam evenly and make a creamy sriracha dipping sauce."
+  },
+  "timestamp": "2026-02-05T21:38:02.315Z"
+}

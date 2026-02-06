@@ -1,0 +1,62 @@
+{
+  "contentHash": "904f304fbc8209bc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup warm water (100 degrees F/40 degrees C)",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 teaspoons active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "3 cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "¼ cup coconut oil, melted",
+        "searchTerm": "coconut oil",
+        "normalizedName": "Coconut Oil"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "kitchen thermometer",
+        "searchTerm": "kitchen thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Water temperature is critical at high altitude - use 100-110°F for proper yeast activation",
+      "Allow extra time for rising as altitude affects fermentation",
+      "High altitude requires adjustments - reduce yeast slightly if over 5,000 feet"
+    ],
+    "coachingPrompt": "How do I adjust this recipe for my specific altitude to ensure proper rising and texture?"
+  },
+  "timestamp": "2026-02-05T23:33:33.022Z"
+}

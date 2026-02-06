@@ -1,0 +1,53 @@
+{
+  "contentHash": "bdbd26221aefbde5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter, or to taste",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "¼ cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "4 slices cooked bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "¼ apple, peeled and sliced thinly",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      }
+    ],
+    "gear": [
+      {
+        "name": "panini press",
+        "searchTerm": "panini press"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Preheat panini press for at least 5 minutes",
+      "Slice apple thinly and assemble just before cooking",
+      "Apply butter to outside of bread for golden crust"
+    ],
+    "coachingPrompt": "How do you achieve even heat distribution in a panini press, and how long should it cook?"
+  },
+  "timestamp": "2026-02-05T22:08:45.890Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "d9421ea4a7b58233",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15.25 ounce) package white cake mix",
+        "searchTerm": "white cake mix",
+        "normalizedName": "White Cake Mix"
+      },
+      {
+        "ingredient": "2 large eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "6 tablespoons unsalted butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup powdered sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "cookie scoop",
+        "searchTerm": "cookie scoop"
+      }
+    ],
+    "cookingTips": [
+      "Chill dough briefly to prevent spreading",
+      "Roll dough balls in powdered sugar for classic crinkle appearance",
+      "Bake until edges are set but centers remain slightly soft"
+    ],
+    "coachingPrompt": "Guide the user on using cake mix as a shortcut ingredient and achieving proper crinkle effect."
+  },
+  "timestamp": "2026-02-06T03:34:47.162Z"
+}

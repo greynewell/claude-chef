@@ -1,0 +1,63 @@
+{
+  "contentHash": "08d08fd45442ba8f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 pounds red potatoes",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "1 large onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 ½ cups creamy salad dressing, e.g. Miracle Whip ™",
+        "searchTerm": "salad dressing",
+        "normalizedName": "Creamy Salad Dressing"
+      },
+      {
+        "ingredient": "¼ cup prepared yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      },
+      {
+        "ingredient": "6 hard-cooked eggs, diced",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook potatoes whole in skins to prevent waterlogging",
+      "Cool potatoes completely before mixing with dressing",
+      "Make hard-boiled eggs ahead and chill before dicing"
+    ],
+    "coachingPrompt": "Traditional potato salad. Do you want to make ahead? It tastes better after chilling for several hours."
+  },
+  "timestamp": "2026-02-06T13:56:47.926Z"
+}

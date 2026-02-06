@@ -1,0 +1,82 @@
+---
+title: "High-Altitude Challah"
+description: "Built around warm water, this bread is ready in about 3 hours and 20 minutes. Yields 14 servings."
+author: "Greeny"
+prep_time: PT2H45M
+cook_time: PT35M
+servings: 14
+calories: 181
+recipe_category: Bread
+keywords:
+  - altitude
+  - bread
+  - challah
+  - high
+recipe_ingredients:
+  - "Warm Water"
+  - "White Sugar"
+  - "Active Dry Yeast"
+  - "Egg"
+  - "Egg Yolks"
+  - "Milk"
+  - "Butter Margarine"
+  - "Salt"
+  - "All-Purpose Flour"
+allergies:
+  - Dairy
+  - Gluten
+  - Eggs
+flavors:
+  - Sweet
+tools:
+  - Oven
+  - Mixing Bowl
+  - Baking Sheet
+  - Cutting Board
+  - Whisk
+skill_level: Medium
+source_url: "https://www.allrecipes.com/recipe/160611/high-altitude-challah/"
+---
+
+## Ingredients
+
+- ½ cup warm water (110 degrees F/45 degrees C)
+- 3 tablespoons white sugar, divided
+- 2 (.25 ounce) packages active dry yeast
+- 2  eggs
+- 2  egg yolks
+- ¼ cup milk, or as needed
+- ¼ cup butter or margarine, melted
+- 1 ½ teaspoons salt
+- 3 ½ cups all-purpose flour
+- 1  egg
+
+## Instructions
+
+1. Combine the warm water, 1/2 teaspoon of sugar and the yeast in a measuring cup. Let stand until the yeast dissolves and starts to foam, 5 to 10 minutes.
+2. In a large bowl, beat 2 eggs. Put the egg yolks in a measuring cup and add enough milk to equal 1/3 cup with the yolks in it. Pour this in with the eggs and then stir in the yeast mixture, butter, salt and remaining sugar. Gradually mix in the flour until the dough is firm enough to handle. Knead the dough on a floured surface until the dough does not stick to your hands. You will probably use more flour while kneading. Place the dough into an oiled bowl and turn to coat. Cover and let rise until doubled in size, about 1 hour.
+3. Cut the dough into 3 or 4 even portions and roll into long ropes. Braid and tuck the ends under. Place the loaf on a baking sheet and cover loosely with plastic wrap. Set in a warm place to rise. Bread is ready to bake when your finger leaves an impression in the dough.
+4. Preheat the oven to 350 degrees F (175 degrees C). Whisk the remaining egg in a cup with a fork. Brush onto the loaf. This will give the bread a lovely golden color and delicious crust.
+5. Bake until the loaf is golden and the loaf sounds hollow when tapped on the bottom, about 35 minutes. Remove from the baking sheet and cool on a wire rack.
+
+## Frequently Asked Questions
+
+### How long does it take to make High-Altitude Challah?
+
+This recipe takes approximately 3 hours and 20 minutes from start to finish — 165 minutes of prep and 35 minutes of cooking. It is rated as medium difficulty.
+
+### How many servings does this High-Altitude Challah recipe make?
+
+This recipe yields 14 servings. You can adjust the serving size using the servings slider above the ingredient list.
+
+### Can I make High-Altitude Challah ahead of time? How should I store leftovers?
+
+Store this bread at room temperature in a bread box or sealed bag for 2-3 days.
+
+### How many calories are in High-Altitude Challah?
+
+Each serving contains approximately 181 calories. The recipe serves 14.
+
+### What temperature should I use for High-Altitude Challah?
+
+Follow the temperature specified in the recipe instructions. Make sure to preheat your oven fully.

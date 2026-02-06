@@ -1,0 +1,48 @@
+{
+  "contentHash": "bb842aba63866afd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound fresh mushrooms",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "20 fluid ounces teriyaki sauce",
+        "searchTerm": "teriyaki sauce",
+        "normalizedName": "Teriyaki Sauce"
+      },
+      {
+        "ingredient": "½ cup blue cheese dressing",
+        "searchTerm": "blue cheese dressing",
+        "normalizedName": "Blue Cheese Dressing"
+      },
+      {
+        "ingredient": "½ cup peppercorn Ranch salad dressing",
+        "searchTerm": "ranch dressing",
+        "normalizedName": "Ranch Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Remove mushroom stems and brush caps with oil to prevent drying",
+      "Mix dressings together before brushing for even flavor distribution",
+      "Bake at 400°F until mushrooms release their moisture and begin to caramelize"
+    ],
+    "coachingPrompt": "Help me prepare and bake these mushrooms with a teriyaki and blue cheese glaze for maximum flavor."
+  },
+  "timestamp": "2026-02-06T20:25:18.853Z"
+}

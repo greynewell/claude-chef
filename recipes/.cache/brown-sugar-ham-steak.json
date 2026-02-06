@@ -1,0 +1,43 @@
+{
+  "contentHash": "49da84ea23442abc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) bone-in fully cooked ham steak",
+        "searchTerm": "ham steak",
+        "normalizedName": "Ham Steak"
+      },
+      {
+        "ingredient": "5 tablespoons butter, cubed",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "5 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Basting Brush",
+        "searchTerm": "basting brush"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Score the ham's surface lightly in a crosshatch pattern to help the glaze adhere",
+      "Cook on medium-high heat just until the glaze caramelizes, about 5-7 minutes per side",
+      "Let the ham rest for 2 minutes after cooking to retain moisture"
+    ],
+    "coachingPrompt": "Guide the cook on quick-cooking glazed meats and proper scoring techniques for better flavor absorption."
+  },
+  "timestamp": "2026-02-06T00:48:57.937Z"
+}

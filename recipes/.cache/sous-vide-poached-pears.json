@@ -1,0 +1,47 @@
+{
+  "contentHash": "ae392a82f211524f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 medium pear",
+        "searchTerm": "pear",
+        "normalizedName": "Pear"
+      },
+      {
+        "ingredient": "1 tablespoon salted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon dark brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sous Vide Machine",
+        "searchTerm": "immersion circulator"
+      },
+      {
+        "name": "Vacuum Bags",
+        "searchTerm": "vacuum sealer bags"
+      },
+      {
+        "name": "Water Bath Container",
+        "searchTerm": "large pot"
+      }
+    ],
+    "cookingTips": [
+      "Cook pears at 185°F (85°C) for 25-30 minutes to soften while maintaining shape",
+      "Caramelized sugar and butter create a light glaze when finished"
+    ],
+    "coachingPrompt": "Help the user understand how sous vide gently poaches fruit while concentrating flavors, creating an elegant dessert or brunch item."
+  },
+  "timestamp": "2026-02-06T18:38:23.426Z"
+}

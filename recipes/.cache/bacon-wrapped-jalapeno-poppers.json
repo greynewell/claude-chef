@@ -1,0 +1,48 @@
+{
+  "contentHash": "d3584150531b1068",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "½ cup shredded sharp Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "12 jalapeno peppers, halved lengthwise, seeds and membranes removed",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "12 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Mix cream cheese and cheddar together until well combined before filling peppers",
+      "Wrap bacon tightly around each popper half to prevent it from unraveling during cooking",
+      "Bake at 400°F for 20-25 minutes until bacon is crispy"
+    ],
+    "coachingPrompt": "Guide the user through the cheese mixture consistency and proper bacon wrapping technique for even cooking."
+  },
+  "timestamp": "2026-02-05T22:54:35.191Z"
+}

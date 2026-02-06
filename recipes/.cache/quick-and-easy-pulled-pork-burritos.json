@@ -1,0 +1,58 @@
+{
+  "contentHash": "8ef0f54ca40d74da",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) can baked beans",
+        "searchTerm": "baked beans",
+        "normalizedName": "Baked Bean"
+      },
+      {
+        "ingredient": "8 (10 inch) soft flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "1 small onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 pound cooked pulled pork, heated",
+        "searchTerm": "pulled pork",
+        "normalizedName": "Pulled Pork"
+      },
+      {
+        "ingredient": "1 (8 ounce) package shredded Monterey Jack cheese",
+        "searchTerm": "Monterey Jack cheese",
+        "normalizedName": "Monterey Jack Cheese"
+      },
+      {
+        "ingredient": "1 (16 ounce) can mild enchilada sauce",
+        "searchTerm": "enchilada sauce",
+        "normalizedName": "Enchilada Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "tortilla warmer or skillet",
+        "searchTerm": "tortilla warmer"
+      },
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      }
+    ],
+    "cookingTips": [
+      "Warm tortillas to make them pliable and prevent tearing",
+      "Warm pulled pork in enchilada sauce before assembling",
+      "Roll burritos tightly to prevent filling from leaking"
+    ],
+    "coachingPrompt": "How should the user prepare the pulled pork? Should these be baked or eaten fresh? What's the best folding technique?"
+  },
+  "timestamp": "2026-02-06T15:38:36.243Z"
+}

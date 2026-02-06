@@ -1,0 +1,58 @@
+{
+  "contentHash": "93aaddbd5146092a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "4 shallots, thinly sliced",
+        "searchTerm": "shallot",
+        "normalizedName": "Shallot"
+      },
+      {
+        "ingredient": "2 pounds mussels, cleaned and debearded",
+        "searchTerm": "mussel",
+        "normalizedName": "Mussel"
+      },
+      {
+        "ingredient": "½ cup dry white wine",
+        "searchTerm": "white wine",
+        "normalizedName": "White Wine"
+      },
+      {
+        "ingredient": "1 cup finely chopped Italian leaf parsley",
+        "searchTerm": "Italian parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "1 cup Greek yogurt",
+        "searchTerm": "Greek yogurt",
+        "normalizedName": "Greek Yogurt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot with lid",
+        "searchTerm": "pot with lid"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "slotted spoon"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Discard any mussels that don't close when tapped before cooking",
+      "Steam mussels open over high heat for 5-7 minutes, then discard any that don't open",
+      "Stir Greek yogurt into cooking liquid off heat to prevent curdling"
+    ],
+    "coachingPrompt": "Teach the user how to properly clean and debeard mussels and how to temper Greek yogurt into a pan sauce."
+  },
+  "timestamp": "2026-02-06T08:01:18.202Z"
+}

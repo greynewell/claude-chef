@@ -1,0 +1,48 @@
+{
+  "contentHash": "dd9fe4f5e31d1ab7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound bacon slices",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 pound ground chicken",
+        "searchTerm": "ground chicken",
+        "normalizedName": "Ground Chicken"
+      },
+      {
+        "ingredient": "1 tablespoon barbeque chicken seasoning",
+        "searchTerm": "BBQ seasoning",
+        "normalizedName": "Barbecue Seasoning"
+      },
+      {
+        "ingredient": "3 slices Havarti cheese",
+        "searchTerm": "Havarti cheese",
+        "normalizedName": "Havarti Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Partially cook bacon until it starts to crisp but remains pliable for rolling",
+      "Mix ground chicken with seasoning before cooking for even flavor distribution",
+      "Wrap bacon around the chicken-cheese filling tightly to prevent unraveling during cooking"
+    ],
+    "coachingPrompt": "How does partially cooking bacon help with rolling, and what's the best way to secure these rolls?"
+  },
+  "timestamp": "2026-02-06T02:25:30.562Z"
+}

@@ -1,0 +1,78 @@
+{
+  "contentHash": "63275e71236f6add",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (14 ounce) package frozen waffle fries",
+        "searchTerm": "frozen waffle fries",
+        "normalizedName": "Frozen Waffle Fry"
+      },
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 (1 ounce) package taco seasoning",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning"
+      },
+      {
+        "ingredient": "1 (8 ounce) package shredded Mexican cheese blend",
+        "searchTerm": "Mexican cheese blend",
+        "normalizedName": "Shredded Mexican Cheese Blend"
+      },
+      {
+        "ingredient": "1 cup diced tomatoes",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "½ cup sliced black olives",
+        "searchTerm": "black olives",
+        "normalizedName": "Black Olive"
+      },
+      {
+        "ingredient": "½ cup sliced jalapeno peppers",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "3 leaves romaine lettuce, chopped",
+        "searchTerm": "romaine lettuce",
+        "normalizedName": "Romaine Lettuce"
+      },
+      {
+        "ingredient": "3 tablespoons sour cream, or to taste",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "3 tablespoons guacamole, or to taste",
+        "searchTerm": "guacamole",
+        "normalizedName": "Guacamole"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "serving platter",
+        "searchTerm": "serving platter"
+      }
+    ],
+    "cookingTips": [
+      "Cook waffle fries according to package directions first",
+      "Brown ground beef and drain excess fat before adding seasoning",
+      "Top with cheese while fries are hot for melting, then add cold toppings last"
+    ],
+    "coachingPrompt": "Help the user layer toppings strategically so hot items melt and cold items stay fresh."
+  },
+  "timestamp": "2026-02-05T22:45:20.655Z"
+}

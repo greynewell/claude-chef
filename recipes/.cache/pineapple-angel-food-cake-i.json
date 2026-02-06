@@ -1,0 +1,43 @@
+{
+  "contentHash": "29feba7a9ce37fe9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package angel food cake mix",
+        "searchTerm": "angel food cake mix",
+        "normalizedName": "Angel Food Cake Mix"
+      },
+      {
+        "ingredient": "1 (20 ounce) can crushed pineapple with juice",
+        "searchTerm": "crushed pineapple",
+        "normalizedName": "Crushed Pineapple"
+      },
+      {
+        "ingredient": "1 (12 ounce) container frozen whipped topping, thawed",
+        "searchTerm": "whipped topping",
+        "normalizedName": "Whipped Topping"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Angel food cake pan",
+        "searchTerm": "angel food cake pan"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Don't grease the angel food pan - the batter needs to grip the sides to rise properly",
+      "Use the pineapple juice as part of the liquid for the cake mix",
+      "Invert the pan immediately after baking to cool upside down for proper structure"
+    ],
+    "coachingPrompt": "Teach the user the unique requirements of angel food cake baking and cooling."
+  },
+  "timestamp": "2026-02-06T14:47:12.497Z"
+}

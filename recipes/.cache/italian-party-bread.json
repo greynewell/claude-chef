@@ -1,0 +1,58 @@
+{
+  "contentHash": "e8bf6369956cf5b3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package pizza dough",
+        "searchTerm": "pizza dough",
+        "normalizedName": "Pizza Dough"
+      },
+      {
+        "ingredient": "1 tablespoon all-purpose flour, or as needed for dusting",
+        "searchTerm": "all purpose flour",
+        "normalizedName": "All Purpose Flour"
+      },
+      {
+        "ingredient": "⅓ cup prepared pesto sauce",
+        "searchTerm": "pesto sauce",
+        "normalizedName": "Pesto Sauce"
+      },
+      {
+        "ingredient": "6 thin slices provolone cheese",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      },
+      {
+        "ingredient": "2 ounces sliced prosciutto, torn into ribbons",
+        "searchTerm": "prosciutto",
+        "normalizedName": "Prosciutto"
+      },
+      {
+        "ingredient": "⅓ cup diced banana peppers",
+        "searchTerm": "banana pepper",
+        "normalizedName": "Banana Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "sharp knife",
+        "searchTerm": "sharp knife"
+      }
+    ],
+    "cookingTips": [
+      "Allow dough to come to room temperature before stretching",
+      "Layer fillings evenly to prevent uneven baking",
+      "Let bread cool slightly before slicing for cleaner cuts"
+    ],
+    "coachingPrompt": "Guide the user through proper dough handling and layering techniques for appetizer preparation."
+  },
+  "timestamp": "2026-02-06T10:08:24.311Z"
+}

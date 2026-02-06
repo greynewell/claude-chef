@@ -1,0 +1,73 @@
+{
+  "contentHash": "46a02fd996055070",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "warm water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "cornmeal",
+        "searchTerm": "cornmeal",
+        "normalizedName": "Cornmeal"
+      },
+      {
+        "ingredient": "egg white",
+        "searchTerm": "egg white",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "sesame seeds",
+        "searchTerm": "sesame seeds",
+        "normalizedName": "Sesame Seed"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Dough Scraper",
+        "searchTerm": "dough scraper"
+      }
+    ],
+    "cookingTips": [
+      "Use water between 110-115°F to activate yeast without killing it",
+      "Knead dough for 8-10 minutes to develop gluten and create proper texture",
+      "Place a pan of water in the oven while baking to create steam, which creates a crispy crust"
+    ],
+    "coachingPrompt": "Are you an experienced bread baker? This recipe requires proper proofing and shaping technique."
+  },
+  "timestamp": "2026-02-06T06:26:26.179Z"
+}

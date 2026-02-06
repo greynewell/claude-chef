@@ -1,0 +1,63 @@
+{
+  "contentHash": "f27f756d430a9850",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 slice white sandwich bread",
+        "searchTerm": "sandwich bread",
+        "normalizedName": "White Sandwich Bread"
+      },
+      {
+        "ingredient": "1 ½ tablespoons low-fat milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Ground Black Pepper"
+      },
+      {
+        "ingredient": "2 slices Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Air Fryer Basket",
+        "searchTerm": "air fryer basket"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Crumble bread into small pieces and mix with milk to create a binder for juicier burgers",
+      "Form patties gently and make a small indent in the center to prevent puffing",
+      "Cook at 350°F for 10-12 minutes, adding cheese in the last minute and flipping halfway through"
+    ],
+    "coachingPrompt": "Guide me through mixing the beef patties with bread binder, forming them, and air frying with cheese."
+  },
+  "timestamp": "2026-02-05T21:40:54.285Z"
+}

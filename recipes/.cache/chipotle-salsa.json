@@ -1,0 +1,73 @@
+{
+  "contentHash": "216894c2b42f251b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 medium fresh tomatillos",
+        "searchTerm": "tomatillos",
+        "normalizedName": "Tomatillo"
+      },
+      {
+        "ingredient": "1 white onion",
+        "searchTerm": "white onion",
+        "normalizedName": "White Onion"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "4 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic Clove"
+      },
+      {
+        "ingredient": "2 chipotle peppers in adobo sauce",
+        "searchTerm": "chipotle peppers",
+        "normalizedName": "Chipotle Pepper"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground white pepper",
+        "searchTerm": "white pepper",
+        "normalizedName": "White Pepper"
+      },
+      {
+        "ingredient": "¼ teaspoon ground cumin",
+        "searchTerm": "ground cumin",
+        "normalizedName": "Ground Cumin"
+      },
+      {
+        "ingredient": "¼ teaspoon dried Mexican oregano",
+        "searchTerm": "mexican oregano",
+        "normalizedName": "Mexican Oregano"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      }
+    ],
+    "cookingTips": [
+      "Roast tomatillos in a dry skillet before blending for deeper flavor",
+      "Pulse until you reach desired consistency; leave slightly chunky for texture",
+      "Adjust heat by adding more chipotle or adobo sauce gradually to taste"
+    ],
+    "coachingPrompt": "Help the user understand the difference between raw and cooked tomatillo salsa, and guide them on balancing the smoky heat from chipotles with bright acidity."
+  },
+  "timestamp": "2026-02-06T02:57:29.766Z"
+}

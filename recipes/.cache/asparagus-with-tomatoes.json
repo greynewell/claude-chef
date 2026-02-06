@@ -1,0 +1,58 @@
+{
+  "contentHash": "cc39dfaff2f0da30",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound thin asparagus spears, trimmed and cut in half",
+        "searchTerm": "fresh asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "1 tablespoon extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 teaspoons minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 large tomato, seeded and chopped",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 pinch salt and pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch salt and pepper to taste",
+        "searchTerm": "salt and pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Seed tomato to prevent excess moisture in the dish",
+      "Add tomato near the end of cooking to preserve freshness and texture",
+      "Cut asparagus into uniform pieces for even cooking"
+    ],
+    "coachingPrompt": "Guide the user on proper seeding technique for tomatoes and the timing to add fresh tomatoes without overcooking them."
+  },
+  "timestamp": "2026-02-05T22:32:34.575Z"
+}

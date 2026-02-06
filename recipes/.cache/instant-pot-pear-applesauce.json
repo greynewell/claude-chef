@@ -1,0 +1,53 @@
+{
+  "contentHash": "362e0fb391e43996",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "2 ¼ pounds Golden Delicious apples",
+        "searchTerm": "Golden Delicious apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "1 ⅛ pounds red Anjou pears",
+        "searchTerm": "Anjou pears",
+        "normalizedName": "Pear"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cinnamon stick",
+        "searchTerm": "cinnamon stick",
+        "normalizedName": "Cinnamon Stick"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Instant Pot",
+        "searchTerm": "instant pot"
+      },
+      {
+        "name": "Food Mill",
+        "searchTerm": "food mill"
+      },
+      {
+        "name": "Immersion Blender",
+        "searchTerm": "immersion blender"
+      }
+    ],
+    "cookingTips": [
+      "Lemon juice prevents browning and adds brightness to applesauce",
+      "A food mill creates smoothest sauce; alternatively use immersion blender",
+      "Cinnamon stick adds warmth; remove before blending"
+    ],
+    "coachingPrompt": "Do you prefer chunky or smooth applesauce? I can advise on blending options."
+  },
+  "timestamp": "2026-02-06T09:53:44.256Z"
+}

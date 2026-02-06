@@ -1,0 +1,57 @@
+{
+  "contentHash": "e51ca0a175929c27",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound dry fettuccine pasta",
+        "searchTerm": "fettuccine pasta",
+        "normalizedName": "Fettuccine Pasta"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 red bell pepper, diced",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "2 cups baby spinach leaves",
+        "searchTerm": "baby spinach",
+        "normalizedName": "Baby Spinach"
+      },
+      {
+        "ingredient": "½ cup shredded white Cheddar cheese",
+        "searchTerm": "white cheddar cheese",
+        "normalizedName": "White Cheddar Cheese"
+      },
+      {
+        "ingredient": "freshly ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta al dente so it has structure when tossed with other ingredients",
+      "Add spinach to the warm pasta so it wilts from residual heat rather than overcooking"
+    ],
+    "coachingPrompt": "How important is it that multiple people can contribute to different steps of this dish?"
+  },
+  "timestamp": "2026-02-06T08:33:25.494Z"
+}

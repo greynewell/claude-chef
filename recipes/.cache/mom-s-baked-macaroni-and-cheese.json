@@ -1,0 +1,48 @@
+{
+  "contentHash": "47c29465905a3fee",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package macaroni",
+        "searchTerm": "elbow macaroni",
+        "normalizedName": "Elbow Macaroni"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed Cheddar cheese soup",
+        "searchTerm": "cheddar cheese soup",
+        "normalizedName": "Cheddar Cheese Soup"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 pound shredded Colby cheese",
+        "searchTerm": "Colby cheese",
+        "normalizedName": "Colby Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Cook pasta to just under al dente since it will cook more in the oven",
+      "Use a combination of cheeses for better flavor depth",
+      "Bake uncovered at 350°F for 25-30 minutes until bubbly and golden on top"
+    ],
+    "coachingPrompt": "Help the user create a creamy, cheese-forward mac and cheese with proper texture balance."
+  },
+  "timestamp": "2026-02-06T12:41:18.142Z"
+}

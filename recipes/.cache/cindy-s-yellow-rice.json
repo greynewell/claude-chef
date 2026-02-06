@@ -1,0 +1,68 @@
+{
+  "contentHash": "0dea14cce2c72b26",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "¼ cup dried minced onion",
+        "searchTerm": "dried minced onion",
+        "normalizedName": "Dried Minced Onion"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon ground turmeric",
+        "searchTerm": "ground turmeric",
+        "normalizedName": "Turmeric"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan with lid",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Measuring cups and spoons",
+        "searchTerm": "measuring cup"
+      },
+      {
+        "name": "Fork for fluffing",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Toast rice briefly in oil before adding water to enhance nutty flavor",
+      "Turmeric provides the yellow color and mild earthy flavor",
+      "Fluff rice with a fork after cooking rather than stirring to maintain grain integrity"
+    ],
+    "coachingPrompt": "Guide the user through proper rice-cooking technique, explain how turmeric adds both color and subtle flavor, and teach the difference between stirring and fluffing cooked rice."
+  },
+  "timestamp": "2026-02-06T03:21:52.128Z"
+}

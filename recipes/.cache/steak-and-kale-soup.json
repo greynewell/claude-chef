@@ -1,0 +1,63 @@
+{
+  "contentHash": "4fa059035dd95321",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "vegetable juice",
+        "searchTerm": "vegetable juice",
+        "normalizedName": "Vegetable Juice"
+      },
+      {
+        "ingredient": "lean sirloin steak, diced",
+        "searchTerm": "sirloin steak",
+        "normalizedName": "Sirloin Steak"
+      },
+      {
+        "ingredient": "chopped kale",
+        "searchTerm": "kale",
+        "normalizedName": "Kale"
+      },
+      {
+        "ingredient": "dried minced onion",
+        "searchTerm": "dried onion",
+        "normalizedName": "Dried Onion"
+      },
+      {
+        "ingredient": "garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Add kale near the end to preserve its nutritional value and vibrant color",
+      "Use dice-sized steak pieces for quick, even cooking",
+      "Taste and adjust seasonings as vegetable juice varies in saltiness"
+    ],
+    "coachingPrompt": "How would you make this quick soup more substantial or flavorful with simple additions?"
+  },
+  "timestamp": "2026-02-06T19:23:56.693Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "67479f2553c866a3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6  fresh strawberries, hulled and sliced",
+        "searchTerm": "strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "1  peach, sliced",
+        "searchTerm": "peach",
+        "normalizedName": "Peach"
+      },
+      {
+        "ingredient": "1  banana, sliced",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "½ cup watermelon chunks",
+        "searchTerm": "watermelon",
+        "normalizedName": "Watermelon"
+      },
+      {
+        "ingredient": "½ cup fresh blueberries",
+        "searchTerm": "blueberries",
+        "normalizedName": "Blueberry"
+      },
+      {
+        "ingredient": "½ cup fresh pineapple chunks",
+        "searchTerm": "pineapple",
+        "normalizedName": "Pineapple"
+      },
+      {
+        "ingredient": "¼ cup pina colada mix",
+        "searchTerm": "pina colada mix",
+        "normalizedName": "Pina Colada Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Serving bowl",
+        "searchTerm": "serving bowl"
+      }
+    ],
+    "cookingTips": [
+      "Slice banana just before serving to prevent browning",
+      "Chill fruit before mixing for best texture",
+      "Mix pina colada mix with fruit just before serving to prevent excess moisture"
+    ],
+    "coachingPrompt": "Advise the user on timing - which fruits to prepare ahead and which to add at the last moment."
+  },
+  "timestamp": "2026-02-06T14:47:12.496Z"
+}

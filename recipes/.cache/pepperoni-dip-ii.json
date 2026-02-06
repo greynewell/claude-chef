@@ -1,0 +1,43 @@
+{
+  "contentHash": "5e85b9f88148652a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound pepperoni sausage, diced",
+        "searchTerm": "pepperoni sausage",
+        "normalizedName": "Pepperoni Sausage"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown pepperoni sausage to render fat and develop flavor before adding to dip",
+      "Warm dip on low heat or in slow cooker to prevent cream cheese from breaking",
+      "Serve with crackers, bread, or vegetables for dipping"
+    ],
+    "coachingPrompt": "How would you make this dip creamier or more savory? What seasonings would enhance the flavor profile?"
+  },
+  "timestamp": "2026-02-06T14:33:19.297Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "73c921636757080e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) can refried beans",
+        "searchTerm": "refried beans canned",
+        "normalizedName": "Refried Bean"
+      },
+      {
+        "ingredient": "1 (16 ounce) jar salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "1 (16 ounce) package shredded Mexican-style cheese blend",
+        "searchTerm": "mexican cheese blend",
+        "normalizedName": "Mexican Cheese Blend"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "serving spoon"
+      }
+    ],
+    "cookingTips": [
+      "Layer ingredients in a baking dish and bake until cheese is bubbly",
+      "Serve warm with tortilla chips or as a dip",
+      "Can be made ahead and reheated"
+    ],
+    "coachingPrompt": "Would you like this served as a dip, casserole, or appetizer?"
+  },
+  "timestamp": "2026-02-06T20:27:21.024Z"
+}

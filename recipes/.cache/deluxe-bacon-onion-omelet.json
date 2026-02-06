@@ -1,0 +1,58 @@
+{
+  "contentHash": "9a6761e349d7b4ec",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ white onion, diced",
+        "searchTerm": "white onion",
+        "normalizedName": "White Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "non-stick skillet"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "silicone spatula"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then chop finely",
+      "Whisk eggs with water for fluffier texture",
+      "Keep heat medium to avoid overcooking edges while center sets"
+    ],
+    "coachingPrompt": "Guide creation of a perfect omelet with crispy bacon, tender onions, and fluffy egg consistency."
+  },
+  "timestamp": "2026-02-06T05:11:01.310Z"
+}

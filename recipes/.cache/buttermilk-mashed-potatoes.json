@@ -1,0 +1,63 @@
+{
+  "contentHash": "84062fbe27c62cc8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 medium white potatoes, peeled",
+        "searchTerm": "white potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "¾ cup buttermilk",
+        "searchTerm": "buttermilk",
+        "normalizedName": "Buttermilk"
+      },
+      {
+        "ingredient": "3 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons chicken bouillon powder",
+        "searchTerm": "chicken bouillon powder",
+        "normalizedName": "Chicken Bouillon Powder"
+      },
+      {
+        "ingredient": "2 teaspoons chopped fresh dill",
+        "searchTerm": "fresh dill",
+        "normalizedName": "Dill"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Potato Masher",
+        "searchTerm": "potato masher"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Boil potatoes until fork-tender before mashing for smoother texture",
+      "Warm buttermilk and butter before mixing to prevent lumpy potatoes",
+      "Fresh dill adds brightness; add after mashing to preserve flavor"
+    ],
+    "coachingPrompt": "Help the cook achieve creamy, fluffy mashed potatoes by managing water content and mixing technique."
+  },
+  "timestamp": "2026-02-06T01:02:27.723Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "6bacc80963377fb9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ¼ cups self-rising flour",
+        "searchTerm": "self-rising flour",
+        "normalizedName": "Self-Rising Flour"
+      },
+      {
+        "ingredient": "¾ cup shortening",
+        "searchTerm": "shortening",
+        "normalizedName": "Shortening"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "biscuit cutter",
+        "searchTerm": "biscuit cutter"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "sheet pan"
+      }
+    ],
+    "cookingTips": [
+      "Use cold shortening and handle dough minimally for the fluffiest biscuits",
+      "Bake at 450°F for 10-12 minutes until golden brown",
+      "Don't overwork the dough or biscuits will be dense"
+    ],
+    "coachingPrompt": "Why is minimal handling critical for biscuit texture? What role does self-rising flour play versus regular flour?"
+  },
+  "timestamp": "2026-02-06T05:34:07.250Z"
+}

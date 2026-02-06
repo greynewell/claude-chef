@@ -1,0 +1,48 @@
+{
+  "contentHash": "7785083e57721989",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup peeled and cubed horseradish root",
+        "searchTerm": "horseradish root",
+        "normalizedName": "Horseradish Root"
+      },
+      {
+        "ingredient": "¾ cup white vinegar",
+        "searchTerm": "white vinegar",
+        "normalizedName": "White Vinegar"
+      },
+      {
+        "ingredient": "2 teaspoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food Processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Glass Jar",
+        "searchTerm": "glass jar"
+      },
+      {
+        "name": "Fine Grater",
+        "searchTerm": "microplane grater"
+      }
+    ],
+    "cookingTips": [
+      "Wear gloves and work in a well-ventilated area as fresh horseradish releases pungent fumes",
+      "Process finely for creamier texture or leave chunkier for more bite",
+      "Store in refrigerator and use within a few weeks for best flavor"
+    ],
+    "coachingPrompt": "Warn the cook about horseradish's powerful properties and guide them through food processing to achieve desired consistency while managing vapors."
+  },
+  "timestamp": "2026-02-06T09:14:19.399Z"
+}

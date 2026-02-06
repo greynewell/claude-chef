@@ -1,0 +1,43 @@
+{
+  "contentHash": "e3056f7254f49ae0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "6 ounces tomato basil feta cheese, crumbled",
+        "searchTerm": "tomato basil feta",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "¼ cup Italian-style dry bread crumbs, divided",
+        "searchTerm": "Italian bread crumbs",
+        "normalizedName": "Italian Bread Crumb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Top chicken with feta and bread crumbs after partial cooking to prevent burning",
+      "Use a meat thermometer to ensure chicken reaches 165°F internally",
+      "Tent with foil if bread crumb topping browns too quickly"
+    ],
+    "coachingPrompt": "Help the user prepare a simple but elegant baked chicken topped with creamy feta and crispy bread crumbs."
+  },
+  "timestamp": "2026-02-06T06:35:20.094Z"
+}

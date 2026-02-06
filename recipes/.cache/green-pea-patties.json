@@ -1,0 +1,73 @@
+{
+  "contentHash": "5d52e02a50157277",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound green peas",
+        "searchTerm": "green peas",
+        "normalizedName": "Pea"
+      },
+      {
+        "ingredient": "½ cup all-purpose flour, or as needed",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "⅓ cup freshly grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 tablespoon milk, or as needed",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 teaspoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "½ teaspoon salt, or to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper, or to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil, or as needed",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "fork or potato masher",
+        "searchTerm": "potato masher"
+      }
+    ],
+    "cookingTips": [
+      "Mash peas roughly—some texture helps with binding without needing too much flour",
+      "Heat oil in skillet until shimmering but not smoking before adding patties",
+      "Cook patties 3-4 minutes per side until golden brown and crispy on the edges"
+    ],
+    "coachingPrompt": "Guide the user to achieve a balance between structure and moisture; if mixture is too wet, gradually add flour."
+  },
+  "timestamp": "2026-02-06T08:08:33.008Z"
+}

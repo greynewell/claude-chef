@@ -1,0 +1,53 @@
+{
+  "contentHash": "25a476a2e7390023",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 ounces rotini pasta",
+        "searchTerm": "rotini pasta",
+        "normalizedName": "Rotini Pasta"
+      },
+      {
+        "ingredient": "2 ½ cups frozen mixed vegetables",
+        "searchTerm": "frozen mixed vegetable",
+        "normalizedName": "Frozen Mixed Vegetable"
+      },
+      {
+        "ingredient": "½ cup diced Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "⅓ cup pitted black olives",
+        "searchTerm": "black olive",
+        "normalizedName": "Black Olive"
+      },
+      {
+        "ingredient": "1 cup Italian-style salad dressing",
+        "searchTerm": "Italian salad dressing",
+        "normalizedName": "Italian Salad Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Cook frozen vegetables in pasta water if using fresh, or add frozen directly to warm pasta",
+      "Dress pasta while still warm to help absorption",
+      "Refrigerate for at least 1 hour before serving"
+    ],
+    "coachingPrompt": "Help the user understand how to incorporate frozen vegetables efficiently and achieve proper flavor distribution."
+  },
+  "timestamp": "2026-02-06T10:08:24.311Z"
+}

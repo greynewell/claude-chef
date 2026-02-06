@@ -1,0 +1,44 @@
+{
+  "contentHash": "32971f547c54f67e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ pound bacon, cut in half",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 (8 ounce) can water chestnuts",
+        "searchTerm": "water chestnuts",
+        "normalizedName": "Water Chestnut"
+      },
+      {
+        "ingredient": "¾ cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "½ cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Toothpicks",
+        "searchTerm": "toothpicks"
+      }
+    ],
+    "cookingTips": [
+      "Pat water chestnuts dry before wrapping to help bacon crisp",
+      "Brush glaze on during last 5 minutes of baking to prevent burning",
+      "Arrange on a rack over the baking sheet so fat can drip away"
+    ],
+    "coachingPrompt": "Explain how to wrap small items with bacon evenly and why basting at the end prevents the glaze from burning."
+  },
+  "timestamp": "2026-02-05T22:55:35.475Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "631b3354cd19256b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 plantains, ends cut off and peels removed",
+        "searchTerm": "plantains",
+        "normalizedName": "Plantain"
+      },
+      {
+        "ingredient": "1 tablespoon butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "4 ounces mozzarella cheese, cut into 1/3-inch slices",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Use ripe plantains for easier peeling and better flavor",
+      "Slice plantains lengthwise and create pockets for cheese insertion",
+      "Mozzarella will melt evenly if sliced to uniform thickness"
+    ],
+    "coachingPrompt": "When is the best time to insert the cheese slices—before or after the initial baking?"
+  },
+  "timestamp": "2026-02-05T23:10:33.737Z"
+}

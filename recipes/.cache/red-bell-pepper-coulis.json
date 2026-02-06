@@ -1,0 +1,58 @@
+{
+  "contentHash": "4c2a0111133f1991",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 red bell peppers, seeded and chopped",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "2 shallots, chopped",
+        "searchTerm": "shallots",
+        "normalizedName": "Shallot"
+      },
+      {
+        "ingredient": "½ cup white wine",
+        "searchTerm": "white wine",
+        "normalizedName": "White Wine"
+      },
+      {
+        "ingredient": "½ cup chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "½ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Immersion blender",
+        "searchTerm": "immersion blender"
+      },
+      {
+        "name": "Fine mesh strainer",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Roast the peppers first for deeper, sweeter flavor",
+      "Strain the coulis for a silky-smooth texture",
+      "Serve warm or at room temperature as a sauce for grilled meats or fish"
+    ],
+    "coachingPrompt": "Will you roast or sauté the peppers for this coulis?"
+  },
+  "timestamp": "2026-02-06T16:01:36.850Z"
+}

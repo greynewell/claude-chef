@@ -1,0 +1,63 @@
+{
+  "contentHash": "2423daf217e75ad5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 large eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅓ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 tablespoon butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "4 slices day-old bread, cut into thirds",
+        "searchTerm": "day-old bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "1 teaspoon confectioners' sugar, or to taste",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Shallow Dish",
+        "searchTerm": "shallow bowl"
+      },
+      {
+        "name": "Parchment Paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Use day-old bread that's slightly stale for better egg absorption and sturdier sticks",
+      "Soak bread pieces for a few seconds in the egg mixture without over-saturating",
+      "Arrange sticks in a single layer and flip halfway through for even cooking"
+    ],
+    "coachingPrompt": "Walk me through making cinnamon French toast sticks that are crispy outside and custardy inside."
+  },
+  "timestamp": "2026-02-05T21:42:48.760Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "2c3fe0bdc8a5e7b1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "apples",
+        "searchTerm": "apples",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "ground cloves",
+        "searchTerm": "cloves",
+        "normalizedName": "Clove"
+      },
+      {
+        "ingredient": "ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Nutmeg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "peeler",
+        "searchTerm": "peeler"
+      },
+      {
+        "name": "food mill or immersion blender",
+        "searchTerm": "food mill"
+      }
+    ],
+    "cookingTips": [
+      "Use a mix of tart and sweet apples for balanced flavor",
+      "Peel, core, and slice apples thinly for faster cooking and easier blending",
+      "Blend or mill applesauce until desired consistency is reached"
+    ],
+    "coachingPrompt": "Guide the user through selecting apple varieties and achieving smooth applesauce texture."
+  },
+  "timestamp": "2026-02-06T18:08:28.916Z"
+}

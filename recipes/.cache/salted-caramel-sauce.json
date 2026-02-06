@@ -1,0 +1,52 @@
+{
+  "contentHash": "cc320aab09096095",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "5 tablespoons butter, cut into slices",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "1 tablespoon heavy whipping cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "1 pinch sea salt to taste",
+        "searchTerm": "sea salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "candy thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Don't stir the sugar while it caramelizes—just swirl the pan to ensure even cooking",
+      "Remove from heat before adding cream to prevent splattering, then whisk gently"
+    ],
+    "coachingPrompt": "I want to make a professional salted caramel sauce without it crystallizing or breaking. What temperature should I aim for?"
+  },
+  "timestamp": "2026-02-06T16:52:17.754Z"
+}

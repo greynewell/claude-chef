@@ -1,0 +1,83 @@
+{
+  "contentHash": "7128b958d7dc68d5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons salted butter",
+        "searchTerm": "salted butter",
+        "normalizedName": "Salted Butter"
+      },
+      {
+        "ingredient": "1 ½ pounds skinless, boneless chicken breast, cut in bite-sized pieces",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Skinless Boneless Chicken Breast"
+      },
+      {
+        "ingredient": "½ medium onion, finely chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 ½ cups chicken stock",
+        "searchTerm": "chicken stock",
+        "normalizedName": "Chicken Stock"
+      },
+      {
+        "ingredient": "1 (16 ounce) package penne pasta",
+        "searchTerm": "penne pasta",
+        "normalizedName": "Penne Pasta"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, cubed",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "⅓ cup Buffalo wing sauce",
+        "searchTerm": "Buffalo sauce",
+        "normalizedName": "Buffalo Wing Sauce"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons crumbled blue cheese, or to taste",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Instant Pot",
+        "searchTerm": "instant pot pressure cooker"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet pan"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cut chicken and pasta pieces to similar size for even cooking",
+      "Add cream cheese slowly while stirring to prevent lumps",
+      "Don't overcook pasta; it will continue cooking as the pot cools"
+    ],
+    "coachingPrompt": "One-pot pasta dishes require timing precision. Are you comfortable managing pasta texture in an Instant Pot?"
+  },
+  "timestamp": "2026-02-06T09:46:13.338Z"
+}

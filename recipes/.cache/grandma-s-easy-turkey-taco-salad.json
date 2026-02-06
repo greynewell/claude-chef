@@ -1,0 +1,62 @@
+{
+  "contentHash": "acac2fa2eb04492e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground turkey",
+        "searchTerm": "ground turkey",
+        "normalizedName": "Ground Turkey"
+      },
+      {
+        "ingredient": "1 (1.25 ounce) package taco seasoning mix",
+        "searchTerm": "taco seasoning mix",
+        "normalizedName": "Taco Seasoning Mix"
+      },
+      {
+        "ingredient": "1 (15 ounce) can black beans, rinsed and drained",
+        "searchTerm": "black beans",
+        "normalizedName": "Black Bean"
+      },
+      {
+        "ingredient": "1 head iceberg lettuce, shredded",
+        "searchTerm": "iceberg lettuce",
+        "normalizedName": "Iceberg Lettuce"
+      },
+      {
+        "ingredient": "2 tomatoes, diced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 (10 ounce) bag tortilla chips, coarsely crumbled",
+        "searchTerm": "tortilla chips",
+        "normalizedName": "Tortilla Chip"
+      },
+      {
+        "ingredient": "1 (8 fluid ounce) bottle thousand island dressing",
+        "searchTerm": "thousand island dressing",
+        "normalizedName": "Thousand Island Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "large salad bowl",
+        "searchTerm": "large salad bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook ground turkey until no longer pink, breaking it into small crumbles",
+      "Add tortilla chips just before serving to maintain crunchiness"
+    ],
+    "coachingPrompt": "Help the user build a hearty salad with properly cooked seasoned meat and discuss timing for ingredient assembly."
+  },
+  "timestamp": "2026-02-06T07:50:24.330Z"
+}

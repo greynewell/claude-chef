@@ -1,0 +1,53 @@
+{
+  "contentHash": "c59bf3e61a5481e2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices multigrain bread",
+        "searchTerm": "multigrain bread",
+        "normalizedName": "Multigrain Bread"
+      },
+      {
+        "ingredient": "2 large avocados",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "2 tablespoons diced red onion",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "¼ cup freshly grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Grate cheese fresh for better melting",
+      "Mash avocado with onion and cilantro for better integration",
+      "Cook grilled cheese over medium heat for even browning"
+    ],
+    "coachingPrompt": "How should you balance the avocado layer with cheese so both components shine?"
+  },
+  "timestamp": "2026-02-05T22:43:14.836Z"
+}

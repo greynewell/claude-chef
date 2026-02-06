@@ -1,0 +1,59 @@
+{
+  "contentHash": "2340e77f9fe4a8e9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 breast half, bone and skin removed (blank)s skinless, boneless chicken breast halves",
+        "searchTerm": "boneless skinless chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅛ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (16 ounce) can sauerkraut, drained and pressed",
+        "searchTerm": "sauerkraut",
+        "normalizedName": "Sauerkraut"
+      },
+      {
+        "ingredient": "4 slices Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "1 ¼ cups thousand island salad dressing",
+        "searchTerm": "thousand island dressing",
+        "normalizedName": "Thousand Island Dressing"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Fresh Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Press sauerkraut dry to prevent excess moisture in the dish",
+      "Layer ingredients in order for best flavor distribution",
+      "Cover with foil if cheese browns too quickly"
+    ],
+    "coachingPrompt": "Help me layer a Reuben sandwich in baking form - how should I arrange the chicken, sauerkraut, and cheese for even cooking?"
+  },
+  "timestamp": "2026-02-05T23:02:18.392Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "741ad8e0b65fa91b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "24 whole wheat crackers",
+        "searchTerm": "whole wheat crackers",
+        "normalizedName": "Whole Wheat Cracker"
+      },
+      {
+        "ingredient": "¼ cup pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "24 slices pepperoni",
+        "searchTerm": "pepperoni",
+        "normalizedName": "Pepperoni"
+      },
+      {
+        "ingredient": "1 ½ cups finely shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Microwave",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "Microwave-Safe Plate",
+        "searchTerm": "microwave plate"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Spread sauce and toppings evenly on each cracker for consistent cooking",
+      "Microwave in batches to ensure even heating and prevent soggy crackers",
+      "Heat just until cheese melts to keep crackers crispy"
+    ],
+    "coachingPrompt": "Explain how to prevent crackers from becoming soggy and why batch cooking is beneficial."
+  },
+  "timestamp": "2026-02-06T12:25:46.979Z"
+}

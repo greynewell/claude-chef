@@ -1,0 +1,88 @@
+{
+  "contentHash": "bd36f18a2549b5cb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "pork",
+        "searchTerm": "pork",
+        "normalizedName": "Pork"
+      },
+      {
+        "ingredient": "onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "mushrooms",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "fresh bean sprouts",
+        "searchTerm": "bean sprouts",
+        "normalizedName": "Bean Sprout"
+      },
+      {
+        "ingredient": "sliced almonds",
+        "searchTerm": "sliced almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "reduced-sodium soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Wok",
+        "searchTerm": "wok"
+      },
+      {
+        "name": "Wooden Spatula",
+        "searchTerm": "wooden spatula"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cut pork into uniform 1-inch pieces so they cook evenly and quickly in the wok",
+      "High heat is key for wok cooking—have all ingredients prepped before starting",
+      "Add bean sprouts at the very end to preserve their crisp texture"
+    ],
+    "coachingPrompt": "Teach wok techniques: high heat, quick cooking, and the importance of prep work in stir-fries."
+  },
+  "timestamp": "2026-02-06T15:06:24.091Z"
+}

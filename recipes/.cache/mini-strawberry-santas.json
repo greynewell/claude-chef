@@ -1,0 +1,47 @@
+{
+  "contentHash": "68e87734a5709c6e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pint fresh strawberries, hulled",
+        "searchTerm": "fresh strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "1 cup heavy whipping cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "1 tablespoon confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon chocolate sprinkles",
+        "searchTerm": "chocolate sprinkles",
+        "normalizedName": "Chocolate Sprinkle"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "Piping bag",
+        "searchTerm": "piping bag"
+      }
+    ],
+    "cookingTips": [
+      "Whip cream just until stiff peaks form to avoid over-beating",
+      "Assemble shortly before serving to keep strawberries fresh"
+    ],
+    "coachingPrompt": "What's the best way to whip cream to achieve proper Santa hat peaks?"
+  },
+  "timestamp": "2026-02-06T12:32:52.195Z"
+}

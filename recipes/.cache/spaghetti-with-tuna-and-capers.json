@@ -1,0 +1,63 @@
+{
+  "contentHash": "5ae772ce7e7d79c5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon extra-virgin olive oil",
+        "searchTerm": "extra virgin olive oil",
+        "normalizedName": "Extra Virgin Olive Oil"
+      },
+      {
+        "ingredient": "1 small red onion, thinly sliced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "1 (5 ounce) can tuna packed in olive oil, undrained",
+        "searchTerm": "canned tuna",
+        "normalizedName": "Tuna"
+      },
+      {
+        "ingredient": "1 tablespoon capers, drained",
+        "searchTerm": "capers",
+        "normalizedName": "Caper"
+      },
+      {
+        "ingredient": "¼ teaspoon crushed red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "½ pound spaghetti",
+        "searchTerm": "spaghetti",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "½ tablespoon chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "pasta pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Use the oil from the tuna can as part of your cooking fat",
+      "Slice onions thinly for quick cooking and even distribution",
+      "Flake tuna gently to avoid breaking it into too-small pieces"
+    ],
+    "coachingPrompt": "Why is it important to keep the tuna oil in the can rather than draining it?"
+  },
+  "timestamp": "2026-02-06T18:48:30.878Z"
+}

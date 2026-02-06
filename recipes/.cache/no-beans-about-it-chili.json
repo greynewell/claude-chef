@@ -1,0 +1,73 @@
+{
+  "contentHash": "b93d1da52185fd14",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 large onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 tablespoons chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "1 teaspoon dried oregano",
+        "searchTerm": "oregano",
+        "normalizedName": "Oregano"
+      },
+      {
+        "ingredient": "1 teaspoon ground cumin",
+        "searchTerm": "cumin",
+        "normalizedName": "Cumin"
+      },
+      {
+        "ingredient": "1 teaspoon hot pepper sauce",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      },
+      {
+        "ingredient": "1 (28 ounce) can crushed tomatoes",
+        "searchTerm": "crushed tomatoes",
+        "normalizedName": "Crushed Tomato"
+      },
+      {
+        "ingredient": "¼ cup red wine vinegar",
+        "searchTerm": "red wine vinegar",
+        "normalizedName": "Red Wine Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground beef thoroughly before adding aromatics for deeper flavor",
+      "Simmer chili uncovered for 20-30 minutes to allow flavors to meld and thicken",
+      "Adjust seasoning to taste and add more hot sauce if desired for extra heat"
+    ],
+    "coachingPrompt": "Help the user build flavor through proper browning and seasoning adjustments."
+  },
+  "timestamp": "2026-02-06T13:17:09.211Z"
+}

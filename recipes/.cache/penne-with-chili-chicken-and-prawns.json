@@ -1,0 +1,68 @@
+{
+  "contentHash": "53debf0a66fdf2ac",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package uncooked penne pasta",
+        "searchTerm": "penne pasta",
+        "normalizedName": "Penne Pasta"
+      },
+      {
+        "ingredient": "2 skinless, boneless chicken breast halves - cubed",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "5 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "3 cloves garlic, chopped",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 (26 ounce) jar spicy red pepper pasta sauce",
+        "searchTerm": "red pepper pasta sauce",
+        "normalizedName": "Red Pepper Pasta Sauce"
+      },
+      {
+        "ingredient": "½ pound medium shrimp - peeled and deveined",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "1 fresh red chile pepper, finely chopped",
+        "searchTerm": "red chile pepper",
+        "normalizedName": "Red Chile Pepper"
+      },
+      {
+        "ingredient": "1 cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Cook chicken and shrimp separately until just done to avoid overcooking either protein",
+      "Add shrimp in the last 2-3 minutes of cooking; they cook very quickly",
+      "Reserve some pasta water to adjust sauce consistency if needed"
+    ],
+    "coachingPrompt": "How do I cook shrimp and chicken together without one becoming overcooked?"
+  },
+  "timestamp": "2026-02-06T14:31:00.375Z"
+}

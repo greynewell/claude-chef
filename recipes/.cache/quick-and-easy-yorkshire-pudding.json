@@ -1,0 +1,48 @@
+{
+  "contentHash": "0e5c74419b297bfa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "muffin tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Let batter rest for 30 minutes before baking for lighter texture",
+      "Preheat oven and muffin tin thoroughly for proper rise",
+      "Avoid opening oven door during baking or puddings will collapse"
+    ],
+    "coachingPrompt": "What pan temperatures and timing ensure these puddings rise properly?"
+  },
+  "timestamp": "2026-02-06T15:39:30.936Z"
+}

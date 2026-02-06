@@ -1,0 +1,52 @@
+{
+  "contentHash": "065fd84f0331a8e8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅓ cup Ranch-style salad dressing",
+        "searchTerm": "ranch dressing",
+        "normalizedName": "Ranch Dressing"
+      },
+      {
+        "ingredient": "½ (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "½ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 dill pickle, finely chopped",
+        "searchTerm": "dill pickle",
+        "normalizedName": "Dill Pickle"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Piping bag",
+        "searchTerm": "piping bag"
+      }
+    ],
+    "cookingTips": [
+      "Cut eggs in half lengthwise for a more elegant presentation",
+      "Chill the filling before piping to maintain shape and improve handling"
+    ],
+    "coachingPrompt": "Suggest the user use a piping bag with a star tip to create professional-looking deviled eggs with attractive ridges."
+  },
+  "timestamp": "2026-02-06T04:26:12.761Z"
+}

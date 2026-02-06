@@ -1,0 +1,48 @@
+{
+  "contentHash": "1cf5da6efc354fb6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 quart whole milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "2 tablespoons plain yogurt",
+        "searchTerm": "plain yogurt",
+        "normalizedName": "Yogurt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "yogurt maker or insulated cooler",
+        "searchTerm": "yogurt maker"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "cooking thermometer"
+      },
+      {
+        "name": "glass jars",
+        "searchTerm": "glass jars"
+      }
+    ],
+    "cookingTips": [
+      "Heat milk to 180°F then cool to 110°F before adding yogurt culture for best results",
+      "Maintain 110°F temperature for 6-12 hours during culturing for proper fermentation",
+      "Use live culture plain yogurt as starter to ensure successful fermentation"
+    ],
+    "coachingPrompt": "I want to make yogurt at home but worry about maintaining the right temperature. What are reliable methods for keeping the culture warm?"
+  },
+  "timestamp": "2026-02-06T09:19:09.785Z"
+}

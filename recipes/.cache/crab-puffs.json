@@ -1,0 +1,53 @@
+{
+  "contentHash": "a2dacc85b065ed53",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 quart oil for deep frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 pound cooked crabmeat",
+        "searchTerm": "cooked crabmeat",
+        "normalizedName": "Crabmeat"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "2 teaspoons garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "2 (16 ounce) packages small won ton wrappers",
+        "searchTerm": "won ton wrappers",
+        "normalizedName": "Won Ton Wrapper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep fryer or large pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Slotted spoon",
+        "searchTerm": "slotted spoon"
+      },
+      {
+        "name": "Paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Keep won ton wrappers covered with a damp cloth to prevent drying out",
+      "Fill wrappers sparingly to prevent leaking during frying",
+      "Heat oil to 350°F and fry in small batches for even cooking"
+    ],
+    "coachingPrompt": "Help the user master deep frying by maintaining proper oil temperature and carefully wrapping small appetizers."
+  },
+  "timestamp": "2026-02-06T04:02:47.146Z"
+}

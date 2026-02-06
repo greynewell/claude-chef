@@ -1,0 +1,53 @@
+{
+  "contentHash": "45b4f99b128e9ae3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup Mexican-style hot sauce",
+        "searchTerm": "hot sauce",
+        "normalizedName": "Hot Sauce"
+      },
+      {
+        "ingredient": "1 tablespoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "1 tablespoon cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "4 chicken thighs",
+        "searchTerm": "chicken thighs",
+        "normalizedName": "Chicken Thigh"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Marinate chicken in sauce for at least 30 minutes for deeper flavor",
+      "Bake at 400°F until internal temperature reaches 165°F",
+      "Brown sugar balances the heat with subtle sweetness"
+    ],
+    "coachingPrompt": "I want to make spicy Mexican chicken with a nice glaze. How hot will this be and can I adjust the heat level?"
+  },
+  "timestamp": "2026-02-06T06:02:24.538Z"
+}

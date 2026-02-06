@@ -1,0 +1,59 @@
+{
+  "contentHash": "d040fd04d3c6ae6c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds potatoes, peeled and cubed",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 medium onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (4 to 6 pound) whole roasting chicken",
+        "searchTerm": "whole roasting chicken",
+        "normalizedName": "Whole Roasting Chicken"
+      },
+      {
+        "ingredient": "6 cloves garlic, halved lengthwise",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 tablespoons rosemary",
+        "searchTerm": "rosemary",
+        "normalizedName": "Rosemary"
+      },
+      {
+        "ingredient": "freshly cracked salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "freshly cracked salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Layer potatoes and onions on the slow cooker bottom to create a bed for the chicken",
+      "Place chicken breast-side up on top of vegetables for even cooking",
+      "Cook on low for 6-8 hours until chicken reaches 165°F internal temperature at thickest part"
+    ],
+    "coachingPrompt": "How can you ensure the chicken is fully cooked while keeping the meat moist in a slow cooker?"
+  },
+  "timestamp": "2026-02-06T07:20:51.749Z"
+}

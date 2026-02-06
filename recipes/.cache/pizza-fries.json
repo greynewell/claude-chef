@@ -1,0 +1,58 @@
+{
+  "contentHash": "1265ef35c074926e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15 ounce) package double crust ready-to-use pie crusts (such as Pillsbury®)",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      },
+      {
+        "ingredient": "½ cup marinara sauce",
+        "searchTerm": "marinara sauce",
+        "normalizedName": "Marinara Sauce"
+      },
+      {
+        "ingredient": "½ cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 (8 ounce) package sliced pepperoni",
+        "searchTerm": "pepperoni",
+        "normalizedName": "Pepperoni"
+      },
+      {
+        "ingredient": "1 teaspoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 pinch dried oregano, or to taste",
+        "searchTerm": "dried oregano",
+        "normalizedName": "Dried Oregano"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "pizza cutter",
+        "searchTerm": "pizza cutter"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Cut pie crusts into thin fries for crispy texture",
+      "Bake at 400°F for 8-10 minutes until golden and crispy",
+      "Serve with marinara sauce for dunking like traditional pizza fries"
+    ],
+    "coachingPrompt": "How would you achieve the crispiest possible pizza fries from pie crust?"
+  },
+  "timestamp": "2026-02-06T14:54:09.801Z"
+}

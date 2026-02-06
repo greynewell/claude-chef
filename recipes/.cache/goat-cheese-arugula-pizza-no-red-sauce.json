@@ -1,0 +1,63 @@
+{
+  "contentHash": "1aa162d708fca701",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 unbaked pizza crust",
+        "searchTerm": "pizza crust",
+        "normalizedName": "Pizza Crust"
+      },
+      {
+        "ingredient": "6 tablespoons prepared pesto sauce",
+        "searchTerm": "pesto sauce",
+        "normalizedName": "Pesto Sauce"
+      },
+      {
+        "ingredient": "3 roma tomatoes, thinly sliced",
+        "searchTerm": "roma tomato",
+        "normalizedName": "Roma Tomato"
+      },
+      {
+        "ingredient": "1 (8 ounce) package seasoned goat cheese",
+        "searchTerm": "goat cheese",
+        "normalizedName": "Goat Cheese"
+      },
+      {
+        "ingredient": "2 cloves garlic, peeled and thinly sliced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 cup fresh arugula",
+        "searchTerm": "arugula",
+        "normalizedName": "Arugula"
+      },
+      {
+        "ingredient": "1 teaspoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pizza stone or baking sheet",
+        "searchTerm": "pizza stone"
+      },
+      {
+        "name": "pizza wheel or knife",
+        "searchTerm": "pizza wheel"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Add arugula after baking to maintain its peppery flavor and crisp texture",
+      "Spread pesto evenly to ensure it doesn't burn in hot spots",
+      "Pre-bake crust slightly if it seems too thick to ensure crispy bottom"
+    ],
+    "coachingPrompt": "Help me assemble this pizza in the right order so the arugula stays fresh and vibrant."
+  },
+  "timestamp": "2026-02-06T07:40:21.549Z"
+}

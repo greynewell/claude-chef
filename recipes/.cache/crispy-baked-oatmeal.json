@@ -1,0 +1,63 @@
+{
+  "contentHash": "c036d09d5d2ce4da",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "⅓ cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "3 cups old-fashioned oats",
+        "searchTerm": "old-fashioned oats",
+        "normalizedName": "Old-Fashioned Oat"
+      },
+      {
+        "ingredient": "1 tablespoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "¾ teaspoon ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking dish",
+        "searchTerm": "9x13 baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Mix wet ingredients thoroughly before combining with dry ingredients",
+      "Spread mixture evenly in baking dish for uniform crispiness",
+      "Bake at 350°F for 25-30 minutes until golden and crispy on edges"
+    ],
+    "coachingPrompt": "Help user understand the texture progression and suggest breaking into pieces after cooling for best crispiness."
+  },
+  "timestamp": "2026-02-06T04:37:42.867Z"
+}

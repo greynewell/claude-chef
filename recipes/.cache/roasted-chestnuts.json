@@ -1,0 +1,48 @@
+{
+  "contentHash": "39369d8a598d842b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound chestnuts",
+        "searchTerm": "chestnuts",
+        "normalizedName": "Chestnut"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "Sharp knife for scoring",
+        "searchTerm": "paring knife"
+      },
+      {
+        "name": "Kitchen towel",
+        "searchTerm": "kitchen towel"
+      }
+    ],
+    "cookingTips": [
+      "Score chestnut shells with an X-cut to prevent explosion while roasting",
+      "Roast until shells split open and nuts are tender",
+      "Peel while still warm for easier removal of shells"
+    ],
+    "coachingPrompt": "Explain the importance of scoring chestnuts before roasting and guide the user on the best technique for peeling them while warm."
+  },
+  "timestamp": "2026-02-06T16:21:51.269Z"
+}

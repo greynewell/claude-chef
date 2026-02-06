@@ -1,0 +1,73 @@
+{
+  "contentHash": "78c5b111f8301fdb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound bacon, diced",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 cup chopped white onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 tablespoons diced fresh jalapeno pepper",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "4 (15 ounce) cans black-eyed peas, undrained",
+        "searchTerm": "black-eyed peas",
+        "normalizedName": "Black-Eyed Pea"
+      },
+      {
+        "ingredient": "3 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 cups canned diced tomatoes",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "2 cubes beef bouillon",
+        "searchTerm": "beef bouillon",
+        "normalizedName": "Beef Bouillon"
+      },
+      {
+        "ingredient": "3 cups shredded Cheddar cheese",
+        "searchTerm": "shredded Cheddar cheese",
+        "normalizedName": "Shredded Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Large skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Render bacon fat first for rich flavor base",
+      "Dissolve beef bouillon in hot water before adding to soup",
+      "Stir in cheese off heat to prevent curdling"
+    ],
+    "coachingPrompt": "How can you use bacon fat to enhance the overall flavor of this soup?"
+  },
+  "timestamp": "2026-02-06T18:55:20.481Z"
+}

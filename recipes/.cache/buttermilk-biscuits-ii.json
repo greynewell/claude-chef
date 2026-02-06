@@ -1,0 +1,63 @@
+{
+  "contentHash": "0e7270a95e5b7a81",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups self-rising flour",
+        "searchTerm": "self-rising flour",
+        "normalizedName": "Self-Rising Flour"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ cup shortening",
+        "searchTerm": "shortening",
+        "normalizedName": "Shortening"
+      },
+      {
+        "ingredient": "⅔ cup heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "1 cup buttermilk",
+        "searchTerm": "buttermilk",
+        "normalizedName": "Buttermilk"
+      },
+      {
+        "ingredient": "1 tablespoon butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "biscuit cutter",
+        "searchTerm": "biscuit cutter"
+      }
+    ],
+    "cookingTips": [
+      "Add heavy cream to buttermilk for richer, more tender biscuits",
+      "Keep ingredients cold and work quickly to avoid developing gluten",
+      "Brush with melted butter immediately after baking for shine and flavor"
+    ],
+    "coachingPrompt": "This version adds heavy cream for richness. How experienced are you with creating flaky, tender baked goods?"
+  },
+  "timestamp": "2026-02-06T01:00:44.486Z"
+}

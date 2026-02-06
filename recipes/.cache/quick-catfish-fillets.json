@@ -1,0 +1,58 @@
+{
+  "contentHash": "0ce5e9597ddac970",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅓ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 pinch salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 (6 ounce) fillets catfish",
+        "searchTerm": "catfish fillets",
+        "normalizedName": "Catfish Fillet"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ cup oyster sauce",
+        "searchTerm": "oyster sauce",
+        "normalizedName": "Oyster Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Shallow Dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "Fish Spatula",
+        "searchTerm": "fish spatula"
+      }
+    ],
+    "cookingTips": [
+      "Pat fish dry before dredging to achieve better browning",
+      "Don't overcrowd the skillet; cook in batches if needed",
+      "Oyster sauce adds umami flavor; add it toward the end to prevent burning"
+    ],
+    "coachingPrompt": "Guide the user on proper fish handling and timing to prevent overcooking delicate catfish fillets."
+  },
+  "timestamp": "2026-02-06T15:41:12.348Z"
+}

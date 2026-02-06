@@ -1,0 +1,58 @@
+{
+  "contentHash": "58dea25695ebef58",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10 pound) bone-in spiral-cut ham",
+        "searchTerm": "spiral-cut ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "1 cup orange marmalade",
+        "searchTerm": "orange marmalade",
+        "normalizedName": "Orange Marmalade"
+      },
+      {
+        "ingredient": "1 teaspoon McCormick® Mustard, Ground",
+        "searchTerm": "ground mustard",
+        "normalizedName": "Ground Mustard"
+      },
+      {
+        "ingredient": "½ teaspoon McCormick® Garlic Powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "¼ teaspoon McCormick® Black Pepper, Ground",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "¼ teaspoon McCormick® Cloves, Ground",
+        "searchTerm": "ground cloves",
+        "normalizedName": "Ground Clove"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Score the ham surface in a crosshatch pattern before glazing",
+      "Glaze ham during the last 30 minutes of cooking to prevent burning",
+      "Use meat thermometer to ensure ham reaches 140°F"
+    ],
+    "coachingPrompt": "What's the best way to apply the glaze to a large ham so it caramelizes evenly without scorching?"
+  },
+  "timestamp": "2026-02-06T13:44:29.225Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "c4e93ddfc30e675e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "18 large prawns, peeled and deveined, tails left on",
+        "searchTerm": "large prawn",
+        "normalizedName": "Large Prawn"
+      },
+      {
+        "ingredient": "1 (10 ounce) bag nacho-cheese flavored corn chips, finely crushed",
+        "searchTerm": "nacho-cheese corn chip",
+        "normalizedName": "Nacho-Cheese Corn Chip"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep fryer or heavy pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "cooking thermometer"
+      },
+      {
+        "name": "shallow bowl",
+        "searchTerm": "shallow bowl"
+      }
+    ],
+    "cookingTips": [
+      "Pat prawns dry completely before dipping in egg wash for better chip adhesion",
+      "Fry at 350°F for 1-2 minutes per side until coating is crispy and golden",
+      "The nacho-cheese flavoring adds seasoning directly into the coating"
+    ],
+    "coachingPrompt": "What advantage does using crushed nacho chips as a coating provide over traditional breadcrumbs?"
+  },
+  "timestamp": "2026-02-06T04:39:42.735Z"
+}

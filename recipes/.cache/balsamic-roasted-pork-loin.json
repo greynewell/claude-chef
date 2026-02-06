@@ -1,0 +1,47 @@
+{
+  "contentHash": "a270c795785b1383",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons steak seasoning rub",
+        "searchTerm": "steak seasoning",
+        "normalizedName": "Steak Seasoning Rub"
+      },
+      {
+        "ingredient": "½ cup balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "½ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 pounds boneless pork loin roast",
+        "searchTerm": "pork loin roast",
+        "normalizedName": "Pork Loin Roast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "Basting brush",
+        "searchTerm": "basting brush"
+      }
+    ],
+    "cookingTips": [
+      "Bring pork loin to room temperature before roasting for even cooking",
+      "Baste with the balsamic-oil mixture every 15-20 minutes for a glossy, flavorful exterior"
+    ],
+    "coachingPrompt": "Explain how to monitor internal temperature and rest the pork loin to maintain juiciness."
+  },
+  "timestamp": "2026-02-05T23:19:00.878Z"
+}

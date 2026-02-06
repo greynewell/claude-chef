@@ -1,0 +1,57 @@
+{
+  "contentHash": "cb6411dddc259129",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 tablespoons seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      },
+      {
+        "ingredient": "1 tablespoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "80 unopened dandelion blossoms, stems removed",
+        "searchTerm": "dandelion blossoms",
+        "normalizedName": "Dandelion Blossom"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "shallow bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "kitchen tongs"
+      }
+    ],
+    "cookingTips": [
+      "Ensure dandelion blossoms are completely unopened and pesticide-free from a clean source",
+      "Keep butter at medium heat to prevent burning the delicate petals"
+    ],
+    "coachingPrompt": "How will you source pesticide-free dandelions, and how can you maintain proper oil temperature throughout frying?"
+  },
+  "timestamp": "2026-02-06T07:04:45.284Z"
+}

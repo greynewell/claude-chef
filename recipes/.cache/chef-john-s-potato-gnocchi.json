@@ -1,0 +1,52 @@
+{
+  "contentHash": "5047755d22792dd4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 large russet potato",
+        "searchTerm": "russet potato",
+        "normalizedName": "Russet Potato"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 cup marinara sauce",
+        "searchTerm": "marinara sauce",
+        "normalizedName": "Marinara Sauce"
+      },
+      {
+        "ingredient": "Freshly grated Parmigiano-Reggiano cheese",
+        "searchTerm": "Parmigiano-Reggiano",
+        "normalizedName": "Parmigiano-Reggiano Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot for Boiling",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Ricer or Grater",
+        "searchTerm": "ricer"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Gnocchi should float to the surface when cooked through; remove with slotted spoon",
+      "Use a ricer to break down potato for lighter, fluffier gnocchi"
+    ],
+    "coachingPrompt": "Why is minimizing gluten development critical in gnocchi? How do you achieve the right dough consistency without overworking it?"
+  },
+  "timestamp": "2026-02-06T02:08:07.038Z"
+}

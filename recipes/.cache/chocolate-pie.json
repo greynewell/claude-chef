@@ -1,0 +1,52 @@
+{
+  "contentHash": "667845358685b2ee",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (9 inch) pie shell, baked",
+        "searchTerm": "pie shell baked",
+        "normalizedName": "Pie Shell"
+      },
+      {
+        "ingredient": "1 (5 ounce) package non-instant chocolate pudding mix",
+        "searchTerm": "chocolate pudding mix",
+        "normalizedName": "Chocolate Pudding Mix"
+      },
+      {
+        "ingredient": "2 cups low-fat milk",
+        "searchTerm": "low-fat milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 (8 ounce) container frozen whipped topping, thawed",
+        "searchTerm": "whipped topping",
+        "normalizedName": "Whipped Topping"
+      },
+      {
+        "ingredient": "¼ cup chocolate shavings",
+        "searchTerm": "chocolate shavings",
+        "normalizedName": "Chocolate"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "9 inch pie dish",
+        "searchTerm": "pie dish"
+      }
+    ],
+    "cookingTips": [
+      "Whisk pudding mix with milk until completely smooth before cooking to prevent lumps",
+      "Top with whipped topping and chocolate shavings right before serving to prevent sogginess"
+    ],
+    "coachingPrompt": "Help me prepare a quick chocolate pudding pie using non-instant mix in a pre-baked crust."
+  },
+  "timestamp": "2026-02-06T03:10:42.726Z"
+}

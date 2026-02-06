@@ -1,0 +1,48 @@
+{
+  "contentHash": "f7a7943454113ae2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 ounces strawberries",
+        "searchTerm": "fresh strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "1 tablespoon sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "small saucepan"
+      },
+      {
+        "name": "immersion blender",
+        "searchTerm": "immersion blender"
+      },
+      {
+        "name": "strainer",
+        "searchTerm": "fine mesh strainer"
+      }
+    ],
+    "cookingTips": [
+      "Cook over low heat to prevent browning",
+      "Strain the curd for a smooth, seedless texture",
+      "Chill before serving for best consistency"
+    ],
+    "coachingPrompt": "What binding agent could replace eggs in a traditional curd recipe?"
+  },
+  "timestamp": "2026-02-06T06:10:03.524Z"
+}

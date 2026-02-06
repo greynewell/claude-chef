@@ -1,0 +1,53 @@
+{
+  "contentHash": "aa8f8f4cb2a424ac",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10 ounce) can refrigerated pizza crust dough",
+        "searchTerm": "pizza crust dough",
+        "normalizedName": "Pizza Crust Dough"
+      },
+      {
+        "ingredient": "¼ pound Genoa salami, thinly sliced",
+        "searchTerm": "Genoa salami",
+        "normalizedName": "Genoa Salami"
+      },
+      {
+        "ingredient": "¼ pound pepperoni sausage, sliced",
+        "searchTerm": "pepperoni sausage",
+        "normalizedName": "Pepperoni Sausage"
+      },
+      {
+        "ingredient": "¼ pound provolone cheese, sliced",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      },
+      {
+        "ingredient": "½ cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "Rolling pin",
+        "searchTerm": "rolling pin"
+      }
+    ],
+    "cookingTips": [
+      "Roll dough thin and cut into small circles for appetizer portions",
+      "Layer ingredients in order: dough, salami, pepperoni, provolone, then mozzarella",
+      "Bake at 400°F for 8-10 minutes until cheese melts and edges are golden"
+    ],
+    "coachingPrompt": "Guide the user through assembling and baking quick pizza appetizers with balanced meat and cheese."
+  },
+  "timestamp": "2026-02-06T10:25:32.840Z"
+}

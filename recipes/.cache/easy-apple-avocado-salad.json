@@ -1,0 +1,53 @@
+{
+  "contentHash": "1f1c5828a9c6c094",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 Granny Smith apples, cut into cubes",
+        "searchTerm": "Granny Smith apples",
+        "normalizedName": "Granny Smith Apple"
+      },
+      {
+        "ingredient": "1 large avocado - peeled, pitted, and cut into chunks",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "½ lemon, juiced",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 tablespoon honey, or more to taste",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 pinch ground cinnamon, or to taste",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bowl",
+        "searchTerm": "salad bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Add lemon juice immediately after cutting apples to prevent browning",
+      "Cut avocado just before serving to maintain color",
+      "Toss gently to avoid mashing avocado"
+    ],
+    "coachingPrompt": "Apple and avocado make a nutritious pairing. What would you recommend for timing if making this ahead?"
+  },
+  "timestamp": "2026-02-06T05:30:41.747Z"
+}

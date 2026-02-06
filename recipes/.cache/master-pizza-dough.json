@@ -1,0 +1,58 @@
+{
+  "contentHash": "b8635eba5d1d382e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ½ cups all-purpose flour, or as needed",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 envelope Fleischmann's® RapidRise Yeast*",
+        "searchTerm": "instant yeast",
+        "normalizedName": "Instant Yeast"
+      },
+      {
+        "ingredient": "¾ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 cup very warm water (120 degrees F to 130 degrees F)",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 tablespoons olive or vegetable oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "Cornmeal",
+        "searchTerm": "cornmeal",
+        "normalizedName": "Cornmeal"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Stand Mixer",
+        "searchTerm": "stand mixer"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Water temperature is critical: 120-130°F activates yeast without killing it",
+      "Knead until dough is smooth and elastic, about 5-8 minutes",
+      "Let dough rest 10 minutes before shaping for easier handling"
+    ],
+    "coachingPrompt": "Walk the user through mixing warm water with yeast, incorporating flour and oil, then kneading to develop a perfect pizza dough."
+  },
+  "timestamp": "2026-02-06T12:05:02.254Z"
+}

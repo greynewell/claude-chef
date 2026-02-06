@@ -1,0 +1,58 @@
+{
+  "contentHash": "3698acc45ceddad6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup Peter Pan® Creamy Peanut Butter, divided",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 (9 inch) chocolate or graham cracker crumb crust",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      },
+      {
+        "ingredient": "2 (0.73 ounce) envelopes Swiss Miss® Milk Chocolate Hot Cocoa Mix",
+        "searchTerm": "hot cocoa mix",
+        "normalizedName": "Hot Cocoa Mix"
+      },
+      {
+        "ingredient": "1 tablespoon hot water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 ¼ cups vanilla ice cream, softened",
+        "searchTerm": "vanilla ice cream",
+        "normalizedName": "Vanilla Ice Cream"
+      },
+      {
+        "ingredient": "Reddi-wip® Original Dairy Whipped Topping",
+        "searchTerm": "whipped topping",
+        "normalizedName": "Whipped Topping"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pie pan",
+        "searchTerm": "pie pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Soften ice cream to spreadable consistency before layering for easier assembly",
+      "Dissolve cocoa mix completely in hot water for smooth chocolate sauce",
+      "Freeze assembled pie for at least 3 hours before serving for clean slices"
+    ],
+    "coachingPrompt": "Help the user achieve proper layer consistency and understand how to soften ice cream without melting it completely."
+  },
+  "timestamp": "2026-02-06T13:17:09.207Z"
+}

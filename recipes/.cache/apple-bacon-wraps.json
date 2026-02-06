@@ -1,0 +1,58 @@
+{
+  "contentHash": "e21952b33d2ab4dc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices bacon, cut in half",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "4 (10 inch) flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "¼ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "½ cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "8 slices deli ham",
+        "searchTerm": "deli ham",
+        "normalizedName": "Deli Ham"
+      },
+      {
+        "ingredient": "1 Granny Smith apple, cut into thin bite-size pieces",
+        "searchTerm": "granny smith apple",
+        "normalizedName": "Granny Smith Apple"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "toothpicks",
+        "searchTerm": "toothpicks"
+      }
+    ],
+    "cookingTips": [
+      "Precook bacon until partially done for easier handling",
+      "Warm tortillas slightly to make them pliable",
+      "Secure wraps with toothpicks and wrap in foil for easy transport"
+    ],
+    "coachingPrompt": "How should you prepare the bacon to make these wraps easier to assemble and cook?"
+  },
+  "timestamp": "2026-02-05T22:08:45.890Z"
+}

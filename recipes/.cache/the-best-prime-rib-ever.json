@@ -1,0 +1,62 @@
+{
+  "contentHash": "3c6a46c6a9ccd69d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 boneless prime rib roast",
+        "searchTerm": "prime rib roast",
+        "normalizedName": "Prime Rib Roast"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "6 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "3 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "3 teaspoons ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon dried thyme",
+        "searchTerm": "dried thyme",
+        "normalizedName": "Dried Thyme"
+      },
+      {
+        "ingredient": "1 teaspoon dried rosemary",
+        "searchTerm": "dried rosemary",
+        "normalizedName": "Dried Rosemary"
+      }
+    ],
+    "gear": [
+      {
+        "name": "roasting pan",
+        "searchTerm": "roasting pan"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "basting brush",
+        "searchTerm": "basting brush"
+      }
+    ],
+    "cookingTips": [
+      "Use a meat thermometer to achieve perfect doneness: 125°F for rare, 135°F for medium-rare",
+      "Let the roast rest for 15-20 minutes after cooking to retain juices and redistribute heat"
+    ],
+    "coachingPrompt": "Guide the cook on using meat thermometers and the importance of resting meat."
+  },
+  "timestamp": "2026-02-06T20:39:38.692Z"
+}

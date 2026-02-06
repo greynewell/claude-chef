@@ -1,0 +1,53 @@
+{
+  "contentHash": "5a1cf41e0715a3c8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 lemon peels, cut into 1/4 inch strips",
+        "searchTerm": "lemon peel",
+        "normalizedName": "Lemon Peel"
+      },
+      {
+        "ingredient": "4 orange peels, cut into 1/4 inch strips",
+        "searchTerm": "orange peel",
+        "normalizedName": "Orange Peel"
+      },
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "⅓ cup white sugar for decoration",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "candy/cooking thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Remove pith from peels before candying to reduce bitterness",
+      "Simmer peels in sugar syrup until translucent, not falling apart",
+      "Roll in sugar while still slightly sticky for better coating"
+    ],
+    "coachingPrompt": "Teach the importance of removing pith and the visual cues for knowing when peels are properly candied."
+  },
+  "timestamp": "2026-02-06T20:02:26.433Z"
+}

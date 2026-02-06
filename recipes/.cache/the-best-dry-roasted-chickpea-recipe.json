@@ -1,0 +1,47 @@
+{
+  "contentHash": "a2b83a2d4bc2e760",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15 ounce) can garbanzo beans, drained and rinsed",
+        "searchTerm": "canned chickpeas",
+        "normalizedName": "Chickpea"
+      },
+      {
+        "ingredient": "2 teaspoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ teaspoon salt, or to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Dry the chickpeas thoroughly before roasting to achieve maximum crispness",
+      "Toss halfway through roasting for even browning"
+    ],
+    "coachingPrompt": "Guide the user through achieving crispy roasted chickpeas with proper drying and heat management."
+  },
+  "timestamp": "2026-02-06T20:38:30.510Z"
+}

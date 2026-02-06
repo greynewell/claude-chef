@@ -1,0 +1,63 @@
+{
+  "contentHash": "5d07ea9e35811d05",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 cups puffed wheat cereal",
+        "searchTerm": "puffed wheat",
+        "normalizedName": "Puffed Wheat"
+      },
+      {
+        "ingredient": "1 cup corn syrup",
+        "searchTerm": "corn syrup",
+        "normalizedName": "Corn Syrup"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "6 tablespoons unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "¼ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "heavy pot"
+      },
+      {
+        "name": "Baking pan",
+        "searchTerm": "9x13 pan"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "candy thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Monitor syrup temperature closely to avoid crystallization",
+      "Add cereal quickly and stir gently to coat evenly without crushing",
+      "Press mixture firmly into pan while still warm for better cohesion"
+    ],
+    "coachingPrompt": "Guide me through making classic chocolate puffed wheat squares"
+  },
+  "timestamp": "2026-02-06T15:23:45.109Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "dd1937b4cba4163d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ vanilla bean",
+        "searchTerm": "vanilla bean",
+        "normalizedName": "Vanilla Bean"
+      },
+      {
+        "ingredient": "1 cup heavy whipping cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Whipping Cream"
+      },
+      {
+        "ingredient": "2 tablespoons superfine sugar",
+        "searchTerm": "superfine sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Chill bowl and whisk before whipping for best results",
+      "Whip cream until stiff peaks form, being careful not to over-whip into butter"
+    ],
+    "coachingPrompt": "How can you tell when whipped cream has reached the perfect consistency?"
+  },
+  "timestamp": "2026-02-06T21:32:14.897Z"
+}

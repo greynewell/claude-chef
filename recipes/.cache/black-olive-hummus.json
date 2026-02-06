@@ -1,0 +1,44 @@
+{
+  "contentHash": "8644c9c64ce34844",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 clove garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 (15 ounce) can garbanzo beans (chickpeas), drained and rinsed",
+        "searchTerm": "chickpeas canned",
+        "normalizedName": "Chickpea"
+      },
+      {
+        "ingredient": "1 (6 ounce) can black olives, drained and liquid reserved",
+        "searchTerm": "black olives canned",
+        "normalizedName": "Black Olive"
+      },
+      {
+        "ingredient": "¼ cup olive oil, or as needed",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food Processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula rubber"
+      }
+    ],
+    "cookingTips": [
+      "Pulse garlic first to mince evenly before adding other ingredients",
+      "Reserve olive brine to adjust consistency instead of extra oil for more flavor",
+      "Make hummus up to 3 days ahead and refrigerate in an airtight container"
+    ],
+    "coachingPrompt": "How can you balance the brininess of olives with the nuttiness of chickpeas?"
+  },
+  "timestamp": "2026-02-06T00:14:07.110Z"
+}

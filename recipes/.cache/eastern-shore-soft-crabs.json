@@ -1,0 +1,53 @@
+{
+  "contentHash": "8629d5b9fe071689",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "soft shell blue crabs",
+        "searchTerm": "soft shell crabs",
+        "normalizedName": "Soft Shell Blue Crab"
+      },
+      {
+        "ingredient": "center-cut bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "pancake mix",
+        "searchTerm": "pancake mix",
+        "normalizedName": "Pancake Mix"
+      },
+      {
+        "ingredient": "vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Shallow Dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Have your fishmonger clean the crabs for you to remove gills and eyes",
+      "Pat crabs completely dry before coating for crispy results",
+      "Cook bacon separately and set aside; use bacon grease for extra flavor"
+    ],
+    "coachingPrompt": "Guide the cook through handling soft-shell crabs safely and explain how to achieve a crispy exterior while keeping meat tender inside."
+  },
+  "timestamp": "2026-02-06T05:28:59.760Z"
+}

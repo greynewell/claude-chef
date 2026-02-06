@@ -1,0 +1,63 @@
+{
+  "contentHash": "0d011feeb5b7b0a1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 inch) pre-baked pizza crust",
+        "searchTerm": "pizza crust",
+        "normalizedName": "Pizza Crust"
+      },
+      {
+        "ingredient": "1 cup spicy barbeque sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      },
+      {
+        "ingredient": "2 skinless boneless chicken breast halves, cooked and cubed",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "½ cup chopped fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "1 cup sliced pepperoncini peppers",
+        "searchTerm": "pepperoncini peppers",
+        "normalizedName": "Pepperoncini Pepper"
+      },
+      {
+        "ingredient": "1 cup chopped red onion",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "2 cups shredded Colby-Monterey Jack cheese",
+        "searchTerm": "Colby Monterey Jack cheese",
+        "normalizedName": "Colby Monterey Jack Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Pizza Pan",
+        "searchTerm": "pizza pan"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Pepperoncini peppers add spicy kick; drain well to prevent soggy pizza",
+      "Spread sauce thinly to avoid overwhelming the other toppings",
+      "Add cilantro after baking to preserve its fresh flavor"
+    ],
+    "coachingPrompt": "This pizza combines spicy and herbaceous flavors. Are you comfortable with medium heat levels, or should we suggest a milder barbecue sauce?"
+  },
+  "timestamp": "2026-02-05T23:37:23.222Z"
+}

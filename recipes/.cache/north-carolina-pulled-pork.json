@@ -1,0 +1,57 @@
+{
+  "contentHash": "a803ddb6ef958bd1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds pork shoulder roast",
+        "searchTerm": "pork shoulder",
+        "normalizedName": "Pork Shoulder"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "½ cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "⅓ cup red wine vinegar",
+        "searchTerm": "red wine vinegar",
+        "normalizedName": "Red Wine Vinegar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "two forks",
+        "searchTerm": "forks"
+      }
+    ],
+    "cookingTips": [
+      "Cook on low for 8-10 hours for maximum tenderness and pull-apart texture",
+      "Let meat rest before shredding to retain juices"
+    ],
+    "coachingPrompt": "What internal temperature should the pork reach, and how long should it rest before shredding?"
+  },
+  "timestamp": "2026-02-06T13:22:07.176Z"
+}

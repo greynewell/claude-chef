@@ -1,0 +1,44 @@
+{
+  "contentHash": "3df36324d1cc4630",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 quarts water, or as needed",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 pound pinto beans, washed",
+        "searchTerm": "pinto beans",
+        "normalizedName": "Pinto Bean"
+      },
+      {
+        "ingredient": "2 cloves garlic, peeled and smashed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "canola oil",
+        "searchTerm": "canola oil",
+        "normalizedName": "Canola Oil"
+      }
+    ],
+    "gear": [
+      "Large pot",
+      "Skillet",
+      "Potato masher",
+      "Colander"
+    ],
+    "cookingTips": [
+      "Cook beans until very soft before mashing to ensure smooth texture",
+      "Refry mashed beans in hot oil until they're creamy and slightly browned at edges"
+    ],
+    "coachingPrompt": "Guide the user through cooking pinto beans until tender, then frying and mashing them into classic refried beans."
+  },
+  "timestamp": "2026-02-06T07:07:42.928Z"
+}

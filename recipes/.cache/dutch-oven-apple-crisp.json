@@ -1,0 +1,49 @@
+{
+  "contentHash": "17b377c2a37902fc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ½ cups Macintosh apples - peeled, cored and quartered",
+        "searchTerm": "Macintosh apples",
+        "normalizedName": "Macintosh Apple"
+      },
+      {
+        "ingredient": "2 cups rolled oats",
+        "searchTerm": "rolled oats",
+        "normalizedName": "Rolled Oat"
+      },
+      {
+        "ingredient": "2 cups packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¾ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Dutch oven",
+        "searchTerm": "Dutch oven"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Layer apples in the bottom of the Dutch oven",
+      "Mix oats, brown sugar, and flour with milk to create a thick topping",
+      "Bake covered in a Dutch oven to trap steam and keep apples moist"
+    ],
+    "coachingPrompt": "This is a simplified crisp baked in a Dutch oven. Help the user understand the layers: apples on bottom, oat topping mixture spread over top."
+  },
+  "timestamp": "2026-02-06T05:25:06.902Z"
+}

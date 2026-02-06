@@ -1,0 +1,73 @@
+{
+  "contentHash": "3b22c491f6795373",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups cubed, cooked chicken",
+        "searchTerm": "cooked chicken breast",
+        "normalizedName": "Cooked Chicken Breast"
+      },
+      {
+        "ingredient": "2 tablespoons fresh lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 cup creamy salad dressing, e.g. Miracle Whip ™",
+        "searchTerm": "miracle whip",
+        "normalizedName": "Creamy Salad Dressing"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 cup pineapple tidbits, drained",
+        "searchTerm": "pineapple tidbits",
+        "normalizedName": "Pineapple Tidbit"
+      },
+      {
+        "ingredient": "1 cup halved green grapes",
+        "searchTerm": "green grapes",
+        "normalizedName": "Green Grape"
+      },
+      {
+        "ingredient": "1 cup blanched slivered almonds, toasted",
+        "searchTerm": "slivered almonds",
+        "normalizedName": "Slivered Almond"
+      },
+      {
+        "ingredient": "½ cup chopped water chestnuts",
+        "searchTerm": "water chestnuts",
+        "normalizedName": "Water Chestnut"
+      },
+      {
+        "ingredient": "¼ cup shredded lettuce",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Toaster oven",
+        "searchTerm": "toaster oven"
+      },
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Toast almonds at 350°F for 5-7 minutes, stirring frequently to prevent burning",
+      "Drain pineapple tidbits thoroughly to avoid making the salad watery",
+      "Halve grapes lengthwise for better presentation and easier eating"
+    ],
+    "coachingPrompt": "Are you toasting your own almonds or buying pre-toasted? Fresh-toasted almonds provide better flavor and crunch."
+  },
+  "timestamp": "2026-02-06T02:41:00.984Z"
+}

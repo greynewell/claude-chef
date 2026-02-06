@@ -1,0 +1,68 @@
+{
+  "contentHash": "b87c3db0ab6ffc74",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons prepared basil pesto sauce",
+        "searchTerm": "basil pesto",
+        "normalizedName": "Basil Pesto"
+      },
+      {
+        "ingredient": "2 slices sourdough bread, lightly toasted",
+        "searchTerm": "sourdough bread",
+        "normalizedName": "Sourdough Bread"
+      },
+      {
+        "ingredient": "1 tablespoon mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 tablespoon freshly grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 slice provolone cheese",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      },
+      {
+        "ingredient": "¼ cup shredded smoked mozzarella cheese",
+        "searchTerm": "smoked mozzarella",
+        "normalizedName": "Smoked Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 lettuce leaf",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "2 slices tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread lightly for structure while keeping interior soft",
+      "Layer cheeses for flavor complexity: pesto, provolone, then smoked mozzarella",
+      "Pesto and mayo provide enough moisture; don't over-saturate bread"
+    ],
+    "coachingPrompt": "How would you toast this sandwich for melted cheese while keeping bread crispy? What other smoked proteins could work?"
+  },
+  "timestamp": "2026-02-06T18:22:25.289Z"
+}

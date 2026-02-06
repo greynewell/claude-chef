@@ -1,0 +1,48 @@
+{
+  "contentHash": "0f5b12ba7a4499ab",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 baking potatoes, well scrubbed",
+        "searchTerm": "baking potatoes",
+        "normalizedName": "Baking Potato"
+      },
+      {
+        "ingredient": "1 tablespoon extra virgin olive oil",
+        "searchTerm": "extra virgin olive oil",
+        "normalizedName": "Extra Virgin Olive Oil"
+      },
+      {
+        "ingredient": "kosher salt to taste",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "4 sheets aluminum foil",
+        "searchTerm": "aluminum foil",
+        "normalizedName": "Aluminum Foil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "Brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Wrap each potato individually in foil to prevent drying",
+      "Cook on low for 8-10 hours until fork-tender",
+      "Pierce potatoes with fork before wrapping to allow steam to escape"
+    ],
+    "coachingPrompt": "Explain how slow cooking steams potatoes gently for creamy interiors while preventing moisture loss."
+  },
+  "timestamp": "2026-02-06T18:04:11.980Z"
+}

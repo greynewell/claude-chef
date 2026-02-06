@@ -1,0 +1,58 @@
+{
+  "contentHash": "0ae36843801d342f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 pounds red potatoes, thinly sliced",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "1 onion, finely chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "6 slices bacon, chopped",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "½ cup butter, diced",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then crumble and mix with potatoes for maximum flavor",
+      "Slice potatoes consistently for even cooking",
+      "Bake covered first, then uncover to crisp the top"
+    ],
+    "coachingPrompt": "Guide the user through layering potatoes with bacon and butter for a hearty, crispy side dish."
+  },
+  "timestamp": "2026-02-06T13:53:13.278Z"
+}

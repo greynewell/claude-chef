@@ -1,0 +1,78 @@
+{
+  "contentHash": "53604a50febaa1b0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 tilapia fillet",
+        "searchTerm": "tilapia fillet",
+        "normalizedName": "Tilapia"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "½ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can diced tomato",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "¼ onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 jalapeno pepper, seeded and minced, or to taste",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 large green bell pepper, chopped",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh cilantro, or to taste",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Aluminum Foil",
+        "searchTerm": "aluminum foil"
+      },
+      {
+        "name": "Kitchen Scissors",
+        "searchTerm": "kitchen scissors"
+      }
+    ],
+    "cookingTips": [
+      "Create sealed foil packets to trap steam and cook fish gently",
+      "Make packets large enough to allow steam circulation around fish",
+      "Grill packets on medium heat for 12-15 minutes until fish flakes easily"
+    ],
+    "coachingPrompt": "How would you prevent the foil from tearing while ensuring proper steam circulation?"
+  },
+  "timestamp": "2026-02-06T08:29:19.221Z"
+}

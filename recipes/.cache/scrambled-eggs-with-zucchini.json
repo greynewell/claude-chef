@@ -1,0 +1,63 @@
+{
+  "contentHash": "117bd219b405d451",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs, lightly beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 zucchini, sliced",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "garlic powder, or to taste",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Slice zucchini thinly and cook until just tender to avoid wateriness",
+      "Pat zucchini dry after slicing to reduce moisture release",
+      "Add eggs only after zucchini is partially cooked to prevent sogginess"
+    ],
+    "coachingPrompt": "Teach the user proper zucchini preparation and cooking sequence to prevent a watery dish while maintaining tender vegetable texture."
+  },
+  "timestamp": "2026-02-06T17:11:57.703Z"
+}

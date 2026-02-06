@@ -1,0 +1,52 @@
+{
+  "contentHash": "3e8ee00c1ed280b2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (6 ounce) container fresh raspberries",
+        "searchTerm": "fresh raspberries",
+        "normalizedName": "Fresh Raspberry"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "double boiler",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "fine mesh strainer",
+        "searchTerm": "mesh strainer"
+      }
+    ],
+    "cookingTips": [
+      "Use a double boiler to gently cook eggs and prevent scrambling",
+      "Strain the finished curd through a fine mesh to remove seeds for a silky texture"
+    ],
+    "coachingPrompt": "Guide the baker through tempering eggs gently over simmering water to create a silky raspberry curd."
+  },
+  "timestamp": "2026-02-06T05:56:57.576Z"
+}

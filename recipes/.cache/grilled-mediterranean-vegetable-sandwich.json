@@ -1,0 +1,63 @@
+{
+  "contentHash": "4e1f5eec9b69811a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 eggplant",
+        "searchTerm": "eggplant",
+        "normalizedName": "Eggplant"
+      },
+      {
+        "ingredient": "2 red bell peppers",
+        "searchTerm": "red bell peppers",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 portobello mushrooms",
+        "searchTerm": "portobello mushrooms",
+        "normalizedName": "Portobello Mushroom"
+      },
+      {
+        "ingredient": "3 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "4 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 (1 pound) loaf focaccia bread",
+        "searchTerm": "focaccia bread",
+        "normalizedName": "Focaccia Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "grill brush",
+        "searchTerm": "grill brush"
+      }
+    ],
+    "cookingTips": [
+      "Salt eggplant slices and let sit 30 minutes before grilling to remove excess moisture and reduce bitterness",
+      "Brush vegetables generously with oil to prevent sticking and promote charring",
+      "Toast focaccia cut-side down briefly to add crispness and structural support for vegetables"
+    ],
+    "coachingPrompt": "Help the user grill vegetables until charred and tender, then assemble a hearty plant-based sandwich."
+  },
+  "timestamp": "2026-02-06T08:20:21.774Z"
+}

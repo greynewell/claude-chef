@@ -1,0 +1,47 @@
+{
+  "contentHash": "1f643e6aea521bd3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (10 ounce) can baby peas, drained",
+        "searchTerm": "baby peas",
+        "normalizedName": "Pea"
+      },
+      {
+        "ingredient": "1 (15 ounce) can sliced beets, drained and diced",
+        "searchTerm": "sliced beets",
+        "normalizedName": "Beet"
+      },
+      {
+        "ingredient": "2 tablespoons chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ cup creamy salad dressing, e.g. Miracle Whip ™",
+        "searchTerm": "creamy salad dressing",
+        "normalizedName": "Creamy Salad Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "can opener",
+        "searchTerm": "can opener"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Drain vegetables well to prevent a watery salad",
+      "Prepare ahead and refrigerate for best flavor development"
+    ],
+    "coachingPrompt": "Guide the user through assembling this retro salad and discuss how the colorful vegetables create visual appeal."
+  },
+  "timestamp": "2026-02-06T12:41:18.140Z"
+}

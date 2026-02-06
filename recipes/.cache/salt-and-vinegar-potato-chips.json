@@ -1,0 +1,58 @@
+{
+  "contentHash": "e65d95d35381b203",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 potatoes, thinly sliced",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "cold water to cover",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 cups white vinegar",
+        "searchTerm": "white vinegar",
+        "normalizedName": "White Vinegar"
+      },
+      {
+        "ingredient": "1 cup cold water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 cups vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mandoline or sharp knife",
+        "searchTerm": "mandoline"
+      },
+      {
+        "name": "Large skillet or deep fryer",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Soak potato slices in water first, then vinegar solution to develop flavor and remove starch",
+      "Pat slices dry thoroughly before frying to minimize oil absorption",
+      "Fry at 350°F until golden brown and crispy, about 2-3 minutes per batch"
+    ],
+    "coachingPrompt": "Why does soaking potato slices in vinegar before frying infuse flavor while improving texture?"
+  },
+  "timestamp": "2026-02-06T16:51:21.300Z"
+}

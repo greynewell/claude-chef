@@ -1,0 +1,48 @@
+{
+  "contentHash": "2f561b977b43cd33",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 (14 ounce) can cream of coconut",
+        "searchTerm": "cream of coconut",
+        "normalizedName": "Cream of Coconut"
+      },
+      {
+        "ingredient": "1 ½ cups heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "1 ½ cups sweetened flaked coconut",
+        "searchTerm": "flaked coconut",
+        "normalizedName": "Flaked Coconut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Chill the mixture thoroughly before churning for best results",
+      "Toast the optional coconut lightly to intensify flavor and texture",
+      "Churn according to machine instructions, then freeze for at least 4 hours"
+    ],
+    "coachingPrompt": "This recipe is simple but requires an ice cream maker. Do you have access to one, or would you prefer a no-churn alternative?"
+  },
+  "timestamp": "2026-02-06T03:39:37.001Z"
+}

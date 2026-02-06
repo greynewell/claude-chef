@@ -1,0 +1,63 @@
+{
+  "contentHash": "7b76add85afbb757",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pint fresh black raspberries",
+        "searchTerm": "black raspberries fresh",
+        "normalizedName": "Black Raspberry"
+      },
+      {
+        "ingredient": "2 cups heavy whipping cream, divided",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Whipping Cream"
+      },
+      {
+        "ingredient": "½ cup low-fat milk",
+        "searchTerm": "low-fat milk",
+        "normalizedName": "Low-Fat Milk"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 large bowl of ice water to cool the mixture",
+        "searchTerm": "ice water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Ice Cream Maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      }
+    ],
+    "cookingTips": [
+      "Temper eggs by slowly whisking hot cream mixture into them to prevent scrambling",
+      "Chill custard base completely before churning for best texture",
+      "Churn until soft-serve consistency, then freeze until firm"
+    ],
+    "coachingPrompt": "What's the difference between making ice cream and gelato, and which is this recipe?"
+  },
+  "timestamp": "2026-02-06T00:14:07.111Z"
+}

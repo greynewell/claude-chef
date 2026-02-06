@@ -1,0 +1,48 @@
+{
+  "contentHash": "abd0d00968d3f29a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15 ounce) can garbanzo beans, drained, liquid reserved",
+        "searchTerm": "garbanzo beans",
+        "normalizedName": "Garbanzo Bean"
+      },
+      {
+        "ingredient": "2 ounces fresh jalapeno pepper, sliced",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "½ teaspoon ground cumin",
+        "searchTerm": "cumin",
+        "normalizedName": "Cumin"
+      },
+      {
+        "ingredient": "2 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food Processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Reserve the liquid from canned garbanzo beans to adjust consistency",
+      "Fresh garlic provides better flavor than pre-minced"
+    ],
+    "coachingPrompt": "How do you prefer your hummus texture - smooth or slightly chunky?"
+  },
+  "timestamp": "2026-02-06T05:48:45.978Z"
+}

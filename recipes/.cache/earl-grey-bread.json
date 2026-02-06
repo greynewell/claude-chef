@@ -1,0 +1,63 @@
+{
+  "contentHash": "8b7df18fdec9b31d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 Earl Grey tea bags (such as Gryphon®)",
+        "searchTerm": "earl grey tea",
+        "normalizedName": "Earl Grey Tea"
+      },
+      {
+        "ingredient": "¾ cup boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "2 ¼ tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¾ teaspoon instant yeast",
+        "searchTerm": "instant yeast",
+        "normalizedName": "Instant Yeast"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ½ tablespoons unsalted butter",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Stand mixer",
+        "searchTerm": "stand mixer"
+      },
+      {
+        "name": "Bread loaf pan",
+        "searchTerm": "bread loaf pan"
+      }
+    ],
+    "cookingTips": [
+      "Steep tea bags in boiling water for 5 minutes, then remove before cooling to room temperature",
+      "Allow dough to rise in a warm place for 1-2 hours until doubled",
+      "Score the top of the loaf before baking to control expansion"
+    ],
+    "coachingPrompt": "Are you familiar with bread dough hydration and how tea affects it?"
+  },
+  "timestamp": "2026-02-06T05:26:01.788Z"
+}

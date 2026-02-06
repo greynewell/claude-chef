@@ -1,0 +1,47 @@
+{
+  "contentHash": "c5d3f9928faf1c7e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup light corn syrup",
+        "searchTerm": "light corn syrup",
+        "normalizedName": "Light Corn Syrup"
+      },
+      {
+        "ingredient": "1 ½ cups cinnamon red hot candies",
+        "searchTerm": "cinnamon red hots",
+        "normalizedName": "Cinnamon Red Hot Candy"
+      },
+      {
+        "ingredient": "8 cups popped popcorn",
+        "searchTerm": "popcorn",
+        "normalizedName": "Popcorn"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Melt candies completely with butter for even coating",
+      "Toss popcorn quickly while caramel is warm to prevent sticking"
+    ],
+    "coachingPrompt": "Guide through candy melting technique and proper popcorn coating for even distribution and flavor."
+  },
+  "timestamp": "2026-02-06T03:23:43.039Z"
+}

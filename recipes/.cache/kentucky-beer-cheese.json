@@ -1,0 +1,53 @@
+{
+  "contentHash": "fce7200382ef0446",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "sharp Cheddar cheese, cut into chunks",
+        "searchTerm": "sharp cheddar cheese",
+        "normalizedName": "Sharp Cheddar Cheese"
+      },
+      {
+        "ingredient": "garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      },
+      {
+        "ingredient": "hot sauce",
+        "searchTerm": "hot sauce",
+        "normalizedName": "Hot Sauce"
+      },
+      {
+        "ingredient": "warm beer",
+        "searchTerm": "beer",
+        "normalizedName": "Beer"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food Processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Pulse cheese until crumbly before adding beer for smooth blending",
+      "Add beer slowly while processing to control consistency",
+      "Serve warm with crusty bread, pretzels, or vegetable crudités"
+    ],
+    "coachingPrompt": "Explain the difference between this simpler version and the spread. Suggest temperature control for best texture and offer reheating instructions."
+  },
+  "timestamp": "2026-02-06T10:39:09.367Z"
+}

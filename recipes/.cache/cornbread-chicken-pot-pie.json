@@ -1,0 +1,63 @@
+{
+  "contentHash": "35f1d49972e3ea5f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "Campbell's Condensed Cream of Chicken Soup",
+        "searchTerm": "cream of chicken soup",
+        "normalizedName": "Cream of Chicken Soup"
+      },
+      {
+        "ingredient": "whole kernel corn",
+        "searchTerm": "canned corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "cooked chicken",
+        "searchTerm": "cooked chicken",
+        "normalizedName": "Cooked Chicken"
+      },
+      {
+        "ingredient": "corn muffin mix",
+        "searchTerm": "corn muffin mix",
+        "normalizedName": "Corn Muffin Mix"
+      },
+      {
+        "ingredient": "milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Stir soup mixture until well combined before adding muffin topping",
+      "Mix muffin batter with milk and egg until just combined to avoid tough topping",
+      "Spread batter evenly over filling for uniform cooking"
+    ],
+    "coachingPrompt": "Would you add vegetables like peas or carrots to increase nutrition?"
+  },
+  "timestamp": "2026-02-06T03:53:30.138Z"
+}

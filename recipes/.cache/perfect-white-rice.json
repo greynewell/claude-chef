@@ -1,0 +1,48 @@
+{
+  "contentHash": "e00db69d923b2155",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 teaspoons unsalted butter",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      },
+      {
+        "ingredient": "1 cup uncooked long-grain white rice",
+        "searchTerm": "long-grain white rice",
+        "normalizedName": "Long-Grain White Rice"
+      },
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan with lid"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Measuring Cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Use a 2:1 water to rice ratio for perfectly cooked grains",
+      "Don't stir rice during cooking - this releases starch and causes stickiness",
+      "Let rice rest 5 minutes off heat before serving for fluffy texture"
+    ],
+    "coachingPrompt": "Explain the water-to-rice ratio, why avoiding stirring is crucial, and how resting time improves texture."
+  },
+  "timestamp": "2026-02-06T14:37:03.421Z"
+}

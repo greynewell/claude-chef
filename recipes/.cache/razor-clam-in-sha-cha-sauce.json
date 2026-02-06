@@ -1,0 +1,63 @@
+{
+  "contentHash": "3bca96b387e638e8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 teaspoon finely shredded fresh ginger",
+        "searchTerm": "fresh ginger",
+        "normalizedName": "Fresh Ginger Root"
+      },
+      {
+        "ingredient": "1 pound live razor clam",
+        "searchTerm": "fresh razor clams",
+        "normalizedName": "Live Razor Clam"
+      },
+      {
+        "ingredient": "1 ½ tablespoon sa cha sauce",
+        "searchTerm": "sha cha sauce",
+        "normalizedName": "Sa Cha Sauce"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon thinly sliced red bell pepper",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "2 green onion, cut into thin strips",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Wok",
+        "searchTerm": "wok"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "wok spatula"
+      },
+      {
+        "name": "Lid",
+        "searchTerm": "wok lid"
+      }
+    ],
+    "cookingTips": [
+      "Keep razor clams alive until cooking; rinse them well before cooking",
+      "High heat and quick cooking keeps the clams tender",
+      "Sha cha sauce adds umami depth; a little goes a long way"
+    ],
+    "coachingPrompt": "I've never cooked razor clams before. How do I prepare them, and what makes sha cha sauce special?"
+  },
+  "timestamp": "2026-02-06T15:58:19.444Z"
+}

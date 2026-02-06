@@ -1,0 +1,63 @@
+{
+  "contentHash": "11a2b7db4e1a4861",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 pounds beef roast",
+        "searchTerm": "beef roast",
+        "normalizedName": "Beef Roast"
+      },
+      {
+        "ingredient": "6 potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 ½ cups baby carrots",
+        "searchTerm": "baby carrots",
+        "normalizedName": "Baby Carrot"
+      },
+      {
+        "ingredient": "1 yellow onion",
+        "searchTerm": "yellow onion",
+        "normalizedName": "Yellow Onion"
+      },
+      {
+        "ingredient": "2 stalks celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "3 cubes beef bouillon",
+        "searchTerm": "beef bouillon",
+        "normalizedName": "Beef Bouillon"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot with lid",
+        "searchTerm": "pot with lid"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Arrange vegetables around beef roast with bouillon cubes and water to create flavorful braising liquid",
+      "Cover and braise at 325°F for 3-4 hours until beef is fork-tender",
+      "Add potatoes and carrots in last hour so they don't overcook and fall apart"
+    ],
+    "coachingPrompt": "When should vegetables be added? How do you know when beef is properly braised?"
+  },
+  "timestamp": "2026-02-06T05:27:03.257Z"
+}

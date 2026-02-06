@@ -1,0 +1,47 @@
+{
+  "contentHash": "62ee053abfca8785",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound blanched almonds",
+        "searchTerm": "blanched almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "1 (16 ounce) package confectioners' sugar",
+        "searchTerm": "confectioners' sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "3 egg whites",
+        "searchTerm": "egg white",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "1 teaspoon almond extract",
+        "searchTerm": "almond extract",
+        "normalizedName": "Almond Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Blanched almonds create smoother paste than whole almonds",
+      "Process almonds until oily before adding sugar and egg whites"
+    ],
+    "coachingPrompt": "Explain how to recognize when almonds are properly processed to oil stage before incorporating wet ingredients."
+  },
+  "timestamp": "2026-02-05T21:55:19.469Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "a69db98ccbbf9a93",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups whole milk, divided",
+        "searchTerm": "milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "¼ cup cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "⅓ cup white sugar, or more to taste",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup semisweet chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Semisweet Chocolate Chip"
+      },
+      {
+        "ingredient": "1 pinch salt (Optional)",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "strainer",
+        "searchTerm": "sieve"
+      }
+    ],
+    "cookingTips": [
+      "Mix cornstarch with cold milk first to avoid lumps",
+      "Stir constantly while heating to prevent scorching",
+      "Remove from heat when chocolate is fully melted and smooth"
+    ],
+    "coachingPrompt": "How do I prevent lumps in my homemade chocolate pudding?"
+  },
+  "timestamp": "2026-02-06T05:40:46.762Z"
+}

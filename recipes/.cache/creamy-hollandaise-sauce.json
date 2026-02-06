@@ -1,0 +1,63 @@
+{
+  "contentHash": "d2fb804aba49be22",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 egg yolks",
+        "searchTerm": "egg yolks",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "3 ½ tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 pinch ground white pepper",
+        "searchTerm": "white pepper",
+        "normalizedName": "White Pepper"
+      },
+      {
+        "ingredient": "⅛ teaspoon Worcestershire sauce",
+        "searchTerm": "worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "1 tablespoon water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Double boiler or heat-proof bowl",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Keep water below 160°F to avoid curdling egg yolks",
+      "Add melted butter slowly while whisking constantly to emulsify",
+      "Use fresh lemon juice and keep sauce warm but not hot"
+    ],
+    "coachingPrompt": "How will you maintain the right temperature to keep the emulsion stable?"
+  },
+  "timestamp": "2026-02-06T04:28:07.256Z"
+}

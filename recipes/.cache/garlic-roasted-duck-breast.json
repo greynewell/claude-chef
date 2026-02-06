@@ -1,0 +1,49 @@
+{
+  "contentHash": "49b7676e40bd96a2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (6 ounce) skin-on duck breast",
+        "searchTerm": "duck breast",
+        "normalizedName": "Duck Breast"
+      },
+      {
+        "ingredient": "2 cloves garlic, cut into 1/8-inch strips",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 sprig fresh rosemary",
+        "searchTerm": "fresh rosemary",
+        "normalizedName": "Fresh Rosemary"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cast iron skillet",
+        "searchTerm": "cast iron skillet"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Score the duck skin in a crosshatch pattern to render fat and create crispy skin",
+      "Start duck skin-side down in a cold pan to slowly render fat before searing the meat",
+      "Cook to 130-135°F internal temperature for medium-rare; duck should be slightly pink in center"
+    ],
+    "coachingPrompt": "Why is rendering the duck fat gradually important before searing the flesh side?"
+  },
+  "timestamp": "2026-02-06T07:20:51.748Z"
+}

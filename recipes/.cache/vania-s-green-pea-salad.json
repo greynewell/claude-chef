@@ -1,0 +1,67 @@
+{
+  "contentHash": "9e1e9fd3d1bfe15e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 small onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 small tomato, chopped",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 (15 ounce) can green peas, drained",
+        "searchTerm": "green peas canned",
+        "normalizedName": "Green Pea"
+      },
+      {
+        "ingredient": "1 ½ cups tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "1 ½ (5 ounce) cans tuna, drained",
+        "searchTerm": "tuna canned",
+        "normalizedName": "Tuna"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Drain canned ingredients thoroughly to avoid excess liquid",
+      "Gently fold in tuna to preserve chunks"
+    ],
+    "coachingPrompt": "Help the user create a balanced salad with proper texture and flavor by layering ingredients correctly."
+  },
+  "timestamp": "2026-02-06T21:31:32.710Z"
+}

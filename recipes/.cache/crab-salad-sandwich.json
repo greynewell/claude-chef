@@ -1,0 +1,52 @@
+{
+  "contentHash": "43500ef6bb258582",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup chopped crab meat",
+        "searchTerm": "crab meat",
+        "normalizedName": "Crab Meat"
+      },
+      {
+        "ingredient": "¼ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 English muffin, split and toasted",
+        "searchTerm": "English muffin",
+        "normalizedName": "English Muffin"
+      },
+      {
+        "ingredient": "sea salt to taste",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "2 tablespoons shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Toast the English muffin to provide a crispy base and prevent sogginess",
+      "Mix crab and mayonnaise just before assembling for best texture"
+    ],
+    "coachingPrompt": "Coach the user on achieving the right balance between a crispy muffin base and moist crab filling."
+  },
+  "timestamp": "2026-02-06T04:03:50.217Z"
+}

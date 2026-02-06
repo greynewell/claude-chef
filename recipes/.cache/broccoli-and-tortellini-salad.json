@@ -1,0 +1,73 @@
+{
+  "contentHash": "ee0e51046adbb25d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "20 ounces fresh cheese-filled tortellini",
+        "searchTerm": "tortellini",
+        "normalizedName": "Tortellini"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 teaspoons cider vinegar",
+        "searchTerm": "cider vinegar",
+        "normalizedName": "Cider Vinegar"
+      },
+      {
+        "ingredient": "3 heads fresh broccoli, cut into florets",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "1 cup raisins",
+        "searchTerm": "raisins",
+        "normalizedName": "Raisin"
+      },
+      {
+        "ingredient": "1 cup sunflower seeds",
+        "searchTerm": "sunflower seeds",
+        "normalizedName": "Sunflower Seed"
+      },
+      {
+        "ingredient": "1 red onion, finely chopped",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "large bowl",
+        "searchTerm": "large bowl"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Cook tortellini al dente and cool before adding to salad",
+      "Cook bacon until crispy, then crumble for even distribution",
+      "Mix dressing separately and toss just before serving to prevent sogginess"
+    ],
+    "coachingPrompt": "This combines pasta and vegetables. Are you planning to serve this warm or cold?"
+  },
+  "timestamp": "2026-02-06T00:41:42.323Z"
+}

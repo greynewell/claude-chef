@@ -1,0 +1,58 @@
+{
+  "contentHash": "62c62dd61b1ee2e1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      },
+      {
+        "ingredient": "1 cup cola-flavored carbonated beverage",
+        "searchTerm": "cola",
+        "normalizedName": "Cola"
+      },
+      {
+        "ingredient": "2 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "8 pork chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Lid",
+        "searchTerm": "skillet lid"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Season pork chops well before cooking to build flavor layers",
+      "Cover and simmer on low heat to keep the meat moist and tender",
+      "The sauce will naturally thicken as it reduces during cooking"
+    ],
+    "coachingPrompt": "Help the user understand the simplicity of this recipe and how the three-ingredient sauce brings out the best in pork chops."
+  },
+  "timestamp": "2026-02-06T03:43:38.258Z"
+}

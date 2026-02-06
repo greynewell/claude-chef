@@ -1,0 +1,58 @@
+{
+  "contentHash": "2a2e1191e5e58516",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 strips frozen French fried potatoes",
+        "searchTerm": "frozen french fries",
+        "normalizedName": "Frozen French Fry"
+      },
+      {
+        "ingredient": "2 slices Italian bread",
+        "searchTerm": "Italian bread",
+        "normalizedName": "Italian Bread"
+      },
+      {
+        "ingredient": "5 slices deli cooked roast beef",
+        "searchTerm": "roast beef",
+        "normalizedName": "Roast Beef"
+      },
+      {
+        "ingredient": "2 slices provolone cheese",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      },
+      {
+        "ingredient": "2 slices tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "¼ cup prepared coleslaw",
+        "searchTerm": "coleslaw",
+        "normalizedName": "Coleslaw"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Fry frozen fries until golden and crispy according to package directions",
+      "Warm roast beef gently to maintain tenderness without drying out",
+      "Layer components efficiently so hot fries warm the cheese without melting it excessively"
+    ],
+    "coachingPrompt": "Help the user create this quick Pittsburgh-style sandwich by coordinating cooking times so all components are hot and properly assembled for maximum flavor."
+  },
+  "timestamp": "2026-02-06T14:53:14.574Z"
+}

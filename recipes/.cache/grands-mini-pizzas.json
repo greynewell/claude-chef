@@ -1,0 +1,48 @@
+{
+  "contentHash": "46d08da64e795e4b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16.3 ounce) can Pillsbury® Grands!® refrigerated biscuits",
+        "searchTerm": "grands biscuits",
+        "normalizedName": "Refrigerated Biscuit"
+      },
+      {
+        "ingredient": "1 cup pizza sauce",
+        "searchTerm": "pizza sauce",
+        "normalizedName": "Pizza Sauce"
+      },
+      {
+        "ingredient": "2 cups shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "1 (3.5 ounce) package sliced pepperoni",
+        "searchTerm": "pepperoni",
+        "normalizedName": "Pepperoni"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use spoon to create slight well in center of each biscuit for sauce",
+      "Don't overload with toppings to keep biscuits from getting soggy",
+      "Add cheese in layers to prevent pepperoni from burning"
+    ],
+    "coachingPrompt": "How much sauce and toppings should you use to keep the biscuit base crispy?"
+  },
+  "timestamp": "2026-02-06T07:56:07.931Z"
+}

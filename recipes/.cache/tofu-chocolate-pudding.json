@@ -1,0 +1,53 @@
+{
+  "contentHash": "32d1722aa652a3b5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup semisweet chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Chocolate Chip"
+      },
+      {
+        "ingredient": "2 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (16 ounce) package firm tofu, drained",
+        "searchTerm": "tofu",
+        "normalizedName": "Tofu"
+      },
+      {
+        "ingredient": "¼ cup soy milk",
+        "searchTerm": "soy milk",
+        "normalizedName": "Soy Milk"
+      },
+      {
+        "ingredient": "1 tablespoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Double Boiler",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Serving Bowls",
+        "searchTerm": "bowls"
+      }
+    ],
+    "cookingTips": [
+      "Melt chocolate gently over double boiler to prevent seizing",
+      "Blend all ingredients until smooth and creamy",
+      "Serve chilled or at room temperature"
+    ],
+    "coachingPrompt": "This is a vegan pudding. What dairy-free toppings would complement it?"
+  },
+  "timestamp": "2026-02-06T20:52:12.896Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "5e6b05526d0eb651",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "⅓ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons sweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 (1 ounce) squares semisweet baking chocolate, broken into pieces",
+        "searchTerm": "baking chocolate",
+        "normalizedName": "Baking Chocolate"
+      },
+      {
+        "ingredient": "1 cup heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Electric mixer",
+        "searchTerm": "electric mixer"
+      }
+    ],
+    "cookingTips": [
+      "Heat milk gently without boiling to prevent scorching",
+      "Whisk in cocoa powder and sugar to dissolve lumps",
+      "Whip heavy cream separately and top hot chocolate just before serving"
+    ],
+    "coachingPrompt": "Help the user create a smooth chocolate mixture and properly whip cream for serving."
+  },
+  "timestamp": "2026-02-06T22:02:06.177Z"
+}

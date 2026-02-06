@@ -1,0 +1,63 @@
+{
+  "contentHash": "e51815b0bf493607",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 teaspoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 (2 pound) pork tenderloin",
+        "searchTerm": "pork tenderloin",
+        "normalizedName": "Pork Tenderloin"
+      },
+      {
+        "ingredient": "1 teaspoon Greek seasoning",
+        "searchTerm": "Greek seasoning",
+        "normalizedName": "Greek Seasoning"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 cup apple juice",
+        "searchTerm": "apple juice",
+        "normalizedName": "Apple Juice"
+      },
+      {
+        "ingredient": "1 tablespoon cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Instant Pot",
+        "searchTerm": "instant pot pressure cooker"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "kitchen tongs"
+      }
+    ],
+    "cookingTips": [
+      "Pork tenderloin is lean - avoid overcooking by targeting 145°F internal temperature",
+      "Quick release pressure immediately after cooking to prevent carryover cooking",
+      "Apple juice provides subtle sweetness and keeps the meat moist during cooking"
+    ],
+    "coachingPrompt": "Guide the user on cooking lean pork tenderloin without drying it out. Emphasize the importance of using a meat thermometer and quick release to achieve juicy, tender results."
+  },
+  "timestamp": "2026-02-06T09:55:00.663Z"
+}

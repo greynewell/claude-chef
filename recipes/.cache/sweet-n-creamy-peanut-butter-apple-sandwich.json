@@ -1,0 +1,63 @@
+{
+  "contentHash": "e5359a0a2751ffa8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 Granny Smith apple, thinly sliced",
+        "searchTerm": "Granny Smith apple",
+        "normalizedName": "Granny Smith Apple"
+      },
+      {
+        "ingredient": "2 tablespoons peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "2 tablespoons low-fat ricotta cheese",
+        "searchTerm": "ricotta cheese",
+        "normalizedName": "Ricotta Cheese"
+      },
+      {
+        "ingredient": "¼ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "¼ teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "¼ teaspoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "4 slices sandwich bread",
+        "searchTerm": "sandwich bread",
+        "normalizedName": "Sandwich Bread"
+      }
+    ],
+    "gear": [
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "small mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spreader",
+        "searchTerm": "spreader"
+      }
+    ],
+    "cookingTips": [
+      "Slice apples thinly and assemble just before eating to prevent browning",
+      "Mix peanut butter with ricotta for creamier texture and fewer calories",
+      "Toast bread lightly to prevent sogginess"
+    ],
+    "coachingPrompt": "How does ricotta cheese lighten peanut butter while maintaining protein content?"
+  },
+  "timestamp": "2026-02-06T20:04:14.778Z"
+}

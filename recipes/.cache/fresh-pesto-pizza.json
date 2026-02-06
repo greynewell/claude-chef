@@ -1,0 +1,58 @@
+{
+  "contentHash": "abfbd1e70ae5af48",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (12 inch) pre-baked whole-wheat pizza crust",
+        "searchTerm": "whole-wheat pizza crust",
+        "normalizedName": "Pre-Baked Whole-Wheat Pizza Crust"
+      },
+      {
+        "ingredient": "1 cup prepared pesto",
+        "searchTerm": "prepared pesto",
+        "normalizedName": "Prepared Pesto"
+      },
+      {
+        "ingredient": "1 ½ cups chopped fresh spinach",
+        "searchTerm": "fresh spinach",
+        "normalizedName": "Fresh Spinach"
+      },
+      {
+        "ingredient": "1 tomato, chopped",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Shredded Mozzarella Cheese"
+      },
+      {
+        "ingredient": "½ cup crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Crumbled Feta Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pizza stone or baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "Pizza cutter",
+        "searchTerm": "pizza cutter"
+      }
+    ],
+    "cookingTips": [
+      "Spread pesto evenly as the sauce base before adding toppings",
+      "Squeeze excess moisture from spinach before adding to prevent soggy pizza",
+      "Bake at high temperature until cheese melts and edges crisp, about 10-12 minutes"
+    ],
+    "coachingPrompt": "Help the user assemble this quick pizza efficiently and explain how to balance fresh ingredients with cooked elements for best flavor."
+  },
+  "timestamp": "2026-02-06T06:59:40.426Z"
+}

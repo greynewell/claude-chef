@@ -1,0 +1,53 @@
+{
+  "contentHash": "0334555ac23d6b36",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "chilled butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "ice water",
+        "searchTerm": "water",
+        "normalizedName": "Ice Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "pastry cutter",
+        "searchTerm": "pastry cutter"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Keep all ingredients cold for flaky pastry texture",
+      "Cut butter into flour quickly to create small pea-sized pieces",
+      "Wrap dough and chill at least 30 minutes before rolling"
+    ],
+    "coachingPrompt": "Pâte Brisée is a foundational French pastry. Are you comfortable making pastry dough from scratch?"
+  },
+  "timestamp": "2026-02-06T14:17:55.582Z"
+}

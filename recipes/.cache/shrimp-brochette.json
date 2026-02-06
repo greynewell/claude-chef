@@ -1,0 +1,53 @@
+{
+  "contentHash": "930a5f9e03cf5b63",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds large shrimp - peeled, deveined and butterflied",
+        "searchTerm": "large shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "1 (8 ounce) package Monterey Jack cheese, sliced",
+        "searchTerm": "Monterey Jack cheese",
+        "normalizedName": "Monterey Jack Cheese"
+      },
+      {
+        "ingredient": "3 fresh jalapeno peppers, seeded and julienned",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 pound bacon, cut into thirds",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 teaspoon Cajun seasoning, or to taste",
+        "searchTerm": "Cajun seasoning",
+        "normalizedName": "Cajun Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Wooden or Metal Skewers",
+        "searchTerm": "skewers"
+      },
+      {
+        "name": "Grill or Broiler",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "If using wooden skewers, soak them in water for 30 minutes before grilling",
+      "Assemble brochettes so bacon and cheese cook evenly with shrimp",
+      "Grill over medium-high heat 3-4 minutes per side until bacon is crispy"
+    ],
+    "coachingPrompt": "Have you made skewered appetizers before? Would you like guidance on preventing cheese from sliding off or achieving crispy bacon?"
+  },
+  "timestamp": "2026-02-06T17:35:03.704Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "e9b4773642e1e166",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon kosher salt",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      },
+      {
+        "ingredient": "1 tablespoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 (3 pound) boneless top loin pork roast",
+        "searchTerm": "pork roast",
+        "normalizedName": "Pork Roast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cast iron skillet",
+        "searchTerm": "cast iron skillet"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Roasting pan",
+        "searchTerm": "roasting pan"
+      }
+    ],
+    "cookingTips": [
+      "Sear the roast in a hot skillet before roasting to develop a flavorful crust",
+      "Use a meat thermometer to ensure pork reaches 145°F for optimal juiciness",
+      "Let the roast rest for 10 minutes after cooking to retain moisture"
+    ],
+    "coachingPrompt": "Teach the cook why searing is important and how to use a meat thermometer to avoid dry pork."
+  },
+  "timestamp": "2026-02-06T04:55:52.682Z"
+}

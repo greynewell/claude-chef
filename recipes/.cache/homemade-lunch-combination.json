@@ -1,0 +1,53 @@
+{
+  "contentHash": "d806332fea681102",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 wheat cracker",
+        "searchTerm": "wheat crackers",
+        "normalizedName": "Wheat Cracker"
+      },
+      {
+        "ingredient": "3 slice reduced-sodium turkey",
+        "searchTerm": "turkey",
+        "normalizedName": "Reduced-Sodium Turkey"
+      },
+      {
+        "ingredient": "2 slice reduced-fat Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Reduced-Fat Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 romaine lettuce leaf",
+        "searchTerm": "romaine lettuce",
+        "normalizedName": "Romaine Lettuce"
+      },
+      {
+        "ingredient": "1 roma tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Roma Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Plate",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Quarter cheese slices for easy layering on crackers",
+      "Slice tomato just before serving to prevent sogginess",
+      "Pack components separately if transporting, assemble fresh"
+    ],
+    "coachingPrompt": "Are you looking for a quick grab-and-go option, or do you want to customize this further?"
+  },
+  "timestamp": "2026-02-06T09:15:21.146Z"
+}

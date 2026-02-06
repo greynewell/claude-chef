@@ -1,0 +1,53 @@
+{
+  "contentHash": "12d7a2882955718b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "7 slices processed American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Measuring Spoons",
+        "searchTerm": "measuring spoons"
+      }
+    ],
+    "cookingTips": [
+      "Make a roux with butter and flour first, then slowly add milk while whisking to avoid lumps",
+      "Add cheese off heat to prevent it from becoming grainy",
+      "Keep sauce warm in a slow cooker for serving"
+    ],
+    "coachingPrompt": "A classic cheese sauce that works for nachos, chili, or vegetables. What temperature will you keep this at for your event?"
+  },
+  "timestamp": "2026-02-06T13:06:48.698Z"
+}

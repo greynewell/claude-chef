@@ -1,0 +1,54 @@
+{
+  "contentHash": "11e6b160568be166",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (8 ounce) packages cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 teaspoon hot pepper sauce",
+        "searchTerm": "hot pepper sauce",
+        "normalizedName": "Hot Pepper Sauce"
+      },
+      {
+        "ingredient": "2 green onions, finely chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 (6 ounce) can crabmeat, drained and flaked",
+        "searchTerm": "canned crabmeat",
+        "normalizedName": "Canned Crabmeat"
+      },
+      {
+        "ingredient": "1 (8 ounce) jar cocktail sauce",
+        "searchTerm": "cocktail sauce",
+        "normalizedName": "Cocktail Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Soften cream cheese at room temperature for at least 30 minutes before mixing",
+      "Fold in crabmeat gently to keep it in larger chunks rather than shredding it",
+      "Top with cocktail sauce just before serving to maintain texture contrast"
+    ],
+    "coachingPrompt": "How would you maintain texture in the crabmeat when combining it with softened cream cheese?"
+  },
+  "timestamp": "2026-02-06T03:59:32.217Z"
+}

@@ -1,0 +1,78 @@
+{
+  "contentHash": "0dd05ab839fad03b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "¼ teaspoon soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "¼ teaspoon sesame oil",
+        "searchTerm": "sesame oil",
+        "normalizedName": "Sesame Oil"
+      },
+      {
+        "ingredient": "1 teaspoon cornstarch (Optional)",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "2 teaspoons water (Optional)",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 egg, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 drop yellow food coloring (Optional)",
+        "searchTerm": "yellow food coloring",
+        "normalizedName": "Yellow Food Coloring"
+      },
+      {
+        "ingredient": "1 teaspoon chopped fresh chives",
+        "searchTerm": "fresh chives",
+        "normalizedName": "Chives"
+      },
+      {
+        "ingredient": "⅛ teaspoon salt (Optional)",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground white pepper (Optional)",
+        "searchTerm": "white pepper",
+        "normalizedName": "White Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "small saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk or fork"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Bring broth to rolling boil before slowly drizzling beaten egg for silky ribbons",
+      "Stir constantly while adding egg to create delicate, thin strands",
+      "Add cornstarch slurry before egg for thicker, more restaurant-like consistency"
+    ],
+    "coachingPrompt": "Guide me through creating silky egg ribbons by controlling the heat and drizzle speed."
+  },
+  "timestamp": "2026-02-06T06:09:11.308Z"
+}

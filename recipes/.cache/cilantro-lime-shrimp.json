@@ -1,0 +1,67 @@
+{
+  "contentHash": "8d119226713b2de3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "limes",
+        "searchTerm": "limes",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "orange marmalade",
+        "searchTerm": "marmalade",
+        "normalizedName": "Orange Marmalade"
+      },
+      {
+        "ingredient": "jalapeno pepper",
+        "searchTerm": "jalapeno",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "medium shrimp",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "cooked rice",
+        "searchTerm": "rice",
+        "normalizedName": "Rice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Add marmalade for a sweet-savory glaze that caramelizes nicely",
+      "Don't overcook shrimp—watch for the curve to form and turn pink"
+    ],
+    "coachingPrompt": "How can I balance the sweet marmalade with the cilantro and lime flavors?"
+  },
+  "timestamp": "2026-02-06T03:20:38.523Z"
+}

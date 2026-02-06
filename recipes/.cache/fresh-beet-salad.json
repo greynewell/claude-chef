@@ -1,0 +1,53 @@
+{
+  "contentHash": "4b92d4f090439748",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 beets, peeled and cut into 1/4-inch cubes",
+        "searchTerm": "beets",
+        "normalizedName": "Beet"
+      },
+      {
+        "ingredient": "6 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 bunch red Swiss chard - leaves chopped and stems discarded",
+        "searchTerm": "red Swiss chard",
+        "normalizedName": "Red Swiss Chard"
+      },
+      {
+        "ingredient": "1 cup frozen peas",
+        "searchTerm": "frozen peas",
+        "normalizedName": "Frozen Pea"
+      },
+      {
+        "ingredient": "¾ cup crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "salad bowl",
+        "searchTerm": "salad bowl"
+      }
+    ],
+    "cookingTips": [
+      "Roast beets ahead to develop sweetness",
+      "Crisp bacon separately for better texture control",
+      "Add warm peas just before serving for slight warmth"
+    ],
+    "coachingPrompt": "How does roasting beets change their flavor compared to boiling?"
+  },
+  "timestamp": "2026-02-06T06:56:41.133Z"
+}

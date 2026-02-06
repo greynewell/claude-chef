@@ -1,0 +1,48 @@
+{
+  "contentHash": "f39f9e6bd20e2d06",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups oil, or as needed",
+        "searchTerm": "oil for frying",
+        "normalizedName": "Oil"
+      },
+      {
+        "ingredient": "2 tablespoons extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon lemon pepper seasoning (such as McCormick®)",
+        "searchTerm": "lemon pepper seasoning",
+        "normalizedName": "Lemon Pepper Seasoning"
+      },
+      {
+        "ingredient": "12 chicken wings",
+        "searchTerm": "chicken wing",
+        "normalizedName": "Chicken Wing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Deep fryer or heavy pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Dry wings thoroughly before frying to reduce splattering",
+      "Maintain oil temperature at 350°F for crispy exterior and cooked interior",
+      "Wings are done at 165°F internal temperature"
+    ],
+    "coachingPrompt": "Do you have experience deep frying? Consistent oil temperature is crucial for evenly cooked wings."
+  },
+  "timestamp": "2026-02-06T05:50:30.636Z"
+}

@@ -1,0 +1,67 @@
+{
+  "contentHash": "d5e8807d3099ea36",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon reduced-fat mayonnaise",
+        "searchTerm": "reduced-fat mayonnaise",
+        "normalizedName": "Reduced-Fat Mayonnaise"
+      },
+      {
+        "ingredient": "2 slices bread, toasted",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "1 slice provolone cheese",
+        "searchTerm": "provolone cheese",
+        "normalizedName": "Provolone Cheese"
+      },
+      {
+        "ingredient": "4 thin slices deli turkey breast",
+        "searchTerm": "deli turkey breast",
+        "normalizedName": "Deli Turkey Breast"
+      },
+      {
+        "ingredient": "4 slices precooked bacon, microwaved according to package directions",
+        "searchTerm": "precooked bacon",
+        "normalizedName": "Precooked Bacon"
+      },
+      {
+        "ingredient": "½ avocado - peeled, pitted, and thinly sliced",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 slice ripe tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 leaf lettuce",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "microwave",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread first to prevent it from getting soggy from mayonnaise and moist fillings",
+      "Layer ingredients in order: mayonnaise, lettuce, turkey, bacon, avocado, tomato, cheese"
+    ],
+    "coachingPrompt": "Help me stack this BLT-style sandwich so the toast stays crispy and all flavors come through clearly."
+  },
+  "timestamp": "2026-02-06T21:18:02.588Z"
+}

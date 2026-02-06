@@ -1,0 +1,44 @@
+{
+  "contentHash": "e15e29b1dc3290dd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (18.25 ounce) package yellow cake mix",
+        "searchTerm": "yellow cake mix",
+        "normalizedName": "Yellow Cake Mix"
+      },
+      {
+        "ingredient": "1 (15 ounce) can crushed pineapple",
+        "searchTerm": "crushed pineapple",
+        "normalizedName": "Crushed Pineapple"
+      },
+      {
+        "ingredient": "1 (16.5 ounce) can pitted dark sweet cherries",
+        "searchTerm": "dark sweet cherries",
+        "normalizedName": "Dark Sweet Cherry"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Layer the fruit with its juice for moisture",
+      "Spread melted butter evenly over the dry cake mix",
+      "The cake will firm up as it cools"
+    ],
+    "coachingPrompt": "Remind the user this is an even simpler dump cake with just four ingredients. Emphasize not overmixing to maintain the distinct cake texture."
+  },
+  "timestamp": "2026-02-06T05:25:06.899Z"
+}

@@ -1,0 +1,67 @@
+{
+  "contentHash": "193c0ae0b27fc6d0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 red potatoes",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "4 (6 inch) skewers",
+        "searchTerm": "wooden skewers",
+        "normalizedName": "Wooden Skewer"
+      },
+      {
+        "ingredient": "16 large shrimp, peeled and deveined",
+        "searchTerm": "large shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "1 large onion, cut into large chunks",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 large tomato, cut into large chunks",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "¼ cup extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Wooden skewers",
+        "searchTerm": "6-inch wooden skewers"
+      },
+      {
+        "name": "Grill or grill pan",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Brush",
+        "searchTerm": "basting brush"
+      }
+    ],
+    "cookingTips": [
+      "Soak wooden skewers in water for 30 minutes before assembling to prevent burning",
+      "Parboil potatoes for 5-7 minutes before skewering to ensure they cook through at the same rate as shrimp"
+    ],
+    "coachingPrompt": "How do you coordinate cooking times for different ingredients on the same skewer?"
+  },
+  "timestamp": "2026-02-06T12:06:57.904Z"
+}

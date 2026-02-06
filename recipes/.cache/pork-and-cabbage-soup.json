@@ -1,0 +1,83 @@
+{
+  "contentHash": "dd3ad8a52e08519d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound pork sausage",
+        "searchTerm": "pork sausage",
+        "normalizedName": "Pork Sausage"
+      },
+      {
+        "ingredient": "1 (14 ounce) can beef broth",
+        "searchTerm": "beef broth",
+        "normalizedName": "Beef Broth"
+      },
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 teaspoons beef bouillon granules",
+        "searchTerm": "beef bouillon",
+        "normalizedName": "Beef Bouillon"
+      },
+      {
+        "ingredient": "½ head cabbage, finely chopped",
+        "searchTerm": "cabbage",
+        "normalizedName": "Cabbage"
+      },
+      {
+        "ingredient": "3 potatoes, diced",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 onion, diced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 clove garlic, diced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon dried marjoram",
+        "searchTerm": "dried marjoram",
+        "normalizedName": "Dried Marjoram"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Chef's Knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Brown the sausage first to develop flavor before adding other ingredients",
+      "Cut vegetables into uniform sizes so they cook evenly",
+      "Simmer gently for 30-40 minutes to allow flavors to meld"
+    ],
+    "coachingPrompt": "How comfortable are you browning meat? This recipe builds deeper flavor by searing the sausage first."
+  },
+  "timestamp": "2026-02-06T15:04:32.639Z"
+}

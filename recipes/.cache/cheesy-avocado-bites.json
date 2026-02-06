@@ -1,0 +1,54 @@
+{
+  "contentHash": "60537643fb5a0146",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 baguette",
+        "searchTerm": "baguette",
+        "normalizedName": "Baguette"
+      },
+      {
+        "ingredient": "2 avocados",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "10 cherry tomatoes",
+        "searchTerm": "cherry tomato",
+        "normalizedName": "Cherry Tomato"
+      },
+      {
+        "ingredient": "½ onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ cup shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "sharp knife"
+      }
+    ],
+    "cookingTips": [
+      "Slice avocados just before assembly to prevent browning",
+      "Toast baguette slices lightly before adding toppings",
+      "Broil briefly until cheese melts but avocado stays creamy"
+    ],
+    "coachingPrompt": "How will you keep the avocado from browning during preparation?"
+  },
+  "timestamp": "2026-02-06T01:48:50.553Z"
+}

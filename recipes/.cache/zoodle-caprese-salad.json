@@ -1,0 +1,58 @@
+{
+  "contentHash": "07fdb5cb6557cfee",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 small zucchini",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "16 ounces fresh mozzarella, cubed",
+        "searchTerm": "fresh mozzarella",
+        "normalizedName": "Fresh Mozzarella"
+      },
+      {
+        "ingredient": "1 (10 ounce) basket grape tomatoes",
+        "searchTerm": "grape tomato",
+        "normalizedName": "Grape Tomato"
+      },
+      {
+        "ingredient": "2 tablespoons balsamic vinaigrette, or to taste",
+        "searchTerm": "balsamic vinaigrette",
+        "normalizedName": "Balsamic Vinaigrette"
+      },
+      {
+        "ingredient": "1 (5 ounce) package arugula",
+        "searchTerm": "arugula",
+        "normalizedName": "Arugula"
+      },
+      {
+        "ingredient": "10 leaves fresh basil",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Spiralizer or vegetable peeler",
+        "searchTerm": "spiralizer"
+      },
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Spiralize zucchini just before serving to prevent sogginess",
+      "Use room-temperature mozzarella for better texture",
+      "Toss gently with vinaigrette just before serving"
+    ],
+    "coachingPrompt": "Show me how to prepare a light, fresh caprese salad using spiralized zucchini as the base."
+  },
+  "timestamp": "2026-02-06T22:24:18.441Z"
+}

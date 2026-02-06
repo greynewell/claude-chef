@@ -1,0 +1,48 @@
+{
+  "contentHash": "4940f6362c4172fd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "30 sliced fresh strawberries",
+        "searchTerm": "fresh strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "1 (7 ounce) can whipped cream",
+        "searchTerm": "whipped cream",
+        "normalizedName": "Whipped Cream"
+      },
+      {
+        "ingredient": "1 (13 ounce) jar chocolate-hazelnut spread (such as Nutella®)",
+        "searchTerm": "chocolate hazelnut spread",
+        "normalizedName": "Chocolate-Hazelnut Spread"
+      },
+      {
+        "ingredient": "30 fresh blueberries",
+        "searchTerm": "fresh blueberries",
+        "normalizedName": "Blueberry"
+      },
+      {
+        "ingredient": "1 (14.4 ounce) package mini graham crackers",
+        "searchTerm": "mini graham crackers",
+        "normalizedName": "Graham Cracker"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Small Spreader",
+        "searchTerm": "spreader"
+      },
+      {
+        "name": "Serving Platter",
+        "searchTerm": "platter"
+      }
+    ],
+    "cookingTips": [
+      "Spread chocolate-hazelnut spread evenly on crackers before topping with berries",
+      "Assemble just before serving to prevent crackers from softening"
+    ],
+    "coachingPrompt": "What's the best technique for spreading on such small crackers without breaking them?"
+  },
+  "timestamp": "2026-02-06T19:33:32.726Z"
+}

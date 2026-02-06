@@ -1,0 +1,48 @@
+{
+  "contentHash": "2b054ddf2a7b8a33",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 can refrigerated biscuit dough",
+        "searchTerm": "biscuit dough",
+        "normalizedName": "Biscuit Dough"
+      },
+      {
+        "ingredient": "1 pinch garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "16 slices pepperoni",
+        "searchTerm": "pepperoni",
+        "normalizedName": "Pepperoni"
+      },
+      {
+        "ingredient": "2 cups shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Don't overfill biscuits or cheese will leak out during baking",
+      "Bake until biscuits are golden brown and cheese is melted, about 12-15 minutes",
+      "Let cool for 2-3 minutes before serving to prevent cheese from burning your mouth"
+    ],
+    "coachingPrompt": "What's the best way to fill and seal these pizza puffs so they don't leak?"
+  },
+  "timestamp": "2026-02-06T19:54:02.410Z"
+}

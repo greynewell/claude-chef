@@ -1,0 +1,43 @@
+{
+  "contentHash": "d2187726c9e09d7c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ (17.5 ounce) package frozen puff pastry, thawed",
+        "searchTerm": "puff pastry",
+        "normalizedName": "Puff Pastry"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "6 ounces deli-sliced ham",
+        "searchTerm": "deli ham",
+        "normalizedName": "Deli Ham"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Soften cream cheese for easy spreading",
+      "Roll tightly to prevent unrolling during baking",
+      "Chill assembled pinwheels before slicing for cleaner cuts"
+    ],
+    "coachingPrompt": "Guide the user through assembly and baking. Should they freeze before slicing? What temperature and time?"
+  },
+  "timestamp": "2026-02-06T15:38:36.243Z"
+}

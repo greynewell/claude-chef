@@ -1,0 +1,53 @@
+{
+  "contentHash": "8ec09665e43c2b32",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 medium (2-1/4\" to 3\" dia, raw)s potatoes, sliced",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 red onion, sliced",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "4 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "aluminum foil packet",
+        "searchTerm": "aluminum foil"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Create foil packets with potatoes, onions, butter and seasonings for steaming effect",
+      "Slice potatoes uniformly for even cooking throughout",
+      "Allow butter to melt and coat vegetables for rich flavor"
+    ],
+    "coachingPrompt": "How would you balance the butter richness with the sweetness of grilled onions?"
+  },
+  "timestamp": "2026-02-06T08:23:14.899Z"
+}

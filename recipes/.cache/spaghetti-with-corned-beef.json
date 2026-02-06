@@ -1,0 +1,63 @@
+{
+  "contentHash": "e05870d06fbe25fc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 ounces spaghetti",
+        "searchTerm": "spaghetti",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "1 (12 ounce) can corned beef",
+        "searchTerm": "canned corned beef",
+        "normalizedName": "Corned Beef"
+      },
+      {
+        "ingredient": "1 cup spaghetti sauce",
+        "searchTerm": "pasta sauce",
+        "normalizedName": "Spaghetti Sauce"
+      },
+      {
+        "ingredient": "1 cube chicken bouillon",
+        "searchTerm": "chicken bouillon",
+        "normalizedName": "Chicken Bouillon"
+      },
+      {
+        "ingredient": "1 teaspoon Italian seasoning",
+        "searchTerm": "Italian seasoning",
+        "normalizedName": "Italian Seasoning"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "½ tablespoon dried minced onion",
+        "searchTerm": "dried onion",
+        "normalizedName": "Dried Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "pasta pot"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "sauce pan"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Break corned beef into chunks after opening the can for better texture",
+      "Dissolve bouillon cube in small amount of hot water before adding",
+      "Combine all ingredients near the end to prevent overheating"
+    ],
+    "coachingPrompt": "What's the best way to incorporate canned corned beef without creating a mushy texture?"
+  },
+  "timestamp": "2026-02-06T18:48:30.878Z"
+}

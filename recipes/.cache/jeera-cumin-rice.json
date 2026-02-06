@@ -1,0 +1,53 @@
+{
+  "contentHash": "34a21ae8f20867ef",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "½ teaspoon cumin seeds",
+        "searchTerm": "cumin seeds",
+        "normalizedName": "Cumin Seed"
+      },
+      {
+        "ingredient": "1 cup dry jasmine rice",
+        "searchTerm": "jasmine rice",
+        "normalizedName": "Jasmine Rice"
+      },
+      {
+        "ingredient": "1 ¾ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "medium saucepan"
+      },
+      {
+        "name": "Lid",
+        "searchTerm": "pot lid"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Toast cumin seeds in oil first to release their aromatic oils before adding rice",
+      "Use a 1:1.75 water-to-rice ratio for fluffy, separated grains",
+      "Let rice rest covered for 5 minutes after cooking for even moisture distribution"
+    ],
+    "coachingPrompt": "What's the benefit of toasting whole cumin seeds before cooking the rice?"
+  },
+  "timestamp": "2026-02-06T10:23:16.838Z"
+}

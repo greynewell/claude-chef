@@ -1,0 +1,63 @@
+{
+  "contentHash": "1c55ec5e660df9f5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 small red potatoes, quartered",
+        "searchTerm": "red potato",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon fresh rosemary, chopped",
+        "searchTerm": "rosemary",
+        "normalizedName": "Rosemary"
+      },
+      {
+        "ingredient": "sea salt and ground black pepper to taste",
+        "searchTerm": "sea salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "sea salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 cup fresh spinach leaves",
+        "searchTerm": "spinach",
+        "normalizedName": "Spinach"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Roast potatoes until golden, then toss with spinach at the end for wilting",
+      "Use butter and fresh herbs for aromatic depth",
+      "Season spinach lightly as it wilts quickly"
+    ],
+    "coachingPrompt": "Help me create a simple roasted potato side with fresh wilted greens and butter"
+  },
+  "timestamp": "2026-02-06T16:26:43.530Z"
+}

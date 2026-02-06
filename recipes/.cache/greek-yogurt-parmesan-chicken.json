@@ -1,0 +1,71 @@
+{
+  "contentHash": "4f3669d813e50bc5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup plain Greek yogurt",
+        "searchTerm": "Greek yogurt",
+        "normalizedName": "Greek Yogurt"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "¼ cup panko bread crumbs, or as needed",
+        "searchTerm": "panko bread crumbs",
+        "normalizedName": "Panko Bread Crumb"
+      },
+      {
+        "ingredient": "½ (1 ounce) package ranch dressing mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Ranch Dressing Mix"
+      },
+      {
+        "ingredient": "1 teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 teaspoon prepared yellow mustard, or to taste (Optional)",
+        "searchTerm": "mustard",
+        "normalizedName": "Mustard"
+      },
+      {
+        "ingredient": "½ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "3 small skinless, boneless chicken breast halves, pounded 1/2-inch thick",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Shallow bowls",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Meat mallet",
+        "searchTerm": "meat mallet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Pound chicken to even thickness for uniform cooking",
+      "Use parchment paper on the baking sheet for easier cleanup and to prevent sticking"
+    ],
+    "coachingPrompt": "Guide the user on the proper technique for pounding chicken breasts evenly and coating them thoroughly with the yogurt mixture."
+  },
+  "timestamp": "2026-02-06T08:04:32.984Z"
+}

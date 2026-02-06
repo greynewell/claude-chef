@@ -1,0 +1,47 @@
+{
+  "contentHash": "83187037da80ebf9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds fresh Brussels sprouts",
+        "searchTerm": "brussels sprouts",
+        "normalizedName": "Brussels Sprout"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "½ teaspoon seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Halve Brussels sprouts for even cooking and to expose flat surfaces for browning",
+      "Cook covered initially, then uncovered to soften then caramelize"
+    ],
+    "coachingPrompt": "For tender Brussels sprouts, how will you manage cooking time and temperature?"
+  },
+  "timestamp": "2026-02-06T18:30:28.896Z"
+}

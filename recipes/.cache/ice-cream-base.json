@@ -1,0 +1,57 @@
+{
+  "contentHash": "b0d761337c763c60",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "3 cups half-and-half cream",
+        "searchTerm": "half-and-half cream",
+        "normalizedName": "Half-And-Half Cream"
+      },
+      {
+        "ingredient": "8 egg yolks",
+        "searchTerm": "egg yolk",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "⅛ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Whisk or hand mixer",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Double boiler or heat-safe bowl over pot",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "Fine mesh strainer",
+        "searchTerm": "fine mesh strainer"
+      }
+    ],
+    "cookingTips": [
+      "Temper egg yolks carefully: whisk constantly and add warm mixture slowly to prevent scrambling",
+      "Heat base to 160°F to safely pasteurize eggs; don't exceed 180°F or texture suffers",
+      "Strain through fine mesh after cooking to remove any cooked egg bits for silky texture"
+    ],
+    "coachingPrompt": "Coach on proper custard base preparation: tempering eggs, managing heat, and achieving the ideal consistency for ice cream."
+  },
+  "timestamp": "2026-02-06T09:37:27.205Z"
+}

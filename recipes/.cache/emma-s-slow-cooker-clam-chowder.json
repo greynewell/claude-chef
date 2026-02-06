@@ -1,0 +1,88 @@
+{
+  "contentHash": "b0dcf8d9b945f999",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ pound bacon, diced",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 (28 ounce) can diced tomatoes with juice",
+        "searchTerm": "canned diced tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "2 (6.5 ounce) cans chopped clams with juice",
+        "searchTerm": "canned clams",
+        "normalizedName": "Clam"
+      },
+      {
+        "ingredient": "3 large potatoes, diced",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 large onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 carrots, thinly sliced",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "3 stalks celery with leaves, thinly sliced",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh parsley",
+        "searchTerm": "fresh parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "1 ½ teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ½ teaspoons ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon dried thyme leaves",
+        "searchTerm": "dried thyme",
+        "normalizedName": "Thyme"
+      },
+      {
+        "ingredient": "1 bay leaf",
+        "searchTerm": "bay leaf",
+        "normalizedName": "Bay Leaf"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon first and render fat for additional flavor base",
+      "Add tender vegetables like tomatoes in final hour to prevent mushiness",
+      "Adjust seasoning at end of cooking as flavors concentrate"
+    ],
+    "coachingPrompt": "How do I prevent the clams from getting rubbery in a long slow-cook environment?"
+  },
+  "timestamp": "2026-02-06T06:19:15.272Z"
+}

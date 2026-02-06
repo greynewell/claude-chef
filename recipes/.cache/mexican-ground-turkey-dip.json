@@ -1,0 +1,73 @@
+{
+  "contentHash": "ff50946db8be157c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground turkey",
+        "searchTerm": "ground turkey",
+        "normalizedName": "Ground Turkey"
+      },
+      {
+        "ingredient": "2 red bell peppers, chopped",
+        "searchTerm": "red bell peppers",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 large Spanish onion, chopped",
+        "searchTerm": "Spanish onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 jalapeno pepper, diced, or more to taste",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "2 cups salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "1 cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 (1 ounce) packet taco seasoning",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning Mix"
+      },
+      {
+        "ingredient": "1 (1 pound) package processed cheese (such as Velveeta®), cubed",
+        "searchTerm": "processed cheese",
+        "normalizedName": "Processed Cheese"
+      },
+      {
+        "ingredient": "1 cup grated Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground turkey completely and break into small pieces",
+      "Use slow cooker on low to keep dip warm without scorching",
+      "Stir occasionally and combine cheeses gradually for smooth texture"
+    ],
+    "coachingPrompt": "Walk the user through cooking turkey with vegetables and taco seasoning, combining with salsa and sour cream, then melting in processed cheese for a creamy dip."
+  },
+  "timestamp": "2026-02-06T12:19:44.976Z"
+}

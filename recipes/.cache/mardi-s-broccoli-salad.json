@@ -1,0 +1,63 @@
+{
+  "contentHash": "9898f94fc209809e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 heads fresh broccoli, chopped",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "1 red onion, chopped",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "3 (6 ounce) cans jumbo black olives, sliced",
+        "searchTerm": "black olives",
+        "normalizedName": "Black Olive"
+      },
+      {
+        "ingredient": "2 (6.5 ounce) jars marinated artichoke hearts, sliced",
+        "searchTerm": "marinated artichoke hearts",
+        "normalizedName": "Marinated Artichoke Heart"
+      },
+      {
+        "ingredient": "3 large tomatoes, chopped",
+        "searchTerm": "tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "3 bunches green onions, chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 (8 ounce) bottle Italian-style salad dressing",
+        "searchTerm": "Italian dressing",
+        "normalizedName": "Italian Salad Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large bowl",
+        "searchTerm": "large mixing bowl"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Chop vegetables into similar-sized pieces for even distribution",
+      "Toss salad gently to distribute dressing without breaking vegetables",
+      "Prepare ahead and refrigerate; flavors meld together beautifully"
+    ],
+    "coachingPrompt": "Guide the user through proper vegetable preparation and explain how to make the salad ahead for meal prep."
+  },
+  "timestamp": "2026-02-06T11:56:22.406Z"
+}

@@ -1,0 +1,78 @@
+{
+  "contentHash": "f6daf23b8afa9cba",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "½ cup pear juice or white wine",
+        "searchTerm": "pear juice",
+        "normalizedName": "Pear Juice"
+      },
+      {
+        "ingredient": "3 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons chopped garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon sesame oil",
+        "searchTerm": "sesame oil",
+        "normalizedName": "Sesame Oil"
+      },
+      {
+        "ingredient": "1 teaspoon sesame seeds",
+        "searchTerm": "sesame seeds",
+        "normalizedName": "Sesame Seed"
+      },
+      {
+        "ingredient": "1 tablespoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 teaspoon monosodium glutamate",
+        "searchTerm": "MSG",
+        "normalizedName": "Monosodium Glutamate"
+      },
+      {
+        "ingredient": "1 (2 pound) beef rump roast, sliced into thin strips",
+        "searchTerm": "beef rump roast",
+        "normalizedName": "Beef Rump Roast"
+      },
+      {
+        "ingredient": "1 onion, cut into thin strips",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "cast iron skillet"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "kitchen tongs"
+      }
+    ],
+    "cookingTips": [
+      "Freeze beef for 1-2 hours before slicing for uniform, thin pieces",
+      "Marinate beef for 2-4 hours for optimal flavor penetration",
+      "Cook in batches over high heat to achieve proper caramelization without crowding"
+    ],
+    "coachingPrompt": "How can I marinate beef efficiently? What's the minimum marinating time needed?"
+  },
+  "timestamp": "2026-02-06T00:56:55.533Z"
+}

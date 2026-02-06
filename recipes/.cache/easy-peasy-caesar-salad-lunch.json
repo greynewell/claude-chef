@@ -1,0 +1,52 @@
+{
+  "contentHash": "c38e141150374af4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 leaves Boston lettuce",
+        "searchTerm": "Boston lettuce",
+        "normalizedName": "Boston Lettuce"
+      },
+      {
+        "ingredient": "5 leaves fresh spinach",
+        "searchTerm": "fresh spinach",
+        "normalizedName": "Fresh Spinach"
+      },
+      {
+        "ingredient": "¼ cup julienned carrots",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 tablespoon crumbled cooked bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "¼ cup Caesar salad dressing",
+        "searchTerm": "Caesar dressing",
+        "normalizedName": "Caesar Dressing"
+      }
+    ],
+    "gear": [
+      {
+        "name": "salad bowl",
+        "searchTerm": "salad bowl"
+      },
+      {
+        "name": "salad tongs",
+        "searchTerm": "salad tongs"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Tear lettuce by hand rather than cutting to prevent browning and bruising",
+      "Dress the salad just before serving to keep the greens crisp"
+    ],
+    "coachingPrompt": "Help the user understand proper salad assembly and the importance of dressing timing."
+  },
+  "timestamp": "2026-02-06T05:54:15.933Z"
+}

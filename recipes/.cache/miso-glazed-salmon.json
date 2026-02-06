@@ -1,0 +1,63 @@
+{
+  "contentHash": "1d9837f7a31be563",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "sake",
+        "searchTerm": "sake",
+        "normalizedName": "Sake"
+      },
+      {
+        "ingredient": "miso paste",
+        "searchTerm": "miso paste",
+        "normalizedName": "Miso"
+      },
+      {
+        "ingredient": "mirin",
+        "searchTerm": "mirin",
+        "normalizedName": "Mirin"
+      },
+      {
+        "ingredient": "soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "salmon fillets",
+        "searchTerm": "salmon fillets",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "fresh basil",
+        "searchTerm": "basil",
+        "normalizedName": "Basil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "small saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "pastry brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Simmer glaze on stovetop for 2-3 minutes to meld flavors and thicken slightly",
+      "Apply glaze in final minutes of cooking to prevent burning",
+      "Fresh basil adds brightness that complements the rich miso umami"
+    ],
+    "coachingPrompt": "How can you layer the miso glaze for deep umami without overpowering the delicate salmon?"
+  },
+  "timestamp": "2026-02-06T12:35:23.089Z"
+}

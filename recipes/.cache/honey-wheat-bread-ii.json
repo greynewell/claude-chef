@@ -1,0 +1,63 @@
+{
+  "contentHash": "020801a45f871d6f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups warm water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 cups whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "1 tablespoon active dry yeast",
+        "searchTerm": "yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "⅓ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "⅓ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "5 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      }
+    ],
+    "gear": [
+      {
+        "name": "loaf pans",
+        "searchTerm": "loaf pans"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "bench scraper",
+        "searchTerm": "bench scraper"
+      }
+    ],
+    "cookingTips": [
+      "Mix the whole wheat flour and water first to create a sponge; let sit 30 minutes for better flavor",
+      "Don't overwork the dough; whole wheat bread is less elastic than white bread",
+      "Let dough rise until doubled in size before shaping"
+    ],
+    "coachingPrompt": "What's the secret to getting whole wheat bread to rise well and not be too dense?"
+  },
+  "timestamp": "2026-02-06T09:25:27.631Z"
+}

@@ -1,0 +1,92 @@
+{
+  "contentHash": "e9b4b34dfb443986",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "10 red potatoes",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "1 cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "½ cup ranch dressing",
+        "searchTerm": "ranch dressing",
+        "normalizedName": "Ranch Dressing"
+      },
+      {
+        "ingredient": "⅓ cup dill pickle relish",
+        "searchTerm": "dill pickle relish",
+        "normalizedName": "Dill Pickle Relish"
+      },
+      {
+        "ingredient": "2 tablespoons prepared yellow mustard",
+        "searchTerm": "yellow mustard",
+        "normalizedName": "Yellow Mustard"
+      },
+      {
+        "ingredient": "1 ½ teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "⅛ teaspoon paprika",
+        "searchTerm": "paprika",
+        "normalizedName": "Paprika"
+      },
+      {
+        "ingredient": "⅛ teaspoon celery seed",
+        "searchTerm": "celery seed",
+        "normalizedName": "Celery Seed"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "¼ cup pepperoncini",
+        "searchTerm": "pepperoncini",
+        "normalizedName": "Pepperoncini"
+      },
+      {
+        "ingredient": "¼ cup sliced black olives",
+        "searchTerm": "black olives",
+        "normalizedName": "Black Olive"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "potato masher",
+        "searchTerm": "potato masher"
+      }
+    ],
+    "cookingTips": [
+      "Cool potatoes completely before mixing with mayonnaise to prevent separation",
+      "Add dressing while potatoes are still warm so they absorb more flavor"
+    ],
+    "coachingPrompt": "Teach the timing of adding dressing to potatoes and why temperature matters."
+  },
+  "timestamp": "2026-02-06T20:39:38.692Z"
+}

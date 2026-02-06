@@ -1,0 +1,47 @@
+{
+  "contentHash": "9bdb2eed408835bc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cucumbers, peeled and cut into 1/4-inch thick slices",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "1 teaspoon chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "lemon, juiced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Slice cucumbers uniformly for even marinating",
+      "Juice lemon fresh just before serving to preserve brightness"
+    ],
+    "coachingPrompt": "How would you adjust the spice level for guests who prefer milder flavors?"
+  },
+  "timestamp": "2026-02-06T11:58:21.798Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "dae06dfcd08145cd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon sunflower seed oil",
+        "searchTerm": "sunflower seed oil",
+        "normalizedName": "Sunflower Seed Oil"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ¾ cups warm water (110 degrees F/45 degrees C)",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (.25 ounce) package instant yeast",
+        "searchTerm": "instant yeast",
+        "normalizedName": "Instant Yeast"
+      },
+      {
+        "ingredient": "6 cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "4 ½ tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "¾ cup unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Bread machine or mixing bowl",
+        "searchTerm": "bread machine"
+      },
+      {
+        "name": "Kitchen scale",
+        "searchTerm": "kitchen scale"
+      },
+      {
+        "name": "Loaf pan",
+        "searchTerm": "loaf pan"
+      }
+    ],
+    "cookingTips": [
+      "Water temperature is critical for yeast activation - use a thermometer if available",
+      "Cocoa powder can slightly inhibit yeast activity, so allow extra rise time",
+      "Sift cocoa powder to prevent lumps in the dough"
+    ],
+    "coachingPrompt": "Why is precise water temperature important when working with yeast?"
+  },
+  "timestamp": "2026-02-06T02:59:22.578Z"
+}

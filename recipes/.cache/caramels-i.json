@@ -1,0 +1,50 @@
+{
+  "contentHash": "39dfd65c3adcdcae",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 ½ cups corn syrup",
+        "searchTerm": "corn syrup",
+        "normalizedName": "Corn Syrup"
+      },
+      {
+        "ingredient": "2 cups heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "1 cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "candy thermometer"
+      },
+      {
+        "name": "heavy-bottomed pot"
+      },
+      {
+        "name": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use candy thermometer and cook to exactly 248°F for proper texture",
+      "Remove from heat before adding cream to prevent splattering",
+      "Cool completely before cutting to prevent sticking"
+    ],
+    "coachingPrompt": "What is the critical temperature and technique for achieving perfect caramel consistency?"
+  },
+  "timestamp": "2026-02-06T01:24:18.054Z"
+}

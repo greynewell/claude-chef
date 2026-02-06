@@ -1,0 +1,53 @@
+{
+  "contentHash": "7dd041d64b22c2f0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "4 tablespoons cocoa powder",
+        "searchTerm": "cocoa powder unsweetened",
+        "normalizedName": "Unsweetened Cocoa Powder"
+      },
+      {
+        "ingredient": "4 cups confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "3 tablespoons milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Electric Mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "rubber spatula"
+      }
+    ],
+    "cookingTips": [
+      "Cream margarine and cocoa powder together before adding sugar",
+      "Add milk gradually until desired consistency is reached",
+      "Use immediately while frosting is still spreadable"
+    ],
+    "coachingPrompt": "Do you prefer thicker frosting for stacking or thinner for drizzling?"
+  },
+  "timestamp": "2026-02-06T20:27:21.024Z"
+}

@@ -1,0 +1,62 @@
+{
+  "contentHash": "9527e837c54140d7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅓ cup Greek yogurt",
+        "searchTerm": "Greek yogurt",
+        "normalizedName": "Greek Yogurt"
+      },
+      {
+        "ingredient": "1 tablespoon harissa paste",
+        "searchTerm": "harissa paste",
+        "normalizedName": "Harissa Paste"
+      },
+      {
+        "ingredient": "½ teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      },
+      {
+        "ingredient": "½ teaspoon ground cumin",
+        "searchTerm": "cumin",
+        "normalizedName": "Cumin"
+      },
+      {
+        "ingredient": "2 pinches smoked paprika",
+        "searchTerm": "smoked paprika",
+        "normalizedName": "Smoked Paprika"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "small saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "piping bag",
+        "searchTerm": "piping bag"
+      }
+    ],
+    "cookingTips": [
+      "Boil eggs for 10-12 minutes, then ice bath immediately for easy peeling",
+      "Use Greek yogurt instead of mayonnaise for a lighter, protein-rich filling"
+    ],
+    "coachingPrompt": "How does using Greek yogurt change the traditional deviled egg recipe, and what are the benefits?"
+  },
+  "timestamp": "2026-02-06T08:46:33.496Z"
+}

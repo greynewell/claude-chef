@@ -1,0 +1,59 @@
+{
+  "contentHash": "98e8b879cb9180a9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "24 (1 inch) cubes fresh pineapple",
+        "searchTerm": "pineapple",
+        "normalizedName": "Pineapple"
+      },
+      {
+        "ingredient": "24  water chestnut slices",
+        "searchTerm": "water chestnut",
+        "normalizedName": "Water Chestnut"
+      },
+      {
+        "ingredient": "8  thick-cut bacon slices, cut crosswise into 3 pieces",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "24  toothpicks",
+        "searchTerm": "toothpicks",
+        "normalizedName": "Toothpick"
+      },
+      {
+        "ingredient": "½ cup low-fat sesame-ginger salad dressing",
+        "searchTerm": "sesame-ginger dressing",
+        "normalizedName": "Sesame-Ginger Salad Dressing"
+      },
+      {
+        "ingredient": "1 tablespoon chopped green onion, or to taste",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "sheet pan",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Soak toothpicks in water for 30 minutes to prevent burning",
+      "Assemble rumaki by layering water chestnut, pineapple, and bacon on toothpick",
+      "Brush with dressing before baking for added flavor"
+    ],
+    "coachingPrompt": "Why should toothpicks be soaked before using?"
+  },
+  "timestamp": "2026-02-06T05:57:41.953Z"
+}

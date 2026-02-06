@@ -1,0 +1,52 @@
+{
+  "contentHash": "82aaa67e848f4a09",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 beets, peeled and cut into 3/4-inch cubes",
+        "searchTerm": "beets",
+        "normalizedName": "Beet"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon dried thyme leaves",
+        "searchTerm": "dried thyme",
+        "normalizedName": "Dried Thyme"
+      },
+      {
+        "ingredient": "1 pinch sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cube beets evenly so they roast at the same rate",
+      "Toss with oil and seasonings before roasting for even coating",
+      "Roast at 400°F for 25-30 minutes until tender and caramelized"
+    ],
+    "coachingPrompt": "How would you check if roasted beets are done without cutting into them?"
+  },
+  "timestamp": "2026-02-06T20:21:31.197Z"
+}

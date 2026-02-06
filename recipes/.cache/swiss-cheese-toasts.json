@@ -1,0 +1,58 @@
+{
+  "contentHash": "b2092925babe95cf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup shredded Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "½ cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 (.7 ounce) package dry Italian-style salad dressing mix",
+        "searchTerm": "Italian dressing mix",
+        "normalizedName": "Italian Dressing Mix"
+      },
+      {
+        "ingredient": "24 thin slices baguette",
+        "searchTerm": "baguette",
+        "normalizedName": "Baguette"
+      },
+      {
+        "ingredient": "1 green bell pepper, minced",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "sheet pan"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Toaster or Broiler",
+        "searchTerm": "broiler"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread lightly before adding topping to prevent sogginess and maintain crunchiness",
+      "Mix cheese spread ahead of time and refrigerate for easier spreading",
+      "Broil for 2-3 minutes just before serving until cheese melts and topping is warm"
+    ],
+    "coachingPrompt": "Are you making these for an appetizer? Would you like suggestions for flavor variations or serving options?"
+  },
+  "timestamp": "2026-02-06T20:10:33.504Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "52dffb310c7aac14",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups chopped broccoli",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "1 ¾ cups vegetable broth",
+        "searchTerm": "vegetable broth",
+        "normalizedName": "Vegetable Broth"
+      },
+      {
+        "ingredient": "1 cup quinoa",
+        "searchTerm": "quinoa",
+        "normalizedName": "Quinoa"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Rinse quinoa under cold water before cooking to remove any bitter coating",
+      "Add broccoli during the last few minutes of cooking so it retains texture",
+      "Fluff the quinoa with a fork before adding cheese to ensure even distribution"
+    ],
+    "coachingPrompt": "Help the cook understand the importance of rinsing quinoa, and guide them on timing the broccoli addition to keep it crisp-tender."
+  },
+  "timestamp": "2026-02-06T01:49:56.119Z"
+}

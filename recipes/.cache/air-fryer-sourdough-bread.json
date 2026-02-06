@@ -1,0 +1,58 @@
+{
+  "contentHash": "be41eea19d18e27b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "½ cup spelt flour",
+        "searchTerm": "spelt flour",
+        "normalizedName": "Spelt Flour"
+      },
+      {
+        "ingredient": "½ cup sourdough starter",
+        "searchTerm": "sourdough starter",
+        "normalizedName": "Sourdough Starter"
+      },
+      {
+        "ingredient": "1 tablespoon extra-virgin olive oil",
+        "searchTerm": "extra-virgin olive oil",
+        "normalizedName": "Extra-Virgin Olive Oil"
+      },
+      {
+        "ingredient": "½ teaspoon fine sea salt",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "½ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Parchment paper or bread pan",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Let dough rise at room temperature for 4-8 hours for best flavor development",
+      "Score the top of the loaf before cooking to allow steam to escape",
+      "Use parchment paper to prevent sticking and for easier handling"
+    ],
+    "coachingPrompt": "Guide me through making a small batch of sourdough bread in an air fryer."
+  },
+  "timestamp": "2026-02-05T21:47:01.123Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "8b55453561224790",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup chickpeas, drained, rinsed, and mashed",
+        "searchTerm": "chickpeas",
+        "normalizedName": "Chickpea"
+      },
+      {
+        "ingredient": "¼ cup oats",
+        "searchTerm": "oats",
+        "normalizedName": "Oat"
+      },
+      {
+        "ingredient": "2 tablespoons hummus",
+        "searchTerm": "hummus",
+        "normalizedName": "Hummus"
+      },
+      {
+        "ingredient": "1 tablespoon creamy peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "1 dash sriracha sauce",
+        "searchTerm": "sriracha sauce",
+        "normalizedName": "Sriracha Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Fork or potato masher",
+        "searchTerm": "potato masher"
+      },
+      {
+        "name": "Skillet or griddle",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Mash chickpeas until mostly smooth but with some texture remaining for better burger structure",
+      "Use oats as a binder; adjust amount if mixture is too wet or dry",
+      "Pan-fry patty over medium heat for 3-4 minutes per side until golden and crispy outside"
+    ],
+    "coachingPrompt": "Help me make a quick vegan chickpea burger patty with 4 simple ingredients and pan-fry it"
+  },
+  "timestamp": "2026-02-05T21:27:32.629Z"
+}

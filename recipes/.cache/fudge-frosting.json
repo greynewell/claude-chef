@@ -1,0 +1,52 @@
+{
+  "contentHash": "25202341989510b4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ ounces unsweetened chocolate",
+        "searchTerm": "unsweetened chocolate",
+        "normalizedName": "Unsweetened Chocolate"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 ½ cups confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "1 egg white",
+        "searchTerm": "egg white",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "double boiler",
+        "searchTerm": "double boiler"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "electric mixer",
+        "searchTerm": "electric mixer"
+      }
+    ],
+    "cookingTips": [
+      "Melt chocolate gently over double boiler to prevent seizing",
+      "Use pasteurized egg whites to ensure food safety"
+    ],
+    "coachingPrompt": "Are you comfortable working with egg whites? Would you like tips on achieving the right frosting consistency?"
+  },
+  "timestamp": "2026-02-06T07:11:22.190Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "5d07bc356b2c0634",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup fresh mint leaves, chopped",
+        "searchTerm": "fresh mint",
+        "normalizedName": "Fresh Mint"
+      },
+      {
+        "ingredient": "⅔ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "12 fluid ounces vodka",
+        "searchTerm": "vodka",
+        "normalizedName": "Vodka"
+      },
+      {
+        "ingredient": "1 cup fresh lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "crushed ice",
+        "searchTerm": "ice",
+        "normalizedName": "Ice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pitcher",
+        "searchTerm": "pitcher"
+      },
+      {
+        "name": "Muddler or wooden spoon",
+        "searchTerm": "muddler"
+      },
+      {
+        "name": "Strainer",
+        "searchTerm": "strainer"
+      },
+      {
+        "name": "Highball glass",
+        "searchTerm": "highball glass"
+      }
+    ],
+    "cookingTips": [
+      "Muddle fresh mint gently to release oils without shredding leaves",
+      "Use fresh lemon juice, not bottled, for best flavor",
+      "Add crushed ice just before serving to keep the drink properly chilled"
+    ],
+    "coachingPrompt": "Teach the user to muddle mint properly and balance tartness in a refreshing vodka lemonade."
+  },
+  "timestamp": "2026-02-06T21:52:16.105Z"
+}

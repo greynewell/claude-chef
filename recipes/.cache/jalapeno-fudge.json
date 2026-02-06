@@ -1,0 +1,42 @@
+{
+  "contentHash": "9271193bfad7c121",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 ¼ pounds shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 (4 ounce) can canned diced jalapeno peppers",
+        "searchTerm": "diced jalapeno peppers",
+        "normalizedName": "Diced Jalapeno Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish 8x8"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Drain canned jalapenos well to avoid excess moisture",
+      "Bake until edges are set but center is slightly jiggly for a fudgy texture"
+    ],
+    "coachingPrompt": "Guide the user through whisking eggs and cheese together, then distributing jalapenos evenly before baking."
+  },
+  "timestamp": "2026-02-06T10:14:39.292Z"
+}

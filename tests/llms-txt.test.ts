@@ -28,6 +28,7 @@ function makeRecipe(title: string, slug: string, description: string, category?:
     ingredients: ['1 cup flour'],
     instructions: ['Mix.'],
     body: '## Ingredients\n\n- 1 cup flour\n\n## Instructions\n\n1. Mix.',
+    faqs: [],
     slug,
     sourceFile: `${slug}.md`,
   };

@@ -1,0 +1,58 @@
+{
+  "contentHash": "261f468d1d287463",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon margarine or butter",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "¼ cup chopped green pepper or red pepper",
+        "searchTerm": "green pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can Campbell's® Condensed Cream of Mushroom Soup (Regular, 98% Fat Free or 25% Less Sodium)",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 ½ cups cubed cooked chicken or ham",
+        "searchTerm": "cooked chicken",
+        "normalizedName": "Cooked Chicken"
+      },
+      {
+        "ingredient": "4 cups hot cooked regular long-grain white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Measuring Cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Use pre-cooked rotisserie chicken to save time",
+      "Heat soup and milk gently to prevent scorching",
+      "Keep rice warm separately and combine just before serving"
+    ],
+    "coachingPrompt": "Guide the user through quick assembly techniques and how condensed soup serves as a flavor and binding base."
+  },
+  "timestamp": "2026-02-06T15:41:12.349Z"
+}

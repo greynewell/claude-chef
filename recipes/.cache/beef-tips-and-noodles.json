@@ -1,0 +1,58 @@
+{
+  "contentHash": "415214d4b159f80b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound sirloin tips, cubed",
+        "searchTerm": "sirloin tips",
+        "normalizedName": "Sirloin Tips"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 (1.25 ounce) package beef with onion soup mix",
+        "searchTerm": "beef with onion soup mix",
+        "normalizedName": "Beef with Onion Soup Mix"
+      },
+      {
+        "ingredient": "1 (4.5 ounce) can mushrooms, drained",
+        "searchTerm": "canned mushrooms",
+        "normalizedName": "Canned Mushroom"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 (16 ounce) package wide egg noodles",
+        "searchTerm": "egg noodles",
+        "normalizedName": "Egg Noodle"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown sirloin tips before adding soup and water for deeper, more complex flavor",
+      "Cook noodles separately to al dente, then combine with beef mixture to prevent mushiness",
+      "Stir the creamy sauce gently to avoid breaking up the mushrooms"
+    ],
+    "coachingPrompt": "Explain why cooking noodles separately and combining at the end prevents the dish from becoming mushy or overcooked."
+  },
+  "timestamp": "2026-02-05T23:47:25.790Z"
+}

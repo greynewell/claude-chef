@@ -1,0 +1,58 @@
+{
+  "contentHash": "34d54d05218b89f7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¾ cup white wine",
+        "searchTerm": "white wine",
+        "normalizedName": "White Wine"
+      },
+      {
+        "ingredient": "¾ cup tomato and clam juice cocktail",
+        "searchTerm": "tomato clam juice",
+        "normalizedName": "Tomato Clam Juice Cocktail"
+      },
+      {
+        "ingredient": "3 cloves garlic - peeled and sliced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ teaspoon crushed red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "1 pound mussels, cleaned and debearded",
+        "searchTerm": "mussels",
+        "normalizedName": "Mussel"
+      },
+      {
+        "ingredient": "3 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "lid",
+        "searchTerm": "pot lid"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Discard any mussels that don't open after cooking",
+      "Cook mussels in high heat for 5-7 minutes until shells open",
+      "Serve immediately with cooking liquid for best flavor"
+    ],
+    "coachingPrompt": "How do you properly clean and debeard mussels, and what indicates they're fully cooked?"
+  },
+  "timestamp": "2026-02-05T22:08:45.885Z"
+}

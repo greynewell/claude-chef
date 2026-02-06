@@ -1,0 +1,48 @@
+{
+  "contentHash": "a301353a581682c9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "chopped pecan",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      },
+      {
+        "ingredient": "Brie cheese",
+        "searchTerm": "Brie cheese",
+        "normalizedName": "Brie Cheese"
+      },
+      {
+        "ingredient": "coffee-flavored liqueur",
+        "searchTerm": "Kahlua",
+        "normalizedName": "Kahlua"
+      },
+      {
+        "ingredient": "brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Toast pecans lightly before using to enhance nutty flavor",
+      "Score the top of Brie before topping to help it melt evenly",
+      "Serve immediately while cheese is warm and gooey"
+    ],
+    "coachingPrompt": "This is a simple baked cheese appetizer. How long should you bake it to achieve a soft, creamy interior without the cheese leaking out?"
+  },
+  "timestamp": "2026-02-06T10:32:48.837Z"
+}

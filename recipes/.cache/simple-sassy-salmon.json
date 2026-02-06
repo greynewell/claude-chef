@@ -1,0 +1,63 @@
+{
+  "contentHash": "d7d3a07baa0c4059",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 tablespoon Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons honey mustard",
+        "searchTerm": "honey mustard",
+        "normalizedName": "Honey Mustard"
+      },
+      {
+        "ingredient": "1 tablespoon brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 tablespoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 pound salmon fillet",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "small bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Mix the sauce ingredients together before applying to ensure even distribution of flavors",
+      "Brush the sauce on the salmon multiple times during cooking for maximum flavor buildup",
+      "Watch for the salmon to just turn opaque; this indicates it's perfectly cooked"
+    ],
+    "coachingPrompt": "What cooking method would work best for this saucy salmon preparation?"
+  },
+  "timestamp": "2026-02-06T17:52:30.827Z"
+}

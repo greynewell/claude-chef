@@ -1,0 +1,58 @@
+{
+  "contentHash": "5a5788fe31f24c96",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup warm milk (110 degrees F/45 degrees C)",
+        "searchTerm": "warm milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 (.25 ounce) packages active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "2 ½ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "6 eggs, room temperature",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 ½ cups grated Romano cheese",
+        "searchTerm": "Romano cheese",
+        "normalizedName": "Romano Cheese"
+      },
+      {
+        "ingredient": "4 tablespoons butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "stand mixer",
+        "searchTerm": "stand mixer"
+      },
+      {
+        "name": "loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "kitchen thermometer",
+        "searchTerm": "instant-read thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Use room temperature eggs so they incorporate smoothly into the dough",
+      "Knead dough until smooth and elastic, about 8-10 minutes in stand mixer",
+      "Let dough rise in warm, draft-free place until doubled, then shape and rise again"
+    ],
+    "coachingPrompt": "Why use room temperature eggs in bread dough? How do you know when dough has risen enough?"
+  },
+  "timestamp": "2026-02-06T16:32:17.108Z"
+}

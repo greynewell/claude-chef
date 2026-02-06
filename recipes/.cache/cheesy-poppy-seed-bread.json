@@ -1,0 +1,57 @@
+{
+  "contentHash": "573fb26df74c2570",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 round loaf sourdough bread",
+        "searchTerm": "sourdough bread",
+        "normalizedName": "Sourdough Bread"
+      },
+      {
+        "ingredient": "1 pound Swiss cheese, sliced",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "1 bunch green onions, thinly sliced",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "½ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon poppy seeds",
+        "searchTerm": "poppy seeds",
+        "normalizedName": "Poppy Seed"
+      },
+      {
+        "ingredient": "1 teaspoon celery salt",
+        "searchTerm": "celery salt",
+        "normalizedName": "Celery Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bread knife",
+        "searchTerm": "bread knife"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cut the bread into a crosshatch pattern without cutting through the bottom crust",
+      "Stuff cheese and onions into slits, then drizzle butter generously over top"
+    ],
+    "coachingPrompt": "How can we ensure the cheese melts throughout while keeping the bread crispy?"
+  },
+  "timestamp": "2026-02-06T01:53:00.002Z"
+}

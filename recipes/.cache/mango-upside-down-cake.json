@@ -1,0 +1,68 @@
+{
+  "contentHash": "ec2f9907910f2800",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ripe mangoes, peeled and thinly sliced",
+        "searchTerm": "mango",
+        "normalizedName": "Mango"
+      },
+      {
+        "ingredient": "⅔ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 eggs, lightly beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ cup plain Greek yogurt",
+        "searchTerm": "Greek yogurt",
+        "normalizedName": "Greek Yogurt"
+      },
+      {
+        "ingredient": "½ cup sunflower seed oil",
+        "searchTerm": "sunflower oil",
+        "normalizedName": "Sunflower Oil"
+      },
+      {
+        "ingredient": "1 ⅓ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "⅓ cup unsweetened shredded coconut",
+        "searchTerm": "shredded coconut",
+        "normalizedName": "Shredded Coconut"
+      },
+      {
+        "ingredient": "1 ½ teaspoons baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "round cake pan",
+        "searchTerm": "9-inch cake pan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Arrange mango slices in a pattern at the bottom of pan before pouring batter",
+      "Use oil instead of butter for moister cake texture",
+      "Cool cake briefly before inverting to release mango layer properly"
+    ],
+    "coachingPrompt": "I'm making an upside-down mango cake. How long should I let it cool before flipping it?"
+  },
+  "timestamp": "2026-02-06T11:52:41.834Z"
+}

@@ -1,0 +1,59 @@
+{
+  "contentHash": "db58f254de8edf96",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup almonds",
+        "searchTerm": "almonds",
+        "normalizedName": "Almond"
+      },
+      {
+        "ingredient": "3 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 ½ cups fresh basil leaves",
+        "searchTerm": "fresh basil",
+        "normalizedName": "Fresh Basil"
+      },
+      {
+        "ingredient": "½ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 pinch ground nutmeg",
+        "searchTerm": "nutmeg",
+        "normalizedName": "Ground Nutmeg"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "jar",
+        "searchTerm": "storage jar"
+      }
+    ],
+    "cookingTips": [
+      "Pulse ingredients rather than continuous blending to prevent oxidation and browning",
+      "Add oil gradually while processing for emulsion",
+      "Use immediately or store with plastic wrap directly on surface to prevent browning"
+    ],
+    "coachingPrompt": "Homemade pesto tastes fresher than jarred. Do you have a food processor or blender?"
+  },
+  "timestamp": "2026-02-06T05:55:06.302Z"
+}

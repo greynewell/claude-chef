@@ -1,0 +1,68 @@
+{
+  "contentHash": "5f7fa317cafd0125",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "egg",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "active dry yeast",
+        "searchTerm": "yeast active dry",
+        "normalizedName": "Active Dry Yeast"
+      },
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "flour all-purpose",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "kitchen scale or measuring cups",
+        "searchTerm": "scale"
+      }
+    ],
+    "cookingTips": [
+      "Warm milk to 110°F before adding yeast for proper activation",
+      "Let dough rise until doubled in size for light, fluffy rolls",
+      "Brush with melted margarine before and after baking"
+    ],
+    "coachingPrompt": "How do I achieve perfectly fluffy rolls with the right rise time and temperature?"
+  },
+  "timestamp": "2026-02-06T21:28:38.624Z"
+}

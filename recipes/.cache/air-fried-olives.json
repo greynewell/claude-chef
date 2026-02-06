@@ -1,0 +1,58 @@
+{
+  "contentHash": "329441a7911a4af4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "large egg",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "panko bread crumbs",
+        "searchTerm": "panko bread crumbs",
+        "normalizedName": "Panko Bread Crumbs"
+      },
+      {
+        "ingredient": "grated Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "jalapeno-stuffed green olives",
+        "searchTerm": "stuffed olives",
+        "normalizedName": "Stuffed Olive"
+      },
+      {
+        "ingredient": "nonstick cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      }
+    ],
+    "gear": [
+      {
+        "name": "air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "shallow dishes",
+        "searchTerm": "shallow dishes"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Thoroughly dry olives with paper towels before breading to ensure proper coating adherence",
+      "Mix Parmesan into bread crumbs for savory flavor boost",
+      "Don't overcrowd air fryer basket; spread olives in single layer"
+    ],
+    "coachingPrompt": "Walk me through drying, breading, and air frying the olives until golden brown and crispy."
+  },
+  "timestamp": "2026-02-05T21:37:13.643Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "19ea71b4f6fff9af",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup unsalted butter, softened",
+        "searchTerm": "unsalted butter",
+        "normalizedName": "Unsalted Butter"
+      },
+      {
+        "ingredient": "3 cups confectioners' sugar",
+        "searchTerm": "confectioners sugar",
+        "normalizedName": "Confectioners' Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      },
+      {
+        "ingredient": "⅓ cup cherry preserves, or more to taste",
+        "searchTerm": "cherry preserves",
+        "normalizedName": "Cherry Preserves"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "offset spatula",
+        "searchTerm": "offset spatula"
+      }
+    ],
+    "cookingTips": [
+      "Beat butter alone for 1-2 minutes to incorporate air before adding sugar",
+      "Add confectioners' sugar gradually to avoid lumps and achieve smooth consistency",
+      "Adjust heavy cream amount to reach desired spreading consistency"
+    ],
+    "coachingPrompt": "Guide the user through proper buttercream technique and how to incorporate cherry preserves evenly for consistent flavor."
+  },
+  "timestamp": "2026-02-06T02:14:54.351Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "9e9701fe088edfc7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground pork sausage",
+        "searchTerm": "pork sausage",
+        "normalizedName": "Pork Sausage"
+      },
+      {
+        "ingredient": "3 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "3 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "measuring spoons",
+        "searchTerm": "measuring spoons"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausage completely and crumble into small pieces",
+      "Sprinkle flour directly over sausage and stir constantly to create a smooth roux",
+      "Slowly add milk while whisking to prevent lumps from forming"
+    ],
+    "coachingPrompt": "This is the simplest sausage gravy recipe. What techniques would ensure a smooth, creamy consistency?"
+  },
+  "timestamp": "2026-02-06T16:59:36.790Z"
+}

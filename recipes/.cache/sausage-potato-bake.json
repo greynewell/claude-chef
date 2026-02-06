@@ -1,0 +1,48 @@
+{
+  "contentHash": "df7cf031df641bfc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 cups cubed potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 pound smoked sausage, sliced",
+        "searchTerm": "smoked sausage",
+        "normalizedName": "Smoked Sausage"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can  condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can  condensed vegetable beef soup",
+        "searchTerm": "vegetable beef soup",
+        "normalizedName": "Vegetable Beef Soup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large baking dish",
+        "searchTerm": "9x13 baking dish"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes into uniform small cubes for even cooking",
+      "Brown sausage slices to add color and flavor before combining with other ingredients",
+      "Stir the casserole halfway through baking to ensure even cooking"
+    ],
+    "coachingPrompt": "Guide the user through building a convenient casserole by balancing the simplicity of canned soups with homemade potato and sausage quality."
+  },
+  "timestamp": "2026-02-06T17:00:35.378Z"
+}

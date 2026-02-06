@@ -1,0 +1,73 @@
+{
+  "contentHash": "1ae49c3d097555a6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 tablespoons vanilla yogurt",
+        "searchTerm": "vanilla yogurt",
+        "normalizedName": "Vanilla Yogurt"
+      },
+      {
+        "ingredient": "2 tablespoons chopped walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "1 tablespoon all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 tablespoon flax seed meal",
+        "searchTerm": "flax seed meal",
+        "normalizedName": "Flax Seed Meal"
+      },
+      {
+        "ingredient": "1 tablespoon quick-cooking oats",
+        "searchTerm": "quick-cooking oats",
+        "normalizedName": "Quick-Cooking Oat"
+      },
+      {
+        "ingredient": "1 tablespoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "2 teaspoons ground cinnamon",
+        "searchTerm": "ground cinnamon",
+        "normalizedName": "Ground Cinnamon"
+      },
+      {
+        "ingredient": "½ teaspoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "microwave-safe mug",
+        "searchTerm": "microwave mug"
+      },
+      {
+        "name": "microwave",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Fill the mug only halfway to allow room for the muffin to rise",
+      "Microwave in 60-90 second intervals, checking for doneness to avoid overcooking",
+      "Let cool for 1-2 minutes before eating as the mug will be hot"
+    ],
+    "coachingPrompt": "What adjustments would you make to cooking time if using a larger microwave-safe mug?"
+  },
+  "timestamp": "2026-02-06T03:24:38.740Z"
+}

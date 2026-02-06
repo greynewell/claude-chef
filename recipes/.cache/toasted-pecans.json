@@ -1,0 +1,43 @@
+{
+  "contentHash": "cbfd27e521d89658",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "6 cups shelled pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Toss pecans frequently to ensure even coating and prevent burning",
+      "Watch carefully near end of cooking as they burn quickly",
+      "Spread on paper towels immediately to cool and crispen"
+    ],
+    "coachingPrompt": "Do you prefer lightly toasted or deeply browned pecans? Should we discuss storage methods?"
+  },
+  "timestamp": "2026-02-06T20:51:17.459Z"
+}

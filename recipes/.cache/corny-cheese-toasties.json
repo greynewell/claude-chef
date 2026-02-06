@@ -1,0 +1,52 @@
+{
+  "contentHash": "78b19d7c47754fdd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 slice canned corned beef",
+        "searchTerm": "canned corned beef",
+        "normalizedName": "Corned Beef"
+      },
+      {
+        "ingredient": "1 slice American processed cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Butter the outside of bread for a crispy, golden crust",
+      "Cook over medium heat to ensure cheese melts completely without burning the bread"
+    ],
+    "coachingPrompt": "Do you prefer your melts pressed flat or loose? I can adjust cooking time recommendations."
+  },
+  "timestamp": "2026-02-06T03:55:25.469Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "40d285b2123f0a78",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 garlic and herb pork tenderloin",
+        "searchTerm": "pork tenderloin",
+        "normalizedName": "Pork Tenderloin"
+      },
+      {
+        "ingredient": "6 large red potatoes",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "16 green beans, trimmed, or more to taste",
+        "searchTerm": "green beans",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow Cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Check meat temperature for doneness instead of relying on time",
+      "Add green beans in the last 45 minutes to prevent overcooking",
+      "Let tenderloin rest 5 minutes after cooking before slicing"
+    ],
+    "coachingPrompt": "What internal temperature should pork tenderloin reach for food safety?"
+  },
+  "timestamp": "2026-02-06T18:10:18.809Z"
+}

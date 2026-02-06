@@ -1,0 +1,58 @@
+{
+  "contentHash": "3aa82b0e4e99c48b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground turkey",
+        "searchTerm": "ground turkey",
+        "normalizedName": "Ground Turkey"
+      },
+      {
+        "ingredient": "1 (16 ounce) package frozen corn",
+        "searchTerm": "frozen corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "1 (15 ounce) can black beans",
+        "searchTerm": "black beans",
+        "normalizedName": "Black Bean"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can diced tomatoes",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "1 (1 ounce) package taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning"
+      },
+      {
+        "ingredient": "romaine leaves",
+        "searchTerm": "romaine lettuce",
+        "normalizedName": "Romaine Lettuce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Brown ground turkey over medium-high heat until fully cooked and no pink remains",
+      "Drain canned ingredients well to prevent soggy lettuce wraps",
+      "Warm the filling just before serving and assemble wraps at the table for fresh, crisp leaves"
+    ],
+    "coachingPrompt": "These are a light, healthy alternative to traditional tacos. How will you keep the lettuce leaves crisp while serving warm filling?"
+  },
+  "timestamp": "2026-02-06T20:13:27.050Z"
+}

@@ -1,0 +1,68 @@
+{
+  "contentHash": "fdcc30d70cd01518",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 (1 ounce) slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "4 slices Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 large tomato, sliced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "2 serrano peppers, seeded and thinly sliced",
+        "searchTerm": "serrano pepper",
+        "normalizedName": "Serrano Pepper"
+      },
+      {
+        "ingredient": "2 teaspoons dried basil",
+        "searchTerm": "dried basil",
+        "normalizedName": "Dried Basil"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Seed serrano peppers for less heat, or leave seeds for spicier sandwich",
+      "Pat tomato slices dry to prevent sandwich from getting soggy",
+      "Dried basil releases more flavor when warmed, so add it before grilling"
+    ],
+    "coachingPrompt": "Guide the user on handling spicy peppers safely, balancing heat with the other ingredients, and moisture management for a perfect texture."
+  },
+  "timestamp": "2026-02-06T08:12:09.122Z"
+}

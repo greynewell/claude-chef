@@ -1,0 +1,48 @@
+{
+  "contentHash": "fbca82f2b9745f76",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "4 small seedless cucumbers",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "4 small dill pickles",
+        "searchTerm": "dill pickle",
+        "normalizedName": "Dill Pickle"
+      },
+      {
+        "ingredient": "3 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Boil eggs until hard-cooked, then chill before dicing",
+      "Chop all ingredients into uniform bite-sized pieces",
+      "Gently fold ingredients together to avoid breaking the egg pieces"
+    ],
+    "coachingPrompt": "Guide the user through boiling eggs properly and suggest serving options like on lettuce or as a sandwich filling."
+  },
+  "timestamp": "2026-02-06T04:49:39.527Z"
+}

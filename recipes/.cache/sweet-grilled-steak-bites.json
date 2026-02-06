@@ -1,0 +1,57 @@
+{
+  "contentHash": "87d5cc0c5f69176b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 pounds cubed beef stew meat",
+        "searchTerm": "beef stew meat",
+        "normalizedName": "Beef Stew Meat"
+      },
+      {
+        "ingredient": "½ teaspoon Greek seasoning, or to taste",
+        "searchTerm": "Greek seasoning",
+        "normalizedName": "Greek Seasoning"
+      },
+      {
+        "ingredient": "¼ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "⅓ cup dark corn syrup",
+        "searchTerm": "dark corn syrup",
+        "normalizedName": "Dark Corn Syrup"
+      },
+      {
+        "ingredient": "1 teaspoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "½ teaspoon seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "metal skewers",
+        "searchTerm": "skewers"
+      }
+    ],
+    "cookingTips": [
+      "Marinate steak cubes in glaze for 30 minutes before grilling for deeper flavor",
+      "Grill over medium-high heat for 3-4 minutes per side for medium-rare"
+    ],
+    "coachingPrompt": "Advise on marinade time, skewer preparation, and how to achieve perfect doneness for bite-sized steak pieces."
+  },
+  "timestamp": "2026-02-06T20:03:15.695Z"
+}

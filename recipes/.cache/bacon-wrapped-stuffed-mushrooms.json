@@ -1,0 +1,48 @@
+{
+  "contentHash": "b89aac572ad72d06",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup chopped green onions",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "2 (8 ounce) packages cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "20 fresh mushrooms, stems removed",
+        "searchTerm": "fresh mushrooms",
+        "normalizedName": "Fresh Mushroom"
+      },
+      {
+        "ingredient": "1 pound sliced bacon, cut in half",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Mix softened cream cheese with chopped green onions for a flavorful filling",
+      "Fill mushroom caps generously with mixture before wrapping each with bacon",
+      "Bake at 400°F for 20-25 minutes until bacon is crispy and mushrooms are tender"
+    ],
+    "coachingPrompt": "Explain the importance of removing mushroom stems and help the user understand the filling consistency needed."
+  },
+  "timestamp": "2026-02-05T22:54:35.194Z"
+}

@@ -1,0 +1,53 @@
+{
+  "contentHash": "31fbde404e4b6dd7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 ⅓ tablespoons butter, softened",
+        "searchTerm": "butter softened",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "½ cup unsweetened cocoa powder",
+        "searchTerm": "cocoa powder unsweetened",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "3 tablespoons boiling water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 ½ cups confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Electric Mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Boiling water blooms the cocoa powder and adds depth of flavor",
+      "Beat butter until creamy before adding other ingredients for smooth texture",
+      "Add powdered sugar gradually to avoid lumps"
+    ],
+    "coachingPrompt": "Guide the user through proper frosting consistency and how boiling water enhances chocolate flavor intensity."
+  },
+  "timestamp": "2026-02-06T15:41:12.350Z"
+}

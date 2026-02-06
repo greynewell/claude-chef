@@ -1,0 +1,57 @@
+{
+  "contentHash": "2d88d8fd8285ac8e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 (4 ounce) skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "2 teaspoons herbes de Provence",
+        "searchTerm": "herbes de Provence",
+        "normalizedName": "Herbes de Provence"
+      },
+      {
+        "ingredient": "2 teaspoons garlic paste",
+        "searchTerm": "garlic paste",
+        "normalizedName": "Garlic Paste"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "4 strips lemon zest",
+        "searchTerm": "lemon zest",
+        "normalizedName": "Lemon Zest"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Sous Vide Machine",
+        "searchTerm": "immersion circulator"
+      },
+      {
+        "name": "Vacuum Bags",
+        "searchTerm": "vacuum sealer bags"
+      },
+      {
+        "name": "Vacuum Sealer",
+        "searchTerm": "vacuum sealer"
+      }
+    ],
+    "cookingTips": [
+      "Cook at 165°F (74°C) for safe, juicy chicken that stays moist throughout",
+      "Finish with a quick sear in hot oil to develop golden crust and browning"
+    ],
+    "coachingPrompt": "Help the user understand how sous vide achieves perfectly moist chicken by avoiding overcooking, and why the finishing sear is essential for texture."
+  },
+  "timestamp": "2026-02-06T18:38:23.425Z"
+}

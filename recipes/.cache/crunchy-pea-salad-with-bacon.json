@@ -1,0 +1,63 @@
+{
+  "contentHash": "633d6d11effb5fbe",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup zesty Italian-style salad dressing",
+        "searchTerm": "Italian salad dressing",
+        "normalizedName": "Italian Salad Dressing"
+      },
+      {
+        "ingredient": "½ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 (10 ounce) package frozen peas",
+        "searchTerm": "frozen peas",
+        "normalizedName": "Frozen Pea"
+      },
+      {
+        "ingredient": "1 cup chopped celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 cup chopped peanuts",
+        "searchTerm": "peanuts",
+        "normalizedName": "Peanut"
+      },
+      {
+        "ingredient": "¼ cup chopped red onion",
+        "searchTerm": "red onion",
+        "normalizedName": "Red Onion"
+      },
+      {
+        "ingredient": "5 slices cooked bacon, crumbled",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "chopping board"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "frying pan"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, then crumble while still warm for best texture",
+      "Keep peas frozen until just before mixing to prevent them from getting mushy",
+      "Toss salad just before serving to keep peanuts and bacon from becoming soggy"
+    ],
+    "coachingPrompt": "This salad balances multiple crunchy textures—celery, peanuts, bacon—with creamy elements. Guide the cook on sequencing ingredients and when to combine them. Why is timing crucial here?"
+  },
+  "timestamp": "2026-02-06T04:44:41.396Z"
+}

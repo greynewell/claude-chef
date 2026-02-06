@@ -1,0 +1,73 @@
+{
+  "contentHash": "3fb4db58c8d82dfd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 head broccoli, chopped",
+        "searchTerm": "fresh broccoli",
+        "normalizedName": "Fresh Broccoli"
+      },
+      {
+        "ingredient": "2 teaspoons vegetable oil, or as needed",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 (16 ounce) container cottage cheese",
+        "searchTerm": "cottage cheese",
+        "normalizedName": "Cottage Cheese"
+      },
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "½ (8 ounce) package shredded sharp Cheddar cheese",
+        "searchTerm": "sharp Cheddar cheese",
+        "normalizedName": "Sharp Cheddar Cheese"
+      },
+      {
+        "ingredient": "¼ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "casserole dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "blender or food processor",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Blend cottage cheese smooth with eggs before folding in broccoli for creamy texture",
+      "Lightly oil casserole dish to prevent sticking",
+      "Let casserole rest 5 minutes after baking before serving"
+    ],
+    "coachingPrompt": "How would you adjust the consistency by varying the cottage cheese-to-egg ratio?"
+  },
+  "timestamp": "2026-02-06T05:34:59.998Z"
+}

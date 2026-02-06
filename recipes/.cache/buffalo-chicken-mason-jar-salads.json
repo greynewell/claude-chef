@@ -1,0 +1,68 @@
+{
+  "contentHash": "228a3a52e1b67064",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 ounces cucumber ranch salad dressing",
+        "searchTerm": "cucumber ranch dressing",
+        "normalizedName": "Cucumber Ranch Dressing"
+      },
+      {
+        "ingredient": "2 tablespoons Buffalo-style hot pepper sauce (such as Frank's® RedHot)",
+        "searchTerm": "buffalo hot sauce",
+        "normalizedName": "Buffalo Hot Sauce"
+      },
+      {
+        "ingredient": "4 stalks celery, cut into 1/8-inch slices",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "4 medium carrots, cut into 1/8-inch slices",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "15 ounces cooked chicken, cut into bite-sized pieces",
+        "searchTerm": "cooked chicken",
+        "normalizedName": "Cooked Chicken"
+      },
+      {
+        "ingredient": "10 cups salad greens",
+        "searchTerm": "salad greens",
+        "normalizedName": "Salad Green"
+      },
+      {
+        "ingredient": "1 ¼ cups crumbled blue cheese",
+        "searchTerm": "blue cheese",
+        "normalizedName": "Blue Cheese"
+      },
+      {
+        "ingredient": "¾ cup croutons (Optional)",
+        "searchTerm": "croutons",
+        "normalizedName": "Crouton"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mason jars (quart size)",
+        "searchTerm": "mason jar"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Layer dressing first at bottom of jar to prevent greens from wilting",
+      "Pack vegetables in order of density before adding greens on top",
+      "Store in refrigerator up to 5 days; shake before eating"
+    ],
+    "coachingPrompt": "Guide the user through layering a mason jar salad strategically to keep ingredients fresh and crisp throughout the week."
+  },
+  "timestamp": "2026-02-06T00:54:57.141Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "298d72f6f44053e6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh dill",
+        "searchTerm": "fresh dill",
+        "normalizedName": "Dill"
+      },
+      {
+        "ingredient": "2 teaspoons Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "3 pinches brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "½ pound salmon fillet, skin on",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Make the dill sauce ahead and serve chilled for best flavor",
+      "Fresh dill is essential—dried dill loses its delicate flavor",
+      "Oil the grill grates well to prevent salmon skin from sticking"
+    ],
+    "coachingPrompt": "Show the user how fresh dill and a touch of brown sugar balance mayonnaise for a classic salmon pairing."
+  },
+  "timestamp": "2026-02-06T08:25:10.179Z"
+}

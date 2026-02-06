@@ -1,0 +1,53 @@
+{
+  "contentHash": "c23684f5de397cc9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 egg whites",
+        "searchTerm": "egg whites",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "¼ teaspoon cream of tartar",
+        "searchTerm": "cream of tartar",
+        "normalizedName": "Cream of Tartar"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "pie pan",
+        "searchTerm": "pie pan"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Create a thick meringue by beating until stiff peaks form",
+      "Spread meringue into pie pan and shape up the sides with the back of a spoon",
+      "Bake at 250°F for 20-30 minutes until light golden and crisp"
+    ],
+    "coachingPrompt": "Have you used meringue crust before? Would you like tips on preventing shrinkage and achieving a crispy texture?"
+  },
+  "timestamp": "2026-02-06T12:15:27.077Z"
+}

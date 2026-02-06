@@ -1,0 +1,73 @@
+{
+  "contentHash": "83bf11a42884c1ea",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound sliced bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "1 large onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "5 medium potatoes, peeled and diced",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 ½ pounds cod fillets, cut into 1 inch cubes",
+        "searchTerm": "cod fillets",
+        "normalizedName": "Cod"
+      },
+      {
+        "ingredient": "1 (12 fluid ounce) can evaporated milk",
+        "searchTerm": "evaporated milk",
+        "normalizedName": "Evaporated Milk"
+      },
+      {
+        "ingredient": "½ cup whole milk",
+        "searchTerm": "whole milk",
+        "normalizedName": "Whole Milk"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy, reserve fat for cooking onions and potatoes",
+      "Add cod in final 5-10 minutes to avoid overcooking delicate fish",
+      "Use evaporated milk for richer, creamier texture without added cream"
+    ],
+    "coachingPrompt": "Why use both evaporated and whole milk for texture? How will you ensure the cod stays tender and doesn't fall apart?"
+  },
+  "timestamp": "2026-02-06T01:35:38.615Z"
+}

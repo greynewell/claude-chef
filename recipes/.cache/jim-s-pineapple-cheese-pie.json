@@ -1,0 +1,53 @@
+{
+  "contentHash": "c81f96f7973975f5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (9 inch) pie crust, baked",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      },
+      {
+        "ingredient": "1 (20 ounce) can crushed pineapple with juice",
+        "searchTerm": "crushed pineapple",
+        "normalizedName": "Crushed Pineapple"
+      },
+      {
+        "ingredient": "1 (8 ounce) container frozen whipped topping, thawed",
+        "searchTerm": "whipped topping",
+        "normalizedName": "Whipped Topping"
+      },
+      {
+        "ingredient": "1 (6 ounce) package pineapple Jell-O®",
+        "searchTerm": "pineapple gelatin",
+        "normalizedName": "Pineapple Gelatin"
+      },
+      {
+        "ingredient": "1 (12 ounce) container whipped cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Pie dish",
+        "searchTerm": "pie dish"
+      }
+    ],
+    "cookingTips": [
+      "Prepare Jell-O according to package and allow to cool before folding in",
+      "Fold ingredients gently to maintain whipped topping's volume",
+      "Chill for at least 4 hours before slicing for clean cuts"
+    ],
+    "coachingPrompt": "How do I prevent the filling from becoming too runny or too stiff?"
+  },
+  "timestamp": "2026-02-06T10:27:47.086Z"
+}

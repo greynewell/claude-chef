@@ -1,0 +1,57 @@
+{
+  "contentHash": "20d182a28eb89a42",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¾ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¾ cup milk, room temperature",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "3 eggs, room temperature",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¾ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "½ cup beef drippings",
+        "searchTerm": "beef drippings",
+        "normalizedName": "Beef Drippings"
+      }
+    ],
+    "gear": [
+      {
+        "name": "muffin tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "All ingredients must be room temperature for proper rise",
+      "Don't open oven door while baking or puddings will collapse"
+    ],
+    "coachingPrompt": "How will you ensure beef drippings are at smoking temperature before adding batter?"
+  },
+  "timestamp": "2026-02-06T22:19:22.589Z"
+}

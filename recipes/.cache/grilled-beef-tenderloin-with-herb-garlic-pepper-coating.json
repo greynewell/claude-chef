@@ -1,0 +1,63 @@
+{
+  "contentHash": "79eb199d1b5cb04c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (5 pound) whole beef tenderloin",
+        "searchTerm": "beef tenderloin",
+        "normalizedName": "Beef Tenderloin"
+      },
+      {
+        "ingredient": "6 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "8 large garlic cloves, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 tablespoons minced fresh rosemary",
+        "searchTerm": "rosemary",
+        "normalizedName": "Rosemary"
+      },
+      {
+        "ingredient": "1 tablespoon dried thyme leaves",
+        "searchTerm": "thyme",
+        "normalizedName": "Thyme"
+      },
+      {
+        "ingredient": "2 tablespoons coarsely ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "meat thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Rub herb-garlic coating all over tenderloin and let sit 30 minutes before grilling",
+      "Grill over medium-high heat for 30-40 minutes for medium-rare (internal temp 135°F)",
+      "Rest the tenderloin for 10 minutes before slicing for maximum juiciness"
+    ],
+    "coachingPrompt": "Guide the user on preparing an even herb coating and achieving proper internal temperature without overcooking."
+  },
+  "timestamp": "2026-02-06T08:10:19.111Z"
+}

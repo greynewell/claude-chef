@@ -1,0 +1,48 @@
+{
+  "contentHash": "55a5a884b3b48e22",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds thin cut round steak",
+        "searchTerm": "round steak",
+        "normalizedName": "Round Steak"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 (10.5 ounce) can condensed French onion soup",
+        "searchTerm": "French onion soup",
+        "normalizedName": "French Onion Soup"
+      },
+      {
+        "ingredient": "1 (10.75 ounce) can water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "crock pot"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "prep board"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "meat tongs"
+      }
+    ],
+    "cookingTips": [
+      "Cut steak into serving-size pieces for even cooking and easier serving",
+      "Layer steak in slow cooker and pour soups over top without stirring initially",
+      "Cook on low for 6-8 hours until meat is fork-tender"
+    ],
+    "coachingPrompt": "How do we ensure the round steak becomes tender and flavorful without drying out in the slow cooker?"
+  },
+  "timestamp": "2026-02-06T16:36:12.780Z"
+}

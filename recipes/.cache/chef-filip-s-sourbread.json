@@ -1,0 +1,68 @@
+{
+  "contentHash": "99002718a6791969",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "flour all purpose",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "malt powder",
+        "searchTerm": "malt powder",
+        "normalizedName": "Malt Powder"
+      },
+      {
+        "ingredient": "honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "sourdough starter",
+        "searchTerm": "sourdough starter",
+        "normalizedName": "Sourdough Starter"
+      },
+      {
+        "ingredient": "gluten",
+        "searchTerm": "vital wheat gluten",
+        "normalizedName": "Gluten"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "stand mixer",
+        "searchTerm": "stand mixer"
+      },
+      {
+        "name": "proofing basket",
+        "searchTerm": "proofing basket banneton"
+      },
+      {
+        "name": "Dutch oven",
+        "searchTerm": "Dutch oven"
+      }
+    ],
+    "cookingTips": [
+      "Maintain sourdough starter at peak activity before using",
+      "Allow long fermentation times for deep flavor development",
+      "Score dough before baking to control expansion"
+    ],
+    "coachingPrompt": "How will you recognize when your dough has undergone proper bulk fermentation and is ready to shape?"
+  },
+  "timestamp": "2026-02-06T01:55:55.345Z"
+}

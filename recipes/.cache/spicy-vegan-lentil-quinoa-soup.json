@@ -1,0 +1,72 @@
+{
+  "contentHash": "db2082fd8187b1ef",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup chopped celery",
+        "searchTerm": "celery",
+        "normalizedName": "Celery"
+      },
+      {
+        "ingredient": "1 cup dry lentils",
+        "searchTerm": "lentil",
+        "normalizedName": "Lentil"
+      },
+      {
+        "ingredient": "½ cup quinoa",
+        "searchTerm": "quinoa",
+        "normalizedName": "Quinoa"
+      },
+      {
+        "ingredient": "½ cup chopped carrots",
+        "searchTerm": "carrot",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "½ cup mushrooms",
+        "searchTerm": "mushroom",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "1 tablespoon chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "1 tablespoon cumin",
+        "searchTerm": "cumin",
+        "normalizedName": "Cumin"
+      },
+      {
+        "ingredient": "1 tablespoon ground ginger",
+        "searchTerm": "ground ginger",
+        "normalizedName": "Ground Ginger"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Measuring cups",
+        "searchTerm": "measuring cup"
+      }
+    ],
+    "cookingTips": [
+      "Rinse quinoa and lentils before cooking to remove any debris",
+      "Simmer for 30-35 minutes until both lentils and quinoa are tender"
+    ],
+    "coachingPrompt": "Guide the cook through cooking times for lentils and quinoa to ensure they finish simultaneously."
+  },
+  "timestamp": "2026-02-06T19:11:54.838Z"
+}

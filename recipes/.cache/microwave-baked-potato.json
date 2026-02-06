@@ -1,0 +1,58 @@
+{
+  "contentHash": "816ddd5fa835131b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 large russet potato",
+        "searchTerm": "russet potato",
+        "normalizedName": "Russet Potato"
+      },
+      {
+        "ingredient": "1 tablespoon butter or margarine",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "3 tablespoons shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "3 teaspoons sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Microwave",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "Microwave-Safe Plate",
+        "searchTerm": "microwave-safe plate"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Prick potato several times with a fork to allow steam to escape and prevent explosion",
+      "Microwave on high for 5-7 minutes depending on potato size; it's done when knife pierces easily",
+      "Let stand 2 minutes after microwaving before splitting to complete cooking"
+    ],
+    "coachingPrompt": "Help me microwave a perfectly tender potato with a creamy, cheesy topping."
+  },
+  "timestamp": "2026-02-06T12:24:58.857Z"
+}

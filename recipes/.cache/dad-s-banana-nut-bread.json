@@ -1,0 +1,63 @@
+{
+  "contentHash": "8f374e38db846601",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 very ripe bananas, mashed",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "1 cup self-rising flour",
+        "searchTerm": "self-rising flour",
+        "normalizedName": "Self-Rising Flour"
+      },
+      {
+        "ingredient": "¼ cup flax seed meal",
+        "searchTerm": "flax seed meal",
+        "normalizedName": "Flax Seed Meal"
+      },
+      {
+        "ingredient": "½ cup chopped walnuts (Optional)",
+        "searchTerm": "walnut",
+        "normalizedName": "Walnut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "Stand mixer",
+        "searchTerm": "stand mixer"
+      },
+      {
+        "name": "Wire rack",
+        "searchTerm": "wire rack"
+      }
+    ],
+    "cookingTips": [
+      "Use very ripe bananas with brown spots for maximum sweetness and moisture",
+      "Don't overmix the batter after adding flour to keep bread tender",
+      "Flax seed meal adds nutrition and subtle nutty flavor to the bread"
+    ],
+    "coachingPrompt": "Help the baker understand why banana ripeness matters and how self-rising flour simplifies the recipe."
+  },
+  "timestamp": "2026-02-06T04:55:52.682Z"
+}

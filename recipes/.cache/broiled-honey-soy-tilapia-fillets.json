@@ -1,0 +1,58 @@
+{
+  "contentHash": "7bf73948da5d9fc9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 tablespoon vinegar",
+        "searchTerm": "vinegar",
+        "normalizedName": "Vinegar"
+      },
+      {
+        "ingredient": "1 tablespoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 tilapia fillets",
+        "searchTerm": "tilapia fillets",
+        "normalizedName": "Tilapia"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Broiler pan",
+        "searchTerm": "broiler pan"
+      },
+      {
+        "name": "Small bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Whisk glaze ingredients together before broiling for even distribution",
+      "Tilapia is delicate; broil at moderate distance from heat to prevent drying",
+      "Baste fillets with glaze halfway through cooking for shine and flavor"
+    ],
+    "coachingPrompt": "How will you know when delicate tilapia fillets are done cooking without overhandling them?"
+  },
+  "timestamp": "2026-02-06T00:45:33.137Z"
+}

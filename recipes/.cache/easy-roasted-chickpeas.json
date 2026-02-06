@@ -1,0 +1,43 @@
+{
+  "contentHash": "5f49296259514359",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound dried chickpeas (garbanzo beans)",
+        "searchTerm": "chickpeas",
+        "normalizedName": "Chickpea"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "kosher salt to taste",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "sheet pan",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "strainer"
+      }
+    ],
+    "cookingTips": [
+      "Soak dried chickpeas overnight, then cook until tender before roasting",
+      "Pat chickpeas dry thoroughly for maximum crispiness",
+      "Roast at 400°F for 30-40 minutes, shaking pan halfway through"
+    ],
+    "coachingPrompt": "Why is drying chickpeas important before roasting?"
+  },
+  "timestamp": "2026-02-06T05:57:41.951Z"
+}

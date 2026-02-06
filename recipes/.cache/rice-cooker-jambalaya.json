@@ -1,0 +1,63 @@
+{
+  "contentHash": "5cd9a3e336fb01a0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups rice",
+        "searchTerm": "rice",
+        "normalizedName": "Rice"
+      },
+      {
+        "ingredient": "1 pound shrimp, peeled and deveined",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 (10 ounce) can tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "1 bell pepper, minced",
+        "searchTerm": "bell pepper",
+        "normalizedName": "Bell Pepper"
+      },
+      {
+        "ingredient": "½ cup margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "1 (4 ounce) jar mushrooms, undrained",
+        "searchTerm": "canned mushrooms",
+        "normalizedName": "Canned Mushroom"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Rice cooker",
+        "searchTerm": "rice cooker"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Add shrimp in the last 5-10 minutes of cooking to prevent overcooking",
+      "Use the rice cooker's steam to cook vegetables gently while the rice cooks",
+      "Stir mixture before adding shrimp to ensure even heat distribution"
+    ],
+    "coachingPrompt": "What's the advantage of one-pot cooking? How do you ensure shrimp cooks properly in this method?"
+  },
+  "timestamp": "2026-02-06T16:13:04.058Z"
+}

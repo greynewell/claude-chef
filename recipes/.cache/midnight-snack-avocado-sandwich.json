@@ -1,0 +1,73 @@
+{
+  "contentHash": "77f714864e741e6c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices bacon, cut into 1-inch pieces",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 green onions, chopped",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 tablespoon mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 slices whole wheat bread, toasted",
+        "searchTerm": "whole wheat bread",
+        "normalizedName": "Whole Wheat Bread"
+      },
+      {
+        "ingredient": "½ avocado, mashed",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "3 slices tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "⅓ cup alfalfa sprouts",
+        "searchTerm": "alfalfa sprout",
+        "normalizedName": "Alfalfa Sprout"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy for best flavor and texture contrast",
+      "Mash avocado just before assembling to prevent browning",
+      "Toast bread while bacon cooks to save time and prevent sogginess"
+    ],
+    "coachingPrompt": "How do you balance timing so all components are ready together for this quick sandwich?"
+  },
+  "timestamp": "2026-02-06T12:26:40.270Z"
+}

@@ -1,0 +1,62 @@
+{
+  "contentHash": "c9d1ad3767fdf699",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound peppered bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "3 medium potatoes, chopped",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "3 medium carrots, peeled and chopped",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 medium onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "garlic salt to taste",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Dutch oven",
+        "searchTerm": "Dutch oven"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      }
+    ],
+    "cookingTips": [
+      "Render bacon fat first to add flavor to the entire dish",
+      "Cut potatoes uniformly so they cook at the same rate as chicken"
+    ],
+    "coachingPrompt": "This one-pot meal layers meat and vegetables. What's the best sequence for adding ingredients to ensure everything finishes cooking together?"
+  },
+  "timestamp": "2026-02-06T02:33:03.987Z"
+}

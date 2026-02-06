@@ -1,0 +1,48 @@
+{
+  "contentHash": "79eab42fd8c309ee",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (15.25 ounce) package yellow cake mix",
+        "searchTerm": "yellow cake mix",
+        "normalizedName": "Yellow Cake Mix"
+      },
+      {
+        "ingredient": "2 cups mini chocolate chips",
+        "searchTerm": "chocolate chips mini",
+        "normalizedName": "Mini Chocolate Chip"
+      },
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "5 tablespoons butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cake Pan",
+        "searchTerm": "cake pan"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Use a cake mix as the base for convenience without sacrificing texture",
+      "Mini chocolate chips distribute more evenly than regular chips",
+      "Don't overmix batter; stir just until combined to maintain tenderness"
+    ],
+    "coachingPrompt": "Explain how using cake mix as a shortcut still yields a homemade-tasting result with added chocolate chips."
+  },
+  "timestamp": "2026-02-06T15:41:12.350Z"
+}

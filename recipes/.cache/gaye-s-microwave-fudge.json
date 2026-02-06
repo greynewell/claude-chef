@@ -1,0 +1,53 @@
+{
+  "contentHash": "00000590d60ab98d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "½ cup unsweetened cocoa powder",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "¼ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "½ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 teaspoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "microwave-safe bowl",
+        "searchTerm": "microwave-safe bowl"
+      },
+      {
+        "name": "mixing spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "baking pan",
+        "searchTerm": "baking pan"
+      }
+    ],
+    "cookingTips": [
+      "Microwave in 30-second intervals, stirring between, to prevent scorching",
+      "Mix powdered sugar and cocoa before adding wet ingredients to avoid lumps",
+      "Pour into lined pan and let cool completely before cutting"
+    ],
+    "coachingPrompt": "How do I get smooth, creamy microwave fudge without it becoming grainy or separated?"
+  },
+  "timestamp": "2026-02-06T07:22:58.335Z"
+}

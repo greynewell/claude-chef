@@ -1,0 +1,62 @@
+{
+  "contentHash": "efc171fcd44bfb40",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups vegetable oil, or as needed",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 cup all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "2 tablespoons garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "6 jalapeno peppers - halved, seeded, and sliced into fry-shaped pieces",
+        "searchTerm": "jalapeno peppers",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep fryer or pot",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Heat oil to 350°F before frying for crispy exterior",
+      "Pat jalapeno slices dry before breading to ensure better coating"
+    ],
+    "coachingPrompt": "Help the user maintain proper oil temperature and avoid overcrowding the pan for perfectly crispy jalapeno fries."
+  },
+  "timestamp": "2026-02-06T10:14:39.291Z"
+}

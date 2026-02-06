@@ -1,0 +1,53 @@
+{
+  "contentHash": "da2c70d28c4a3bbb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon fresh herbs (rosemary, thyme and/or basil)",
+        "searchTerm": "fresh herbs",
+        "normalizedName": "Fresh Herb"
+      },
+      {
+        "ingredient": "1 ¼ pounds beef flank steak or boneless sirloin steak",
+        "searchTerm": "flank steak",
+        "normalizedName": "Flank Steak"
+      },
+      {
+        "ingredient": "3 cups chopped assorted vegetables (pepper, zucchini and/or onion)",
+        "searchTerm": "mixed vegetables",
+        "normalizedName": "Mixed Vegetable"
+      },
+      {
+        "ingredient": "1 (5.7 ounce) package Knorr® Rice Sides™ - Cheddar Broccoli",
+        "searchTerm": "rice sides cheddar broccoli",
+        "normalizedName": "Rice Sides Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill pan",
+        "searchTerm": "grill pan"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "grill tongs"
+      }
+    ],
+    "cookingTips": [
+      "Flank steak benefits from high heat and short cooking - 4-5 minutes per side for medium-rare",
+      "Slice steak against the grain for maximum tenderness",
+      "Prep vegetables ahead so assembly is quick once steak finishes"
+    ],
+    "coachingPrompt": "How can you build a complete one-plate meal that balances grilled protein, fresh produce, and comforting rice?"
+  },
+  "timestamp": "2026-02-06T08:27:19.809Z"
+}

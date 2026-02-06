@@ -1,0 +1,43 @@
+{
+  "contentHash": "823108e4845b094d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 tablespoons angel food cake mix",
+        "searchTerm": "angel food cake mix",
+        "normalizedName": "Angel Food Cake Mix"
+      },
+      {
+        "ingredient": "2 teaspoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Microwave-Safe Mug",
+        "searchTerm": "microwave mug"
+      },
+      {
+        "name": "Microwave",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Mix ingredients gently to maintain the light texture of angel food cake mix",
+      "Microwave in 45-second intervals to prevent over-expansion and collapse",
+      "Serve immediately while cake is still warm and fluffy"
+    ],
+    "coachingPrompt": "Guide the user on how to handle the delicate nature of angel food cake and achieve a light crumb structure."
+  },
+  "timestamp": "2026-02-06T12:25:46.980Z"
+}

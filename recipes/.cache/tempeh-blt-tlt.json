@@ -1,0 +1,58 @@
+{
+  "contentHash": "87af36094e54cf3d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "tempeh bacon",
+        "searchTerm": "tempeh bacon",
+        "normalizedName": "Tempeh Bacon"
+      },
+      {
+        "ingredient": "mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "whole wheat bread, toasted",
+        "searchTerm": "whole wheat bread",
+        "normalizedName": "Whole Wheat Bread"
+      },
+      {
+        "ingredient": "green leaf lettuce",
+        "searchTerm": "lettuce",
+        "normalizedName": "Lettuce"
+      },
+      {
+        "ingredient": "ripe tomato",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread until crispy to prevent sogginess from tomato juices",
+      "Layer ingredients in order: mayo, tempeh bacon, lettuce, then tomato",
+      "Slice tomato just before assembly to maintain freshness"
+    ],
+    "coachingPrompt": "Guide assembly technique and explain why layering order matters for texture and flavor distribution in this vegan sandwich."
+  },
+  "timestamp": "2026-02-06T20:23:26.335Z"
+}

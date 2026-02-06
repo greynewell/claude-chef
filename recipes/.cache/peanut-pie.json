@@ -1,0 +1,73 @@
+{
+  "contentHash": "a8a41bc8167895d2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅓ cup creamy peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "⅓ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "⅓ cup light corn syrup",
+        "searchTerm": "light corn syrup",
+        "normalizedName": "Light Corn Syrup"
+      },
+      {
+        "ingredient": "⅓ cup dark corn syrup",
+        "searchTerm": "dark corn syrup",
+        "normalizedName": "Dark Corn Syrup"
+      },
+      {
+        "ingredient": "⅓ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 cup salted peanuts",
+        "searchTerm": "salted peanuts",
+        "normalizedName": "Salted Peanut"
+      },
+      {
+        "ingredient": "1 (9 inch) unbaked pie crust",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9-Inch Pie Dish",
+        "searchTerm": "pie dish"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Allow filling to cool slightly before pouring to prevent crust from becoming soggy",
+      "Cover pie edges with foil if browning too quickly during baking",
+      "Test doneness by checking that center is just set but still slightly jiggly"
+    ],
+    "coachingPrompt": "Guide the user through achieving the perfect custard-like texture and preventing the filling from separating"
+  },
+  "timestamp": "2026-02-06T14:27:28.644Z"
+}

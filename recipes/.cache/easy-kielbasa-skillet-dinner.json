@@ -1,0 +1,62 @@
+{
+  "contentHash": "8ec813e887f196b2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "½ onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "1 (16 ounce) package kielbasa sausage, sliced",
+        "searchTerm": "kielbasa sausage",
+        "normalizedName": "Kielbasa Sausage"
+      },
+      {
+        "ingredient": "½ head broccoli, cut into florets",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "3 potatoes, peeled and sliced",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Slice potatoes thinly and cook them first to ensure even doneness with the sausage.",
+      "Add broccoli near the end of cooking to prevent it from becoming mushy."
+    ],
+    "coachingPrompt": "How can you build a complete one-skillet meal with protein, vegetables, and starch?"
+  },
+  "timestamp": "2026-02-06T05:49:36.361Z"
+}

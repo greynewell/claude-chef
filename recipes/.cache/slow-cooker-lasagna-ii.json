@@ -1,0 +1,68 @@
+{
+  "contentHash": "d2862eba50a08d83",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package lasagna noodles",
+        "searchTerm": "lasagna noodles",
+        "normalizedName": "Lasagna Noodle"
+      },
+      {
+        "ingredient": "1 pound lean ground beef",
+        "searchTerm": "ground beef lean",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "1 ½ (26 ounce) jars spaghetti sauce",
+        "searchTerm": "spaghetti sauce",
+        "normalizedName": "Spaghetti Sauce"
+      },
+      {
+        "ingredient": "2 cups shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese shredded",
+        "normalizedName": "Mozzarella Cheese"
+      },
+      {
+        "ingredient": "½ cup grated Parmesan cheese",
+        "searchTerm": "parmesan cheese grated",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "1 (8 ounce) container ricotta cheese",
+        "searchTerm": "ricotta cheese",
+        "normalizedName": "Ricotta Cheese"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 cups shredded mozzarella cheese",
+        "searchTerm": "mozzarella cheese shredded",
+        "normalizedName": "Mozzarella Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "Large mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Partially cook lasagna noodles before layering to prevent mushiness",
+      "Mix ricotta, eggs, and Parmesan separately for even cheese distribution",
+      "Let lasagna rest 15 minutes after cooking to allow layers to set"
+    ],
+    "coachingPrompt": "How should I layer the noodles, sauce, and cheese to prevent a soggy bottom in the slow cooker?"
+  },
+  "timestamp": "2026-02-06T18:12:32.071Z"
+}

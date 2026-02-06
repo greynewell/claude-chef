@@ -1,0 +1,58 @@
+{
+  "contentHash": "37b90be983fc30c4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 oranges, zested and juiced",
+        "searchTerm": "orange",
+        "normalizedName": "Orange"
+      },
+      {
+        "ingredient": "3 limes, zested and juiced",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ teaspoon salt, or to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "3 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 ½ pounds large shrimp, peeled and deveined",
+        "searchTerm": "large shrimp",
+        "normalizedName": "Shrimp"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "zester",
+        "searchTerm": "zester"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Zest citrus before juicing for easier handling and maximum zest recovery",
+      "Shrimp cooks quickly (2-3 minutes per side); don't overcook or they'll toughen",
+      "Reserve some citrus juice to add after cooking for fresh brightness"
+    ],
+    "coachingPrompt": "Teach the user how to prevent rubbery shrimp and build bright citrus flavor without overwhelming the delicate seafood."
+  },
+  "timestamp": "2026-02-06T03:28:40.812Z"
+}

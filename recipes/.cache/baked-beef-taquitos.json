@@ -1,0 +1,67 @@
+{
+  "contentHash": "47bcc38a69110497",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground beef",
+        "searchTerm": "ground beef",
+        "normalizedName": "Ground Beef"
+      },
+      {
+        "ingredient": "2 cups cooked white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "Rice"
+      },
+      {
+        "ingredient": "2 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 ½ tablespoons chopped red bell pepper",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "12 (6 inch) corn tortillas",
+        "searchTerm": "corn tortilla",
+        "normalizedName": "Corn Tortilla"
+      },
+      {
+        "ingredient": "2 cups salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "1 ½ cups shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Warm tortillas before rolling to prevent cracking",
+      "Roll taquitos tightly and seam-side down to prevent unrolling"
+    ],
+    "coachingPrompt": "Should taquitos be rolled individually and how tightly?"
+  },
+  "timestamp": "2026-02-05T22:59:09.359Z"
+}

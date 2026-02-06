@@ -1,0 +1,63 @@
+{
+  "contentHash": "b2bedc5c93828187",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup light soy sauce",
+        "searchTerm": "light soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "1 ½ tablespoons honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 tablespoon grated fresh ginger",
+        "searchTerm": "fresh ginger",
+        "normalizedName": "Ginger"
+      },
+      {
+        "ingredient": "1 clove garlic, minced",
+        "searchTerm": "fresh garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 pound salmon fillets",
+        "searchTerm": "salmon fillets",
+        "normalizedName": "Salmon Fillet"
+      },
+      {
+        "ingredient": "1 teaspoon sesame oil",
+        "searchTerm": "sesame oil",
+        "normalizedName": "Sesame Oil"
+      },
+      {
+        "ingredient": "2 teaspoons sesame seeds",
+        "searchTerm": "sesame seeds",
+        "normalizedName": "Sesame Seed"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill grates",
+        "searchTerm": "grill grates"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "small bowl"
+      },
+      {
+        "name": "measuring spoons",
+        "searchTerm": "measuring spoons"
+      }
+    ],
+    "cookingTips": [
+      "Oil the grill grates well and let them heat until smoking to prevent fish from sticking",
+      "Marinate salmon only 20-30 minutes; longer marinating will make it mushy from the soy sauce acid",
+      "Toast sesame seeds before serving and sprinkle over the salmon for maximum visual appeal and flavor"
+    ],
+    "coachingPrompt": "Are you grilling indoors or outdoors? I can give you specific tips for preventing the salmon skin from sticking and achieving a nice glaze."
+  },
+  "timestamp": "2026-02-06T17:21:06.543Z"
+}

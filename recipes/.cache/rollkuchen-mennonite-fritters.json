@@ -1,0 +1,52 @@
+{
+  "contentHash": "844d4516bcec5808",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 ½ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 cups canola oil for frying",
+        "searchTerm": "canola oil",
+        "normalizedName": "Canola Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "deep fryer",
+        "searchTerm": "deep fryer"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "slotted spoon"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Maintain oil temperature at 350°F for golden, crispy fritters without burning",
+      "Let batter rest 15 minutes before frying for fluffier texture",
+      "Fry in batches without crowding the pan for even cooking"
+    ],
+    "coachingPrompt": "How do you achieve a light, airy texture in fried dough? What's the ideal oil temperature?"
+  },
+  "timestamp": "2026-02-06T16:32:17.106Z"
+}

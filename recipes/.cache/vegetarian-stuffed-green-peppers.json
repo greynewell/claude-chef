@@ -1,0 +1,58 @@
+{
+  "contentHash": "105985cbee63e63e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup uncooked white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "1 (15 ounce) can black beans, drained and rinsed",
+        "searchTerm": "black bean",
+        "normalizedName": "Black Bean"
+      },
+      {
+        "ingredient": "1 tablespoon chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "4 green bell peppers",
+        "searchTerm": "green bell pepper",
+        "normalizedName": "Green Bell Pepper"
+      },
+      {
+        "ingredient": "16 slices Swiss cheese",
+        "searchTerm": "Swiss cheese",
+        "normalizedName": "Swiss Cheese"
+      },
+      {
+        "ingredient": "1 (15 ounce) can tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "9x13 baking dish"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Cut peppers carefully to create stable base and don't remove too much bottom",
+      "Blanch peppers briefly before stuffing to begin softening process",
+      "Mix rice with beans and seasonings before stuffing for even distribution"
+    ],
+    "coachingPrompt": "Help the user master pepper handling and discuss proper stuffing ratios for balance"
+  },
+  "timestamp": "2026-02-06T21:45:14.218Z"
+}

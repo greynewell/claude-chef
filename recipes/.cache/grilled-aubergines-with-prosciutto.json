@@ -1,0 +1,73 @@
+{
+  "contentHash": "c977e9302bae102e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 eggplant, ends trimmed and cut into 1/2-inch-thick slices",
+        "searchTerm": "eggplant",
+        "normalizedName": "Eggplant"
+      },
+      {
+        "ingredient": "1 red bell pepper, cut into rings and seeds removed",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "1 cup spinach leaves, torn into pieces",
+        "searchTerm": "spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "1 (1/2 ounce) slice thinly sliced prosciutto di Parma",
+        "searchTerm": "prosciutto",
+        "normalizedName": "Prosciutto"
+      },
+      {
+        "ingredient": "1 teaspoon sun-dried tomato paste",
+        "searchTerm": "sun-dried tomato paste",
+        "normalizedName": "Sun-Dried Tomato Paste"
+      },
+      {
+        "ingredient": "1 tablespoon extra virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon balsamic vinegar",
+        "searchTerm": "balsamic vinegar",
+        "normalizedName": "Balsamic Vinegar"
+      },
+      {
+        "ingredient": "¼ teaspoon dried oregano",
+        "searchTerm": "oregano",
+        "normalizedName": "Oregano"
+      },
+      {
+        "ingredient": "freshly ground rock salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grilling tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Slice eggplant evenly for consistent grilling",
+      "Brush vegetables lightly with oil to prevent sticking",
+      "Grill at medium-high heat for charred exterior and tender interior"
+    ],
+    "coachingPrompt": "Guide the user through slicing the eggplant properly and achieving nice grill marks while keeping the inside tender."
+  },
+  "timestamp": "2026-02-06T08:10:19.106Z"
+}

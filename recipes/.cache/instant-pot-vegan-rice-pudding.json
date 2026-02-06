@@ -1,0 +1,53 @@
+{
+  "contentHash": "8b25dc2a7724d2fd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups almond milk",
+        "searchTerm": "almond milk",
+        "normalizedName": "Almond Milk"
+      },
+      {
+        "ingredient": "⅔ cup jasmine rice, rinsed",
+        "searchTerm": "jasmine rice",
+        "normalizedName": "Jasmine Rice"
+      },
+      {
+        "ingredient": "⅓ cup granulated sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ½ teaspoons vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Instant Pot",
+        "searchTerm": "Instant Pot"
+      },
+      {
+        "name": "Fine Mesh Strainer",
+        "searchTerm": "fine mesh strainer"
+      },
+      {
+        "name": "Serving Spoon",
+        "searchTerm": "serving spoon"
+      }
+    ],
+    "cookingTips": [
+      "Rinse jasmine rice thoroughly to remove excess starch for better texture",
+      "Almond milk can separate during cooking; stir well before serving",
+      "Allow rice pudding to cool slightly for optimal creamy consistency"
+    ],
+    "coachingPrompt": "Help the user create a creamy vegan rice pudding by rinsing rice properly and managing liquid ratios for the perfect texture."
+  },
+  "timestamp": "2026-02-06T09:59:32.828Z"
+}

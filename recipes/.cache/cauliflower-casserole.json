@@ -1,0 +1,63 @@
+{
+  "contentHash": "efc618e82cce9bde",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 large head cauliflower, broken into small florets",
+        "searchTerm": "cauliflower",
+        "normalizedName": "Cauliflower"
+      },
+      {
+        "ingredient": "½ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "⅔ cup Italian seasoned bread crumbs",
+        "searchTerm": "Italian seasoned bread crumbs",
+        "normalizedName": "Italian Seasoned Bread Crumb"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 teaspoon crushed red pepper flakes",
+        "searchTerm": "red pepper flakes",
+        "normalizedName": "Red Pepper Flake"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Small bowl",
+        "searchTerm": "small bowl"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Blanch cauliflower briefly to soften slightly before baking",
+      "Mix butter with bread crumbs and Parmesan for crispy topping",
+      "Bake at 375°F for 20-25 minutes until golden and cheese melts"
+    ],
+    "coachingPrompt": "How does the order of cheese layering affect the final texture? When should you add the topping for best crust?"
+  },
+  "timestamp": "2026-02-06T01:35:38.617Z"
+}

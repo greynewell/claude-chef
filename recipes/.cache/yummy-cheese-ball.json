@@ -1,0 +1,52 @@
+{
+  "contentHash": "4b5ec7bd3914a026",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 (8 ounce) packages cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "3 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 green onion, chopped",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 cup chopped pecans",
+        "searchTerm": "pecans",
+        "normalizedName": "Pecan"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "fork or mixer",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "plastic wrap",
+        "searchTerm": "plastic wrap"
+      }
+    ],
+    "cookingTips": [
+      "Cook bacon until crispy and chop finely for better texture distribution",
+      "Chill the cheese ball for at least 2 hours before rolling in pecans"
+    ],
+    "coachingPrompt": "What's the best way to shape and coat the cheese ball so the nuts stick properly?"
+  },
+  "timestamp": "2026-02-06T22:20:13.231Z"
+}

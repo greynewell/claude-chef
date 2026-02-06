@@ -1,0 +1,57 @@
+{
+  "contentHash": "d6acd028e08b1ae4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (.9 ounce) package hollandaise sauce mix",
+        "searchTerm": "hollandaise sauce mix",
+        "normalizedName": "Hollandaise Sauce Mix"
+      },
+      {
+        "ingredient": "1 cup whole milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ cup butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 pound fresh asparagus",
+        "searchTerm": "asparagus",
+        "normalizedName": "Asparagus"
+      },
+      {
+        "ingredient": "4 slices deli-style honey ham",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "½ teaspoon freeze-dried dill",
+        "searchTerm": "dill",
+        "normalizedName": "Dill"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "steamer basket",
+        "searchTerm": "steamer basket"
+      },
+      {
+        "name": "serving platter",
+        "searchTerm": "serving platter"
+      }
+    ],
+    "cookingTips": [
+      "Steam asparagus just until tender-crisp to maintain color and prevent overcooking",
+      "Prepare hollandaise sauce last minute and keep warm over low heat to prevent breaking"
+    ],
+    "coachingPrompt": "How can you create elegant bundles while ensuring the ham and asparagus cook evenly?"
+  },
+  "timestamp": "2026-02-06T08:39:35.283Z"
+}

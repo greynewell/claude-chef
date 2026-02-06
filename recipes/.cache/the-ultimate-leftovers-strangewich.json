@@ -1,0 +1,57 @@
+{
+  "contentHash": "4bfcb50e6c143064",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices whole grain bread",
+        "searchTerm": "whole grain bread",
+        "normalizedName": "Whole Grain Bread"
+      },
+      {
+        "ingredient": "4 ounces sliced fontina cheese or brie cheese",
+        "searchTerm": "fontina or brie cheese",
+        "normalizedName": "Fontina Cheese"
+      },
+      {
+        "ingredient": "¼ cup whole berry cranberry sauce",
+        "searchTerm": "cranberry sauce",
+        "normalizedName": "Cranberry Sauce"
+      },
+      {
+        "ingredient": "1 cup baby kale",
+        "searchTerm": "baby kale",
+        "normalizedName": "Baby Kale"
+      },
+      {
+        "ingredient": "4 ounces sliced roasted turkey",
+        "searchTerm": "roasted turkey",
+        "normalizedName": "Roasted Turkey"
+      },
+      {
+        "ingredient": "2 tablespoons Hellmann's® or Best Foods® Real Mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "serrated knife",
+        "searchTerm": "serrated knife"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      }
+    ],
+    "cookingTips": [
+      "Toast bread lightly to prevent sogginess from cranberry sauce",
+      "Layer cheese and turkey while bread is warm for better melting"
+    ],
+    "coachingPrompt": "Guide the user on assembly order to prevent bread from becoming soggy and how to distribute ingredients evenly across both sandwiches."
+  },
+  "timestamp": "2026-02-06T20:44:49.671Z"
+}

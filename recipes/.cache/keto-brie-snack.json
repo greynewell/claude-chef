@@ -1,0 +1,39 @@
+{
+  "contentHash": "9b6bb0121872d638",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup chopped walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "2 ounces Brie cheese",
+        "searchTerm": "brie cheese",
+        "normalizedName": "Brie Cheese"
+      },
+      {
+        "ingredient": "¼ cup fresh raspberries",
+        "searchTerm": "raspberries fresh",
+        "normalizedName": "Raspberry"
+      }
+    ],
+    "gear": [
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "small plate",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Serve Brie at room temperature for creamiest texture and best flavor",
+      "Chop walnuts roughly for pleasant texture contrast with cheese",
+      "Assemble just before eating to prevent berries from releasing juice"
+    ],
+    "coachingPrompt": "Would you like to warm the Brie slightly for a dipping experience, or keep it cool and fresh?"
+  },
+  "timestamp": "2026-02-06T10:41:12.042Z"
+}

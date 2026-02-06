@@ -1,0 +1,62 @@
+{
+  "contentHash": "dfe8fdcc2fa568b8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ¼ cups warm water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 tablespoon butter, softened",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "3 cups bread flour",
+        "searchTerm": "bread flour",
+        "normalizedName": "Bread Flour"
+      },
+      {
+        "ingredient": "2 tablespoons dry milk powder",
+        "searchTerm": "dry milk powder",
+        "normalizedName": "Dry Milk Powder"
+      },
+      {
+        "ingredient": "1 (.25 ounce) package active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bread machine",
+        "searchTerm": "bread machine"
+      },
+      {
+        "name": "loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Water temperature is crucial—aim for 110°F (43°C) for optimal yeast activation",
+      "Don't add salt directly to yeast as it can kill the yeast cells"
+    ],
+    "coachingPrompt": "Will you use a bread machine or knead by hand? This affects timing and technique."
+  },
+  "timestamp": "2026-02-05T23:34:21.977Z"
+}

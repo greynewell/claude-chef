@@ -1,0 +1,63 @@
+{
+  "contentHash": "d5ee2b9c022a77a2",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (14.5 ounce) can chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "1 (8 ounce) can tomato sauce",
+        "searchTerm": "tomato sauce",
+        "normalizedName": "Tomato Sauce"
+      },
+      {
+        "ingredient": "1 (1 ounce) package taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning"
+      },
+      {
+        "ingredient": "1 ½ cups uncooked instant rice",
+        "searchTerm": "instant rice",
+        "normalizedName": "Instant Rice"
+      },
+      {
+        "ingredient": "1 (6 ounce) can black olives",
+        "searchTerm": "black olives",
+        "normalizedName": "Black Olive"
+      },
+      {
+        "ingredient": "1 cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "1 cup sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "measuring cups",
+        "searchTerm": "cup set"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Bring broth and tomato sauce to a boil before adding rice for proper cooking",
+      "Stir in taco seasoning with the liquid for even flavor distribution",
+      "Let rice rest covered for 5 minutes after cooking before fluffing with a fork"
+    ],
+    "coachingPrompt": "This is a simple, quick one-pot meal. How will you ensure the rice absorbs the flavors while remaining fluffy and separate?"
+  },
+  "timestamp": "2026-02-06T20:13:27.051Z"
+}

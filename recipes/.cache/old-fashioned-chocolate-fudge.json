@@ -1,0 +1,52 @@
+{
+  "contentHash": "f067c432c047c2ec",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup cocoa",
+        "searchTerm": "cocoa powder",
+        "normalizedName": "Cocoa Powder"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "4 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Candy thermometer",
+        "searchTerm": "candy thermometer"
+      },
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "8x8 baking pan",
+        "searchTerm": "baking pan"
+      }
+    ],
+    "cookingTips": [
+      "Monitor temperature carefully—fudge must reach soft-ball stage (235°F) for perfect texture",
+      "Cool to room temperature before beating, then pour into buttered pan for clean cutting"
+    ],
+    "coachingPrompt": "Making fudge requires precision temperature control. Why is the soft-ball stage critical, and how do you test for it without a thermometer?"
+  },
+  "timestamp": "2026-02-06T13:32:08.381Z"
+}

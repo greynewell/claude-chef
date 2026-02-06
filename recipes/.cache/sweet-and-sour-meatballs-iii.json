@@ -1,0 +1,53 @@
+{
+  "contentHash": "b65cb4a0e902f2e8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) can sauerkraut",
+        "searchTerm": "sauerkraut",
+        "normalizedName": "Sauerkraut"
+      },
+      {
+        "ingredient": "1 (16 ounce) can jellied cranberry sauce",
+        "searchTerm": "cranberry sauce",
+        "normalizedName": "Cranberry Sauce"
+      },
+      {
+        "ingredient": "½ cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "½ (16 ounce) jar spaghetti sauce",
+        "searchTerm": "spaghetti sauce",
+        "normalizedName": "Spaghetti Sauce"
+      },
+      {
+        "ingredient": "3 pounds small meatballs",
+        "searchTerm": "meatball",
+        "normalizedName": "Meatball"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "can opener",
+        "searchTerm": "can opener"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Layer sauerkraut and sauce before adding meatballs for even distribution",
+      "Use pre-made meatballs to save preparation time",
+      "Cook on low heat for at least 4 hours to meld flavors"
+    ],
+    "coachingPrompt": "How would you layer ingredients in a slow cooker for best flavor distribution?"
+  },
+  "timestamp": "2026-02-06T19:59:40.997Z"
+}

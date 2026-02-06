@@ -1,0 +1,83 @@
+{
+  "contentHash": "5a11ffc254c62e54",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 cups chicken or ham stock",
+        "searchTerm": "ham stock",
+        "normalizedName": "Ham Stock"
+      },
+      {
+        "ingredient": "4 cups cubed Country ham",
+        "searchTerm": "Country ham",
+        "normalizedName": "Country Ham"
+      },
+      {
+        "ingredient": "4 tablespoons dried rosemary",
+        "searchTerm": "dried rosemary",
+        "normalizedName": "Dried Rosemary"
+      },
+      {
+        "ingredient": "2 pounds bacon, diced",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 large onions, diced",
+        "searchTerm": "onions",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 leeks, diced",
+        "searchTerm": "leeks",
+        "normalizedName": "Leek"
+      },
+      {
+        "ingredient": "3 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "6 green onions, diced",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "6 large potatoes, cubed",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 pound carrots, cubed",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 ½ cups heavy cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large stockpot",
+        "searchTerm": "stockpot"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef knife"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Render bacon first and use the fat to sauté vegetables for rich base flavor",
+      "Clean leeks thoroughly by slicing lengthwise and rinsing between layers",
+      "Add heavy cream at the end and gently heat to avoid curdling; do not boil"
+    ],
+    "coachingPrompt": "Help the user understand how to build layers of flavor with bacon and herbs while properly incorporating cream into a chowder."
+  },
+  "timestamp": "2026-02-06T08:42:32.643Z"
+}

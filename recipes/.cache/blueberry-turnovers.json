@@ -1,0 +1,43 @@
+{
+  "contentHash": "0f7a4d58b7a0ec2b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package refrigerated crescent rolls",
+        "searchTerm": "crescent rolls",
+        "normalizedName": "Crescent Roll"
+      },
+      {
+        "ingredient": "½ cup fresh blueberries",
+        "searchTerm": "blueberries",
+        "normalizedName": "Blueberry"
+      },
+      {
+        "ingredient": "¼ cup confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "¼ cup prepared vanilla frosting  (Optional)",
+        "searchTerm": "vanilla frosting",
+        "normalizedName": "Vanilla Frosting"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Use a fork to seal the edges of turnovers so filling doesn't leak",
+      "Place turnovers on parchment paper for easy cleanup"
+    ],
+    "coachingPrompt": "How can refrigerated dough simplify dessert preparation?"
+  },
+  "timestamp": "2026-02-06T00:25:34.226Z"
+}

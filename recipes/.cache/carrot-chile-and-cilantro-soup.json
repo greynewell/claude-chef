@@ -1,0 +1,68 @@
+{
+  "contentHash": "a22c647f3de9f5c0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 teaspoon crushed garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "1 teaspoon chile paste",
+        "searchTerm": "chile paste",
+        "normalizedName": "Chile Paste"
+      },
+      {
+        "ingredient": "1 onion, chopped",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "3 large carrots, peeled and sliced",
+        "searchTerm": "carrots",
+        "normalizedName": "Carrot"
+      },
+      {
+        "ingredient": "1 large potato, peeled and chopped",
+        "searchTerm": "potato",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "5 cups vegetable broth",
+        "searchTerm": "vegetable broth",
+        "normalizedName": "Vegetable Broth"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Immersion blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Chile paste adds heat; start with 1 teaspoon and adjust to taste preference",
+      "Cook carrots and potatoes until very tender for smooth blending",
+      "Fresh cilantro should be added at the end to preserve bright, fresh flavor"
+    ],
+    "coachingPrompt": "This soup combines earthy carrots with bright cilantro and heat from chile. Guide the user on blending until smooth and adjusting heat level gradually for desired spice."
+  },
+  "timestamp": "2026-02-06T01:31:26.728Z"
+}

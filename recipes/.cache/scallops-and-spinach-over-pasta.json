@@ -1,0 +1,78 @@
+{
+  "contentHash": "aae2f715bac8a9c6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 ounces spaghetti",
+        "searchTerm": "spaghetti",
+        "normalizedName": "Spaghetti"
+      },
+      {
+        "ingredient": "3 pounds bay scallops, raw",
+        "searchTerm": "bay scallops",
+        "normalizedName": "Bay Scallop"
+      },
+      {
+        "ingredient": "1 (10 ounce) package frozen chopped spinach, thawed",
+        "searchTerm": "frozen spinach",
+        "normalizedName": "Frozen Spinach"
+      },
+      {
+        "ingredient": "1 tablespoon fresh lemon juice",
+        "searchTerm": "fresh lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "¼ cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "garlic powder to taste",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pasta pot"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "large skillet"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      }
+    ],
+    "cookingTips": [
+      "Squeeze excess moisture from thawed spinach to prevent a watery sauce",
+      "Cook bay scallops very briefly as they're smaller and cook faster than sea scallops",
+      "Toss pasta with scallop mixture immediately to coat evenly"
+    ],
+    "coachingPrompt": "Why is it important to remove excess water from the frozen spinach? How long should bay scallops cook to stay tender?"
+  },
+  "timestamp": "2026-02-06T17:09:04.901Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "2aa0b3a0c32e2284",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 slices potato bread",
+        "searchTerm": "potato bread",
+        "normalizedName": "Potato Bread"
+      },
+      {
+        "ingredient": "4 thin slices smoked honey ham",
+        "searchTerm": "smoked honey ham",
+        "normalizedName": "Smoked Honey Ham"
+      },
+      {
+        "ingredient": "4 slices Havarti cheese",
+        "searchTerm": "Havarti cheese",
+        "normalizedName": "Havarti Cheese"
+      },
+      {
+        "ingredient": "¼ cup chopped spinach",
+        "searchTerm": "spinach",
+        "normalizedName": "Spinach"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill pan",
+        "searchTerm": "grill pan"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Havarti cheese melts beautifully and has a slightly sweet, buttery flavor that pairs well with ham",
+      "Toast potato bread lightly before assembling to prevent sogginess",
+      "Grill the assembled sandwich 2-3 minutes per side over medium heat"
+    ],
+    "coachingPrompt": "What is Havarti cheese, and how does its melting quality make it ideal for grilled sandwiches?"
+  },
+  "timestamp": "2026-02-06T08:17:29.800Z"
+}

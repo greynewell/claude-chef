@@ -1,0 +1,63 @@
+{
+  "contentHash": "fd4b30ccf1747f8e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 flour tortillas",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "½ cup shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "¼ pound shredded cooked turkey meat",
+        "searchTerm": "cooked turkey",
+        "normalizedName": "Turkey Meat"
+      },
+      {
+        "ingredient": "2 tablespoons cranberry sauce",
+        "searchTerm": "cranberry sauce",
+        "normalizedName": "Cranberry Sauce"
+      },
+      {
+        "ingredient": "½ jalapeno pepper, seeded and minced",
+        "searchTerm": "jalapeno pepper",
+        "normalizedName": "Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 green onion, sliced",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "2 tablespoons chopped fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "chef's knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Use leftover turkey for best results and faster preparation",
+      "Toast the quesadilla in a dry skillet for crispy exterior and melted cheese",
+      "Seed the jalapeno to control heat level"
+    ],
+    "coachingPrompt": "How can you maximize the melting of the cheese while keeping the tortilla from burning?"
+  },
+  "timestamp": "2026-02-06T20:36:40.914Z"
+}

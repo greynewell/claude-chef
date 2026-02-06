@@ -1,0 +1,48 @@
+{
+  "contentHash": "197004d203579541",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 Haas avocado, cut into bite-sized pieces",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 mango, cut into bite-sized pieces",
+        "searchTerm": "mango",
+        "normalizedName": "Mango"
+      },
+      {
+        "ingredient": "1 grapefruit, cut into bite-sized pieces",
+        "searchTerm": "grapefruit",
+        "normalizedName": "Grapefruit"
+      },
+      {
+        "ingredient": "½ lime",
+        "searchTerm": "lime",
+        "normalizedName": "Lime"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Sharp Knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "Serving Bowl",
+        "searchTerm": "serving bowl"
+      }
+    ],
+    "cookingTips": [
+      "Prepare this salad just before serving to prevent the avocado from browning",
+      "Squeeze fresh lime juice over the salad to brighten flavors and prevent oxidation",
+      "Choose ripe but firm fruits for the best texture"
+    ],
+    "coachingPrompt": "Help the user select ripe tropical fruits and explain how to safely cut avocados and mangoes."
+  },
+  "timestamp": "2026-02-06T20:45:51.171Z"
+}

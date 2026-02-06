@@ -1,0 +1,58 @@
+{
+  "contentHash": "fe5daf30def44e2a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 ½ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "⅔ cup peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "5 tablespoons brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "3 ½ teaspoons active dry yeast",
+        "searchTerm": "active dry yeast",
+        "normalizedName": "Active Dry Yeast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bread machine or mixing bowl",
+        "searchTerm": "bread machine"
+      },
+      {
+        "name": "loaf pan",
+        "searchTerm": "loaf pan"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "instant read thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Use warm water (around 110°F) to activate yeast properly",
+      "Knead dough until smooth and elastic for proper gluten development",
+      "Bread is done when internal temperature reaches 190°F"
+    ],
+    "coachingPrompt": "I'm making peanut butter bread with yeast. What's the best way to incorporate peanut butter without affecting the rise?"
+  },
+  "timestamp": "2026-02-06T14:24:01.080Z"
+}

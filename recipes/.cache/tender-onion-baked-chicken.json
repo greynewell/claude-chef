@@ -1,0 +1,53 @@
+{
+  "contentHash": "c692f7555f98cc8d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "chicken breast tenderloins or strips",
+        "searchTerm": "chicken tenderloins",
+        "normalizedName": "Chicken Tenderloin"
+      },
+      {
+        "ingredient": "margarine, melted",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "dry onion soup mix",
+        "searchTerm": "onion soup mix",
+        "normalizedName": "Onion Soup Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "brush for margarine",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Pat chicken dry before coating for better adhesion of soup mix",
+      "Use parchment paper or foil to line pan for easy cleanup and moisture retention",
+      "Bake at 375°F for 15-20 minutes until chicken reaches 165°F internally"
+    ],
+    "coachingPrompt": "Guide the user through how onion soup mix adds umami seasoning while margarine keeps the chicken moist during baking."
+  },
+  "timestamp": "2026-02-06T20:23:26.337Z"
+}

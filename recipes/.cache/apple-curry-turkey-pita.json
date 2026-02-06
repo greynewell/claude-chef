@@ -1,0 +1,67 @@
+{
+  "contentHash": "62258109578790ca",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 cup sliced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 tablespoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "½ pound cooked turkey, cut into chunks",
+        "searchTerm": "cooked turkey",
+        "normalizedName": "Cooked Turkey"
+      },
+      {
+        "ingredient": "1 tablespoon curry powder, or to taste",
+        "searchTerm": "curry powder",
+        "normalizedName": "Curry Powder"
+      },
+      {
+        "ingredient": "1 medium apple, cored and thinly sliced",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "3 pita bread rounds",
+        "searchTerm": "pita bread",
+        "normalizedName": "Pita Bread"
+      },
+      {
+        "ingredient": "½ cup plain yogurt",
+        "searchTerm": "plain yogurt",
+        "normalizedName": "Plain Yogurt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Sauté onions before adding turkey to build flavor",
+      "Slice apple thin and add just before serving to prevent browning"
+    ],
+    "coachingPrompt": "Sauté onions in olive oil, add curry powder, then toss in cooked turkey and apple. Serve in pita bread with yogurt."
+  },
+  "timestamp": "2026-02-05T22:12:44.137Z"
+}

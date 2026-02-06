@@ -1,0 +1,58 @@
+{
+  "contentHash": "3d38afaf91171f70",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups cold mashed potatoes",
+        "searchTerm": "mashed potatoes",
+        "normalizedName": "Mashed Potato"
+      },
+      {
+        "ingredient": "2 eggs, lightly beaten",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 tablespoon all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "⅛ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "1 tablespoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 tablespoon chopped fresh chives",
+        "searchTerm": "fresh chives",
+        "normalizedName": "Fresh Chive"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Use cold mashed potatoes to prevent the mixture from becoming gluey",
+      "Avoid overmixing once you add eggs to maintain texture",
+      "Cook over medium-high heat to achieve a crispy golden exterior without burning"
+    ],
+    "coachingPrompt": "Why is cold potato important here? How do you achieve crispiness while keeping the inside creamy?"
+  },
+  "timestamp": "2026-02-06T13:03:47.449Z"
+}

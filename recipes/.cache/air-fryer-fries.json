@@ -1,0 +1,48 @@
+{
+  "contentHash": "764ecfe0fe32635d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "1 teaspoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "¼ teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¼ teaspoon seasoning",
+        "searchTerm": "seasoning",
+        "normalizedName": "Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "air fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Soak cut potatoes in cold water for 30 minutes to remove excess starch, then pat completely dry",
+      "Toss fries with oil and seasonings in a bowl before air frying for even coating",
+      "Shake the basket halfway through cooking and check for doneness, as cooking times vary by air fryer model"
+    ],
+    "coachingPrompt": "Walk me through preparing and air-frying homemade french fries until golden and crispy"
+  },
+  "timestamp": "2026-02-05T21:43:38.977Z"
+}

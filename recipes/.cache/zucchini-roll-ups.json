@@ -1,0 +1,43 @@
+{
+  "contentHash": "0d24b02bdb5da6d7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 small zucchini, cut lengthwise into slightly less than 1/4-inch slices",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "4 slices smoked fontina cheese, halved",
+        "searchTerm": "smoked fontina cheese",
+        "normalizedName": "Smoked Fontina Cheese"
+      },
+      {
+        "ingredient": "8 slices thick cut bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "cutting knife"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Slice zucchini lengthwise for easier rolling",
+      "Cook bacon until crispy but still pliable",
+      "Wrap bacon around cheese-filled zucchini securely"
+    ],
+    "coachingPrompt": "Guide the user through rolling zucchini and wrapping bacon tightly for cohesive bundles."
+  },
+  "timestamp": "2026-02-06T22:29:12.634Z"
+}

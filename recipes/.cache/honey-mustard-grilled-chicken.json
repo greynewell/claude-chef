@@ -1,0 +1,52 @@
+{
+  "contentHash": "6278409868494fff",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅓ cup Dijon mustard",
+        "searchTerm": "Dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "¼ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "1 teaspoon steak sauce",
+        "searchTerm": "steak sauce",
+        "normalizedName": "Steak Sauce"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Reserve some sauce for finishing; brush the rest on chicken during grilling for caramelization",
+      "Grill over medium heat to avoid burning the honey-based glaze"
+    ],
+    "coachingPrompt": "How does mayonnaise change the texture of a grilled chicken glaze?"
+  },
+  "timestamp": "2026-02-06T09:23:39.305Z"
+}

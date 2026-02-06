@@ -1,0 +1,58 @@
+{
+  "contentHash": "553e1189ce425e15",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup sweetened red bean paste",
+        "searchTerm": "red bean paste",
+        "normalizedName": "Red Bean Paste"
+      },
+      {
+        "ingredient": "1 cup sweet rice flour (mochiko)",
+        "searchTerm": "sweet rice flour",
+        "normalizedName": "Sweet Rice Flour"
+      },
+      {
+        "ingredient": "1 teaspoon green tea powder (matcha)",
+        "searchTerm": "matcha powder",
+        "normalizedName": "Matcha Powder"
+      },
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup cornstarch, for rolling out the dough",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      }
+    ],
+    "gear": [
+      {
+        "name": "microwave-safe bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "microwave",
+        "searchTerm": "microwave"
+      },
+      {
+        "name": "cutting board or parchment",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Mix matcha powder with small amount of water first to prevent lumps before adding to dough",
+      "Work with dough while still warm but cool enough to handle; it hardens as it cools",
+      "Use cornstarch generously on work surface and hands to prevent sticking"
+    ],
+    "coachingPrompt": "Guide the user through proper mochi dough consistency and working with it at the right temperature for successful shaping and filling."
+  },
+  "timestamp": "2026-02-06T05:52:19.798Z"
+}

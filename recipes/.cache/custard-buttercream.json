@@ -1,0 +1,58 @@
+{
+  "contentHash": "ab0bc3315378f15f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "½ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 ⅓ cups unsalted butter, at room temperature",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon rum (Optional)",
+        "searchTerm": "rum",
+        "normalizedName": "Rum"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Electric Mixer",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "Thermometer",
+        "searchTerm": "thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Cook egg mixture to 160°F for food safety before cooling",
+      "Use room temperature butter for smooth emulsification",
+      "Beat mixture thoroughly until light and fluffy, 3-5 minutes"
+    ],
+    "coachingPrompt": "Teach the user about pasteurizing eggs through cooking and achieving proper buttercream consistency through temperature control and beating technique."
+  },
+  "timestamp": "2026-02-06T04:54:54.111Z"
+}

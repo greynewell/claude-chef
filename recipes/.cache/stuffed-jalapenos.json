@@ -1,0 +1,48 @@
+{
+  "contentHash": "08e07b13bd51a7bd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (7 ounce) cans jalapeno peppers",
+        "searchTerm": "canned jalapeno peppers",
+        "normalizedName": "Canned Jalapeno Pepper"
+      },
+      {
+        "ingredient": "6 ounces shredded Mexican-style cheese blend",
+        "searchTerm": "mexican cheese blend",
+        "normalizedName": "Mexican-Style Cheese Blend"
+      },
+      {
+        "ingredient": "1 pound pork sausage, hot",
+        "searchTerm": "hot pork sausage",
+        "normalizedName": "Pork Sausage"
+      },
+      {
+        "ingredient": "1 (5.5 ounce) package spicy seasoning coating mix",
+        "searchTerm": "spicy seasoning mix",
+        "normalizedName": "Spicy Seasoning Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "mixing spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown the sausage thoroughly to render fat and develop flavor before combining with other ingredients",
+      "Canned jalapenos are softer than fresh, so handle gently to avoid tearing",
+      "The seasoning mix adds crunch and flavor - don't skip this step"
+    ],
+    "coachingPrompt": "What's the best way to combine sausage with cheese and get it into the peppers?"
+  },
+  "timestamp": "2026-02-06T19:40:26.786Z"
+}

@@ -1,0 +1,62 @@
+{
+  "contentHash": "4e70b94b85d99c26",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup couscous",
+        "searchTerm": "couscous",
+        "normalizedName": "Couscous"
+      },
+      {
+        "ingredient": "⅔ cup chopped kalamata olives",
+        "searchTerm": "kalamata olives",
+        "normalizedName": "Kalamata Olive"
+      },
+      {
+        "ingredient": "⅔ cup diced red bell pepper",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "½ cup diced sun-dried tomatoes",
+        "searchTerm": "sun-dried tomatoes",
+        "normalizedName": "Sun-Dried Tomato"
+      },
+      {
+        "ingredient": "1 (4 ounce) package crumbled feta cheese",
+        "searchTerm": "feta cheese",
+        "normalizedName": "Feta Cheese"
+      },
+      {
+        "ingredient": "1 tablespoon dried parsley",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley"
+      }
+    ],
+    "gear": [
+      {
+        "name": "small pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "fork",
+        "searchTerm": "fork"
+      }
+    ],
+    "cookingTips": [
+      "Fluff couscous with fork after steeping to separate grains",
+      "Add vegetables while couscous is warm to absorb flavors"
+    ],
+    "coachingPrompt": "How would you serve this as a main course versus a side dish?"
+  },
+  "timestamp": "2026-02-06T17:49:50.921Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "9f656c51ba01a2ed",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups pineapple juice",
+        "searchTerm": "pineapple juice",
+        "normalizedName": "Pineapple Juice"
+      },
+      {
+        "ingredient": "2 bananas",
+        "searchTerm": "bananas",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "2 cups vanilla yogurt",
+        "searchTerm": "vanilla yogurt",
+        "normalizedName": "Yogurt"
+      },
+      {
+        "ingredient": "1 cup strawberries, hulled",
+        "searchTerm": "strawberries",
+        "normalizedName": "Strawberry"
+      },
+      {
+        "ingredient": "¼ cup wheat germ",
+        "searchTerm": "wheat germ",
+        "normalizedName": "Wheat Germ"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Measuring Cups",
+        "searchTerm": "measuring cups"
+      }
+    ],
+    "cookingTips": [
+      "Freeze banana pieces beforehand for a thicker, colder smoothie",
+      "Add wheat germ last to blend smoothly",
+      "Blend until completely smooth for best consistency"
+    ],
+    "coachingPrompt": "Help the user balance fruit flavors and understand how to achieve the perfect smoothie consistency."
+  },
+  "timestamp": "2026-02-06T15:46:17.035Z"
+}

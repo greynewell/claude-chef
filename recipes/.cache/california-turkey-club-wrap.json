@@ -1,0 +1,63 @@
+{
+  "contentHash": "1e75d95cc40c2f9f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "oven roasted turkey",
+        "searchTerm": "oven roasted turkey",
+        "normalizedName": "Oven Roasted Turkey"
+      },
+      {
+        "ingredient": "Colby Jack cheese",
+        "searchTerm": "colby jack cheese",
+        "normalizedName": "Colby Jack Cheese"
+      },
+      {
+        "ingredient": "mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "spinach tortilla",
+        "searchTerm": "spinach tortilla",
+        "normalizedName": "Spinach Tortilla"
+      },
+      {
+        "ingredient": "avocado",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "vinegar-pickled red cabbage",
+        "searchTerm": "pickled red cabbage",
+        "normalizedName": "Pickled Red Cabbage"
+      },
+      {
+        "ingredient": "spring mix",
+        "searchTerm": "spring mix",
+        "normalizedName": "Spring Mix"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Parchment paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Warm the tortilla slightly to make it more pliable and prevent tearing",
+      "Arrange ingredients in layers to prevent them from shifting when cut",
+      "Wrap tightly in parchment paper and cut diagonally for easy holding"
+    ],
+    "coachingPrompt": "What's the best order to layer ingredients so the wrap holds together and remains stable when cut?"
+  },
+  "timestamp": "2026-02-06T01:15:44.021Z"
+}

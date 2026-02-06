@@ -1,0 +1,53 @@
+{
+  "contentHash": "453cfb724b220dfa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (8 ounce) packages cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 cup confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "½ cup cold milk, or more as needed",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 (1 ounce) package instant sugar-free pistachio pudding mix",
+        "searchTerm": "pistachio pudding mix",
+        "normalizedName": "Instant Pistachio Pudding Mix"
+      },
+      {
+        "ingredient": "1 cup frozen whipped topping (such as Cool Whip®), thawed",
+        "searchTerm": "whipped topping",
+        "normalizedName": "Frozen Whipped Topping"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Electric Mixer",
+        "searchTerm": "mixer"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Rubber Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Use softened cream cheese at room temperature for smooth consistency",
+      "Add milk gradually to achieve spreadable texture",
+      "Fold in whipped topping last to keep frosting light and airy"
+    ],
+    "coachingPrompt": "Help the user achieve the right consistency for frosting and advise on proper folding technique."
+  },
+  "timestamp": "2026-02-06T14:52:12.377Z"
+}

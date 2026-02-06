@@ -1,0 +1,57 @@
+{
+  "contentHash": "36b262fd5007826e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound uncooked medium shrimp, peeled and deveined",
+        "searchTerm": "medium shrimp",
+        "normalizedName": "Shrimp"
+      },
+      {
+        "ingredient": "¼ cup melted butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "4 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "2 tablespoons olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "½ cup panko bread crumbs",
+        "searchTerm": "panko bread crumbs",
+        "normalizedName": "Panko Bread Crumb"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking Dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Toss shrimp with butter and garlic mixture before adding bread crumb topping",
+      "Bake at 400°F for 12-15 minutes until shrimp are pink and cooked through"
+    ],
+    "coachingPrompt": "What is the key visual indicator that your shrimp are fully cooked?"
+  },
+  "timestamp": "2026-02-06T07:20:02.615Z"
+}

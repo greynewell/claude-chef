@@ -1,0 +1,63 @@
+{
+  "contentHash": "edea9b581cf14078",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "pastry for a double-crust 9-inch pie",
+        "searchTerm": "pie crust",
+        "normalizedName": "Pie Crust"
+      },
+      {
+        "ingredient": "4 cups peeled and sliced mango",
+        "searchTerm": "mango",
+        "normalizedName": "Mango"
+      },
+      {
+        "ingredient": "½ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 tablespoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "2 teaspoons lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "1 teaspoon ground cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9-inch pie dish",
+        "searchTerm": "pie dish"
+      },
+      {
+        "name": "rolling pin",
+        "searchTerm": "rolling pin"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Toss mango slices with lemon juice immediately to prevent browning",
+      "Chill pie crust before filling to prevent shrinking",
+      "Tent with foil if crust browns too quickly during baking"
+    ],
+    "coachingPrompt": "Help the user achieve a golden, flaky crust and perfectly set mango filling without the filling becoming runny."
+  },
+  "timestamp": "2026-02-06T12:10:23.328Z"
+}

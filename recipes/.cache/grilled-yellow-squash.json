@@ -1,0 +1,53 @@
+{
+  "contentHash": "71fcae94411bbe93",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "yellow squash",
+        "searchTerm": "yellow squash",
+        "normalizedName": "Yellow Squash"
+      },
+      {
+        "ingredient": "extra virgin olive oil",
+        "searchTerm": "extra-virgin olive oil",
+        "normalizedName": "Extra-Virgin Olive Oil"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "salt and pepper",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "grill brush",
+        "searchTerm": "grill brush"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "grill tongs"
+      }
+    ],
+    "cookingTips": [
+      "Brush squash with oil mixture to prevent sticking and add flavor",
+      "Cut squash lengthwise to maximize grilling surface area for caramelization",
+      "Grill over medium-high heat for 3-4 minutes per side until tender with light char marks"
+    ],
+    "coachingPrompt": "What's the difference between grilling whole versus halved squash?"
+  },
+  "timestamp": "2026-02-06T08:31:06.342Z"
+}

@@ -1,0 +1,52 @@
+{
+  "contentHash": "b0eda2b7afd2d5a6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 (14.5 ounce) cans whole green beans, drained",
+        "searchTerm": "canned green beans",
+        "normalizedName": "Green Bean"
+      },
+      {
+        "ingredient": "1 pound bacon, cut in half",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "½ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 cup brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon garlic salt",
+        "searchTerm": "garlic salt",
+        "normalizedName": "Garlic Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "kitchen twine",
+        "searchTerm": "twine"
+      }
+    ],
+    "cookingTips": [
+      "Wrap bundles with bacon before baking for flavor and structural integrity",
+      "Bake at 350°F for 25-30 minutes until bacon is crispy"
+    ],
+    "coachingPrompt": "Help the user bundle green beans with bacon and explain how to bake until bacon is perfectly crispy."
+  },
+  "timestamp": "2026-02-06T20:03:15.694Z"
+}

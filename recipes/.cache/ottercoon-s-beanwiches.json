@@ -1,0 +1,53 @@
+{
+  "contentHash": "468e5d9dbe1efb83",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 slices bread",
+        "searchTerm": "bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "1 (28 ounce) can baked beans",
+        "searchTerm": "baked beans",
+        "normalizedName": "Baked Bean"
+      },
+      {
+        "ingredient": "1 (12 ounce) can fully cooked luncheon meat (such as SPAM®), cubed",
+        "searchTerm": "luncheon meat",
+        "normalizedName": "Luncheon Meat"
+      },
+      {
+        "ingredient": "2 large tomatoes, sliced",
+        "searchTerm": "tomato",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "8 slices Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Knife and cutting board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Warm beans and luncheon meat together in a skillet to develop flavor",
+      "Toast or lightly butter bread before assembling for better texture",
+      "Layer cheese on warm sandwich so it melts slightly from residual heat"
+    ],
+    "coachingPrompt": "I'm making a casual, hearty bean and meat sandwich. How do I warm everything so flavors come together?"
+  },
+  "timestamp": "2026-02-06T13:49:14.325Z"
+}

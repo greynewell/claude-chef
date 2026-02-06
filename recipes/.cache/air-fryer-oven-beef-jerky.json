@@ -1,0 +1,52 @@
+{
+  "contentHash": "e6bb77507ca4068d",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 pounds London broil, thinly sliced and fat removed",
+        "searchTerm": "London broil",
+        "normalizedName": "London Broil"
+      },
+      {
+        "ingredient": "2 tablespoons jerky seasoning",
+        "searchTerm": "jerky seasoning",
+        "normalizedName": "Jerky Seasoning"
+      },
+      {
+        "ingredient": "2 tablespoons cure",
+        "searchTerm": "curing salt",
+        "normalizedName": "Cure"
+      },
+      {
+        "ingredient": "2 teaspoons cure",
+        "searchTerm": "curing salt",
+        "normalizedName": "Cure"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Air Fryer",
+        "searchTerm": "air fryer"
+      },
+      {
+        "name": "Sharp Knife",
+        "searchTerm": "sharp knife"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Air Fryer Rack",
+        "searchTerm": "air fryer rack"
+      }
+    ],
+    "cookingTips": [
+      "Slice meat very thinly against the grain using a sharp knife for tender jerky",
+      "Freeze meat for 2 hours before slicing to make it easier to cut uniformly",
+      "Don't overlap slices in the air fryer basket for even drying and cooking"
+    ],
+    "coachingPrompt": "Guide me through making homemade beef jerky in the air fryer with proper seasoning and drying."
+  },
+  "timestamp": "2026-02-05T21:44:31.214Z"
+}

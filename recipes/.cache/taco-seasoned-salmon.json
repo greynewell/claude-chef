@@ -1,0 +1,47 @@
+{
+  "contentHash": "30000d986685d1cf",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "½ cup Italian-seasoned bread crumbs",
+        "searchTerm": "Italian bread crumbs",
+        "normalizedName": "Italian-Seasoned Bread Crumb"
+      },
+      {
+        "ingredient": "¼ cup taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning Mix"
+      },
+      {
+        "ingredient": "6 (3 ounce) fillets salmon fillets",
+        "searchTerm": "salmon fillets",
+        "normalizedName": "Salmon Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Shallow dish",
+        "searchTerm": "shallow dish"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Combine taco seasoning and breadcrumbs evenly for consistent coating",
+      "Cook salmon skin-side down first for crispy exterior"
+    ],
+    "coachingPrompt": "How can you prevent the breadcrumb coating from burning while ensuring the salmon cooks through?"
+  },
+  "timestamp": "2026-02-06T20:14:22.910Z"
+}

@@ -1,0 +1,44 @@
+{
+  "contentHash": "56e40da277c52295",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (21 ounce) can strawberry pie filling",
+        "searchTerm": "strawberry pie filling",
+        "normalizedName": "Strawberry Pie Filling"
+      },
+      {
+        "ingredient": "1 cup frozen blueberries",
+        "searchTerm": "frozen blueberries",
+        "normalizedName": "Frozen Blueberry"
+      },
+      {
+        "ingredient": "1 (18.25 ounce) package white cake mix",
+        "searchTerm": "white cake mix",
+        "normalizedName": "White Cake Mix"
+      },
+      {
+        "ingredient": "½ cup butter, melted",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "9x13 baking pan",
+        "searchTerm": "cake pan"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "stirring utensil"
+      }
+    ],
+    "cookingTips": [
+      "Layer fruit evenly for consistent baking and presentation",
+      "Sprinkle dry cake mix evenly over fruit without stirring",
+      "Pour melted butter in thin streams across cake mix for even moistening"
+    ],
+    "coachingPrompt": "Guide the user through this simple assembly method and explain how the cake mix absorbs the fruit juices while baking to create a cohesive dessert with proper texture."
+  },
+  "timestamp": "2026-02-06T16:05:21.057Z"
+}

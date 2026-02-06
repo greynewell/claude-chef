@@ -1,0 +1,58 @@
+{
+  "contentHash": "45e3fc260fe6aec8",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "1 tablespoon Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "2 teaspoons ground dry mustard",
+        "searchTerm": "ground dry mustard",
+        "normalizedName": "Ground Dry Mustard"
+      },
+      {
+        "ingredient": "1 clove garlic, peeled and crushed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "3 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "6 cups shredded Cheddar cheese",
+        "searchTerm": "shredded Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "fondue pot",
+        "searchTerm": "fondue pot"
+      },
+      {
+        "name": "small pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Create a roux with flour and heat before adding milk to prevent lumps",
+      "Heat milk slowly and whisk constantly to create a smooth base sauce",
+      "Add cheese gradually off heat, stirring constantly until melted and smooth; keep warm in fondue pot with low flame"
+    ],
+    "coachingPrompt": "Help the user create a smooth, creamy fondue by building a proper roux base and adding cheese gradually while stirring constantly."
+  },
+  "timestamp": "2026-02-05T23:32:42.648Z"
+}

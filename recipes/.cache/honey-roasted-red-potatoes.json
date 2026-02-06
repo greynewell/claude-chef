@@ -1,0 +1,62 @@
+{
+  "contentHash": "9c8e0c28015343ea",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound red potatoes",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "2 tablespoons diced onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 teaspoon dry mustard",
+        "searchTerm": "dry mustard",
+        "normalizedName": "Dry Mustard"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes into uniform quarter-inch pieces for even cooking",
+      "Brush glaze on potatoes partway through roasting to caramelize the outside"
+    ],
+    "coachingPrompt": "Suggest roasting at 400°F for 25-30 minutes, tossing halfway through until potatoes are crispy outside and tender inside."
+  },
+  "timestamp": "2026-02-06T09:24:29.255Z"
+}

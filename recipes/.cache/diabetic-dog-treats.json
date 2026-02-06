@@ -1,0 +1,42 @@
+{
+  "contentHash": "2a57463c24fb47b6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 ½ pounds beef liver, cut into pieces",
+        "searchTerm": "beef liver",
+        "normalizedName": "Beef Liver"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "food processor",
+        "searchTerm": "food processor"
+      }
+    ],
+    "cookingTips": [
+      "Ensure liver is fully cooked to kill any pathogens before serving to pets",
+      "Cool treats completely before offering to dog to prevent burns"
+    ],
+    "coachingPrompt": "These are dog treats - verify ingredient safety for canine consumption and appropriate portion sizes for pet health."
+  },
+  "timestamp": "2026-02-06T05:14:02.714Z"
+}

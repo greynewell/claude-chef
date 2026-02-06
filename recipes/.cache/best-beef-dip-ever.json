@@ -1,0 +1,52 @@
+{
+  "contentHash": "486c9c508c71b9e7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 pounds beef chuck roast",
+        "searchTerm": "beef chuck roast",
+        "normalizedName": "Beef Chuck Roast"
+      },
+      {
+        "ingredient": "1 tablespoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon dried rosemary",
+        "searchTerm": "dried rosemary",
+        "normalizedName": "Dried Rosemary"
+      },
+      {
+        "ingredient": "3 bay leaves",
+        "searchTerm": "bay leaves",
+        "normalizedName": "Bay Leaf"
+      },
+      {
+        "ingredient": "1 cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "6 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "slow cooker or Dutch oven"
+      },
+      {
+        "name": "serving bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook on low for 8 hours in slow cooker or 3-4 hours in oven at 325°F until beef shreds easily",
+      "Shred beef directly in cooking liquid to absorb maximum flavor",
+      "Strain broth and skim fat from surface before serving"
+    ],
+    "coachingPrompt": "Guide the user on using low and slow cooking to tenderize tough cuts and develop deep flavors"
+  },
+  "timestamp": "2026-02-05T23:54:28.045Z"
+}

@@ -1,0 +1,48 @@
+{
+  "contentHash": "3846e1351ed0a38b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 potatoes, peeled and sliced",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "½ tablespoon seasoning salt",
+        "searchTerm": "seasoning salt",
+        "normalizedName": "Seasoning Salt"
+      },
+      {
+        "ingredient": "¼ tablespoon dried parsley",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Parsley"
+      },
+      {
+        "ingredient": "4 tablespoons butter, sliced",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "Vegetable peeler",
+        "searchTerm": "peeler"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Slice potatoes uniformly for even cooking",
+      "Layer potatoes with butter and seasonings in baking dish",
+      "Cover with foil and bake at 350°F for 45-60 minutes until tender"
+    ],
+    "coachingPrompt": "This is a simple potato side dish. Would you like guidance on achieving crispy edges while keeping centers tender, or tips on scaling this recipe?"
+  },
+  "timestamp": "2026-02-06T13:05:48.695Z"
+}

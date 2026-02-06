@@ -1,0 +1,58 @@
+{
+  "contentHash": "82c1b8a5d94d6bde",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅓ cup apple juice",
+        "searchTerm": "apple juice",
+        "normalizedName": "Apple Juice"
+      },
+      {
+        "ingredient": "⅓ cup maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "3 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "2 tablespoons finely chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 cloves garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "4 (8 ounce) salmon fillets",
+        "searchTerm": "salmon fillets",
+        "normalizedName": "Salmon Fillet"
+      }
+    ],
+    "gear": [
+      {
+        "name": "grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Simmer sauce until slightly thickened for better adhesion to salmon",
+      "Oil grill grates well and preheat to prevent sticking",
+      "Brush glaze on salmon during the last few minutes of cooking to avoid burning"
+    ],
+    "coachingPrompt": "Explain grilling techniques for delicate salmon and glaze application timing."
+  },
+  "timestamp": "2026-02-06T11:55:22.811Z"
+}

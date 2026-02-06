@@ -1,0 +1,53 @@
+{
+  "contentHash": "cc6518bf5ac7e6ff",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cucumbers",
+        "searchTerm": "cucumber",
+        "normalizedName": "Cucumber"
+      },
+      {
+        "ingredient": "1 onion, cut into very thin slices",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "2 cups fat free sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Slice cucumbers and onions thin and let them sit with salt to draw out excess moisture",
+      "Drain well before combining with sour cream to prevent a watery salad",
+      "Chill for at least an hour before serving to allow flavors to meld"
+    ],
+    "coachingPrompt": "How does salting cucumbers improve the final texture? Why is draining important in this simple salad?"
+  },
+  "timestamp": "2026-02-06T13:03:47.452Z"
+}

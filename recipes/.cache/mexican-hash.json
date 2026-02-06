@@ -1,0 +1,68 @@
+{
+  "contentHash": "15a2a34e2a97a413",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "12 ounces uncooked chorizo sausage",
+        "searchTerm": "chorizo sausage",
+        "normalizedName": "Chorizo Sausage"
+      },
+      {
+        "ingredient": "¼ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "2 teaspoons vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 (16 ounce) package frozen diced hash brown potatoes",
+        "searchTerm": "hash brown potatoes",
+        "normalizedName": "Hash Brown Potato"
+      },
+      {
+        "ingredient": "½ teaspoon seasoning salt",
+        "searchTerm": "seasoning salt",
+        "normalizedName": "Seasoning Salt"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can Hunt's® Diced Tomatoes, drained",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Tomato"
+      },
+      {
+        "ingredient": "2 tablespoons coarsely chopped cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "1 avocado, cubed",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Cook chorizo first and remove excess grease before adding other ingredients",
+      "Use frozen hash browns for convenience and even cooking",
+      "Add avocado just before serving to prevent browning"
+    ],
+    "coachingPrompt": "Help the user brown chorizo, cook potatoes until crispy, combine with tomatoes and seasonings, then top with cilantro and avocado."
+  },
+  "timestamp": "2026-02-06T12:19:44.977Z"
+}

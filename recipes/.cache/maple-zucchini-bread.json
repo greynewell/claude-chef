@@ -1,0 +1,88 @@
+{
+  "contentHash": "b218fbfd2d6b6167",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 cup vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 cup packed brown sugar",
+        "searchTerm": "brown sugar",
+        "normalizedName": "Brown Sugar"
+      },
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 teaspoons maple flavored extract",
+        "searchTerm": "maple extract",
+        "normalizedName": "Maple Extract"
+      },
+      {
+        "ingredient": "2 ½ cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "½ cup wheat germ",
+        "searchTerm": "wheat germ",
+        "normalizedName": "Wheat Germ"
+      },
+      {
+        "ingredient": "2 teaspoons baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      },
+      {
+        "ingredient": "2 teaspoons salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ teaspoon baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "2 cups grated zucchini",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "1 cup chopped walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Loaf pans",
+        "searchTerm": "bread pans"
+      },
+      {
+        "name": "Mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "Grater",
+        "searchTerm": "box grater"
+      }
+    ],
+    "cookingTips": [
+      "Squeeze excess moisture from grated zucchini to prevent soggy bread",
+      "Don't overmix - stir until ingredients are just combined",
+      "This bread freezes well for up to 3 months"
+    ],
+    "coachingPrompt": "Teach the user how to properly prepare zucchini and explain how moisture management affects bread texture."
+  },
+  "timestamp": "2026-02-06T11:56:22.402Z"
+}

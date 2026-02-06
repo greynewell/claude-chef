@@ -1,0 +1,42 @@
+{
+  "contentHash": "7ae25402e445a16b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 apples",
+        "searchTerm": "apple",
+        "normalizedName": "Apple"
+      },
+      {
+        "ingredient": "1 (14 ounce) package individually wrapped caramels, unwrapped",
+        "searchTerm": "caramels",
+        "normalizedName": "Caramel"
+      },
+      {
+        "ingredient": "2 tablespoons milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "candy thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "wooden skewers",
+        "searchTerm": "skewers"
+      }
+    ],
+    "cookingTips": [
+      "Wash and dry apples thoroughly, then rub with vinegar to remove waxy coating for better caramel adhesion",
+      "Keep caramel warm but not hot for easy coating"
+    ],
+    "coachingPrompt": "Guide the user through the caramel coating process, emphasizing proper apple preparation and how to achieve an even, thick caramel coating."
+  },
+  "timestamp": "2026-02-06T01:22:34.618Z"
+}

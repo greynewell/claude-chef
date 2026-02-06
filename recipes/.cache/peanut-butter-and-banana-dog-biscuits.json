@@ -1,0 +1,63 @@
+{
+  "contentHash": "01563314bca948f9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅓ cup peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "½ cup mashed banana",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "1 tablespoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 cup whole wheat flour",
+        "searchTerm": "whole wheat flour",
+        "normalizedName": "Whole Wheat Flour"
+      },
+      {
+        "ingredient": "½ cup wheat germ",
+        "searchTerm": "wheat germ",
+        "normalizedName": "Wheat Germ"
+      },
+      {
+        "ingredient": "1 egg white, lightly beaten, for brushing",
+        "searchTerm": "egg white",
+        "normalizedName": "Egg White"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Cookie cutter",
+        "searchTerm": "cookie cutter"
+      }
+    ],
+    "cookingTips": [
+      "Use ripe bananas for maximum sweetness and easy mashing",
+      "Don't add xylitol or other artificial sweeteners as they are toxic to dogs",
+      "Brush biscuits with egg white before baking for a shiny finish"
+    ],
+    "coachingPrompt": "Guide the user on making dog-safe treats using only pet-appropriate ingredients and explain proper storage for keeping biscuits fresh."
+  },
+  "timestamp": "2026-02-06T14:21:59.703Z"
+}

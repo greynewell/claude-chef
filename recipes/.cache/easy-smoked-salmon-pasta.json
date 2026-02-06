@@ -1,0 +1,67 @@
+{
+  "contentHash": "8edcfbdf96bf46de",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package linguine pasta",
+        "searchTerm": "linguine pasta",
+        "normalizedName": "Linguine Pasta"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Extra-Virgin Olive Oil"
+      },
+      {
+        "ingredient": "1 shallot, minced",
+        "searchTerm": "shallot",
+        "normalizedName": "Shallot"
+      },
+      {
+        "ingredient": "1 ounce smoked salmon, cut into small pieces",
+        "searchTerm": "smoked salmon",
+        "normalizedName": "Smoked Salmon"
+      },
+      {
+        "ingredient": "1 tablespoon reduced-fat cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "3 tablespoons milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "pasta pot"
+      },
+      {
+        "name": "Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Reserve 1 cup pasta water before draining; use to adjust sauce consistency",
+      "Cook pasta 1-2 minutes under package time since it will continue cooking with sauce",
+      "Warm smoked salmon gently at the end to prevent overcooking delicate fish"
+    ],
+    "coachingPrompt": "Help the user build a delicate cream sauce that won't overpower smoked salmon and learn timing for combining pasta with sauce."
+  },
+  "timestamp": "2026-02-06T06:01:36.218Z"
+}

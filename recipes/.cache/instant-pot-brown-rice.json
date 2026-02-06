@@ -1,0 +1,48 @@
+{
+  "contentHash": "656c6d0659d8d778",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ½ cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 cups brown basmati rice",
+        "searchTerm": "brown basmati rice",
+        "normalizedName": "Brown Basmati Rice"
+      },
+      {
+        "ingredient": "1 tablespoon grapeseed oil  (Optional)",
+        "searchTerm": "grapeseed oil",
+        "normalizedName": "Grapeseed Oil"
+      },
+      {
+        "ingredient": "1 teaspoon kosher salt  (Optional)",
+        "searchTerm": "kosher salt",
+        "normalizedName": "Kosher Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Instant Pot",
+        "searchTerm": "instant pot pressure cooker"
+      },
+      {
+        "name": "Fine Mesh Strainer",
+        "searchTerm": "mesh strainer"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Rinse brown rice until water runs clear to remove excess starch",
+      "Use natural pressure release for 10 minutes for fluffier grains",
+      "The water-to-rice ratio of 1.25:1 is optimal for brown rice"
+    ],
+    "coachingPrompt": "Perfect brown rice depends on the right water ratio. Do you have a measuring cup for accuracy?"
+  },
+  "timestamp": "2026-02-06T09:46:13.338Z"
+}

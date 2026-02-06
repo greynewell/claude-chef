@@ -1,0 +1,48 @@
+{
+  "contentHash": "b59d68ca06f8f90b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ¼ cups Italian-style tipo 00 flour",
+        "searchTerm": "tipo 00 flour",
+        "normalizedName": "Tipo 00 Flour"
+      },
+      {
+        "ingredient": "3 large egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 pinch salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pasta Machine",
+        "searchTerm": "pasta machine"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Knead dough for 10 minutes until very smooth and elastic",
+      "Rest dough 30 minutes before rolling for better texture",
+      "Roll thin enough to see light through it - use pasta machine for consistency"
+    ],
+    "coachingPrompt": "Do you have a pasta machine, or are you experienced with rolling dough by hand?"
+  },
+  "timestamp": "2026-02-06T09:15:21.145Z"
+}

@@ -1,0 +1,47 @@
+{
+  "contentHash": "ac848aaf2186c47c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 hard bread cakes",
+        "searchTerm": "hard bread cakes",
+        "normalizedName": "Hard Bread Cake"
+      },
+      {
+        "ingredient": "1 pound salt cod steaks",
+        "searchTerm": "salt cod",
+        "normalizedName": "Salt Cod"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "½ pound fatback",
+        "searchTerm": "fatback",
+        "normalizedName": "Fatback"
+      }
+    ],
+    "gear": [
+      {
+        "name": "large pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Soak salt cod before cooking to remove excess saltiness",
+      "Crisp the fatback scruncheons in a skillet until golden for a textured topping"
+    ],
+    "coachingPrompt": "Guide the user through this traditional Newfoundland dish, explaining how to soften the hard bread in the cod cooking liquid."
+  },
+  "timestamp": "2026-02-06T06:41:36.110Z"
+}

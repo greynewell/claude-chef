@@ -1,0 +1,58 @@
+{
+  "contentHash": "75c74867f81f9998",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "thick cut boneless pork chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "fresh mushrooms",
+        "searchTerm": "mushrooms",
+        "normalizedName": "Mushroom"
+      },
+      {
+        "ingredient": "stewed tomatoes with juice",
+        "searchTerm": "stewed tomatoes",
+        "normalizedName": "Tomato"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Brown pork chops and set aside before sautéing mushrooms and onions for better texture",
+      "Stewed tomatoes provide natural acidity and body; no need to reduce further",
+      "Simmer gently for 10-15 minutes so pork stays tender and juicy"
+    ],
+    "coachingPrompt": "Show how canned stewed tomatoes create a quick, flavorful braising liquid."
+  },
+  "timestamp": "2026-02-06T15:06:24.091Z"
+}

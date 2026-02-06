@@ -1,0 +1,58 @@
+{
+  "contentHash": "199b5ad854cff299",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "3 very ripe bananas, mashed",
+        "searchTerm": "banana",
+        "normalizedName": "Banana"
+      },
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon baking soda",
+        "searchTerm": "baking soda",
+        "normalizedName": "Baking Soda"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Muffin Tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "This minimal ingredient list is perfect for quick weekday baking with pantry staples",
+      "Use eggs and banana as the primary wet ingredients for moisture without added fat",
+      "Preheat oven to 350°F and bake 18-22 minutes until a toothpick inserted comes out clean"
+    ],
+    "coachingPrompt": "This is a stripped-down version with minimal ingredients. Looking for ways to make it even lighter or add flavor?"
+  },
+  "timestamp": "2026-02-06T11:24:28.111Z"
+}

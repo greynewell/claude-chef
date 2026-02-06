@@ -1,0 +1,58 @@
+{
+  "contentHash": "64acb227e8a98eb0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup orange juice",
+        "searchTerm": "orange juice",
+        "normalizedName": "Orange Juice"
+      },
+      {
+        "ingredient": "⅓ cup reduced-sodium soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "¼ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 teaspoons minced fresh rosemary",
+        "searchTerm": "fresh rosemary",
+        "normalizedName": "Rosemary"
+      },
+      {
+        "ingredient": "2 green onions, sliced",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "4 thick-cut boneless center cut pork chops",
+        "searchTerm": "pork chops",
+        "normalizedName": "Pork Chop"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Shallow Baking Dish",
+        "searchTerm": "baking dish"
+      }
+    ],
+    "cookingTips": [
+      "Marinate pork chops for at least 2 hours to allow citrus and soy flavors to penetrate",
+      "Bring pork to room temperature before grilling for even cooking",
+      "Rest grilled chops for 5 minutes before serving to retain juices"
+    ],
+    "coachingPrompt": "How would you balance the sweet citrus and salty soy marinade while preventing the pork from drying out on the grill?"
+  },
+  "timestamp": "2026-02-05T22:04:40.623Z"
+}

@@ -1,0 +1,63 @@
+{
+  "contentHash": "4686ab404238b5f7",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "⅓ cup diced red bell pepper",
+        "searchTerm": "red bell pepper",
+        "normalizedName": "Red Bell Pepper"
+      },
+      {
+        "ingredient": "⅓ cup frozen green peas",
+        "searchTerm": "frozen peas",
+        "normalizedName": "Pea"
+      },
+      {
+        "ingredient": "¼ cup chopped green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "4 cups cold cooked rice",
+        "searchTerm": "rice",
+        "normalizedName": "Rice"
+      },
+      {
+        "ingredient": "2 tablespoons soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Wok or Large Skillet",
+        "searchTerm": "wok"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      }
+    ],
+    "cookingTips": [
+      "Use day-old refrigerated rice to prevent clumping and achieve better texture",
+      "Scramble egg separately then add back for distinct egg pieces throughout",
+      "Keep heat high and stir constantly for even cooking and slight charring"
+    ],
+    "coachingPrompt": "What techniques help prevent fried rice from becoming mushy or overly oily?"
+  },
+  "timestamp": "2026-02-06T13:13:22.737Z"
+}

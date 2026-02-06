@@ -1,0 +1,48 @@
+{
+  "contentHash": "2905a0a3b661def6",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 hot dogs",
+        "searchTerm": "hot dogs",
+        "normalizedName": "Hot Dog"
+      },
+      {
+        "ingredient": "8 slices bacon",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "8 hot dog buns, split and toasted",
+        "searchTerm": "hot dog buns",
+        "normalizedName": "Hot Dog Bun"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Wrap bacon tightly around hot dogs and secure with toothpicks if needed",
+      "Fry in oil until bacon is crispy and hot dogs are heated through",
+      "Toast buns lightly before serving for better texture"
+    ],
+    "coachingPrompt": "Show me how to wrap and fry hot dogs with bacon until everything is crispy and delicious."
+  },
+  "timestamp": "2026-02-06T07:02:43.280Z"
+}

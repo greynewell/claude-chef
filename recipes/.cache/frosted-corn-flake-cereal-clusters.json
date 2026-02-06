@@ -1,0 +1,43 @@
+{
+  "contentHash": "273911bde37efeaa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup sugar frosted corn flake cereal",
+        "searchTerm": "frosted corn flakes",
+        "normalizedName": "Frosted Corn Flake Cereal"
+      },
+      {
+        "ingredient": "1 cup butterscotch chips",
+        "searchTerm": "butterscotch chips",
+        "normalizedName": "Butterscotch Chip"
+      },
+      {
+        "ingredient": "1 cup peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Medium saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Melt butterscotch chips and peanut butter over low heat to prevent burning",
+      "Stir in cereal gently to avoid crushing the flakes",
+      "Drop spoonfuls quickly onto parchment before mixture hardens"
+    ],
+    "coachingPrompt": "Guide the cook on managing melting temperatures and working quickly with the mixture before it sets."
+  },
+  "timestamp": "2026-02-06T07:08:40.801Z"
+}

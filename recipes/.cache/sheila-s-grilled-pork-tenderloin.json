@@ -1,0 +1,52 @@
+{
+  "contentHash": "d6443f3ff83737ad",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "⅓ cup soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      },
+      {
+        "ingredient": "⅓ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 ½ teaspoons chopped garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon dry mustard",
+        "searchTerm": "dry mustard",
+        "normalizedName": "Dry Mustard"
+      },
+      {
+        "ingredient": "2 (1 1/4 pound) pork tenderloins, cut into 2-inch pieces",
+        "searchTerm": "pork tenderloin",
+        "normalizedName": "Pork Tenderloin"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      },
+      {
+        "name": "Meat thermometer",
+        "searchTerm": "meat thermometer"
+      }
+    ],
+    "cookingTips": [
+      "Marinate pork for at least 2 hours to allow flavors to penetrate",
+      "Use a meat thermometer to ensure pork reaches 145°F internal temperature"
+    ],
+    "coachingPrompt": "How long should the pork marinate to achieve optimal flavor?"
+  },
+  "timestamp": "2026-02-06T17:26:33.442Z"
+}

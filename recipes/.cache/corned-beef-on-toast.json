@@ -1,0 +1,53 @@
+{
+  "contentHash": "4138f1bcd8214200",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "2 tablespoons all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¼ tablespoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 ½ cups milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "8 ounces corned beef",
+        "searchTerm": "corned beef",
+        "normalizedName": "Corned Beef"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "toaster",
+        "searchTerm": "toaster"
+      }
+    ],
+    "cookingTips": [
+      "Make a roux with butter and flour before adding milk to prevent lumps",
+      "Heat milk before whisking in to create a smooth sauce",
+      "Warm the corned beef gently to avoid drying it out"
+    ],
+    "coachingPrompt": "How comfortable are you making cream sauce from scratch? Would you like tips on achieving the right consistency?"
+  },
+  "timestamp": "2026-02-06T03:54:24.805Z"
+}

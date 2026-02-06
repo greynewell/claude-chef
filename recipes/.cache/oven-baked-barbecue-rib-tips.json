@@ -1,0 +1,43 @@
+{
+  "contentHash": "66389a54de6603cc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 ½ pounds pork rib tips",
+        "searchTerm": "pork rib tips",
+        "normalizedName": "Pork Rib Tip"
+      },
+      {
+        "ingredient": "1 tablespoon seasoned salt",
+        "searchTerm": "seasoned salt",
+        "normalizedName": "Seasoned Salt"
+      },
+      {
+        "ingredient": "¾ cup barbecue sauce",
+        "searchTerm": "barbecue sauce",
+        "normalizedName": "Barbecue Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Aluminum foil",
+        "searchTerm": "aluminum foil"
+      },
+      {
+        "name": "Brush",
+        "searchTerm": "pastry brush"
+      }
+    ],
+    "cookingTips": [
+      "Line pan with foil for easy cleanup",
+      "Apply sauce in multiple layers during final cooking stages",
+      "Let ribs rest for 5 minutes after cooking before serving"
+    ],
+    "coachingPrompt": "Guide the user on low and slow baking technique and proper sauce application timing."
+  },
+  "timestamp": "2026-02-06T13:50:12.764Z"
+}

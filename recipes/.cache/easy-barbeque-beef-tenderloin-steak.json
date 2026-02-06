@@ -1,0 +1,48 @@
+{
+  "contentHash": "4983a5e83488461f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 (2 inch thick) steaks beef tenderloin",
+        "searchTerm": "beef tenderloin steak",
+        "normalizedName": "Beef Tenderloin Steak"
+      },
+      {
+        "ingredient": "1 tablespoon olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 cloves crushed garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon meat tenderizer",
+        "searchTerm": "meat tenderizer",
+        "normalizedName": "Meat Tenderizer"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Grill",
+        "searchTerm": "grill"
+      },
+      {
+        "name": "Meat Thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Tongs",
+        "searchTerm": "tongs"
+      }
+    ],
+    "cookingTips": [
+      "Let steaks reach room temperature before grilling for even cooking",
+      "Use meat tenderizer properly by pounding gently and evenly",
+      "Rest steaks for 5 minutes after cooking to retain juices"
+    ],
+    "coachingPrompt": "What internal temperature should beef tenderloin steaks reach for medium-rare doneness?"
+  },
+  "timestamp": "2026-02-06T05:33:17.116Z"
+}

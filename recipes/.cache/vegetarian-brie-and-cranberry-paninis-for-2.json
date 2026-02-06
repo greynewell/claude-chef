@@ -1,0 +1,58 @@
+{
+  "contentHash": "5ae0b55dfcc36cf1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "1 tablespoon Dijon mustard",
+        "searchTerm": "dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "2 ciabatta rolls, sliced in half",
+        "searchTerm": "ciabatta rolls",
+        "normalizedName": "Ciabatta Roll"
+      },
+      {
+        "ingredient": "4 ounces Brie cheese, sliced",
+        "searchTerm": "brie cheese",
+        "normalizedName": "Brie Cheese"
+      },
+      {
+        "ingredient": "3 tablespoons cranberry sauce",
+        "searchTerm": "cranberry sauce",
+        "normalizedName": "Cranberry Sauce"
+      },
+      {
+        "ingredient": "2 cups baby spinach leaves",
+        "searchTerm": "baby spinach",
+        "normalizedName": "Baby Spinach"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Panini press or skillet",
+        "searchTerm": "panini press"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "serrated knife"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Spread mustard on bread for subtle sharpness to complement sweet cranberry",
+      "Heat press or skillet adequately for crispy exterior and melted cheese",
+      "Press gently to avoid squishing filling out of sandwich"
+    ],
+    "coachingPrompt": "Guide me through making a perfectly toasted panini with melted brie and balanced flavors."
+  },
+  "timestamp": "2026-02-06T21:42:44.819Z"
+}

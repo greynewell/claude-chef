@@ -1,0 +1,52 @@
+{
+  "contentHash": "981ae4563becef4a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "½ cup lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      },
+      {
+        "ingredient": "⅛ cup olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "2 tablespoons dried rosemary",
+        "searchTerm": "dried rosemary",
+        "normalizedName": "Dried Rosemary"
+      },
+      {
+        "ingredient": "4 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      },
+      {
+        "ingredient": "1 lemon, sliced",
+        "searchTerm": "lemon",
+        "normalizedName": "Lemon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "grill or skillet",
+        "searchTerm": "grill pan"
+      },
+      {
+        "name": "tongs",
+        "searchTerm": "cooking tongs"
+      }
+    ],
+    "cookingTips": [
+      "Marinate chicken for at least 30 minutes, preferably 2-4 hours, for deeper flavor penetration",
+      "Reserve some lemon slices for garnish while grilling"
+    ],
+    "coachingPrompt": "Help the user understand how acidic marinades like lemon juice work to tenderize poultry while infusing herbaceous flavors."
+  },
+  "timestamp": "2026-02-06T12:01:25.710Z"
+}

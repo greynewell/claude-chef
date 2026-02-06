@@ -1,0 +1,43 @@
+{
+  "contentHash": "177991d547f1a565",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (32 ounce) package tater tots",
+        "searchTerm": "tater tots",
+        "normalizedName": "Tater Tot"
+      },
+      {
+        "ingredient": "2 pounds sliced bacon, cut in half",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "6 slices American cheese",
+        "searchTerm": "American cheese",
+        "normalizedName": "American Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "toothpicks",
+        "searchTerm": "toothpicks"
+      }
+    ],
+    "cookingTips": [
+      "Use toothpicks to secure bacon around tater tots for easier handling",
+      "Arrange on baking sheet and bake according to tater tot package directions to preheat them slightly",
+      "Top with American cheese slices in final 5 minutes of baking to melt, then bake at 400°F until bacon is crispy"
+    ],
+    "coachingPrompt": "Explain this fun, casual appetizer and help the user coordinate timing between tater tots and bacon crispiness."
+  },
+  "timestamp": "2026-02-05T22:54:35.194Z"
+}

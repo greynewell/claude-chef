@@ -1,0 +1,44 @@
+{
+  "contentHash": "4fe3d1b1307827f4",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 (1.5 ounce) bars milk chocolate candy bars (such as Hershey's®)",
+        "searchTerm": "milk chocolate bar",
+        "normalizedName": "Milk Chocolate Bar"
+      },
+      {
+        "ingredient": "2 tablespoons milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "12 marshmallows",
+        "searchTerm": "marshmallow",
+        "normalizedName": "Marshmallow"
+      },
+      {
+        "ingredient": "2 (4.8 ounce) packages graham crackers",
+        "searchTerm": "graham cracker",
+        "normalizedName": "Graham Cracker"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Layer chocolate with milk to create smooth base, then top with marshmallows",
+      "Bake at 350°F for 10-12 minutes until marshmallows are golden and beginning to brown",
+      "Serve immediately with graham crackers for dipping while warm and gooey"
+    ],
+    "coachingPrompt": "How do you achieve the perfect balance between melted chocolate and toasted marshmallows in this dip?"
+  },
+  "timestamp": "2026-02-05T23:11:39.014Z"
+}

@@ -1,0 +1,58 @@
+{
+  "contentHash": "d74116aeb662bfa5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "5 roma (plum) tomatoes",
+        "searchTerm": "roma tomatoes",
+        "normalizedName": "Roma Tomato"
+      },
+      {
+        "ingredient": "3 serrano peppers",
+        "searchTerm": "serrano peppers",
+        "normalizedName": "Serrano Pepper"
+      },
+      {
+        "ingredient": "½ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "⅔ cup chopped fresh cilantro",
+        "searchTerm": "cilantro",
+        "normalizedName": "Cilantro"
+      },
+      {
+        "ingredient": "1 clove garlic, peeled and crushed",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Food Processor",
+        "searchTerm": "food processor"
+      },
+      {
+        "name": "Cutting Board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "For chunky salsa, chop ingredients by hand; for smoother salsa, use food processor",
+      "Let salsa rest 30 minutes to allow flavors to meld",
+      "Taste and adjust salt and heat level before serving"
+    ],
+    "coachingPrompt": "Do you prefer fresh salsa chunky or smooth? Would guidance on texture control help?"
+  },
+  "timestamp": "2026-02-06T12:22:08.191Z"
+}

@@ -1,0 +1,57 @@
+{
+  "contentHash": "0b29822ae80fff81",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 cup wheat berries",
+        "searchTerm": "wheat berries",
+        "normalizedName": "Wheat Berry"
+      },
+      {
+        "ingredient": "1 teaspoon olive oil, or as needed",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "5 cloves garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 cup pitted and finely chopped kalamata olives",
+        "searchTerm": "kalamata olives",
+        "normalizedName": "Kalamata Olive"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook wheat berries until tender but still chewy, about 1 hour",
+      "Chop olives finely so they distribute evenly throughout the salad"
+    ],
+    "coachingPrompt": "How would you prepare this salad ahead of time for best flavor?"
+  },
+  "timestamp": "2026-02-06T22:01:17.472Z"
+}

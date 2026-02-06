@@ -1,0 +1,63 @@
+{
+  "contentHash": "b24e07a14c0298aa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup peanut oil",
+        "searchTerm": "peanut oil",
+        "normalizedName": "Peanut Oil"
+      },
+      {
+        "ingredient": "15 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "30 cups cold cooked rice",
+        "searchTerm": "rice",
+        "normalizedName": "Rice"
+      },
+      {
+        "ingredient": "6 cups frozen peas, thawed",
+        "searchTerm": "frozen peas",
+        "normalizedName": "Pea"
+      },
+      {
+        "ingredient": "3 cups cubed fully cooked ham",
+        "searchTerm": "ham",
+        "normalizedName": "Ham"
+      },
+      {
+        "ingredient": "3 cups chopped green onion",
+        "searchTerm": "green onion",
+        "normalizedName": "Green Onion"
+      },
+      {
+        "ingredient": "5 ounces soy sauce",
+        "searchTerm": "soy sauce",
+        "normalizedName": "Soy Sauce"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Wok or Skillet",
+        "searchTerm": "wok"
+      },
+      {
+        "name": "Wooden Spoon",
+        "searchTerm": "wooden spoon"
+      },
+      {
+        "name": "Large Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Use day-old rice for best results; fresh rice will be too moist",
+      "Cook eggs separately and set aside before stir-frying rice",
+      "Add soy sauce gradually to control saltiness"
+    ],
+    "coachingPrompt": "How would you adapt this recipe to feed a smaller group, and what would you do differently with fresh rice instead of cold cooked rice?"
+  },
+  "timestamp": "2026-02-06T15:07:36.185Z"
+}

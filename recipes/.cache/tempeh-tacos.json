@@ -1,0 +1,68 @@
+{
+  "contentHash": "1391ab281f06ea95",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "extra virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "onion, minced",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "garlic, minced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "spicy flavored tempeh, coarsely grated",
+        "searchTerm": "tempeh",
+        "normalizedName": "Tempeh"
+      },
+      {
+        "ingredient": "vegetable broth",
+        "searchTerm": "vegetable broth",
+        "normalizedName": "Vegetable Broth"
+      },
+      {
+        "ingredient": "taco seasoning mix",
+        "searchTerm": "taco seasoning",
+        "normalizedName": "Taco Seasoning"
+      },
+      {
+        "ingredient": "dried oregano",
+        "searchTerm": "oregano",
+        "normalizedName": "Oregano"
+      },
+      {
+        "ingredient": "ground red pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "grater",
+        "searchTerm": "box grater"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Grate tempeh finely to create a crumbly texture similar to ground meat",
+      "Sauté aromatics first to build a flavorful base before adding tempeh",
+      "Simmer until broth is mostly absorbed, about 5-7 minutes, for concentrated seasoning"
+    ],
+    "coachingPrompt": "Explain how grating tempeh creates texture that mimics ground meat, and guide the user through building layers of Mexican spice flavors."
+  },
+  "timestamp": "2026-02-06T20:23:26.335Z"
+}

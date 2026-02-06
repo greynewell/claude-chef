@@ -1,0 +1,43 @@
+{
+  "contentHash": "6c95829cbbf8f160",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 lemons",
+        "searchTerm": "lemons",
+        "normalizedName": "Lemon"
+      },
+      {
+        "ingredient": "8 cups cold water, or as needed",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "2 cups white sugar, or as needed",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "vegetable peeler",
+        "searchTerm": "vegetable peeler"
+      }
+    ],
+    "cookingTips": [
+      "Blanch peels multiple times to reduce bitterness",
+      "Simmer gently in syrup until translucent",
+      "Dry completely on parchment paper before storing"
+    ],
+    "coachingPrompt": "Help with blanching cycles and achieving proper translucent appearance."
+  },
+  "timestamp": "2026-02-06T01:18:28.874Z"
+}

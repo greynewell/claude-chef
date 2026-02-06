@@ -1,0 +1,53 @@
+{
+  "contentHash": "19ea8be0fce5f7cb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "8 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 pound raw Virginia peanuts in shells",
+        "searchTerm": "raw Virginia peanuts",
+        "normalizedName": "Raw Virginia Peanut in Shell"
+      },
+      {
+        "ingredient": "⅓ cup salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 tablespoon Creole seasoning (such as Tony Chachere's®)",
+        "searchTerm": "Creole seasoning",
+        "normalizedName": "Creole Seasoning"
+      },
+      {
+        "ingredient": "1 tablespoon liquid crab boil seasoning",
+        "searchTerm": "liquid crab boil",
+        "normalizedName": "Liquid Crab Boil Seasoning"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Instant Pot",
+        "searchTerm": "instant pot pressure cooker"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Slotted Spoon",
+        "searchTerm": "slotted spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use raw peanuts in shells, not roasted, for authentic boiled peanuts",
+      "The salt penetrates the shells, seasoning the nuts inside",
+      "Allow natural pressure release for tender, well-seasoned peanuts"
+    ],
+    "coachingPrompt": "Boiled peanuts are a Southern specialty. Do you have access to raw Virginia peanuts in shells?"
+  },
+  "timestamp": "2026-02-06T09:46:13.340Z"
+}

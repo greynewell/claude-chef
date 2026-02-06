@@ -1,0 +1,57 @@
+{
+  "contentHash": "341f3ad1f62d7b51",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup uncooked white rice",
+        "searchTerm": "white rice",
+        "normalizedName": "White Rice"
+      },
+      {
+        "ingredient": "1 (1 ounce) package dry onion soup mix",
+        "searchTerm": "dry onion soup mix",
+        "normalizedName": "Dry Onion Soup Mix"
+      },
+      {
+        "ingredient": "2 (10.75 ounce) cans condensed cream of mushroom soup",
+        "searchTerm": "cream of mushroom soup",
+        "normalizedName": "Cream of Mushroom Soup"
+      },
+      {
+        "ingredient": "1 (4.5 ounce) can sliced mushrooms",
+        "searchTerm": "canned sliced mushrooms",
+        "normalizedName": "Canned Sliced Mushroom"
+      },
+      {
+        "ingredient": "1 cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "6 skinless, boneless chicken breast halves",
+        "searchTerm": "chicken breast",
+        "normalizedName": "Chicken Breast"
+      }
+    ],
+    "gear": [
+      {
+        "name": "casserole dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "bowl"
+      }
+    ],
+    "cookingTips": [
+      "Mix rice and liquid before baking to ensure proper absorption",
+      "Arrange chicken on top for even cooking and attractive presentation"
+    ],
+    "coachingPrompt": "Teach the user how to build a one-dish casserole with properly cooked rice and tender chicken."
+  },
+  "timestamp": "2026-02-06T02:23:22.985Z"
+}

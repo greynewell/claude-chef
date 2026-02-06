@@ -1,0 +1,53 @@
+{
+  "contentHash": "7c38a88e6665107a",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 ½ pounds baking potatoes",
+        "searchTerm": "baking potatoes",
+        "normalizedName": "Baking Potato"
+      },
+      {
+        "ingredient": "1 teaspoon vegetable oil",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      },
+      {
+        "ingredient": "1 tablespoon white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 teaspoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "1 pinch ground cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "knife",
+        "searchTerm": "chef's knife"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes into uniform fries for even baking and crispness",
+      "Add a pinch of sugar to enhance browning and create a crispy exterior",
+      "Bake at 450°F for 20-25 minutes, stirring halfway through"
+    ],
+    "coachingPrompt": "Show the user how a minimal amount of oil and a touch of sugar creates crispy oven fries without deep frying."
+  },
+  "timestamp": "2026-02-06T13:53:13.280Z"
+}

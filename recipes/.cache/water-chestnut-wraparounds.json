@@ -1,0 +1,48 @@
+{
+  "contentHash": "e8479438f847d7dd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "¼ cup shoyu (soy and wheat soy sauce)",
+        "searchTerm": "shoyu",
+        "normalizedName": "Shoyu"
+      },
+      {
+        "ingredient": "2 tablespoons white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 (5 ounce) cans water chestnuts, drained",
+        "searchTerm": "water chestnut",
+        "normalizedName": "Water Chestnut"
+      },
+      {
+        "ingredient": "10 slices bacon, cut in half",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Shallow bowl",
+        "searchTerm": "bowl"
+      },
+      {
+        "name": "Toothpicks",
+        "searchTerm": "toothpicks"
+      }
+    ],
+    "cookingTips": [
+      "Pat water chestnuts dry before wrapping to help bacon crisp properly",
+      "Secure bacon with toothpicks to keep from unwrapping during cooking",
+      "Bake at 400°F for 20-25 minutes until bacon is crispy, turning halfway through"
+    ],
+    "coachingPrompt": "How will you prevent the bacon from burning while ensuring the water chestnuts are heated through?"
+  },
+  "timestamp": "2026-02-06T21:58:22.731Z"
+}

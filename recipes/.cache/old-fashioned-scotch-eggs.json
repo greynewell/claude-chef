@@ -1,0 +1,53 @@
+{
+  "contentHash": "b9481e5baf6ee5b5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 pound pork sausage, formed into 6 patties",
+        "searchTerm": "pork sausage",
+        "normalizedName": "Pork Sausage"
+      },
+      {
+        "ingredient": "4 eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "2 cups seasoned bread crumbs",
+        "searchTerm": "bread crumbs",
+        "normalizedName": "Bread Crumb"
+      },
+      {
+        "ingredient": "1 quart vegetable oil for frying",
+        "searchTerm": "vegetable oil",
+        "normalizedName": "Vegetable Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "thermometer",
+        "searchTerm": "thermometer"
+      },
+      {
+        "name": "shallow bowls",
+        "searchTerm": "shallow bowls"
+      }
+    ],
+    "cookingTips": [
+      "Hard boil eggs until just set; slightly undercooked yolks will remain jammy when reheated",
+      "Work quickly when wrapping sausage around eggs so meat stays cold and pliable",
+      "Maintain oil at 350°F for golden crust without burning before sausage is cooked through"
+    ],
+    "coachingPrompt": "Guide the user through the technique of wrapping sausage evenly around eggs and teach them how to achieve a perfectly cooked sausage exterior with a jammy yolk inside."
+  },
+  "timestamp": "2026-02-06T13:33:59.133Z"
+}

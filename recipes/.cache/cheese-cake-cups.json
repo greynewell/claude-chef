@@ -1,0 +1,53 @@
+{
+  "contentHash": "6a3b5764517b9aeb",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "16 vanilla wafer cookies",
+        "searchTerm": "vanilla wafer cookie",
+        "normalizedName": "Vanilla Wafer Cookie"
+      },
+      {
+        "ingredient": "2 (8 ounce) packages cream cheese, softened",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "¾ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Muffin Tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "Electric Mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "Cupcake Liners",
+        "searchTerm": "cupcake liners"
+      }
+    ],
+    "cookingTips": [
+      "Place one vanilla wafer in each liner to create a crust base",
+      "Beat cream cheese and sugar until completely smooth before adding eggs",
+      "Bake at 325°F for 20-25 minutes until set but slightly jiggly in center"
+    ],
+    "coachingPrompt": "Help the cook create individual cheesecake portions using a muffin tin and simple ingredients."
+  },
+  "timestamp": "2026-02-06T01:45:13.061Z"
+}

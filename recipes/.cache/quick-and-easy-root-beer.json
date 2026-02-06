@@ -1,0 +1,48 @@
+{
+  "contentHash": "05b6332cbc43edcd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "3 cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "2 tablespoons root beer extract",
+        "searchTerm": "root beer extract",
+        "normalizedName": "Root Beer Extract"
+      },
+      {
+        "ingredient": "2 liters carbonated water",
+        "searchTerm": "carbonated water",
+        "normalizedName": "Carbonated Water"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "large pitcher",
+        "searchTerm": "pitcher"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Dissolve sugar completely in hot water before cooling",
+      "Cool syrup completely before adding carbonated water",
+      "Add carbonated water gently to preserve fizz"
+    ],
+    "coachingPrompt": "How should the user make the syrup base? When should they add the carbonated water? Any serving suggestions?"
+  },
+  "timestamp": "2026-02-06T15:38:36.243Z"
+}

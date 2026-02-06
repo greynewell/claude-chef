@@ -1,0 +1,68 @@
+{
+  "contentHash": "ed5410c727e47bd0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "seafood seasoning",
+        "searchTerm": "Old Bay seasoning",
+        "normalizedName": "Seafood Seasoning"
+      },
+      {
+        "ingredient": "red potatoes",
+        "searchTerm": "red potatoes",
+        "normalizedName": "Red Potato"
+      },
+      {
+        "ingredient": "sweet onion",
+        "searchTerm": "sweet onion",
+        "normalizedName": "Sweet Onion"
+      },
+      {
+        "ingredient": "turkey kielbasa",
+        "searchTerm": "kielbasa",
+        "normalizedName": "Turkey Kielbasa"
+      },
+      {
+        "ingredient": "corn",
+        "searchTerm": "corn",
+        "normalizedName": "Corn"
+      },
+      {
+        "ingredient": "shrimp",
+        "searchTerm": "shrimp",
+        "normalizedName": "Shrimp"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Serving Platter",
+        "searchTerm": "serving platter"
+      }
+    ],
+    "cookingTips": [
+      "Cut potatoes into uniform pieces so they cook evenly with other ingredients",
+      "Add ingredients in stages based on cooking time—potatoes first, shrimp last",
+      "This is a one-pot meal perfect for casual entertaining and family-style service"
+    ],
+    "coachingPrompt": "This is a crowd-pleasing one-pot meal. Would you like tips on timing each ingredient addition?"
+  },
+  "timestamp": "2026-02-06T06:26:26.178Z"
+}

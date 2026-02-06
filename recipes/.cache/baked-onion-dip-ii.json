@@ -1,0 +1,47 @@
+{
+  "contentHash": "d95ce3a208564e9b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) package shredded Cheddar cheese",
+        "searchTerm": "cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "2 cups mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "2 cups chopped sweet onion",
+        "searchTerm": "sweet onion",
+        "normalizedName": "Sweet Onion"
+      },
+      {
+        "ingredient": "2 tablespoons grated Parmesan cheese",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking dish",
+        "searchTerm": "baking dish"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "grater",
+        "searchTerm": "box grater"
+      }
+    ],
+    "cookingTips": [
+      "Using shredded Cheddar adds more flavor complexity than just mayonnaise and onion",
+      "Grating fresh Parmesan on top before baking adds a nice golden crust"
+    ],
+    "coachingPrompt": "What's the difference in flavor and texture between these two versions of onion dip?"
+  },
+  "timestamp": "2026-02-05T23:08:41.740Z"
+}

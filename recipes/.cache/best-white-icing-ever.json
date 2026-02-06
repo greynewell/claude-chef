@@ -1,0 +1,48 @@
+{
+  "contentHash": "44fe6368a2706ed0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 cups confectioners' sugar",
+        "searchTerm": "powdered sugar",
+        "normalizedName": "Powdered Sugar"
+      },
+      {
+        "ingredient": "1 cup shortening",
+        "searchTerm": "shortening",
+        "normalizedName": "Shortening"
+      },
+      {
+        "ingredient": "2 tablespoons water",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 teaspoon clear imitation vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Electric mixer",
+        "searchTerm": "electric mixer"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Beat ingredients on medium speed for 3-5 minutes until light and fluffy",
+      "Add water gradually to achieve desired consistency",
+      "Use immediately or store in an airtight container"
+    ],
+    "coachingPrompt": "Help the user understand how to achieve the perfect spreadable consistency by adding water incrementally."
+  },
+  "timestamp": "2026-02-06T00:04:41.715Z"
+}

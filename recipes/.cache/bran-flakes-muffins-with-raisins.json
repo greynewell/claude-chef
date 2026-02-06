@@ -1,0 +1,68 @@
+{
+  "contentHash": "696226084d29687b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "bran flakes cereal with raisins",
+        "searchTerm": "bran flakes cereal",
+        "normalizedName": "Bran Flake Cereal"
+      },
+      {
+        "ingredient": "milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "shortening",
+        "searchTerm": "shortening",
+        "normalizedName": "Shortening"
+      },
+      {
+        "ingredient": "all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "baking powder",
+        "searchTerm": "baking powder",
+        "normalizedName": "Baking Powder"
+      },
+      {
+        "ingredient": "salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "muffin tin",
+        "searchTerm": "muffin tin"
+      },
+      {
+        "name": "mixing bowls",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      }
+    ],
+    "cookingTips": [
+      "Soak cereal in milk before mixing for better texture",
+      "Let batter rest 10 minutes before baking",
+      "Bake at 375°F for 15-20 minutes until golden"
+    ],
+    "coachingPrompt": "Do you prefer using oil or shortening in muffins, and why?"
+  },
+  "timestamp": "2026-02-06T00:33:03.009Z"
+}

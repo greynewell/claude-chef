@@ -1,0 +1,57 @@
+{
+  "contentHash": "b5c2419722f8f63b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups heavy whipping cream",
+        "searchTerm": "heavy cream",
+        "normalizedName": "Heavy Whipping Cream"
+      },
+      {
+        "ingredient": "1 cup half-and-half cream",
+        "searchTerm": "half and half",
+        "normalizedName": "Half-and-Half Cream"
+      },
+      {
+        "ingredient": "1 ⅛ cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "3 tablespoons grated lemon zest",
+        "searchTerm": "lemon zest",
+        "normalizedName": "Lemon Zest"
+      },
+      {
+        "ingredient": "5 egg yolks",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg Yolk"
+      },
+      {
+        "ingredient": "¾ cup fresh lemon juice",
+        "searchTerm": "lemon juice",
+        "normalizedName": "Lemon Juice"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Ice cream maker",
+        "searchTerm": "ice cream maker"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Chill the cream mixture thoroughly before churning for best texture",
+      "Zest lemons before juicing to avoid losing zest in the liquid"
+    ],
+    "coachingPrompt": "Help ensure the user properly tempers eggs and achieves proper churn time for smooth ice cream."
+  },
+  "timestamp": "2026-02-06T19:53:07.394Z"
+}

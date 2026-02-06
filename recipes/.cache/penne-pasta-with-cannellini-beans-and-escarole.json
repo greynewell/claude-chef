@@ -1,0 +1,58 @@
+{
+  "contentHash": "004fef0029c82ecc",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (16 ounce) package dry penne pasta",
+        "searchTerm": "penne pasta",
+        "normalizedName": "Penne Pasta"
+      },
+      {
+        "ingredient": "1 head escarole, chopped",
+        "searchTerm": "escarole",
+        "normalizedName": "Escarole"
+      },
+      {
+        "ingredient": "1 (15.5 ounce) can cannellini beans, with liquid",
+        "searchTerm": "cannellini beans",
+        "normalizedName": "Cannellini Bean"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can diced tomatoes with garlic and onion, drained",
+        "searchTerm": "diced tomatoes",
+        "normalizedName": "Diced Tomato"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Colander",
+        "searchTerm": "colander"
+      },
+      {
+        "name": "Wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Add escarole near the end of cooking to preserve its texture and bright flavor",
+      "Use bean liquid to add body to the dish and prevent it from becoming dry",
+      "This is a one-pot meal; cook everything together for convenience"
+    ],
+    "coachingPrompt": "How do I prepare escarole and prevent it from becoming bitter in this dish?"
+  },
+  "timestamp": "2026-02-06T14:31:00.374Z"
+}

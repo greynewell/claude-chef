@@ -1,0 +1,67 @@
+{
+  "contentHash": "8b9bbd90fa289e5f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "6 eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "⅓ cup milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "¼ cup shredded Cheddar cheese",
+        "searchTerm": "Cheddar cheese",
+        "normalizedName": "Cheddar Cheese"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 avocados - peeled, pitted, and mashed",
+        "searchTerm": "avocados",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "4 (10 inch) flour tortillas, warmed",
+        "searchTerm": "flour tortillas",
+        "normalizedName": "Flour Tortilla"
+      },
+      {
+        "ingredient": "⅔ cup dry curd cottage cheese",
+        "searchTerm": "cottage cheese",
+        "normalizedName": "Cottage Cheese"
+      },
+      {
+        "ingredient": "¼ cup ketchup",
+        "searchTerm": "ketchup",
+        "normalizedName": "Ketchup"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "non-stick skillet"
+      },
+      {
+        "name": "spatula",
+        "searchTerm": "silicone spatula"
+      },
+      {
+        "name": "foil",
+        "searchTerm": "aluminum foil"
+      }
+    ],
+    "cookingTips": [
+      "Warm tortillas before filling to prevent tearing",
+      "Mash avocado just before assembling to prevent browning"
+    ],
+    "coachingPrompt": "Help the user build a balanced breakfast burrito with protein, healthy fats, and proper rolling technique."
+  },
+  "timestamp": "2026-02-06T05:43:24.511Z"
+}

@@ -1,0 +1,43 @@
+{
+  "contentHash": "d541abaa95928dfd",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 (8 ounce) can refrigerated crescent roll dough",
+        "searchTerm": "crescent roll dough",
+        "normalizedName": "Crescent Roll Dough"
+      },
+      {
+        "ingredient": "1 (8 ounce) package cream cheese",
+        "searchTerm": "cream cheese",
+        "normalizedName": "Cream Cheese"
+      },
+      {
+        "ingredient": "1 teaspoon dried dill weed",
+        "searchTerm": "dried dill",
+        "normalizedName": "Dried Dill"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Oven",
+        "searchTerm": "oven"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "knife"
+      }
+    ],
+    "cookingTips": [
+      "Bring cream cheese to room temperature before wrapping for easier handling",
+      "Wrap dough tightly around cheese to prevent leaking during baking",
+      "Bake until golden brown for best texture and appearance"
+    ],
+    "coachingPrompt": "Guide the user through proper wrapping technique to create an attractive and intact appetizer."
+  },
+  "timestamp": "2026-02-06T05:15:48.746Z"
+}

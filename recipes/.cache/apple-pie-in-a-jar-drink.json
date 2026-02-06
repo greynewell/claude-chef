@@ -1,0 +1,53 @@
+{
+  "contentHash": "e42145496f3cd22f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 gallon apple cider",
+        "searchTerm": "apple cider",
+        "normalizedName": "Apple Cider"
+      },
+      {
+        "ingredient": "1 gallon apple juice",
+        "searchTerm": "apple juice",
+        "normalizedName": "Apple Juice"
+      },
+      {
+        "ingredient": "6 (3 inch) cinnamon sticks",
+        "searchTerm": "cinnamon sticks",
+        "normalizedName": "Cinnamon Stick"
+      },
+      {
+        "ingredient": "1 ½ cups white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 (1 liter) bottle 190 proof grain alcohol",
+        "searchTerm": "grain alcohol everclear",
+        "normalizedName": "Grain Alcohol"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large Pot",
+        "searchTerm": "large pot"
+      },
+      {
+        "name": "Glass Jars",
+        "searchTerm": "glass jars with lids"
+      },
+      {
+        "name": "Strainer",
+        "searchTerm": "fine mesh strainer"
+      }
+    ],
+    "cookingTips": [
+      "Heat the cider and juice mixture gently before adding alcohol to avoid losing alcohol content",
+      "Store in cool, dark place for flavors to develop",
+      "Cinnamon sticks will infuse more flavor over time"
+    ],
+    "coachingPrompt": "Help the user understand the infusion process and proper storage techniques for this spirited apple drink."
+  },
+  "timestamp": "2026-02-05T22:15:34.765Z"
+}

@@ -1,0 +1,47 @@
+{
+  "contentHash": "54fc477495272572",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 cups raw walnuts",
+        "searchTerm": "walnuts",
+        "normalizedName": "Walnut"
+      },
+      {
+        "ingredient": "1 ½ tablespoons butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "½ teaspoon cayenne pepper",
+        "searchTerm": "cayenne pepper",
+        "normalizedName": "Cayenne Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "small saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "wooden spoon",
+        "searchTerm": "wooden spoon"
+      }
+    ],
+    "cookingTips": [
+      "Melt butter and honey together, then toss with walnuts for even coating",
+      "Stir nuts every 5 minutes and watch closely as they can burn quickly"
+    ],
+    "coachingPrompt": "Warn the user that cayenne's heat intensifies as nuts cool—start with less and taste before adding more."
+  },
+  "timestamp": "2026-02-06T09:24:29.255Z"
+}

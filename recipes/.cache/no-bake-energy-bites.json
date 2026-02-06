@@ -1,0 +1,58 @@
+{
+  "contentHash": "d93fbeff1a2e1840",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup rolled oats",
+        "searchTerm": "rolled oats",
+        "normalizedName": "Oat"
+      },
+      {
+        "ingredient": "½ cup mini semi-sweet chocolate chips",
+        "searchTerm": "chocolate chips",
+        "normalizedName": "Semisweet Chocolate Chip"
+      },
+      {
+        "ingredient": "½ cup ground flax seed",
+        "searchTerm": "ground flaxseed",
+        "normalizedName": "Ground Flaxseed"
+      },
+      {
+        "ingredient": "½ cup crunchy peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "⅓ cup honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      }
+    ],
+    "gear": [
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      },
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      }
+    ],
+    "cookingTips": [
+      "Crunchy peanut butter adds pleasant texture contrast",
+      "Roll into consistent size for even texture throughout",
+      "Store in refrigerator for up to two weeks"
+    ],
+    "coachingPrompt": "Help the user understand how honey binds ingredients and provides natural sweetness."
+  },
+  "timestamp": "2026-02-06T13:16:16.622Z"
+}

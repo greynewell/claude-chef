@@ -1,0 +1,63 @@
+{
+  "contentHash": "9ff4d9e1d03ac7c1",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 small eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 avocado, halved and pitted",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "2 slices cooked bacon, crumbled",
+        "searchTerm": "bacon",
+        "normalizedName": "Bacon"
+      },
+      {
+        "ingredient": "2 teaspoons chopped fresh chives, or to taste",
+        "searchTerm": "fresh chives",
+        "normalizedName": "Fresh Chive"
+      },
+      {
+        "ingredient": "1 pinch dried parsley, or to taste",
+        "searchTerm": "dried parsley",
+        "normalizedName": "Dried Parsley"
+      },
+      {
+        "ingredient": "1 pinch sea salt and ground black pepper to taste",
+        "searchTerm": "sea salt",
+        "normalizedName": "Sea Salt"
+      },
+      {
+        "ingredient": "1 pinch ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "small bowl",
+        "searchTerm": "small bowl"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Scoop out a bit more avocado flesh if needed to create a stable egg pocket",
+      "Bake at 425°F for 12-15 minutes until egg whites are set but yolks are still soft",
+      "Add cheese, mushrooms, or spinach to the avocado before baking for variety"
+    ],
+    "coachingPrompt": "Would you like to add any vegetables or cheese to customize this elegant breakfast?"
+  },
+  "timestamp": "2026-02-06T13:58:56.774Z"
+}

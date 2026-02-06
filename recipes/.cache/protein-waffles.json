@@ -1,0 +1,62 @@
+{
+  "contentHash": "a29a3a375aa7809f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup old-fashioned oats",
+        "searchTerm": "old-fashioned oats",
+        "normalizedName": "Oat"
+      },
+      {
+        "ingredient": "1 cup cottage cheese",
+        "searchTerm": "cottage cheese",
+        "normalizedName": "Cottage Cheese"
+      },
+      {
+        "ingredient": "2 eggs",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "3 egg whites",
+        "searchTerm": "egg white",
+        "normalizedName": "Egg White"
+      },
+      {
+        "ingredient": "1 teaspoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 splash pure vanilla extract, or to taste",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 pinch ground cinnamon, or to taste",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      }
+    ],
+    "gear": [
+      {
+        "name": "waffle iron",
+        "searchTerm": "waffle iron"
+      },
+      {
+        "name": "blender",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Blend ingredients until smooth for better waffle texture",
+      "Preheat waffle iron thoroughly to prevent sticking"
+    ],
+    "coachingPrompt": "How will you blend these ingredients to achieve a batter that cooks evenly in the waffle iron?"
+  },
+  "timestamp": "2026-02-06T15:21:30.839Z"
+}

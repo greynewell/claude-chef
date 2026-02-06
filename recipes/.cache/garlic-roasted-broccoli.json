@@ -1,0 +1,54 @@
+{
+  "contentHash": "ff8356261425a4ed",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 large head broccoli, cut into florets",
+        "searchTerm": "broccoli",
+        "normalizedName": "Broccoli"
+      },
+      {
+        "ingredient": "2 cloves garlic, sliced",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 tablespoon extra-virgin olive oil",
+        "searchTerm": "extra virgin olive oil",
+        "normalizedName": "Extra Virgin Olive Oil"
+      },
+      {
+        "ingredient": "1 pinch onion powder, or to taste",
+        "searchTerm": "onion powder",
+        "normalizedName": "Onion Powder"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "mixing bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Slice garlic thin so it cooks evenly without burning during roasting",
+      "Spread broccoli in a single layer to maximize contact with the hot pan",
+      "Watch carefully in the last few minutes to prevent garlic from becoming bitter"
+    ],
+    "coachingPrompt": "What temperature and time would you recommend for roasting this broccoli until tender-crisp?"
+  },
+  "timestamp": "2026-02-06T07:20:51.748Z"
+}

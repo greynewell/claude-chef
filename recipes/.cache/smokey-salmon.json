@@ -1,0 +1,63 @@
+{
+  "contentHash": "8039889b45400718",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "cooking spray",
+        "searchTerm": "cooking spray",
+        "normalizedName": "Cooking Spray"
+      },
+      {
+        "ingredient": "1 pound salmon",
+        "searchTerm": "salmon fillet",
+        "normalizedName": "Salmon"
+      },
+      {
+        "ingredient": "2 tablespoons maple syrup",
+        "searchTerm": "maple syrup",
+        "normalizedName": "Maple Syrup"
+      },
+      {
+        "ingredient": "1 teaspoon Creole seasoning",
+        "searchTerm": "Creole seasoning",
+        "normalizedName": "Creole Seasoning"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "salt and ground black pepper to taste",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "1 tablespoon butter, cut into small chunks",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Skillet or grill pan",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "Cooking thermometer",
+        "searchTerm": "meat thermometer"
+      },
+      {
+        "name": "Spatula",
+        "searchTerm": "spatula"
+      }
+    ],
+    "cookingTips": [
+      "Pat salmon dry before cooking to achieve a better sear",
+      "Cook skin-side down first to prevent sticking and create a crispy skin",
+      "Baste with maple syrup glaze in the last minute of cooking to avoid burning"
+    ],
+    "coachingPrompt": "How do you know when salmon is cooked through? Why is drying the fish before cooking important?"
+  },
+  "timestamp": "2026-02-06T18:25:38.940Z"
+}

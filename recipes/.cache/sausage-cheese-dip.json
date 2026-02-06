@@ -1,0 +1,53 @@
+{
+  "contentHash": "cd401f175c3d498f",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 pound ground pork sausage",
+        "searchTerm": "pork sausage",
+        "normalizedName": "Pork Sausage"
+      },
+      {
+        "ingredient": "1 (2 pound) loaf processed cheese, cubed",
+        "searchTerm": "processed cheese loaf",
+        "normalizedName": "Processed Cheese"
+      },
+      {
+        "ingredient": "1 (8 ounce) container sour cream",
+        "searchTerm": "sour cream",
+        "normalizedName": "Sour Cream"
+      },
+      {
+        "ingredient": "1 (10 ounce) can diced tomatoes with green chile peppers, drained",
+        "searchTerm": "diced tomatoes with green chile",
+        "normalizedName": "Diced Tomato With Green Chile"
+      },
+      {
+        "ingredient": "2 green onions, chopped",
+        "searchTerm": "green onions",
+        "normalizedName": "Green Onion"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "slow cooker",
+        "searchTerm": "slow cooker"
+      },
+      {
+        "name": "spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Brown sausage thoroughly and drain excess fat before combining with other ingredients",
+      "Use a slow cooker on low heat to keep dip warm and prevent scorching",
+      "Stir occasionally to ensure even melting of processed cheese"
+    ],
+    "coachingPrompt": "Warm dips are crowd-pleasers. How would you keep this dip at the right temperature during a party?"
+  },
+  "timestamp": "2026-02-06T16:59:36.789Z"
+}

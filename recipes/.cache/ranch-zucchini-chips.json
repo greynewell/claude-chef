@@ -1,0 +1,52 @@
+{
+  "contentHash": "dcb4691eda18db89",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 medium zucchini, sliced",
+        "searchTerm": "zucchini",
+        "normalizedName": "Zucchini"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 teaspoons extra-virgin olive oil",
+        "searchTerm": "olive oil",
+        "normalizedName": "Olive Oil"
+      },
+      {
+        "ingredient": "1 tablespoon ranch dressing mix",
+        "searchTerm": "ranch dressing mix",
+        "normalizedName": "Ranch Dressing Mix"
+      },
+      {
+        "ingredient": "1 teaspoon freeze-dried dill",
+        "searchTerm": "dill",
+        "normalizedName": "Dill"
+      }
+    ],
+    "gear": [
+      {
+        "name": "baking sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "parchment paper",
+        "searchTerm": "parchment paper"
+      },
+      {
+        "name": "oven",
+        "searchTerm": "oven"
+      }
+    ],
+    "cookingTips": [
+      "Slice zucchini uniformly so all chips cook at the same rate",
+      "Blot zucchini slices dry before tossing with oil to reduce moisture and prevent sogginess"
+    ],
+    "coachingPrompt": "This is a healthy vegetable snack. Help the user understand how to achieve crispy chips by removing excess moisture and spacing them properly on the sheet."
+  },
+  "timestamp": "2026-02-06T15:55:29.842Z"
+}

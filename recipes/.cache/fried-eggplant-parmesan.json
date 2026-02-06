@@ -1,0 +1,67 @@
+{
+  "contentHash": "f84053999ed38ae5",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "canola oil for frying",
+        "searchTerm": "canola oil",
+        "normalizedName": "Canola Oil"
+      },
+      {
+        "ingredient": "2 cups Italian seasoned bread crumbs",
+        "searchTerm": "Italian bread crumbs",
+        "normalizedName": "Italian Seasoned Bread Crumb"
+      },
+      {
+        "ingredient": "2 cups all-purpose flour",
+        "searchTerm": "all-purpose flour",
+        "normalizedName": "All-Purpose Flour"
+      },
+      {
+        "ingredient": "¾ cup grated Parmesan cheese, divided",
+        "searchTerm": "Parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "3 large eggs, beaten",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "1 eggplant, peeled and sliced",
+        "searchTerm": "eggplant",
+        "normalizedName": "Eggplant"
+      },
+      {
+        "ingredient": "1 (13.5 ounce) jar roasted garlic flavored spaghetti sauce",
+        "searchTerm": "marinara sauce",
+        "normalizedName": "Spaghetti Sauce"
+      },
+      {
+        "ingredient": "½ teaspoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      }
+    ],
+    "gear": [
+      {
+        "name": "skillet",
+        "searchTerm": "frying pan"
+      },
+      {
+        "name": "baking dish",
+        "searchTerm": "casserole dish"
+      },
+      {
+        "name": "paper towels",
+        "searchTerm": "paper towels"
+      }
+    ],
+    "cookingTips": [
+      "Salt eggplant slices and let sit 30 minutes to remove moisture before breading",
+      "Layer sauce and cheese carefully for even distribution"
+    ],
+    "coachingPrompt": "Why is removing eggplant moisture important, and how will you build layers for maximum flavor?"
+  },
+  "timestamp": "2026-02-06T07:04:45.285Z"
+}

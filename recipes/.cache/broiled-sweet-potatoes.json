@@ -1,0 +1,38 @@
+{
+  "contentHash": "53c883d9ce1d46e3",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "4 sweet potatoes",
+        "searchTerm": "sweet potatoes",
+        "normalizedName": "Sweet Potato"
+      },
+      {
+        "ingredient": "½ teaspoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      },
+      {
+        "ingredient": "¼ cup white sugar",
+        "searchTerm": "sugar",
+        "normalizedName": "Sugar"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Broiler Pan",
+        "searchTerm": "broiler pan"
+      },
+      {
+        "name": "Knife",
+        "searchTerm": "chef's knife"
+      }
+    ],
+    "cookingTips": [
+      "Pierce sweet potatoes with a fork before broiling to prevent bursting",
+      "Arrange potatoes at even distance from heat source for uniform cooking"
+    ],
+    "coachingPrompt": "How will you ensure the sweet potatoes cook evenly under the broiler?"
+  },
+  "timestamp": "2026-02-06T00:47:08.148Z"
+}

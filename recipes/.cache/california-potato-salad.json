@@ -1,0 +1,73 @@
+{
+  "contentHash": "f3c0d1a843f13f4b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "potatoes",
+        "searchTerm": "potatoes",
+        "normalizedName": "Potato"
+      },
+      {
+        "ingredient": "eggs",
+        "searchTerm": "eggs",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "artichoke hearts",
+        "searchTerm": "artichoke hearts",
+        "normalizedName": "Artichoke Heart"
+      },
+      {
+        "ingredient": "garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "fresh Parmesan cheese",
+        "searchTerm": "parmesan cheese",
+        "normalizedName": "Parmesan Cheese"
+      },
+      {
+        "ingredient": "herb seasoned croutons",
+        "searchTerm": "croutons",
+        "normalizedName": "Herb Seasoned Crouton"
+      },
+      {
+        "ingredient": "Dijon mustard",
+        "searchTerm": "dijon mustard",
+        "normalizedName": "Dijon Mustard"
+      },
+      {
+        "ingredient": "rice vinegar",
+        "searchTerm": "rice vinegar",
+        "normalizedName": "Rice Vinegar"
+      },
+      {
+        "ingredient": "mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Pot",
+        "searchTerm": "pot"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Large bowl",
+        "searchTerm": "mixing bowl"
+      }
+    ],
+    "cookingTips": [
+      "Cook potatoes until just tender to maintain texture; avoid overcooking",
+      "Dress the warm potatoes while still hot to absorb flavors better",
+      "Add croutons just before serving to keep them crispy"
+    ],
+    "coachingPrompt": "What's the best way to balance the vinegar and mayonnaise so the salad isn't too acidic or creamy?"
+  },
+  "timestamp": "2026-02-06T01:15:44.018Z"
+}

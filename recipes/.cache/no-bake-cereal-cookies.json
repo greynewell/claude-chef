@@ -1,0 +1,47 @@
+{
+  "contentHash": "d3c1258c48c3161e",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup white sugar",
+        "searchTerm": "white sugar",
+        "normalizedName": "Sugar"
+      },
+      {
+        "ingredient": "1 cup white corn syrup",
+        "searchTerm": "white corn syrup",
+        "normalizedName": "White Corn Syrup"
+      },
+      {
+        "ingredient": "1 cup peanut butter",
+        "searchTerm": "peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "6 cups crispy rice cereal",
+        "searchTerm": "crispy rice cereal",
+        "normalizedName": "Crispy Rice Cereal"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Saucepan",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Baking Sheet",
+        "searchTerm": "baking sheet"
+      },
+      {
+        "name": "Parchment Paper",
+        "searchTerm": "parchment paper"
+      }
+    ],
+    "cookingTips": [
+      "Stir constantly while heating to prevent sugar crystallization",
+      "Drop spoonfuls onto parchment quickly as mixture hardens rapidly"
+    ],
+    "coachingPrompt": "Do you have a candy or deep-fry thermometer? This helps monitor mixture temperature."
+  },
+  "timestamp": "2026-02-06T13:15:30.739Z"
+}

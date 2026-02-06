@@ -1,0 +1,58 @@
+{
+  "contentHash": "6a5f266e191202fa",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "2 avocados, chopped",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "2 tablespoons salsa",
+        "searchTerm": "salsa",
+        "normalizedName": "Salsa"
+      },
+      {
+        "ingredient": "2 tablespoons mayonnaise",
+        "searchTerm": "mayonnaise",
+        "normalizedName": "Mayonnaise"
+      },
+      {
+        "ingredient": "¼ teaspoon chili powder",
+        "searchTerm": "chili powder",
+        "normalizedName": "Chili Powder"
+      },
+      {
+        "ingredient": "¼ teaspoon ground black pepper",
+        "searchTerm": "black pepper",
+        "normalizedName": "Black Pepper"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Mixing Bowl",
+        "searchTerm": "mixing bowl"
+      },
+      {
+        "name": "Fork",
+        "searchTerm": "fork"
+      },
+      {
+        "name": "Spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use ripe but firm avocados for best texture and flavor",
+      "Combine ingredients gently to maintain some chunks for texture",
+      "Add salt and lime juice last to prevent browning and control seasoning"
+    ],
+    "coachingPrompt": "Need help selecting ripe avocados or preventing browning?"
+  },
+  "timestamp": "2026-02-06T07:44:23.420Z"
+}

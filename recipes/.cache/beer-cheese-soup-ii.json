@@ -1,0 +1,73 @@
+{
+  "contentHash": "d4872888c85469c9",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 tablespoon margarine",
+        "searchTerm": "margarine",
+        "normalizedName": "Margarine"
+      },
+      {
+        "ingredient": "½ cup chopped onion",
+        "searchTerm": "onion",
+        "normalizedName": "Onion"
+      },
+      {
+        "ingredient": "½ teaspoon minced garlic",
+        "searchTerm": "garlic",
+        "normalizedName": "Garlic"
+      },
+      {
+        "ingredient": "1 teaspoon Worcestershire sauce",
+        "searchTerm": "Worcestershire sauce",
+        "normalizedName": "Worcestershire Sauce"
+      },
+      {
+        "ingredient": "1 (12 fluid ounce) can or bottle light beer",
+        "searchTerm": "light beer",
+        "normalizedName": "Light Beer"
+      },
+      {
+        "ingredient": "1 (14.5 ounce) can chicken broth",
+        "searchTerm": "chicken broth",
+        "normalizedName": "Chicken Broth"
+      },
+      {
+        "ingredient": "3 tablespoons cornstarch",
+        "searchTerm": "cornstarch",
+        "normalizedName": "Cornstarch"
+      },
+      {
+        "ingredient": "2 cups half-and-half",
+        "searchTerm": "half-and-half",
+        "normalizedName": "Half-And-Half"
+      },
+      {
+        "ingredient": "2 cups shredded sharp Cheddar cheese",
+        "searchTerm": "sharp Cheddar cheese",
+        "normalizedName": "Sharp Cheddar Cheese"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Large saucepan or soup pot",
+        "searchTerm": "saucepan"
+      },
+      {
+        "name": "Whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "Ladle",
+        "searchTerm": "ladle"
+      }
+    ],
+    "cookingTips": [
+      "Whisk cornstarch with a little cold broth before adding to the hot soup to prevent lumps",
+      "Add the cheese at the end off-heat, stirring gently to prevent stringiness",
+      "Light beer keeps the soup from being too heavy while adding flavor depth"
+    ],
+    "coachingPrompt": "Explain the role of cornstarch: it thickens the soup and stabilizes the cheese, preventing separation and creating a silky texture."
+  },
+  "timestamp": "2026-02-05T23:49:25.678Z"
+}

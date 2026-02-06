@@ -1,0 +1,57 @@
+{
+  "contentHash": "6eb3385bcddae62b",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "10 fresh tomatillos, husks removed",
+        "searchTerm": "fresh tomatillos",
+        "normalizedName": "Fresh Tomatillo"
+      },
+      {
+        "ingredient": "2 fresh jalapeno peppers, stems removed",
+        "searchTerm": "fresh jalapeno",
+        "normalizedName": "Fresh Jalapeno Pepper"
+      },
+      {
+        "ingredient": "1 bunch fresh cilantro, stems trimmed",
+        "searchTerm": "fresh cilantro",
+        "normalizedName": "Fresh Cilantro"
+      },
+      {
+        "ingredient": "3 avocados, peeled and pitted",
+        "searchTerm": "avocado",
+        "normalizedName": "Avocado"
+      },
+      {
+        "ingredient": "1 tablespoon garlic powder",
+        "searchTerm": "garlic powder",
+        "normalizedName": "Garlic Powder"
+      },
+      {
+        "ingredient": "salt to taste",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      }
+    ],
+    "gear": [
+      {
+        "name": "Blender or food processor",
+        "searchTerm": "blender"
+      },
+      {
+        "name": "Cutting board",
+        "searchTerm": "cutting board"
+      },
+      {
+        "name": "Serving bowl",
+        "searchTerm": "serving bowl"
+      }
+    ],
+    "cookingTips": [
+      "Roast tomatillos for 10-12 minutes at 400°F to enhance their flavor before blending",
+      "Add avocado last and pulse briefly to maintain a chunky, textured consistency"
+    ],
+    "coachingPrompt": "How does roasting tomatillos change the flavor profile compared to using them raw?"
+  },
+  "timestamp": "2026-02-06T12:06:57.905Z"
+}

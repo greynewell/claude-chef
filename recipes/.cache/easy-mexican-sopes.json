@@ -1,0 +1,48 @@
+{
+  "contentHash": "a4c9394c7d4c8eea",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "3 cups masa harina",
+        "searchTerm": "masa harina",
+        "normalizedName": "Masa Harina"
+      },
+      {
+        "ingredient": "1 tablespoon salt",
+        "searchTerm": "salt",
+        "normalizedName": "Salt"
+      },
+      {
+        "ingredient": "2 cups warm water, or as needed",
+        "searchTerm": "water",
+        "normalizedName": "Water"
+      },
+      {
+        "ingredient": "1 quart oil for frying",
+        "searchTerm": "oil",
+        "normalizedName": "Oil"
+      }
+    ],
+    "gear": [
+      {
+        "name": "deep skillet or fryer",
+        "searchTerm": "skillet"
+      },
+      {
+        "name": "tortilla press",
+        "searchTerm": "tortilla press"
+      },
+      {
+        "name": "slotted spoon",
+        "searchTerm": "spoon"
+      }
+    ],
+    "cookingTips": [
+      "Use warm water when mixing masa to achieve proper dough consistency",
+      "Oil must reach 350°F before frying to ensure crispy exterior without absorbing excess oil",
+      "Pinch the edges of sopes upward after frying to create traditional cup shape for toppings"
+    ],
+    "coachingPrompt": "Help the user understand proper masa dough consistency and safe deep-frying technique with oil temperature management."
+  },
+  "timestamp": "2026-02-06T05:52:19.795Z"
+}

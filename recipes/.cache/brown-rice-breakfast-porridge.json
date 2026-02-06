@@ -1,0 +1,68 @@
+{
+  "contentHash": "15a3ec01ff27d8f0",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 cup cooked brown rice",
+        "searchTerm": "brown rice",
+        "normalizedName": "Brown Rice"
+      },
+      {
+        "ingredient": "1 cup 2% low-fat milk",
+        "searchTerm": "milk",
+        "normalizedName": "Milk"
+      },
+      {
+        "ingredient": "2 tablespoons dried blueberries",
+        "searchTerm": "dried blueberry",
+        "normalizedName": "Dried Blueberry"
+      },
+      {
+        "ingredient": "1 dash cinnamon",
+        "searchTerm": "cinnamon",
+        "normalizedName": "Cinnamon"
+      },
+      {
+        "ingredient": "1 tablespoon honey",
+        "searchTerm": "honey",
+        "normalizedName": "Honey"
+      },
+      {
+        "ingredient": "1 egg",
+        "searchTerm": "egg",
+        "normalizedName": "Egg"
+      },
+      {
+        "ingredient": "¼ teaspoon vanilla extract",
+        "searchTerm": "vanilla extract",
+        "normalizedName": "Vanilla Extract"
+      },
+      {
+        "ingredient": "1 tablespoon butter",
+        "searchTerm": "butter",
+        "normalizedName": "Butter"
+      }
+    ],
+    "gear": [
+      {
+        "name": "saucepan",
+        "searchTerm": "small saucepan"
+      },
+      {
+        "name": "whisk",
+        "searchTerm": "whisk"
+      },
+      {
+        "name": "bowl",
+        "searchTerm": "serving bowl"
+      }
+    ],
+    "cookingTips": [
+      "Warm cooked rice with milk over medium heat, stirring frequently",
+      "Whisk egg with a little warm rice mixture before adding back to pan to prevent scrambling",
+      "Add dried blueberries and honey for natural sweetness and texture"
+    ],
+    "coachingPrompt": "Explain how to temper the egg by slowly warming it with rice mixture and discuss the creamy texture this technique creates."
+  },
+  "timestamp": "2026-02-06T00:48:07.757Z"
+}
