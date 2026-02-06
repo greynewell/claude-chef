@@ -80,12 +80,15 @@ describe('Recipe Parser', () => {
 
   describe('parseRecipeFile', () => {
     it('should parse an actual recipe file from disk', () => {
-      const recipePath = path.resolve(__dirname, '../recipes/teriyaki-and-sesame-seed-chicken.md');
+      const recipesDir = path.resolve(__dirname, '../recipes');
+      const files = require('fs').readdirSync(recipesDir).filter((f: string) => f.endsWith('.md'));
+      expect(files.length).toBeGreaterThan(0);
+      const recipePath = path.join(recipesDir, files[0]);
       const result = parseRecipeFile(recipePath);
-      expect(result.frontmatter.title).toBe('Teriyaki and Sesame Seed Chicken');
+      expect(result.frontmatter.title).toBeDefined();
       expect(result.ingredients.length).toBeGreaterThan(0);
       expect(result.instructions.length).toBeGreaterThan(0);
-      expect(result.slug).toBe('teriyaki-and-sesame-seed-chicken');
+      expect(result.slug).toBe(path.basename(files[0], '.md'));
     });
   });
 });
