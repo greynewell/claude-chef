@@ -33,6 +33,9 @@ jobs:
       - run: npm test
       - run: npm run build
       - run: npm run generate
+        env:
+          AMAZON_AFFILIATE_TAG: ${{ secrets.AMAZON_AFFILIATE_TAG }}
+          WALMART_AFFILIATE_ID: ${{ secrets.WALMART_AFFILIATE_ID }}
 
       - uses: actions/upload-pages-artifact@v3
         with:
