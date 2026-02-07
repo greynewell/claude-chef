@@ -2936,7 +2936,7 @@ export function renderContributePage(): string {
 
       var recipeMarkdown = frontmatter + body;
 
-      var labels = ['recipe-submission'];
+      var labels = ['recipe'];
       if (category) labels.push(category.toLowerCase().replace(/\\s+/g, '-'));
       if (skillLevel) labels.push(skillLevel.toLowerCase());
 

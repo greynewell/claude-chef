@@ -1,0 +1,39 @@
+{
+  "contentHash": "90f9fc1b52f0877c",
+  "enrichment": {
+    "ingredients": [
+      {
+        "ingredient": "1 slice of bread",
+        "searchTerm": "white or wheat bread",
+        "normalizedName": "Bread"
+      },
+      {
+        "ingredient": "Peanut butter",
+        "searchTerm": "crunchy peanut butter",
+        "normalizedName": "Peanut Butter"
+      },
+      {
+        "ingredient": "Jelly",
+        "searchTerm": "grape or strawberry jelly",
+        "normalizedName": "Jelly"
+      }
+    ],
+    "gear": [
+      {
+        "name": "knife",
+        "searchTerm": "butter knife or spreading knife"
+      },
+      {
+        "name": "plate",
+        "searchTerm": "plate"
+      }
+    ],
+    "cookingTips": [
+      "Spread peanut butter on one slice and jelly on the other to prevent the bread from getting soggy",
+      "Use crunchy peanut butter for better texture contrast with the smooth jelly",
+      "Cut diagonally for a more appealing presentation"
+    ],
+    "coachingPrompt": "Help the user understand why matching bread types matters for structural integrity and how to spread condiments evenly without tearing delicate bread."
+  },
+  "timestamp": "2026-02-07T03:10:53.989Z"
+}
