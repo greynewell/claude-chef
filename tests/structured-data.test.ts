@@ -193,7 +193,7 @@ describe('BreadcrumbList JSON-LD', () => {
     expect(breadcrumb['@type']).toBe('BreadcrumbList');
     expect(breadcrumb.itemListElement).toHaveLength(2);
     expect(breadcrumb.itemListElement[0].name).toBe('Home');
-    expect(breadcrumb.itemListElement[0].item).toBe('https://claudechef.com/index.html');
+    expect(breadcrumb.itemListElement[0].item).toBe('https://claudechef.com/');
     expect(breadcrumb.itemListElement[1].name).toBe('Test Carbonara');
   });
 

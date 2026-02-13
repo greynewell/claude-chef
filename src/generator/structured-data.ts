@@ -102,9 +102,7 @@ export function generateJsonLd(recipe: ParsedRecipe, datePublished: string, base
     keywords: allKeywords.join(', '),
   };
 
-  if (baseUrl) {
-    jsonLd.url = recipeUrl;
-  }
+  jsonLd.url = recipeUrl;
 
   if (recipe.frontmatter.recipe_category) {
     jsonLd.recipeCategory = recipe.frontmatter.recipe_category;
@@ -139,7 +137,7 @@ export function generateBreadcrumbJsonLd(
       '@type': 'ListItem',
       position: 1,
       name: 'Home',
-      item: `${baseUrl}/index.html`,
+      item: `${baseUrl}/`,
     },
   ];
 
@@ -277,7 +275,7 @@ export function generateHubBreadcrumbJsonLd(
       '@type': 'ListItem',
       position: 1,
       name: 'Home',
-      item: `${baseUrl}/index.html`,
+      item: `${baseUrl}/`,
     },
   ];
 

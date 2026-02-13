@@ -674,7 +674,7 @@ describe('Template Renderer', () => {
 
     it('should include canonical link on index', () => {
       const html = renderIndexPage([mockRecipe]);
-      expect(html).toContain('<link rel="canonical" href="https://claudechef.com/index.html">');
+      expect(html).toContain('<link rel="canonical" href="https://claudechef.com/">');
     });
 
     it('should include og:type website on index', () => {

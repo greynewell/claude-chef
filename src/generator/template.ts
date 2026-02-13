@@ -1793,7 +1793,7 @@ export function renderIndexPage(recipes: ParsedRecipe[], options: IndexPageOptio
   const CARDS_PER_CATEGORY = 4;
 
   const indexDescription = 'Delicious recipes with AI-powered cooking guidance. Step-by-step technique, smart substitutions, and real-time coaching from Claude Chef.';
-  const canonicalUrl = `${BASE_URL}/index.html`;
+  const canonicalUrl = `${BASE_URL}/`;
 
   let structuredDataScripts = '';
   if (webSiteJsonLd) {
