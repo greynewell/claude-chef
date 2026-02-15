@@ -4,9 +4,9 @@
 [![CI](https://github.com/greynewell/claude-chef/actions/workflows/ci.yml/badge.svg)](https://github.com/greynewell/claude-chef/actions/workflows/ci.yml)
 [![Recipes](https://img.shields.io/badge/recipes-29%2C597-5B7B5E)](https://claudechef.com/all/index.html)
 [![License](https://img.shields.io/badge/license-CC0--1.0-blue)](./LICENSE)
-[![Built with SchemaFlux](https://img.shields.io/badge/built%20with-SchemaFlux-5B7B5E)](https://schemaflux.dev)
+[![Compiled with SchemaFlux](https://img.shields.io/badge/compiled%20with-SchemaFlux-5B7B5E)](https://schemaflux.dev)
 
-29,000+ open-source recipes with AI-powered cooking assistance, built with [SchemaFlux](https://schemaflux.dev).
+29,000+ open-source recipes with AI-powered cooking assistance, compiled with [SchemaFlux](https://schemaflux.dev).
 
 ## Architecture
 
@@ -161,7 +161,7 @@ See the [Claude Chef Roadmap](https://github.com/users/greynewell/projects/3) fo
 
 - [How Claude Chef Works](https://claudechef.com/about.html): features, enrichment, and AI integration
 - [Contributing Guide](https://claudechef.com/contribute.html): how to submit recipes
-- [SchemaFlux](https://schemaflux.dev): the static site compiler that powers Claude Chef
+- [SchemaFlux](https://schemaflux.dev): the static site compiler powering Claude Chef
 
 ## License
 
@@ -169,4 +169,4 @@ See the [Claude Chef Roadmap](https://github.com/users/greynewell/projects/3) fo
 
 ---
 
-[claudechef.com](https://claudechef.com) | Built with [SchemaFlux](https://schemaflux.dev) | Created by [Grey Newell](https://greynewell.com)
+[claudechef.com](https://claudechef.com) | Compiled with [SchemaFlux](https://schemaflux.dev) | Created by [Grey Newell](https://greynewell.com)
