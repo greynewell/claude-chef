@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="{{.Site.Language}}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Our Favorites — {{.Site.Name}}</title>
+  <meta name="description" content="Hand-picked favorite recipes from the Claude Chef collection. The best of {{len .Favorites}} curated dishes.">
+  <meta name="author" content="{{.Site.Author}}">
+  <link rel="canonical" href="{{.Site.BaseURL}}/favorites.html">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><ellipse cx='50' cy='72' rx='38' ry='18' fill='%235B7B5E'/><rect x='20' y='55' width='60' height='20' rx='4' fill='%235B7B5E'/><path d='M25 55 Q25 20 50 15 Q75 20 75 55' fill='%235B7B5E'/><rect x='47' y='5' width='6' height='15' rx='3' fill='%235B7B5E'/></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="/styles.css">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Our Favorites — {{.Site.Name}}">
+  <meta property="og:description" content="Hand-picked favorite recipes from the Claude Chef collection.">
+  <meta property="og:type" content="{{.OG.Type}}">
+  <meta property="og:url" content="{{.OG.URL}}">
+  {{- if .OG.ImageURL}}
+  <meta property="og:image" content="{{.OG.ImageURL}}">
+  {{- end}}
+  <meta property="og:site_name" content="{{.Site.Name}}">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{.OG.Title}}">
+  <meta name="twitter:description" content="{{.OG.Description}}">
+  {{- if .OG.ImageURL}}
+  <meta name="twitter:image" content="{{.OG.ImageURL}}">
+  {{- end}}
+
+  {{- if .JsonLD}}
+  {{.JsonLD}}
+  {{- end}}
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <a class="site-brand" href="/">
+      <svg width="24" height="24" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><ellipse cx="50" cy="72" rx="38" ry="18" fill="#5B7B5E"/><rect x="20" y="55" width="60" height="20" rx="4" fill="#5B7B5E"/><path d="M25 55 Q25 20 50 15 Q75 20 75 55" fill="#5B7B5E"/><rect x="47" y="5" width="6" height="15" rx="3" fill="#5B7B5E"/></svg>
+      Claude Chef
+    </a>
+    <nav>
+      <a href="/install.html">Install</a>
+      <a href="/about.html">About</a>
+      <a href="/contribute.html">Contribute</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <!-- Breadcrumbs -->
+    {{- if .Breadcrumbs}}
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      {{- range $i, $crumb := .Breadcrumbs}}
+      {{- if $i}}<span class="breadcrumb-sep">/</span>{{end}}
+      {{- if $crumb.URL}}<a href="{{$crumb.URL}}">{{$crumb.Name}}</a>{{else}}<span>{{$crumb.Name}}</span>{{end}}
+      {{- end}}
+    </nav>
+    {{- end}}
+
+    <!-- Hero -->
+    <section class="hero">
+      <h1>Our Favorites</h1>
+      <p class="hero-tagline">{{len .Favorites}} hand-picked recipes from the Claude Chef collection. These are the dishes we keep coming back to.</p>
+    </section>
+
+    <!-- Favorites Grid -->
+    {{- if .Favorites}}
+    <section>
+      <div class="recipe-grid">
+        {{- range .Favorites}}
+        <div class="recipe-card favorite">
+          <a href="/{{.Slug}}.html">{{field . "title"}}</a>
+          {{- if hasField . "description"}}
+          <p class="desc">{{truncate (field . "description") 160}}</p>
+          {{- end}}
+          <div class="card-meta">
+            {{- if hasField . "cuisine"}}
+            <a class="meta-pill tax-cuisine" href="/cuisine/{{slugify (field . "cuisine")}}/index.html">{{field . "cuisine"}}</a>
+            {{- end}}
+            {{- if hasField . "recipe_category"}}
+            <a class="meta-pill tax-category" href="/category/{{slugify (field . "recipe_category")}}/index.html">{{field . "recipe_category"}}</a>
+            {{- end}}
+            {{- if and (hasField . "prep_time") (ne (formatDuration (field . "prep_time")) "")}}
+            <span class="meta-pill meta-info">Prep {{formatDuration (field . "prep_time")}}</span>
+            {{- end}}
+            {{- if and (hasField . "cook_time") (ne (formatDuration (field . "cook_time")) "")}}
+            <span class="meta-pill meta-info">Cook {{formatDuration (field . "cook_time")}}</span>
+            {{- end}}
+            {{- if hasField . "calories"}}
+            <span class="meta-pill meta-info">{{field . "calories"}} cal</span>
+            {{- end}}
+            {{- if hasField . "skill_level"}}
+            <span class="meta-pill tax-skill_level">{{field . "skill_level"}}</span>
+            {{- end}}
+          </div>
+        </div>
+        {{- end}}
+      </div>
+    {{- else}}
+    <section>
+      <p style="text-align:center;color:var(--color-text-secondary)">No favorites yet. Check back soon!</p>
+    {{- end}}
+    </section>
+
+    <!-- Footer CTA -->
+    <div class="cta">
+      <div class="cta-box">
+        <div class="cta-title">{{.CTA.Heading}}</div>
+        <p class="cta-body">{{.CTA.Description}}</p>
+        <a href="{{.CTA.ButtonURL}}" style="display:inline-block;background:var(--color-primary);color:#fff;font-weight:600;font-size:0.9375rem;padding:0.6rem 1.25rem;border-radius:var(--radius);text-decoration:none;margin-right:0.5rem">{{.CTA.ButtonText}}</a>
+        <a href="{{.CTA.SecondaryURL}}" style="display:inline-block;border:1px solid var(--color-primary);color:var(--color-primary);font-weight:600;font-size:0.9375rem;padding:0.6rem 1.25rem;border-radius:var(--radius);text-decoration:none">{{.CTA.SecondaryText}}</a>
+      </div>
+    </div>
+
+    <p class="affiliate-statement">As an Amazon Associate and Walmart affiliate, Claude Chef earns from qualifying purchases.</p>
+    <p class="created-by">Created by <a href="{{.Site.AuthorURL}}">{{.Site.Author}}</a></p>
+    <p class="footer-links">
+      <a href="/sitemap.xml">Sitemap</a> &middot;
+      <a href="/llms.txt">llms.txt</a> &middot;
+      <a href="/feed.xml">RSS Feed</a>
+    </p>
+  </main>
+
+  <script src="/main.js"></script>
+</body>
+</html>

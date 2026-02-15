@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="{{.Site.Language}}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{.Site.Name}} — {{formatNumber .EntityCount}} Open-Source Recipes</title>
+  <meta name="description" content="{{.Site.Description}}">
+  <meta name="author" content="{{.Site.Author}}">
+  <link rel="canonical" href="{{.Site.BaseURL}}/">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><ellipse cx='50' cy='72' rx='38' ry='18' fill='%235B7B5E'/><rect x='20' y='55' width='60' height='20' rx='4' fill='%235B7B5E'/><path d='M25 55 Q25 20 50 15 Q75 20 75 55' fill='%235B7B5E'/><rect x='47' y='5' width='6' height='15' rx='3' fill='%235B7B5E'/></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="alternate" type="application/rss+xml" title="{{.Site.Name}} RSS Feed" href="/feed.xml">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{.OG.Title}}">
+  <meta property="og:description" content="{{.OG.Description}}">
+  <meta property="og:type" content="{{.OG.Type}}">
+  <meta property="og:url" content="{{.OG.URL}}">
+  {{- if .OG.ImageURL}}
+  <meta property="og:image" content="{{.OG.ImageURL}}">
+  {{- end}}
+  <meta property="og:site_name" content="{{.Site.Name}}">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{.OG.Title}}">
+  <meta name="twitter:description" content="{{.OG.Description}}">
+  {{- if .OG.ImageURL}}
+  <meta name="twitter:image" content="{{.OG.ImageURL}}">
+  {{- end}}
+
+  {{- if .JsonLD}}
+  {{.JsonLD}}
+  {{- end}}
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <a class="site-brand" href="/">
+      <svg width="24" height="24" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><ellipse cx="50" cy="72" rx="38" ry="18" fill="#5B7B5E"/><rect x="20" y="55" width="60" height="20" rx="4" fill="#5B7B5E"/><path d="M25 55 Q25 20 50 15 Q75 20 75 55" fill="#5B7B5E"/><rect x="47" y="5" width="6" height="15" rx="3" fill="#5B7B5E"/></svg>
+      Claude Chef
+    </a>
+    <nav>
+      <a href="/install.html">Install</a>
+      <a href="/about.html">About</a>
+      <a href="/contribute.html">Contribute</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <!-- Hero -->
+    <section class="hero">
+      <h1>{{formatNumber .EntityCount}} Recipes &amp; Counting</h1>
+      <p class="hero-tagline">Open-source recipe collection with AI-powered cooking assistance. Browse by category, cuisine, ingredient, and more.</p>
+      <div class="hero-cta">
+        <a href="/contribute.html">Add a Recipe</a>
+      </div>
+    </section>
+
+    <!-- Browse by Taxonomy -->
+    <section class="browse-section">
+      <h2>Browse</h2>
+      <div class="browse-pills">
+        {{- range .Taxonomies}}
+        <a class="browse-pill meta-pill tax-{{.Name}}" href="/{{.Name}}/index.html">{{.Label}}</a>
+        {{- end}}
+        <a class="browse-pill meta-pill" href="/all/index.html">All Recipes</a>
+        <a class="browse-pill meta-pill" href="/favorites.html">Favorites</a>
+      </div>
+    </section>
+
+    <!-- Favorites -->
+    {{- if .Favorites}}
+    <section class="favorites-section">
+      <h2>Our Favorites</h2>
+      <div class="recipe-grid">
+        {{- range $i, $recipe := .Favorites}}
+        {{- if lt $i 4}}
+        <div class="recipe-card favorite">
+          <a href="/{{$recipe.Slug}}.html">{{field $recipe "title"}}</a>
+          {{- if hasField $recipe "description"}}
+          <p class="desc">{{truncate (field $recipe "description") 120}}</p>
+          {{- end}}
+          <div class="card-meta">
+            {{- if hasField $recipe "cuisine"}}
+            <span class="meta-pill tax-cuisine">{{field $recipe "cuisine"}}</span>
+            {{- end}}
+            {{- if hasField $recipe "recipe_category"}}
+            <span class="meta-pill tax-category">{{field $recipe "recipe_category"}}</span>
+            {{- end}}
+            {{- if and (hasField $recipe "prep_time") (ne (formatDuration (field $recipe "prep_time")) "")}}
+            <span class="meta-pill meta-info">Prep {{formatDuration (field $recipe "prep_time")}}</span>
+            {{- end}}
+            {{- if and (hasField $recipe "cook_time") (ne (formatDuration (field $recipe "cook_time")) "")}}
+            <span class="meta-pill meta-info">Cook {{formatDuration (field $recipe "cook_time")}}</span>
+            {{- end}}
+            {{- if hasField $recipe "calories"}}
+            <span class="meta-pill meta-info">{{field $recipe "calories"}} cal</span>
+            {{- end}}
+          </div>
+        </div>
+        {{- end}}
+        {{- end}}
+      </div>
+      <p class="section-link"><a href="/favorites.html">See all favorites &rarr;</a></p>
+    </section>
+    {{- end}}
+
+    <!-- Popular Cuisines -->
+    {{- $cuisines := index .Taxonomies 1}}
+    <section class="cuisine-highlights">
+      <h2>Popular Cuisines</h2>
+      <div class="browse-pills">
+        {{- range $i, $entry := $cuisines.Entries}}
+        {{- if lt $i 12}}
+        <a class="browse-pill meta-pill tax-cuisine" href="/cuisine/{{$entry.Slug}}.html">{{$entry.Name}} <span class="cuisine-count">({{len $entry.Entities}})</span></a>
+        {{- end}}
+        {{- end}}
+      </div>
+      <p class="section-link"><a href="/cuisine/index.html">See all cuisines &rarr;</a></p>
+    </section>
+
+    <!-- Category Showcase -->
+    {{$categories := index .Taxonomies 0}}
+    {{range $categories.Entries}}
+    <section class="category-showcase">
+      <h2><a href="/{{$categories.Name}}/{{.Slug}}.html">{{.Name}}</a> <span class="category-count">({{len .Entities}})</span></h2>
+      <div class="recipe-grid">
+        {{range $i, $recipe := .Entities}}
+        {{if lt $i 4}}
+        <div class="recipe-card">
+          <a href="/{{$recipe.Slug}}.html">{{field $recipe "title"}}</a>
+          {{if hasField $recipe "description"}}
+          <p class="desc">{{truncate (field $recipe "description") 120}}</p>
+          {{end}}
+          <div class="card-meta">
+            {{if hasField $recipe "cuisine"}}
+            <span class="meta-pill tax-cuisine">{{field $recipe "cuisine"}}</span>
+            {{end}}
+            {{if and (hasField $recipe "prep_time") (ne (formatDuration (field $recipe "prep_time")) "")}}
+            <span class="meta-pill meta-info">Prep {{formatDuration (field $recipe "prep_time")}}</span>
+            {{end}}
+            {{if and (hasField $recipe "cook_time") (ne (formatDuration (field $recipe "cook_time")) "")}}
+            <span class="meta-pill meta-info">Cook {{formatDuration (field $recipe "cook_time")}}</span>
+            {{end}}
+            {{if hasField $recipe "calories"}}
+            <span class="meta-pill meta-info">{{field $recipe "calories"}} cal</span>
+            {{end}}
+          </div>
+        </div>
+        {{end}}
+        {{end}}
+      </div>
+      <p class="section-link"><a href="/{{$categories.Name}}/{{.Slug}}.html">See all {{.Name}} recipes &rarr;</a></p>
+    </section>
+    {{end}}
+
+    <!-- Footer CTA -->
+    <div class="cta">
+      <div class="cta-box">
+        <div class="cta-title">{{.CTA.Heading}}</div>
+        <p class="cta-body">{{.CTA.Description}}</p>
+        <a href="{{.CTA.ButtonURL}}" style="display:inline-block;background:var(--color-primary);color:#fff;font-weight:600;font-size:0.9375rem;padding:0.6rem 1.25rem;border-radius:var(--radius);text-decoration:none;margin-right:0.5rem">{{.CTA.ButtonText}}</a>
+        <a href="{{.CTA.SecondaryURL}}" style="display:inline-block;border:1px solid var(--color-primary);color:var(--color-primary);font-weight:600;font-size:0.9375rem;padding:0.6rem 1.25rem;border-radius:var(--radius);text-decoration:none">{{.CTA.SecondaryText}}</a>
+      </div>
+    </div>
+
+    <p class="affiliate-statement">As an Amazon Associate and Walmart affiliate, Claude Chef earns from qualifying purchases.</p>
+    <p class="created-by">Created by <a href="{{.Site.AuthorURL}}">{{.Site.Author}}</a></p>
+    <div class="footer-gh">
+      <a href="{{.Site.RepoURL}}">
+        <svg viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+        GitHub
+      </a>
+    </div>
+    <p class="footer-links">
+      <a href="/sitemap.xml">Sitemap</a> &middot;
+      <a href="/llms.txt">llms.txt</a> &middot;
+      <a href="/feed.xml">RSS Feed</a>
+    </p>
+  </main>
+
+  <script src="/main.js"></script>
+</body>
+</html>

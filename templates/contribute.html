@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="{{.Site.Language}}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contribute a Recipe — {{.Site.Name}}</title>
+  <meta name="description" content="Submit your favorite recipe to Claude Chef. Share your cooking with thousands of home cooks and AI assistants.">
+  <meta name="author" content="{{.Site.Author}}">
+  <link rel="canonical" href="{{.Site.BaseURL}}/contribute.html">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><ellipse cx='50' cy='72' rx='38' ry='18' fill='%235B7B5E'/><rect x='20' y='55' width='60' height='20' rx='4' fill='%235B7B5E'/><path d='M25 55 Q25 20 50 15 Q75 20 75 55' fill='%235B7B5E'/><rect x='47' y='5' width='6' height='15' rx='3' fill='%235B7B5E'/></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="/styles.css">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Contribute a Recipe — {{.Site.Name}}">
+  <meta property="og:description" content="Submit your favorite recipe to Claude Chef. Share your cooking with thousands of home cooks and AI assistants.">
+  <meta property="og:type" content="{{.OG.Type}}">
+  <meta property="og:url" content="{{.OG.URL}}">
+  {{- if .OG.ImageURL}}
+  <meta property="og:image" content="{{.OG.ImageURL}}">
+  {{- end}}
+  <meta property="og:site_name" content="{{.Site.Name}}">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{.OG.Title}}">
+  <meta name="twitter:description" content="{{.OG.Description}}">
+  {{- if .OG.ImageURL}}
+  <meta name="twitter:image" content="{{.OG.ImageURL}}">
+  {{- end}}
+
+  {{- if .JsonLD}}
+  {{.JsonLD}}
+  {{- end}}
+
+  <style>
+    .contribute-form { max-width: 100%; }
+    .form-group { margin-bottom: 1.25rem; }
+    .form-group label {
+      display: block;
+      font-weight: 600;
+      font-size: 0.875rem;
+      color: var(--color-text);
+      margin-bottom: 0.35rem;
+    }
+    .form-group .hint {
+      font-size: 0.8125rem;
+      color: var(--color-text-secondary);
+      margin-bottom: 0.35rem;
+    }
+    .form-group input[type="text"],
+    .form-group textarea,
+    .form-group select {
+      width: 100%;
+      padding: 0.6rem 0.85rem;
+      border: 1px solid var(--color-border);
+      border-radius: 8px;
+      font-family: var(--font-body);
+      font-size: 0.9375rem;
+      color: var(--color-text);
+      background: var(--color-surface);
+      transition: border-color 0.15s ease;
+    }
+    .form-group input[type="text"]:focus,
+    .form-group textarea:focus,
+    .form-group select:focus {
+      outline: none;
+      border-color: var(--color-primary);
+      box-shadow: 0 0 0 2px rgba(91,123,94,0.15);
+    }
+    .form-group textarea { min-height: 120px; resize: vertical; line-height: 1.6; }
+    .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+    @media (max-width: 640px) { .form-row { grid-template-columns: 1fr; } }
+    .optional-details { margin-top: 1.5rem; }
+    .optional-details summary {
+      cursor: pointer;
+      font-weight: 600;
+      font-size: 0.9375rem;
+      color: var(--color-primary);
+      padding: 0.75rem 0;
+      list-style: none;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .optional-details summary::-webkit-details-marker { display: none; }
+    .optional-details summary::before { content: '+'; font-size: 1.25rem; font-weight: 400; }
+    .optional-details[open] summary::before { content: '\2212'; }
+    .optional-details .detail-fields { padding-top: 0.5rem; }
+    .submit-btn {
+      display: inline-block;
+      background: var(--color-primary);
+      color: #fff;
+      font-family: var(--font-body);
+      font-weight: 600;
+      font-size: 1rem;
+      padding: 0.75rem 2rem;
+      border: none;
+      border-radius: var(--radius);
+      cursor: pointer;
+      transition: background 0.15s ease, transform 0.15s ease;
+      margin-top: 0.5rem;
+    }
+    .submit-btn:hover { background: var(--color-primary-hover); transform: translateY(-1px); }
+    .submit-btn:focus-visible { outline: 2px solid var(--color-primary); outline-offset: 2px; }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <a class="site-brand" href="/">
+      <svg width="24" height="24" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><ellipse cx="50" cy="72" rx="38" ry="18" fill="#5B7B5E"/><rect x="20" y="55" width="60" height="20" rx="4" fill="#5B7B5E"/><path d="M25 55 Q25 20 50 15 Q75 20 75 55" fill="#5B7B5E"/><rect x="47" y="5" width="6" height="15" rx="3" fill="#5B7B5E"/></svg>
+      Claude Chef
+    </a>
+    <nav>
+      <a href="/install.html">Install</a>
+      <a href="/about.html">About</a>
+      <a href="/contribute.html">Contribute</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <!-- Breadcrumbs -->
+    {{- if .Breadcrumbs}}
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      {{- range $i, $crumb := .Breadcrumbs}}
+      {{- if $i}}<span class="breadcrumb-sep">/</span>{{end}}
+      {{- if $crumb.URL}}<a href="{{$crumb.URL}}">{{$crumb.Name}}</a>{{else}}<span>{{$crumb.Name}}</span>{{end}}
+      {{- end}}
+    </nav>
+    {{- end}}
+
+    <!-- Hero -->
+    <section class="hero">
+      <h1>Contribute a Recipe</h1>
+      <p class="hero-tagline">Share your favorite recipe with the Claude Chef community. Fill out the form below and we will create a GitHub issue for review.</p>
+    </section>
+
+    <!-- Recipe Form -->
+    <section>
+      <form class="contribute-form" id="recipe-form" onsubmit="return submitRecipe(event)">
+
+        <h2>Basic Info</h2>
+
+        <div class="form-group">
+          <label for="recipe-title">Recipe Title *</label>
+          <input type="text" id="recipe-title" name="title" required placeholder="e.g., Spicy Garlic Noodles">
+        </div>
+
+        <div class="form-group">
+          <label for="recipe-description">Description *</label>
+          <p class="hint">A one-line summary of the recipe.</p>
+          <input type="text" id="recipe-description" name="description" required placeholder="e.g., Quick weeknight noodles tossed in a spicy garlic butter sauce.">
+        </div>
+
+        <div class="form-group">
+          <label for="recipe-author">Your Name *</label>
+          <input type="text" id="recipe-author" name="author" required placeholder="e.g., Jane Smith">
+        </div>
+
+        <h2>Recipe Content</h2>
+
+        <div class="form-group">
+          <label for="recipe-ingredients">Ingredients *</label>
+          <p class="hint">One ingredient per line, including quantities (e.g., "2 cups all-purpose flour").</p>
+          <textarea id="recipe-ingredients" name="ingredients" required placeholder="1 lb spaghetti&#10;4 cloves garlic, minced&#10;3 tbsp butter&#10;1 tsp red pepper flakes&#10;Salt and pepper to taste"></textarea>
+        </div>
+
+        <div class="form-group">
+          <label for="recipe-instructions">Instructions *</label>
+          <p class="hint">Numbered steps. One step per line.</p>
+          <textarea id="recipe-instructions" name="instructions" required placeholder="1. Bring a large pot of salted water to a boil.&#10;2. Cook spaghetti according to package directions.&#10;3. Meanwhile, melt butter in a skillet over medium heat.&#10;4. Add garlic and red pepper flakes, cook 1 minute.&#10;5. Toss drained pasta with garlic butter. Season to taste."></textarea>
+        </div>
+
+        <div class="form-group">
+          <label for="recipe-notes">Notes</label>
+          <p class="hint">Optional tips, variations, or serving suggestions.</p>
+          <textarea id="recipe-notes" name="notes" placeholder="Great with parmesan cheese on top. Can substitute chili oil for butter for a vegan version."></textarea>
+        </div>
+
+        <!-- Optional Details -->
+        <details class="optional-details">
+          <summary>Optional Details</summary>
+          <div class="detail-fields">
+
+            <div class="form-row">
+              <div class="form-group">
+                <label for="recipe-prep-time">Prep Time</label>
+                <input type="text" id="recipe-prep-time" name="prep_time" placeholder="e.g., 10 minutes">
+              </div>
+              <div class="form-group">
+                <label for="recipe-cook-time">Cook Time</label>
+                <input type="text" id="recipe-cook-time" name="cook_time" placeholder="e.g., 20 minutes">
+              </div>
+            </div>
+
+            <div class="form-row">
+              <div class="form-group">
+                <label for="recipe-servings">Servings</label>
+                <input type="text" id="recipe-servings" name="servings" placeholder="e.g., 4">
+              </div>
+              <div class="form-group">
+                <label for="recipe-calories">Calories (per serving)</label>
+                <input type="text" id="recipe-calories" name="calories" placeholder="e.g., 450">
+              </div>
+            </div>
+
+            <div class="form-row">
+              <div class="form-group">
+                <label for="recipe-category">Category</label>
+                <select id="recipe-category" name="category">
+                  <option value="">Select a category</option>
+                  <option value="Main Course">Main Course</option>
+                  <option value="Side Dish">Side Dish</option>
+                  <option value="Appetizer">Appetizer</option>
+                  <option value="Dessert">Dessert</option>
+                  <option value="Salad">Salad</option>
+                  <option value="Soup">Soup</option>
+                  <option value="Breakfast">Breakfast</option>
+                  <option value="Beverage">Beverage</option>
+                  <option value="Snack">Snack</option>
+                  <option value="Sauce">Sauce</option>
+                  <option value="Bread">Bread</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <label for="recipe-skill">Skill Level</label>
+                <select id="recipe-skill" name="skill_level">
+                  <option value="">Select skill level</option>
+                  <option value="Easy">Easy</option>
+                  <option value="Intermediate">Intermediate</option>
+                  <option value="Advanced">Advanced</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label for="recipe-cuisine">Cuisine</label>
+              <input type="text" id="recipe-cuisine" name="cuisine" placeholder="e.g., Italian, Mexican, Japanese-American">
+            </div>
+
+            <div class="form-group">
+              <label for="recipe-keywords">Keywords</label>
+              <p class="hint">Comma-separated keywords for discovery.</p>
+              <input type="text" id="recipe-keywords" name="keywords" placeholder="e.g., quick, weeknight, spicy, pasta, garlic">
+            </div>
+
+            <div class="form-group">
+              <label for="recipe-allergens">Allergens</label>
+              <p class="hint">Comma-separated list of allergens present.</p>
+              <input type="text" id="recipe-allergens" name="allergens" placeholder="e.g., Gluten, Dairy, Soy">
+            </div>
+
+            <div class="form-group">
+              <label for="recipe-flavors">Flavors</label>
+              <p class="hint">Comma-separated flavor profiles.</p>
+              <input type="text" id="recipe-flavors" name="flavors" placeholder="e.g., Spicy, Savory, Garlicky">
+            </div>
+
+            <div class="form-group">
+              <label for="recipe-tools">Tools</label>
+              <p class="hint">Comma-separated cooking tools needed.</p>
+              <input type="text" id="recipe-tools" name="tools" placeholder="e.g., Skillet, Pot, Cutting Board">
+            </div>
+
+          </div>
+        </details>
+
+        <button type="submit" class="submit-btn">Submit Recipe via GitHub</button>
+      </form>
+    </section>
+
+    <!-- Footer CTA -->
+    <div class="cta">
+      <div class="cta-box">
+        <div class="cta-title">{{.CTA.Heading}}</div>
+        <p class="cta-body">{{.CTA.Description}}</p>
+        <a href="{{.CTA.ButtonURL}}" style="display:inline-block;background:var(--color-primary);color:#fff;font-weight:600;font-size:0.9375rem;padding:0.6rem 1.25rem;border-radius:var(--radius);text-decoration:none;margin-right:0.5rem">{{.CTA.ButtonText}}</a>
+        <a href="{{.CTA.SecondaryURL}}" style="display:inline-block;border:1px solid var(--color-primary);color:var(--color-primary);font-weight:600;font-size:0.9375rem;padding:0.6rem 1.25rem;border-radius:var(--radius);text-decoration:none">{{.CTA.SecondaryText}}</a>
+      </div>
+    </div>
+
+    <p class="affiliate-statement">As an Amazon Associate and Walmart affiliate, Claude Chef earns from qualifying purchases.</p>
+    <p class="created-by">Created by <a href="{{.Site.AuthorURL}}">{{.Site.Author}}</a></p>
+    <p class="footer-links">
+      <a href="/sitemap.xml">Sitemap</a> &middot;
+      <a href="/llms.txt">llms.txt</a> &middot;
+      <a href="/feed.xml">RSS Feed</a>
+    </p>
+  </main>
+
+  <script>
+  function submitRecipe(e) {
+    e.preventDefault();
+    var form = document.getElementById('recipe-form');
+    var title = form.querySelector('#recipe-title').value.trim();
+    var description = form.querySelector('#recipe-description').value.trim();
+    var author = form.querySelector('#recipe-author').value.trim();
+    var ingredients = form.querySelector('#recipe-ingredients').value.trim();
+    var instructions = form.querySelector('#recipe-instructions').value.trim();
+    var notes = form.querySelector('#recipe-notes').value.trim();
+
+    var prepTime = form.querySelector('#recipe-prep-time').value.trim();
+    var cookTime = form.querySelector('#recipe-cook-time').value.trim();
+    var servings = form.querySelector('#recipe-servings').value.trim();
+    var calories = form.querySelector('#recipe-calories').value.trim();
+    var category = form.querySelector('#recipe-category').value;
+    var skillLevel = form.querySelector('#recipe-skill').value;
+    var cuisine = form.querySelector('#recipe-cuisine').value.trim();
+    var keywords = form.querySelector('#recipe-keywords').value.trim();
+    var allergens = form.querySelector('#recipe-allergens').value.trim();
+    var flavors = form.querySelector('#recipe-flavors').value.trim();
+    var tools = form.querySelector('#recipe-tools').value.trim();
+
+    var body = '## Recipe Submission\n\n';
+    body += '**Title:** ' + title + '\n';
+    body += '**Description:** ' + description + '\n';
+    body += '**Author:** ' + author + '\n\n';
+
+    body += '### Ingredients\n' + ingredients + '\n\n';
+    body += '### Instructions\n' + instructions + '\n\n';
+
+    if (notes) body += '### Notes\n' + notes + '\n\n';
+
+    body += '### Details\n';
+    if (prepTime) body += '- **Prep Time:** ' + prepTime + '\n';
+    if (cookTime) body += '- **Cook Time:** ' + cookTime + '\n';
+    if (servings) body += '- **Servings:** ' + servings + '\n';
+    if (calories) body += '- **Calories:** ' + calories + '\n';
+    if (category) body += '- **Category:** ' + category + '\n';
+    if (skillLevel) body += '- **Skill Level:** ' + skillLevel + '\n';
+    if (cuisine) body += '- **Cuisine:** ' + cuisine + '\n';
+    if (keywords) body += '- **Keywords:** ' + keywords + '\n';
+    if (allergens) body += '- **Allergens:** ' + allergens + '\n';
+    if (flavors) body += '- **Flavors:** ' + flavors + '\n';
+    if (tools) body += '- **Tools:** ' + tools + '\n';
+
+    var issueTitle = encodeURIComponent('Recipe: ' + title);
+    var issueBody = encodeURIComponent(body);
+    var url = '{{.Site.RepoURL}}/issues/new?title=' + issueTitle + '&body=' + issueBody + '&labels=recipe-submission';
+
+    window.open(url, '_blank', 'noopener');
+    return false;
+  }
+  </script>
+  <script src="/main.js"></script>
+</body>
+</html>

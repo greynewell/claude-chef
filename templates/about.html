@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="{{.Site.Language}}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>How Claude Chef Works — {{.Site.Name}}</title>
+  <meta name="description" content="Learn how Claude Chef combines 29,000+ community recipes with AI-powered cooking assistance, smart ingredient shopping, and recipe discovery.">
+  <meta name="author" content="{{.Site.Author}}">
+  <link rel="canonical" href="{{.Site.BaseURL}}/about.html">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><ellipse cx='50' cy='72' rx='38' ry='18' fill='%235B7B5E'/><rect x='20' y='55' width='60' height='20' rx='4' fill='%235B7B5E'/><path d='M25 55 Q25 20 50 15 Q75 20 75 55' fill='%235B7B5E'/><rect x='47' y='5' width='6' height='15' rx='3' fill='%235B7B5E'/></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="alternate" type="application/rss+xml" title="{{.Site.Name}} RSS Feed" href="/feed.xml">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="How Claude Chef Works — {{.Site.Name}}">
+  <meta property="og:description" content="Learn how Claude Chef combines 29,000+ community recipes with AI-powered cooking assistance, smart ingredient shopping, and recipe discovery.">
+  <meta property="og:type" content="{{.OG.Type}}">
+  <meta property="og:url" content="{{.OG.URL}}">
+  {{- if .OG.ImageURL}}
+  <meta property="og:image" content="{{.OG.ImageURL}}">
+  {{- end}}
+  <meta property="og:site_name" content="{{.Site.Name}}">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{.OG.Title}}">
+  <meta name="twitter:description" content="{{.OG.Description}}">
+  {{- if .OG.ImageURL}}
+  <meta name="twitter:image" content="{{.OG.ImageURL}}">
+  {{- end}}
+
+  {{- if .JsonLD}}
+  {{.JsonLD}}
+  {{- end}}
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <a class="site-brand" href="/">
+      <svg width="24" height="24" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><ellipse cx="50" cy="72" rx="38" ry="18" fill="#5B7B5E"/><rect x="20" y="55" width="60" height="20" rx="4" fill="#5B7B5E"/><path d="M25 55 Q25 20 50 15 Q75 20 75 55" fill="#5B7B5E"/><rect x="47" y="5" width="6" height="15" rx="3" fill="#5B7B5E"/></svg>
+      Claude Chef
+    </a>
+    <nav>
+      <a href="/install.html">Install</a>
+      <a href="/about.html">About</a>
+      <a href="/contribute.html">Contribute</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <!-- Breadcrumbs -->
+    {{- if .Breadcrumbs}}
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      {{- range $i, $crumb := .Breadcrumbs}}
+      {{- if $i}}<span class="breadcrumb-sep">/</span>{{end}}
+      {{- if $crumb.URL}}<a href="{{$crumb.URL}}">{{$crumb.Name}}</a>{{else}}<span>{{$crumb.Name}}</span>{{end}}
+      {{- end}}
+    </nav>
+    {{- end}}
+
+    <!-- Hero -->
+    <section class="hero">
+      <h1>How Claude Chef Works</h1>
+      <p class="hero-tagline">Claude Chef combines thousands of community-contributed recipes with AI-powered tools to make cooking more accessible, more fun, and more delicious.</p>
+    </section>
+
+    <!-- Feature Cards -->
+    <section>
+      <h2>Features</h2>
+
+      <div class="card">
+        <h2 style="margin-top:0">Cook with AI</h2>
+        <p>Every recipe includes a one-click "Cook with AI" prompt you can paste into Claude, ChatGPT, or any AI assistant. Get step-by-step guidance, substitution ideas, and answers to cooking questions in real time.</p>
+      </div>
+
+      <div class="card">
+        <h2 style="margin-top:0">Smart Ingredient Shopping</h2>
+        <p>Each recipe page includes normalized shopping links for every ingredient. Quickly find what you need on Amazon, Walmart, or your preferred store. Adjust servings with the slider and quantities update automatically.</p>
+      </div>
+
+      <div class="card">
+        <h2 style="margin-top:0">Gear Recommendations</h2>
+        <p>Recipes include recommended tools and equipment with shopping links. Whether you need a cast iron skillet or a stand mixer, Claude Chef helps you find the right gear.</p>
+      </div>
+
+      <div class="card">
+        <h2 style="margin-top:0">Recipe Pairings</h2>
+        <p>Discover what goes together. Each recipe suggests complementary dishes so you can build complete meals. Pair your main course with the perfect side, salad, or dessert.</p>
+      </div>
+
+      <div class="card">
+        <h2 style="margin-top:0">Browse by Category, Cuisine &amp; More</h2>
+        <p>Explore recipes organized across multiple dimensions: category, cuisine, ingredients, flavors, sauces, tools, skill level, and contributor. Find exactly what you are looking for or discover something new.</p>
+        <div class="browse-pills" style="margin-top:1rem">
+          {{- range .Taxonomies}}
+          <a class="browse-pill meta-pill tax-{{.Name}}" href="/{{.Name}}/index.html">{{.Label}}</a>
+          {{- end}}
+        </div>
+      </div>
+    </section>
+
+    <!-- CLI Plugin -->
+    <section>
+      <h2>Claude Code CLI Plugin</h2>
+      <div class="card">
+        <p>Claude Chef is also a <a href="https://docs.anthropic.com/en/docs/claude-code">Claude Code</a> plugin. Install it to create, enrich, and submit recipes directly from your terminal.</p>
+        <pre style="margin:1rem 0;background:var(--color-bg);border:1px solid var(--color-border);padding:1rem;border-radius:8px;overflow-x:auto"><code>claude install-plugin github:greynewell/claude-chef</code></pre>
+        <p>Then use it with:</p>
+        <pre style="margin:1rem 0;background:var(--color-bg);border:1px solid var(--color-border);padding:1rem;border-radius:8px;overflow-x:auto"><code>/chef create "Spicy Garlic Noodles"
+/chef enrich spicy-garlic-noodles
+/chef submit</code></pre>
+      </div>
+    </section>
+
+    <!-- Open Source -->
+    <section>
+      <h2>Open Source</h2>
+      <div class="card">
+        <p>Claude Chef is fully open source under the CC0-1.0 license. The entire site is static HTML with zero runtime dependencies — no framework, no build step for the output, no client-side libraries.</p>
+        <p style="margin-top:1rem">
+          <a href="{{.Site.RepoURL}}" class="git-btn" target="_blank" rel="noopener">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+            View on GitHub
+          </a>
+        </p>
+      </div>
+    </section>
+
+    <!-- Attribution -->
+    <section>
+      <h2>Attribution</h2>
+      <div class="card">
+        <p>The initial recipe dataset was sourced from Shengtao's <a href="https://huggingface.co/datasets/Shengtao/recipe" target="_blank" rel="noopener">recipe dataset</a> on Hugging Face. These recipes have been cleaned, enriched, and expanded by the Claude Chef community.</p>
+        <p style="margin-top:0.75rem">All recipes in Claude Chef are available under the <strong>CC0-1.0</strong> license — free to use, share, and build upon without restriction.</p>
+      </div>
+    </section>
+
+    <!-- Footer CTA -->
+    <div class="cta">
+      <div class="cta-box">
+        <div class="cta-title">{{.CTA.Heading}}</div>
+        <p class="cta-body">{{.CTA.Description}}</p>
+        <a href="{{.CTA.ButtonURL}}" style="display:inline-block;background:var(--color-primary);color:#fff;font-weight:600;font-size:0.9375rem;padding:0.6rem 1.25rem;border-radius:var(--radius);text-decoration:none;margin-right:0.5rem">{{.CTA.ButtonText}}</a>
+        <a href="{{.CTA.SecondaryURL}}" style="display:inline-block;border:1px solid var(--color-primary);color:var(--color-primary);font-weight:600;font-size:0.9375rem;padding:0.6rem 1.25rem;border-radius:var(--radius);text-decoration:none">{{.CTA.SecondaryText}}</a>
+      </div>
+    </div>
+
+    <p class="affiliate-statement">As an Amazon Associate and Walmart affiliate, Claude Chef earns from qualifying purchases.</p>
+    <p class="created-by">Created by <a href="{{.Site.AuthorURL}}">{{.Site.Author}}</a></p>
+    <p class="footer-links">
+      <a href="/sitemap.xml">Sitemap</a> &middot;
+      <a href="/llms.txt">llms.txt</a> &middot;
+      <a href="/feed.xml">RSS Feed</a>
+    </p>
+  </main>
+
+  <script src="/main.js"></script>
+</body>
+</html>
