@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="{{.Site.Language}}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{field .Entity "title"}} | {{.Site.Name}}</title>
+  <meta name="description" content="{{field .Entity "description"}}">
+  <meta name="robots" content="index, follow">
+  {{- if hasField .Entity "author"}}
+  <meta name="author" content="{{field .Entity "author"}}">
+  {{- end}}
+  <meta name="theme-color" content="#5B7B5E">
+  <link rel="canonical" href="{{.CanonicalURL}}">
+
+  <!-- Open Graph -->
+  <meta property="og:site_name" content="{{.OG.SiteName}}">
+  <meta property="og:title" content="{{.OG.Title}}">
+  <meta property="og:description" content="{{.OG.Description}}">
+  <meta property="og:type" content="{{.OG.Type}}">
+  <meta property="og:url" content="{{.OG.URL}}">
+  {{- if .OG.ImageURL}}
+  <meta property="og:image" content="{{.OG.ImageURL}}">
+  {{- end}}
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{.OG.Title}}">
+  <meta name="twitter:description" content="{{.OG.Description}}">
+  {{- if .OG.ImageURL}}
+  <meta name="twitter:image" content="{{.OG.ImageURL}}">
+  {{- end}}
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cellipse cx='32' cy='18' rx='18' ry='14' fill='%23fff' stroke='%235B7B5E' stroke-width='3'/%3E%3Ccircle cx='20' cy='16' r='7' fill='%23EEF3EE'/%3E%3Ccircle cx='44' cy='16' r='7' fill='%23EEF3EE'/%3E%3Ccircle cx='32' cy='11' r='8' fill='%23EEF3EE'/%3E%3Crect x='18' y='26' width='28' height='18' rx='3' fill='%23fff' stroke='%235B7B5E' stroke-width='3'/%3E%3C/svg%3E">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+
+  <!-- Structured Data -->
+  {{- if .JsonLD}}
+  {{.JsonLD}}
+  {{- end}}
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to recipe</a>
+
+  <header class="site-header">
+    <a class="site-brand" href="/index.html">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="28" height="28" aria-hidden="true"><ellipse cx="32" cy="18" rx="18" ry="14" fill="#fff" stroke="currentColor" stroke-width="2.5"/><circle cx="20" cy="16" r="7" fill="#EEF3EE"/><circle cx="44" cy="16" r="7" fill="#EEF3EE"/><circle cx="32" cy="11" r="8" fill="#EEF3EE"/><rect x="18" y="26" width="28" height="18" rx="3" fill="#fff" stroke="currentColor" stroke-width="2.5"/><line x1="24" y1="32" x2="24" y2="40" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity="0.3"/><line x1="32" y1="32" x2="32" y2="40" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity="0.3"/><line x1="40" y1="32" x2="40" y2="40" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity="0.3"/></svg>
+      Claude Chef
+    </a>
+    <nav>
+      <a href="/install.html">Install</a>
+      <a href="/about.html">About</a>
+      <a href="/contribute.html">Contribute</a>
+    </nav>
+  </header>
+
+  <main id="main-content">
+    {{- if .Breadcrumbs}}
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      {{- range $i, $bc := .Breadcrumbs -}}
+        {{- if $bc.URL -}}
+          <a href="{{$bc.URL}}">{{$bc.Name}}</a> <span class="breadcrumb-sep">/</span>
+        {{- else -}}
+          <span>{{$bc.Name}}</span>
+        {{- end -}}
+      {{- end -}}
+    </nav>
+    {{- end}}
+
+    <h1>{{field .Entity "title"}}</h1>
+
+    <p class="recipe-byline">
+      {{- if hasField .Entity "author"}}By <a href="/author/{{slugify (field .Entity "author")}}.html">{{field .Entity "author"}}</a>{{end -}}
+      {{- if and (hasField .Entity "prep_time") (ne (formatDuration (field .Entity "prep_time")) "")}} &middot; Prep {{formatDuration (field .Entity "prep_time")}}{{end -}}
+      {{- if and (hasField .Entity "cook_time") (ne (formatDuration (field .Entity "cook_time")) "")}} &middot; Cook {{formatDuration (field .Entity "cook_time")}}{{end -}}
+      {{- if hasField .Entity "calories"}} &middot; <span class="calories-value">{{field .Entity "calories"}}</span> cal/serving{{end -}}
+    </p>
+
+    {{- $skillLevel := ""}}
+    {{- if hasField .Entity "skill_level"}}{{$skillLevel = field .Entity "skill_level"}}{{end}}
+    {{- $category := ""}}
+    {{- if hasField .Entity "recipe_category"}}{{$category = field .Entity "recipe_category"}}{{end}}
+    {{- $cuisine := ""}}
+    {{- if hasField .Entity "cuisine"}}{{$cuisine = field .Entity "cuisine"}}{{end}}
+
+    {{- $hasAnyTag := false}}
+    {{- if or $skillLevel $category $cuisine}}{{$hasAnyTag = true}}{{end}}
+    {{- if not $hasAnyTag}}
+      {{- if hasField .Entity "recipe_ingredients"}}{{$hasAnyTag = true}}{{end}}
+    {{- end}}
+    {{- if not $hasAnyTag}}
+      {{- if hasField .Entity "flavors"}}{{$hasAnyTag = true}}{{end}}
+    {{- end}}
+    {{- if not $hasAnyTag}}
+      {{- if hasField .Entity "sauces"}}{{$hasAnyTag = true}}{{end}}
+    {{- end}}
+    {{- if not $hasAnyTag}}
+      {{- if hasField .Entity "tools"}}{{$hasAnyTag = true}}{{end}}
+    {{- end}}
+
+    {{- if $hasAnyTag}}
+    <div class="recipe-tags">
+      {{- if $skillLevel}}
+      <a class="meta-pill skill-badge {{slugify $skillLevel}}" href="/skill_level/{{slugify $skillLevel}}.html">{{$skillLevel}}</a>
+      {{- end}}
+      {{- if $category}}
+      <a class="meta-pill tax-category" href="/category/{{slugify $category}}.html">{{$category}}</a>
+      {{- end}}
+      {{- if $cuisine}}
+      <a class="meta-pill tax-cuisine" href="/cuisine/{{slugify $cuisine}}.html">{{$cuisine}}</a>
+      {{- end}}
+      {{- if hasField .Entity "recipe_ingredients"}}
+        {{- range getStringSlice .Entity "recipe_ingredients"}}
+      <a class="meta-pill tax-ingredient" href="/ingredient/{{slugify .}}.html">{{.}}</a>
+        {{- end}}
+      {{- end}}
+      {{- if hasField .Entity "allergies"}}
+        {{- range getStringSlice .Entity "allergies"}}
+      <a class="meta-pill tax-allergy" href="/allergy/{{slugify .}}.html">{{.}}</a>
+        {{- end}}
+      {{- end}}
+      {{- if hasField .Entity "flavors"}}
+        {{- range getStringSlice .Entity "flavors"}}
+      <a class="meta-pill tax-flavor" href="/flavor/{{slugify .}}.html">{{.}}</a>
+        {{- end}}
+      {{- end}}
+      {{- if hasField .Entity "sauces"}}
+        {{- range getStringSlice .Entity "sauces"}}
+      <a class="meta-pill tax-sauce" href="/sauce/{{slugify .}}.html">{{.}}</a>
+        {{- end}}
+      {{- end}}
+      {{- if hasField .Entity "tools"}}
+        {{- range getStringSlice .Entity "tools"}}
+      <a class="meta-pill tax-tool" href="/tool/{{slugify .}}.html">{{.}}</a>
+        {{- end}}
+      {{- end}}
+    </div>
+    {{- end}}
+
+    {{- if hasField .Entity "servings"}}
+    <div class="servings-slider" aria-label="Adjust servings">
+      <label class="servings-label" for="servings-range">Servings</label>
+      <button class="servings-btn" data-dir="-" aria-label="Decrease servings">&minus;</button>
+      <input type="range" id="servings-range" class="servings-range" min="1" max="20" value="{{getInt .Entity "servings"}}">
+      <button class="servings-btn" data-dir="+" aria-label="Increase servings">&plus;</button>
+      <input type="number" class="servings-input" min="1" max="99" value="{{getInt .Entity "servings"}}" aria-label="Servings count">
+    </div>
+    {{- end}}
+
+    <article data-base-servings="{{getInt .Entity "servings"}}" data-base-calories="{{getInt .Entity "calories"}}">
+      <h2>Ingredients</h2>
+      <ul class="ingredient-list">
+        {{- range .Entity.GetIngredients}}
+        {{- $qty := parseIngredientQty .}}
+        {{- $unit := parseIngredientUnit .}}
+        {{- $desc := parseIngredientDesc .}}
+        {{- if $qty}}
+        <li class="ingredient" data-base-qty="{{$qty}}" data-unit="{{$unit}}"><span class="ingredient-qty">{{fractionDisplay $qty}}</span>{{if $unit}} {{$unit}}{{end}}{{if $desc}} {{$desc}}{{end}}</li>
+        {{- else}}
+        <li class="ingredient">{{.}}</li>
+        {{- end}}
+        {{- end}}
+      </ul>
+
+      {{- $instructions := .Entity.GetInstructions}}
+      {{- if $instructions}}
+      <h2>Instructions</h2>
+      <ol>
+      {{- range $instructions}}
+        <li>{{.}}</li>
+      {{- end}}
+      </ol>
+      {{- end}}
+
+      {{- $notes := section .Entity "notes"}}
+      {{- if $notes}}
+      <h2>Notes</h2>
+      <div class="recipe-notes">{{markdown $notes}}</div>
+      {{- end}}
+    </article>
+
+    {{- if .AffiliateLinks}}
+    <div class="shop-section card">
+      <h2>Shop Ingredients</h2>
+      <p class="affiliate-disclosure">(paid links)</p>
+      <ul>
+        {{- range .AffiliateLinks}}
+        <li>
+          <span class="ingredient-name">{{.Term}}</span>
+          <div class="affiliate-links">
+            <a class="affiliate-link" href="{{.URL}}" target="_blank" rel="noopener" title="Buy on {{.Provider}}">
+              <img src="https://www.google.com/s2/favicons?domain={{if eq .Provider "Amazon"}}amazon.com{{else if eq .Provider "Walmart"}}walmart.com{{else}}{{.Provider}}{{end}}&sz=32" alt="{{.Provider}}" width="16" height="16">
+            </a>
+          </div>
+        </li>
+        {{- end}}
+      </ul>
+    </div>
+    {{- end}}
+
+    {{- if .Enrichment}}
+    {{- if index .Enrichment "gear"}}
+    <div class="gear-section card">
+      <h2>Gear</h2>
+      <ul>
+        {{- range index .Enrichment "gear"}}
+        <li>
+          <span class="gear-name">{{itemName .}}</span>
+        </li>
+        {{- end}}
+      </ul>
+    </div>
+    {{- end}}
+    {{- end}}
+
+    {{- if .CookModePrompt}}
+    <div class="cook-mode card">
+      <h2>Cook with AI</h2>
+      <p>Copy this prompt into Claude or your favorite AI assistant for hands-free, step-by-step guidance while you cook.</p>
+      <div class="cook-mode-box">
+        <button class="copy-btn" onclick="navigator.clipboard.writeText(this.nextElementSibling.textContent).then(()=>{this.textContent='Copied!'})">Copy</button>
+        <div class="cook-mode-prompt">{{.CookModePrompt}}</div>
+      </div>
+    </div>
+    {{- end}}
+
+    {{- if .Pairings}}
+    <div class="pairings-section card">
+      <h2>Suggested Pairings</h2>
+      <ul>
+        {{- range .Pairings}}
+        <li class="pairing-item">
+          <a href="/{{.Slug}}.html">
+            <span class="pairing-title">{{field . "title"}}</span>
+            {{- if hasField . "description"}}
+            <span class="pairing-desc">{{field . "description"}}</span>
+            {{- end}}
+          </a>
+        </li>
+        {{- end}}
+      </ul>
+    </div>
+    {{- end}}
+
+    <div class="share-bar">
+      <span class="share-label">Share this recipe</span>
+      <button class="share-btn" data-favorite data-slug="{{.Slug}}" aria-label="Save to favorites">
+        <svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+        <span>Save</span>
+      </button>
+      <button class="share-btn" data-share aria-label="Share recipe" data-url="{{.CanonicalURL}}" data-title="{{field .Entity "title"}}" data-text="{{field .Entity "description"}}">
+        <svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
+        <span>Share</span>
+      </button>
+      <button class="share-btn" data-copy-link aria-label="Copy link to recipe" data-url="{{.CanonicalURL}}">
+        <svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
+        <span>Copy link</span>
+      </button>
+    </div>
+
+    <div class="git-meta">
+      <a class="git-btn" href="{{.Site.RepoURL}}">git clone</a>
+    </div>
+
+    {{- if hasField .Entity "source_url"}}
+    <footer class="recipe-source">
+      <sup>[1]</sup> Original recipe: <a href="{{field .Entity "source_url"}}" rel="noopener" target="_blank">{{field .Entity "source_url"}}</a>
+    </footer>
+    {{- end}}
+  </main>
+
+  <footer class="cta">
+    <div class="cta-box">
+      {{- if .CTA}}
+      <p class="cta-title">{{.CTA.Heading}}</p>
+      <p class="cta-body">{{.CTA.Description}}</p>
+      {{- if .CTA.ButtonURL}}
+      <p><a href="{{.CTA.ButtonURL}}">{{.CTA.ButtonText}}</a></p>
+      {{- end}}
+      {{- if .CTA.SecondaryURL}}
+      <p class="cta-body"><a href="{{.CTA.SecondaryURL}}">{{.CTA.SecondaryText}}</a></p>
+      {{- end}}
+      {{- else}}
+      <p class="cta-title">Your AI Sous Chef, Ready When You Are</p>
+      <p class="cta-body">Get real-time cooking guidance, ingredient swaps, and step-by-step coaching from Claude Chef.</p>
+      <p class="cta-body">Have a recipe to share? <a href="/contribute.html">Contribute to Claude Chef</a></p>
+      {{- end}}
+    </div>
+    <p class="affiliate-statement">As an Amazon Associate and Walmart affiliate, Claude Chef earns from qualifying purchases.</p>
+    <p class="footer-links">
+      <a href="/sitemap.xml">Sitemap</a> &middot;
+      <a href="/llms.txt">llms.txt</a> &middot;
+      <a href="/feed.xml">RSS Feed</a>
+    </p>
+    <p class="created-by">Created by <a href="{{.Site.AuthorURL}}">{{.Site.Author}}</a></p>
+  </footer>
+
+  <script src="/main.js"></script>
+</body>
+</html>

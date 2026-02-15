@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="{{.Site.Language}}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{len .Entry.Entities}} Recipes by {{.Entry.Name}} | {{.Site.Name}}</title>
+  {{- if .ContributorProfile}}
+  {{- if index .ContributorProfile "bio"}}
+  <meta name="description" content="{{index .ContributorProfile "bio"}} Browse {{len .Entry.Entities}} recipes from {{.Entry.Name}}.">
+  {{- else}}
+  <meta name="description" content="Browse {{len .Entry.Entities}} recipes contributed by {{.Entry.Name}} on {{.Site.Name}}.">
+  {{- end}}
+  {{- else}}
+  <meta name="description" content="Browse {{len .Entry.Entities}} recipes contributed by {{.Entry.Name}} on {{.Site.Name}}.">
+  {{- end}}
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#5B7B5E">
+  <link rel="canonical" href="{{.Site.BaseURL}}/author/{{.Entry.Slug}}.html">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><ellipse cx='50' cy='72' rx='38' ry='18' fill='%235B7B5E'/><rect x='20' y='55' width='60' height='20' rx='4' fill='%235B7B5E'/><path d='M25 55 Q25 20 50 15 Q75 20 75 55' fill='%235B7B5E'/><rect x='47' y='5' width='6' height='15' rx='3' fill='%235B7B5E'/></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="/styles.css">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{.OG.Title}}">
+  <meta property="og:description" content="{{.OG.Description}}">
+  <meta property="og:type" content="{{.OG.Type}}">
+  <meta property="og:url" content="{{.OG.URL}}">
+  {{- if .OG.ImageURL}}
+  <meta property="og:image" content="{{.OG.ImageURL}}">
+  {{- end}}
+  <meta property="og:site_name" content="{{.Site.Name}}">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{.OG.Title}}">
+  <meta name="twitter:description" content="{{.OG.Description}}">
+  {{- if .OG.ImageURL}}
+  <meta name="twitter:image" content="{{.OG.ImageURL}}">
+  {{- end}}
+
+  {{- if .JsonLD}}
+  {{.JsonLD}}
+  {{- end}}
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <a class="site-brand" href="/">
+      <svg width="24" height="24" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><ellipse cx="50" cy="72" rx="38" ry="18" fill="#5B7B5E"/><rect x="20" y="55" width="60" height="20" rx="4" fill="#5B7B5E"/><path d="M25 55 Q25 20 50 15 Q75 20 75 55" fill="#5B7B5E"/><rect x="47" y="5" width="6" height="15" rx="3" fill="#5B7B5E"/></svg>
+      Claude Chef
+    </a>
+    <nav>
+      <a href="/install.html">Install</a>
+      <a href="/about.html">About</a>
+      <a href="/contribute.html">Contribute</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a> <span class="breadcrumb-sep">/</span>
+      <a href="/author/index.html">Contributors</a> <span class="breadcrumb-sep">/</span>
+      <span>{{.Entry.Name}}</span>
+    </nav>
+
+    {{- if .ContributorProfile}}
+    <div class="contributor-profile">
+      {{- if index .ContributorProfile "github"}}
+      <img class="contributor-avatar" src="https://github.com/{{index .ContributorProfile "github"}}.png" alt="{{.Entry.Name}}" loading="lazy">
+      {{- else if index .ContributorProfile "avatar"}}
+      <img class="contributor-avatar" src="{{index .ContributorProfile "avatar"}}" alt="{{.Entry.Name}}" loading="lazy">
+      {{- end}}
+      <div class="contributor-info">
+        <h1>{{.Entry.Name}}</h1>
+        {{- if index .ContributorProfile "bio"}}
+        <p class="contributor-bio">{{index .ContributorProfile "bio"}}</p>
+        {{- end}}
+        <div class="contributor-links">
+          {{- if index .ContributorProfile "github"}}
+          <a class="contributor-link" href="https://github.com/{{index .ContributorProfile "github"}}" target="_blank" rel="noopener">
+            <svg viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+            GitHub
+          </a>
+          {{- end}}
+          {{- if index .ContributorProfile "twitter"}}
+          <a class="contributor-link" href="https://x.com/{{index .ContributorProfile "twitter"}}" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            X
+          </a>
+          {{- end}}
+          {{- if index .ContributorProfile "website"}}
+          <a class="contributor-link" href="{{index .ContributorProfile "website"}}" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg>
+            Website
+          </a>
+          {{- end}}
+        </div>
+      </div>
+    </div>
+    <p style="color: var(--color-text-secondary); margin-bottom: 1.5rem;">{{len .Entry.Entities}} recipe{{if ne (len .Entry.Entities) 1}}s{{end}}</p>
+    {{- else}}
+    <div class="taxonomy-header">
+      <h1>Recipes by {{.Entry.Name}}</h1>
+      <p>{{len .Entry.Entities}} recipe{{if ne (len .Entry.Entities) 1}}s{{end}}</p>
+    </div>
+    {{- end}}
+
+    <ul class="recipe-grid">
+      {{- range .Entities}}
+      <li class="recipe-card">
+        <a href="/{{.Slug}}.html">{{field . "title"}}</a>
+        {{- if hasField . "description"}}
+        <div class="desc">{{field . "description"}}</div>
+        {{- end}}
+        <div class="card-meta">
+          {{- if hasField . "skill_level"}}
+          <a class="skill-badge {{slugify (field . "skill_level")}}" href="/skill_level/{{slugify (field . "skill_level")}}.html">{{field . "skill_level"}}</a>
+          {{- end}}
+          {{- if hasField . "cuisine"}}
+          <a class="meta-pill tax-cuisine" href="/cuisine/{{slugify (field . "cuisine")}}.html">{{field . "cuisine"}}</a>
+          {{- end}}
+          {{- if hasField . "recipe_category"}}
+          <a class="meta-pill tax-category" href="/category/{{slugify (field . "recipe_category")}}.html">{{field . "recipe_category"}}</a>
+          {{- end}}
+          {{- if and (hasField . "prep_time") (ne (formatDuration (field . "prep_time")) "")}}
+          <span class="meta-pill meta-info">Prep {{formatDuration (field . "prep_time")}}</span>
+          {{- end}}
+          {{- if and (hasField . "cook_time") (ne (formatDuration (field . "cook_time")) "")}}
+          <span class="meta-pill meta-info">Cook {{formatDuration (field . "cook_time")}}</span>
+          {{- end}}
+          {{- if hasField . "calories"}}
+          <span class="meta-pill meta-info">{{field . "calories"}} cal</span>
+          {{- end}}
+        </div>
+      </li>
+      {{- end}}
+    </ul>
+
+    {{- if gt .Pagination.TotalPages 1}}
+    <nav class="pagination" aria-label="Pagination">
+      {{- if .Pagination.PrevURL}}
+      <a class="pagination-link" href="{{.Pagination.PrevURL}}">&laquo; Prev</a>
+      {{- else}}
+      <span class="pagination-link disabled">&laquo; Prev</span>
+      {{- end}}
+      {{- range .Pagination.PageURLs}}
+      {{- if eq .Number $.Pagination.CurrentPage}}
+      <span class="pagination-current">{{.Number}}</span>
+      {{- else}}
+      <a class="pagination-link" href="{{.URL}}">{{.Number}}</a>
+      {{- end}}
+      {{- end}}
+      {{- if .Pagination.NextURL}}
+      <a class="pagination-link" href="{{.Pagination.NextURL}}">Next &raquo;</a>
+      {{- else}}
+      <span class="pagination-link disabled">Next &raquo;</span>
+      {{- end}}
+    </nav>
+    {{- end}}
+
+    <!-- Footer CTA -->
+    <div class="cta">
+      <div class="cta-box">
+        <div class="cta-title">{{.CTA.Heading}}</div>
+        <p class="cta-body">{{.CTA.Description}}</p>
+        <a href="{{.CTA.ButtonURL}}" style="display:inline-block;background:var(--color-primary);color:#fff;font-weight:600;font-size:0.9375rem;padding:0.6rem 1.25rem;border-radius:var(--radius);text-decoration:none;margin-right:0.5rem">{{.CTA.ButtonText}}</a>
+        <a href="{{.CTA.SecondaryURL}}" style="display:inline-block;border:1px solid var(--color-primary);color:var(--color-primary);font-weight:600;font-size:0.9375rem;padding:0.6rem 1.25rem;border-radius:var(--radius);text-decoration:none">{{.CTA.SecondaryText}}</a>
+      </div>
+    </div>
+
+    <p class="affiliate-statement">As an Amazon Associate and Walmart affiliate, Claude Chef earns from qualifying purchases.</p>
+    <p class="created-by">Created by <a href="{{.Site.AuthorURL}}">{{.Site.Author}}</a></p>
+    <p class="footer-links">
+      <a href="/sitemap.xml">Sitemap</a> &middot;
+      <a href="/llms.txt">llms.txt</a> &middot;
+      <a href="/feed.xml">RSS Feed</a>
+    </p>
+  </main>
+
+  <script src="/main.js"></script>
+</body>
+</html>

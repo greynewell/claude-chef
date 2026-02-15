@@ -1,0 +1,238 @@
+site:
+  name: "Claude Chef"
+  base_url: "https://claudechef.com"
+  description: "Open-source recipe collection with AI-powered cooking assistance. Browse 29,000+ recipes with smart ingredient shopping, servings scaling, and step-by-step guidance."
+  language: "en"
+  version: "0.3.0"
+  author: "Grey Newell"
+  author_url: "https://greynewell.com"
+  license: "CC0-1.0"
+  repo_url: "https://github.com/greynewell/claude-chef"
+  cname: "claudechef.com"
+
+paths:
+  data: "./recipes"
+  templates: "./templates"
+  output: "./docs"
+  cache: "./recipes/.cache"
+  static: "./static"
+
+data:
+  format: "markdown"
+  entity_type: "recipe"
+  entity_slug:
+    source: "filename"
+  body_sections:
+    - name: "ingredients"
+      header: "Ingredients"
+      type: "unordered_list"
+    - name: "instructions"
+      header: "Instructions"
+      type: "ordered_list"
+    - name: "notes"
+      header: "Notes"
+      type: "markdown"
+
+taxonomies:
+  - name: "category"
+    label: "Categories"
+    label_singular: "Category"
+    field: "recipe_category"
+    multi_value: false
+    min_entities: 1
+    hub_title: "{{.Name}} Recipes"
+    hub_meta_description: "Browse {{.Name | lower}} recipes from Claude Chef."
+    letter_page_threshold: 200
+
+  - name: "cuisine"
+    label: "Cuisines"
+    label_singular: "Cuisine"
+    field: "cuisine"
+    multi_value: false
+    min_entities: 1
+    hub_title: "{{.Name}} Recipes"
+    hub_meta_description: "Explore {{.Name | lower}} recipes from Claude Chef."
+    letter_page_threshold: 200
+
+  - name: "ingredient"
+    label: "Ingredients"
+    label_singular: "Ingredient"
+    field: "recipe_ingredients"
+    multi_value: true
+    min_entities: 1
+    hub_title: "Recipes with {{.Name}}"
+    hub_meta_description: "Find recipes with {{.Name | lower}} from Claude Chef."
+    letter_page_threshold: 200
+
+  - name: "flavor"
+    label: "Flavors"
+    label_singular: "Flavor"
+    field: "flavors"
+    multi_value: true
+    min_entities: 1
+    hub_title: "{{.Name}} Recipes"
+    hub_meta_description: "Find {{.Name | lower}} recipes from Claude Chef."
+    letter_page_threshold: 200
+
+  - name: "tool"
+    label: "Tools"
+    label_singular: "Tool"
+    field: "tools"
+    multi_value: true
+    min_entities: 1
+    hub_title: "Recipes Using a {{.Name}}"
+    hub_meta_description: "Find recipes using a {{.Name | lower}} from Claude Chef."
+    letter_page_threshold: 200
+
+  - name: "skill_level"
+    label: "Skill Levels"
+    label_singular: "Skill Level"
+    field: "skill_level"
+    multi_value: false
+    min_entities: 1
+    hub_title: "{{.Name}} Recipes"
+    hub_meta_description: "Browse {{.Name | lower}} recipes from Claude Chef."
+
+  - name: "author"
+    label: "Contributors"
+    label_singular: "Contributor"
+    field: "author"
+    multi_value: false
+    min_entities: 1
+    hub_title: "Recipes by {{.Name}}"
+    hub_meta_description: "Browse recipes contributed by {{.Name}} on Claude Chef."
+    template: "contributor.html"
+    letter_page_threshold: 200
+
+  - name: "sauce"
+    label: "Sauces"
+    label_singular: "Sauce"
+    field: "sauces"
+    multi_value: true
+    min_entities: 1
+    hub_title: "{{.Name}} Recipes"
+    hub_meta_description: "Find {{.Name | lower}} recipes from Claude Chef."
+    letter_page_threshold: 200
+
+  - name: "allergy"
+    label: "Allergens"
+    label_singular: "Allergen"
+    field: "allergies"
+    multi_value: true
+    min_entities: 1
+    hub_title: "Recipes Containing {{.Name}}"
+    hub_meta_description: "Browse recipes that contain {{.Name | lower}} on Claude Chef."
+    letter_page_threshold: 200
+
+pagination:
+  entities_per_page: 48
+
+structured_data:
+  entity_type: "Recipe"
+  field_mappings:
+    name: "title"
+    description: "description"
+    author: "author"
+    prepTime: "prep_time"
+    cookTime: "cook_time"
+    recipeCategory: "recipe_category"
+    recipeCuisine: "cuisine"
+    keywords: "keywords"
+  extra_keywords:
+    - "recipe"
+    - "cooking"
+    - "Claude Chef"
+  homepage_schemas:
+    - "WebSite"
+    - "ItemList"
+  entity_schemas:
+    - "Recipe"
+    - "BreadcrumbList"
+  hub_schemas:
+    - "CollectionPage"
+    - "BreadcrumbList"
+    - "ItemList"
+  index_schemas:
+    - "CollectionPage"
+
+sitemap:
+  max_urls_per_file: 50000
+  priorities:
+    homepage: "1.0"
+    entity: "0.8"
+    taxonomy_index: "0.6"
+    hub_page_1: "0.7"
+    hub_page_n: "0.5"
+    letter_page: "0.4"
+  change_freqs:
+    homepage: "daily"
+    entity: "weekly"
+    taxonomy_index: "monthly"
+    hub_page_1: "weekly"
+    hub_page_n: "monthly"
+    letter_page: "monthly"
+
+rss:
+  enabled: true
+  main_feed: "feed.xml"
+  category_feeds: true
+  category_taxonomy: "category"
+
+robots:
+  allow_all: true
+  extra_bots:
+    - "GPTBot"
+    - "ClaudeBot"
+    - "PerplexityBot"
+
+llms_txt:
+  enabled: true
+  tagline: "Open-source recipe collection with AI-powered cooking assistance."
+  taxonomies:
+    - "category"
+    - "cuisine"
+
+templates:
+  entity: "recipe.html"
+  homepage: "index.html"
+  hub: "hub.html"
+  taxonomy_index: "taxonomy_index.html"
+  all_entities: "all_recipes.html"
+  static_pages:
+    about.html: about.html
+    contribute.html: contribute.html
+    favorites.html: favorites.html
+    install.html: install.html
+
+output:
+  clean_build: false
+  extract_css: "styles.css"
+  extract_js: "main.js"
+
+affiliates:
+  providers:
+    - name: "Amazon"
+      url_template: "https://www.amazon.com/s?k={{term}}&tag={{tag}}"
+      env_var: "AMAZON_AFFILIATE_TAG"
+      always_include: true
+    - name: "Walmart"
+      url_template: "https://www.walmart.com/search?q={{term}}&affiliates_ad_id={{tag}}"
+      env_var: "WALMART_AFFILIATE_ID"
+      always_include: true
+  search_term_paths:
+    - "ingredients[].searchTerm"
+    - "gear[].searchTerm"
+
+extra:
+  favorites: "favorites.json"
+  contributors: "contributors.json"
+  cta:
+    heading: "Your AI Sous Chef"
+    description: "Claude Chef combines 29,000+ community recipes with AI-powered cooking assistance."
+    button_text: "Add a Recipe"
+    button_url: "/contribute.html"
+    secondary_text: "Browse All Recipes"
+    secondary_url: "/all/index.html"
+
+search:
+  enabled: false

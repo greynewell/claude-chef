@@ -5,8 +5,11 @@ on:
     branches: [main]
     paths:
       - 'recipes/**'
-      - 'src/**'
+      - 'templates/**'
+      - 'static/**'
+      - 'schemaflux.yaml'
       - 'contributors.json'
+      - 'favorites.json'
       - '.github/workflows/deploy-site.yml'
   workflow_dispatch:
 
@@ -25,23 +28,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-go@v5
         with:
-          node-version: 20
-          cache: npm
+          go-version: '1.25'
 
-      - run: npm ci
-      - run: npm test
-      - run: npm run build
-      - run: npm run generate
+      - name: Install schemaflux
+        run: go install github.com/greynewell/schemaflux/cmd/schemaflux@latest
+
+      - name: Add Go bin to PATH
+        run: echo "$(go env GOPATH)/bin" >> $GITHUB_PATH
+
+      - name: Build site
+        run: schemaflux build
         env:
           AMAZON_AFFILIATE_TAG: ${{ secrets.AMAZON_AFFILIATE_TAG }}
           WALMART_AFFILIATE_ID: ${{ secrets.WALMART_AFFILIATE_ID }}
-          GISCUS_REPO: ${{ secrets.GISCUS_REPO }}
-          GISCUS_REPO_ID: ${{ secrets.GISCUS_REPO_ID }}
-          GISCUS_CATEGORY: ${{ secrets.GISCUS_CATEGORY }}
-          GISCUS_CATEGORY_ID: ${{ secrets.GISCUS_CATEGORY_ID }}
-          MAILCHIMP_URL: ${{ secrets.MAILCHIMP_URL }}
 
       - uses: actions/upload-pages-artifact@v3
         with:
